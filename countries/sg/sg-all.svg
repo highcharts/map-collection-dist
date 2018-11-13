@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Singapore</title>
+<g id="admin1">
+
+<g id="SG">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Singapore</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Sing.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>SGP</iso-a3>
+    <iso-a2>SG</iso-a2>
+    <woe-id>23424948</woe-id>
+    <continent>Asia</continent>
+    <hc-key>sg</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SG.3595" d="M496.9,274.7 L476.9,282.4 L409.4,328.3 L398.3,338.6 L384.9,335.0 L362.4,326.4 L345.0,316.4 L326.2,296.6 L321.2,278.0 L322.5,261.9 L320.0,237.1 L336.2,224.7 L353.7,207.3 L353.7,187.5 L345.0,173.8 L354.9,159.0 L374.9,147.8 L389.9,135.4 L387.4,120.5 L379.9,105.6 L367.4,92.0 L372.4,75.9 L387.4,61.0 L404.9,59.8 L428.6,61.0 L451.0,58.5 L464.8,42.3 L518.8,69.0 L509.7,80.8 L502.2,99.4 L498.5,119.3 L482.3,125.5 L469.8,131.7 L456.0,145.3 L448.6,163.9 L448.6,182.5 L452.3,202.4 L463.5,221.0 L477.3,242.0 L491.0,264.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SG.CS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24703044</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Central Singapore</name>
+    <country>Singapore</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>103.846</longitude>
+    <woe-name>Central Singapore</woe-name>
+    <latitude>1.31704</latitude>
+    <woe-label>Central Singapore, SG, Singapore</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>sg-3595</hc-key>
+    <hc-a2>CS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SG.6400" d="M320.0,237.1 L322.5,261.9 L321.2,278.0 L326.2,296.6 L345.0,316.4 L362.4,326.4 L384.9,335.0 L398.3,338.6 L392.8,345.1 L382.7,349.4 L357.9,353.1 L310.9,352.2 L287.6,346.3 L277.7,334.8 L261.3,308.5 L221.3,290.3 L173.1,279.1 L131.8,274.7 L48.0,276.9 L14.0,268.6 L0.0,242.1 L8.3,211.9 L65.9,130.9 L74.2,94.6 L83.8,74.2 L105.5,52.3 L131.0,36.9 L149.6,33.8 L191.6,39.3 L234.9,33.8 L232.6,52.3 L228.9,73.4 L227.7,89.5 L227.6,111.8 L237.6,125.5 L251.4,139.1 L265.1,150.3 L283.8,165.2 L285.1,177.6 L277.6,186.2 L270.1,193.7 L273.8,202.4 L288.8,207.3 L303.8,219.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SG.SW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24703043</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>South West</name>
+    <country>Singapore</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>103.705</longitude>
+    <woe-name>South West</woe-name>
+    <latitude>1.33718</latitude>
+    <woe-label>South West, SG, Singapore</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>sg-6400</hc-key>
+    <hc-a2>SW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SG.6401" d="M320.0,237.1 L303.8,219.7 L288.8,207.3 L273.8,202.4 L270.1,193.7 L277.6,186.2 L285.1,177.6 L283.8,165.2 L265.1,150.3 L251.4,139.1 L237.6,125.5 L227.6,111.8 L227.7,89.5 L228.9,73.4 L232.6,52.3 L234.9,33.8 L288.6,8.3 L317.3,0.0 L368.6,3.0 L418.0,19.0 L464.8,42.3 L451.0,58.5 L428.6,61.0 L404.9,59.8 L387.4,61.0 L372.4,75.9 L367.4,92.0 L379.9,105.6 L387.4,120.5 L389.9,135.4 L374.9,147.8 L354.9,159.0 L345.0,173.8 L353.7,187.5 L353.7,207.3 L336.2,224.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SG.NW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24703045</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>North West</name>
+    <country>Singapore</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>103.808</longitude>
+    <woe-name>North West</woe-name>
+    <latitude>1.41809</latitude>
+    <woe-label>North West, SG, Singapore</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>sg-6401</hc-key>
+    <hc-a2>NW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SG.6402" d="M498.5,119.3 L502.2,99.4 L509.7,80.8 L518.8,69.0 L563.2,91.0 L617.8,110.2 L627.5,112.4 L620.8,125.5 L605.8,137.9 L588.3,145.3 L588.3,160.2 L582.1,181.3 L568.4,181.3 L558.4,172.6 L533.4,161.4 L512.2,154.0 L496.0,141.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SG.NE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24703042</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>North East</name>
+    <country>Singapore</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>103.925</longitude>
+    <woe-name>North East</woe-name>
+    <latitude>1.38379</latitude>
+    <woe-label>North East, SG, Singapore</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>sg-6402</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SG.6403" d="M498.5,119.3 L496.0,141.6 L512.2,154.0 L533.4,161.4 L558.4,172.6 L568.4,181.3 L582.1,181.3 L588.3,160.2 L588.3,145.3 L605.8,137.9 L620.8,125.5 L627.5,112.4 L665.8,121.1 L692.5,130.9 L700.0,142.6 L677.7,179.5 L644.9,218.7 L605.4,250.1 L562.1,262.8 L514.5,268.0 L496.9,274.7 L491.0,264.4 L477.3,242.0 L463.5,221.0 L452.3,202.4 L448.6,182.5 L448.6,163.9 L456.0,145.3 L469.8,131.7 L482.3,125.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SG.SE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24703041</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>South East</name>
+    <country>Singapore</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>103.932</longitude>
+    <woe-name>South East</woe-name>
+    <latitude>1.33524</latitude>
+    <woe-label>South East, SG, Singapore</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>sg-6403</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

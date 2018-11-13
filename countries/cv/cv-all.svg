@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Cape Verde</title>
+<g id="admin1">
+
+<g id="CV">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cape Verde</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>C.Vd.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>CPV</iso-a3>
+    <iso-a2>CV</iso-a2>
+    <woe-id>23424794</woe-id>
+    <continent>Africa</continent>
+    <hc-key>cv</hc-key>
+    <hc-a2>CV</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.BR" d="M173.6,634.8 L172.6,639.0 L170.4,641.0 L168.0,642.4 L166.4,645.1 L164.5,645.1 L162.5,642.4 L157.5,639.0 L155.7,635.7 L153.8,637.5 L154.9,635.1 L155.3,632.8 L154.9,630.5 L153.8,628.2 L157.4,628.2 L156.3,623.1 L159.4,621.4 L164.2,620.7 L168.1,619.0 L171.1,621.8 L172.7,625.7 L173.4,630.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.BR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345122</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV02</fips>
+    <postal-code>BR</postal-code>
+    <name>Brava</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-24.7204</longitude>
+    <woe-name>Brava</woe-name>
+    <latitude>14.851</latitude>
+    <woe-label>Brava, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>cv-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.MA" d="M568.1,506.2 L571.8,508.0 L577.7,506.5 L580.7,508.2 L582.3,511.5 L582.7,515.8 L582.4,523.0 L585.4,538.4 L585.0,545.8 L580.9,552.6 L579.6,553.1 L575.5,553.7 L573.8,554.3 L572.8,555.6 L571.6,558.8 L570.2,559.9 L566.6,560.2 L563.1,559.3 L557.6,556.2 L551.4,551.8 L548.4,548.7 L546.8,545.2 L547.6,541.9 L549.6,538.6 L550.6,535.3 L548.5,532.2 L552.2,530.0 L553.9,526.5 L552.8,523.6 L548.5,523.2 L549.9,519.2 L555.6,515.0 L559.3,508.2 L558.1,507.7 L557.4,506.2 L561.0,504.7 L564.5,502.5 L564.5,506.2 L567.3,503.8 L568.0,502.5 L570.0,504.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345124</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV04</fips>
+    <postal-code>MA</postal-code>
+    <name>Maio</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.1806</longitude>
+    <woe-name>Maio</woe-name>
+    <latitude>15.2115</latitude>
+    <woe-label>Maio, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>cv-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6566" d="M651.4,266.7 L657.4,267.4 L660.0,264.9 L662.0,260.8 L666.6,260.0 L682.1,263.8 L684.9,264.9 L687.5,266.7 L688.6,268.6 L690.2,273.8 L691.3,274.8 L695.7,276.7 L696.7,281.2 L695.9,291.5 L696.9,292.0 L698.9,294.5 L700.0,297.4 L697.7,300.0 L697.3,302.5 L696.6,305.1 L692.3,307.9 L678.1,319.4 L668.6,324.5 L663.8,326.1 L648.8,327.1 L646.2,326.7 L643.6,325.5 L639.9,322.3 L636.9,321.4 L627.4,317.2 L624.2,314.2 L622.6,308.5 L622.8,303.3 L624.2,298.5 L626.8,295.0 L630.7,293.5 L635.6,288.6 L632.7,265.1 L634.9,256.7 L636.0,258.7 L637.1,260.1 L640.3,262.4 L644.8,264.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.BV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345121</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Boa Vista</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Barlavento</region>
+    <longitude>-22.807</longitude>
+    <woe-name>Boa Vista</woe-name>
+    <latitude>16.1024</latitude>
+    <woe-label>Boa Vista, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>cv-6566</hc-key>
+    <hc-a2>BV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6567" d="M639.0,131.1 L642.4,134.2 L643.2,135.8 L642.9,138.8 L641.9,144.1 L641.6,146.9 L641.1,148.4 L638.7,150.1 L638.0,151.5 L638.1,152.9 L639.3,156.6 L639.7,157.0 L638.0,159.2 L636.2,160.2 L633.9,161.0 L630.9,162.6 L627.6,142.1 L623.7,134.1 L618.2,136.9 L617.1,133.0 L616.7,127.7 L617.5,122.9 L619.9,120.2 L619.9,118.3 L616.8,117.4 L615.1,114.8 L614.5,111.2 L614.6,102.8 L620.0,98.5 L632.3,90.7 L633.7,92.6 L638.4,97.0 L639.4,99.0 L639.1,100.1 L637.5,103.3 L635.7,106.0 L637.7,108.2 L637.1,124.2 L637.8,129.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.SL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345127</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV08</fips>
+    <postal-code>NULL</postal-code>
+    <name>Sal</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Barlavento</region>
+    <longitude>-22.9363</longitude>
+    <woe-name>Sal</woe-name>
+    <latitude>16.7251</latitude>
+    <woe-label>Sal, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>cv-6567</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6570" d="M204.7,155.9 L203.2,159.8 L199.4,159.4 L196.4,158.7 L195.7,155.5 L198.7,154.8 Z M164.3,118.8 L169.1,120.0 L172.1,118.0 L175.1,119.2 L174.8,122.7 L170.2,124.7 L165.0,125.0 L160.5,125.0 L158.2,122.7 L156.7,119.5 L151.9,117.6 L148.1,114.0 L148.1,110.1 L151.9,106.7 L158.3,109.0 L161.6,112.9 Z M112.0,75.4 L114.3,77.9 L115.4,80.4 L113.2,82.6 L115.4,85.2 L119.1,87.7 L122.8,88.9 L124.0,90.4 L125.3,93.7 L126.0,97.5 L125.6,100.1 L121.4,103.4 L115.0,105.6 L107.9,107.0 L101.4,107.4 L99.7,107.9 L97.2,110.4 L96.2,111.0 L94.3,110.8 L78.0,104.3 L75.4,102.9 L73.4,100.9 L72.1,98.2 L68.7,99.8 L69.9,94.1 L72.9,89.4 L76.7,86.2 L80.2,85.0 L88.3,84.9 L91.7,83.4 L90.1,79.7 L97.4,75.8 L98.9,73.9 L100.7,73.9 L102.3,77.7 L104.9,77.2 L109.4,73.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.SV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345130</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV11</fips>
+    <postal-code>NULL</postal-code>
+    <name>São Vicente</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Barlavento</region>
+    <longitude>-24.972</longitude>
+    <woe-name>São Vicente</woe-name>
+    <latitude>16.8449</latitude>
+    <woe-label>São Vicente, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.21</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>cv-6570</hc-key>
+    <hc-a2>SV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.SF" d="M274.5,620.7 L275.8,623.7 L275.9,626.8 L274.2,629.5 L265.0,637.8 L254.0,642.1 L243.9,640.8 L235.0,636.1 L219.9,623.4 L216.3,618.3 L214.8,612.7 L216.3,607.2 L219.9,600.7 L224.6,595.0 L231.0,590.4 L240.2,585.7 L246.1,595.0 L254.7,607.4 L252.2,617.3 L254.7,623.3 L260.2,627.7 L268.6,626.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.SF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051564</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV18</fips>
+    <postal-code>SF</postal-code>
+    <name>São Filipe</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-24.4403</longitude>
+    <woe-name>São Filipe</woe-name>
+    <latitude>14.9241</latitude>
+    <woe-label>São Filipe, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>cv-sf</hc-key>
+    <hc-a2>SF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.MO" d="M254.7,607.4 L246.1,595.0 L240.2,585.7 L247.0,582.3 L251.7,580.8 L257.1,580.3 L262.8,581.6 L266.5,584.8 L268.8,589.0 L272.2,598.1 L273.7,604.7 L264.2,605.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.MO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051566</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV13</fips>
+    <postal-code>MO</postal-code>
+    <name>Mosteiros</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-24.3541</longitude>
+    <woe-name>Mosteiros</woe-name>
+    <latitude>15.0008</latitude>
+    <woe-label>Mosteiros, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>cv-mo</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.CF" d="M254.7,607.4 L264.2,605.2 L273.7,604.7 L275.2,611.3 L275.0,614.8 L273.7,617.7 L274.5,620.7 L268.6,626.8 L260.2,627.7 L254.7,623.3 L252.2,617.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.CF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051565</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV24</fips>
+    <postal-code>CF</postal-code>
+    <name>Santa Catarina do Fogo</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-24.3301</longitude>
+    <woe-name>Santa Catarina do Fogo</woe-name>
+    <latitude>14.9241</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>cv-cf</hc-key>
+    <hc-a2>CF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.TA" d="M412.8,543.0 L413.7,540.4 L413.9,537.2 L414.5,534.3 L417.1,531.1 L417.7,529.7 L416.8,525.1 L414.6,519.9 L411.7,515.6 L408.7,514.0 L410.4,513.3 L415.8,510.4 L412.0,508.9 L410.3,508.6 L417.6,502.9 L419.6,502.9 L419.7,505.0 L421.2,508.6 L426.1,505.6 L430.3,508.1 L431.7,512.7 L428.3,515.9 L431.8,520.9 L435.9,523.9 L444.6,528.6 L442.6,530.6 L438.9,536.9 L434.9,542.9 L424.7,544.1 L416.9,543.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.TA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345131</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV20</fips>
+    <postal-code>TA</postal-code>
+    <name>Tarrafal</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.717</longitude>
+    <woe-name>Tarrafal</woe-name>
+    <latitude>15.2355</latitude>
+    <woe-label>Tarrafal, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>cv-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.CA" d="M427.3,601.1 L423.2,596.4 L423.2,587.6 L420.2,585.5 L416.0,584.1 L412.3,582.3 L412.2,581.3 L410.4,575.2 L407.6,571.6 L407.0,569.5 L407.7,567.3 L411.4,560.7 L412.3,558.3 L412.1,554.7 L408.7,545.6 L411.2,544.8 L412.8,543.0 L416.9,543.2 L424.7,544.1 L434.9,542.9 L434.6,547.6 L439.5,552.4 L444.2,555.7 L444.7,559.8 L446.8,560.4 L450.4,557.1 L452.0,559.2 L452.6,564.0 L446.4,569.0 L444.8,570.5 L445.8,575.5 L447.7,579.3 L449.7,581.9 L447.1,584.9 L446.5,588.8 L444.5,590.0 L439.0,590.6 L436.7,594.2 L431.8,596.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.CA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345128</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV15</fips>
+    <postal-code>CA</postal-code>
+    <name>Santa Catarina</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.7027</longitude>
+    <woe-name>Santa Catarina</woe-name>
+    <latitude>15.0918</latitude>
+    <woe-label>Santa Catarina, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>cv-ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.SM" d="M450.4,557.1 L446.8,560.4 L444.7,559.8 L444.2,555.7 L439.5,552.4 L434.6,547.6 L434.9,542.9 L438.9,536.9 L442.6,530.6 L447.2,531.6 L449.4,533.5 L453.4,540.0 L459.5,546.6 L452.0,555.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.SM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051558</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV19</fips>
+    <postal-code>SM</postal-code>
+    <name>São Miguel</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.6356</longitude>
+    <woe-name>São Miguel</woe-name>
+    <latitude>15.178</latitude>
+    <woe-label>São Miguel, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>cv-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.CR" d="M452.6,564.0 L452.0,559.2 L450.4,557.1 L452.0,555.7 L459.5,546.6 L461.5,548.7 L465.9,551.5 L469.8,551.0 L471.7,553.9 L473.2,554.7 L472.9,555.0 L476.4,558.1 L477.5,558.3 L479.8,558.0 L480.7,559.0 L480.6,562.0 L487.6,575.2 L485.9,578.6 L482.5,580.1 L479.8,578.3 L476.7,576.5 L470.6,571.2 L466.8,572.4 L462.6,570.5 L463.0,568.8 L462.4,566.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.CR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051561</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV16</fips>
+    <postal-code>CR</postal-code>
+    <name>Santa Cruz</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.5494</longitude>
+    <woe-name>Santa Cruz</woe-name>
+    <latitude>15.1157</latitude>
+    <woe-label>Santa Cruz, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>cv-cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.SS" d="M449.7,581.9 L447.7,579.3 L445.8,575.5 L444.8,570.5 L446.4,569.0 L452.6,564.0 L462.4,566.1 L463.0,568.8 L462.6,570.5 L461.3,577.4 L456.1,581.3 L454.3,581.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.SS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051557</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV26</fips>
+    <postal-code>SS</postal-code>
+    <name>São Salvador do Mundo</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.6164</longitude>
+    <woe-name>São Salvador do Mundo</woe-name>
+    <latitude>15.0678</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>cv-ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.SO" d="M454.3,581.5 L456.1,581.3 L461.3,577.4 L462.6,570.5 L466.8,572.4 L470.6,571.2 L476.7,576.5 L472.3,578.0 L467.4,582.2 L463.6,586.4 L458.4,589.4 L454.4,585.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.SO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051560</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV25</fips>
+    <postal-code>SO</postal-code>
+    <name>São Lourenço dos Órgãos</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.5781</longitude>
+    <woe-name>São Lourenço dos Órgãos</woe-name>
+    <latitude>15.0439</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>cv-so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.SD" d="M458.4,589.4 L463.6,586.4 L467.4,582.2 L472.3,578.0 L476.7,576.5 L479.8,578.3 L482.5,580.1 L485.9,578.6 L487.6,575.2 L491.3,582.2 L493.9,584.1 L495.5,587.3 L497.1,589.1 L498.5,589.5 L497.3,593.6 L495.5,596.2 L491.1,599.5 L486.0,596.2 L480.8,597.1 L474.1,601.6 L466.9,603.1 L462.5,601.0 L461.6,593.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.SD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051562</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV17</fips>
+    <postal-code>SD</postal-code>
+    <name>São Domingos</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.5254</longitude>
+    <woe-name>São Domingos</woe-name>
+    <latitude>15.0152</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>cv-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.RS" d="M458.4,589.4 L461.6,593.8 L462.5,601.0 L466.9,603.1 L467.8,608.2 L471.2,612.5 L473.4,617.4 L471.3,617.1 L469.0,616.0 L467.1,615.7 L458.4,615.5 L451.1,614.6 L437.4,609.9 L427.3,601.1 L431.8,596.3 L436.7,594.2 L439.0,590.6 L444.5,590.0 L446.5,588.8 L447.1,584.9 L449.7,581.9 L454.3,581.5 L454.4,585.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.RS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051563</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV23</fips>
+    <postal-code>RS</postal-code>
+    <name>Ribeira Grande de Santiago</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.6404</longitude>
+    <woe-name>Ribeira Grande</woe-name>
+    <latitude>14.9768</latitude>
+    <woe-label>Ribeira Grande, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>cv-rs</hc-key>
+    <hc-a2>RS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.PR" d="M491.1,599.5 L489.4,600.8 L491.4,602.6 L488.8,606.8 L487.2,611.1 L485.2,614.3 L481.5,615.7 L479.4,615.9 L475.3,617.1 L473.4,617.4 L471.2,612.5 L467.8,608.2 L466.9,603.1 L474.1,601.6 L480.8,597.1 L486.0,596.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.PR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345125</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV14</fips>
+    <postal-code>PR</postal-code>
+    <name>Praia</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Sotavento</region>
+    <longitude>-23.5159</longitude>
+    <woe-name>Praia</woe-name>
+    <latitude>14.9529</latitude>
+    <woe-label>Praia, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.76</hc-middle-y>
+    <hc-key>cv-pr</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6568" d="M255.1,140.7 L258.8,139.5 L260.7,139.7 L264.2,141.1 L267.3,143.2 L273.4,148.6 L276.6,150.2 L279.3,150.3 L293.8,148.1 L296.3,148.6 L305.8,153.2 L307.9,153.7 L329.3,155.5 L335.1,157.8 L340.2,161.8 L343.0,163.4 L344.1,162.4 L344.1,171.7 L341.2,172.3 L322.9,172.5 L302.8,163.5 L292.1,160.9 L281.9,164.9 L278.3,169.4 L270.7,182.9 L268.3,193.1 L267.9,185.0 L269.5,173.6 L271.0,166.5 L269.5,158.0 L264.8,154.0 L257.4,153.5 L254.9,150.0 L257.5,146.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.RB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051567</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV22</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ribeira Brava</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Barlavento</region>
+    <longitude>-24.287</longitude>
+    <woe-name>Ribeira Brava</woe-name>
+    <latitude>16.6197</latitude>
+    <woe-label>Ribeira Brava, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>cv-6568</hc-key>
+    <hc-a2>RB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6569" d="M268.3,193.1 L266.0,189.8 L262.4,179.8 L260.8,177.5 L259.1,175.7 L257.7,173.4 L257.1,169.8 L256.9,167.0 L256.3,164.9 L255.0,163.7 L252.6,163.2 L246.6,161.4 L242.3,156.8 L240.8,150.8 L242.9,144.6 L255.1,140.7 L257.5,146.4 L254.9,150.0 L257.4,153.5 L264.8,154.0 L269.5,158.0 L271.0,166.5 L269.5,173.6 L267.9,185.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.TS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345129</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV27</fips>
+    <postal-code>NULL</postal-code>
+    <name>Tarrafal de São Nicolau</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Barlavento</region>
+    <longitude>-24.3493</longitude>
+    <woe-name>Tarrafal de São Nicolau</woe-name>
+    <latitude>16.6006</latitude>
+    <woe-label>Tarrafal de São Nicolau, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.17</hc-middle-x>
+    <hc-middle-y>0.25</hc-middle-y>
+    <hc-key>cv-6569</hc-key>
+    <hc-a2>TD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6571" d="M96.9,31.9 L89.5,39.9 L88.3,39.9 L87.2,40.9 L82.3,42.7 L81.2,43.6 L79.0,46.4 L63.3,53.7 L56.1,61.0 L51.0,67.6 L44.5,72.2 L33.3,73.6 L23.4,73.5 L20.4,74.1 L18.1,75.0 L15.8,75.0 L12.7,72.6 L12.0,69.3 L12.0,51.3 L8.5,45.0 L7.6,44.3 L3.1,43.4 L1.4,42.2 L0.0,37.7 L1.3,33.9 L7.7,26.5 L11.4,24.1 L15.2,23.6 L18.6,23.9 L21.0,23.8 L23.6,21.9 L30.0,15.9 L44.0,23.9 L52.4,29.8 L64.3,25.0 L74.6,22.4 L86.2,24.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.PN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56051556</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV21</fips>
+    <postal-code>NULL</postal-code>
+    <name>Porto Novo</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Barlavento</region>
+    <longitude>-25.2258</longitude>
+    <woe-name>Porto Novo</woe-name>
+    <latitude>17.0173</latitude>
+    <woe-label>Porto Novo, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>cv-6571</hc-key>
+    <hc-a2>PN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6572" d="M74.6,22.4 L64.3,25.0 L52.4,29.8 L44.0,23.9 L30.0,15.9 L34.9,13.8 L41.0,10.1 L47.1,8.6 L62.9,1.0 L67.0,0.0 L70.0,1.0 L73.0,3.1 L79.6,2.9 L83.4,3.9 L85.8,5.8 L86.8,7.9 L86.8,14.0 L83.6,15.8 L79.5,18.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.RG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345126</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV07</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ribeira Grande</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Barlavento</region>
+    <longitude>-25.1204</longitude>
+    <woe-name>Ribeira Grande</woe-name>
+    <latitude>17.1418</latitude>
+    <woe-label>Ribeira Grande, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>cv-6572</hc-key>
+    <hc-a2>RG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6573" d="M74.6,22.4 L79.5,18.7 L83.6,15.8 L86.8,14.0 L88.2,15.3 L94.3,17.0 L95.7,17.8 L96.5,19.3 L100.0,22.3 L100.9,24.2 L100.5,27.1 L98.9,29.7 L96.9,31.9 L86.2,24.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CV.PA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069964</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CV05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Paul</name>
+    <country>Cape Verde</country>
+    <type-en>NULL</type-en>
+    <region>Ilhas de Barlavento</region>
+    <longitude>-25.0151</longitude>
+    <woe-name>Paul</woe-name>
+    <latitude>17.1179</latitude>
+    <woe-label>Paul, CV, Cape Verde</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.75</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>cv-6573</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

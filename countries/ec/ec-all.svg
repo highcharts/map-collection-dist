@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="880pt" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Ecuador</title>
+<g id="admin1">
+
+<g id="EC">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ecuador</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Ecu.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>ECU</iso-a3>
+    <iso-a2>EC</iso-a2>
+    <woe-id>23424801</woe-id>
+    <continent>South America</continent>
+    <hc-key>ec</hc-key>
+    <hc-a2>EC</hc-a2>
+  </desc>
+</g>
+
+<path d="M278.0,481.2 L276.2,483.7 L272.3,483.3 L268.3,485.1 L261.5,483.4 L261.9,464.1 L267.6,451.5 L284.0,444.8 L289.0,445.0 L296.5,449.6 L301.2,450.8 L298.5,454.8 L293.0,457.1 L288.0,464.4 L283.5,473.2 L280.2,475.5 Z M308.8,441.9 L304.0,443.4 L303.5,440.9 L307.3,430.9 L310.3,425.6 L311.4,428.4 L315.4,431.7 L313.1,435.2 L309.3,437.2 Z M301.9,486.4 L304.2,482.0 L303.1,480.1 L308.6,460.5 L312.2,453.3 L315.0,444.5 L319.5,439.3 L320.6,434.8 L318.1,425.5 L314.4,425.5 L312.2,423.1 L308.1,413.8 L307.3,399.5 L308.1,395.6 L305.0,389.0 L305.7,384.6 L310.5,381.6 L311.8,377.8 L316.2,373.4 L309.0,377.6 L308.7,380.5 L303.5,382.0 L301.5,389.8 L302.0,396.1 L305.3,401.8 L305.6,405.1 L303.8,426.3 L302.7,430.7 L298.9,435.2 L292.3,438.6 L285.8,436.9 L283.1,433.7 L287.8,429.9 L289.3,426.0 L293.3,424.7 L297.8,426.4 L293.0,422.5 L286.8,424.3 L286.7,420.4 L289.6,411.8 L293.0,410.6 L296.1,406.2 L292.4,408.4 L289.2,408.3 L287.0,410.5 L282.3,422.6 L274.8,432.9 L271.5,436.6 L264.2,441.1 L261.1,438.5 L260.1,443.3 L263.4,446.7 L263.8,451.1 L260.2,451.8 L255.6,450.0 L247.3,443.3 L239.5,439.9 L231.3,430.4 L239.2,422.9 L245.7,418.1 L255.1,415.8 L260.4,412.8 L265.3,405.4 L267.0,394.4 L267.3,384.8 L263.1,378.4 L259.1,374.7 L252.7,370.9 L244.1,368.8 L238.4,365.4 L235.3,360.3 L234.3,355.6 L242.0,355.4 L244.2,350.0 L248.2,344.3 L255.6,338.5 L257.9,340.0 L260.7,338.4 L265.0,338.7 L267.0,337.1 L265.7,331.1 L261.4,328.9 L259.7,325.9 L266.4,325.0 L270.6,320.9 L268.6,316.5 L270.4,310.3 L275.7,308.0 L277.1,300.6 L285.9,293.8 L291.4,278.3 L297.5,279.8 L301.1,278.4 L306.7,273.9 L312.7,265.8 L313.1,262.5 L321.0,251.4 L325.2,249.2 L332.2,248.1 L341.4,246.7 L343.4,249.2 L341.2,257.5 L341.7,260.0 L338.6,262.9 L337.0,268.7 L332.8,271.5 L328.7,276.3 L326.3,276.8 L324.9,280.3 L319.3,284.4 L318.2,289.9 L312.1,301.3 L307.3,307.7 L305.6,312.6 L304.8,320.7 L306.4,326.6 L306.4,333.9 L315.4,338.5 L322.7,349.9 L328.9,362.8 L335.1,362.7 L340.7,360.6 L345.0,360.7 L355.9,367.2 L360.4,371.1 L368.6,384.6 L374.1,389.7 L381.1,390.5 L383.5,388.8 L385.9,390.6 L385.6,395.1 L382.9,399.4 L374.2,403.6 L361.3,405.9 L353.3,412.1 L353.4,418.7 L343.6,426.7 L346.3,429.1 L352.0,426.9 L354.2,430.9 L353.4,433.2 L348.2,437.8 L324.3,462.5 L322.9,467.9 L323.8,476.8 L317.9,484.0 L316.7,488.5 L311.1,486.9 Z" fill="#CEE3F5" id="EC.GU" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.GU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345211</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC10</fips>
+    <postal-code>GU</postal-code>
+    <name>Guayas</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-79.8608</longitude>
+    <woe-name>Guayas</woe-name>
+    <latitude>-1.98384</latitude>
+    <woe-label>Guayas, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ec-gu</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</path>
+
+<path d="M410.9,17.7 L409.5,20.5 L406.9,19.3 L404.7,21.5 L400.8,18.0 L402.0,13.7 L410.7,6.5 L411.5,13.2 Z M360.2,150.7 L358.1,153.3 L350.8,155.9 L353.9,160.1 L352.6,161.2 L346.1,158.6 L334.9,157.3 L332.4,150.9 L337.9,143.1 L331.3,139.0 L329.5,140.0 L327.9,136.7 L323.2,134.8 L328.3,128.5 L328.0,126.7 L321.8,122.0 L323.8,118.7 L321.6,115.5 L319.0,115.2 L311.0,120.8 L302.5,121.3 L298.8,127.4 L294.9,126.9 L290.7,118.3 L291.4,114.7 L286.7,108.1 L285.9,101.4 L288.8,95.1 L286.7,87.9 L280.8,85.0 L278.9,80.3 L278.8,75.7 L282.4,67.2 L285.6,64.6 L289.1,65.8 L294.3,65.0 L296.5,63.0 L305.7,60.6 L313.3,55.7 L316.3,52.1 L325.4,48.9 L328.3,46.8 L328.9,48.9 L326.7,55.7 L330.5,60.2 L329.1,56.7 L329.9,50.3 L332.8,47.6 L337.5,49.0 L342.6,46.1 L350.1,39.3 L360.1,39.3 L370.2,37.1 L372.8,38.5 L383.8,35.3 L392.1,24.4 L396.4,24.5 L399.9,28.5 L400.9,34.2 L404.6,29.4 L404.9,24.7 L407.7,20.8 L411.7,20.6 L412.2,17.8 L415.8,15.5 L413.6,14.0 L414.2,9.8 L418.3,5.8 L418.7,0.0 L425.1,4.4 L430.6,10.1 L432.8,14.4 L436.6,18.2 L443.4,18.5 L446.9,25.9 L450.2,24.8 L457.0,26.8 L455.1,28.5 L455.3,36.2 L451.3,44.8 L450.8,51.1 L452.1,54.9 L461.0,61.1 L460.0,70.1 L453.4,72.6 L459.1,86.7 L462.9,92.1 L461.3,96.5 L453.9,97.4 L450.4,99.8 L440.8,111.6 L435.5,115.4 L430.6,112.0 L415.3,109.9 L410.6,113.8 L409.5,116.9 L406.0,119.9 L401.3,126.7 L398.8,126.7 L395.6,123.7 L384.1,121.3 L375.7,121.5 L362.1,129.8 L361.8,132.0 L366.4,135.6 Z" fill="#CEE3F5" id="EC.ES" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.ES</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345210</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC09</fips>
+    <postal-code>ES</postal-code>
+    <name>Esmeraldas</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.9448</longitude>
+    <woe-name>Esmeraldas</woe-name>
+    <latitude>1.29253</latitude>
+    <woe-label>Esmeraldas, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ec-es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path d="M457.0,26.8 L468.5,39.1 L473.2,42.1 L481.9,45.0 L496.2,55.7 L500.8,57.9 L508.6,58.2 L519.3,61.9 L519.9,65.3 L526.0,67.8 L530.4,67.4 L539.1,64.1 L541.8,64.1 L545.1,66.7 L545.8,74.5 L548.1,77.9 L555.3,82.8 L559.3,84.4 L562.5,84.0 L558.2,87.4 L545.9,86.0 L545.0,88.0 L547.5,91.3 L546.5,93.6 L541.5,97.5 L532.4,109.9 L532.6,114.1 L529.7,118.2 L525.2,114.5 L509.3,104.8 L501.3,103.2 L495.0,100.8 L493.2,97.3 L493.2,91.3 L490.9,85.0 L483.7,74.7 L477.7,68.7 L468.6,62.8 L461.0,61.1 L452.1,54.9 L450.8,51.1 L451.3,44.8 L455.3,36.2 L455.1,28.5 Z" fill="#CEE3F5" id="EC.CR" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.CR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345206</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC05</fips>
+    <postal-code>CR</postal-code>
+    <name>Carchi</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.0243</longitude>
+    <woe-name>Carchi</woe-name>
+    <latitude>0.686611</latitude>
+    <woe-label>Carchi, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>ec-cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path d="M461.0,61.1 L468.6,62.8 L477.7,68.7 L483.7,74.7 L490.9,85.0 L493.2,91.3 L493.2,97.3 L495.0,100.8 L501.3,103.2 L509.3,104.8 L525.2,114.5 L529.7,118.2 L526.2,122.6 L527.4,126.5 L523.2,131.7 L519.1,134.2 L515.3,138.3 L500.9,134.3 L490.2,140.5 L484.6,141.3 L479.5,139.4 L474.3,135.3 L469.4,137.7 L470.1,133.4 L468.9,130.1 L464.1,129.1 L438.0,132.4 L424.3,129.8 L414.8,130.8 L405.3,132.8 L400.7,130.9 L398.8,126.7 L401.3,126.7 L406.0,119.9 L409.5,116.9 L410.6,113.8 L415.3,109.9 L430.6,112.0 L435.5,115.4 L440.8,111.6 L450.4,99.8 L453.9,97.4 L461.3,96.5 L462.9,92.1 L459.1,86.7 L453.4,72.6 L460.0,70.1 Z" fill="#CEE3F5" id="EC.IM" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.IM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345212</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC11</fips>
+    <postal-code>IM</postal-code>
+    <name>Imbabura</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.41240000000001</longitude>
+    <woe-name>Imbabura</woe-name>
+    <latitude>0.55271</latitude>
+    <woe-label>Imbabura, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>ec-im</hc-key>
+    <hc-a2>IM</hc-a2>
+  </desc>
+</path>
+
+<path d="M515.3,138.3 L519.1,134.2 L523.2,131.7 L527.4,126.5 L526.2,122.6 L529.7,118.2 L532.6,114.1 L532.4,109.9 L541.5,97.5 L546.5,93.6 L547.5,91.3 L545.0,88.0 L545.9,86.0 L558.2,87.4 L562.5,84.0 L567.6,85.0 L569.0,90.3 L569.7,101.7 L572.3,111.4 L579.1,115.0 L590.8,117.4 L596.2,119.4 L606.0,116.9 L609.7,117.8 L613.9,122.5 L624.8,124.5 L630.1,129.1 L633.4,129.7 L641.0,128.6 L647.9,130.4 L649.0,125.6 L658.1,127.2 L664.4,131.6 L681.8,129.4 L683.7,128.1 L682.6,120.8 L682.8,112.0 L688.4,111.5 L694.3,105.8 L696.6,106.0 L703.9,111.5 L712.6,112.2 L715.3,117.5 L722.6,116.2 L724.1,119.1 L731.4,128.3 L732.5,131.8 L736.4,136.1 L751.5,146.6 L760.4,147.8 L767.2,146.5 L775.6,151.6 L780.8,156.2 L791.9,162.6 L798.1,163.7 L807.1,167.5 L800.4,172.0 L794.0,171.7 L788.2,173.4 L780.5,169.2 L768.2,167.9 L768.1,172.2 L770.2,175.5 L774.6,175.7 L785.0,182.8 L788.5,195.1 L790.5,199.7 L796.9,206.7 L799.4,206.8 L808.3,213.1 L809.9,217.1 L810.1,223.9 L808.9,225.9 L806.3,223.2 L803.5,223.7 L796.1,221.4 L794.5,217.8 L788.8,216.0 L782.1,216.0 L776.6,213.2 L775.1,209.8 L766.3,205.4 L760.1,205.7 L756.0,201.8 L746.9,203.4 L742.8,201.3 L737.3,200.8 L734.2,201.9 L733.8,204.7 L735.3,217.0 L729.0,216.1 L719.3,209.7 L717.1,203.9 L706.8,203.2 L698.3,204.0 L690.5,207.0 L683.4,211.3 L681.6,208.7 L675.4,208.4 L667.6,203.0 L665.3,199.9 L660.2,202.0 L657.6,198.4 L650.1,193.0 L640.9,180.3 L627.9,164.3 L621.9,163.4 L615.8,166.6 L610.8,166.9 L602.7,164.8 L598.5,165.9 L587.7,160.9 L586.0,162.2 L579.1,171.1 L569.9,169.4 L570.2,162.4 L567.9,158.3 L558.6,163.3 L554.3,166.7 L548.7,164.6 L537.8,164.3 L534.3,163.0 L532.9,157.3 L533.5,154.1 L527.7,152.3 L522.6,146.8 L512.6,142.8 Z" fill="#CEE3F5" id="EC.SU" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.SU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345222</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC22</fips>
+    <postal-code>SU</postal-code>
+    <name>Sucumbios</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-76.6135</longitude>
+    <woe-name>Sucumbios</woe-name>
+    <latitude>-0.085516</latitude>
+    <woe-label>Sucumbios, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>ec-su</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+
+<path d="M231.3,430.4 L227.9,426.3 L218.9,418.0 L212.2,415.3 L208.7,415.4 L200.9,412.6 L196.3,408.6 L190.8,407.4 L186.8,398.6 L181.2,393.9 L180.0,391.0 L187.0,393.1 L188.9,396.4 L195.6,394.9 L201.1,390.5 L205.4,388.4 L209.3,384.0 L210.1,377.6 L207.4,370.0 L210.6,367.8 L210.6,362.4 L207.6,350.9 L205.2,344.3 L201.3,337.8 L208.6,336.8 L216.5,337.2 L222.4,335.5 L227.6,335.9 L229.7,337.7 L231.7,343.3 L229.2,350.9 L230.3,354.2 L234.3,355.6 L235.3,360.3 L238.4,365.4 L244.1,368.8 L252.7,370.9 L259.1,374.7 L263.1,378.4 L267.3,384.8 L267.0,394.4 L265.3,405.4 L260.4,412.8 L255.1,415.8 L245.7,418.1 L239.2,422.9 Z" fill="#CEE3F5" id="EC.SE" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.SE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56189815</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC25</fips>
+    <postal-code>SE</postal-code>
+    <name>Santa Elena</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-80.57720000000001</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-2.15487</latitude>
+    <woe-label>Santa Elena</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>ec-se</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</path>
+
+<path d="M334.9,157.3 L346.1,158.6 L352.6,161.2 L353.9,160.1 L350.8,155.9 L358.1,153.3 L360.2,150.7 L366.2,155.1 L388.3,155.8 L389.0,164.7 L408.4,164.0 L411.9,167.5 L422.3,173.0 L427.8,179.2 L425.7,186.7 L411.9,188.1 L408.6,193.3 L404.6,195.6 L403.3,198.7 L399.2,201.9 L396.3,207.9 L400.4,211.2 L400.6,213.9 L397.3,215.6 L395.9,218.9 L392.2,218.3 L390.5,215.7 L385.6,216.1 L377.5,224.1 L366.8,231.3 L361.6,229.9 L360.6,227.0 L362.0,223.3 L360.9,218.5 L362.6,216.0 L359.1,215.0 L347.5,214.8 L350.6,209.3 L350.9,206.0 L355.5,197.4 L354.8,178.0 L353.5,174.9 L345.7,173.4 L340.1,167.3 L334.5,163.6 L333.6,160.2 Z" fill="#CEE3F5" id="EC.SD" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.SD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56189814</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC26</fips>
+    <postal-code>SD</postal-code>
+    <name>Santo Domingo de los Tsáchilas</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-79.2525</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-0.34834</latitude>
+    <woe-label>Santo Domingo de los Tsáchilas</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ec-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path d="M316.7,488.5 L317.9,484.0 L323.8,476.8 L322.9,467.9 L324.3,462.5 L348.2,437.8 L353.4,433.2 L354.2,430.9 L352.0,426.9 L355.7,427.1 L358.7,429.5 L360.6,433.7 L367.7,436.8 L370.6,441.4 L380.3,451.4 L383.0,452.8 L384.7,449.3 L391.9,443.6 L394.5,444.9 L400.7,452.0 L405.1,455.8 L407.4,461.7 L413.0,462.7 L419.4,462.5 L420.3,458.1 L423.0,454.2 L422.3,451.1 L425.3,447.6 L429.7,448.1 L435.5,444.0 L440.9,441.8 L442.3,437.9 L447.4,434.1 L449.0,434.2 L448.9,439.6 L450.7,440.8 L454.4,435.7 L458.1,435.1 L462.3,438.4 L461.3,443.2 L449.2,449.3 L443.7,457.7 L446.2,462.1 L446.0,465.8 L440.8,474.2 L437.2,482.6 L435.5,491.5 L430.0,496.7 L422.1,500.1 L406.4,512.9 L406.3,516.6 L394.6,524.9 L392.9,528.4 L394.5,533.1 L393.5,537.7 L394.1,541.5 L391.8,549.7 L388.4,550.6 L386.4,547.9 L386.1,542.0 L380.1,530.2 L371.6,531.6 L366.9,527.6 L366.8,521.9 L363.7,518.5 L355.4,518.7 L349.7,517.1 L342.7,515.4 L332.5,517.3 L328.7,517.2 L327.4,514.8 L330.6,513.1 L334.3,505.1 L334.1,499.0 L330.0,495.5 Z" fill="#CEE3F5" id="EC.AZ" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.AZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345203</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC02</fips>
+    <postal-code>AZ</postal-code>
+    <name>Azuay</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-79.09090000000001</longitude>
+    <woe-name>Azuay</woe-name>
+    <latitude>-3.15279</latitude>
+    <woe-label>Azuay, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ec-az</hc-key>
+    <hc-a2>AZ</hc-a2>
+  </desc>
+</path>
+
+<path d="M316.7,488.5 L330.0,495.5 L334.1,499.0 L334.3,505.1 L330.6,513.1 L327.4,514.8 L328.7,517.2 L332.5,517.3 L342.7,515.4 L349.7,517.1 L349.8,526.6 L353.0,529.0 L353.0,531.6 L349.2,535.9 L346.5,547.3 L347.0,550.5 L351.1,546.5 L354.1,545.8 L358.1,548.9 L359.6,552.5 L358.9,555.8 L355.5,560.6 L356.3,563.5 L354.2,567.6 L350.8,568.9 L344.0,567.4 L337.1,567.3 L332.5,563.2 L326.5,566.3 L322.6,570.6 L318.7,571.9 L311.6,572.2 L305.9,570.9 L295.4,572.0 L289.0,575.0 L282.0,576.5 L272.4,577.0 L269.9,574.5 L269.4,570.6 L266.3,564.9 L265.9,555.3 L266.9,550.0 L265.9,545.7 L263.2,543.3 L264.3,537.2 L260.9,534.1 L261.5,527.7 L253.3,524.1 L253.3,521.4 L257.5,521.2 L259.3,516.2 L262.2,519.2 L271.6,517.0 L275.7,517.0 L278.7,513.6 L284.0,503.6 L286.4,504.0 L286.2,511.8 L289.5,507.7 L295.6,502.9 L297.8,494.0 L301.9,486.4 L311.1,486.9 Z" fill="#CEE3F5" id="EC.EO" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.EO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345209</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC08</fips>
+    <postal-code>EO</postal-code>
+    <name>El Oro</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-79.8552</longitude>
+    <woe-name>El Oro</woe-name>
+    <latitude>-3.43657</latitude>
+    <woe-label>El Oro, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>ec-eo</hc-key>
+    <hc-a2>EO</hc-a2>
+  </desc>
+</path>
+
+<path d="M349.7,517.1 L355.4,518.7 L363.7,518.5 L366.8,521.9 L366.9,527.6 L371.6,531.6 L380.1,530.2 L386.1,542.0 L386.4,547.9 L388.4,550.6 L383.8,555.0 L383.4,558.0 L378.4,560.9 L381.5,568.3 L385.9,574.6 L386.5,577.5 L384.2,584.4 L384.6,593.6 L382.9,601.3 L383.1,606.6 L387.8,610.8 L388.4,618.6 L387.0,634.5 L381.7,641.8 L377.0,644.7 L369.2,641.7 L364.6,645.9 L364.5,652.2 L363.2,656.1 L354.7,668.2 L349.0,673.7 L346.2,668.2 L344.9,661.8 L341.8,657.2 L344.4,650.4 L344.0,647.8 L336.1,644.6 L330.6,639.2 L327.6,637.7 L312.6,642.6 L308.6,642.0 L300.8,633.3 L292.3,632.2 L287.2,629.0 L281.7,623.5 L275.1,620.7 L268.0,622.3 L264.3,630.1 L254.2,638.3 L248.6,641.6 L245.9,641.8 L239.2,638.4 L237.1,632.9 L251.6,613.9 L252.8,611.5 L243.0,613.5 L239.2,613.1 L236.9,608.3 L237.3,604.2 L234.4,599.0 L238.0,589.8 L241.6,588.1 L246.0,588.0 L252.9,591.2 L257.2,590.5 L262.2,583.8 L270.7,580.0 L272.4,577.0 L282.0,576.5 L289.0,575.0 L295.4,572.0 L305.9,570.9 L311.6,572.2 L318.7,571.9 L322.6,570.6 L326.5,566.3 L332.5,563.2 L337.1,567.3 L344.0,567.4 L350.8,568.9 L354.2,567.6 L356.3,563.5 L355.5,560.6 L358.9,555.8 L359.6,552.5 L358.1,548.9 L354.1,545.8 L351.1,546.5 L347.0,550.5 L346.5,547.3 L349.2,535.9 L353.0,531.6 L353.0,529.0 L349.8,526.6 Z" fill="#CEE3F5" id="EC.LJ" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.LJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345213</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC12</fips>
+    <postal-code>LJ</postal-code>
+    <name>Loja</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-79.8079</longitude>
+    <woe-name>Loja</woe-name>
+    <latitude>-4.15948</latitude>
+    <woe-label>Loja, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>ec-lj</hc-key>
+    <hc-a2>LJ</hc-a2>
+  </desc>
+</path>
+
+<path d="M388.4,550.6 L391.8,549.7 L394.1,541.5 L393.5,537.7 L394.5,533.1 L392.9,528.4 L394.6,524.9 L406.3,516.6 L415.3,523.1 L416.1,526.0 L413.4,530.4 L414.4,535.6 L419.0,541.0 L434.0,544.6 L437.3,540.5 L446.0,540.5 L454.0,539.1 L467.7,539.2 L464.5,548.4 L464.9,555.6 L462.2,556.6 L463.5,565.6 L462.8,567.7 L457.3,571.9 L455.4,576.1 L454.3,584.9 L448.4,587.0 L446.7,589.9 L446.8,596.4 L445.6,601.2 L438.9,615.0 L436.9,621.9 L434.0,625.8 L435.0,633.9 L438.9,637.6 L435.3,643.9 L435.0,650.1 L429.8,654.6 L419.8,658.5 L415.3,661.1 L410.3,665.6 L407.0,671.4 L407.1,674.4 L410.1,681.8 L408.9,684.0 L401.3,685.1 L398.2,694.5 L392.2,700.0 L387.8,696.6 L383.8,696.9 L376.4,694.9 L366.2,694.5 L362.0,688.3 L359.0,686.9 L356.2,682.1 L350.1,678.0 L349.0,673.7 L354.7,668.2 L363.2,656.1 L364.5,652.2 L364.6,645.9 L369.2,641.7 L377.0,644.7 L381.7,641.8 L387.0,634.5 L388.4,618.6 L387.8,610.8 L383.1,606.6 L382.9,601.3 L384.6,593.6 L384.2,584.4 L386.5,577.5 L385.9,574.6 L381.5,568.3 L378.4,560.9 L383.4,558.0 L383.8,555.0 Z" fill="#CEE3F5" id="EC.ZC" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.ZC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345221</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC20</fips>
+    <postal-code>ZC</postal-code>
+    <name>Zamora Chinchipe</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.8595</longitude>
+    <woe-name>Zamora Chinchipe</woe-name>
+    <latitude>-3.93679</latitude>
+    <woe-label>Zamora-Chinchipe, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ec-zc</hc-key>
+    <hc-a2>ZC</hc-a2>
+  </desc>
+</path>
+
+<path d="M449.0,434.2 L447.4,434.1 L442.3,437.9 L440.9,441.8 L435.5,444.0 L429.7,448.1 L425.3,447.6 L422.3,451.1 L423.0,454.2 L420.3,458.1 L419.4,462.5 L413.0,462.7 L407.4,461.7 L405.1,455.8 L400.7,452.0 L394.5,444.9 L391.9,443.6 L384.7,449.3 L383.0,452.8 L380.3,451.4 L370.6,441.4 L367.7,436.8 L360.6,433.7 L358.7,429.5 L355.7,427.1 L352.0,426.9 L346.3,429.1 L343.6,426.7 L353.4,418.7 L353.3,412.1 L361.3,405.9 L374.2,403.6 L382.9,399.4 L385.6,395.1 L386.0,397.9 L393.2,405.6 L396.7,410.5 L405.8,416.1 L414.8,415.4 L418.7,413.4 L423.0,409.4 L429.8,407.5 L443.7,405.9 L445.7,406.9 L445.9,408.1 L454.2,412.0 L456.5,414.4 L456.2,422.8 L455.1,428.8 L450.5,434.6 Z" fill="#CEE3F5" id="EC.CN" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.CN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345205</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC04</fips>
+    <postal-code>CN</postal-code>
+    <name>Cañar</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.9978</longitude>
+    <woe-name>Cañar</woe-name>
+    <latitude>-2.54413</latitude>
+    <woe-label>Canar, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ec-cn</hc-key>
+    <hc-a2>CN</hc-a2>
+  </desc>
+</path>
+
+<path d="M385.6,395.1 L385.9,390.6 L383.5,388.8 L381.1,390.5 L374.1,389.7 L377.4,380.9 L376.7,378.5 L369.5,367.9 L371.6,364.6 L374.8,353.7 L372.7,349.9 L372.5,344.3 L367.2,336.0 L362.7,333.0 L368.0,327.9 L370.8,328.0 L372.6,323.1 L365.1,315.2 L364.9,304.5 L368.0,300.7 L362.4,296.0 L358.6,299.7 L357.8,297.5 L364.1,288.8 L369.3,286.4 L374.3,286.0 L382.3,282.1 L391.0,281.2 L396.2,285.4 L400.9,287.1 L405.3,286.5 L411.4,282.9 L414.6,283.8 L412.2,288.1 L411.7,293.6 L409.1,300.5 L408.3,307.5 L413.0,314.3 L413.7,318.9 L416.0,323.1 L415.2,336.5 L411.8,342.7 L408.0,346.1 L402.6,347.0 L399.3,350.3 L398.9,357.1 L399.9,364.1 L397.1,378.1 L398.2,382.6 L395.4,388.1 L391.5,392.0 Z" fill="#CEE3F5" id="EC.BO" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.BO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345204</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC03</fips>
+    <postal-code>BO</postal-code>
+    <name>Bolivar</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-79.12050000000001</longitude>
+    <woe-name>Bolivar</woe-name>
+    <latitude>-1.67621</latitude>
+    <woe-label>Bolivar, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>ec-bo</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</path>
+
+<path d="M414.6,283.8 L411.4,282.9 L405.3,286.5 L400.9,287.1 L396.2,285.4 L391.0,281.2 L382.3,282.1 L374.3,286.0 L369.3,286.4 L368.5,282.9 L364.6,277.5 L366.6,264.6 L366.8,258.8 L368.2,255.0 L372.8,250.3 L375.7,244.8 L379.5,241.9 L381.8,238.2 L389.3,220.6 L390.5,215.7 L392.2,218.3 L395.9,218.9 L397.3,215.6 L400.6,213.9 L400.4,211.2 L396.3,207.9 L399.2,201.9 L403.3,198.7 L404.6,195.6 L408.6,193.3 L410.2,196.7 L417.1,207.0 L418.6,211.8 L427.1,217.9 L431.9,227.0 L442.8,221.5 L444.8,223.3 L448.9,221.3 L455.8,221.4 L458.8,222.6 L465.9,230.1 L465.1,234.1 L466.9,244.2 L464.1,250.2 L463.4,254.3 L461.0,257.7 L466.5,260.5 L463.4,263.1 L461.8,269.3 L459.5,272.5 L455.4,273.4 L451.0,270.9 L447.7,272.0 L447.2,274.9 L441.4,276.5 L435.2,279.9 L425.4,278.7 L420.6,280.0 Z" fill="#CEE3F5" id="EC.CT" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.CT</hasc>
+    <alt-name>Le¢n</alt-name>
+    <woe-id>2345208</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC07</fips>
+    <postal-code>CT</postal-code>
+    <name>Cotopaxi</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.8554</longitude>
+    <woe-name>Cotopaxi</woe-name>
+    <latitude>-0.813335</latitude>
+    <woe-label>Cotopaxi, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>ec-ct</hc-key>
+    <hc-a2>CT</hc-a2>
+  </desc>
+</path>
+
+<path d="M390.5,215.7 L389.3,220.6 L381.8,238.2 L379.5,241.9 L375.7,244.8 L372.8,250.3 L368.2,255.0 L366.8,258.8 L366.6,264.6 L364.6,277.5 L368.5,282.9 L369.3,286.4 L364.1,288.8 L357.8,297.5 L358.6,299.7 L362.4,296.0 L368.0,300.7 L364.9,304.5 L365.1,315.2 L372.6,323.1 L370.8,328.0 L368.0,327.9 L362.7,333.0 L367.2,336.0 L372.5,344.3 L372.7,349.9 L374.8,353.7 L371.6,364.6 L369.5,367.9 L376.7,378.5 L377.4,380.9 L374.1,389.7 L368.6,384.6 L360.4,371.1 L355.9,367.2 L345.0,360.7 L340.7,360.6 L335.1,362.7 L328.9,362.8 L322.7,349.9 L315.4,338.5 L306.4,333.9 L306.4,326.6 L304.8,320.7 L305.6,312.6 L307.3,307.7 L312.1,301.3 L318.2,289.9 L319.3,284.4 L324.9,280.3 L326.3,276.8 L328.7,276.3 L332.8,271.5 L337.0,268.7 L338.6,262.9 L341.7,260.0 L341.2,257.5 L343.4,249.2 L341.4,246.7 L332.2,248.1 L334.4,243.6 L335.9,236.1 L337.8,233.0 L341.1,231.4 L346.1,219.9 L347.5,214.8 L359.1,215.0 L362.6,216.0 L360.9,218.5 L362.0,223.3 L360.6,227.0 L361.6,229.9 L366.8,231.3 L377.5,224.1 L385.6,216.1 Z" fill="#CEE3F5" id="EC.LR" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.LR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345214</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC13</fips>
+    <postal-code>LR</postal-code>
+    <name>Los Rios</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-79.4787</longitude>
+    <woe-name>Los Rios</woe-name>
+    <latitude>-1.22191</latitude>
+    <woe-label>Los Rios, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ec-lr</hc-key>
+    <hc-a2>LR</hc-a2>
+  </desc>
+</path>
+
+<path d="M347.5,214.8 L346.1,219.9 L341.1,231.4 L337.8,233.0 L335.9,236.1 L334.4,243.6 L332.2,248.1 L325.2,249.2 L321.0,251.4 L313.1,262.5 L312.7,265.8 L306.7,273.9 L301.1,278.4 L297.5,279.8 L291.4,278.3 L285.9,293.8 L277.1,300.6 L275.7,308.0 L270.4,310.3 L268.6,316.5 L270.6,320.9 L266.4,325.0 L259.7,325.9 L261.4,328.9 L265.7,331.1 L267.0,337.1 L265.0,338.7 L260.7,338.4 L257.9,340.0 L255.6,338.5 L248.2,344.3 L244.2,350.0 L242.0,355.4 L234.3,355.6 L230.3,354.2 L229.2,350.9 L231.7,343.3 L229.7,337.7 L227.6,335.9 L222.4,335.5 L216.5,337.2 L208.6,336.8 L201.3,337.8 L197.9,331.2 L197.6,326.9 L201.5,324.3 L201.0,318.6 L206.4,316.2 L207.6,305.2 L209.4,301.6 L199.6,289.4 L194.3,280.1 L190.6,271.4 L191.3,269.2 L201.5,258.5 L207.5,257.4 L215.2,258.8 L219.3,256.0 L223.3,258.0 L226.1,256.9 L230.9,252.2 L234.3,236.3 L240.1,222.9 L244.6,220.9 L246.3,225.9 L249.3,227.2 L258.0,227.7 L258.0,226.4 L247.9,223.7 L245.3,218.1 L242.9,216.3 L241.3,207.5 L237.7,201.8 L236.4,197.2 L243.4,192.6 L247.9,185.6 L250.1,180.0 L252.5,179.1 L255.3,174.6 L257.3,176.3 L265.4,170.9 L271.9,163.9 L278.9,155.0 L279.9,151.5 L283.4,150.1 L286.0,142.4 L286.6,136.7 L285.4,121.2 L286.7,117.0 L289.3,120.6 L290.7,118.3 L294.9,126.9 L298.8,127.4 L302.5,121.3 L311.0,120.8 L319.0,115.2 L321.6,115.5 L323.8,118.7 L321.8,122.0 L328.0,126.7 L328.3,128.5 L323.2,134.8 L327.9,136.7 L329.5,140.0 L331.3,139.0 L337.9,143.1 L332.4,150.9 L334.9,157.3 L333.6,160.2 L334.5,163.6 L340.1,167.3 L345.7,173.4 L353.5,174.9 L354.8,178.0 L355.5,197.4 L350.9,206.0 L350.6,209.3 Z" fill="#CEE3F5" id="EC.MN" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.MN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345215</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC14</fips>
+    <postal-code>MN</postal-code>
+    <name>Manabi</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-80.1619</longitude>
+    <woe-name>Manabi</woe-name>
+    <latitude>-0.727203</latitude>
+    <woe-label>Manabi, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>ec-mn</hc-key>
+    <hc-a2>MN</hc-a2>
+  </desc>
+</path>
+
+<path d="M445.7,406.9 L443.7,405.9 L429.8,407.5 L423.0,409.4 L418.7,413.4 L414.8,415.4 L405.8,416.1 L396.7,410.5 L393.2,405.6 L386.0,397.9 L385.6,395.1 L391.5,392.0 L395.4,388.1 L398.2,382.6 L397.1,378.1 L399.9,364.1 L398.9,357.1 L399.3,350.3 L402.6,347.0 L408.0,346.1 L411.8,342.7 L415.2,336.5 L416.0,323.1 L413.7,318.9 L413.0,314.3 L421.8,310.5 L430.2,315.3 L438.6,317.6 L448.1,316.3 L452.9,316.6 L455.6,312.4 L468.9,318.0 L470.6,321.6 L469.3,325.7 L469.9,332.0 L464.5,336.0 L460.0,342.4 L460.6,348.3 L462.7,351.4 L463.4,358.7 L459.0,363.5 L455.6,369.2 L458.5,373.8 L460.4,381.2 L454.4,386.9 L454.1,396.8 L451.2,399.2 L449.6,404.2 Z" fill="#CEE3F5" id="EC.CB" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.CB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345207</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC06</fips>
+    <postal-code>CB</postal-code>
+    <name>Chimborazo</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.74169999999999</longitude>
+    <woe-name>Chimborazo</woe-name>
+    <latitude>-1.88915</latitude>
+    <woe-label>Chimborazo, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>ec-cb</hc-key>
+    <hc-a2>CB</hc-a2>
+  </desc>
+</path>
+
+<path d="M406.3,516.6 L406.4,512.9 L422.1,500.1 L430.0,496.7 L435.5,491.5 L437.2,482.6 L440.8,474.2 L446.0,465.8 L446.2,462.1 L443.7,457.7 L449.2,449.3 L461.3,443.2 L462.3,438.4 L458.1,435.1 L454.4,435.7 L450.7,440.8 L448.9,439.6 L449.0,434.2 L450.5,434.6 L455.1,428.8 L456.2,422.8 L456.5,414.4 L454.2,412.0 L445.9,408.1 L445.7,406.9 L449.6,404.2 L451.2,399.2 L454.1,396.8 L454.4,386.9 L460.4,381.2 L458.5,373.8 L455.6,369.2 L459.0,363.5 L463.4,358.7 L462.7,351.4 L460.6,348.3 L460.0,342.4 L464.5,336.0 L469.9,332.0 L469.3,325.7 L470.6,321.6 L475.7,317.1 L483.8,317.3 L490.4,313.0 L495.1,314.0 L501.6,321.0 L506.9,335.7 L508.2,337.1 L514.9,335.7 L518.6,337.1 L521.3,346.6 L523.3,349.8 L524.0,354.7 L526.2,358.9 L526.9,363.7 L529.7,366.0 L536.2,367.8 L539.4,374.4 L576.5,390.1 L601.6,406.3 L605.0,407.5 L608.3,412.6 L614.7,420.2 L616.5,425.3 L622.9,430.9 L627.3,432.2 L636.9,431.1 L640.1,433.2 L648.4,436.3 L654.5,434.9 L652.9,435.9 L525.4,479.8 L515.3,487.8 L504.2,502.5 L497.4,508.5 L492.6,516.8 L487.3,521.3 L487.3,523.7 L491.7,528.4 L490.9,533.6 L484.0,536.9 L481.5,527.9 L479.3,525.2 L472.3,523.5 L469.3,526.1 L470.0,528.9 L467.7,539.2 L454.0,539.1 L446.0,540.5 L437.3,540.5 L434.0,544.6 L419.0,541.0 L414.4,535.6 L413.4,530.4 L416.1,526.0 L415.3,523.1 Z" fill="#CEE3F5" id="EC.MS" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.MS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345216</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC15</fips>
+    <postal-code>MS</postal-code>
+    <name>Morona Santiago</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-77.80710000000001</longitude>
+    <woe-name>Morona Santiago</woe-name>
+    <latitude>-2.4505</latitude>
+    <woe-label>Morona-Santiago, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ec-ms</hc-key>
+    <hc-a2>MS</hc-a2>
+  </desc>
+</path>
+
+<path d="M465.9,230.1 L458.8,222.6 L455.8,221.4 L448.9,221.3 L444.8,223.3 L442.8,221.5 L431.9,227.0 L427.1,217.9 L418.6,211.8 L417.1,207.0 L410.2,196.7 L408.6,193.3 L411.9,188.1 L425.7,186.7 L427.8,179.2 L422.3,173.0 L411.9,167.5 L408.4,164.0 L389.0,164.7 L388.3,155.8 L366.2,155.1 L360.2,150.7 L366.4,135.6 L361.8,132.0 L362.1,129.8 L375.7,121.5 L384.1,121.3 L395.6,123.7 L398.8,126.7 L400.7,130.9 L405.3,132.8 L414.8,130.8 L424.3,129.8 L438.0,132.4 L464.1,129.1 L468.9,130.1 L470.1,133.4 L469.4,137.7 L474.3,135.3 L479.5,139.4 L484.6,141.3 L490.2,140.5 L500.9,134.3 L515.3,138.3 L512.6,142.8 L522.6,146.8 L527.7,152.3 L526.3,154.7 L517.2,159.6 L513.2,161.0 L511.5,166.7 L508.5,170.1 L503.1,170.2 L498.9,175.8 L494.6,174.2 L490.0,175.4 L488.8,188.0 L486.7,193.1 L482.0,200.9 L483.5,203.8 L479.6,215.7 L474.7,222.3 L472.4,228.1 Z" fill="#CEE3F5" id="EC.PI" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.PI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345219</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC19</fips>
+    <postal-code>PI</postal-code>
+    <name>Pichincha</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.50449999999999</longitude>
+    <woe-name>Pichincha</woe-name>
+    <latitude>-0.087133</latitude>
+    <woe-label>Pichincha, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ec-pi</hc-key>
+    <hc-a2>PI</hc-a2>
+  </desc>
+</path>
+
+<path d="M774.2,324.4 L766.4,332.0 L718.1,387.7 L659.4,432.0 L654.5,434.9 L648.4,436.3 L640.1,433.2 L636.9,431.1 L627.3,432.2 L622.9,430.9 L616.5,425.3 L614.7,420.2 L608.3,412.6 L605.0,407.5 L601.6,406.3 L576.5,390.1 L539.4,374.4 L536.2,367.8 L529.7,366.0 L526.9,363.7 L526.2,358.9 L524.0,354.7 L523.3,349.8 L521.3,346.6 L518.6,337.1 L514.9,335.7 L508.2,337.1 L506.9,335.7 L501.6,321.0 L495.1,314.0 L490.4,313.0 L493.1,310.6 L496.8,301.7 L496.5,289.8 L505.2,290.0 L513.0,288.8 L520.5,290.2 L522.8,287.7 L526.1,288.9 L542.6,281.0 L549.6,280.8 L558.9,279.3 L571.1,273.6 L577.9,273.2 L588.3,270.0 L593.2,267.2 L613.1,265.7 L610.6,268.9 L613.8,275.4 L622.7,277.4 L633.2,281.7 L635.9,280.8 L639.5,274.4 L644.9,275.3 L655.4,273.1 L658.4,270.9 L666.7,269.7 L670.0,270.9 L671.9,273.8 L671.4,281.2 L672.3,285.1 L677.5,292.0 L688.5,293.3 L689.0,295.5 L696.9,297.7 L701.4,295.4 L711.6,296.6 L713.8,294.5 L719.8,295.5 L727.8,298.5 L733.7,302.3 L738.6,302.7 L741.6,300.5 L746.6,306.6 L756.0,308.9 L759.2,314.4 L766.4,316.3 L772.5,319.9 Z" fill="#CEE3F5" id="EC.PA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.PA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345218</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC17</fips>
+    <postal-code>PA</postal-code>
+    <name>Pastaza</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-76.8768</longitude>
+    <woe-name>Pastaza</woe-name>
+    <latitude>-1.84655</latitude>
+    <woe-label>Pastaza, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ec-pa</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+
+<path d="M496.5,289.8 L496.8,301.7 L493.1,310.6 L490.4,313.0 L483.8,317.3 L475.7,317.1 L470.6,321.6 L468.9,318.0 L455.6,312.4 L452.9,316.6 L448.1,316.3 L438.6,317.6 L430.2,315.3 L421.8,310.5 L413.0,314.3 L408.3,307.5 L409.1,300.5 L411.7,293.6 L412.2,288.1 L414.6,283.8 L420.6,280.0 L425.4,278.7 L435.2,279.9 L441.4,276.5 L447.2,274.9 L447.7,272.0 L451.0,270.9 L455.4,273.4 L459.5,272.5 L461.8,269.3 L463.4,263.1 L466.5,260.5 L471.6,267.4 L473.0,270.9 L472.3,282.3 L476.1,280.0 L485.1,279.7 L490.1,284.5 L495.4,285.5 Z" fill="#CEE3F5" id="EC.1076" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345220</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Napo</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-78.5209</longitude>
+    <woe-name>Napo</woe-name>
+    <latitude>-1.2733</latitude>
+    <woe-label>Tungurahua, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>ec-1076</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path d="M586.0,162.2 L587.7,160.9 L598.5,165.9 L602.7,164.8 L610.8,166.9 L615.8,166.6 L621.9,163.4 L627.9,164.3 L640.9,180.3 L650.1,193.0 L657.6,198.4 L660.2,202.0 L665.3,199.9 L667.6,203.0 L675.4,208.4 L681.6,208.7 L683.4,211.3 L690.5,207.0 L698.3,204.0 L706.8,203.2 L717.1,203.9 L719.3,209.7 L729.0,216.1 L735.3,217.0 L733.8,204.7 L734.2,201.9 L737.3,200.8 L742.8,201.3 L746.9,203.4 L756.0,201.8 L760.1,205.7 L766.3,205.4 L775.1,209.8 L776.6,213.2 L782.1,216.0 L788.8,216.0 L794.5,217.8 L796.1,221.4 L803.5,223.7 L806.3,223.2 L808.9,225.9 L806.4,227.3 L805.5,237.3 L810.4,253.7 L810.4,257.6 L813.2,261.6 L799.8,262.1 L793.5,255.6 L792.8,256.5 L776.5,319.6 L774.2,324.4 L772.5,319.9 L766.4,316.3 L759.2,314.4 L756.0,308.9 L746.6,306.6 L741.6,300.5 L738.6,302.7 L733.7,302.3 L727.8,298.5 L719.8,295.5 L713.8,294.5 L711.6,296.6 L701.4,295.4 L696.9,297.7 L689.0,295.5 L688.5,293.3 L677.5,292.0 L672.3,285.1 L671.4,281.2 L671.9,273.8 L670.0,270.9 L666.7,269.7 L658.4,270.9 L655.4,273.1 L644.9,275.3 L639.5,274.4 L635.9,280.8 L633.2,281.7 L622.7,277.4 L613.8,275.4 L610.6,268.9 L613.1,265.7 L614.1,263.3 L612.3,260.0 L614.2,255.9 L606.3,254.1 L598.3,249.4 L597.5,245.0 L599.4,241.4 L606.2,234.0 L603.6,232.7 L595.8,239.0 L591.7,246.0 L586.9,247.9 L564.1,258.6 L559.3,259.2 L555.4,258.0 L560.9,247.2 L561.1,238.7 L564.2,233.4 L563.0,227.1 L554.6,217.5 L550.9,214.1 L556.0,210.4 L558.4,205.6 L569.8,211.0 L575.6,209.8 L579.8,202.1 L583.1,201.2 L583.4,197.9 L588.9,195.0 L591.0,187.9 L590.4,182.6 L586.2,176.5 L587.1,169.8 Z" fill="#CEE3F5" id="EC.NA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.NA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070099</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC24</fips>
+    <postal-code>NA</postal-code>
+    <name>Orellana</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-76.42480000000001</longitude>
+    <woe-name>Orellana</woe-name>
+    <latitude>-0.875888</latitude>
+    <woe-label>Orellano, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ec-na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path d="M586.0,162.2 L587.1,169.8 L586.2,176.5 L590.4,182.6 L591.0,187.9 L588.9,195.0 L583.4,197.9 L583.1,201.2 L579.8,202.1 L575.6,209.8 L569.8,211.0 L558.4,205.6 L556.0,210.4 L550.9,214.1 L554.6,217.5 L563.0,227.1 L564.2,233.4 L561.1,238.7 L560.9,247.2 L555.4,258.0 L559.3,259.2 L564.1,258.6 L586.9,247.9 L591.7,246.0 L595.8,239.0 L603.6,232.7 L606.2,234.0 L599.4,241.4 L597.5,245.0 L598.3,249.4 L606.3,254.1 L614.2,255.9 L612.3,260.0 L614.1,263.3 L613.1,265.7 L593.2,267.2 L588.3,270.0 L577.9,273.2 L571.1,273.6 L558.9,279.3 L549.6,280.8 L542.6,281.0 L526.1,288.9 L522.8,287.7 L520.5,290.2 L513.0,288.8 L505.2,290.0 L496.5,289.8 L495.4,285.5 L490.1,284.5 L485.1,279.7 L476.1,280.0 L472.3,282.3 L473.0,270.9 L471.6,267.4 L466.5,260.5 L461.0,257.7 L463.4,254.3 L464.1,250.2 L466.9,244.2 L465.1,234.1 L465.9,230.1 L472.4,228.1 L474.7,222.3 L479.6,215.7 L483.5,203.8 L482.0,200.9 L486.7,193.1 L488.8,188.0 L490.0,175.4 L494.6,174.2 L498.9,175.8 L503.1,170.2 L508.5,170.1 L511.5,166.7 L513.2,161.0 L517.2,159.6 L526.3,154.7 L527.7,152.3 L533.5,154.1 L532.9,157.3 L534.3,163.0 L537.8,164.3 L548.7,164.6 L554.3,166.7 L558.6,163.3 L567.9,158.3 L570.2,162.4 L569.9,169.4 L579.1,171.1 Z" fill="#CEE3F5" id="EC.TU" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.TU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345217</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC23</fips>
+    <postal-code>TU</postal-code>
+    <name>Tungurahua</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-77.73820000000001</longitude>
+    <woe-name>Tungurahua</woe-name>
+    <latitude>-0.624499</latitude>
+    <woe-label>Napo, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ec-tu</hc-key>
+    <hc-a2>TU</hc-a2>
+  </desc>
+</path>
+<g id="EC">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ecuador</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Ecu.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>ECU</iso-a3>
+    <iso-a2>EC</iso-a2>
+    <woe-id>23424801</woe-id>
+    <continent>South America</continent>
+    <hc-key>ec</hc-key>
+    <hc-a2>EC</hc-a2>
+  </desc>
+</g>
+
+<path d="M128.44,161.79 L129.84,162.24 L130.89,163.35 L130.96,164.48 L129.38,165.00 L127.66,164.79 L123.41,162.85 L124.49,161.78 L125.32,161.94 L127.79,161.91 Z M85.85,155.30 L86.34,156.03 L87.39,155.76 L88.82,156.05 L90.10,156.64 L90.76,157.42 L91.26,157.82 L91.36,158.54 L90.89,159.25 L89.96,159.57 L89.95,160.67 L89.66,160.99 L87.94,162.04 L87.59,162.12 L85.67,161.84 L84.92,161.29 L84.20,160.59 L83.11,159.95 L84.05,158.72 L84.38,157.98 L84.73,156.40 L85.24,155.58 Z M147.05,127.62 L147.70,128.03 L148.39,128.02 L149.73,127.41 L149.85,129.37 L148.88,131.50 L147.36,133.38 L145.80,134.61 L143.93,135.14 L142.93,137.49 L141.86,139.08 L141.15,139.82 L140.38,140.34 L139.56,140.60 L138.76,140.69 L136.97,140.66 L136.42,140.83 L135.33,141.59 L134.60,141.76 L134.09,141.61 L132.45,140.66 L130.57,140.38 L130.11,140.15 L130.04,139.67 L130.37,139.11 L131.45,137.92 L133.54,136.93 L134.25,136.38 L134.80,134.60 L135.35,134.54 L137.53,134.01 L138.15,133.42 L138.95,131.74 L139.42,131.14 L140.81,129.84 L141.52,129.07 L143.41,128.38 L143.98,127.82 L144.78,127.79 L146.41,127.36 Z M98.03,118.26 L98.03,119.36 L98.43,119.56 L100.59,119.89 L101.19,120.43 L101.06,121.66 L100.39,123.84 L100.41,124.46 L100.71,125.22 L100.78,125.81 L100.20,127.10 L100.22,127.37 L99.34,127.72 L98.71,128.54 L98.15,129.50 L97.51,130.26 L96.75,130.68 L94.19,130.62 L93.93,130.79 L93.65,131.82 L92.95,132.35 L92.02,132.50 L91.06,132.42 L89.26,131.81 L88.13,131.59 L86.86,130.61 L85.74,128.98 L85.29,128.47 L84.52,128.55 L83.54,128.32 L82.62,127.90 L82.06,127.36 L81.97,126.70 L82.06,124.16 L82.37,122.80 L82.95,121.54 L83.71,120.43 L84.54,119.56 L85.05,119.22 L86.47,118.61 L87.65,118.48 L89.24,118.82 L89.73,118.68 L90.67,118.13 L95.65,117.57 L96.80,117.01 L97.70,117.52 Z M34.21,105.23 L36.03,107.08 L37.16,107.85 L37.30,108.96 L37.07,110.93 L37.07,115.42 L36.56,115.70 L32.93,117.16 L31.48,117.37 L30.99,117.21 L29.87,116.47 L28.90,116.22 L27.33,115.59 L26.29,115.59 L26.03,115.41 L25.93,114.85 L25.03,113.91 L24.34,112.84 L23.90,111.67 L23.55,109.28 L22.88,107.31 L23.03,106.65 L27.63,106.77 L29.58,105.78 L32.02,105.23 L33.24,104.80 Z M69.84,99.50 L70.87,100.24 L74.46,101.44 L75.74,101.64 L77.44,102.30 L80.18,105.35 L81.67,106.31 L80.99,106.66 L81.70,107.07 L81.35,108.01 L80.24,109.69 L79.84,110.77 L78.89,111.09 L77.70,110.94 L75.46,110.26 L71.79,110.26 L70.78,109.94 L69.84,109.36 L68.86,109.05 L67.69,109.51 L66.96,108.63 L66.62,107.29 L66.07,106.18 L64.75,105.95 L66.98,102.89 L67.12,102.19 L66.80,101.27 L67.24,100.36 L68.10,99.69 L69.09,99.50 L69.47,99.78 Z M40.30,83.77 L41.14,84.53 L41.54,85.73 L41.73,86.84 L41.93,87.33 L42.63,87.83 L43.25,90.06 L44.04,90.79 L44.78,91.77 L45.15,91.99 L46.27,92.04 L47.15,92.35 L47.52,93.27 L47.60,94.55 L47.48,96.98 L48.45,102.80 L49.02,103.71 L51.41,105.92 L51.45,106.83 L51.62,107.42 L52.53,107.91 L57.87,111.26 L58.68,112.75 L59.61,113.61 L60.45,113.82 L60.12,114.85 L60.59,116.84 L60.80,119.00 L60.49,119.98 L59.08,121.19 L58.65,122.01 L59.82,121.25 L60.17,121.70 L60.21,122.67 L60.44,123.47 L62.66,123.88 L63.75,124.44 L63.67,125.61 L64.40,125.71 L65.01,125.99 L65.50,126.45 L65.85,127.07 L65.49,127.78 L66.20,128.07 L68.04,129.92 L69.02,130.35 L69.08,131.14 L68.82,131.45 L67.11,132.21 L65.46,137.33 L65.66,138.60 L65.55,139.56 L64.41,139.21 L63.80,140.08 L62.46,141.58 L61.87,142.42 L60.98,142.01 L60.11,141.92 L58.45,142.06 L57.44,142.33 L55.75,143.56 L49.73,145.54 L48.57,145.25 L47.76,145.50 L43.04,144.84 L37.13,144.92 L36.03,144.57 L35.24,143.82 L34.92,142.71 L34.92,141.49 L34.72,140.90 L33.06,140.59 L31.75,138.54 L32.23,136.16 L33.66,133.93 L35.24,132.39 L41.37,128.45 L41.83,127.43 L42.65,127.35 L43.98,126.80 L45.80,126.32 L47.00,126.47 L47.83,127.06 L48.74,127.37 L49.31,127.41 L49.85,127.20 L50.62,126.11 L50.91,125.96 L50.92,125.40 L51.39,124.32 L52.13,123.51 L52.91,123.82 L53.54,122.96 L53.58,122.18 L53.19,121.50 L52.52,120.94 L51.82,120.61 L50.28,120.15 L49.65,119.87 L48.41,118.74 L47.17,117.07 L46.17,115.21 L45.68,113.46 L45.76,111.95 L45.60,111.42 L44.96,110.93 L43.53,110.57 L42.84,109.51 L39.65,107.82 L38.45,106.50 L38.51,104.84 L37.46,104.23 L36.79,103.08 L36.89,102.01 L38.15,101.64 L37.20,100.29 L36.83,99.52 L36.69,98.62 L36.69,96.82 L36.36,95.02 L35.91,93.28 L34.74,92.42 L33.12,92.37 L31.31,93.06 L29.49,94.29 L28.57,94.49 L27.53,93.95 L26.45,92.53 L26.40,91.72 L30.65,89.37 L31.65,88.34 L32.02,86.26 L33.32,86.67 L34.36,86.38 L35.36,85.86 L37.07,85.40 L38.15,84.12 L38.77,83.94 L39.75,83.97 Z M86.79,77.84 L85.68,78.06 L85.05,77.85 L84.36,77.15 L83.17,76.81 L82.66,76.38 L82.06,75.57 L82.18,74.39 L83.01,73.51 L84.17,72.95 L85.29,72.72 L86.48,73.10 L87.74,73.70 L88.77,74.52 L89.24,75.57 L88.89,76.33 L87.97,77.17 Z M71.55,61.25 L70.71,62.90 L68.36,61.97 L68.74,60.86 L68.38,58.63 L68.76,57.69 L70.90,58.89 Z M15.44,20.22 L14.92,20.29 L14.78,19.68 L15.35,19.58 Z M5.62,5.69 L5.26,5.77 L5.00,5.30 L5.29,5.00 L5.62,5.23 Z" fill="#CEE3F5" id="EC.GA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>EC.GA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345202</woe-id>
+    <subregion>NULL</subregion>
+    <fips>EC01</fips>
+    <postal-code>GA</postal-code>
+    <name>Galápagos</name>
+    <country>Ecuador</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-89.685</longitude>
+    <woe-name>Galápagos</woe-name>
+    <latitude>-1.36804</latitude>
+    <woe-label>Galapagos, EC, Ecuador</woe-label>
+    <type>Provincia</type>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.81</hc-middle-y>
+    <hc-key>ec-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="440" y="714">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+<g id="__separator_lines__"><path d="M223,118 L153,228" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

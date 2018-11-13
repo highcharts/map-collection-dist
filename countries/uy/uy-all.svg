@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Uruguay</title>
+<g id="admin1">
+
+<g id="UY">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Uruguay</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Ury.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>URY</iso-a3>
+    <iso-a2>UY</iso-a2>
+    <woe-id>23424979</woe-id>
+    <continent>South America</continent>
+    <hc-key>uy</hc-key>
+    <hc-a2>UR</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.SA" d="M293.5,140.4 L294.2,141.5 L294.4,141.5 L291.0,152.7 L288.6,157.8 L285.7,159.9 L277.2,162.3 L272.4,166.4 L275.9,173.2 L272.2,186.2 L267.3,191.2 L262.9,193.8 L260.2,199.0 L255.6,203.8 L251.5,215.3 L253.6,218.9 L255.6,233.1 L255.4,237.0 L248.9,238.6 L240.6,248.5 L238.1,253.2 L232.3,254.0 L223.7,251.3 L215.0,250.4 L208.8,246.5 L201.4,245.9 L191.8,242.8 L181.2,245.1 L171.9,242.5 L164.1,245.0 L150.8,242.9 L144.9,238.8 L135.2,236.0 L129.9,232.3 L127.2,228.2 L116.6,226.0 L99.5,216.8 L81.4,213.0 L79.4,211.9 L74.8,202.9 L66.7,198.4 L61.2,197.0 L56.7,198.2 L55.3,201.4 L49.2,200.8 L45.0,202.6 L40.5,197.9 L42.0,193.4 L50.9,186.9 L53.7,174.8 L57.4,171.3 L61.1,164.2 L60.2,154.1 L61.7,147.8 L67.1,138.1 L66.0,131.4 L60.0,122.2 L63.2,118.0 L72.8,116.4 L74.3,109.3 L73.7,99.7 L78.1,94.1 L85.8,95.9 L93.8,101.8 L101.8,109.9 L113.3,111.5 L120.1,116.7 L136.5,125.3 L142.3,127.2 L150.9,135.0 L156.2,138.2 L163.6,140.4 L167.0,139.8 L172.4,136.4 L183.4,135.5 L197.4,138.1 L208.0,136.8 L212.0,135.3 L219.3,129.3 L226.0,127.6 L236.5,120.6 L240.2,114.2 L244.5,113.3 L253.6,116.2 L273.2,120.7 L278.5,124.4 L282.6,130.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.SA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347654</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY15</fips>
+    <postal-code>SA</postal-code>
+    <name>Salto</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.0428</longitude>
+    <woe-name>Salto</woe-name>
+    <latitude>-31.4398</latitude>
+    <woe-label>Salto, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>uy-sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.SO" d="M3.4,542.0 L0.9,529.0 L0.2,516.7 L1.6,504.4 L0.0,495.6 L0.6,492.2 L6.2,483.9 L5.4,477.3 L16.8,470.4 L23.1,461.8 L25.3,460.4 L35.9,460.3 L36.4,452.4 L42.0,447.5 L47.4,451.4 L48.7,445.4 L46.1,442.9 L44.7,436.8 L48.0,434.1 L56.2,434.8 L56.8,429.6 L63.4,426.7 L67.7,422.3 L72.0,421.9 L78.7,424.5 L82.7,423.5 L94.0,427.9 L96.4,427.4 L98.4,423.1 L106.5,419.3 L111.7,419.1 L117.1,421.8 L119.4,428.6 L126.0,426.3 L135.7,429.2 L138.5,436.5 L143.5,432.1 L144.9,437.4 L147.6,437.8 L157.1,433.1 L154.7,438.9 L132.0,466.3 L131.0,471.6 L136.6,477.0 L138.0,483.2 L140.5,487.1 L141.4,493.0 L145.2,498.0 L151.5,500.9 L153.2,503.7 L151.9,507.3 L150.2,521.4 L150.4,524.2 L156.9,536.1 L160.1,548.9 L163.1,553.3 L150.7,551.4 L137.5,551.0 L132.5,547.0 L125.5,543.8 L104.9,549.5 L94.4,550.0 L78.0,544.5 L70.9,539.3 L53.7,539.5 L48.2,531.2 L34.6,527.9 L30.7,528.2 L19.6,536.1 L8.9,540.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.SO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347656</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY17</fips>
+    <postal-code>SO</postal-code>
+    <name>Soriano</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.7585</longitude>
+    <woe-name>Soriano</woe-name>
+    <latitude>-33.4821</latitude>
+    <woe-label>Soriano, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>uy-so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.CL" d="M482.5,227.9 L505.5,251.2 L512.2,256.2 L518.1,262.0 L522.2,263.9 L525.7,260.4 L530.4,260.0 L534.8,262.7 L538.8,267.4 L546.6,269.4 L551.4,273.5 L552.8,278.0 L558.9,283.2 L566.0,285.0 L568.4,288.1 L568.4,293.2 L571.7,301.7 L577.6,311.0 L579.6,320.0 L579.7,327.2 L589.9,343.4 L600.1,352.2 L607.0,360.4 L613.8,362.9 L618.9,366.3 L624.8,367.2 L632.6,371.8 L636.0,375.1 L634.8,381.5 L624.5,386.9 L613.7,387.6 L618.5,391.4 L610.2,392.8 L605.4,390.4 L598.8,389.3 L595.9,386.7 L582.8,387.9 L575.6,386.7 L555.4,387.7 L551.3,386.1 L543.8,379.7 L539.4,378.9 L535.9,380.7 L530.9,386.3 L532.1,391.1 L529.7,391.7 L519.6,385.3 L500.8,381.2 L497.2,378.8 L485.6,383.5 L475.4,383.9 L472.1,388.6 L467.0,388.8 L462.9,393.2 L452.4,391.9 L446.7,394.1 L435.9,395.0 L428.7,398.5 L423.0,403.5 L413.0,409.2 L410.5,412.4 L412.4,421.3 L406.2,420.3 L394.4,419.9 L392.2,417.0 L380.9,409.4 L375.2,401.5 L376.0,392.9 L372.6,385.1 L376.6,382.4 L377.1,379.4 L374.0,369.5 L378.0,356.0 L377.6,349.3 L375.2,344.6 L386.1,339.8 L390.2,339.6 L402.2,343.8 L410.3,341.6 L416.1,336.3 L420.6,330.3 L424.9,329.1 L427.9,324.8 L435.0,319.4 L440.0,309.2 L438.4,304.4 L440.2,299.5 L444.1,294.5 L445.9,289.8 L453.7,293.9 L458.1,293.0 L466.1,291.3 L468.4,286.7 L467.2,284.4 L471.6,280.3 L472.0,276.1 L466.6,273.5 L470.9,267.7 L477.4,253.3 L477.5,247.3 L475.8,237.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.CL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347642</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY03</fips>
+    <postal-code>CL</postal-code>
+    <name>Cerro Largo</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-54.2281</longitude>
+    <woe-name>Cerro Largo</woe-name>
+    <latitude>-32.2963</latitude>
+    <woe-label>Cerro Largo, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>uy-cl</hc-key>
+    <hc-a2>CL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.DU" d="M375.2,344.6 L377.6,349.3 L378.0,356.0 L374.0,369.5 L377.1,379.4 L376.6,382.4 L372.6,385.1 L376.0,392.9 L375.2,401.5 L380.9,409.4 L392.2,417.0 L394.4,419.9 L406.2,420.3 L412.4,421.3 L408.9,425.9 L402.0,430.2 L400.0,434.4 L391.7,439.1 L382.0,447.0 L376.6,445.2 L364.5,451.5 L361.0,455.6 L337.9,468.3 L335.2,469.3 L326.4,469.0 L320.3,474.0 L312.9,477.3 L306.2,478.5 L300.2,476.6 L289.8,478.1 L286.4,483.2 L280.9,486.5 L271.7,484.2 L262.6,483.9 L259.8,478.1 L257.1,477.0 L249.8,477.2 L243.1,473.1 L242.1,474.2 L242.5,482.9 L237.9,486.8 L228.4,486.5 L225.4,482.1 L224.5,475.8 L210.7,458.4 L204.1,455.7 L195.4,454.5 L190.8,450.3 L189.3,445.2 L186.5,443.1 L175.5,440.9 L169.0,441.9 L162.8,438.7 L157.1,433.1 L156.7,426.3 L150.8,424.8 L158.1,418.3 L162.4,416.4 L169.5,418.9 L176.1,419.1 L174.2,414.6 L180.6,413.5 L182.7,409.6 L187.1,413.3 L188.8,412.0 L188.8,406.6 L194.7,406.0 L196.0,399.6 L198.7,397.0 L204.4,395.9 L208.2,393.1 L212.7,393.1 L216.3,395.2 L222.8,392.0 L236.4,391.4 L241.5,395.5 L244.1,395.8 L249.6,389.2 L257.6,390.4 L266.1,390.5 L266.9,386.3 L272.9,376.6 L283.3,374.0 L291.8,373.1 L302.4,361.0 L307.9,359.3 L314.1,363.8 L318.7,360.2 L321.1,354.8 L320.4,348.4 L324.2,348.0 L328.7,351.7 L332.9,350.6 L336.2,344.5 L346.5,346.6 L351.8,345.6 L354.9,337.3 L358.0,334.8 L361.2,336.5 L362.9,341.2 L371.4,345.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.DU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347644</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY05</fips>
+    <postal-code>DU</postal-code>
+    <name>Durazno</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.0945</longitude>
+    <woe-name>Durazno</woe-name>
+    <latitude>-33.1016</latitude>
+    <woe-label>Durazno, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>uy-du</hc-key>
+    <hc-a2>DU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.RV" d="M275.9,173.2 L272.4,166.4 L277.2,162.3 L285.7,159.9 L288.6,157.8 L291.0,152.7 L294.4,141.5 L305.5,141.7 L312.3,140.9 L324.8,131.3 L328.8,122.3 L337.0,123.0 L338.6,121.5 L338.5,112.9 L341.1,108.5 L346.3,108.6 L349.7,112.7 L354.1,115.3 L364.5,125.6 L375.2,138.8 L377.0,148.7 L382.4,152.8 L386.4,163.6 L390.3,167.3 L397.4,170.7 L403.1,176.1 L407.4,178.0 L414.7,169.9 L421.8,180.3 L425.3,183.9 L430.2,186.4 L434.7,191.5 L440.0,194.2 L460.2,197.5 L464.5,197.6 L467.9,199.9 L471.3,206.4 L477.7,211.7 L480.8,216.3 L482.5,227.9 L475.8,237.5 L477.5,247.3 L477.4,253.3 L470.9,267.7 L466.6,273.5 L472.0,276.1 L471.6,280.3 L467.2,284.4 L468.4,286.7 L466.1,291.3 L458.1,293.0 L452.7,283.9 L441.4,270.6 L439.3,266.8 L430.5,257.0 L421.0,253.1 L411.6,252.0 L404.6,249.0 L386.3,248.1 L374.4,244.9 L355.3,245.9 L348.6,244.6 L343.2,245.7 L338.1,240.1 L336.3,230.3 L338.1,222.0 L335.2,212.5 L327.0,208.7 L321.2,203.8 L317.8,195.5 L317.9,190.2 L316.0,185.4 L312.8,182.5 L298.1,175.3 L288.1,167.2 L283.3,166.3 L278.8,168.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.RV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347652</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY13</fips>
+    <postal-code>RV</postal-code>
+    <name>Rivera</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-55.3279</longitude>
+    <woe-name>Rivera</woe-name>
+    <latitude>-31.4683</latitude>
+    <woe-label>Rivera, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>uy-rv</hc-key>
+    <hc-a2>RV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.TA" d="M458.1,293.0 L453.7,293.9 L445.9,289.8 L444.1,294.5 L440.2,299.5 L438.4,304.4 L440.0,309.2 L435.0,319.4 L427.9,324.8 L424.9,329.1 L420.6,330.3 L416.1,336.3 L410.3,341.6 L402.2,343.8 L390.2,339.6 L386.1,339.8 L375.2,344.6 L371.4,345.2 L362.9,341.2 L361.2,336.5 L358.0,334.8 L354.9,337.3 L351.8,345.6 L346.5,346.6 L336.2,344.5 L332.9,350.6 L328.7,351.7 L324.2,348.0 L320.4,348.4 L321.1,354.8 L318.7,360.2 L314.1,363.8 L307.9,359.3 L302.4,361.0 L291.8,373.1 L283.3,374.0 L272.9,376.6 L266.9,386.3 L266.1,390.5 L257.6,390.4 L249.6,389.2 L244.1,395.8 L241.5,395.5 L236.4,391.4 L222.8,392.0 L216.3,395.2 L212.7,393.1 L217.1,379.8 L217.3,372.5 L220.9,367.5 L225.3,349.5 L225.9,342.9 L232.4,323.5 L234.5,320.4 L242.6,313.8 L250.4,305.8 L254.9,287.4 L258.4,278.7 L259.7,263.1 L264.6,259.4 L260.4,251.9 L260.4,244.5 L255.4,237.0 L255.6,233.1 L253.6,218.9 L251.5,215.3 L255.6,203.8 L260.2,199.0 L262.9,193.8 L267.3,191.2 L272.2,186.2 L275.9,173.2 L278.8,168.7 L283.3,166.3 L288.1,167.2 L298.1,175.3 L312.8,182.5 L316.0,185.4 L317.9,190.2 L317.8,195.5 L321.2,203.8 L327.0,208.7 L335.2,212.5 L338.1,222.0 L336.3,230.3 L338.1,240.1 L343.2,245.7 L348.6,244.6 L355.3,245.9 L374.4,244.9 L386.3,248.1 L404.6,249.0 L411.6,252.0 L421.0,253.1 L430.5,257.0 L439.3,266.8 L441.4,270.6 L452.7,283.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.TA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347657</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY18</fips>
+    <postal-code>TA</postal-code>
+    <name>Tacuarembó</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-55.6607</longitude>
+    <woe-name>Tacuarembó</woe-name>
+    <latitude>-32.1061</latitude>
+    <woe-label>Tacuarembó, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>uy-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.TT" d="M618.5,391.4 L621.3,398.3 L620.5,403.5 L616.1,405.5 L618.5,408.5 L613.3,411.1 L615.3,416.3 L601.3,414.9 L595.2,418.4 L584.9,433.1 L582.7,434.8 L581.9,428.0 L579.6,430.3 L580.4,436.4 L577.7,437.5 L580.0,442.6 L571.1,446.1 L561.4,448.6 L557.7,455.4 L551.8,458.8 L545.6,466.3 L537.3,470.3 L534.1,476.6 L525.7,483.3 L519.3,484.7 L517.3,486.9 L504.5,479.8 L498.4,470.4 L490.2,470.6 L483.6,474.8 L479.3,481.5 L471.9,483.2 L463.8,480.4 L460.2,478.1 L446.9,475.2 L439.6,468.7 L432.5,466.5 L424.0,470.3 L419.7,470.2 L412.9,466.8 L405.9,467.8 L397.7,472.2 L394.9,466.7 L399.9,460.3 L402.0,453.7 L400.0,434.4 L402.0,430.2 L408.9,425.9 L412.4,421.3 L410.5,412.4 L413.0,409.2 L423.0,403.5 L428.7,398.5 L435.9,395.0 L446.7,394.1 L452.4,391.9 L462.9,393.2 L467.0,388.8 L472.1,388.6 L475.4,383.9 L485.6,383.5 L497.2,378.8 L500.8,381.2 L519.6,385.3 L529.7,391.7 L532.1,391.1 L530.9,386.3 L535.9,380.7 L539.4,378.9 L543.8,379.7 L551.3,386.1 L555.4,387.7 L575.6,386.7 L582.8,387.9 L595.9,386.7 L598.8,389.3 L605.4,390.4 L610.2,392.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.TT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347658</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY19</fips>
+    <postal-code>TT</postal-code>
+    <name>Treinta y Tres</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-54.1659</longitude>
+    <woe-name>Treinta y Tres</woe-name>
+    <latitude>-33.1021</latitude>
+    <woe-label>Treinta y Tres, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>uy-tt</hc-key>
+    <hc-a2>TT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.CA" d="M364.5,675.1 L353.4,673.9 L348.5,674.3 L337.6,670.4 L332.3,671.5 L326.8,669.1 L319.3,671.6 L315.1,670.3 L303.6,674.4 L285.9,686.0 L284.2,680.6 L286.3,670.8 L281.7,670.0 L276.4,666.0 L275.0,663.0 L269.0,664.9 L266.6,667.6 L263.1,668.0 L257.5,662.1 L253.7,661.1 L247.6,664.0 L244.9,660.4 L236.9,654.4 L234.9,644.2 L243.7,634.3 L242.6,628.6 L243.4,620.8 L246.8,611.4 L255.1,609.3 L259.3,610.1 L264.6,613.0 L275.0,611.3 L278.6,603.5 L280.8,601.1 L291.5,594.2 L296.7,595.0 L302.9,598.1 L310.3,597.3 L321.8,591.4 L336.7,589.5 L341.2,607.2 L346.1,616.5 L346.5,620.0 L345.0,631.4 L350.7,639.2 L353.2,645.0 L353.1,649.0 L354.9,653.1 L360.0,659.5 L359.4,665.2 L363.3,671.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.CA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347641</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY02</fips>
+    <postal-code>CA</postal-code>
+    <name>Canelones</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-55.9228</longitude>
+    <woe-name>Canelones</woe-name>
+    <latitude>-34.5473</latitude>
+    <woe-label>Canelones, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>uy-ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.FD" d="M336.7,589.5 L321.8,591.4 L310.3,597.3 L302.9,598.1 L296.7,595.0 L291.5,594.2 L280.8,601.1 L278.6,603.5 L275.0,611.3 L264.6,613.0 L259.3,610.1 L255.1,609.3 L246.8,611.4 L243.4,620.8 L235.5,611.0 L236.9,607.0 L240.8,602.8 L241.4,593.3 L238.5,584.3 L241.6,576.2 L241.7,566.8 L238.2,549.5 L236.6,544.8 L240.8,538.2 L241.6,524.9 L237.0,515.3 L230.3,490.3 L228.4,486.5 L237.9,486.8 L242.5,482.9 L242.1,474.2 L243.1,473.1 L249.8,477.2 L257.1,477.0 L259.8,478.1 L262.6,483.9 L271.7,484.2 L280.9,486.5 L286.4,483.2 L289.8,478.1 L300.2,476.6 L306.2,478.5 L312.9,477.3 L320.3,474.0 L326.4,469.0 L335.2,469.3 L337.9,468.3 L361.0,455.6 L364.5,451.5 L376.6,445.2 L382.0,447.0 L391.7,439.1 L400.0,434.4 L402.0,453.7 L399.9,460.3 L394.9,466.7 L397.7,472.2 L399.3,480.5 L395.4,485.8 L388.2,489.4 L384.5,498.0 L379.8,501.8 L373.5,504.4 L372.6,510.1 L376.8,518.4 L375.9,525.7 L371.2,536.3 L369.8,543.1 L364.3,547.4 L361.7,552.9 L357.6,558.2 L356.7,563.5 L349.5,570.2 L345.0,578.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.FD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347646</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY07</fips>
+    <postal-code>FD</postal-code>
+    <name>Florida</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-55.812</longitude>
+    <woe-name>Florida</woe-name>
+    <latitude>-33.835</latitude>
+    <woe-label>Florida, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>uy-fd</hc-key>
+    <hc-a2>FD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.LA" d="M353.1,649.0 L353.2,645.0 L350.7,639.2 L345.0,631.4 L346.5,620.0 L346.1,616.5 L341.2,607.2 L336.7,589.5 L345.0,578.9 L349.5,570.2 L356.7,563.5 L357.6,558.2 L361.7,552.9 L364.3,547.4 L369.8,543.1 L371.2,536.3 L375.9,525.7 L376.8,518.4 L372.6,510.1 L373.5,504.4 L379.8,501.8 L384.5,498.0 L388.2,489.4 L395.4,485.8 L399.3,480.5 L397.7,472.2 L405.9,467.8 L412.9,466.8 L419.7,470.2 L424.0,470.3 L432.5,466.5 L439.6,468.7 L446.9,475.2 L460.2,478.1 L463.8,480.4 L471.9,483.2 L479.3,481.5 L483.6,474.8 L490.2,470.6 L498.4,470.4 L504.5,479.8 L517.3,486.9 L515.2,488.4 L507.3,489.7 L504.5,498.5 L499.9,502.4 L490.1,507.8 L487.5,510.6 L485.7,515.7 L486.6,523.9 L481.3,534.0 L479.7,543.1 L472.9,551.7 L467.9,555.4 L461.6,567.8 L452.9,569.4 L447.7,572.0 L441.4,581.0 L436.5,590.4 L436.2,598.2 L432.2,603.6 L428.3,617.6 L421.5,621.6 L411.6,624.4 L399.6,634.0 L389.6,634.7 L375.9,645.8 L369.1,648.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.LA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347647</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY08</fips>
+    <postal-code>LA</postal-code>
+    <name>Lavalleja</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-54.8724</longitude>
+    <woe-name>Lavalleja</woe-name>
+    <latitude>-33.8788</latitude>
+    <woe-label>Lavalleja, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>uy-la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.MA" d="M464.1,677.7 L455.3,680.3 L451.4,683.4 L443.9,685.9 L423.3,695.3 L418.4,696.5 L415.3,700.0 L411.1,694.0 L404.4,692.2 L403.5,689.4 L398.7,687.4 L393.1,687.5 L382.2,689.9 L377.7,688.9 L368.6,677.5 L364.5,675.1 L363.3,671.0 L359.4,665.2 L360.0,659.5 L354.9,653.1 L353.1,649.0 L369.1,648.4 L375.9,645.8 L389.6,634.7 L399.6,634.0 L411.6,624.4 L421.5,621.6 L428.3,617.6 L432.2,603.6 L436.2,598.2 L436.5,590.4 L441.4,581.0 L447.7,572.0 L452.9,569.4 L461.6,567.8 L467.9,555.4 L472.9,551.7 L474.9,576.0 L472.2,583.2 L470.8,591.1 L471.4,605.7 L470.1,618.3 L466.0,619.0 L464.5,625.3 L466.5,636.0 L468.8,640.5 L465.5,649.1 L464.0,656.0 L464.2,661.7 L465.8,668.7 L464.0,672.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347648</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY09</fips>
+    <postal-code>MA</postal-code>
+    <name>Maldonado</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-54.9671</longitude>
+    <woe-name>Maldonado</woe-name>
+    <latitude>-34.6885</latitude>
+    <woe-label>Maldonado, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>uy-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.MO" d="M285.9,686.0 L282.2,688.1 L278.0,687.7 L272.7,690.8 L271.9,693.8 L269.4,690.2 L265.2,689.0 L266.4,686.1 L263.2,684.6 L260.1,688.7 L253.7,688.7 L242.9,681.2 L240.8,677.4 L247.5,672.5 L248.7,669.1 L247.6,664.0 L253.7,661.1 L257.5,662.1 L263.1,668.0 L266.6,667.6 L269.0,664.9 L275.0,663.0 L276.4,666.0 L281.7,670.0 L286.3,670.8 L284.2,680.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>UY.MO</hasc>
+    <alt-name>Montevidéu</alt-name>
+    <woe-id>2347649</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY10</fips>
+    <postal-code>MO</postal-code>
+    <name>Montevideo</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.2283</longitude>
+    <woe-name>Montevideo</woe-name>
+    <latitude>-34.8267</latitude>
+    <woe-label>Montevideo, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>uy-mo</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.RO" d="M464.1,677.7 L464.0,672.8 L465.8,668.7 L464.2,661.7 L464.0,656.0 L465.5,649.1 L468.8,640.5 L466.5,636.0 L464.5,625.3 L466.0,619.0 L470.1,618.3 L471.4,605.7 L470.8,591.1 L472.2,583.2 L474.9,576.0 L472.9,551.7 L479.7,543.1 L481.3,534.0 L486.6,523.9 L485.7,515.7 L487.5,510.6 L490.1,507.8 L499.9,502.4 L504.5,498.5 L507.3,489.7 L515.2,488.4 L517.3,486.9 L519.3,484.7 L525.7,483.3 L534.1,476.6 L537.3,470.3 L545.6,466.3 L551.8,458.8 L557.7,455.4 L561.4,448.6 L571.1,446.1 L580.0,442.6 L579.8,445.3 L576.3,448.8 L576.8,453.1 L580.3,458.9 L585.5,461.4 L582.0,470.1 L585.7,474.3 L582.3,482.1 L582.2,486.7 L586.4,494.6 L587.6,502.6 L586.8,515.4 L590.0,521.3 L596.6,521.2 L601.7,529.2 L605.6,529.1 L601.2,532.4 L593.9,542.2 L584.8,574.5 L578.5,579.1 L572.5,586.4 L563.8,593.4 L557.8,604.6 L554.9,612.8 L556.5,620.6 L551.6,622.0 L540.4,627.8 L531.4,633.8 L512.9,650.9 L510.1,659.0 L496.6,661.3 L499.9,657.4 L497.6,653.4 L499.4,647.5 L494.6,644.3 L488.9,643.2 L494.5,646.3 L491.6,650.0 L486.7,653.1 L487.5,656.5 L491.0,655.6 L494.2,660.7 L490.9,664.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.RO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347653</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY14</fips>
+    <postal-code>RO</postal-code>
+    <name>Rocha</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-53.9584</longitude>
+    <woe-name>Rocha</woe-name>
+    <latitude>-33.9106</latitude>
+    <woe-label>Rocha, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>uy-ro</hc-key>
+    <hc-a2>RO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.CO" d="M152.5,622.8 L148.3,621.9 L131.3,622.2 L129.1,620.3 L123.6,620.5 L120.6,622.4 L116.1,620.3 L108.6,623.7 L104.8,619.9 L98.4,620.5 L81.8,626.9 L71.0,626.5 L71.1,623.2 L67.8,622.2 L65.6,618.7 L65.9,613.0 L51.5,595.5 L47.6,593.6 L44.3,586.8 L39.2,583.6 L30.0,582.3 L25.7,572.2 L15.4,557.7 L8.7,553.2 L5.0,548.7 L3.4,542.0 L8.9,540.7 L19.6,536.1 L30.7,528.2 L34.6,527.9 L48.2,531.2 L53.7,539.5 L70.9,539.3 L78.0,544.5 L94.4,550.0 L104.9,549.5 L125.5,543.8 L132.5,547.0 L137.5,551.0 L150.7,551.4 L163.1,553.3 L166.8,563.2 L170.3,565.3 L178.6,576.9 L179.3,579.8 L172.8,585.8 L166.3,588.1 L161.6,591.2 L160.2,597.0 L163.6,602.8 L160.8,609.3 L159.8,616.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.CO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347643</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY04</fips>
+    <postal-code>CO</postal-code>
+    <name>Colonia</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.6787</longitude>
+    <woe-name>Colonia</woe-name>
+    <latitude>-34.1954</latitude>
+    <woe-label>Colonia, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>uy-co</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.SJ" d="M236.6,544.8 L238.2,549.5 L241.7,566.8 L241.6,576.2 L238.5,584.3 L241.4,593.3 L240.8,602.8 L236.9,607.0 L235.5,611.0 L243.4,620.8 L242.6,628.6 L243.7,634.3 L234.9,644.2 L236.9,654.4 L244.9,660.4 L247.6,664.0 L248.7,669.1 L247.5,672.5 L246.1,670.9 L237.6,667.4 L229.1,666.8 L226.5,668.6 L222.8,667.4 L214.2,662.2 L206.3,659.9 L196.6,658.7 L187.3,654.6 L183.8,649.6 L170.5,637.7 L165.6,634.1 L165.8,632.1 L158.2,624.9 L152.5,622.8 L159.8,616.5 L160.8,609.3 L163.6,602.8 L160.2,597.0 L161.6,591.2 L166.3,588.1 L172.8,585.8 L179.3,579.8 L178.6,576.9 L170.3,565.3 L166.8,563.2 L163.1,553.3 L168.2,553.6 L185.5,557.0 L193.8,553.9 L201.6,545.7 L209.8,543.7 L215.0,541.2 L219.8,537.2 L223.5,538.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.SJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347655</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY16</fips>
+    <postal-code>SJ</postal-code>
+    <name>San José</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.7651</longitude>
+    <woe-name>San José</woe-name>
+    <latitude>-34.3117</latitude>
+    <woe-label>San José, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>uy-sj</hc-key>
+    <hc-a2>SJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.AR" d="M73.7,99.7 L71.3,88.4 L67.4,79.2 L62.8,71.0 L62.2,65.4 L63.7,60.2 L67.1,56.0 L91.4,33.5 L94.1,28.9 L94.9,23.3 L92.6,14.0 L96.4,12.5 L99.5,15.5 L101.9,23.0 L105.8,25.6 L117.4,24.8 L122.8,29.0 L128.5,25.1 L135.6,28.2 L138.1,25.9 L142.0,28.1 L146.0,27.3 L152.1,20.4 L153.7,12.2 L159.7,3.5 L162.8,1.3 L167.7,2.5 L178.1,0.0 L184.1,1.7 L193.4,0.8 L197.9,3.9 L201.4,9.3 L213.0,16.4 L218.1,21.6 L218.2,26.9 L223.8,28.7 L231.5,37.4 L241.7,44.8 L250.2,55.9 L255.9,59.1 L263.1,65.3 L267.1,67.4 L273.5,74.4 L275.0,78.9 L280.6,83.9 L286.5,94.3 L294.5,100.9 L297.2,109.2 L294.4,117.3 L292.9,136.3 L293.5,140.4 L282.6,130.2 L278.5,124.4 L273.2,120.7 L253.6,116.2 L244.5,113.3 L240.2,114.2 L236.5,120.6 L226.0,127.6 L219.3,129.3 L212.0,135.3 L208.0,136.8 L197.4,138.1 L183.4,135.5 L172.4,136.4 L167.0,139.8 L163.6,140.4 L156.2,138.2 L150.9,135.0 L142.3,127.2 L136.5,125.3 L120.1,116.7 L113.3,111.5 L101.8,109.9 L93.8,101.8 L85.8,95.9 L78.1,94.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>UY.AR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347640</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY01</fips>
+    <postal-code>AR</postal-code>
+    <name>Artigas</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.9399</longitude>
+    <woe-name>Artigas</woe-name>
+    <latitude>-30.5719</latitude>
+    <woe-label>Artigas, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>uy-ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.FS" d="M228.4,486.5 L230.3,490.3 L237.0,515.3 L241.6,524.9 L240.8,538.2 L236.6,544.8 L223.5,538.1 L219.8,537.2 L215.0,541.2 L209.8,543.7 L201.6,545.7 L193.8,553.9 L185.5,557.0 L168.2,553.6 L163.1,553.3 L160.1,548.9 L156.9,536.1 L150.4,524.2 L150.2,521.4 L151.9,507.3 L153.2,503.7 L151.5,500.9 L145.2,498.0 L141.4,493.0 L140.5,487.1 L138.0,483.2 L136.6,477.0 L131.0,471.6 L132.0,466.3 L154.7,438.9 L157.1,433.1 L162.8,438.7 L169.0,441.9 L175.5,440.9 L186.5,443.1 L189.3,445.2 L190.8,450.3 L195.4,454.5 L204.1,455.7 L210.7,458.4 L224.5,475.8 L225.4,482.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.FS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347645</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY06</fips>
+    <postal-code>FS</postal-code>
+    <name>Flores</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.8849</longitude>
+    <woe-name>Flores</woe-name>
+    <latitude>-33.5902</latitude>
+    <woe-label>Flores, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>uy-fs</hc-key>
+    <hc-a2>FS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.PA" d="M255.4,237.0 L260.4,244.5 L260.4,251.9 L264.6,259.4 L259.7,263.1 L258.4,278.7 L254.9,287.4 L250.4,305.8 L242.6,313.8 L234.5,320.4 L232.4,323.5 L225.9,342.9 L220.4,339.8 L212.4,333.3 L205.8,331.3 L189.5,331.1 L181.2,330.3 L170.8,324.9 L167.6,324.3 L160.0,328.2 L149.9,329.2 L141.9,335.0 L137.7,336.1 L132.7,334.5 L123.7,336.9 L115.3,336.2 L107.1,341.5 L101.7,349.3 L80.6,352.6 L77.4,359.7 L72.9,360.1 L62.3,359.1 L51.8,356.2 L48.9,350.7 L41.4,344.1 L37.6,342.4 L27.9,343.5 L26.8,336.8 L30.9,328.9 L38.5,317.6 L37.8,309.1 L29.3,298.0 L27.9,295.0 L31.2,287.6 L32.5,282.1 L32.2,269.5 L31.0,265.1 L25.6,257.9 L29.6,251.1 L34.2,248.4 L43.0,246.0 L44.2,243.9 L51.4,221.8 L52.4,215.5 L51.5,209.1 L45.0,202.6 L49.2,200.8 L55.3,201.4 L56.7,198.2 L61.2,197.0 L66.7,198.4 L74.8,202.9 L79.4,211.9 L81.4,213.0 L99.5,216.8 L116.6,226.0 L127.2,228.2 L129.9,232.3 L135.2,236.0 L144.9,238.8 L150.8,242.9 L164.1,245.0 L171.9,242.5 L181.2,245.1 L191.8,242.8 L201.4,245.9 L208.8,246.5 L215.0,250.4 L223.7,251.3 L232.3,254.0 L238.1,253.2 L240.6,248.5 L248.9,238.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.PA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347650</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY11</fips>
+    <postal-code>PA</postal-code>
+    <name>Paysandú</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.224</longitude>
+    <woe-name>Paysandú</woe-name>
+    <latitude>-32.0933</latitude>
+    <woe-label>Paysandú, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>uy-pa</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY.RN" d="M225.9,342.9 L225.3,349.5 L220.9,367.5 L217.3,372.5 L217.1,379.8 L212.7,393.1 L208.2,393.1 L204.4,395.9 L198.7,397.0 L196.0,399.6 L194.7,406.0 L188.8,406.6 L188.8,412.0 L187.1,413.3 L182.7,409.6 L180.6,413.5 L174.2,414.6 L176.1,419.1 L169.5,418.9 L162.4,416.4 L158.1,418.3 L150.8,424.8 L156.7,426.3 L157.1,433.1 L147.6,437.8 L144.9,437.4 L143.5,432.1 L138.5,436.5 L135.7,429.2 L126.0,426.3 L119.4,428.6 L117.1,421.8 L111.7,419.1 L106.5,419.3 L98.4,423.1 L96.4,427.4 L94.0,427.9 L82.7,423.5 L78.7,424.5 L72.0,421.9 L67.7,422.3 L63.4,426.7 L56.8,429.6 L56.2,434.8 L48.0,434.1 L44.7,436.8 L46.1,442.9 L48.7,445.4 L47.4,451.4 L42.0,447.5 L36.4,452.4 L35.9,460.3 L25.3,460.4 L23.1,461.8 L16.8,470.4 L5.4,477.3 L2.8,475.3 L2.7,469.8 L8.8,463.2 L10.2,457.0 L8.0,444.6 L7.8,438.6 L9.6,433.9 L14.6,432.0 L30.9,432.1 L35.3,429.8 L39.8,425.6 L42.5,420.5 L45.8,403.5 L44.7,399.2 L37.0,390.3 L34.8,382.3 L34.7,369.1 L32.2,355.4 L29.7,351.1 L27.9,343.5 L37.6,342.4 L41.4,344.1 L48.9,350.7 L51.8,356.2 L62.3,359.1 L72.9,360.1 L77.4,359.7 L80.6,352.6 L101.7,349.3 L107.1,341.5 L115.3,336.2 L123.7,336.9 L132.7,334.5 L137.7,336.1 L141.9,335.0 L149.9,329.2 L160.0,328.2 L167.6,324.3 L170.8,324.9 L181.2,330.3 L189.5,331.1 L205.8,331.3 L212.4,333.3 L220.4,339.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>UY.RN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347651</woe-id>
+    <subregion>NULL</subregion>
+    <fips>UY12</fips>
+    <postal-code>RN</postal-code>
+    <name>Río Negro</name>
+    <country>Uruguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.4891</longitude>
+    <woe-name>Río Negro</woe-name>
+    <latitude>-32.7441</latitude>
+    <woe-label>Río Negro, UY, Uruguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>uy-rn</hc-key>
+    <hc-a2>RN</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

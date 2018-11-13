@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Moldova</title>
+<g id="admin1">
+
+<g id="MD">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Moldova</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mda.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>MDA</iso-a3>
+    <iso-a2>MD</iso-a2>
+    <woe-id>23424885</woe-id>
+    <continent>Europe</continent>
+    <hc-key>md</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.RZ" d="M359.6,139.8 L357.7,137.2 L357.8,130.0 L358.6,126.2 L365.5,129.8 L371.2,128.6 L377.9,119.6 L382.8,117.2 L387.7,118.1 L391.5,122.9 L392.7,126.4 L394.2,134.3 L395.4,137.7 L397.6,139.4 L405.4,142.3 L404.9,145.5 L397.8,154.5 L396.5,161.1 L398.0,162.6 L403.4,164.5 L406.0,168.8 L399.6,177.8 L398.9,185.0 L399.1,193.2 L397.6,201.9 L393.6,209.0 L389.6,214.4 L387.6,220.5 L389.7,229.8 L390.8,231.9 L389.2,236.2 L386.3,235.3 L383.9,231.2 L376.9,226.9 L373.4,221.5 L371.6,209.4 L368.0,204.2 L367.0,200.1 L368.3,193.5 L367.1,191.2 L365.9,185.0 L365.0,172.1 L365.7,167.0 L371.4,152.7 L371.5,146.6 L365.5,141.6 L359.6,139.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.RZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-55948201</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD83</fips>
+    <postal-code>RZ</postal-code>
+    <name>Rezina</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>29.084</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>47.7344</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>md-rz</hc-key>
+    <hc-a2>RZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.2266" d="M359.6,139.8 L365.5,141.6 L371.5,146.6 L371.4,152.7 L365.7,167.0 L365.0,172.1 L365.9,185.0 L367.1,191.2 L368.3,193.5 L367.0,200.1 L368.0,204.2 L371.6,209.4 L373.4,221.5 L367.3,217.9 L362.1,210.0 L358.1,206.6 L354.2,205.6 L351.2,210.4 L347.4,211.1 L341.2,219.1 L336.8,220.9 L332.9,220.0 L329.7,216.9 L323.7,216.0 L323.9,209.6 L325.1,204.4 L320.6,200.9 L319.1,197.3 L317.0,195.1 L308.2,190.2 L312.2,178.5 L321.0,172.0 L332.4,174.1 L336.3,162.3 L343.9,158.7 L343.8,156.7 L341.3,155.7 L344.0,151.7 L355.0,153.5 L355.7,150.0 L357.5,147.7 L362.9,149.4 L361.7,144.0 L359.6,139.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.RZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948196</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD83</fips>
+    <postal-code>NULL</postal-code>
+    <name>Rezina</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.819</longitude>
+    <woe-name>Rezina</woe-name>
+    <latitude>47.6683</latitude>
+    <woe-label>Rezina, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>md-2266</hc-key>
+    <hc-a2>RE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.TE" d="M312.2,178.5 L308.2,190.2 L317.0,195.1 L319.1,197.3 L320.6,200.9 L325.1,204.4 L323.9,209.6 L323.7,216.0 L303.8,230.1 L303.5,234.8 L302.0,239.0 L303.1,243.8 L294.2,247.8 L289.8,242.5 L284.1,243.2 L278.6,246.9 L273.1,248.3 L269.9,247.2 L265.7,249.0 L260.6,248.5 L254.1,244.0 L247.9,247.4 L241.9,243.3 L236.2,238.4 L239.0,232.7 L239.4,225.8 L237.8,220.9 L239.4,216.2 L247.9,212.2 L262.8,214.0 L268.2,212.9 L269.6,207.9 L273.6,203.8 L277.2,203.2 L277.9,198.8 L276.4,192.2 L276.1,185.3 L278.6,182.5 L281.7,181.0 L287.0,184.5 L291.6,177.8 L296.2,169.6 L303.8,175.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.TE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948204</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD91</fips>
+    <postal-code>TE</postal-code>
+    <name>Telene?ti</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.4349</longitude>
+    <woe-name>Telene?ti</woe-name>
+    <latitude>47.566</latitude>
+    <woe-label>Telenesti, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>md-te</hc-key>
+    <hc-a2>TE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.2267" d="M312.2,178.5 L303.8,175.3 L296.2,169.6 L293.9,160.8 L283.8,155.3 L281.3,158.0 L279.5,148.7 L287.4,138.9 L291.4,140.1 L295.6,137.8 L301.6,139.2 L306.5,144.7 L312.2,149.5 L317.2,145.8 L315.2,141.4 L315.4,136.5 L319.3,128.3 L325.0,123.9 L330.5,122.9 L335.0,116.9 L339.4,120.9 L342.1,126.5 L341.9,132.1 L346.9,136.1 L359.6,139.8 L359.6,139.8 L361.7,144.0 L362.9,149.4 L357.5,147.7 L355.7,150.0 L355.0,153.5 L344.0,151.7 L341.3,155.7 L343.8,156.7 L343.9,158.7 L336.3,162.3 L332.4,174.1 L321.0,172.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.SD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948199</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD86</fips>
+    <postal-code>NULL</postal-code>
+    <name>?old?ne?ti</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.6952</longitude>
+    <woe-name>?old?ne?ti</woe-name>
+    <latitude>47.8423</latitude>
+    <woe-label>Soldanesti, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>md-2267</hc-key>
+    <hc-a2>?O</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.CU" d="M444.0,462.5 L440.9,464.3 L438.0,467.6 L431.1,478.4 L429.1,478.5 L426.2,474.3 L422.4,466.4 L420.1,465.6 L417.4,470.4 L416.9,473.2 L417.7,477.9 L416.6,482.9 L412.7,483.7 L407.0,490.2 L403.4,492.4 L400.7,490.1 L400.6,487.7 L404.1,481.0 L404.4,478.3 L404.1,458.8 L403.0,453.8 L400.2,450.6 L400.1,444.5 L397.6,436.7 L390.8,430.8 L382.4,427.9 L373.9,414.7 L368.9,403.6 L366.0,389.5 L374.7,386.1 L379.7,382.4 L384.4,378.1 L386.6,379.7 L385.3,385.3 L387.2,387.5 L397.2,390.0 L398.0,396.0 L401.3,397.4 L405.0,394.0 L408.5,398.2 L416.8,398.3 L418.5,390.5 L422.7,392.6 L427.0,385.7 L430.4,384.7 L437.9,384.9 L442.0,383.9 L445.0,386.6 L447.2,391.1 L450.4,390.3 L451.8,392.3 L455.0,393.0 L458.5,396.9 L461.3,406.9 L462.7,413.6 L462.0,420.1 L457.1,421.1 L453.4,428.7 L447.9,427.5 L443.4,430.4 L439.4,434.4 L439.2,441.0 L437.4,445.2 L438.2,449.5 L441.8,453.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.CU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948183</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD67</fips>
+    <postal-code>CU</postal-code>
+    <name>Causeni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>29.3728</longitude>
+    <woe-name>Causeni</woe-name>
+    <latitude>46.6185</latitude>
+    <woe-label>Causeni, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>md-cu</hc-key>
+    <hc-a2>CU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.BD" d="M461.3,406.9 L458.5,396.9 L455.0,393.0 L451.8,392.3 L450.4,390.3 L447.2,391.1 L445.0,386.6 L442.0,383.9 L440.4,375.8 L445.2,371.6 L445.9,368.7 L444.8,356.7 L443.4,354.6 L443.4,354.5 L446.0,352.6 L459.0,352.0 L458.8,355.6 L460.2,358.1 L465.1,357.9 L470.5,362.6 L480.7,364.7 L483.3,367.3 L487.1,373.3 L490.1,375.3 L495.1,376.0 L499.7,375.5 L504.3,376.0 L508.9,379.7 L511.0,385.5 L513.2,386.8 L516.2,385.1 L517.9,386.0 L519.3,396.3 L521.8,401.3 L522.1,405.6 L521.1,420.0 L519.3,427.0 L519.2,430.1 L522.3,439.3 L520.6,444.3 L514.3,445.4 L509.2,439.1 L504.8,438.8 L502.1,434.5 L496.3,438.9 L494.6,439.4 L489.3,436.6 L486.9,436.4 L489.9,431.0 L494.4,428.2 L491.5,421.4 L486.6,418.9 L482.7,420.1 L482.1,418.2 L476.8,417.6 L474.4,413.9 L468.7,412.6 L465.3,409.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.BD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069877</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD62</fips>
+    <postal-code>BD</postal-code>
+    <name>Bender</name>
+    <country>Moldova</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>29.6966</longitude>
+    <woe-name>Tighina</woe-name>
+    <latitude>46.7897</latitude>
+    <woe-label>Tighina, MD, Moldova</woe-label>
+    <type>Municipiu</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>md-bd</hc-key>
+    <hc-a2>BD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.SV" d="M461.3,406.9 L465.3,409.3 L468.7,412.6 L474.4,413.9 L476.8,417.6 L482.1,418.2 L482.7,420.1 L486.6,418.9 L491.5,421.4 L494.4,428.2 L489.9,431.0 L486.9,436.4 L489.3,436.6 L494.6,439.4 L496.3,438.9 L502.1,434.5 L504.8,438.8 L509.2,439.1 L514.3,445.4 L514.9,450.6 L517.3,453.3 L524.4,456.2 L526.1,459.4 L529.9,457.8 L532.3,460.1 L534.3,464.1 L533.2,466.1 L540.6,471.8 L543.4,475.0 L545.0,473.6 L550.0,473.5 L552.1,474.8 L548.4,482.0 L544.3,486.2 L537.3,487.6 L518.3,486.9 L512.9,489.2 L507.1,494.5 L504.0,495.1 L500.7,491.6 L500.4,485.5 L499.3,481.5 L495.9,476.3 L487.3,468.4 L485.2,464.9 L485.3,471.4 L483.6,474.8 L480.4,476.1 L475.8,476.3 L474.8,477.7 L475.7,483.4 L474.6,487.2 L472.5,489.4 L467.1,490.2 L462.4,485.8 L460.1,480.8 L457.8,478.8 L448.1,476.1 L447.1,470.9 L448.8,467.5 L447.9,463.0 L444.0,462.5 L441.8,453.9 L438.2,449.5 L437.4,445.2 L439.2,441.0 L439.4,434.4 L443.4,430.4 L447.9,427.5 L453.4,428.7 L457.1,421.1 L462.0,420.1 L462.7,413.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.SV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948200</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD88</fips>
+    <postal-code>SV</postal-code>
+    <name>?tefan Voda</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>29.7739</longitude>
+    <woe-name>Stefan-voda</woe-name>
+    <latitude>46.5031</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>md-sv</hc-key>
+    <hc-a2>SV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.SD" d="M359.6,139.8 L346.9,136.1 L341.9,132.1 L342.1,126.5 L339.4,120.9 L335.0,116.9 L330.5,122.9 L325.0,123.9 L319.3,128.3 L315.4,136.5 L315.2,141.4 L317.2,145.8 L312.2,149.5 L306.5,144.7 L301.6,139.2 L295.6,137.8 L291.4,140.1 L287.4,138.9 L290.2,132.6 L291.6,122.6 L290.2,115.9 L285.6,113.7 L287.9,105.4 L293.7,101.0 L297.5,92.7 L290.7,87.9 L293.7,78.6 L297.2,77.0 L302.1,77.2 L316.4,83.1 L327.1,83.2 L332.7,84.2 L337.1,87.1 L339.0,93.7 L341.6,99.7 L342.4,107.2 L346.0,111.1 L350.2,118.2 L355.2,123.7 L358.6,126.2 L357.8,130.0 L357.7,137.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.SD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-55948189</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD86</fips>
+    <postal-code>SD</postal-code>
+    <name>Camenca</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.7044</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>48.0369</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>md-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.SO" d="M214.0,37.6 L222.2,38.6 L225.3,40.1 L227.8,43.1 L228.7,47.3 L225.6,56.3 L227.9,58.1 L233.7,57.6 L238.5,53.5 L241.0,53.2 L242.7,61.5 L244.3,64.1 L247.0,64.9 L250.6,64.1 L258.9,58.4 L266.1,57.6 L268.7,57.9 L270.3,59.7 L270.6,64.1 L269.6,68.9 L263.2,75.3 L262.2,78.6 L262.5,81.8 L264.2,83.7 L267.4,83.1 L269.8,80.4 L273.5,74.1 L277.0,73.6 L279.5,75.3 L281.0,78.4 L280.8,81.9 L278.2,84.8 L282.6,94.0 L287.6,98.1 L289.2,97.9 L290.7,87.9 L297.5,92.7 L293.7,101.0 L287.9,105.4 L285.6,113.7 L281.0,116.1 L276.6,113.1 L270.5,115.7 L263.2,112.6 L257.7,109.6 L255.5,114.1 L250.5,115.2 L245.4,114.6 L234.5,114.6 L223.8,116.4 L217.4,111.9 L223.2,100.6 L227.2,98.7 L230.4,96.0 L228.7,86.2 L222.8,79.0 L206.0,67.7 L209.4,60.1 L215.9,57.3 L216.0,47.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.SO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069872</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD87</fips>
+    <postal-code>SO</postal-code>
+    <name>Soroca</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.2477</longitude>
+    <woe-name>Soroca</woe-name>
+    <latitude>48.1034</latitude>
+    <woe-label>Soroca, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>md-so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.DO" d="M195.9,25.3 L202.2,34.4 L208.5,36.8 L214.0,37.6 L216.0,47.4 L215.9,57.3 L209.4,60.1 L206.0,67.7 L200.5,69.0 L195.4,65.8 L190.7,64.4 L190.4,68.9 L194.1,70.7 L195.1,77.1 L196.6,78.7 L196.3,82.4 L190.8,83.5 L184.7,82.5 L178.6,83.6 L176.0,86.9 L175.0,91.2 L169.4,95.5 L170.3,100.3 L168.1,101.3 L164.9,99.9 L158.5,95.9 L151.9,94.3 L148.1,88.0 L143.0,84.5 L140.6,78.1 L145.6,69.3 L144.3,66.1 L137.7,57.4 L139.8,53.4 L143.3,44.0 L146.2,39.8 L148.0,33.9 L150.6,29.9 L160.2,31.9 L167.8,30.2 L184.0,31.7 L192.2,27.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.DO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948186</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD70</fips>
+    <postal-code>DO</postal-code>
+    <name>Donduseni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.7632</longitude>
+    <woe-name>Donduseni</woe-name>
+    <latitude>48.2339</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>md-do</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.ED" d="M137.7,57.4 L144.3,66.1 L145.6,69.3 L140.6,78.1 L143.0,84.5 L143.1,90.1 L144.6,98.3 L132.1,107.4 L125.9,109.5 L119.2,109.1 L116.5,111.2 L112.6,109.3 L109.8,105.0 L105.2,106.3 L101.1,111.1 L98.6,117.8 L95.3,122.8 L91.0,124.5 L85.4,125.0 L81.2,121.3 L84.2,117.6 L82.3,113.4 L80.2,114.5 L76.8,108.4 L72.8,110.1 L71.8,106.8 L75.0,105.4 L75.0,103.7 L71.0,101.2 L67.4,97.9 L64.7,93.4 L63.7,87.7 L65.9,83.2 L70.9,79.9 L73.3,73.6 L76.6,69.6 L78.4,56.2 L82.2,52.4 L85.9,53.0 L87.5,57.4 L91.9,60.0 L96.4,58.1 L101.5,57.8 L105.5,54.2 L104.5,46.7 L107.3,41.8 L121.3,54.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.ED</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069871</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD73</fips>
+    <postal-code>ED</postal-code>
+    <name>Edine?</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.2978</longitude>
+    <woe-name>Edinet</woe-name>
+    <latitude>48.1332</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>md-ed</hc-key>
+    <hc-a2>ED</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.BR" d="M107.3,41.8 L104.5,46.7 L105.5,54.2 L101.5,57.8 L96.4,58.1 L91.9,60.0 L87.5,57.4 L85.9,53.0 L82.2,52.4 L78.4,56.2 L76.6,69.6 L73.3,73.6 L70.9,79.9 L65.9,83.2 L62.4,80.0 L60.4,81.5 L53.4,77.9 L53.4,76.4 L56.4,76.3 L58.3,72.6 L53.0,70.4 L51.1,65.3 L49.2,63.6 L44.5,68.2 L43.0,62.5 L36.6,55.7 L34.9,56.7 L31.5,52.2 L28.9,50.8 L22.5,51.9 L19.5,51.2 L17.9,47.7 L16.1,50.2 L14.5,49.8 L11.0,46.6 L7.5,46.6 L0.0,50.0 L1.2,44.5 L3.0,41.8 L8.2,38.7 L9.9,33.7 L12.9,35.0 L18.4,42.8 L21.2,44.2 L24.3,44.0 L26.1,42.4 L26.8,35.1 L25.2,25.7 L26.9,23.5 L31.3,24.6 L33.7,20.1 L35.4,19.6 L40.4,21.9 L45.4,26.4 L50.7,29.7 L56.5,28.8 L58.0,27.3 L60.2,28.2 L64.5,27.9 L63.7,19.3 L67.0,19.3 L70.2,21.4 L86.5,27.9 L91.6,28.3 L98.3,24.3 L100.9,35.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.BR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069871</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD63</fips>
+    <postal-code>BR</postal-code>
+    <name>Briceni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>26.9644</longitude>
+    <woe-name>Briceni</woe-name>
+    <latitude>48.2646</latitude>
+    <woe-label>Edinet, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>md-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.OC" d="M137.7,57.4 L121.3,54.9 L107.3,41.8 L100.9,35.2 L98.3,24.3 L106.8,13.9 L112.4,11.1 L115.4,11.9 L119.7,16.1 L121.8,16.9 L124.4,15.6 L133.8,7.8 L137.4,3.0 L145.6,2.7 L149.6,0.0 L153.0,0.5 L153.2,6.6 L156.3,8.1 L175.5,8.1 L180.6,10.6 L190.5,18.0 L195.9,25.3 L192.2,27.8 L184.0,31.7 L167.8,30.2 L160.2,31.9 L150.6,29.9 L148.0,33.9 L146.2,39.8 L143.3,44.0 L139.8,53.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.OC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948195</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD81</fips>
+    <postal-code>OC</postal-code>
+    <name>Ocni?a</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.5685</longitude>
+    <woe-name>Ocni?a</woe-name>
+    <latitude>48.4024</latitude>
+    <woe-label>Ocnita, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>md-oc</hc-key>
+    <hc-a2>OC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.RS" d="M143.0,84.5 L148.1,88.0 L151.9,94.3 L158.5,95.9 L164.9,99.9 L164.1,107.9 L162.5,111.4 L163.4,116.1 L162.2,119.8 L164.1,123.5 L167.0,125.9 L172.5,129.1 L177.6,126.4 L181.3,121.5 L186.0,121.2 L195.7,133.6 L199.0,136.2 L200.8,146.8 L205.3,148.0 L205.6,155.4 L197.6,159.5 L189.3,162.6 L184.2,160.2 L176.0,150.5 L170.6,150.1 L166.0,152.8 L160.7,153.2 L146.6,144.8 L139.5,143.0 L132.6,143.6 L128.2,148.5 L122.9,148.1 L116.6,149.5 L111.3,155.8 L109.0,164.5 L101.8,169.5 L98.2,166.3 L95.2,159.7 L91.3,154.8 L96.7,151.5 L95.5,149.5 L90.4,146.8 L90.5,137.2 L87.7,133.8 L84.2,131.8 L82.6,129.6 L85.4,125.0 L91.0,124.5 L95.3,122.8 L98.6,117.8 L101.1,111.1 L105.2,106.3 L109.8,105.0 L112.6,109.3 L116.5,111.2 L119.2,109.1 L125.9,109.5 L132.1,107.4 L144.6,98.3 L143.1,90.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.RS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948197</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD84</fips>
+    <postal-code>RS</postal-code>
+    <name>Rî?cani</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.5565</longitude>
+    <woe-name>Rî?cani</woe-name>
+    <latitude>47.9614</latitude>
+    <woe-label>Riscani, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>md-rs</hc-key>
+    <hc-a2>RS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.BT" d="M189.3,162.6 L197.6,159.5 L205.6,155.4 L209.3,161.7 L215.0,160.8 L219.8,163.3 L220.7,172.2 L221.4,175.0 L217.5,180.1 L214.5,180.2 L211.7,173.5 L207.3,173.9 L197.9,173.3 L191.0,170.5 L190.8,166.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.BT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069873</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD60</fips>
+    <postal-code>BT</postal-code>
+    <name>B?l?i</name>
+    <country>Moldova</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>27.9516</longitude>
+    <woe-name>B?l?i</woe-name>
+    <latitude>47.7763</latitude>
+    <woe-label>Balti, MD, Moldova</woe-label>
+    <type>Municipiu</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>md-bt</hc-key>
+    <hc-a2>BT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.DR" d="M205.3,148.0 L200.8,146.8 L199.0,136.2 L195.7,133.6 L186.0,121.2 L181.3,121.5 L177.6,126.4 L172.5,129.1 L167.0,125.9 L164.1,123.5 L162.2,119.8 L163.4,116.1 L162.5,111.4 L164.1,107.9 L164.9,99.9 L168.1,101.3 L170.3,100.3 L169.4,95.5 L175.0,91.2 L176.0,86.9 L178.6,83.6 L184.7,82.5 L190.8,83.5 L196.3,82.4 L196.6,78.7 L195.1,77.1 L194.1,70.7 L190.4,68.9 L190.7,64.4 L195.4,65.8 L200.5,69.0 L206.0,67.7 L222.8,79.0 L228.7,86.2 L230.4,96.0 L227.2,98.7 L223.2,100.6 L217.4,111.9 L223.8,116.4 L223.2,121.9 L226.0,131.2 L223.7,135.9 L213.6,146.8 L209.4,146.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.DR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948187</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD71</fips>
+    <postal-code>DR</postal-code>
+    <name>Drochia</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.8915</longitude>
+    <woe-name>Drochia</woe-name>
+    <latitude>48.0267</latitude>
+    <woe-label>Drochia, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>md-dr</hc-key>
+    <hc-a2>DR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.FA" d="M191.0,170.5 L197.9,173.3 L207.3,173.9 L204.3,180.5 L203.7,187.8 L213.1,188.6 L215.4,201.0 L215.1,205.5 L211.1,206.9 L207.1,212.1 L201.8,216.0 L201.4,221.5 L206.4,223.9 L210.7,223.9 L213.5,227.8 L212.2,233.3 L208.7,237.1 L204.9,235.9 L201.1,236.2 L199.1,237.6 L199.2,242.9 L197.2,244.2 L186.3,245.4 L175.7,245.1 L165.4,246.8 L162.5,250.5 L153.1,254.0 L147.8,258.7 L145.2,256.9 L146.6,249.8 L143.8,247.3 L144.9,242.3 L147.1,239.5 L144.0,235.3 L139.3,233.2 L135.3,233.0 L130.0,229.8 L127.9,220.2 L125.8,219.8 L123.4,209.7 L133.2,201.0 L144.3,196.0 L150.3,196.6 L156.1,194.6 L158.3,188.5 L162.3,184.8 L166.2,177.8 L171.1,178.8 L175.7,176.2 L179.4,171.4 L181.0,165.9 L183.6,165.1 L186.9,168.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.FA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948188</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD74</fips>
+    <postal-code>FA</postal-code>
+    <name>F?le?ti</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.7231</longitude>
+    <woe-name>Falesti</woe-name>
+    <latitude>47.57</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>md-fa</hc-key>
+    <hc-a2>FA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.GL" d="M189.3,162.6 L190.8,166.1 L191.0,170.5 L186.9,168.9 L183.6,165.1 L181.0,165.9 L179.4,171.4 L175.7,176.2 L171.1,178.8 L166.2,177.8 L162.3,184.8 L158.3,188.5 L156.1,194.6 L150.3,196.6 L144.3,196.0 L133.2,201.0 L123.4,209.7 L118.3,207.1 L114.0,202.6 L104.0,189.0 L100.5,182.8 L99.2,177.7 L102.8,177.0 L101.8,169.5 L109.0,164.5 L111.3,155.8 L116.6,149.5 L122.9,148.1 L128.2,148.5 L132.6,143.6 L139.5,143.0 L146.6,144.8 L160.7,153.2 L166.0,152.8 L170.6,150.1 L176.0,150.5 L184.2,160.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.GL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948190</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD76</fips>
+    <postal-code>GL</postal-code>
+    <name>Glodeni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.5658</longitude>
+    <woe-name>Glodeni</woe-name>
+    <latitude>47.7495</latitude>
+    <woe-label>Glodeni, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>md-gl</hc-key>
+    <hc-a2>GL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.SI" d="M208.7,237.1 L212.2,233.3 L213.5,227.8 L210.7,223.9 L206.4,223.9 L201.4,221.5 L201.8,216.0 L207.1,212.1 L211.1,206.9 L215.1,205.5 L215.4,201.0 L213.1,188.6 L203.7,187.8 L204.3,180.5 L207.3,173.9 L211.7,173.5 L214.5,180.2 L217.5,180.1 L221.4,175.0 L220.7,172.2 L219.8,163.3 L215.0,160.8 L209.3,161.7 L205.6,155.4 L205.3,148.0 L209.4,146.8 L213.6,146.8 L223.7,135.9 L228.5,141.2 L229.9,146.7 L233.5,147.7 L234.5,153.0 L241.5,151.5 L247.2,162.2 L252.9,162.6 L258.2,163.7 L256.1,170.0 L255.8,174.9 L267.6,177.1 L276.1,185.3 L276.4,192.2 L277.9,198.8 L277.2,203.2 L273.6,203.8 L269.6,207.9 L268.2,212.9 L262.8,214.0 L247.9,212.2 L239.4,216.2 L237.8,220.9 L239.4,225.8 L239.0,232.7 L236.2,238.4 L229.0,237.9 L222.9,241.5 L220.0,242.2 L217.0,238.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.SI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948198</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD85</fips>
+    <postal-code>SI</postal-code>
+    <name>Sîngerei</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.1728</longitude>
+    <woe-name>Sîngerei</woe-name>
+    <latitude>47.6929</latitude>
+    <woe-label>Singerei, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>md-si</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.UG" d="M208.7,237.1 L217.0,238.7 L220.0,242.2 L222.9,241.5 L229.0,237.9 L236.2,238.4 L241.9,243.3 L247.9,247.4 L247.7,253.4 L244.9,256.8 L240.9,258.0 L231.8,265.5 L226.0,268.4 L230.6,274.6 L237.1,276.4 L231.6,279.6 L226.6,286.2 L221.2,288.3 L212.3,289.4 L208.7,299.9 L207.3,312.0 L208.4,317.0 L210.8,319.9 L213.3,321.0 L213.8,327.2 L215.3,332.2 L219.4,332.7 L222.3,334.5 L220.1,338.6 L218.0,340.7 L216.4,336.6 L213.3,338.1 L206.2,334.1 L202.3,333.4 L202.3,330.0 L195.9,325.3 L191.1,319.9 L187.4,317.6 L188.4,314.3 L181.6,310.6 L179.8,308.0 L181.8,306.4 L178.8,296.7 L173.3,288.7 L173.5,285.8 L168.7,278.4 L164.8,277.4 L160.7,274.5 L155.2,272.9 L153.2,269.4 L149.5,260.3 L147.8,258.7 L153.1,254.0 L162.5,250.5 L165.4,246.8 L175.7,245.1 L186.3,245.4 L197.2,244.2 L199.2,242.9 L199.1,237.6 L201.1,236.2 L204.9,235.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.UG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069874</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD92</fips>
+    <postal-code>UG</postal-code>
+    <name>Ungheni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.9072</longitude>
+    <woe-name>Ungheni</woe-name>
+    <latitude>47.2556</latitude>
+    <woe-label>Ungheni, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>md-ug</hc-key>
+    <hc-a2>UG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.CH" d="M301.7,636.7 L301.4,641.1 L296.7,642.6 L292.1,646.4 L287.2,654.7 L293.3,660.0 L295.2,669.6 L297.5,672.7 L292.1,675.9 L279.4,675.7 L267.5,670.6 L255.8,671.5 L254.2,686.2 L245.5,692.7 L242.6,700.0 L238.3,694.8 L237.2,692.4 L237.1,684.6 L233.2,677.2 L229.5,674.3 L220.4,669.4 L225.1,664.3 L230.0,661.6 L235.3,661.7 L237.6,660.5 L236.6,657.5 L236.9,653.8 L235.6,630.6 L231.4,622.9 L228.9,615.9 L228.5,609.2 L231.8,605.3 L229.6,599.7 L230.9,594.4 L224.7,575.4 L224.4,569.8 L226.5,561.7 L225.4,559.8 L228.7,552.1 L235.8,554.6 L243.4,555.0 L249.5,558.0 L253.8,551.1 L260.2,551.0 L266.4,555.8 L274.2,556.0 L281.8,553.2 L282.8,555.1 L284.7,555.3 L283.7,564.0 L281.5,573.0 L281.3,580.4 L282.6,587.4 L286.2,593.2 L284.4,596.9 L281.4,598.9 L276.4,600.6 L273.9,606.7 L272.0,613.4 L263.3,623.7 L259.4,631.0 L258.5,642.6 L265.1,651.8 L275.4,653.7 L285.0,645.7 L289.4,639.9 L291.5,632.4 L291.3,625.7 L293.8,621.2 L298.0,627.1 L299.5,636.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.CH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069882</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD51</fips>
+    <postal-code>CH</postal-code>
+    <name>Cahul</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.3144</longitude>
+    <woe-name>Cahul</woe-name>
+    <latitude>45.64</latitude>
+    <woe-label>Cahul, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
+    <hc-key>md-ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.TA" d="M273.9,606.7 L276.4,600.6 L281.4,598.9 L284.4,596.9 L286.2,593.2 L282.6,587.4 L281.3,580.4 L281.5,573.0 L283.7,564.0 L284.7,555.3 L290.9,555.0 L296.9,556.7 L302.8,560.7 L307.6,565.6 L305.4,569.5 L307.0,575.8 L311.1,583.3 L317.7,583.0 L344.3,573.2 L353.7,557.6 L358.2,536.8 L365.6,529.5 L369.0,524.1 L373.2,528.0 L374.1,533.0 L372.2,538.5 L368.6,544.7 L363.1,551.0 L361.9,554.7 L362.3,560.3 L365.3,570.4 L365.0,575.0 L361.0,576.9 L332.9,584.4 L330.1,586.3 L328.4,589.7 L328.2,593.5 L331.2,605.4 L331.0,610.1 L329.9,613.0 L324.8,616.9 L318.9,619.0 L319.5,624.8 L318.9,627.0 L314.7,629.5 L303.8,630.6 L301.3,634.9 L301.7,636.7 L299.5,636.3 L298.0,627.1 L293.8,621.2 L288.6,616.9 L282.1,615.8 L278.4,610.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.TA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948203</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD51</fips>
+    <postal-code>TA</postal-code>
+    <name>Taraclia</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.7033</longitude>
+    <woe-name>Taraclia</woe-name>
+    <latitude>45.8995</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>md-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.GA" d="M292.1,675.9 L291.2,677.6 L292.6,686.4 L291.8,689.2 L288.4,690.7 L278.0,690.3 L265.8,687.1 L254.2,686.2 L255.8,671.5 L267.5,670.6 L279.4,675.7 Z M273.9,606.7 L278.4,610.4 L282.1,615.8 L288.6,616.9 L293.8,621.2 L291.3,625.7 L291.5,632.4 L289.4,639.9 L285.0,645.7 L275.4,653.7 L265.1,651.8 L258.5,642.6 L259.4,631.0 L263.3,623.7 L272.0,613.4 Z M358.2,536.8 L353.7,557.6 L344.3,573.2 L317.7,583.0 L311.1,583.3 L307.0,575.8 L305.4,569.5 L307.6,565.6 L302.8,560.7 L296.9,556.7 L290.9,555.0 L284.7,555.3 L282.8,555.1 L281.8,553.2 L282.7,548.6 L282.2,544.3 L280.0,540.6 L282.2,536.6 L286.9,532.5 L291.0,527.5 L291.6,520.9 L290.2,513.9 L293.3,500.1 L292.9,495.1 L285.8,489.7 L284.7,485.5 L287.6,481.8 L286.8,477.0 L297.5,468.3 L298.5,465.8 L300.8,465.5 L303.3,463.2 L304.9,459.4 L312.0,464.8 L326.6,473.8 L333.4,479.0 L332.6,487.7 L330.3,495.7 L325.8,499.7 L324.1,506.2 L327.5,506.3 L329.4,500.8 L333.1,501.3 L335.4,505.8 L340.0,507.0 L341.6,512.3 L340.9,517.9 L343.4,521.2 L346.8,522.6 L352.9,520.8 L357.9,524.9 L357.2,531.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.GA</hasc>
+    <alt-name>Unitate Teritorial? Autonoma G?g?uzia|UTAG|G?g?uzia</alt-name>
+    <woe-id>20069881</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD51</fips>
+    <postal-code>GA</postal-code>
+    <name>Comrat</name>
+    <country>Moldova</country>
+    <type-en>Autonomous Territory</type-en>
+    <region>NULL</region>
+    <longitude>28.6386</longitude>
+    <woe-name>G?g?uzia</woe-name>
+    <latitude>46.191</latitude>
+    <woe-label>Gagauzia, MD, Moldova</woe-label>
+    <type>Unitate Teritorial? Autonom?</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>md-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.ST" d="M345.1,322.1 L338.2,325.5 L331.0,324.2 L324.1,316.5 L316.6,312.1 L316.7,318.8 L328.3,329.6 L334.0,331.9 L330.6,340.4 L324.0,340.8 L320.2,338.2 L316.3,336.6 L311.3,341.5 L305.3,337.6 L301.4,329.9 L291.8,329.6 L288.3,325.4 L283.6,327.4 L278.2,324.6 L272.1,326.7 L267.2,326.1 L264.8,320.0 L267.6,313.8 L263.7,308.0 L266.2,305.0 L273.8,304.2 L277.8,302.4 L285.7,295.0 L288.7,291.2 L288.0,285.5 L285.4,282.6 L284.0,279.3 L293.4,270.6 L300.5,269.8 L303.5,267.6 L306.3,269.7 L309.2,270.2 L312.0,267.4 L315.4,267.7 L317.2,272.6 L320.6,283.9 L323.7,288.5 L328.6,286.8 L332.3,287.3 L336.7,297.4 L335.0,305.2 L336.0,312.2 L341.4,316.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.ST</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948202</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD87</fips>
+    <postal-code>ST</postal-code>
+    <name>Str??eni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.5847</longitude>
+    <woe-name>Str??eni</woe-name>
+    <latitude>47.1828</latitude>
+    <woe-label>Straseni, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>md-st</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.CV" d="M334.0,331.9 L328.3,329.6 L316.7,318.8 L316.6,312.1 L324.1,316.5 L331.0,324.2 L338.2,325.5 L345.1,322.1 L349.1,327.4 L354.9,327.8 L362.1,337.8 L364.9,330.3 L367.3,334.0 L366.1,341.6 L359.7,344.9 L355.7,353.1 L340.2,347.9 L335.0,347.0 L336.9,342.1 L336.5,336.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.CV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069878</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD57</fips>
+    <postal-code>CV</postal-code>
+    <name>Chi?in?u</name>
+    <country>Moldova</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>28.822</longitude>
+    <woe-name>Chi?in?u</woe-name>
+    <latitude>47.0348</latitude>
+    <woe-label>Chisinau, MD, Moldova</woe-label>
+    <type>Municipiu</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>md-cv</hc-key>
+    <hc-a2>CV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.AN" d="M355.7,353.1 L359.7,344.9 L366.1,341.6 L371.4,342.2 L374.5,336.9 L379.0,334.1 L383.8,335.2 L388.4,346.9 L393.7,345.8 L398.9,343.7 L403.4,346.9 L408.3,349.1 L410.4,344.8 L409.6,338.2 L409.4,328.7 L410.0,319.3 L412.5,313.8 L416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.1 L416.1,312.2 L416.1,312.2 L416.5,315.3 L422.0,318.4 L428.7,325.2 L429.7,327.0 L430.3,336.7 L427.6,335.8 L429.1,342.4 L424.1,345.3 L419.1,346.2 L416.9,345.4 L418.2,349.3 L422.9,356.1 L425.7,358.0 L429.8,358.4 L436.1,354.3 L439.2,353.1 L443.4,354.6 L444.8,356.7 L445.9,368.7 L445.2,371.6 L440.4,375.8 L442.0,383.9 L437.9,384.9 L430.4,384.7 L427.0,385.7 L422.7,392.6 L418.5,390.5 L416.8,398.3 L408.5,398.2 L405.0,394.0 L401.3,397.4 L398.0,396.0 L397.2,390.0 L387.2,387.5 L385.3,385.3 L386.6,379.7 L384.4,378.1 L378.3,376.3 L377.2,371.3 L379.6,368.1 L380.1,363.7 L376.8,360.9 L365.7,357.7 L362.5,362.6 L358.0,360.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948205</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD59</fips>
+    <postal-code>AN</postal-code>
+    <name>Anenii Noi</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>29.1922</longitude>
+    <woe-name>Anenii Noi</woe-name>
+    <latitude>46.8817</latitude>
+    <woe-label>Anenii Noi, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>md-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.BA" d="M358.2,536.8 L357.2,531.2 L357.9,524.9 L352.9,520.8 L346.8,522.6 L343.4,521.2 L340.9,517.9 L341.6,512.3 L340.0,507.0 L335.4,505.8 L333.1,501.3 L329.4,500.8 L327.5,506.3 L324.1,506.2 L325.8,499.7 L330.3,495.7 L332.6,487.7 L333.4,479.0 L338.8,478.0 L340.7,474.3 L340.6,467.9 L345.3,464.7 L348.7,464.2 L351.0,461.3 L352.5,457.6 L357.9,452.9 L360.0,449.1 L363.4,447.0 L366.9,446.2 L378.3,446.7 L381.3,448.9 L380.0,459.8 L374.3,462.0 L362.5,470.1 L359.3,475.3 L358.3,481.8 L359.7,490.2 L362.5,501.1 L362.7,504.8 L360.7,512.3 L360.8,515.4 L363.6,519.1 L369.0,524.1 L365.6,529.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.BA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948179</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD61</fips>
+    <postal-code>BA</postal-code>
+    <name>Basarabeasca</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.8846</longitude>
+    <woe-name>Basarabeasca</woe-name>
+    <latitude>46.3726</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>md-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.CN" d="M286.8,477.0 L287.6,481.8 L284.7,485.5 L285.8,489.7 L292.9,495.1 L293.3,500.1 L290.2,513.9 L291.6,520.9 L291.0,527.5 L286.9,532.5 L282.2,536.6 L280.0,540.6 L282.2,544.3 L282.7,548.6 L281.8,553.2 L274.2,556.0 L266.4,555.8 L260.2,551.0 L253.8,551.1 L249.5,558.0 L243.4,555.0 L235.8,554.6 L228.7,552.1 L231.4,544.2 L232.4,538.5 L234.3,533.2 L233.7,531.1 L228.9,523.4 L228.6,521.4 L232.3,520.1 L232.8,513.3 L237.7,511.1 L239.6,509.2 L242.1,503.6 L241.3,496.1 L244.4,492.8 L245.3,485.7 L247.5,484.1 L251.1,485.7 L254.0,483.8 L256.2,480.3 L262.5,477.6 L265.3,478.3 L265.4,483.2 L271.5,485.7 L276.9,481.2 L277.6,477.0 L279.9,475.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.CN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948182</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD65</fips>
+    <postal-code>CN</postal-code>
+    <name>Cantemir</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.3107</longitude>
+    <woe-name>Cantemir</woe-name>
+    <latitude>46.262</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>md-cn</hc-key>
+    <hc-a2>CN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.CA" d="M226.6,286.2 L231.6,279.6 L237.1,276.4 L230.6,274.6 L226.0,268.4 L231.8,265.5 L240.9,258.0 L244.9,256.8 L247.7,253.4 L247.9,247.4 L254.1,244.0 L260.6,248.5 L265.7,249.0 L269.9,247.2 L273.1,248.3 L278.6,246.9 L284.1,243.2 L289.8,242.5 L294.2,247.8 L296.1,256.4 L304.8,262.0 L303.5,267.6 L300.5,269.8 L293.4,270.6 L284.0,279.3 L285.4,282.6 L288.0,285.5 L288.7,291.2 L285.7,295.0 L277.8,302.4 L273.8,304.2 L266.2,305.0 L263.7,308.0 L254.9,306.9 L250.6,304.3 L246.2,302.7 L235.7,296.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.CA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948181</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD66</fips>
+    <postal-code>CA</postal-code>
+    <name>Calarasi</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.3373</longitude>
+    <woe-name>Calarasi</woe-name>
+    <latitude>47.2892</latitude>
+    <woe-label>Calarasi, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>md-ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.CS" d="M333.4,479.0 L326.6,473.8 L312.0,464.8 L304.9,459.4 L305.3,452.5 L302.9,444.3 L305.2,441.1 L305.5,434.3 L307.5,429.2 L304.9,426.0 L304.5,421.0 L308.2,413.8 L310.4,403.6 L315.0,401.5 L323.3,395.3 L328.0,393.7 L327.2,389.3 L328.5,385.1 L335.6,391.4 L346.6,391.3 L350.4,391.9 L355.7,387.6 L361.0,392.1 L363.0,392.8 L366.0,389.5 L368.9,403.6 L373.9,414.7 L382.4,427.9 L390.8,430.8 L397.6,436.7 L400.1,444.5 L400.2,450.6 L397.0,450.6 L383.0,458.7 L380.0,459.8 L381.3,448.9 L378.3,446.7 L366.9,446.2 L363.4,447.0 L360.0,449.1 L357.9,452.9 L352.5,457.6 L351.0,461.3 L348.7,464.2 L345.3,464.7 L340.6,467.9 L340.7,474.3 L338.8,478.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.CS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948184</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD68</fips>
+    <postal-code>CS</postal-code>
+    <name>Cimi?lia</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.7794</longitude>
+    <woe-name>Cimislia</woe-name>
+    <latitude>46.5885</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>md-cs</hc-key>
+    <hc-a2>CS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.CR" d="M398.0,298.2 L395.6,299.4 L392.7,306.1 L387.6,309.2 L384.8,312.7 L380.9,320.4 L385.6,322.5 L389.7,326.7 L393.4,321.5 L394.6,317.5 L399.8,317.9 L400.5,315.1 L398.3,310.1 L398.1,307.7 L401.5,306.0 L405.7,309.2 L407.2,306.1 L411.5,309.3 L415.8,311.1 L416.1,312.2 L416.1,312.2 L416.1,312.2 L412.5,313.8 L410.0,319.3 L409.4,328.7 L409.6,338.2 L410.4,344.8 L408.3,349.1 L403.4,346.9 L398.9,343.7 L393.7,345.8 L388.4,346.9 L383.8,335.2 L379.0,334.1 L374.5,336.9 L371.4,342.2 L366.1,341.6 L367.3,334.0 L364.9,330.3 L362.1,337.8 L354.9,327.8 L349.1,327.4 L345.1,322.1 L341.4,316.2 L336.0,312.2 L335.0,305.2 L336.7,297.4 L339.2,295.5 L338.5,289.0 L342.5,283.0 L348.5,283.9 L355.0,280.3 L360.9,275.0 L367.5,272.4 L373.0,266.9 L380.8,275.5 L381.8,281.5 L381.3,286.9 L387.1,289.8 L393.5,287.2 L395.5,290.4 L395.5,290.4 Z M416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.CR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948185</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD69</fips>
+    <postal-code>CR</postal-code>
+    <name>Criuleni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>29.0355</longitude>
+    <woe-name>Criuleni</woe-name>
+    <latitude>47.1782</latitude>
+    <woe-label>Criuleni, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>md-cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.1605" d="M398.0,298.2 L395.5,290.4 L395.5,290.4 L399.6,283.0 L397.1,276.6 L389.4,280.4 L393.5,287.2 L387.1,289.8 L381.3,286.9 L381.8,281.5 L380.8,275.5 L373.0,266.9 L370.0,262.8 L366.7,260.0 L369.4,256.9 L370.8,252.3 L373.5,251.3 L377.6,253.7 L379.7,250.9 L382.4,249.9 L383.5,242.8 L386.2,238.8 L386.3,235.3 L389.2,236.2 L390.8,231.9 L395.1,242.2 L398.0,244.3 L401.1,240.4 L403.6,239.3 L405.9,240.4 L408.8,245.3 L413.6,248.4 L416.8,256.1 L423.9,258.9 L426.0,261.9 L428.0,273.0 L425.1,277.0 L425.7,282.5 L422.6,287.3 L417.5,292.2 L413.4,298.2 L417.1,311.7 L416.1,312.1 L416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.2 L416.1,312.2 L415.8,311.1 L411.5,309.3 L407.2,306.1 L405.7,309.2 L401.5,306.0 L398.1,307.7 L398.3,310.1 L400.5,315.1 L399.8,317.9 L394.6,317.5 L393.4,321.5 L389.7,326.7 L385.6,322.5 L380.9,320.4 L384.8,312.7 L387.6,309.2 L392.7,306.1 L395.6,299.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.DB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948201</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD58</fips>
+    <postal-code>NULL</postal-code>
+    <name>Stîng? Nistrului</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>29.1763</longitude>
+    <woe-name>Stinga Nistrul</woe-name>
+    <latitude>47.1532</latitude>
+    <woe-label>Stinga Nistrul, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>md-1605</hc-key>
+    <hc-a2>SN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.FL" d="M276.1,185.3 L267.6,177.1 L255.8,174.9 L256.1,170.0 L258.2,163.7 L252.9,162.6 L247.2,162.2 L241.5,151.5 L234.5,153.0 L233.5,147.7 L229.9,146.7 L228.5,141.2 L223.7,135.9 L226.0,131.2 L223.2,121.9 L223.8,116.4 L234.5,114.6 L245.4,114.6 L250.5,115.2 L255.5,114.1 L257.7,109.6 L263.2,112.6 L270.5,115.7 L276.6,113.1 L281.0,116.1 L285.6,113.7 L290.2,115.9 L291.6,122.6 L290.2,132.6 L287.4,138.9 L279.5,148.7 L281.3,158.0 L283.8,155.3 L293.9,160.8 L296.2,169.6 L291.6,177.8 L287.0,184.5 L281.7,181.0 L278.6,182.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.FL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948189</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD75</fips>
+    <postal-code>FL</postal-code>
+    <name>Flore?ti</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.2994</longitude>
+    <woe-name>Flore?ti</woe-name>
+    <latitude>47.8707</latitude>
+    <woe-label>Floresti, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>md-fl</hc-key>
+    <hc-a2>FL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.DU" d="M443.4,354.6 L439.2,353.1 L436.1,354.3 L429.8,358.4 L425.7,358.0 L422.9,356.1 L418.2,349.3 L416.9,345.4 L419.1,346.2 L424.1,345.3 L429.1,342.4 L427.6,335.8 L430.3,336.7 L429.7,327.0 L428.7,325.2 L422.0,318.4 L416.5,315.3 L416.1,312.2 L416.1,312.2 L416.1,312.1 L417.1,311.7 L413.4,298.2 L417.5,292.2 L422.6,287.3 L425.7,282.5 L425.1,277.0 L428.0,273.0 L429.6,275.6 L434.1,278.6 L439.2,278.0 L441.9,275.4 L443.6,268.6 L445.2,265.0 L451.5,264.7 L454.5,265.8 L457.1,268.1 L459.3,272.0 L460.8,277.4 L461.1,282.7 L459.3,286.8 L455.5,288.9 L455.0,293.9 L456.7,306.0 L455.9,311.7 L453.7,314.5 L445.9,316.0 L445.9,318.9 L450.9,327.9 L452.3,329.2 L454.0,327.8 L457.1,322.2 L460.1,321.8 L464.0,325.7 L465.4,332.3 L464.3,335.5 L460.7,340.3 L459.0,352.0 L446.0,352.6 L443.4,354.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.DU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-55948205</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD58</fips>
+    <postal-code>DU</postal-code>
+    <name>Grigoriopol</name>
+    <country>Moldova</country>
+    <type-en>Territorial Unit</type-en>
+    <region>NULL</region>
+    <longitude>29.4396</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>47.1194</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Unitatea Teritorial?</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>md-du</hc-key>
+    <hc-a2>DU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.DB" d="M395.5,290.4 L393.5,287.2 L389.4,280.4 L397.1,276.6 L399.6,283.0 L395.5,290.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.DB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069876</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD72</fips>
+    <postal-code>DB</postal-code>
+    <name>Transnistria</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>29.1574</longitude>
+    <woe-name>Transnistria</woe-name>
+    <latitude>47.2616</latitude>
+    <woe-label>Transnistria, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>md-db</hc-key>
+    <hc-a2>DB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.HI" d="M328.5,385.1 L327.2,389.3 L328.0,393.7 L323.3,395.3 L315.0,401.5 L310.4,403.6 L308.2,413.8 L304.5,421.0 L303.3,411.9 L298.0,409.7 L291.8,413.6 L286.2,414.9 L280.9,409.9 L275.0,408.3 L273.2,414.3 L268.8,415.9 L272.0,420.4 L271.5,424.8 L273.0,430.1 L271.5,432.0 L263.4,433.9 L259.8,432.2 L258.5,427.1 L250.6,429.6 L248.8,422.4 L240.0,404.5 L240.0,400.1 L233.6,389.1 L231.1,382.6 L231.5,376.3 L229.8,374.0 L229.8,368.6 L227.2,366.8 L228.5,362.7 L247.2,366.2 L252.5,357.9 L259.6,350.6 L263.5,349.7 L266.3,345.8 L263.6,339.2 L266.2,334.6 L274.5,345.9 L276.5,350.5 L274.9,356.9 L279.1,359.0 L285.3,349.9 L289.7,340.4 L285.0,336.9 L289.0,333.0 L294.0,338.3 L299.3,341.8 L297.8,349.6 L305.1,357.8 L313.0,364.6 L314.8,366.7 L315.6,373.4 L316.6,376.3 L319.5,374.3 L322.0,370.7 L326.6,375.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.HI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948191</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD77</fips>
+    <postal-code>HI</postal-code>
+    <name>Hîncesti</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.416</longitude>
+    <woe-name>Hîncesti</woe-name>
+    <latitude>46.8298</latitude>
+    <woe-label>Hincesti, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>md-hi</hc-key>
+    <hc-a2>HI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.IA" d="M334.0,331.9 L336.5,336.0 L336.9,342.1 L335.0,347.0 L340.2,347.9 L355.7,353.1 L358.0,360.5 L362.5,362.6 L365.7,357.7 L376.8,360.9 L380.1,363.7 L379.6,368.1 L377.2,371.3 L378.3,376.3 L384.4,378.1 L379.7,382.4 L374.7,386.1 L366.0,389.5 L363.0,392.8 L361.0,392.1 L355.7,387.6 L350.4,391.9 L346.6,391.3 L335.6,391.4 L328.5,385.1 L326.6,375.5 L322.0,370.7 L319.5,374.3 L316.6,376.3 L315.6,373.4 L314.8,366.7 L313.0,364.6 L305.1,357.8 L297.8,349.6 L299.3,341.8 L294.0,338.3 L289.0,333.0 L290.5,331.5 L291.8,329.6 L301.4,329.9 L305.3,337.6 L311.3,341.5 L316.3,336.6 L320.2,338.2 L324.0,340.8 L330.6,340.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.IA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948192</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD78</fips>
+    <postal-code>IA</postal-code>
+    <name>Ialoveni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.7874</longitude>
+    <woe-name>Ialoveni</woe-name>
+    <latitude>46.8905</latitude>
+    <woe-label>Ialoveni, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>md-ia</hc-key>
+    <hc-a2>IA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.LE" d="M304.5,421.0 L304.9,426.0 L307.5,429.2 L305.5,434.3 L305.2,441.1 L302.9,444.3 L305.3,452.5 L304.9,459.4 L303.3,463.2 L300.8,465.5 L298.5,465.8 L297.5,468.3 L286.8,477.0 L279.9,475.0 L277.6,477.0 L276.9,481.2 L271.5,485.7 L265.4,483.2 L265.3,478.3 L262.5,477.6 L256.2,480.3 L254.0,483.8 L251.1,485.7 L247.5,484.1 L248.6,482.7 L247.4,479.5 L250.6,476.6 L250.6,465.6 L248.8,465.0 L246.4,459.1 L246.7,450.4 L248.8,447.7 L247.4,443.9 L248.2,440.6 L250.9,435.2 L250.6,429.6 L258.5,427.1 L259.8,432.2 L263.4,433.9 L271.5,432.0 L273.0,430.1 L271.5,424.8 L272.0,420.4 L268.8,415.9 L273.2,414.3 L275.0,408.3 L280.9,409.9 L286.2,414.9 L291.8,413.6 L298.0,409.7 L303.3,411.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.LE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948193</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD79</fips>
+    <postal-code>LE</postal-code>
+    <name>Leova</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.4105</longitude>
+    <woe-name>Leova</woe-name>
+    <latitude>46.5654</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>md-le</hc-key>
+    <hc-a2>LE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.NI" d="M291.8,329.6 L290.5,331.5 L289.0,333.0 L285.0,336.9 L289.7,340.4 L285.3,349.9 L279.1,359.0 L274.9,356.9 L276.5,350.5 L274.5,345.9 L266.2,334.6 L263.6,339.2 L266.3,345.8 L263.5,349.7 L259.6,350.6 L252.5,357.9 L247.2,366.2 L228.5,362.7 L228.1,359.3 L225.0,350.9 L222.9,346.9 L218.0,340.7 L220.1,338.6 L222.3,334.5 L219.4,332.7 L215.3,332.2 L213.8,327.2 L213.3,321.0 L210.8,319.9 L208.4,317.0 L207.3,312.0 L208.7,299.9 L212.3,289.4 L221.2,288.3 L226.6,286.2 L235.7,296.4 L246.2,302.7 L250.6,304.3 L254.9,306.9 L263.7,308.0 L267.6,313.8 L264.8,320.0 L267.2,326.1 L272.1,326.7 L278.2,324.6 L283.6,327.4 L288.3,325.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.NI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55948194</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD80</fips>
+    <postal-code>NI</postal-code>
+    <name>Nisporeni</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.2369</longitude>
+    <woe-name>Nisporeni</woe-name>
+    <latitude>47.0476</latitude>
+    <woe-label>Nisporeni, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>md-ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD.OH" d="M386.3,235.3 L386.2,238.8 L383.5,242.8 L382.4,249.9 L379.7,250.9 L377.6,253.7 L373.5,251.3 L370.8,252.3 L369.4,256.9 L366.7,260.0 L370.0,262.8 L373.0,266.9 L367.5,272.4 L360.9,275.0 L355.0,280.3 L348.5,283.9 L342.5,283.0 L338.5,289.0 L339.2,295.5 L336.7,297.4 L332.3,287.3 L328.6,286.8 L323.7,288.5 L320.6,283.9 L317.2,272.6 L315.4,267.7 L312.0,267.4 L309.2,270.2 L306.3,269.7 L303.5,267.6 L304.8,262.0 L296.1,256.4 L294.2,247.8 L303.1,243.8 L302.0,239.0 L303.5,234.8 L303.8,230.1 L323.7,216.0 L329.7,216.9 L332.9,220.0 L336.8,220.9 L341.2,219.1 L347.4,211.1 L351.2,210.4 L354.2,205.6 L358.1,206.6 L362.1,210.0 L367.3,217.9 L373.4,221.5 L376.9,226.9 L383.9,231.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MD.OH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069875</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MD82</fips>
+    <postal-code>OH</postal-code>
+    <name>Orhei</name>
+    <country>Moldova</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.8156</longitude>
+    <woe-name>Orhei</woe-name>
+    <latitude>47.3961</latitude>
+    <woe-label>Orhei, MD, Moldova</woe-label>
+    <type>Raion</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>md-oh</hc-key>
+    <hc-a2>OH</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

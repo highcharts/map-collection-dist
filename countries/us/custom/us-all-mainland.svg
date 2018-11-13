@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>United States of America, mainland</title>
+<g id="admin1">
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path d="M672.8,126.6 L675.8,127.3 L673.2,128.2 L672.0,129.5 Z M665.4,124.9 L665.2,124.1 L664.7,124.5 L663.0,123.4 L661.5,120.1 L656.5,121.5 L644.9,124.2 L636.1,126.1 L635.6,125.8 L635.8,114.2 L640.1,113.2 L645.4,112.0 L645.4,112.0 L659.4,108.7 L660.7,106.4 L664.4,104.2 L665.6,106.7 L668.1,107.4 L665.2,109.9 L664.4,114.2 L666.0,113.5 L668.7,114.6 L672.7,120.4 L676.3,121.1 L679.0,119.0 L677.4,115.1 L679.6,117.6 L680.5,120.6 L677.6,121.7 L672.2,125.5 L671.6,122.3 L669.0,124.5 L669.2,126.0 L667.0,127.3 L666.2,124.9 Z" fill="#CEE3F5" id="US.MA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.MA</hasc>
+    <woe-id>2347580</woe-id>
+    <state-fips>25</state-fips>
+    <fips>US25</fips>
+    <postal-code>MA</postal-code>
+    <name>Massachusetts</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-71.99930000000001</longitude>
+    <woe-name>Massachusetts</woe-name>
+    <latitude>42.3739</latitude>
+    <woe-label>Massachusetts, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>us-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path d="M59.5,3.5 L60.8,5.4 L58.6,6.0 L58.9,9.0 L55.7,6.5 L57.3,6.1 Z M61.1,10.4 L58.9,12.4 L60.2,13.3 L61.7,18.3 L59.5,17.0 L59.7,13.9 L58.7,12.1 L61.1,10.4 L60.6,9.9 L60.5,7.3 L62.4,9.6 L63.7,7.7 L63.9,4.9 L62.3,4.1 L61.5,0.8 L62.4,0.0 L124.2,16.6 L113.9,59.7 L114.7,63.3 L114.4,66.4 L90.1,60.4 L88.9,61.0 L83.1,60.0 L75.0,61.0 L70.5,59.9 L66.9,60.4 L63.8,59.7 L63.0,58.2 L57.2,56.2 L51.1,57.2 L46.2,54.0 L46.9,48.7 L46.4,46.2 L43.7,44.2 L41.4,43.8 L40.9,41.6 L38.6,40.3 L36.3,40.8 L34.8,38.2 L36.3,33.4 L36.0,36.9 L37.6,35.8 L38.6,32.5 L36.4,31.9 L36.7,29.4 L40.6,29.4 L37.1,26.8 L37.1,21.2 L38.0,14.6 L36.5,11.2 L36.9,6.6 L39.6,3.9 L44.3,8.9 L52.7,12.6 L54.0,11.9 L55.0,14.7 L58.0,13.8 L58.3,18.4 L55.7,21.5 L59.5,18.4 L57.3,23.2 L58.7,27.4 L54.5,26.9 L53.2,29.5 L53.7,25.9 L50.1,29.5 L54.3,30.6 L56.5,28.0 L59.2,27.4 L59.2,24.2 L60.2,20.9 L63.3,18.1 L62.1,13.4 L62.9,12.3 Z" fill="#CEE3F5" id="US.WA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.WA</hasc>
+    <woe-id>2347606</woe-id>
+    <state-fips>53</state-fips>
+    <fips>US53</fips>
+    <postal-code>WA</postal-code>
+    <name>Washington</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-120.361</longitude>
+    <woe-name>Washington</woe-name>
+    <latitude>47.4865</latitude>
+    <woe-label>Washington, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-wa</hc-key>
+    <hc-a2>WA</hc-a2>
+  </desc>
+</path>
+
+<path d="M10.7,107.4 L61.2,122.3 L48.1,170.8 L66.5,198.2 L81.3,220.7 L102.7,252.6 L104.4,262.1 L107.0,265.8 L103.0,267.7 L100.5,270.3 L100.2,274.0 L97.4,278.3 L96.0,278.4 L95.2,283.8 L97.9,286.2 L96.2,290.0 L93.5,289.9 L59.5,285.5 L60.0,282.8 L58.3,282.2 L59.0,275.4 L57.4,271.1 L50.0,261.9 L46.7,261.4 L47.3,259.9 L46.1,256.1 L42.4,255.9 L37.6,252.0 L37.2,250.1 L33.2,246.2 L29.7,245.5 L26.5,243.5 L21.9,242.6 L20.2,239.7 L22.7,230.8 L19.8,228.1 L21.1,227.0 L18.0,220.8 L16.6,219.9 L13.3,209.7 L11.6,207.4 L11.8,202.7 L14.5,201.6 L15.4,199.7 L14.3,196.4 L11.5,195.6 L9.3,191.1 L10.1,188.5 L9.4,185.3 L10.7,181.3 L12.2,181.3 L11.8,184.9 L15.2,188.4 L14.6,184.5 L13.0,182.0 L13.7,178.2 L16.8,178.6 L14.0,175.8 L12.4,176.0 L10.7,180.7 L6.9,175.8 L6.2,168.3 L1.0,158.4 L2.0,156.8 L2.0,151.2 L3.6,148.3 L4.1,143.4 L2.2,138.0 L0.0,134.5 L0.4,131.5 L7.1,123.1 L9.7,117.0 L10.0,111.8 L9.0,110.8 Z" fill="#CEE3F5" id="US.CA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.CA</hasc>
+    <woe-id>2347563</woe-id>
+    <state-fips>6</state-fips>
+    <fips>US06</fips>
+    <postal-code>CA</postal-code>
+    <name>California</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-119.591</longitude>
+    <woe-name>California</woe-name>
+    <latitude>36.7496</latitude>
+    <woe-label>California, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>us-ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path d="M61.2,122.3 L10.7,107.4 L9.6,105.1 L9.8,101.3 L11.7,96.1 L11.1,92.7 L13.3,90.1 L15.7,85.4 L18.4,82.6 L21.1,77.6 L26.1,65.9 L26.9,62.8 L32.6,51.6 L32.7,48.0 L34.3,44.7 L34.8,41.0 L38.9,42.5 L40.8,41.9 L41.3,44.0 L43.7,44.2 L46.4,46.2 L46.9,48.7 L46.2,54.0 L51.1,57.2 L57.2,56.2 L63.0,58.2 L63.8,59.7 L66.9,60.4 L70.5,59.9 L75.0,61.0 L83.1,60.0 L88.9,61.0 L90.1,60.4 L114.4,66.4 L115.1,69.4 L117.4,71.4 L117.5,74.4 L114.5,77.7 L110.7,84.3 L104.7,90.4 L104.1,93.4 L107.2,96.1 L104.2,102.3 L97.4,131.5 Z" fill="#CEE3F5" id="US.OR" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.OR</hasc>
+    <woe-id>2347596</woe-id>
+    <state-fips>41</state-fips>
+    <fips>US41</fips>
+    <postal-code>OR</postal-code>
+    <name>Oregon</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-120.386</longitude>
+    <woe-name>Oregon</woe-name>
+    <latitude>43.8333</latitude>
+    <woe-label>Oregon, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-or</hc-key>
+    <hc-a2>OR</hc-a2>
+  </desc>
+</path>
+
+<path d="M464.9,100.2 L464.2,104.2 L461.8,109.4 L460.3,107.8 L461.9,103.4 Z M424.1,151.2 L423.2,148.8 L418.9,147.6 L417.0,140.7 L417.9,138.6 L415.7,135.0 L414.8,128.0 L413.1,126.4 L410.2,125.7 L404.6,119.8 L401.0,117.6 L398.7,117.2 L395.8,114.7 L396.5,111.9 L396.3,105.6 L397.2,103.1 L394.6,101.0 L394.5,98.6 L396.5,95.3 L401.2,92.2 L400.8,82.5 L402.9,80.5 L406.6,81.4 L413.5,78.5 L416.0,76.8 L418.6,77.1 L418.1,79.6 L419.8,81.8 L422.8,82.5 L425.0,83.8 L426.4,86.5 L438.3,88.9 L441.8,90.6 L449.5,91.2 L451.1,94.0 L454.4,95.4 L454.3,101.0 L456.7,100.9 L456.1,103.8 L457.7,104.9 L455.3,107.8 L453.4,114.4 L454.7,114.5 L457.9,109.3 L459.8,108.4 L461.4,109.7 L459.6,118.2 L460.4,119.6 L458.1,124.8 L458.7,128.4 L456.8,136.0 L457.3,140.1 L459.0,143.5 L459.3,148.9 L437.4,150.4 L426.1,151.1 Z" fill="#CEE3F5" id="US.WI" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.WI</hasc>
+    <woe-id>2347608</woe-id>
+    <state-fips>55</state-fips>
+    <fips>US55</fips>
+    <postal-code>WI</postal-code>
+    <name>Wisconsin</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-89.5831</longitude>
+    <woe-name>Wisconsin</woe-name>
+    <latitude>44.3709</latitude>
+    <woe-label>Wisconsin, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>us-wi</hc-key>
+    <hc-a2>WI</hc-a2>
+  </desc>
+</path>
+
+<path d="M685.3,72.5 L686.6,70.2 L688.0,71.2 L686.4,74.9 Z M659.6,93.6 L650.2,65.9 L652.5,66.2 L653.5,60.2 L655.9,56.7 L656.5,52.6 L655.4,50.9 L655.4,45.9 L656.4,44.5 L655.8,39.7 L660.5,25.3 L662.7,24.8 L663.9,27.6 L665.7,28.1 L672.7,23.2 L678.6,26.8 L685.7,48.6 L690.1,48.5 L691.4,53.8 L693.3,55.2 L695.3,54.3 L700.0,58.8 L697.9,63.0 L696.0,62.4 L695.7,64.5 L690.6,67.1 L691.1,69.5 L689.6,71.2 L688.2,69.0 L684.5,70.0 L683.2,73.8 L684.8,77.7 L680.8,73.2 L680.7,70.3 L678.5,73.0 L679.2,79.3 L677.7,81.9 L676.2,81.6 L675.2,84.3 L673.0,85.1 L672.2,87.6 L670.1,85.6 L667.4,89.0 L668.4,91.1 L665.4,97.0 L664.3,100.7 L660.3,96.6 Z" fill="#CEE3F5" id="US.ME" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.ME</hasc>
+    <woe-id>2347578</woe-id>
+    <state-fips>23</state-fips>
+    <fips>US23</fips>
+    <postal-code>ME</postal-code>
+    <name>Maine</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-69.1973</longitude>
+    <woe-name>Maine</woe-name>
+    <latitude>45.148</latitude>
+    <woe-label>Maine, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>us-me</hc-key>
+    <hc-a2>ME</hc-a2>
+  </desc>
+</path>
+
+<path d="M503.3,83.2 L503.6,85.7 L500.8,85.8 L501.5,83.0 Z M442.7,54.2 L440.9,57.1 L436.0,60.5 L436.0,58.3 Z M514.5,155.4 L504.1,157.2 L497.9,158.1 L497.7,157.1 L472.4,160.0 L475.0,156.6 L477.3,151.1 L478.4,143.3 L477.9,139.1 L472.8,128.4 L473.8,125.7 L472.3,120.8 L474.8,115.6 L474.3,110.3 L476.1,109.1 L476.1,106.3 L478.8,105.4 L480.8,101.2 L481.8,103.2 L481.2,106.8 L482.4,107.8 L483.9,105.2 L483.6,100.2 L485.9,97.3 L488.2,97.0 L486.5,93.0 L489.8,89.7 L493.3,91.3 L492.0,89.2 L494.7,89.3 L493.8,91.4 L496.6,91.5 L498.4,93.6 L505.6,95.1 L507.3,96.2 L508.6,99.6 L507.0,101.1 L509.7,105.7 L509.8,112.0 L507.8,113.4 L507.6,116.9 L504.5,118.5 L504.7,123.7 L507.6,124.6 L509.6,122.7 L512.0,117.5 L515.6,115.6 L518.8,117.7 L522.3,128.1 L524.3,132.2 L524.1,138.5 L520.3,139.0 L520.0,143.2 L517.4,145.9 L516.6,151.7 Z M443.4,71.6 L445.1,74.3 L445.2,77.4 L447.5,74.7 L452.7,75.0 L454.7,76.0 L458.5,81.0 L462.8,80.1 L464.0,81.4 L467.3,81.0 L472.1,76.6 L479.3,75.9 L482.8,73.9 L485.7,73.4 L485.0,77.8 L487.7,78.7 L489.7,77.8 L490.9,79.0 L492.4,77.3 L495.9,76.5 L496.2,81.4 L499.6,84.8 L498.2,85.8 L492.2,86.1 L490.6,85.2 L490.1,88.7 L486.4,86.3 L482.5,85.3 L480.2,85.8 L479.0,87.8 L472.2,89.1 L471.0,91.7 L467.3,94.4 L468.6,90.5 L466.2,91.3 L464.0,93.9 L463.5,90.8 L457.7,104.9 L456.1,103.8 L456.7,100.9 L454.3,101.0 L454.4,95.4 L451.1,94.0 L449.5,91.2 L441.8,90.6 L438.3,88.9 L426.4,86.5 L425.0,83.8 L422.8,82.5 L427.2,80.4 L429.7,78.0 L434.2,77.1 L437.1,74.5 L439.0,74.1 L442.5,70.1 L443.1,71.0 L444.7,67.7 L448.8,65.4 L452.6,66.0 L447.1,70.6 L445.3,74.1 L445.1,71.8 Z" fill="#CEE3F5" id="US.MI" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.MI</hasc>
+    <woe-id>2347581</woe-id>
+    <state-fips>26</state-fips>
+    <fips>US26</fips>
+    <postal-code>MI</postal-code>
+    <name>Michigan</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-84.9479</longitude>
+    <woe-name>Michigan</woe-name>
+    <latitude>43.4343</latitude>
+    <woe-label>Michigan, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.71</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>us-mi</hc-key>
+    <hc-a2>MI</hc-a2>
+  </desc>
+</path>
+
+<path d="M61.2,122.3 L97.4,131.5 L122.3,137.1 L133.7,139.4 L124.4,185.5 L117.2,221.4 L114.6,234.2 L112.9,236.9 L107.6,233.8 L105.2,234.4 L105.1,238.2 L103.9,244.0 L104.1,249.6 L102.7,252.6 L81.3,220.7 L66.5,198.2 L48.1,170.8 Z" fill="#CEE3F5" id="US.NV" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NV</hasc>
+    <woe-id>2347587</woe-id>
+    <state-fips>32</state-fips>
+    <fips>US32</fips>
+    <postal-code>NV</postal-code>
+    <name>Nevada</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-117.02</longitude>
+    <woe-name>Nevada</woe-name>
+    <latitude>39.4299</latitude>
+    <woe-label>Nevada, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>us-nv</hc-key>
+    <hc-a2>NV</hc-a2>
+  </desc>
+</path>
+
+<path d="M183.2,232.8 L263.9,241.8 L263.4,248.0 L263.2,250.1 L262.6,250.4 L256.5,325.3 L205.1,320.3 L206.9,324.4 L182.5,321.2 L181.5,328.7 L169.6,327.0 L176.4,279.8 Z" fill="#CEE3F5" id="US.NM" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NM</hasc>
+    <woe-id>2347590</woe-id>
+    <state-fips>35</state-fips>
+    <fips>US35</fips>
+    <postal-code>NM</postal-code>
+    <name>New Mexico</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-106.024</longitude>
+    <woe-name>New Mexico</woe-name>
+    <latitude>34.5002</latitude>
+    <woe-label>New Mexico, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-nm</hc-key>
+    <hc-a2>NM</hc-a2>
+  </desc>
+</path>
+
+<path d="M263.9,241.8 L183.2,232.8 L191.3,177.0 L192.8,166.6 L255.7,173.9 L281.0,175.9 L279.9,192.6 L279.2,203.6 L276.7,242.7 Z" fill="#CEE3F5" id="US.CO" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.CO</hasc>
+    <woe-id>2347564</woe-id>
+    <state-fips>8</state-fips>
+    <fips>US08</fips>
+    <postal-code>CO</postal-code>
+    <name>Colorado</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-105.543</longitude>
+    <woe-name>Colorado</woe-name>
+    <latitude>38.9998</latitude>
+    <woe-label>Colorado, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-co</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</path>
+
+<path d="M255.7,173.9 L192.8,166.6 L167.7,162.7 L170.5,146.2 L172.6,133.3 L177.4,104.8 L178.8,96.5 L261.6,107.1 L259.2,134.3 L258.7,140.6 L258.1,146.8 Z" fill="#CEE3F5" id="US.WY" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.WY</hasc>
+    <woe-id>2347609</woe-id>
+    <state-fips>56</state-fips>
+    <fips>US56</fips>
+    <postal-code>WY</postal-code>
+    <name>Wyoming</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-107.552</longitude>
+    <woe-name>Wyoming</woe-name>
+    <latitude>42.9999</latitude>
+    <woe-label>Wyoming, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-wy</hc-key>
+    <hc-a2>WY</hc-a2>
+  </desc>
+</path>
+
+<path d="M279.9,192.6 L366.5,195.2 L372.1,198.1 L369.4,203.0 L372.0,205.4 L372.9,208.2 L375.7,209.7 L376.2,245.2 L276.7,242.7 L279.2,203.6 Z" fill="#CEE3F5" id="US.KS" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.KS</hasc>
+    <woe-id>2347575</woe-id>
+    <state-fips>20</state-fips>
+    <fips>US20</fips>
+    <postal-code>KS</postal-code>
+    <name>Kansas</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-98.3309</longitude>
+    <woe-name>Kansas</woe-name>
+    <latitude>38.5</latitude>
+    <woe-label>Kansas, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-ks</hc-key>
+    <hc-a2>KS</hc-a2>
+  </desc>
+</path>
+
+<path d="M366.5,195.2 L279.9,192.6 L281.0,175.9 L255.7,173.9 L258.1,146.8 L258.7,140.6 L327.1,144.5 L332.0,148.0 L335.0,146.9 L341.7,146.7 L343.8,148.4 L348.9,150.3 L351.7,153.0 L352.8,153.4 L353.3,158.3 L355.8,161.9 L356.9,165.1 L356.7,169.3 L358.6,170.7 L359.3,173.3 L359.9,181.9 L360.7,184.9 L360.7,185.1 L360.7,185.1 L360.7,185.1 L360.7,185.1 L362.5,189.4 Z" fill="#CEE3F5" id="US.NE" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NE</hasc>
+    <woe-id>2347586</woe-id>
+    <state-fips>31</state-fips>
+    <fips>US31</fips>
+    <postal-code>NE</postal-code>
+    <name>Nebraska</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-99.68550000000001</longitude>
+    <woe-name>Nebraska</woe-name>
+    <latitude>41.5002</latitude>
+    <woe-label>Nebraska, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-ne</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</path>
+
+<path d="M276.7,242.7 L376.2,245.2 L376.3,247.3 L376.4,253.6 L379.1,272.2 L379.0,301.4 L373.5,299.6 L368.6,296.2 L366.7,297.8 L363.3,296.4 L360.9,297.9 L358.6,297.4 L353.1,300.6 L348.6,297.0 L345.7,297.7 L344.9,296.3 L342.7,297.9 L342.1,300.1 L340.8,297.0 L338.5,298.3 L334.2,295.7 L330.3,297.1 L328.5,293.0 L322.9,293.9 L316.6,291.4 L313.2,290.9 L312.3,287.9 L306.6,288.0 L302.3,284.8 L303.6,252.6 L263.2,250.1 L263.4,248.0 L263.9,241.8 Z" fill="#CEE3F5" id="US.OK" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.OK</hasc>
+    <woe-id>2347595</woe-id>
+    <state-fips>40</state-fips>
+    <fips>US40</fips>
+    <postal-code>OK</postal-code>
+    <name>Oklahoma</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-97.1309</longitude>
+    <woe-name>Oklahoma</woe-name>
+    <latitude>35.452</latitude>
+    <woe-label>Oklahoma, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.78</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-ok</hc-key>
+    <hc-a2>OK</hc-a2>
+  </desc>
+</path>
+
+<path d="M376.4,253.6 L376.3,247.3 L376.2,245.2 L375.7,209.7 L372.9,208.2 L372.0,205.4 L369.4,203.0 L372.1,198.1 L366.5,195.2 L362.5,189.4 L360.7,185.1 L360.7,185.1 L360.7,185.1 L377.1,185.4 L394.8,184.9 L412.1,183.6 L416.0,187.4 L416.0,187.4 L416.0,187.4 L415.2,190.9 L416.3,196.0 L417.7,198.5 L421.8,202.6 L425.0,204.6 L426.8,210.0 L428.4,211.9 L430.4,210.2 L434.5,212.3 L431.7,221.3 L435.6,225.8 L438.1,226.7 L443.4,230.7 L445.0,234.9 L444.2,237.8 L446.3,240.6 L449.9,242.2 L450.0,246.3 L448.7,249.2 L447.2,248.2 L446.5,250.5 L445.8,251.4 L445.5,250.6 L444.4,249.7 L444.6,250.7 L445.2,252.6 L443.1,255.0 L444.3,256.7 L443.0,259.2 L434.2,260.0 L438.0,254.7 L436.5,251.2 Z" fill="#CEE3F5" id="US.MO" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.MO</hasc>
+    <woe-id>2347584</woe-id>
+    <state-fips>29</state-fips>
+    <fips>US29</fips>
+    <postal-code>MO</postal-code>
+    <name>Missouri</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-92.446</longitude>
+    <woe-name>Missouri</woe-name>
+    <latitude>38.5487</latitude>
+    <woe-label>Missouri, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>us-mo</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path d="M459.3,148.9 L459.3,152.5 L463.9,161.3 L467.5,200.8 L466.1,205.0 L468.0,207.3 L468.7,210.7 L467.3,214.9 L465.9,216.0 L464.1,221.2 L462.9,222.4 L463.1,227.3 L461.8,230.2 L462.6,232.9 L458.1,234.4 L458.3,240.0 L452.5,238.0 L450.7,238.3 L449.1,240.9 L449.9,242.2 L446.3,240.6 L444.2,237.8 L445.0,234.9 L443.4,230.7 L438.1,226.7 L435.6,225.8 L431.7,221.3 L434.5,212.3 L430.4,210.2 L428.4,211.9 L426.8,210.0 L425.0,204.6 L421.8,202.6 L417.7,198.5 L416.3,196.0 L415.2,190.9 L416.0,187.4 L416.0,187.4 L416.0,187.4 L416.6,183.7 L419.0,182.6 L421.6,177.6 L421.6,175.4 L419.9,173.6 L420.8,169.5 L424.4,169.0 L428.7,166.1 L430.3,162.5 L430.4,157.4 L427.4,155.5 L424.1,151.2 L424.1,151.2 L426.1,151.1 L441.7,150.2 Z" fill="#CEE3F5" id="US.IL" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.IL</hasc>
+    <woe-id>2347572</woe-id>
+    <state-fips>17</state-fips>
+    <fips>US17</fips>
+    <postal-code>IL</postal-code>
+    <name>Illinois</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-89.1991</longitude>
+    <woe-name>Illinois</woe-name>
+    <latitude>39.946</latitude>
+    <woe-label>Illinois, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>us-il</hc-key>
+    <hc-a2>IL</hc-a2>
+  </desc>
+</path>
+
+<path d="M463.9,161.3 L467.0,162.7 L472.4,160.0 L497.7,157.1 L497.9,158.1 L498.8,164.8 L503.0,201.3 L502.7,204.4 L503.7,206.5 L499.1,208.6 L495.5,208.5 L496.2,211.6 L494.0,213.6 L493.6,215.7 L491.7,216.3 L490.8,220.2 L489.2,222.0 L485.8,219.4 L482.9,221.8 L482.9,223.3 L480.2,224.0 L479.0,222.6 L474.7,225.5 L471.1,224.2 L468.9,225.9 L465.0,225.0 L463.1,227.3 L462.9,222.4 L464.1,221.2 L465.9,216.0 L467.3,214.9 L468.7,210.7 L468.0,207.3 L466.1,205.0 L467.5,200.8 Z" fill="#CEE3F5" id="US.IN" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.IN</hasc>
+    <woe-id>2347573</woe-id>
+    <state-fips>18</state-fips>
+    <fips>US18</fips>
+    <postal-code>IN</postal-code>
+    <name>Indiana</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-86.1396</longitude>
+    <woe-name>Indiana</woe-name>
+    <latitude>39.8874</latitude>
+    <woe-label>Indiana, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>us-in</hc-key>
+    <hc-a2>IN</hc-a2>
+  </desc>
+</path>
+
+<path d="M640.1,113.2 L635.8,114.2 L632.7,101.1 L630.4,100.9 L630.4,98.3 L628.3,93.5 L628.8,90.2 L628.3,86.3 L627.0,84.8 L625.4,77.7 L632.9,75.7 L646.7,71.9 L646.4,76.8 L648.0,78.8 L647.2,81.7 L643.7,85.5 L644.2,87.8 L643.9,94.1 L642.8,98.8 L643.7,102.6 L643.7,109.9 L645.4,112.0 L645.4,112.0 Z" fill="#CEE3F5" id="US.VT" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.VT</hasc>
+    <woe-id>2347604</woe-id>
+    <state-fips>50</state-fips>
+    <fips>US50</fips>
+    <postal-code>VT</postal-code>
+    <name>Vermont</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-72.7317</longitude>
+    <woe-name>Vermont</woe-name>
+    <latitude>44.0886</latitude>
+    <woe-label>Vermont, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>us-vt</hc-key>
+    <hc-a2>VT</hc-a2>
+  </desc>
+</path>
+
+<path d="M385.4,311.9 L385.1,302.8 L381.2,302.8 L379.0,301.4 L379.1,272.2 L376.4,253.6 L436.5,251.2 L438.0,254.7 L434.2,260.0 L443.0,259.2 L443.2,261.9 L440.4,263.8 L440.9,266.9 L438.5,269.8 L438.8,274.2 L436.2,276.4 L436.7,277.7 L434.2,279.4 L432.5,282.6 L432.8,286.3 L428.0,291.0 L428.8,293.0 L426.3,293.8 L427.1,296.8 L424.6,299.1 L426.2,302.5 L425.6,305.2 L426.9,308.0 L426.1,310.3 L423.4,310.5 Z" fill="#CEE3F5" id="US.AR" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.AR</hasc>
+    <woe-id>2347562</woe-id>
+    <state-fips>5</state-fips>
+    <fips>US05</fips>
+    <postal-code>AR</postal-code>
+    <name>Arkansas</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-92.14279999999999</longitude>
+    <woe-name>Arkansas</woe-name>
+    <latitude>34.7563</latitude>
+    <woe-label>Arkansas, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>us-ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path d="M379.0,301.4 L381.2,302.8 L385.1,302.8 L385.4,311.9 L385.8,329.0 L389.2,333.7 L389.0,335.8 L393.8,344.9 L393.0,348.6 L390.8,353.0 L391.2,361.2 L390.1,362.8 L388.2,366.4 L389.1,368.1 L386.4,368.0 L377.6,372.1 L379.0,370.0 L376.1,370.9 L376.8,367.0 L372.7,368.4 L372.1,370.6 L376.6,374.1 L373.4,376.0 L374.2,373.4 L370.2,379.0 L363.6,383.9 L358.4,385.2 L357.6,386.7 L351.6,390.1 L351.4,391.2 L347.1,393.7 L342.4,398.6 L344.4,394.6 L342.4,393.2 L339.4,395.5 L342.2,396.1 L339.5,399.8 L336.8,399.6 L338.6,402.2 L336.2,408.0 L335.1,406.9 L331.6,409.1 L335.8,409.1 L334.0,413.5 L337.5,428.7 L340.1,431.4 L335.6,433.3 L329.9,429.6 L323.4,429.2 L321.2,427.2 L317.0,426.2 L314.7,424.0 L310.2,423.2 L309.3,417.8 L304.9,411.9 L304.1,407.5 L304.5,403.1 L301.7,401.5 L296.4,392.8 L293.3,390.3 L291.9,385.2 L288.8,379.4 L288.3,376.1 L283.4,371.2 L284.5,369.8 L281.6,368.9 L278.0,364.3 L267.7,363.3 L264.7,361.5 L263.3,363.4 L259.1,363.7 L255.4,371.3 L255.9,372.2 L251.3,375.9 L249.0,375.5 L242.1,370.2 L238.3,368.8 L235.5,365.4 L231.8,362.7 L230.1,357.8 L230.5,353.6 L226.5,345.0 L221.7,341.6 L213.4,331.4 L211.2,330.3 L208.9,325.5 L206.9,324.4 L205.1,320.3 L256.5,325.3 L262.6,250.4 L263.2,250.1 L303.6,252.6 L302.3,284.8 L306.6,288.0 L312.3,287.9 L313.2,290.9 L316.6,291.4 L322.9,293.9 L328.5,293.0 L330.3,297.1 L334.2,295.7 L338.5,298.3 L340.8,297.0 L342.1,300.1 L342.7,297.9 L344.9,296.3 L345.7,297.7 L348.6,297.0 L353.1,300.6 L358.6,297.4 L360.9,297.9 L363.3,296.4 L366.7,297.8 L368.6,296.2 L373.5,299.6 Z M339.9,402.6 L336.7,410.2 L336.7,414.9 L338.3,422.8 L336.3,416.6 L336.9,407.8 Z" fill="#CEE3F5" id="US.TX" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.TX</hasc>
+    <woe-id>2347602</woe-id>
+    <state-fips>48</state-fips>
+    <fips>US48</fips>
+    <postal-code>TX</postal-code>
+    <name>Texas</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-98.7607</longitude>
+    <woe-name>Texas</woe-name>
+    <latitude>31.131</latitude>
+    <woe-label>Texas, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-tx</hc-key>
+    <hc-a2>TX</hc-a2>
+  </desc>
+</path>
+
+<path d="M667.0,127.3 L666.0,127.7 L665.4,124.9 L666.2,124.9 Z M656.5,121.5 L661.5,120.1 L663.0,123.4 L664.7,124.5 L665.7,128.0 L663.5,129.0 L663.1,130.9 L659.1,133.0 L658.8,129.4 Z" fill="#CEE3F5" id="US.RI" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.RI</hasc>
+    <woe-id>2347598</woe-id>
+    <state-fips>44</state-fips>
+    <fips>US44</fips>
+    <postal-code>RI</postal-code>
+    <name>Rhode Island</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-71.5082</longitude>
+    <woe-name>Rhode Island</woe-name>
+    <latitude>41.6242</latitude>
+    <woe-label>Rhode Island, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.78</hc-middle-y>
+    <hc-key>us-ri</hc-key>
+    <hc-a2>RI</hc-a2>
+  </desc>
+</path>
+
+<path d="M483.0,348.9 L479.9,353.1 L470.3,354.2 L473.2,353.3 L472.0,351.8 L468.8,351.8 L465.5,326.6 L466.8,275.9 L465.4,274.3 L465.3,274.1 L500.7,270.9 L510.4,304.3 L512.6,309.6 L515.9,314.9 L514.1,317.5 L513.4,322.9 L515.4,327.5 L515.0,332.1 L517.0,336.4 L479.6,340.4 L479.4,342.6 L482.9,346.1 Z" fill="#CEE3F5" id="US.AL" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.AL</hasc>
+    <woe-id>2347559</woe-id>
+    <state-fips>1</state-fips>
+    <fips>US01</fips>
+    <postal-code>AL</postal-code>
+    <name>Alabama</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-86.7184</longitude>
+    <woe-name>Alabama</woe-name>
+    <latitude>32.8551</latitude>
+    <woe-label>Alabama, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>us-al</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+
+<path d="M468.8,351.8 L462.1,352.0 L455.4,354.2 L452.6,356.3 L447.4,348.4 L448.6,342.9 L420.8,344.6 L421.9,343.6 L420.7,340.0 L422.2,339.7 L422.2,336.0 L423.5,334.8 L424.7,329.9 L428.1,327.1 L430.2,321.5 L427.6,319.7 L426.4,314.4 L427.5,311.8 L426.1,310.3 L426.9,308.0 L425.6,305.2 L426.2,302.5 L424.6,299.1 L427.1,296.8 L426.3,293.8 L428.8,293.0 L428.0,291.0 L432.8,286.3 L432.5,282.6 L434.2,279.4 L436.7,277.7 L436.2,276.4 L459.4,274.8 L465.4,274.3 L466.8,275.9 L465.5,326.6 Z" fill="#CEE3F5" id="US.MS" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.MS</hasc>
+    <woe-id>2347583</woe-id>
+    <state-fips>28</state-fips>
+    <fips>US28</fips>
+    <postal-code>MS</postal-code>
+    <name>Mississippi</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-89.71890000000001</longitude>
+    <woe-name>Mississippi</woe-name>
+    <latitude>32.8657</latitude>
+    <woe-label>Mississippi, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>us-ms</hc-key>
+    <hc-a2>MS</hc-a2>
+  </desc>
+</path>
+
+<path d="M626.8,223.0 L627.1,223.9 L625.4,223.3 L625.4,223.3 L626.0,223.2 L626.1,223.3 L626.3,223.1 L626.5,223.1 Z M627.5,222.9 L629.4,227.1 L635.5,235.3 L631.0,230.5 L627.1,223.0 L627.3,222.9 Z M550.4,236.7 L556.2,236.4 L571.5,234.3 L625.1,223.4 L630.1,230.3 L623.8,228.0 L626.2,229.7 L620.6,233.6 L618.2,233.4 L618.1,235.3 L627.0,232.7 L628.4,238.1 L628.1,234.1 L629.6,232.2 L631.9,234.2 L632.0,238.6 L630.4,237.9 L628.9,242.5 L626.4,243.7 L621.7,242.2 L621.7,243.9 L616.1,243.4 L623.4,245.0 L621.5,247.8 L623.2,248.3 L619.9,251.2 L616.1,249.2 L618.6,251.7 L621.3,252.3 L624.2,251.4 L624.9,248.8 L627.1,251.3 L623.8,255.6 L617.0,257.2 L610.8,263.7 L609.2,266.9 L608.5,273.2 L604.3,272.7 L600.1,274.3 L582.5,262.0 L567.1,264.2 L566.5,262.0 L562.1,259.4 L545.5,261.2 L534.8,266.3 L529.6,267.1 L518.3,268.7 L518.5,264.2 L520.8,263.8 L521.6,260.9 L524.5,258.3 L528.2,257.6 L533.4,253.1 L535.3,250.2 L538.8,247.8 L539.6,249.2 L544.2,245.2 L546.0,246.0 L547.7,242.4 L549.8,240.5 Z" fill="#CEE3F5" id="US.NC" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NC</hasc>
+    <woe-id>2347592</woe-id>
+    <state-fips>37</state-fips>
+    <fips>US37</fips>
+    <postal-code>NC</postal-code>
+    <name>North Carolina</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-78.866</longitude>
+    <woe-name>North Carolina</woe-name>
+    <latitude>35.6152</latitude>
+    <woe-label>North Carolina, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-nc</hc-key>
+    <hc-a2>NC</hc-a2>
+  </desc>
+</path>
+
+<path d="M627.1,223.0 L625.5,220.6 L626.0,223.2 L625.4,223.3 L625.4,223.3 L624.8,222.8 L625.1,223.4 L571.5,234.3 L556.2,236.4 L550.4,236.7 L546.5,237.5 L523.6,240.7 L530.3,237.3 L533.3,234.4 L536.0,229.5 L539.5,227.0 L543.9,222.0 L546.4,225.8 L550.3,226.5 L552.6,224.0 L554.4,225.3 L557.9,223.8 L558.9,221.4 L560.6,221.9 L565.9,218.8 L565.6,215.9 L570.2,205.0 L571.3,199.5 L576.2,201.4 L578.9,193.7 L580.5,194.4 L583.7,190.4 L585.2,187.1 L585.5,182.2 L592.7,185.9 L593.4,182.6 L597.1,183.4 L596.8,185.0 L602.6,187.5 L602.9,187.9 L603.3,187.9 L604.2,190.9 L602.1,192.3 L601.4,196.7 L603.0,197.7 L605.4,196.1 L608.2,199.2 L611.8,198.9 L613.3,200.7 L617.4,201.9 L617.5,206.7 L615.2,206.6 L612.8,204.4 L608.4,202.6 L614.9,207.4 L619.1,209.3 L616.8,211.2 L616.6,213.1 L617.8,213.3 L620.0,216.6 L618.4,217.6 L614.5,214.0 L609.6,214.0 L614.0,215.6 L618.0,218.8 L620.5,217.4 L624.4,217.4 L627.5,222.9 L627.3,222.9 Z M616.6,213.1 L616.2,213.1 L616.2,213.1 L616.2,213.1 L611.8,209.4 L614.9,212.9 L616.2,213.1 L616.2,213.1 L616.2,213.1 L616.5,213.3 Z M626.3,223.1 L626.6,222.6 L626.8,223.0 L626.5,223.1 Z M629.9,197.0 L629.4,199.4 L629.7,197.1 Z M624.9,199.2 L625.1,198.6 L628.2,197.6 L627.4,200.9 L624.1,209.8 L625.5,212.2 L624.3,214.4 L622.6,210.8 L622.7,206.4 Z" fill="#CEE3F5" id="US.VA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.VA</hasc>
+    <woe-id>2347605</woe-id>
+    <state-fips>51</state-fips>
+    <fips>US51</fips>
+    <postal-code>VA</postal-code>
+    <name>Virginia</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-78.2431</longitude>
+    <woe-name>Virginia</woe-name>
+    <latitude>37.7403</latitude>
+    <woe-label>Virginia, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>us-va</hc-key>
+    <hc-a2>VA</hc-a2>
+  </desc>
+</path>
+
+<path d="M424.1,151.2 L427.4,155.5 L430.4,157.4 L430.3,162.5 L428.7,166.1 L424.4,169.0 L420.8,169.5 L419.9,173.6 L421.6,175.4 L421.6,177.6 L419.0,182.6 L416.6,183.7 L416.0,187.4 L416.0,187.4 L416.0,187.4 L412.1,183.6 L394.8,184.9 L377.1,185.4 L360.7,185.1 L360.7,185.1 L359.9,181.9 L359.3,173.3 L358.6,170.7 L356.7,169.3 L356.9,165.1 L355.8,161.9 L353.3,158.3 L352.8,153.4 L351.7,153.0 L349.8,149.1 L352.1,142.9 L350.8,141.2 L350.4,136.6 L352.2,136.5 L395.9,135.9 L415.7,135.0 L417.9,138.6 L417.0,140.7 L418.9,147.6 L423.2,148.8 L424.3,150.8 L424.1,151.2 Z" fill="#CEE3F5" id="US.IA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.IA</hasc>
+    <woe-id>2347574</woe-id>
+    <state-fips>19</state-fips>
+    <fips>US19</fips>
+    <postal-code>IA</postal-code>
+    <name>Iowa</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-93.3891</longitude>
+    <woe-name>Iowa</woe-name>
+    <latitude>42.0423</latitude>
+    <woe-label>Iowa, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-ia</hc-key>
+    <hc-a2>IA</hc-a2>
+  </desc>
+</path>
+
+<path d="M629.7,197.1 L630.2,195.6 L629.9,197.0 Z M630.9,189.4 L630.9,191.4 L630.7,189.5 L630.7,189.5 Z M628.2,197.6 L625.1,198.6 L624.9,199.2 L622.3,200.3 L622.5,196.5 L618.7,194.7 L618.8,195.9 L614.4,192.8 L618.0,190.4 L616.4,188.7 L613.5,188.1 L615.7,185.6 L613.6,184.8 L612.6,181.6 L614.7,177.0 L615.2,173.3 L612.6,178.0 L611.0,177.6 L610.9,180.3 L608.5,180.6 L610.9,183.0 L610.1,186.6 L611.8,192.5 L613.7,195.6 L610.4,193.7 L615.6,198.3 L615.9,199.8 L612.3,198.0 L608.5,197.8 L605.3,194.7 L603.4,197.0 L602.2,195.1 L604.4,191.0 L604.3,189.4 L605.4,187.6 L602.6,187.5 L596.8,185.0 L597.1,183.4 L593.4,182.6 L591.0,178.3 L587.1,177.6 L583.5,179.6 L583.4,181.2 L580.6,181.5 L579.1,180.2 L577.3,183.8 L575.9,183.5 L571.4,188.9 L570.0,180.5 L591.9,176.3 L616.6,170.9 L622.5,191.2 L630.4,189.5 L630.3,193.2 L629.2,193.7 Z" fill="#CEE3F5" id="US.MD" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.MD</hasc>
+    <woe-id>2347579</woe-id>
+    <state-fips>24</state-fips>
+    <fips>US24</fips>
+    <postal-code>MD</postal-code>
+    <name>Maryland</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-77.0454</longitude>
+    <woe-name>Maryland</woe-name>
+    <latitude>39.3874</latitude>
+    <woe-label>Maryland, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
+    <hc-key>us-md</hc-key>
+    <hc-a2>MD</hc-a2>
+  </desc>
+</path>
+
+<path d="M630.7,189.5 L630.3,189.4 L630.4,189.5 L622.5,191.2 L616.6,170.9 L618.6,168.5 L620.9,168.5 L619.3,172.1 L620.1,174.6 L622.6,176.5 L624.1,180.7 L628.0,184.2 L629.0,184.0 L630.9,189.4 L630.7,189.5 Z" fill="#CEE3F5" id="US.DE" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.DE</hasc>
+    <woe-id>2347566</woe-id>
+    <state-fips>10</state-fips>
+    <fips>US10</fips>
+    <postal-code>DE</postal-code>
+    <name>Delaware</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-75.41119999999999</longitude>
+    <woe-name>Delaware</woe-name>
+    <latitude>38.8657</latitude>
+    <woe-label>Delaware, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.91</hc-middle-x>
+    <hc-middle-y>0.77</hc-middle-y>
+    <hc-key>us-de</hc-key>
+    <hc-a2>DE</hc-a2>
+  </desc>
+</path>
+
+<path d="M620.0,148.5 L621.3,149.8 L620.3,152.3 L621.1,155.4 L622.3,155.3 L628.3,160.7 L625.1,163.9 L624.0,166.1 L620.9,168.5 L618.6,168.5 L616.6,170.9 L591.9,176.3 L570.0,180.5 L556.7,182.9 L554.1,167.6 L554.1,167.6 L550.3,145.5 L551.9,144.6 L558.8,139.2 L559.6,143.6 L613.7,132.5 L617.5,134.6 L618.5,138.0 L624.0,141.1 L624.0,141.2 Z" fill="#CEE3F5" id="US.PA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.PA</hasc>
+    <woe-id>2347597</woe-id>
+    <state-fips>42</state-fips>
+    <fips>US42</fips>
+    <postal-code>PA</postal-code>
+    <name>Pennsylvania</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-77.60939999999999</longitude>
+    <woe-name>Pennsylvania</woe-name>
+    <latitude>40.8601</latitude>
+    <woe-label>Pennsylvania, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-pa</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+
+<path d="M620.0,148.5 L624.0,141.1 L629.6,142.9 L635.2,144.7 L634.7,149.6 L632.9,151.4 L632.5,153.9 L636.5,154.5 L637.0,155.7 L637.8,165.8 L635.6,169.2 L635.4,172.8 L632.9,176.1 L631.1,180.9 L630.0,181.3 L630.2,177.7 L626.8,177.8 L620.8,174.2 L619.9,171.9 L620.8,169.0 L624.2,166.6 L625.1,163.9 L628.3,160.7 L622.3,155.3 L621.1,155.4 L620.3,152.3 L621.3,149.8 Z" fill="#CEE3F5" id="US.NJ" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NJ</hasc>
+    <woe-id>2347589</woe-id>
+    <state-fips>34</state-fips>
+    <fips>US34</fips>
+    <postal-code>NJ</postal-code>
+    <name>New Jersey</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-74.4653</longitude>
+    <woe-name>New Jersey</woe-name>
+    <latitude>40.0449</latitude>
+    <woe-label>New Jersey, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>us-nj</hc-key>
+    <hc-a2>NJ</hc-a2>
+  </desc>
+</path>
+
+<path d="M624.0,141.1 L618.5,138.0 L617.5,134.6 L613.7,132.5 L559.6,143.6 L558.8,139.2 L565.3,132.7 L567.9,127.7 L564.7,123.8 L564.2,121.0 L568.4,118.8 L575.3,116.8 L579.8,116.8 L582.6,117.7 L584.5,116.6 L589.2,115.9 L592.2,114.3 L595.0,110.3 L597.6,108.8 L596.3,104.4 L597.1,101.7 L595.1,102.7 L593.6,100.4 L595.4,97.2 L598.6,95.0 L599.7,91.2 L603.7,85.5 L607.8,82.0 L609.8,81.7 L625.4,77.7 L627.0,84.8 L628.3,86.3 L628.8,90.2 L628.3,93.5 L630.4,98.3 L630.4,100.9 L632.7,101.1 L635.8,114.2 L635.6,125.8 L636.1,126.1 L638.4,138.7 L639.5,139.7 L637.0,142.3 L638.4,143.7 L637.4,146.8 L640.5,144.2 L643.9,143.9 L645.2,142.6 L651.2,140.6 L653.7,137.4 L656.2,139.0 L656.5,137.4 L657.0,138.6 L660.0,136.9 L654.2,142.1 L650.5,144.0 L647.2,147.2 L641.0,150.4 L635.9,151.8 L633.0,153.7 L633.1,151.5 L634.8,151.3 L635.9,148.2 L634.9,148.8 L635.2,144.7 L629.6,142.9 L625.4,141.6 L624.0,141.2 Z" fill="#CEE3F5" id="US.NY" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NY</hasc>
+    <woe-id>2347591</woe-id>
+    <state-fips>36</state-fips>
+    <fips>US36</fips>
+    <postal-code>NY</postal-code>
+    <name>New York</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-75.32420000000001</longitude>
+    <woe-name>New York</woe-name>
+    <latitude>43.1988</latitude>
+    <woe-label>New York, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-ny</hc-key>
+    <hc-a2>NY</hc-a2>
+  </desc>
+</path>
+
+<path d="M124.2,16.6 L135.0,19.1 L131.3,35.5 L133.8,41.4 L132.9,45.7 L136.5,49.4 L140.1,56.3 L139.9,57.5 L143.1,61.6 L145.6,61.5 L145.3,64.0 L143.1,68.1 L142.1,72.5 L142.6,74.4 L140.4,75.9 L139.7,79.4 L141.9,81.4 L146.9,78.8 L148.5,81.0 L148.5,85.8 L150.8,91.4 L150.0,92.4 L151.4,95.1 L153.1,95.2 L154.2,98.1 L154.3,101.4 L155.7,103.0 L158.1,101.3 L161.8,102.5 L163.6,101.2 L168.6,102.8 L172.3,102.5 L173.2,100.3 L175.0,100.4 L177.4,104.8 L172.6,133.3 L170.5,146.2 L154.3,143.4 L133.7,139.4 L122.3,137.1 L97.4,131.5 L104.2,102.3 L107.2,96.1 L104.1,93.4 L104.7,90.4 L110.7,84.3 L114.5,77.7 L117.5,74.4 L117.4,71.4 L115.1,69.4 L114.4,66.4 L114.7,63.3 L113.9,59.7 Z" fill="#CEE3F5" id="US.ID" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.ID</hasc>
+    <woe-id>2347571</woe-id>
+    <state-fips>16</state-fips>
+    <fips>US16</fips>
+    <postal-code>ID</postal-code>
+    <name>Idaho</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-114.133</longitude>
+    <woe-name>Idaho</woe-name>
+    <latitude>43.7825</latitude>
+    <woe-label>Idaho, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.75</hc-middle-y>
+    <hc-key>us-id</hc-key>
+    <hc-a2>ID</hc-a2>
+  </desc>
+</path>
+
+<path d="M258.7,140.6 L259.2,134.3 L261.6,107.1 L261.8,107.1 L263.1,91.3 L337.4,95.3 L351.2,95.5 L350.2,98.4 L347.5,101.2 L349.5,104.4 L352.3,106.3 L352.2,136.5 L350.4,136.6 L350.8,141.2 L352.1,142.9 L349.8,149.1 L351.7,153.0 L348.9,150.3 L343.8,148.4 L341.7,146.7 L335.0,146.9 L332.0,148.0 L327.1,144.5 Z" fill="#CEE3F5" id="US.SD" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.SD</hasc>
+    <woe-id>2347600</woe-id>
+    <state-fips>46</state-fips>
+    <fips>US46</fips>
+    <postal-code>SD</postal-code>
+    <name>South Dakota</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-100.255</longitude>
+    <woe-name>South Dakota</woe-name>
+    <latitude>44.4711</latitude>
+    <woe-label>South Dakota, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>us-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path d="M659.1,133.0 L658.3,132.6 L651.2,136.0 L646.6,137.4 L643.3,139.5 L638.4,143.7 L637.0,142.3 L639.5,139.7 L638.4,138.7 L636.1,126.1 L644.9,124.2 L656.5,121.5 L658.8,129.4 Z" fill="#CEE3F5" id="US.CT" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.CT</hasc>
+    <woe-id>2347565</woe-id>
+    <state-fips>9</state-fips>
+    <fips>US09</fips>
+    <postal-code>CT</postal-code>
+    <name>Connecticut</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-72.7594</longitude>
+    <woe-name>Connecticut</woe-name>
+    <latitude>41.6486</latitude>
+    <woe-label>Connecticut, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-ct</hc-key>
+    <hc-a2>CT</hc-a2>
+  </desc>
+</path>
+
+<path d="M664.3,100.7 L664.8,100.8 L664.4,104.2 L660.7,106.4 L659.4,108.7 L645.4,112.0 L645.4,112.0 L643.7,109.9 L643.7,102.6 L642.8,98.8 L643.9,94.1 L644.2,87.8 L643.7,85.5 L647.2,81.7 L648.0,78.8 L646.4,76.8 L646.7,71.9 L647.4,66.9 L650.2,65.9 L659.6,93.6 L660.3,96.6 Z" fill="#CEE3F5" id="US.NH" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NH</hasc>
+    <woe-id>2347588</woe-id>
+    <state-fips>33</state-fips>
+    <fips>US33</fips>
+    <postal-code>NH</postal-code>
+    <name>New Hampshire</name>
+    <country>United States of America</country>
+    <region>Northeast</region>
+    <longitude>-71.6301</longitude>
+    <woe-name>New Hampshire</woe-name>
+    <latitude>43.5993</latitude>
+    <woe-label>New Hampshire, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>us-nh</hc-key>
+    <hc-a2>NH</hc-a2>
+  </desc>
+</path>
+
+<path d="M444.6,250.7 L444.4,249.7 L445.5,250.6 Z M446.5,250.5 L447.2,248.2 L448.7,249.2 L450.0,246.3 L449.9,242.2 L449.1,240.9 L450.7,238.3 L452.5,238.0 L458.3,240.0 L458.1,234.4 L462.6,232.9 L461.8,230.2 L463.1,227.3 L465.0,225.0 L468.9,225.9 L471.1,224.2 L474.7,225.5 L479.0,222.6 L480.2,224.0 L482.9,223.3 L482.9,221.8 L485.8,219.4 L489.2,222.0 L490.8,220.2 L491.7,216.3 L493.6,215.7 L494.0,213.6 L496.2,211.6 L495.5,208.5 L499.1,208.6 L503.7,206.5 L502.7,204.4 L503.0,201.3 L507.9,200.7 L509.6,201.7 L511.7,205.1 L516.1,205.3 L518.4,207.1 L520.5,205.6 L523.8,207.0 L528.9,203.8 L530.0,206.3 L533.5,208.6 L533.5,208.6 L533.5,208.6 L533.6,213.1 L539.2,220.2 L543.9,222.0 L539.5,227.0 L536.0,229.5 L533.3,234.4 L530.3,237.3 L523.6,240.7 L522.8,241.1 L504.1,242.9 L500.0,243.5 L484.8,244.5 L467.7,246.4 L464.5,245.9 L465.1,249.1 Z M533.5,208.6 L533.5,208.6 L533.5,208.6 L533.5,208.6 L533.5,208.6 Z" fill="#CEE3F5" id="US.KY" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.KY</hasc>
+    <woe-id>2347576</woe-id>
+    <state-fips>21</state-fips>
+    <fips>US21</fips>
+    <postal-code>KY</postal-code>
+    <name>Kentucky</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-85.5729</longitude>
+    <woe-name>Kentucky</woe-name>
+    <latitude>37.3994</latitude>
+    <woe-label>Kentucky, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-ky</hc-key>
+    <hc-a2>KY</hc-a2>
+  </desc>
+</path>
+
+<path d="M497.9,158.1 L504.1,157.2 L514.5,155.4 L522.2,157.6 L521.4,158.5 L527.2,159.2 L532.7,156.4 L537.3,155.5 L540.8,151.5 L550.3,145.5 L554.1,167.6 L552.3,168.9 L553.9,173.8 L552.1,182.8 L552.4,185.2 L548.6,189.7 L545.3,190.2 L543.1,192.8 L541.8,196.3 L542.9,198.4 L541.3,199.8 L538.9,197.9 L537.5,201.8 L538.4,204.6 L536.8,207.7 L533.5,208.6 L533.5,208.6 L530.0,206.3 L528.9,203.8 L523.8,207.0 L520.5,205.6 L518.4,207.1 L516.1,205.3 L511.7,205.1 L509.6,201.7 L507.9,200.7 L503.0,201.3 L498.8,164.8 Z" fill="#CEE3F5" id="US.OH" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.OH</hasc>
+    <woe-id>2347594</woe-id>
+    <state-fips>39</state-fips>
+    <fips>US39</fips>
+    <postal-code>OH</postal-code>
+    <name>Ohio</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-82.67189999999999</longitude>
+    <woe-name>Ohio</woe-name>
+    <latitude>40.0924</latitude>
+    <woe-label>Ohio, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>us-oh</hc-key>
+    <hc-a2>OH</hc-a2>
+  </desc>
+</path>
+
+<path d="M465.4,274.3 L459.4,274.8 L436.2,276.4 L438.8,274.2 L438.5,269.8 L440.9,266.9 L440.4,263.8 L443.2,261.9 L443.0,259.2 L444.3,256.7 L443.1,255.0 L445.2,252.6 L444.6,250.7 L445.5,250.6 L445.8,251.4 L446.5,250.5 L465.1,249.1 L464.5,245.9 L467.7,246.4 L484.8,244.5 L500.0,243.5 L504.1,242.9 L522.8,241.1 L523.6,240.7 L546.5,237.5 L550.4,236.7 L549.8,240.5 L547.7,242.4 L546.0,246.0 L544.2,245.2 L539.6,249.2 L538.8,247.8 L535.3,250.2 L533.4,253.1 L528.2,257.6 L524.5,258.3 L521.6,260.9 L520.8,263.8 L518.5,264.2 L518.3,268.7 L510.8,269.7 L500.7,270.9 L465.3,274.1 Z" fill="#CEE3F5" id="US.TN" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.TN</hasc>
+    <woe-id>2347601</woe-id>
+    <state-fips>47</state-fips>
+    <fips>US47</fips>
+    <postal-code>TN</postal-code>
+    <name>Tennessee</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-86.3415</longitude>
+    <woe-name>Tennessee</woe-name>
+    <latitude>35.7514</latitude>
+    <woe-label>Tennessee, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>us-tn</hc-key>
+    <hc-a2>TN</hc-a2>
+  </desc>
+</path>
+
+<path d="M533.5,208.6 L533.5,208.6 L536.8,207.7 L538.4,204.6 L537.5,201.8 L538.9,197.9 L541.3,199.8 L542.9,198.4 L541.8,196.3 L543.1,192.8 L545.3,190.2 L548.6,189.7 L552.4,185.2 L552.1,182.8 L553.9,173.8 L552.3,168.9 L554.1,167.6 L556.7,182.9 L570.0,180.5 L571.4,188.9 L575.9,183.5 L577.3,183.8 L579.1,180.2 L580.6,181.5 L583.4,181.2 L583.5,179.6 L587.1,177.6 L591.0,178.3 L593.4,182.6 L592.7,185.9 L585.5,182.2 L585.2,187.1 L583.7,190.4 L580.5,194.4 L578.9,193.7 L576.2,201.4 L571.3,199.5 L570.2,205.0 L565.6,215.9 L565.9,218.8 L560.6,221.9 L558.9,221.4 L557.9,223.8 L554.4,225.3 L552.6,224.0 L550.3,226.5 L546.4,225.8 L543.9,222.0 L539.2,220.2 L533.6,213.1 L533.5,208.6 L533.5,208.6 L533.5,208.6 L533.5,208.6 Z" fill="#CEE3F5" id="US.WV" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.WV</hasc>
+    <woe-id>2347607</woe-id>
+    <state-fips>54</state-fips>
+    <fips>US54</fips>
+    <postal-code>WV</postal-code>
+    <name>West Virginia</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-80.7128</longitude>
+    <woe-name>West Virginia</woe-name>
+    <latitude>38.6422</latitude>
+    <woe-label>West Virginia, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>us-wv</hc-key>
+    <hc-a2>WV</hc-a2>
+  </desc>
+</path>
+
+<path d="M604.3,189.4 L604.2,188.5 L603.3,187.9 L602.9,187.9 L602.6,187.5 L605.4,187.6 Z" fill="#CEE3F5" id="US.DC" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>US.DC</hasc>
+    <woe-id>2347567</woe-id>
+    <state-fips>11</state-fips>
+    <fips>US11</fips>
+    <postal-code>DC</postal-code>
+    <name>District of Columbia</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-77.01130000000001</longitude>
+    <woe-name>District of Columbia</woe-name>
+    <latitude>38.8922</latitude>
+    <woe-label>District of Columbia, US, United States</woe-label>
+    <type>Federal District</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.14</hc-middle-y>
+    <hc-key>us-dc</hc-key>
+    <hc-a2>DC</hc-a2>
+  </desc>
+</path>
+
+<path d="M452.6,356.3 L446.1,355.5 L442.2,353.7 L439.4,358.0 L440.9,359.2 L445.3,359.4 L447.5,357.3 L451.0,357.3 L448.7,360.7 L451.6,361.7 L453.8,358.3 L455.9,360.8 L450.4,365.8 L453.3,369.6 L458.4,370.1 L461.1,372.2 L459.6,375.2 L456.1,374.8 L454.2,372.5 L449.4,371.4 L450.3,370.0 L445.3,368.4 L445.9,373.4 L443.5,375.7 L442.5,373.2 L439.3,372.2 L437.4,375.1 L433.8,375.5 L427.0,373.1 L427.7,369.7 L423.8,369.2 L421.4,365.6 L418.8,366.3 L418.9,364.4 L414.7,366.2 L415.2,368.1 L417.8,367.6 L421.0,368.5 L419.3,370.3 L414.8,368.7 L412.8,369.7 L406.7,368.8 L399.0,366.2 L395.3,366.3 L389.7,367.6 L390.1,362.8 L391.2,361.2 L390.8,353.0 L393.0,348.6 L393.8,344.9 L389.0,335.8 L389.2,333.7 L385.8,329.0 L385.4,311.9 L423.4,310.5 L426.1,310.3 L427.5,311.8 L426.4,314.4 L427.6,319.7 L430.2,321.5 L428.1,327.1 L424.7,329.9 L423.5,334.8 L422.2,336.0 L422.2,339.7 L420.7,340.0 L421.9,343.6 L420.8,344.6 L448.6,342.9 L447.4,348.4 Z" fill="#CEE3F5" id="US.LA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.LA</hasc>
+    <woe-id>2347577</woe-id>
+    <state-fips>22</state-fips>
+    <fips>US22</fips>
+    <postal-code>LA</postal-code>
+    <name>Louisiana</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-91.9991</longitude>
+    <woe-name>Louisiana</woe-name>
+    <latitude>30.5274</latitude>
+    <woe-label>Louisiana, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>us-la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path d="M483.0,348.9 L482.9,346.1 L479.4,342.6 L479.6,340.4 L517.0,336.4 L519.6,340.9 L557.9,338.2 L559.3,341.4 L561.2,341.0 L560.4,334.9 L562.1,333.3 L568.2,334.1 L569.1,334.1 L570.8,340.7 L574.6,349.7 L581.1,360.1 L588.6,369.1 L587.8,370.5 L589.9,376.7 L593.3,381.6 L599.8,393.1 L601.3,400.0 L602.0,411.3 L600.1,418.7 L600.8,424.4 L598.0,428.5 L599.3,424.4 L598.2,423.3 L595.4,425.6 L593.1,425.2 L589.7,426.9 L588.0,425.4 L588.0,422.4 L585.1,417.6 L579.2,414.3 L577.5,414.9 L574.6,406.9 L570.6,407.4 L570.2,399.8 L567.4,398.5 L568.9,401.1 L566.3,400.7 L559.6,391.8 L562.6,384.9 L562.0,383.0 L559.3,384.0 L559.3,387.1 L556.2,385.8 L555.9,379.7 L557.0,374.6 L556.5,367.4 L553.2,362.7 L550.0,363.2 L546.6,359.6 L543.5,358.0 L538.6,352.0 L533.2,349.6 L528.1,351.5 L528.9,353.6 L526.5,353.6 L525.6,355.8 L520.4,359.6 L514.7,359.2 L515.1,357.1 L513.4,355.0 L509.1,352.3 L503.0,349.8 L496.3,348.8 L481.7,352.5 L484.2,349.7 Z" fill="#CEE3F5" id="US.FL" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.FL</hasc>
+    <woe-id>2347568</woe-id>
+    <state-fips>12</state-fips>
+    <fips>US12</fips>
+    <postal-code>FL</postal-code>
+    <name>Florida</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-81.6228</longitude>
+    <woe-name>Florida</woe-name>
+    <latitude>28.1568</latitude>
+    <woe-label>Florida, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.77</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-fl</hc-key>
+    <hc-a2>FL</hc-a2>
+  </desc>
+</path>
+
+<path d="M562.1,333.3 L560.4,334.9 L561.2,341.0 L559.3,341.4 L557.9,338.2 L519.6,340.9 L517.0,336.4 L515.0,332.1 L515.4,327.5 L513.4,322.9 L514.1,317.5 L515.9,314.9 L512.6,309.6 L510.4,304.3 L500.7,270.9 L510.8,269.7 L518.3,268.7 L529.6,267.1 L534.8,266.3 L532.1,271.6 L536.9,274.5 L539.6,274.7 L541.9,279.1 L544.7,282.3 L549.8,285.2 L550.8,287.1 L554.7,289.1 L555.1,291.0 L558.1,294.1 L561.7,295.4 L564.4,302.1 L567.7,303.9 L570.5,310.2 L573.3,310.7 L574.2,311.1 L568.4,319.9 L570.0,324.2 L567.6,326.0 L568.8,330.4 L568.2,334.1 Z" fill="#CEE3F5" id="US.GA" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.GA</hasc>
+    <woe-id>2347569</woe-id>
+    <state-fips>13</state-fips>
+    <fips>US13</fips>
+    <postal-code>GA</postal-code>
+    <name>Georgia</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-83.4078</longitude>
+    <woe-name>Georgia</woe-name>
+    <latitude>32.8547</latitude>
+    <woe-label>Georgia, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path d="M600.1,274.3 L595.8,279.2 L593.8,283.4 L593.8,287.4 L591.8,290.5 L589.6,290.6 L589.0,292.9 L584.2,298.8 L579.9,301.8 L575.0,302.3 L578.7,303.3 L573.3,310.7 L570.5,310.2 L567.7,303.9 L564.4,302.1 L561.7,295.4 L558.1,294.1 L555.1,291.0 L554.7,289.1 L550.8,287.1 L549.8,285.2 L544.7,282.3 L541.9,279.1 L539.6,274.7 L536.9,274.5 L532.1,271.6 L534.8,266.3 L545.5,261.2 L562.1,259.4 L566.5,262.0 L567.1,264.2 L582.5,262.0 Z" fill="#CEE3F5" id="US.SC" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.SC</hasc>
+    <woe-id>2347599</woe-id>
+    <state-fips>45</state-fips>
+    <fips>US45</fips>
+    <postal-code>SC</postal-code>
+    <name>South Carolina</name>
+    <country>United States of America</country>
+    <region>South</region>
+    <longitude>-80.6471</longitude>
+    <woe-name>South Carolina</woe-name>
+    <latitude>33.8578</latitude>
+    <woe-label>South Carolina, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>us-sc</hc-key>
+    <hc-a2>SC</hc-a2>
+  </desc>
+</path>
+
+<path d="M344.0,43.7 L366.9,43.7 L367.0,37.3 L370.8,38.6 L372.2,46.8 L373.5,48.2 L377.6,49.4 L381.6,49.6 L383.0,51.6 L386.0,51.1 L388.6,49.5 L391.7,49.6 L395.5,50.9 L398.7,55.9 L399.6,54.5 L402.5,54.0 L406.6,57.8 L409.7,58.7 L415.3,55.2 L416.9,57.3 L423.8,56.6 L426.2,58.2 L430.1,58.1 L425.2,61.7 L420.2,63.7 L414.9,67.7 L409.5,74.3 L402.9,80.5 L400.8,82.5 L401.2,92.2 L396.5,95.3 L394.5,98.6 L394.6,101.0 L397.2,103.1 L396.3,105.6 L396.5,111.9 L395.8,114.7 L398.7,117.2 L401.0,117.6 L404.6,119.8 L410.2,125.7 L413.1,126.4 L414.8,128.0 L415.7,135.0 L395.9,135.9 L352.2,136.5 L352.3,106.3 L349.5,104.4 L347.5,101.2 L350.2,98.4 L351.2,95.5 L350.7,89.0 L348.5,83.6 L348.9,78.9 L348.1,77.5 L347.9,69.3 L344.9,57.7 L344.6,51.5 L345.3,49.5 Z" fill="#CEE3F5" id="US.MN" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.MN</hasc>
+    <woe-id>2347582</woe-id>
+    <state-fips>27</state-fips>
+    <fips>US27</fips>
+    <postal-code>MN</postal-code>
+    <name>Minnesota</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-93.364</longitude>
+    <woe-name>Minnesota</woe-name>
+    <latitude>46.0592</latitude>
+    <woe-label>Minnesota, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>us-mn</hc-key>
+    <hc-a2>MN</hc-a2>
+  </desc>
+</path>
+
+<path d="M135.0,19.1 L173.4,27.0 L267.7,39.8 L263.4,88.1 L263.1,91.3 L261.8,107.1 L261.6,107.1 L178.8,96.5 L177.4,104.8 L175.0,100.4 L173.2,100.3 L172.3,102.5 L168.6,102.8 L163.6,101.2 L161.8,102.5 L158.1,101.3 L155.7,103.0 L154.3,101.4 L154.2,98.1 L153.1,95.2 L151.4,95.1 L150.0,92.4 L150.8,91.4 L148.5,85.8 L148.5,81.0 L146.9,78.8 L141.9,81.4 L139.7,79.4 L140.4,75.9 L142.6,74.4 L142.1,72.5 L143.1,68.1 L145.3,64.0 L145.6,61.5 L143.1,61.6 L139.9,57.5 L140.1,56.3 L136.5,49.4 L132.9,45.7 L133.8,41.4 L131.3,35.5 Z" fill="#CEE3F5" id="US.MT" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.MT</hasc>
+    <woe-id>2347585</woe-id>
+    <state-fips>30</state-fips>
+    <fips>US30</fips>
+    <postal-code>MT</postal-code>
+    <name>Montana</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-110.044</longitude>
+    <woe-name>Montana</woe-name>
+    <latitude>46.9965</latitude>
+    <woe-label>Montana, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>us-mt</hc-key>
+    <hc-a2>MT</hc-a2>
+  </desc>
+</path>
+
+<path d="M263.1,91.3 L263.4,88.1 L267.7,39.8 L288.2,41.4 L344.0,43.7 L345.3,49.5 L344.6,51.5 L344.9,57.7 L347.9,69.3 L348.1,77.5 L348.9,78.9 L348.5,83.6 L350.7,89.0 L351.2,95.5 L337.4,95.3 Z" fill="#CEE3F5" id="US.ND" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.ND</hasc>
+    <woe-id>2347593</woe-id>
+    <state-fips>38</state-fips>
+    <fips>US38</fips>
+    <postal-code>ND</postal-code>
+    <name>North Dakota</name>
+    <country>United States of America</country>
+    <region>Midwest</region>
+    <longitude>-100.302</longitude>
+    <woe-name>North Dakota</woe-name>
+    <latitude>47.4675</latitude>
+    <woe-label>North Dakota, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-nd</hc-key>
+    <hc-a2>ND</hc-a2>
+  </desc>
+</path>
+
+<path d="M169.6,327.0 L141.6,322.7 L134.9,319.0 L91.4,293.1 L93.5,289.9 L96.2,290.0 L97.9,286.2 L95.2,283.8 L96.0,278.4 L97.4,278.3 L100.2,274.0 L100.5,270.3 L103.0,267.7 L107.0,265.8 L104.4,262.1 L102.7,252.6 L104.1,249.6 L103.9,244.0 L105.1,238.2 L105.2,234.4 L107.6,233.8 L112.9,236.9 L114.6,234.2 L117.2,221.4 L160.5,229.3 L183.2,232.8 L176.4,279.8 Z" fill="#CEE3F5" id="US.AZ" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.AZ</hasc>
+    <woe-id>2347561</woe-id>
+    <state-fips>4</state-fips>
+    <fips>US04</fips>
+    <postal-code>AZ</postal-code>
+    <name>Arizona</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-111.935</longitude>
+    <woe-name>Arizona</woe-name>
+    <latitude>34.3046</latitude>
+    <woe-label>Arizona, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>us-az</hc-key>
+    <hc-a2>AZ</hc-a2>
+  </desc>
+</path>
+
+<path d="M183.2,232.8 L160.5,229.3 L117.2,221.4 L124.4,185.5 L133.7,139.4 L154.3,143.4 L170.5,146.2 L167.7,162.7 L192.8,166.6 L191.3,177.0 Z" fill="#CEE3F5" id="US.UT" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.UT</hasc>
+    <woe-id>2347603</woe-id>
+    <state-fips>49</state-fips>
+    <fips>US49</fips>
+    <postal-code>UT</postal-code>
+    <name>Utah</name>
+    <country>United States of America</country>
+    <region>West</region>
+    <longitude>-111.544</longitude>
+    <woe-name>Utah</woe-name>
+    <latitude>39.5007</latitude>
+    <woe-label>Utah, US, United States</woe-label>
+    <type>State</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>us-ut</hc-key>
+    <hc-a2>UT</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

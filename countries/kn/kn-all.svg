@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Saint Kitts and Nevis</title>
+<g id="admin1">
+
+<g id="KN">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Saint Kitts and Nevis</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>St.K.N.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>KNA</iso-a3>
+    <iso-a2>KN</iso-a2>
+    <woe-id>23424940</woe-id>
+    <continent>North America</continent>
+    <hc-key>kn</hc-key>
+    <hc-a2>SK</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.TP" d="M293.2,275.7 L250.0,278.2 L222.5,274.4 L191.1,261.8 L196.0,246.1 L202.9,227.3 L219.5,218.6 L227.7,188.4 L247.1,188.3 L262.4,189.7 L270.7,215.7 L281.8,237.3 L276.3,244.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.TP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346977</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC14</fips>
+    <postal-code>TP</postal-code>
+    <name>Trinity Palmetto Point</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.7483</longitude>
+    <woe-name>Trinity Palmetto Point</woe-name>
+    <latitude>17.3074</latitude>
+    <woe-label>Trinity Palmetto Point, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>kn-tp</hc-key>
+    <hc-a2>TP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.CC" d="M195.6,64.0 L278.7,113.6 L263.7,122.0 L255.4,136.4 L245.7,159.5 L247.1,188.3 L227.7,188.4 L175.1,178.3 L172.3,163.9 L157.1,146.6 L183.3,107.7 L180.5,91.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.CC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346964</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC01</fips>
+    <postal-code>CC</postal-code>
+    <name>Christ Church Nichola Town</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.7582</longitude>
+    <woe-name>Christ Church Nichola Town</woe-name>
+    <latitude>17.364</latitude>
+    <woe-label>Christ Church Nichola Town, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>kn-cc</hc-key>
+    <hc-a2>CC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.AS" d="M62.9,190.5 L0.0,119.1 L9.4,78.8 L35.1,86.2 L43.4,74.6 L55.9,80.4 L53.2,96.3 L114.1,109.2 L98.9,139.5 L89.2,139.5 L78.1,165.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.AS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346965</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC02</fips>
+    <postal-code>AS</postal-code>
+    <name>Saint Anne Sandy Point</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.8369</longitude>
+    <woe-name>Saint Anne Sandy Point</woe-name>
+    <latitude>17.3574</latitude>
+    <woe-label>Saint Anne Sandy Point, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>kn-as</hc-key>
+    <hc-a2>AS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.GB" d="M384.3,258.4 L390.8,274.4 L414.9,315.9 L450.0,333.4 L479.1,349.8 L504.8,386.1 L505.0,423.0 L457.4,441.0 L430.3,422.6 L407.2,338.9 L364.8,312.8 L336.9,281.3 L317.3,274.3 L293.2,275.7 L276.3,244.5 L281.8,237.3 L270.7,215.7 L284.6,211.3 L294.3,227.2 L323.4,232.9 L345.5,244.4 L365.0,260.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.GB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346966</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC03</fips>
+    <postal-code>GB</postal-code>
+    <name>Saint George Basseterre</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.6868</longitude>
+    <woe-name>Saint George Basseterre</woe-name>
+    <latitude>17.2836</latitude>
+    <woe-label>Saint George Basseterre, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.78</hc-middle-x>
+    <hc-middle-y>0.74</hc-middle-y>
+    <hc-key>kn-gb</hc-key>
+    <hc-a2>GB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.GG" d="M693.0,615.7 L693.5,635.0 L690.0,654.4 L679.1,681.4 L670.5,690.8 L631.7,700.0 L604.0,600.1 L638.6,589.9 L667.7,600.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.GG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346967</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC04</fips>
+    <postal-code>GG</postal-code>
+    <name>Saint George Gingerland</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Nevis</region>
+    <longitude>-62.5571</longitude>
+    <woe-name>Saint George Gingerland</woe-name>
+    <latitude>17.1301</latitude>
+    <woe-label>Saint George Gingerland, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>kn-gg</hc-key>
+    <hc-a2>GG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.JW" d="M531.3,503.3 L559.6,472.5 L604.1,473.3 L642.7,486.2 L672.4,514.9 L689.7,563.4 L692.3,583.5 L693.0,615.7 L667.7,600.0 L638.6,589.9 L604.0,600.1 L567.8,529.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.JW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346968</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC05</fips>
+    <postal-code>JW</postal-code>
+    <name>Saint James Windward</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Nevis</region>
+    <longitude>-62.5718</longitude>
+    <woe-name>Saint James Windward</woe-name>
+    <latitude>17.1782</latitude>
+    <woe-label>Saint James Windward, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>kn-jw</hc-key>
+    <hc-a2>JW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.JC" d="M82.6,12.8 L88.5,0.0 L195.6,64.0 L180.5,91.8 L183.3,107.7 L157.1,146.6 L114.1,109.2 L112.7,96.2 L98.8,91.9 L91.9,78.9 L90.5,53.0 L90.5,31.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.JC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346969</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC06</fips>
+    <postal-code>JC</postal-code>
+    <name>Saint John Capesterre</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.7967</longitude>
+    <woe-name>Saint John Capesterre</woe-name>
+    <latitude>17.382</latitude>
+    <woe-label>Saint John Capesterre, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>kn-jc</hc-key>
+    <hc-a2>JC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.JF" d="M631.7,700.0 L532.4,692.2 L512.3,638.5 L540.3,636.3 L574.9,629.0 L604.0,600.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.JF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346970</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC07</fips>
+    <postal-code>JF</postal-code>
+    <name>Saint John Figtree</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Nevis</region>
+    <longitude>-62.5949</longitude>
+    <woe-name>Saint John Figtree</woe-name>
+    <latitude>17.1162</latitude>
+    <woe-label>Saint John Figtree, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>kn-jf</hc-key>
+    <hc-a2>JF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.MC" d="M247.1,188.3 L245.7,159.5 L255.4,136.4 L263.7,122.0 L278.7,113.6 L301.2,127.1 L336.3,164.7 L319.1,173.8 L297.0,173.8 L276.2,171.0 L262.4,189.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.MC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346971</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC08</fips>
+    <postal-code>MC</postal-code>
+    <name>Saint Mary Cayon</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.7286</longitude>
+    <woe-name>Saint Mary Cayon</woe-name>
+    <latitude>17.3459</latitude>
+    <woe-label>Saint Mary Cayon, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>kn-mc</hc-key>
+    <hc-a2>MC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.PP" d="M114.1,109.2 L53.2,96.3 L55.9,80.4 L43.4,74.6 L35.1,86.2 L9.4,78.8 L16.9,47.0 L25.2,39.4 L30.9,35.3 L37.3,32.9 L47.3,30.4 L73.4,19.3 L82.6,12.8 L90.5,31.3 L90.5,53.0 L91.9,78.9 L98.8,91.9 L112.7,96.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.PP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346972</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC09</fips>
+    <postal-code>PP</postal-code>
+    <name>Saint Paul Capesterre</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.8337</longitude>
+    <woe-name>Saint Paul Capesterre</woe-name>
+    <latitude>17.3911</latitude>
+    <woe-label>Saint Paul Capesterre, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>kn-pp</hc-key>
+    <hc-a2>PP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.PL" d="M512.3,638.5 L501.9,611.0 L565.2,616.1 L604.0,600.1 L574.9,629.0 L540.3,636.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.PL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346973</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC10</fips>
+    <postal-code>PL</postal-code>
+    <name>Saint Paul Charlestown</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Nevis</region>
+    <longitude>-62.6162</longitude>
+    <woe-name>Saint Paul Charlestown</woe-name>
+    <latitude>17.135</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.26</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>kn-pl</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.PB" d="M270.7,215.7 L262.4,189.7 L276.2,171.0 L297.0,173.8 L319.1,173.8 L336.3,164.7 L353.6,183.3 L384.3,258.4 L365.0,260.3 L345.5,244.4 L323.4,232.9 L294.3,227.2 L284.6,211.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.PB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346974</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC11</fips>
+    <postal-code>PB</postal-code>
+    <name>Saint Peter Basseterre</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.7065</longitude>
+    <woe-name>Saint Peter Basseterre</woe-name>
+    <latitude>17.3221</latitude>
+    <woe-label>Saint Peter Basseterre, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>kn-pb</hc-key>
+    <hc-a2>PB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.TL" d="M604.0,600.1 L565.2,616.1 L501.9,611.0 L518.3,517.4 L531.3,503.3 L567.8,529.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.TL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346975</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC12</fips>
+    <postal-code>TL</postal-code>
+    <name>Saint Thomas Lowland</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Nevis</region>
+    <longitude>-62.6064</longitude>
+    <woe-name>Saint Thomas Lowland</woe-name>
+    <latitude>17.1597</latitude>
+    <woe-label>Saint Thomas Lowland, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>kn-tl</hc-key>
+    <hc-a2>TL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.TM" d="M157.1,146.6 L172.3,163.9 L175.1,178.3 L227.7,188.4 L219.5,218.6 L202.9,227.3 L196.0,246.1 L191.1,261.8 L154.6,247.0 L62.9,190.5 L78.1,165.4 L89.2,139.5 L98.9,139.5 L114.1,109.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KN.TM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346976</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SC13</fips>
+    <postal-code>TM</postal-code>
+    <name>Saint Thomas Middle Island</name>
+    <country>Saint Kitts and Nevis</country>
+    <type-en>Parish</type-en>
+    <region>Saint Kitts</region>
+    <longitude>-62.7943</longitude>
+    <woe-name>Saint Thomas Middle Island</woe-name>
+    <latitude>17.3279</latitude>
+    <woe-label>Saint Thomas Middle Island, KN, Saint Kitts and Nevis</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>kn-tm</hc-key>
+    <hc-a2>TM</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

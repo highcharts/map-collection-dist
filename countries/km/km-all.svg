@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Comoros</title>
+<g id="admin1">
+
+<g id="KM">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Comoros</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Com.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>COM</iso-a3>
+    <iso-a2>KM</iso-a2>
+    <woe-id>23424786</woe-id>
+    <continent>Africa</continent>
+    <hc-key>km</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KM.3651" d="M336.3,544.8 L323.8,544.9 L287.7,537.7 L250.6,536.9 L242.0,533.9 L239.6,529.9 L240.1,520.6 L238.5,515.5 L233.9,511.2 L229.1,509.1 L225.2,506.3 L223.7,499.1 L223.0,479.7 L226.0,471.6 L234.7,474.7 L242.3,478.7 L264.6,482.8 L274.6,485.8 L302.3,504.0 L307.4,509.6 L311.8,511.5 L340.0,530.0 L346.1,539.3 L344.4,543.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KM.AN</hasc>
+    <alt-name>Moûhîlî|M?h?l?|Mohéli|Mwali</alt-name>
+    <woe-id>2345045</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CN03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Moûhîlî</name>
+    <country>Comoros</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>43.7462</longitude>
+    <woe-name>Moheli</woe-name>
+    <latitude>-12.3178</latitude>
+    <woe-label>Moheli, KM, Comoros</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>km-3651</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KM.6458" d="M133.5,307.0 L126.3,308.1 L120.0,307.5 L117.1,303.4 L113.7,296.7 L83.8,269.4 L75.9,266.2 L53.1,265.0 L47.5,263.6 L41.4,260.3 L31.1,252.2 L26.7,246.8 L25.2,242.0 L24.5,237.3 L22.0,232.0 L8.4,218.9 L2.5,210.3 L0.0,197.1 L1.4,191.9 L4.9,185.3 L16.3,168.5 L16.4,162.8 L14.8,157.0 L14.3,150.7 L21.0,55.2 L19.9,48.9 L16.9,43.2 L22.1,33.8 L27.1,20.5 L32.5,10.1 L38.8,9.9 L61.4,2.1 L74.6,0.0 L84.4,3.9 L90.8,12.2 L95.6,20.9 L98.1,30.7 L86.8,131.5 L91.7,153.3 L115.5,187.0 L124.2,209.0 L124.5,214.5 L123.7,226.0 L124.3,231.4 L126.7,235.4 L130.3,238.8 L133.5,242.7 L136.4,253.5 L139.7,259.6 L152.3,276.0 L152.0,280.6 L146.1,290.2 L144.4,295.7 L143.8,299.6 L142.4,302.6 L138.5,305.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KM.GC</hasc>
+    <alt-name>Andjazîdja|Anjaz?jah|Grande Comore|Ngazidja</alt-name>
+    <woe-id>2345044</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CN02</fips>
+    <postal-code>NULL</postal-code>
+    <name>Andjazîdja</name>
+    <country>Comoros</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>43.3378</longitude>
+    <woe-name>Grande Comore</woe-name>
+    <latitude>-11.6952</latitude>
+    <woe-label>Grande Comore, KM, Comoros</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>km-6458</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KM.6459" d="M676.0,388.4 L698.6,460.3 L700.0,467.8 L699.8,533.6 L696.9,543.4 L690.8,547.4 L686.2,545.5 L680.7,540.9 L676.3,535.4 L674.5,530.7 L673.4,524.0 L670.5,520.2 L631.4,493.4 L627.0,486.4 L623.7,478.2 L615.7,474.2 L594.7,469.9 L561.7,453.1 L557.2,449.6 L535.9,437.0 L528.7,429.3 L537.2,429.0 L544.3,430.7 L558.0,436.6 L567.2,438.9 L584.4,441.4 L590.7,443.8 L593.5,441.6 L598.8,438.8 L601.5,436.4 L617.4,439.7 L631.5,426.8 L639.5,406.7 L637.6,388.5 L642.8,387.0 L650.1,382.7 L655.8,381.1 L658.4,380.0 L663.2,376.9 L666.9,377.0 L670.0,379.3 L674.2,386.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>KM.MO</hasc>
+    <alt-name>Andjouân|Anjw?n|Anjouan|Ndzuwani</alt-name>
+    <woe-id>2345043</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CN01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Andjouân</name>
+    <country>Comoros</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>44.4518</longitude>
+    <woe-name>Anjouan</woe-name>
+    <latitude>-12.226</latitude>
+    <woe-label>Anjouan, KM, Comoros</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.75</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>km-6459</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

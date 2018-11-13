@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Syria</title>
+<g id="admin1">
+
+<g id="SY">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Syria</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Syria</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>SYR</iso-a3>
+    <iso-a2>SY</iso-a2>
+    <woe-id>23424956</woe-id>
+    <continent>Asia</continent>
+    <hc-key>sy</hc-key>
+    <hc-a2>SY</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.DI" d="M65.7,490.2 L64.8,495.4 L61.9,499.4 L53.3,495.5 L52.7,493.4 L48.5,492.3 L47.7,489.9 L51.9,487.7 L61.2,486.1 L64.2,486.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SY.DI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347081</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY13</fips>
+    <postal-code>DI</postal-code>
+    <name>Damascus</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>36.2897</longitude>
+    <woe-name>Dimashq</woe-name>
+    <latitude>33.5101</latitude>
+    <woe-label>Dimashq, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>sy-di</hc-key>
+    <hc-a2>DI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.HL" d="M106.3,133.9 L100.0,131.3 L100.0,123.3 L96.6,120.4 L94.8,113.4 L95.1,109.3 L98.3,104.5 L99.0,93.2 L101.9,84.8 L103.0,76.9 L109.0,66.7 L128.0,73.8 L134.5,74.4 L140.5,76.9 L145.1,81.4 L145.3,91.4 L149.3,94.4 L154.7,90.5 L160.0,91.5 L169.0,89.8 L185.8,93.2 L190.1,93.3 L205.5,83.7 L211.9,81.0 L229.1,77.5 L245.8,70.1 L248.7,69.4 L260.7,61.9 L267.6,59.3 L277.9,59.8 L297.6,65.9 L302.7,68.8 L313.6,80.4 L314.9,86.1 L313.1,90.0 L307.1,91.0 L308.3,96.9 L310.7,97.0 L315.5,93.6 L317.2,95.7 L317.0,104.3 L315.0,116.1 L313.0,120.9 L306.9,129.0 L300.0,133.8 L291.5,138.4 L267.4,142.0 L261.3,145.1 L258.5,148.4 L253.8,156.7 L253.6,163.1 L255.7,168.8 L260.9,175.8 L265.1,179.3 L263.6,186.9 L254.9,198.3 L251.9,205.5 L248.5,221.7 L250.7,226.8 L270.8,248.6 L225.8,248.2 L216.9,246.8 L210.4,244.5 L201.5,238.1 L184.1,239.1 L178.0,238.9 L172.6,235.6 L163.7,232.3 L154.6,227.0 L150.8,222.0 L147.2,211.1 L151.5,207.5 L151.3,203.6 L144.9,198.5 L142.4,197.9 L135.8,186.1 L130.4,177.8 L129.7,169.9 L119.5,164.2 L113.8,157.2 L125.1,146.0 L126.4,142.9 L120.2,135.4 L119.0,131.1 L114.6,132.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SY.HL</hasc>
+    <alt-name>Aleppo|Alep|Alepo|Haleb|?alab</alt-name>
+    <woe-id>2347077</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY09</fips>
+    <postal-code>HL</postal-code>
+    <name>Aleppo</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>37.601</longitude>
+    <woe-name>Aleppo (Halab)</woe-name>
+    <latitude>36.1054</latitude>
+    <woe-label>H'alab, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>sy-hl</hc-key>
+    <hc-a2>HL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.HM" d="M163.7,232.3 L172.6,235.6 L178.0,238.9 L184.1,239.1 L201.5,238.1 L210.4,244.5 L216.9,246.8 L225.8,248.2 L270.8,248.6 L274.9,251.7 L277.8,255.5 L277.5,272.1 L272.2,282.5 L270.2,293.6 L256.2,299.7 L251.0,304.2 L247.5,314.9 L243.8,317.5 L237.6,309.4 L230.2,303.2 L228.6,296.6 L226.3,292.9 L222.6,292.2 L217.8,288.9 L199.9,293.3 L193.0,297.9 L192.8,307.4 L189.9,308.0 L187.3,305.3 L179.4,306.8 L176.2,305.5 L174.1,308.1 L170.4,308.0 L166.3,315.0 L162.8,313.9 L160.1,310.4 L154.6,314.2 L150.6,312.4 L136.3,320.7 L130.6,308.3 L126.1,305.4 L118.0,308.8 L111.6,308.9 L102.1,313.3 L96.9,313.0 L92.5,314.5 L87.9,311.2 L88.8,309.0 L85.4,308.1 L80.9,313.4 L79.5,319.1 L77.5,320.6 L71.1,318.5 L69.1,320.6 L65.9,316.7 L66.4,313.9 L62.8,310.4 L61.0,305.3 L48.7,303.8 L48.0,300.4 L57.9,297.9 L61.9,291.9 L61.1,272.2 L61.0,267.2 L58.7,254.1 L56.4,246.1 L58.8,231.9 L59.3,219.3 L57.2,213.6 L60.2,210.8 L61.5,205.1 L63.2,203.6 L64.8,205.5 L70.7,205.0 L72.9,208.6 L78.9,209.3 L79.7,211.5 L77.0,226.3 L77.6,235.0 L76.9,237.0 L80.1,245.2 L86.1,244.2 L89.7,246.0 L91.3,249.0 L103.4,251.6 L108.8,251.9 L121.6,248.8 L123.4,249.1 L130.3,256.5 L134.2,255.6 L140.9,248.1 L141.9,253.0 L140.7,256.6 L142.5,262.0 L150.2,261.5 L152.7,258.5 L155.4,258.2 L155.6,252.9 L154.1,250.5 L151.6,253.3 L148.7,252.8 L152.2,244.6 L156.6,242.4 L161.7,233.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SY.HM</hasc>
+    <alt-name>Hama|?am?h</alt-name>
+    <woe-id>2347078</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY10</fips>
+    <postal-code>HM</postal-code>
+    <name>Hamah</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>37.22</longitude>
+    <woe-name>Hamah</woe-name>
+    <latitude>35.2352</latitude>
+    <woe-label>H'amah, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>sy-hm</hc-key>
+    <hc-a2>HM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.HI" d="M477.1,423.7 L327.0,514.6 L277.3,545.3 L233.5,509.7 L225.5,504.4 L218.6,502.6 L212.9,499.3 L205.6,493.5 L198.5,483.6 L195.0,474.4 L181.8,462.6 L171.0,452.1 L164.2,439.6 L156.6,438.1 L144.4,430.5 L140.7,427.1 L133.1,414.2 L123.6,402.0 L115.3,405.0 L99.9,402.9 L95.0,404.9 L92.0,401.1 L90.9,396.7 L92.8,393.7 L86.2,383.9 L87.9,377.2 L79.4,370.5 L77.8,366.6 L67.1,366.4 L65.8,363.7 L72.7,358.8 L73.4,353.4 L78.4,353.3 L79.0,349.2 L73.7,350.0 L69.1,347.1 L65.2,341.4 L62.9,342.9 L59.9,349.0 L53.5,349.2 L51.1,347.7 L44.0,348.3 L44.8,343.5 L52.5,330.6 L62.2,320.9 L62.8,315.5 L66.4,313.9 L65.9,316.7 L69.1,320.6 L71.1,318.5 L77.5,320.6 L79.5,319.1 L80.9,313.4 L85.4,308.1 L88.8,309.0 L87.9,311.2 L92.5,314.5 L96.9,313.0 L102.1,313.3 L111.6,308.9 L118.0,308.8 L126.1,305.4 L130.6,308.3 L136.3,320.7 L150.6,312.4 L154.6,314.2 L160.1,310.4 L162.8,313.9 L166.3,315.0 L170.4,308.0 L174.1,308.1 L176.2,305.5 L179.4,306.8 L187.3,305.3 L189.9,308.0 L192.8,307.4 L193.0,297.9 L199.9,293.3 L217.8,288.9 L222.6,292.2 L226.3,292.9 L228.6,296.6 L230.2,303.2 L237.6,309.4 L243.8,317.5 L247.5,314.9 L251.0,304.2 L256.2,299.7 L270.2,293.6 L272.2,282.5 L277.5,272.1 L277.8,255.5 L287.1,254.5 L318.1,257.0 L376.9,272.9 L387.6,281.5 L391.0,285.7 L397.7,299.9 L397.5,309.8 L398.5,313.1 L416.2,337.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SY.HI</hasc>
+    <alt-name>Hims|Homs</alt-name>
+    <woe-id>2347079</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY11</fips>
+    <postal-code>HI</postal-code>
+    <name>Homs (Hims)</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>38.1425</longitude>
+    <woe-name>Homs (Hims)</woe-name>
+    <latitude>34.1503</latitude>
+    <woe-label>H'ims, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>sy-hi</hc-key>
+    <hc-a2>HI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.ID" d="M53.0,194.8 L54.6,191.0 L55.5,181.9 L57.9,178.2 L65.5,177.5 L66.5,173.0 L68.6,172.2 L74.9,173.3 L75.6,151.0 L77.3,143.2 L81.3,146.3 L85.3,147.0 L87.3,144.1 L90.4,143.5 L100.3,145.0 L107.7,143.8 L108.3,139.8 L106.3,133.9 L114.6,132.6 L119.0,131.1 L120.2,135.4 L126.4,142.9 L125.1,146.0 L113.8,157.2 L119.5,164.2 L129.7,169.9 L130.4,177.8 L135.8,186.1 L142.4,197.9 L144.9,198.5 L151.3,203.6 L151.5,207.5 L147.2,211.1 L150.8,222.0 L154.6,227.0 L163.7,232.3 L161.7,233.3 L156.6,242.4 L152.2,244.6 L148.7,252.8 L151.6,253.3 L154.1,250.5 L155.6,252.9 L155.4,258.2 L152.7,258.5 L150.2,261.5 L142.5,262.0 L140.7,256.6 L141.9,253.0 L140.9,248.1 L134.2,255.6 L130.3,256.5 L123.4,249.1 L121.6,248.8 L108.8,251.9 L103.4,251.6 L91.3,249.0 L89.7,246.0 L86.1,244.2 L80.1,245.2 L76.9,237.0 L77.6,235.0 L77.0,226.3 L79.7,211.5 L78.9,209.3 L72.9,208.6 L70.7,205.0 L64.8,205.5 L63.2,203.6 L66.8,200.9 L65.5,198.4 L53.6,199.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SY.ID</hasc>
+    <alt-name>Adlib|Edleb|Idleb</alt-name>
+    <woe-id>2347080</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY12</fips>
+    <postal-code>ID</postal-code>
+    <name>Idlib</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>36.6829</longitude>
+    <woe-name>Idlib</woe-name>
+    <latitude>35.8528</latitude>
+    <woe-label>Idlib, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>sy-id</hc-key>
+    <hc-a2>ID</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.HA" d="M397.2,87.0 L430.7,80.3 L452.9,71.8 L463.1,65.5 L474.5,61.6 L495.4,47.2 L499.6,45.0 L508.9,42.9 L522.6,35.0 L527.7,32.9 L547.0,29.7 L571.7,34.1 L578.6,36.5 L607.3,34.4 L661.5,19.9 L666.0,17.1 L673.5,9.5 L678.4,2.5 L681.7,0.0 L683.1,4.7 L687.7,6.3 L690.2,4.8 L696.8,12.1 L695.2,19.4 L697.3,21.7 L697.7,27.2 L700.0,33.2 L690.4,42.4 L646.6,92.3 L641.1,96.1 L609.1,103.9 L602.4,105.2 L597.3,109.6 L588.6,127.8 L587.8,131.2 L585.2,163.6 L585.7,168.0 L597.1,191.6 L598.9,199.9 L599.8,217.6 L597.7,225.6 L594.3,231.0 L582.4,229.6 L561.7,229.6 L543.3,225.4 L538.0,222.7 L458.4,147.2 L445.2,134.0 L437.4,121.2 L435.1,116.2 L432.7,111.4 L426.2,107.8 L416.7,103.9 L410.4,105.1 L405.9,103.1 L400.6,96.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SY.HA</hasc>
+    <alt-name>Al Hasaka|Al-Haska|Al Hassake|El Haseke|Haseke|Hassakeh|Hazakieh|Hassetché|Al Jezira|Jezireh</alt-name>
+    <woe-id>2347069</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY01</fips>
+    <postal-code>HA</postal-code>
+    <name>Hasaka (Al Haksa)</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>40.9092</longitude>
+    <woe-name>Hasaka (Al Haksa)</woe-name>
+    <latitude>36.3536</latitude>
+    <woe-label>Al H'asakah, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>sy-ha</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.DY" d="M594.3,231.0 L589.5,238.6 L588.6,242.5 L588.0,255.1 L583.9,271.1 L583.0,279.0 L585.7,325.7 L584.7,332.2 L567.1,367.9 L563.5,376.5 L558.0,382.0 L531.9,389.5 L477.1,423.7 L416.2,337.9 L398.5,313.1 L397.5,309.8 L397.7,299.9 L391.0,285.7 L387.6,281.5 L376.9,272.9 L421.3,207.2 L422.2,205.5 L417.6,202.8 L418.6,193.5 L428.5,146.6 L435.1,116.2 L437.4,121.2 L445.2,134.0 L458.4,147.2 L538.0,222.7 L543.3,225.4 L561.7,229.6 L582.4,229.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SY.DY</hasc>
+    <alt-name>Dair-Ezzor|Dayr az Zaur|Deir Al Zour|Deir ez Zor|Der Azzor|Dier Elzour</alt-name>
+    <woe-id>2347075</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY07</fips>
+    <postal-code>DY</postal-code>
+    <name>Dayr Az Zawr</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>40.275</longitude>
+    <woe-name>Dayr Az Zawr</woe-name>
+    <latitude>35.0736</latitude>
+    <woe-label>Dayr az Zawr, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>sy-dy</hc-key>
+    <hc-a2>DY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.SU" d="M187.6,601.2 L147.8,625.7 L130.9,636.3 L113.1,647.9 L110.1,648.3 L103.2,646.3 L98.9,647.3 L95.0,644.2 L80.1,642.0 L80.5,631.0 L81.6,626.4 L78.2,621.0 L79.7,617.8 L78.4,615.0 L68.3,613.4 L68.2,607.0 L73.3,603.8 L73.8,602.0 L70.5,599.4 L64.4,597.8 L65.1,592.3 L64.9,580.8 L62.7,574.8 L62.8,566.0 L71.5,559.4 L85.1,558.5 L84.1,552.8 L80.0,552.2 L77.6,544.1 L77.6,539.6 L81.3,535.2 L88.5,534.4 L116.0,531.1 L122.5,536.1 L125.2,541.3 L128.9,545.3 L130.4,550.2 L133.0,552.1 L142.5,554.1 L145.8,556.5 L148.8,563.9 L155.7,567.8 L160.5,567.2 L163.0,568.6 L165.0,578.6 L179.5,593.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SY.SU</hasc>
+    <alt-name>Djebel Druze|Jabal Druze|Jebel Druse|Jebel ed Druz|Al Sueida|Es Sueida|Es Suweida|Soueida|Suwaidaa</alt-name>
+    <woe-id>2347073</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY05</fips>
+    <postal-code>SU</postal-code>
+    <name>As Suwayda'</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>36.9153</longitude>
+    <woe-name>As Suwayda'</woe-name>
+    <latitude>32.7577</latitude>
+    <woe-label>As Suwayda', SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sy-su</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.RD" d="M277.3,545.3 L249.1,562.7 L187.6,601.2 L179.5,593.7 L165.0,578.6 L163.0,568.6 L160.5,567.2 L155.7,567.8 L148.8,563.9 L145.8,556.5 L142.5,554.1 L133.0,552.1 L130.4,550.2 L128.9,545.3 L125.2,541.3 L122.5,536.1 L116.0,531.1 L88.5,534.4 L87.8,529.6 L81.5,521.3 L69.4,530.0 L68.0,533.4 L63.8,532.3 L52.5,521.0 L49.9,529.3 L42.2,532.1 L33.6,532.6 L31.1,534.5 L26.6,534.7 L22.6,531.3 L22.9,525.7 L17.1,524.4 L15.2,526.5 L13.9,523.9 L15.8,519.0 L10.2,515.7 L9.5,508.6 L13.4,505.0 L13.5,501.8 L19.0,498.0 L20.8,493.9 L20.7,489.6 L25.8,489.0 L30.2,486.7 L32.3,482.4 L29.6,479.5 L19.9,475.1 L22.8,470.9 L22.9,467.4 L28.2,459.8 L34.4,452.8 L44.0,448.7 L49.1,451.4 L54.1,448.7 L65.4,453.0 L68.8,451.1 L68.7,448.4 L62.6,446.4 L58.1,441.3 L63.8,432.5 L71.8,424.4 L80.8,423.5 L82.4,419.0 L89.4,412.4 L95.0,404.9 L99.9,402.9 L115.3,405.0 L123.6,402.0 L133.1,414.2 L140.7,427.1 L144.4,430.5 L156.6,438.1 L164.2,439.6 L171.0,452.1 L181.8,462.6 L195.0,474.4 L198.5,483.6 L205.6,493.5 L212.9,499.3 L218.6,502.6 L225.5,504.4 L233.5,509.7 Z M65.7,490.2 L64.2,486.4 L61.2,486.1 L51.9,487.7 L47.7,489.9 L48.5,492.3 L52.7,493.4 L53.3,495.5 L61.9,499.4 L64.8,495.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SY.RD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347076</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY08</fips>
+    <postal-code>RD</postal-code>
+    <name>Rif Dimashq</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>37.0728</longitude>
+    <woe-name>Damascus</woe-name>
+    <latitude>33.5286</latitude>
+    <woe-label>Rif Dimashq, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>sy-rd</hc-key>
+    <hc-a2>RD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.QU" d="M10.2,515.7 L15.8,519.0 L13.9,523.9 L15.2,526.5 L17.1,524.4 L22.9,525.7 L22.6,531.3 L21.5,537.5 L24.3,541.5 L22.0,545.5 L20.4,553.5 L24.4,564.1 L22.5,562.4 L18.5,563.5 L18.8,569.6 L8.7,578.4 L10.4,572.8 L17.6,561.7 L12.6,558.3 L11.6,546.9 L12.1,543.6 L15.8,543.4 L16.4,534.7 L14.2,534.4 L11.2,522.2 L7.6,521.1 L9.8,519.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>SY.QU</hasc>
+    <alt-name>Al Qunatirah|Al Qunaytirah|Al Quneitera|El Quneitra|El Kenitra|Kunaitra|Kuneitra|Qunaytira</alt-name>
+    <woe-id>2347071</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY03</fips>
+    <postal-code>QU</postal-code>
+    <name>Quneitra</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>35.9145</longitude>
+    <woe-name>Quneitra</woe-name>
+    <latitude>33.053</latitude>
+    <woe-label>Al Qunaytirah, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>sy-qu</hc-key>
+    <hc-a2>QU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.DR" d="M88.5,534.4 L81.3,535.2 L77.6,539.6 L77.6,544.1 L80.0,552.2 L84.1,552.8 L85.1,558.5 L71.5,559.4 L62.8,566.0 L62.7,574.8 L64.9,580.8 L65.1,592.3 L64.4,597.8 L70.5,599.4 L73.8,602.0 L73.3,603.8 L68.2,607.0 L68.3,613.4 L78.4,615.0 L79.7,617.8 L78.2,621.0 L81.6,626.4 L80.5,631.0 L80.1,642.0 L68.2,639.5 L64.5,637.9 L55.1,628.5 L43.6,619.2 L31.8,620.2 L25.2,608.3 L25.1,602.2 L19.9,601.8 L18.4,597.2 L13.6,594.4 L2.0,591.3 L0.0,589.5 L5.1,584.7 L8.7,578.4 L18.8,569.6 L18.5,563.5 L22.5,562.4 L24.4,564.1 L20.4,553.5 L22.0,545.5 L24.3,541.5 L21.5,537.5 L22.6,531.3 L26.6,534.7 L31.1,534.5 L33.6,532.6 L42.2,532.1 L49.9,529.3 L52.5,521.0 L63.8,532.3 L68.0,533.4 L69.4,530.0 L81.5,521.3 L87.8,529.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>SY.DR</hasc>
+    <alt-name>Dara'a|Dária|Dera`a|Derraa|Hauran</alt-name>
+    <woe-id>2347074</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY06</fips>
+    <postal-code>DR</postal-code>
+    <name>Dar`a</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>36.1698</longitude>
+    <woe-name>Dar`a</woe-name>
+    <latitude>32.8686</latitude>
+    <woe-label>Dar'a, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>sy-dr</hc-key>
+    <hc-a2>DR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.3686" d="M10.2,515.7 L9.8,519.2 L7.6,521.1 L11.2,522.2 L14.2,534.4 L16.4,534.7 L15.8,543.4 L12.1,543.6 L11.6,546.9 L12.6,558.3 L17.6,561.7 L10.4,572.8 L8.7,578.4 L5.1,584.7 L0.0,589.5 L1.7,585.7 L7.3,579.4 L9.3,570.7 L13.6,564.5 L10.6,558.6 L10.0,544.6 L6.0,542.8 L8.5,536.5 L8.3,532.8 L5.9,531.2 L5.6,525.2 L2.0,521.9 L5.7,516.9 L1.7,514.0 L6.8,510.8 L8.2,504.8 L13.5,501.8 L13.4,505.0 L9.5,508.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>23424997</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>UNDOF</name>
+    <country>Syria</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>35.8621</longitude>
+    <woe-name>United Nations Neutral Zone</woe-name>
+    <latitude>33.1509</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.30</hc-middle-y>
+    <hc-key>sy-3686</hc-key>
+    <hc-a2>UN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.LA" d="M27.3,266.3 L25.7,262.9 L27.3,258.6 L26.6,246.1 L20.7,238.0 L16.4,234.1 L11.3,234.5 L12.3,229.8 L8.0,227.0 L8.8,224.4 L13.3,218.3 L12.7,212.5 L15.2,211.8 L19.5,204.1 L19.4,197.9 L15.7,190.1 L23.3,190.1 L27.8,181.7 L35.1,180.8 L36.2,187.2 L45.3,190.4 L51.3,195.1 L53.0,194.8 L53.6,199.0 L65.5,198.4 L66.8,200.9 L63.2,203.6 L61.5,205.1 L60.2,210.8 L57.2,213.6 L59.3,219.3 L58.8,231.9 L56.4,246.1 L58.7,254.1 L61.0,267.2 L61.1,272.2 L55.7,269.9 L53.0,271.2 L37.1,272.0 L31.8,268.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SY.LA</hasc>
+    <alt-name>Latakia|Al Ladhiqiyah|El Ladhiqiya|Lattakia|Lattakieh|Lattikia|Lattaquie</alt-name>
+    <woe-id>2347070</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY02</fips>
+    <postal-code>LA</postal-code>
+    <name>Lattakia</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>36.0061</longitude>
+    <woe-name>Lattakia (Al Ladhiqiyah)</woe-name>
+    <latitude>35.5494</latitude>
+    <woe-label>Al Ladhiqiyah, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>sy-la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.TA" d="M44.0,348.3 L36.1,348.2 L29.0,345.2 L25.0,332.2 L25.2,326.9 L23.1,322.9 L19.1,309.5 L20.5,307.8 L20.0,302.5 L23.1,297.1 L21.9,291.9 L22.1,285.8 L28.0,276.8 L30.3,274.6 L27.3,266.3 L31.8,268.0 L37.1,272.0 L53.0,271.2 L55.7,269.9 L61.1,272.2 L61.9,291.9 L57.9,297.9 L48.0,300.4 L48.7,303.8 L61.0,305.3 L62.8,310.4 L66.4,313.9 L62.8,315.5 L62.2,320.9 L52.5,330.6 L44.8,343.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SY.TA</hasc>
+    <alt-name>Tartaus|Tartous</alt-name>
+    <woe-id>2347082</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY14</fips>
+    <postal-code>TA</postal-code>
+    <name>Tartus</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>36.0901</longitude>
+    <woe-name>Tartus</woe-name>
+    <latitude>34.9274</latitude>
+    <woe-label>Tartus, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>sy-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY.RA" d="M270.8,248.6 L250.7,226.8 L248.5,221.7 L251.9,205.5 L254.9,198.3 L263.6,186.9 L265.1,179.3 L260.9,175.8 L255.7,168.8 L253.6,163.1 L253.8,156.7 L258.5,148.4 L261.3,145.1 L267.4,142.0 L291.5,138.4 L300.0,133.8 L306.9,129.0 L313.0,120.9 L315.0,116.1 L317.0,104.3 L317.2,95.7 L315.5,93.6 L310.7,97.0 L308.3,96.9 L307.1,91.0 L313.1,90.0 L314.9,86.1 L313.6,80.4 L316.6,83.5 L322.9,86.8 L330.2,87.8 L347.0,87.0 L354.7,85.9 L370.7,91.3 L376.2,91.0 L397.2,87.0 L400.6,96.3 L405.9,103.1 L410.4,105.1 L416.7,103.9 L426.2,107.8 L432.7,111.4 L435.1,116.2 L428.5,146.6 L418.6,193.5 L417.6,202.8 L422.2,205.5 L421.3,207.2 L376.9,272.9 L318.1,257.0 L287.1,254.5 L277.8,255.5 L274.9,251.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SY.RA</hasc>
+    <alt-name>Al Rakka|Raqqa|Al Rashid|Rashid</alt-name>
+    <woe-id>2347072</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SY04</fips>
+    <postal-code>RA</postal-code>
+    <name>Ar Raqqah</name>
+    <country>Syria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>38.9127</longitude>
+    <woe-name>Ar Raqqah</woe-name>
+    <latitude>36.0067</latitude>
+    <woe-label>Ar Raqqah, SY, Syria</woe-label>
+    <type>Governorate|Muhafazah</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sy-ra</hc-key>
+    <hc-a2>RA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

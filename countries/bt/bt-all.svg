@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Bhutan</title>
+<g id="admin1">
+
+<g id="BT">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bhutan</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Bhutan</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>BTN</iso-a3>
+    <iso-a2>BT</iso-a2>
+    <woe-id>23424770</woe-id>
+    <continent>Asia</continent>
+    <hc-key>bt</hc-key>
+    <hc-a2>BH</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.TY" d="M561.9,84.3 L567.0,85.4 L574.6,85.4 L582.9,88.7 L591.4,89.7 L600.4,92.8 L603.8,95.3 L606.9,100.7 L606.2,105.2 L603.8,109.9 L602.0,115.7 L601.9,121.0 L603.3,137.4 L602.1,147.4 L592.6,161.2 L591.3,170.1 L596.1,187.1 L598.1,190.4 L604.0,195.1 L605.9,199.0 L609.2,202.6 L619.1,204.9 L623.8,206.9 L622.1,210.1 L614.8,211.8 L607.7,214.9 L595.5,218.9 L593.2,219.1 L587.6,225.6 L581.9,228.6 L562.5,222.2 L554.4,221.3 L557.7,214.8 L557.9,211.9 L555.2,205.6 L540.5,186.4 L536.7,179.7 L534.1,176.0 L536.1,171.0 L535.0,156.9 L535.8,149.5 L534.3,144.2 L536.3,136.4 L537.6,126.0 L538.0,106.6 L538.6,101.5 L542.4,99.9 L549.0,91.9 L555.3,91.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.TY</hasc>
+    <alt-name>Trashi Yangtse|Trashiyangtsi</alt-name>
+    <woe-id>55967863</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT00</fips>
+    <postal-code>TY</postal-code>
+    <name>Tashi Yangtse</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Eastern</region>
+    <longitude>91.5121</longitude>
+    <woe-name>Tashi Yangtse</woe-name>
+    <latitude>27.676</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>bt-ty</hc-key>
+    <hc-a2>TY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.SG" d="M476.5,366.0 L475.4,366.5 L462.3,367.4 L465.0,365.3 L462.9,356.1 L457.9,358.5 L450.2,359.1 L439.5,357.8 L436.0,358.7 L433.6,356.8 L431.4,348.9 L426.7,339.3 L420.6,335.3 L415.0,329.1 L406.8,327.2 L405.8,323.5 L407.5,319.8 L406.4,313.0 L404.7,310.3 L404.0,305.8 L401.1,302.2 L396.2,299.6 L391.6,301.7 L386.3,300.1 L381.0,297.2 L373.7,290.8 L372.5,287.1 L382.4,279.6 L385.0,278.5 L389.1,281.0 L396.8,280.4 L398.1,278.7 L390.7,268.4 L405.9,261.2 L411.9,256.9 L411.7,250.0 L413.9,242.5 L415.4,234.8 L416.4,229.8 L418.9,228.3 L423.6,228.4 L428.1,232.5 L431.5,236.9 L438.2,240.0 L449.7,234.5 L454.4,234.3 L457.9,232.2 L458.6,229.9 L462.9,241.6 L464.9,249.3 L467.0,254.3 L470.8,257.6 L471.7,263.8 L473.8,266.6 L473.5,275.5 L470.8,283.1 L471.3,289.4 L478.2,304.3 L486.1,306.6 L489.6,309.8 L491.7,320.4 L494.6,323.1 L500.1,325.6 L503.2,329.3 L506.0,330.1 L508.3,328.6 L512.0,328.9 L509.8,337.4 L507.6,341.0 L504.0,342.5 L494.2,343.1 L492.3,347.4 L478.7,350.8 L474.9,354.4 L473.9,359.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.SG</hasc>
+    <alt-name>Zhemgang</alt-name>
+    <woe-id>2344885</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT18</fips>
+    <postal-code>SG</postal-code>
+    <name>Shemgang</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Southern</region>
+    <longitude>90.8505</longitude>
+    <woe-name>Shemgang</woe-name>
+    <latitude>27.0763</latitude>
+    <woe-label>Shemgang, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>bt-sg</hc-key>
+    <hc-a2>SG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.TO" d="M415.4,234.8 L413.9,242.5 L411.7,250.0 L411.9,256.9 L405.9,261.2 L390.7,268.4 L398.1,278.7 L396.8,280.4 L389.1,281.0 L385.0,278.5 L382.4,279.6 L372.5,287.1 L361.3,285.3 L348.0,275.1 L334.9,267.7 L338.8,262.1 L339.7,255.2 L336.2,253.1 L335.3,246.5 L332.9,242.5 L326.6,236.9 L325.7,231.9 L319.7,222.8 L318.0,213.8 L314.2,207.4 L321.7,205.6 L326.6,201.2 L332.8,199.4 L335.8,200.1 L340.1,195.9 L334.1,192.9 L331.8,190.2 L328.1,182.5 L324.8,173.6 L324.9,172.0 L328.3,166.8 L329.6,160.1 L331.9,158.4 L334.8,159.3 L341.5,157.9 L345.6,159.8 L355.1,155.7 L357.3,154.0 L359.1,149.7 L361.1,135.5 L364.0,138.0 L369.6,138.7 L373.5,144.9 L373.3,155.8 L371.8,160.9 L371.5,169.6 L373.0,171.1 L374.6,180.4 L376.3,181.4 L381.2,198.0 L382.1,203.9 L381.0,206.8 L382.7,211.5 L390.0,213.8 L393.5,216.9 L399.7,219.4 L403.9,222.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.TO</hasc>
+    <alt-name>Trongsa</alt-name>
+    <woe-id>2344888</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT21</fips>
+    <postal-code>TO</postal-code>
+    <name>Tongsa</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Southern</region>
+    <longitude>90.4811</longitude>
+    <woe-name>Tongsa</woe-name>
+    <latitude>27.4491</latitude>
+    <woe-label>Tongsa, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>bt-to</hc-key>
+    <hc-a2>TO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.WP" d="M361.1,135.5 L359.1,149.7 L357.3,154.0 L355.1,155.7 L345.6,159.8 L341.5,157.9 L334.8,159.3 L331.9,158.4 L329.6,160.1 L328.3,166.8 L324.9,172.0 L324.8,173.6 L328.1,182.5 L331.8,190.2 L334.1,192.9 L340.1,195.9 L335.8,200.1 L332.8,199.4 L326.6,201.2 L321.7,205.6 L314.2,207.4 L318.0,213.8 L319.7,222.8 L325.7,231.9 L326.6,236.9 L332.9,242.5 L335.3,246.5 L336.2,253.1 L339.7,255.2 L338.8,262.1 L334.9,267.7 L330.0,273.2 L329.9,276.8 L324.6,280.3 L320.0,281.7 L313.9,285.1 L306.7,279.3 L294.4,280.5 L291.6,280.1 L280.9,275.4 L276.6,276.5 L276.9,292.5 L271.5,289.2 L268.2,288.6 L260.1,285.1 L251.5,284.1 L246.6,277.5 L242.3,268.7 L238.8,264.0 L231.8,257.9 L227.0,255.2 L220.8,255.7 L216.3,253.2 L204.3,255.7 L204.3,241.6 L204.7,236.6 L200.4,232.5 L211.5,222.9 L209.9,218.2 L211.2,209.5 L222.1,206.5 L225.3,203.5 L226.6,197.0 L226.2,194.9 L235.3,195.5 L245.6,192.9 L250.5,188.9 L251.5,185.3 L258.8,179.2 L264.0,172.1 L268.8,170.6 L271.7,167.5 L272.2,164.4 L266.7,158.2 L261.0,157.9 L256.5,155.2 L257.4,147.3 L263.5,140.8 L265.5,136.9 L265.2,129.9 L266.3,122.4 L267.8,120.7 L275.0,119.4 L281.5,116.4 L285.4,110.9 L297.5,89.8 L308.6,89.0 L312.1,91.9 L313.1,97.6 L317.2,104.3 L321.8,107.9 L327.8,105.5 L335.4,105.8 L337.1,103.7 L335.4,94.3 L335.5,89.2 L336.8,87.0 L345.2,81.4 L348.7,75.0 L349.1,70.2 L353.6,66.7 L363.0,66.5 L356.7,72.0 L353.5,77.5 L358.0,83.4 L358.6,86.7 L356.1,91.9 L359.1,98.9 L363.9,101.5 L366.2,106.9 L366.7,110.5 L365.6,117.3 L362.0,123.5 L359.5,126.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.WP</hasc>
+    <alt-name>Wangdiphodrang|Andguphodang|Wangdue|Wangdue Phodrang|Wangdupotrang|Wangü-Phodrang</alt-name>
+    <woe-id>2344889</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT22</fips>
+    <postal-code>WP</postal-code>
+    <name>Wangdi Phodrang</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Central</region>
+    <longitude>90.0915</longitude>
+    <woe-name>Wangdi Phodrang</woe-name>
+    <latitude>27.5206</latitude>
+    <woe-label>Wangdue Phodrang, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>bt-wp</hc-key>
+    <hc-a2>WP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.MO" d="M512.0,328.9 L508.3,328.6 L506.0,330.1 L503.2,329.3 L500.1,325.6 L494.6,323.1 L491.7,320.4 L489.6,309.8 L486.1,306.6 L478.2,304.3 L471.3,289.4 L470.8,283.1 L473.5,275.5 L473.8,266.6 L471.7,263.8 L470.8,257.6 L467.0,254.3 L464.9,249.3 L462.9,241.6 L458.6,229.9 L461.6,226.7 L466.5,224.9 L477.2,227.1 L488.6,216.9 L493.0,215.3 L500.6,216.2 L502.1,217.1 L506.9,224.6 L523.6,215.4 L526.2,208.4 L526.6,204.2 L523.4,198.3 L525.0,194.3 L532.1,187.9 L532.1,182.2 L536.7,179.7 L540.5,186.4 L555.2,205.6 L557.9,211.9 L557.7,214.8 L554.4,221.3 L555.4,224.2 L553.3,226.4 L561.3,232.2 L567.9,236.2 L570.2,241.5 L571.0,246.0 L562.7,250.4 L554.7,258.3 L553.2,262.3 L552.8,274.2 L552.3,277.1 L550.2,285.0 L545.3,294.6 L541.3,298.0 L527.2,304.5 L522.9,308.0 L519.3,312.4 L513.7,322.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.MO</hasc>
+    <alt-name>Monggar|Mongor</alt-name>
+    <woe-id>2344879</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT12</fips>
+    <postal-code>MO</postal-code>
+    <name>Mongar</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Eastern</region>
+    <longitude>91.20140000000001</longitude>
+    <woe-name>Mongar</woe-name>
+    <latitude>27.1956</latitude>
+    <woe-label>Mongar, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>bt-mo</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.PM" d="M512.0,328.9 L513.7,322.5 L519.3,312.4 L522.9,308.0 L527.2,304.5 L541.3,298.0 L545.3,294.6 L550.2,285.0 L552.3,277.1 L561.0,278.1 L556.1,285.7 L555.8,288.4 L559.4,294.1 L566.4,299.3 L569.2,300.7 L577.0,300.9 L575.9,310.7 L568.0,313.2 L563.9,322.3 L563.4,326.4 L564.2,330.9 L560.6,337.9 L552.2,347.0 L550.1,351.4 L547.5,352.4 L541.6,350.3 L544.3,340.2 L541.7,334.6 L536.9,334.3 L532.1,329.5 L528.9,328.6 L520.7,329.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.PM</hasc>
+    <alt-name>Pema Gatshel|Pemagatshel</alt-name>
+    <woe-id>2344881</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT14</fips>
+    <postal-code>PM</postal-code>
+    <name>Pemagatsel</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Eastern</region>
+    <longitude>91.34050000000001</longitude>
+    <woe-name>Pemagatsel</woe-name>
+    <latitude>26.9641</latitude>
+    <woe-label>Pemagatsel, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>bt-pm</hc-key>
+    <hc-a2>PM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.SJ" d="M512.0,328.9 L520.7,329.7 L528.9,328.6 L532.1,329.5 L536.9,334.3 L541.7,334.6 L544.3,340.2 L541.6,350.3 L547.5,352.4 L550.1,351.4 L552.2,347.0 L560.6,337.9 L564.2,330.9 L563.4,326.4 L563.9,322.3 L568.0,313.2 L575.9,310.7 L579.0,312.4 L595.6,302.6 L605.1,304.6 L633.3,294.3 L637.8,285.8 L642.0,281.9 L651.7,278.6 L660.1,277.8 L661.0,269.0 L660.5,264.7 L662.0,258.4 L663.9,257.3 L666.1,259.9 L669.9,269.4 L672.6,271.1 L682.8,272.2 L680.8,276.5 L679.3,284.8 L679.3,289.1 L681.9,296.6 L692.5,306.9 L696.2,314.2 L700.0,327.6 L697.9,339.2 L690.3,347.0 L677.6,349.1 L673.9,347.4 L667.1,341.8 L663.5,340.4 L660.3,341.3 L660.9,347.8 L656.5,350.0 L659.0,353.1 L659.3,356.9 L657.6,359.6 L654.3,359.2 L652.0,356.1 L650.2,348.9 L646.2,346.8 L640.0,348.1 L626.8,357.0 L620.7,360.0 L610.6,361.4 L607.2,361.2 L598.0,358.6 L594.2,358.8 L586.6,361.5 L582.7,361.9 L579.9,359.5 L575.0,349.1 L573.0,346.1 L570.0,345.3 L561.5,344.9 L558.6,345.4 L554.9,348.0 L548.8,360.2 L542.9,365.1 L535.9,367.7 L531.6,367.9 L522.5,363.1 L515.3,361.5 L500.4,361.9 L493.0,361.1 L486.8,361.2 L476.5,366.0 L473.9,359.2 L474.9,354.4 L478.7,350.8 L492.3,347.4 L494.2,343.1 L504.0,342.5 L507.6,341.0 L509.8,337.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.SJ</hasc>
+    <alt-name>Samdrup|Samdrup Jongkha</alt-name>
+    <woe-id>2344884</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT17</fips>
+    <postal-code>SJ</postal-code>
+    <name>Samdrup Jongkhar</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Eastern</region>
+    <longitude>91.7328</longitude>
+    <woe-name>Samdrup Jongkhar</woe-name>
+    <latitude>26.9509</latitude>
+    <woe-label>Samdrup, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.70</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>bt-sj</hc-key>
+    <hc-a2>SJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.TA" d="M575.9,310.7 L577.0,300.9 L569.2,300.7 L566.4,299.3 L559.4,294.1 L555.8,288.4 L556.1,285.7 L561.0,278.1 L552.3,277.1 L552.8,274.2 L553.2,262.3 L554.7,258.3 L562.7,250.4 L571.0,246.0 L570.2,241.5 L567.9,236.2 L561.3,232.2 L553.3,226.4 L555.4,224.2 L554.4,221.3 L562.5,222.2 L581.9,228.6 L587.6,225.6 L593.2,219.1 L595.5,218.9 L607.7,214.9 L614.8,211.8 L622.1,210.1 L623.8,206.9 L627.3,211.7 L628.7,217.1 L634.8,216.4 L650.9,210.5 L656.5,209.4 L664.1,209.8 L666.8,208.8 L672.9,204.1 L675.3,203.2 L680.0,208.7 L698.8,242.1 L699.6,244.8 L698.3,248.9 L691.9,254.5 L689.0,258.0 L687.7,264.6 L686.0,268.5 L682.8,272.2 L672.6,271.1 L669.9,269.4 L666.1,259.9 L663.9,257.3 L662.0,258.4 L660.5,264.7 L661.0,269.0 L660.1,277.8 L651.7,278.6 L642.0,281.9 L637.8,285.8 L633.3,294.3 L605.1,304.6 L595.6,302.6 L579.0,312.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.TA</hasc>
+    <alt-name>Trashigang</alt-name>
+    <woe-id>2344886</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT19</fips>
+    <postal-code>TA</postal-code>
+    <name>Tashigang</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Eastern</region>
+    <longitude>91.734</longitude>
+    <woe-name>Tashigang</woe-name>
+    <latitude>27.2629</latitude>
+    <woe-label>Tashigang, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>bt-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.CK" d="M213.4,386.2 L210.1,385.7 L198.9,380.7 L194.3,380.5 L186.9,383.5 L183.1,383.5 L180.5,381.5 L183.9,375.1 L183.4,371.0 L178.2,366.8 L169.9,363.6 L161.3,362.1 L148.2,363.6 L140.8,359.8 L132.8,354.2 L132.1,345.5 L124.9,346.1 L122.5,338.5 L116.7,334.9 L112.5,334.4 L111.7,332.3 L118.9,327.4 L127.1,316.3 L127.9,311.3 L124.5,306.3 L120.8,305.2 L120.1,294.7 L121.9,290.2 L124.9,288.5 L125.2,284.2 L129.4,277.5 L129.2,274.7 L126.8,271.9 L125.1,267.1 L139.7,267.5 L145.6,268.7 L151.8,271.8 L159.9,273.2 L161.9,272.4 L161.5,264.9 L166.6,250.6 L167.2,244.9 L170.7,247.5 L173.5,255.9 L183.0,258.5 L184.5,261.1 L172.7,269.2 L168.5,274.9 L168.6,276.8 L181.5,284.2 L186.2,283.6 L189.3,288.2 L193.3,299.8 L198.2,301.5 L199.4,303.9 L198.0,309.4 L211.1,309.5 L215.3,317.8 L219.0,331.1 L215.4,338.3 L215.3,341.3 L219.0,348.8 L218.0,358.6 L215.0,363.1 L211.6,367.8 L209.5,373.4 L210.3,378.3 L213.5,382.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.CK</hasc>
+    <alt-name>Chukha</alt-name>
+    <woe-id>2344873</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT06</fips>
+    <postal-code>CK</postal-code>
+    <name>Chhukha</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Western</region>
+    <longitude>89.5247</longitude>
+    <woe-name>Chhukha</woe-name>
+    <latitude>27.0361</latitude>
+    <woe-label>Chhukha, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>bt-ck</hc-key>
+    <hc-a2>CK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.DA" d="M215.0,363.1 L218.0,358.6 L219.0,348.8 L215.3,341.3 L215.4,338.3 L219.0,331.1 L215.3,317.8 L211.1,309.5 L198.0,309.4 L199.4,303.9 L198.2,301.5 L193.3,299.8 L189.3,288.2 L186.2,283.6 L188.3,277.3 L189.1,271.9 L191.2,267.3 L197.0,264.3 L200.2,260.2 L201.9,255.2 L204.3,255.7 L216.3,253.2 L220.8,255.7 L227.0,255.2 L231.8,257.9 L238.8,264.0 L242.3,268.7 L246.6,277.5 L251.5,284.1 L260.1,285.1 L268.2,288.6 L271.5,289.2 L276.9,292.5 L278.0,300.2 L276.7,304.1 L278.4,306.2 L277.3,318.7 L277.2,326.3 L275.2,332.5 L270.0,339.8 L266.3,341.8 L265.3,346.7 L265.7,350.3 L258.0,355.5 L254.6,358.5 L252.8,352.5 L249.6,351.6 L249.5,355.4 L246.6,360.0 L245.0,356.7 L243.8,359.6 L237.2,362.3 L233.8,361.7 L230.3,358.3 L225.7,357.6 L224.8,363.4 L219.7,362.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.DA</hasc>
+    <alt-name>Dagana|Tagana</alt-name>
+    <woe-id>2344875</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT08</fips>
+    <postal-code>DA</postal-code>
+    <name>Daga</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Central</region>
+    <longitude>89.84439999999999</longitude>
+    <woe-name>Daga</woe-name>
+    <latitude>27.0316</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>bt-da</hc-key>
+    <hc-a2>DA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.HA" d="M125.1,267.1 L126.8,271.9 L129.2,274.7 L129.4,277.5 L125.2,284.2 L124.9,288.5 L115.3,286.6 L110.8,288.6 L108.3,294.5 L105.4,298.9 L96.0,286.6 L88.9,292.9 L85.8,292.6 L81.3,282.3 L66.3,280.7 L62.3,278.8 L59.9,272.7 L57.6,263.4 L51.0,265.7 L46.0,260.1 L43.4,255.0 L40.9,253.3 L30.7,250.2 L32.5,248.8 L34.2,242.1 L39.0,238.5 L46.4,239.2 L50.7,242.9 L56.0,238.7 L52.7,233.1 L49.2,224.1 L46.6,214.7 L49.9,204.3 L53.4,200.9 L51.3,195.1 L52.5,192.2 L58.1,187.7 L57.6,185.2 L60.4,181.6 L64.0,180.9 L67.7,174.1 L76.2,170.1 L78.4,170.6 L83.0,175.7 L89.5,181.2 L96.7,185.0 L100.9,184.9 L101.9,186.4 L108.1,204.7 L113.4,209.3 L114.1,213.0 L122.0,226.1 L133.8,243.1 L129.4,247.9 L123.7,250.5 L121.2,255.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.HA</hasc>
+    <alt-name>Haa</alt-name>
+    <woe-id>2344877</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT10</fips>
+    <postal-code>HA</postal-code>
+    <name>Ha</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Western</region>
+    <longitude>89.1233</longitude>
+    <woe-name>Ha</woe-name>
+    <latitude>27.3711</latitude>
+    <woe-label>Ha, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>bt-ha</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.PR" d="M167.2,244.9 L166.6,250.6 L161.5,264.9 L161.9,272.4 L159.9,273.2 L151.8,271.8 L145.6,268.7 L139.7,267.5 L125.1,267.1 L121.2,255.4 L123.7,250.5 L129.4,247.9 L133.8,243.1 L122.0,226.1 L114.1,213.0 L113.4,209.3 L108.1,204.7 L101.9,186.4 L100.9,184.9 L96.7,185.0 L89.5,181.2 L83.0,175.7 L78.4,170.6 L83.0,172.7 L83.6,169.8 L89.6,160.9 L98.5,145.8 L100.1,141.9 L108.0,144.5 L110.9,146.8 L115.1,148.4 L118.5,148.2 L123.1,145.6 L130.3,145.0 L137.3,141.9 L136.8,148.7 L137.5,154.5 L140.6,159.1 L134.9,165.6 L138.1,165.2 L141.4,166.8 L145.0,170.3 L149.7,176.7 L152.7,182.7 L157.2,185.8 L155.5,189.4 L154.8,197.8 L153.2,208.2 L152.9,216.9 L154.4,219.5 L159.5,221.5 L161.1,226.6 L159.6,232.9 L164.9,236.1 L166.9,238.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.PR</hasc>
+    <alt-name>Rinpung</alt-name>
+    <woe-id>2344880</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT13</fips>
+    <postal-code>PR</postal-code>
+    <name>Paro</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Western</region>
+    <longitude>89.38370000000001</longitude>
+    <woe-name>Paro</woe-name>
+    <latitude>27.4896</latitude>
+    <woe-label>Paro, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>bt-pr</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.SM" d="M124.9,288.5 L121.9,290.2 L120.1,294.7 L120.8,305.2 L124.5,306.3 L127.9,311.3 L127.1,316.3 L118.9,327.4 L111.7,332.3 L112.5,334.4 L116.7,334.9 L122.5,338.5 L124.9,346.1 L132.1,345.5 L132.8,354.2 L127.1,350.2 L118.5,352.5 L112.9,352.5 L106.0,358.1 L100.1,359.7 L94.2,360.2 L82.4,359.4 L75.8,357.5 L72.9,354.1 L68.5,343.5 L65.2,339.8 L60.3,336.2 L55.1,333.8 L50.7,334.0 L46.3,336.1 L41.7,334.5 L40.3,332.1 L40.2,324.6 L36.5,320.0 L32.2,320.5 L28.2,323.9 L24.9,328.2 L23.8,316.7 L23.9,303.9 L22.9,298.0 L20.2,292.7 L15.6,289.1 L2.6,282.0 L0.0,280.1 L1.8,273.4 L5.2,265.8 L9.7,259.2 L15.1,255.7 L27.6,252.5 L30.7,250.2 L40.9,253.3 L43.4,255.0 L46.0,260.1 L51.0,265.7 L57.6,263.4 L59.9,272.7 L62.3,278.8 L66.3,280.7 L81.3,282.3 L85.8,292.6 L88.9,292.9 L96.0,286.6 L105.4,298.9 L108.3,294.5 L110.8,288.6 L115.3,286.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.SM</hasc>
+    <alt-name>Samtse</alt-name>
+    <woe-id>2344883</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT16</fips>
+    <postal-code>SM</postal-code>
+    <name>Samchi</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Western</region>
+    <longitude>89.0493</longitude>
+    <woe-name>Samchi</woe-name>
+    <latitude>27.0219</latitude>
+    <woe-label>Samchi, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>bt-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.TM" d="M204.3,255.7 L201.9,255.2 L200.2,260.2 L197.0,264.3 L191.2,267.3 L189.1,271.9 L188.3,277.3 L186.2,283.6 L181.5,284.2 L168.6,276.8 L168.5,274.9 L172.7,269.2 L184.5,261.1 L183.0,258.5 L173.5,255.9 L170.7,247.5 L167.2,244.9 L166.9,238.7 L164.9,236.1 L159.6,232.9 L161.1,226.6 L159.5,221.5 L154.4,219.5 L152.9,216.9 L153.2,208.2 L154.8,197.8 L155.5,189.4 L157.2,185.8 L152.7,182.7 L149.7,176.7 L145.0,170.3 L141.4,166.8 L138.1,165.2 L134.9,165.6 L140.6,159.1 L137.5,154.5 L136.8,148.7 L137.3,141.9 L130.3,145.0 L123.1,145.6 L118.5,148.2 L115.1,148.4 L110.9,146.8 L108.0,144.5 L100.1,141.9 L102.3,136.4 L104.1,127.9 L111.1,123.3 L119.6,119.5 L127.2,113.7 L134.3,104.4 L144.2,85.9 L149.1,85.5 L153.7,86.5 L159.3,89.7 L161.8,93.1 L163.1,100.9 L164.3,103.1 L172.1,105.2 L172.6,106.4 L167.9,109.7 L160.7,119.0 L159.2,122.1 L159.9,128.6 L158.7,133.5 L157.0,135.5 L160.4,140.3 L162.5,140.4 L165.8,135.6 L171.7,135.2 L174.1,143.5 L175.8,145.3 L183.5,149.8 L187.1,155.5 L188.1,161.2 L187.5,168.6 L188.0,172.1 L192.1,178.4 L194.8,184.4 L200.1,191.0 L205.7,186.5 L214.3,183.7 L221.2,194.2 L226.2,194.9 L226.6,197.0 L225.3,203.5 L222.1,206.5 L211.2,209.5 L209.9,218.2 L211.5,222.9 L200.4,232.5 L204.7,236.6 L204.3,241.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BT.TM</hasc>
+    <alt-name>Tashi Chho Dzong|Thimbu</alt-name>
+    <woe-id>2344887</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT20</fips>
+    <postal-code>TM</postal-code>
+    <name>Thimphu</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Western</region>
+    <longitude>89.602</longitude>
+    <woe-name>Thimphu</woe-name>
+    <latitude>27.4828</latitude>
+    <woe-label>Thimphu, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>bt-tm</hc-key>
+    <hc-a2>TM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.GA" d="M183.5,149.8 L175.8,145.3 L174.1,143.5 L171.7,135.2 L165.8,135.6 L162.5,140.4 L160.4,140.3 L157.0,135.5 L158.7,133.5 L159.9,128.6 L159.2,122.1 L160.7,119.0 L167.9,109.7 L172.6,106.4 L172.1,105.2 L164.3,103.1 L163.1,100.9 L161.8,93.1 L159.3,89.7 L153.7,86.5 L149.1,85.5 L144.2,85.9 L149.9,76.0 L156.3,69.0 L160.4,67.5 L164.5,64.3 L174.1,52.0 L181.7,48.5 L206.4,44.1 L214.3,40.5 L219.5,30.2 L229.6,23.1 L236.5,14.6 L240.2,14.2 L247.4,10.0 L254.9,11.7 L258.9,9.4 L262.8,8.8 L279.3,3.1 L290.2,5.4 L296.3,8.5 L301.1,7.7 L305.8,2.3 L311.2,0.0 L318.7,5.4 L318.7,13.8 L324.9,22.6 L332.7,23.9 L337.7,13.7 L344.5,13.7 L350.7,17.5 L358.8,17.5 L369.0,25.1 L377.9,25.9 L386.0,28.9 L388.1,36.6 L382.0,38.9 L378.0,46.6 L371.2,47.4 L365.1,54.3 L363.0,66.5 L353.6,66.7 L349.1,70.2 L348.7,75.0 L345.2,81.4 L336.8,87.0 L335.5,89.2 L335.4,94.3 L337.1,103.7 L335.4,105.8 L327.8,105.5 L321.8,107.9 L317.2,104.3 L313.1,97.6 L312.1,91.9 L308.6,89.0 L297.5,89.8 L285.4,110.9 L281.5,116.4 L275.0,119.4 L267.8,120.7 L266.3,122.4 L265.2,129.9 L248.9,122.8 L242.7,117.9 L229.9,121.0 L223.5,130.7 L216.7,139.5 L207.5,140.5 L203.5,143.2 L204.5,145.4 L196.3,148.0 L190.8,146.3 L184.9,147.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.GA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55967862</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT15</fips>
+    <postal-code>GA</postal-code>
+    <name>Gasa</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Central</region>
+    <longitude>89.91330000000001</longitude>
+    <woe-name>Gasa</woe-name>
+    <latitude>28.0641</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>bt-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.PN" d="M226.2,194.9 L221.2,194.2 L214.3,183.7 L205.7,186.5 L200.1,191.0 L194.8,184.4 L192.1,178.4 L188.0,172.1 L187.5,168.6 L188.1,161.2 L187.1,155.5 L183.5,149.8 L184.9,147.1 L190.8,146.3 L196.3,148.0 L204.5,145.4 L203.5,143.2 L207.5,140.5 L216.7,139.5 L223.5,130.7 L229.9,121.0 L242.7,117.9 L248.9,122.8 L265.2,129.9 L265.5,136.9 L263.5,140.8 L257.4,147.3 L256.5,155.2 L261.0,157.9 L266.7,158.2 L272.2,164.4 L271.7,167.5 L268.8,170.6 L264.0,172.1 L258.8,179.2 L251.5,185.3 L250.5,188.9 L245.6,192.9 L235.3,195.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.PN</hasc>
+    <alt-name>Punaka</alt-name>
+    <woe-id>2344882</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT00</fips>
+    <postal-code>PN</postal-code>
+    <name>Punakha</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Central</region>
+    <longitude>89.8223</longitude>
+    <woe-name>Punakha</woe-name>
+    <latitude>27.6756</latitude>
+    <woe-label>Punakha, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>bt-pn</hc-key>
+    <hc-a2>PN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.CR" d="M265.7,350.3 L265.3,346.7 L266.3,341.8 L270.0,339.8 L275.2,332.5 L277.2,326.3 L277.3,318.7 L278.4,306.2 L276.7,304.1 L278.0,300.2 L276.9,292.5 L276.6,276.5 L280.9,275.4 L291.6,280.1 L294.4,280.5 L306.7,279.3 L313.9,285.1 L320.0,281.7 L324.6,280.3 L329.9,276.8 L333.8,281.9 L323.4,288.9 L319.9,293.5 L319.0,300.3 L317.0,306.1 L313.7,309.4 L314.2,317.3 L310.9,322.7 L307.4,326.3 L304.0,334.5 L300.7,336.6 L293.3,347.9 L293.6,352.9 L291.5,354.3 L285.6,355.9 L279.2,361.1 L271.6,359.6 L268.0,355.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.CR</hasc>
+    <alt-name>Tsirang</alt-name>
+    <woe-id>2344874</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT07</fips>
+    <postal-code>CR</postal-code>
+    <name>Chirang</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Central</region>
+    <longitude>90.16710000000001</longitude>
+    <woe-name>Chirang</woe-name>
+    <latitude>27.0316</latitude>
+    <woe-label>Chirang, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>bt-cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.GE" d="M215.0,363.1 L219.7,362.0 L224.8,363.4 L225.7,357.6 L230.3,358.3 L233.8,361.7 L237.2,362.3 L243.8,359.6 L245.0,356.7 L246.6,360.0 L249.5,355.4 L249.6,351.6 L252.8,352.5 L254.6,358.5 L258.0,355.5 L265.7,350.3 L268.0,355.3 L271.6,359.6 L279.2,361.1 L285.6,355.9 L291.5,354.3 L293.6,352.9 L293.3,347.9 L300.7,336.6 L304.0,334.5 L307.4,326.3 L310.9,322.7 L314.2,317.3 L313.7,309.4 L317.0,306.1 L319.0,300.3 L319.9,293.5 L323.4,288.9 L333.8,281.9 L329.9,276.8 L330.0,273.2 L334.9,267.7 L348.0,275.1 L361.3,285.3 L372.5,287.1 L373.7,290.8 L381.0,297.2 L386.3,300.1 L391.6,301.7 L396.2,299.6 L401.1,302.2 L404.0,305.8 L404.7,310.3 L406.4,313.0 L407.5,319.8 L405.8,323.5 L406.8,327.2 L415.0,329.1 L420.6,335.3 L426.7,339.3 L431.4,348.9 L433.6,356.8 L436.0,358.7 L439.5,357.8 L450.2,359.1 L457.9,358.5 L462.9,356.1 L465.0,365.3 L462.3,367.4 L414.7,370.5 L387.7,367.6 L364.1,355.5 L344.7,341.7 L337.6,340.6 L333.4,342.0 L324.2,349.8 L320.3,351.1 L308.8,351.2 L301.8,355.7 L296.6,369.8 L291.3,374.5 L283.4,376.8 L259.6,379.1 L246.3,382.6 L241.8,383.0 L229.1,380.0 L226.5,387.4 L222.9,386.4 L213.4,386.2 L213.5,382.8 L210.3,378.3 L209.5,373.4 L211.6,367.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.GE</hasc>
+    <alt-name>Gaylegphug|Sarbhang|Gelephu|Sarpang</alt-name>
+    <woe-id>2344876</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT09</fips>
+    <postal-code>GE</postal-code>
+    <name>Geylegphug</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Central</region>
+    <longitude>90.3468</longitude>
+    <woe-name>Geylegphug</woe-name>
+    <latitude>27.0503</latitude>
+    <woe-label>Geylegphug, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>bt-ge</hc-key>
+    <hc-a2>GE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.BU" d="M466.5,224.9 L461.6,226.7 L458.6,229.9 L457.9,232.2 L454.4,234.3 L449.7,234.5 L438.2,240.0 L431.5,236.9 L428.1,232.5 L423.6,228.4 L418.9,228.3 L416.4,229.8 L415.4,234.8 L403.9,222.4 L399.7,219.4 L393.5,216.9 L390.0,213.8 L382.7,211.5 L381.0,206.8 L382.1,203.9 L381.2,198.0 L376.3,181.4 L374.6,180.4 L373.0,171.1 L371.5,169.6 L371.8,160.9 L373.3,155.8 L373.5,144.9 L369.6,138.7 L364.0,138.0 L361.1,135.5 L359.5,126.3 L362.0,123.5 L365.6,117.3 L366.7,110.5 L366.2,106.9 L363.9,101.5 L359.1,98.9 L356.1,91.9 L358.6,86.7 L358.0,83.4 L353.5,77.5 L356.7,72.0 L363.0,66.5 L370.2,66.1 L383.7,67.9 L393.3,66.2 L399.3,62.9 L406.1,62.9 L415.0,68.7 L420.9,70.2 L419.9,77.6 L421.1,89.7 L418.1,93.7 L415.4,99.6 L418.8,104.0 L424.9,106.1 L429.2,114.7 L429.8,120.7 L432.7,122.1 L439.5,129.3 L445.1,131.8 L448.0,142.4 L448.0,147.8 L455.0,150.5 L460.9,156.1 L462.2,160.1 L463.5,170.8 L459.9,184.2 L461.8,188.4 L462.3,193.9 L461.4,197.6 L468.6,206.3 L463.2,218.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.BU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344872</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT05</fips>
+    <postal-code>BU</postal-code>
+    <name>Bumthang</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Southern</region>
+    <longitude>90.7042</longitude>
+    <woe-name>Bumthang</woe-name>
+    <latitude>27.7219</latitude>
+    <woe-label>Bumthang, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>bt-bu</hc-key>
+    <hc-a2>BU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT.LH" d="M466.5,224.9 L463.2,218.5 L468.6,206.3 L461.4,197.6 L462.3,193.9 L461.8,188.4 L459.9,184.2 L463.5,170.8 L462.2,160.1 L460.9,156.1 L455.0,150.5 L448.0,147.8 L448.0,142.4 L445.1,131.8 L439.5,129.3 L432.7,122.1 L429.8,120.7 L429.2,114.7 L424.9,106.1 L418.8,104.0 L415.4,99.6 L418.1,93.7 L421.1,89.7 L419.9,77.6 L420.9,70.2 L427.8,72.0 L440.7,72.7 L452.8,75.3 L466.5,86.9 L473.5,90.5 L482.4,91.3 L490.8,89.2 L496.3,83.7 L499.2,79.2 L507.8,69.0 L511.7,65.9 L517.0,64.9 L522.3,65.6 L527.2,65.2 L531.4,60.9 L535.5,69.0 L542.1,74.9 L558.2,83.1 L561.9,84.3 L555.3,91.2 L549.0,91.9 L542.4,99.9 L538.6,101.5 L538.0,106.6 L537.6,126.0 L536.3,136.4 L534.3,144.2 L535.8,149.5 L535.0,156.9 L536.1,171.0 L534.1,176.0 L536.7,179.7 L532.1,182.2 L532.1,187.9 L525.0,194.3 L523.4,198.3 L526.6,204.2 L526.2,208.4 L523.6,215.4 L506.9,224.6 L502.1,217.1 L500.6,216.2 L493.0,215.3 L488.6,216.9 L477.2,227.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BT.LH</hasc>
+    <alt-name>Lhuentse|Lhuntsi</alt-name>
+    <woe-id>2344878</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BT11</fips>
+    <postal-code>LH</postal-code>
+    <name>Lhuntshi</name>
+    <country>Bhutan</country>
+    <type-en>District</type-en>
+    <region>Eastern</region>
+    <longitude>91.0822</longitude>
+    <woe-name>Lhuntshi</woe-name>
+    <latitude>27.6977</latitude>
+    <woe-label>Lhuntshi, BT, Bhutan</woe-label>
+    <type>Dzongkhag</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>bt-lh</hc-key>
+    <hc-a2>LH</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

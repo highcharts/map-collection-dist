@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Grenada</title>
+<g id="admin1">
+
+<g id="GD">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Grenada</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Gren.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>GRD</iso-a3>
+    <iso-a2>GD</iso-a2>
+    <woe-id>23424826</woe-id>
+    <continent>North America</continent>
+    <hc-key>gd</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GD.6584" d="M529.8,12.5 L524.5,28.2 L518.4,26.6 L512.7,22.4 L510.6,15.7 Z M478.4,45.8 L473.2,72.1 L472.4,99.7 L449.4,92.9 L427.4,99.1 L405.6,110.3 L383.5,118.8 L388.0,110.7 L396.7,89.8 L401.1,81.7 L397.1,81.0 L383.4,81.7 L385.3,76.4 L393.0,63.5 L421.2,72.0 L438.0,49.1 L452.1,17.5 L472.2,0.0 L480.6,21.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GD.CA</hasc>
+    <alt-name>Southern Grenadine Islands</alt-name>
+    <woe-id>-2345478</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Carriacou and Petite Martinique</name>
+    <country>Grenada</country>
+    <type-en>Dependency</type-en>
+    <region>NULL</region>
+    <longitude>-61.4461</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>12.4733</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Dependency</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>gd-6584</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GD.3660" d="M270.7,304.2 L263.3,319.0 L260.1,317.5 L254.0,312.7 L247.6,308.6 L248.6,305.8 L256.0,295.8 L259.0,288.2 L264.9,284.9 L273.8,290.0 L267.8,296.4 Z M141.3,407.3 L155.2,390.4 L182.6,385.5 L212.4,389.4 L240.7,407.1 L239.8,411.2 L231.7,419.0 L242.6,441.5 L245.0,460.8 L244.4,469.1 L207.8,465.8 L175.6,465.9 L171.2,438.6 L158.3,420.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GD.PA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345478</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GJ06</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Patrick</name>
+    <country>Grenada</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.6342</longitude>
+    <woe-name>Saint Patrick</woe-name>
+    <latitude>12.2147</latitude>
+    <woe-label>Saint Patrick, GD, Grenada</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.77</hc-middle-y>
+    <hc-key>gd-3660</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GD.6583" d="M244.4,469.1 L240.5,526.0 L237.3,535.3 L231.6,544.5 L222.9,564.8 L223.4,575.2 L230.7,596.9 L227.4,601.0 L220.6,604.2 L216.8,612.0 L192.9,593.6 L172.5,584.9 L148.9,591.5 L142.4,582.7 L135.9,556.5 L133.8,542.4 L148.8,523.8 L167.0,493.2 L175.6,465.9 L207.8,465.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GD.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345473</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GJ01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Andrew</name>
+    <country>Grenada</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.6329</longitude>
+    <woe-name>Saint Andrew</woe-name>
+    <latitude>12.1224</latitude>
+    <woe-label>Saint Andrew, GD, Grenada</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>gd-6583</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GD.6582" d="M216.8,612.0 L215.2,622.4 L214.8,633.2 L207.6,645.1 L151.7,674.5 L151.7,664.6 L140.5,670.1 L132.8,664.6 L123.1,649.4 L123.1,626.4 L131.7,596.9 L148.9,591.5 L172.5,584.9 L192.9,593.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GD.DA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345474</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GJ02</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint David</name>
+    <country>Grenada</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.6617</longitude>
+    <woe-name>Saint David</woe-name>
+    <latitude>12.055</latitude>
+    <woe-label>Saint David, GD, Grenada</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>gd-6582</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GD.6581" d="M148.9,591.5 L131.7,596.9 L123.1,626.4 L123.1,649.4 L132.8,664.6 L140.5,670.1 L132.2,677.5 L126.9,687.5 L124.9,700.0 L112.7,697.7 L101.0,694.1 L89.9,689.1 L79.5,682.8 L66.0,694.7 L43.9,699.3 L19.6,698.1 L0.0,692.8 L45.3,663.7 L53.6,655.6 L58.2,636.2 L54.4,620.7 L47.9,605.4 L44.5,587.2 L51.5,557.7 L97.2,557.7 L135.9,556.5 L142.4,582.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GD.GE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345475</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GJ03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint George</name>
+    <country>Grenada</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.7226</longitude>
+    <woe-name>Saint George</woe-name>
+    <latitude>12.0681</latitude>
+    <woe-label>Saint George, GD, Grenada</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>gd-6581</hc-key>
+    <hc-a2>SG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GD.6580" d="M167.0,493.2 L148.8,523.8 L133.8,542.4 L135.9,556.5 L97.2,557.7 L51.5,557.7 L78.5,505.6 L79.3,482.6 L98.2,459.6 L122.9,465.9 L147.6,477.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GD.JO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345476</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GJ04</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint John</name>
+    <country>Grenada</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.7094</longitude>
+    <woe-name>Saint John</woe-name>
+    <latitude>12.1446</latitude>
+    <woe-label>Saint John, GD, Grenada</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>gd-6580</hc-key>
+    <hc-a2>SJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GD.6579" d="M175.6,465.9 L167.0,493.2 L147.6,477.9 L122.9,465.9 L98.2,459.6 L141.3,407.3 L158.3,420.0 L171.2,438.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GD.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345477</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GJ05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Mark</name>
+    <country>Grenada</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.6749</longitude>
+    <woe-name>Saint Mark</woe-name>
+    <latitude>12.189</latitude>
+    <woe-label>Saint Mark, GD, Grenada</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>gd-6579</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

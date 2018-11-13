@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Somaliland</title>
+<g id="admin1">
+
+<g id="SX">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Somaliland</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Solnd.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>SX</iso-a2>
+    <woe-id>-99</woe-id>
+    <continent>Africa</continent>
+    <hc-key>sx</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SX.4278" d="M77.5,7.0 L79.8,3.5 L80.9,0.0 L79.9,5.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Somaliland</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>43.4598</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>11.4559</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.72</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>sx-4278</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SX.3601" d="M31.0,59.0 L66.4,4.4 L71.7,7.5 L71.1,3.1 L75.2,9.1 L81.4,15.3 L90.6,19.8 L92.7,16.6 L94.4,18.3 L92.7,28.8 L93.7,32.4 L98.2,38.3 L100.7,39.1 L104.1,44.1 L112.5,60.7 L123.1,71.2 L131.3,81.5 L141.5,90.4 L153.3,98.5 L160.9,105.6 L166.7,109.0 L180.5,120.5 L193.3,127.2 L201.7,126.7 L215.1,128.8 L219.7,128.0 L233.4,123.8 L249.9,125.6 L256.9,125.2 L261.2,120.2 L273.4,112.9 L278.5,111.1 L289.1,104.5 L298.5,96.6 L304.6,98.0 L315.1,95.0 L321.3,90.8 L326.1,85.9 L335.7,82.4 L339.4,78.3 L342.9,77.1 L344.6,74.0 L350.1,73.5 L355.9,79.3 L359.1,77.3 L369.5,82.0 L383.3,85.2 L395.0,82.3 L401.2,84.4 L409.2,91.9 L413.1,93.3 L421.7,93.7 L430.5,90.0 L445.2,86.7 L449.0,83.6 L458.7,79.1 L468.0,73.4 L469.7,71.0 L483.7,65.8 L497.4,54.8 L502.7,49.8 L507.8,48.2 L511.8,45.2 L523.3,39.2 L536.8,36.9 L540.5,37.5 L557.8,46.2 L561.4,46.9 L567.7,43.6 L581.6,43.2 L587.8,44.0 L607.9,42.5 L611.3,41.5 L617.8,34.0 L626.0,32.7 L631.3,26.7 L646.3,24.1 L651.1,21.5 L658.2,21.7 L665.8,20.1 L673.5,21.7 L682.1,25.6 L691.9,28.7 L697.5,28.8 L700.0,230.9 L594.2,395.3 L482.4,395.9 L475.8,392.7 L318.5,340.4 L152.2,285.4 L147.9,282.9 L107.5,245.9 L99.4,245.9 L85.0,237.2 L82.9,229.6 L79.7,222.5 L75.4,219.0 L73.6,215.4 L68.6,213.0 L64.7,205.9 L61.6,188.0 L59.5,184.4 L46.2,179.9 L43.1,176.8 L38.7,164.2 L34.2,158.1 L23.5,151.2 L20.7,147.7 L17.6,140.8 L15.6,133.6 L14.2,123.3 L11.3,118.0 L5.2,112.0 L2.3,107.4 L0.0,99.9 L5.8,97.0 L11.5,83.9 L17.2,78.9 L19.3,73.1 L27.6,67.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Somaliland</name>
+    <country>Somaliland</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>45.7932</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>9.63996</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.67</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>sx-3601</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

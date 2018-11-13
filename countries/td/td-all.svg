@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Chad</title>
+<g id="admin1">
+
+<g id="TD">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Chad</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Chad</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>TCD</iso-a3>
+    <iso-a2>TD</iso-a2>
+    <woe-id>23424777</woe-id>
+    <continent>Africa</continent>
+    <hc-key>td</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.MA" d="M199.2,676.3 L194.6,676.4 L187.1,678.6 L177.6,677.8 L169.9,680.3 L168.3,682.1 L158.1,685.2 L152.0,671.6 L155.1,670.1 L159.0,664.3 L149.7,649.2 L153.4,642.6 L153.9,633.4 L153.0,630.1 L156.3,626.8 L151.7,621.1 L157.7,616.3 L157.3,608.7 L159.8,606.9 L168.7,605.4 L172.0,607.7 L173.8,609.0 L175.8,613.6 L179.6,613.5 L183.1,620.7 L191.8,624.8 L198.1,625.4 L197.1,630.2 L194.7,632.6 L190.5,633.2 L189.3,640.1 L192.4,642.1 L192.1,647.3 L193.1,652.0 L195.6,654.5 L197.3,660.7 L197.1,667.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56013482</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD11</fips>
+    <postal-code>MA</postal-code>
+    <name>Mandoul</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>17.5493</longitude>
+    <woe-name>Mandoul</woe-name>
+    <latitude>8.678319999999999</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>td-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.SA" d="M380.9,548.7 L376.1,550.4 L372.8,554.7 L367.3,553.8 L365.4,557.9 L359.3,561.2 L353.2,562.6 L352.5,565.5 L354.5,572.4 L353.1,577.5 L350.4,580.2 L345.6,580.8 L343.0,583.3 L340.8,588.4 L336.7,592.2 L333.8,591.0 L330.5,595.4 L327.8,597.0 L326.6,600.3 L322.8,601.6 L321.9,605.8 L316.6,612.1 L314.5,615.8 L307.1,619.1 L307.7,620.9 L302.2,620.0 L300.9,624.3 L297.6,628.0 L289.8,629.0 L284.7,628.7 L283.5,627.4 L275.7,631.2 L263.7,593.5 L260.5,587.5 L263.3,580.5 L261.8,574.6 L264.1,563.3 L265.0,559.6 L264.6,551.2 L263.1,547.2 L241.5,538.4 L229.8,531.2 L229.3,529.5 L230.2,516.8 L235.9,515.6 L238.3,519.6 L244.2,517.2 L248.4,509.7 L248.5,507.8 L245.5,503.0 L252.9,496.0 L263.7,498.8 L271.4,499.3 L272.8,504.1 L276.5,504.2 L277.4,500.0 L288.6,499.7 L290.8,500.3 L301.5,507.6 L323.3,518.5 L333.3,520.8 L357.4,516.3 L367.1,519.5 L368.6,520.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.SA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344957</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD13</fips>
+    <postal-code>SA</postal-code>
+    <name>Salamat</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>20.6054</longitude>
+    <woe-name>Salamat</woe-name>
+    <latitude>10.5811</latitude>
+    <woe-label>Salamat, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>td-sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.NJ" d="M65.7,498.0 L66.1,496.7 L64.5,495.6 L65.6,492.7 L68.7,493.7 L69.3,496.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.NJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56013485</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD21</fips>
+    <postal-code>NJ</postal-code>
+    <name>Ville de N'Djamena</name>
+    <country>Chad</country>
+    <type-en>Capital</type-en>
+    <region>NULL</region>
+    <longitude>15.0579</longitude>
+    <woe-name>Ville de N'Djamena</woe-name>
+    <latitude>12.1413</latitude>
+    <woe-label>Ville de N'Djamena, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>td-nj</hc-key>
+    <hc-a2>NJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.LO" d="M72.9,656.3 L72.6,653.9 L74.5,646.5 L77.4,643.5 L77.7,637.3 L79.6,632.0 L81.6,631.1 L84.5,632.6 L94.3,631.0 L97.5,631.2 L104.0,627.9 L111.1,628.8 L113.6,626.2 L121.2,622.4 L123.9,627.3 L130.8,638.1 L127.1,643.7 L122.6,645.7 L120.6,648.2 L111.0,650.3 L99.9,657.1 L96.6,662.3 L93.1,662.1 L86.0,664.8 L81.9,660.8 L79.8,660.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.LO</hasc>
+    <alt-name>Logone-Occidental</alt-name>
+    <woe-id>2344952</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD08</fips>
+    <postal-code>LO</postal-code>
+    <name>Logone Occidental</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>15.9306</longitude>
+    <woe-name>Logone Occidental</woe-name>
+    <latitude>8.770350000000001</latitude>
+    <woe-label>Logone Occidental, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>td-lo</hc-key>
+    <hc-a2>LO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.MW" d="M81.6,631.1 L79.6,632.0 L77.7,637.3 L77.4,643.5 L74.5,646.5 L72.6,653.9 L72.9,656.3 L70.9,657.1 L70.2,657.4 L69.0,654.9 L62.5,646.9 L59.2,646.1 L58.6,643.7 L54.5,640.1 L52.2,640.0 L33.1,624.0 L32.0,620.7 L19.8,606.2 L16.0,603.1 L18.7,598.7 L23.7,593.8 L26.5,588.3 L37.8,587.8 L50.4,591.2 L49.9,597.2 L50.4,602.5 L59.3,601.4 L63.0,603.8 L64.9,608.8 L65.6,614.7 L74.6,621.4 L80.6,624.0 L81.1,625.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.MW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56013484</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD20</fips>
+    <postal-code>MW</postal-code>
+    <name>Mayo-Kebbi Ouest</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>14.7357</longitude>
+    <woe-name>Mayo-Kebbi Ouest</woe-name>
+    <latitude>9.26179</latitude>
+    <woe-label>Mayo-Kebbi Ouest, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>td-mw</hc-key>
+    <hc-a2>MW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.BR" d="M89.3,285.8 L89.5,285.3 L90.5,276.2 L172.1,134.1 L174.4,122.3 L186.6,122.5 L191.7,121.6 L196.9,116.3 L205.1,112.1 L229.6,103.8 L230.7,94.1 L229.0,72.5 L237.2,66.2 L262.2,79.8 L317.7,109.4 L280.8,185.3 L286.8,211.3 L298.0,242.6 L298.0,257.7 L296.9,277.1 L292.7,295.4 L303.0,325.7 L306.7,335.4 L300.2,341.2 L292.6,343.0 L283.2,338.4 L279.8,337.9 L274.0,337.3 L261.0,333.4 L255.5,329.8 L253.7,323.1 L246.8,320.7 L246.3,330.9 L243.0,340.0 L239.4,345.1 L234.7,349.1 L228.5,352.1 L220.1,354.6 L215.3,354.9 L206.5,352.7 L198.7,348.2 L194.8,344.5 L188.6,336.7 L139.5,311.7 L90.0,286.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.BR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344947</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD23</fips>
+    <postal-code>BR</postal-code>
+    <name>Borkou</name>
+    <country>Chad</country>
+    <type-en>Préfecture</type-en>
+    <region>NULL</region>
+    <longitude>19.4819</longitude>
+    <woe-name>Bet</woe-name>
+    <latitude>18.8249</latitude>
+    <woe-label>Borkou-Ennedi-Tibesti, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>td-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.TI" d="M237.2,66.2 L229.0,72.5 L230.7,94.1 L229.6,103.8 L205.1,112.1 L196.9,116.3 L191.7,121.6 L186.6,122.5 L174.4,122.3 L172.1,134.1 L90.5,276.2 L104.4,154.8 L105.8,151.4 L114.4,136.9 L114.1,134.4 L97.8,115.3 L97.9,111.3 L100.7,108.7 L88.7,88.5 L83.9,83.7 L84.4,62.4 L78.3,18.1 L118.9,0.1 L119.7,0.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.TI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344947</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD26</fips>
+    <postal-code>TI</postal-code>
+    <name>Tibesti</name>
+    <country>Chad</country>
+    <type-en>Préfecture</type-en>
+    <region>NULL</region>
+    <longitude>16.6178</longitude>
+    <woe-name>Bet</woe-name>
+    <latitude>21.4716</latitude>
+    <woe-label>Borkou-Ennedi-Tibesti, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.30</hc-middle-y>
+    <hc-key>td-ti</hc-key>
+    <hc-a2>TI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.EN" d="M300.2,341.2 L306.7,335.4 L303.0,325.7 L292.7,295.4 L296.9,277.1 L298.0,257.7 L298.0,242.6 L286.8,211.3 L280.8,185.3 L317.7,109.4 L445.6,174.9 L448.3,339.9 L446.7,341.2 L441.7,339.6 L431.7,338.9 L420.2,342.0 L411.7,340.9 L409.5,337.6 L404.8,336.0 L401.7,337.1 L396.8,335.3 L387.3,336.4 L384.2,332.4 L379.3,330.7 L374.8,331.0 L371.9,328.5 L365.1,329.1 L361.0,330.9 L354.3,328.6 L338.5,331.9 L334.5,333.4 L325.9,329.3 L320.0,332.4 L315.0,337.4 L303.8,342.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.EN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344947</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD24</fips>
+    <postal-code>EN</postal-code>
+    <name>Ennedi</name>
+    <country>Chad</country>
+    <type-en>Préfecture</type-en>
+    <region>NULL</region>
+    <longitude>22.1045</longitude>
+    <woe-name>Bet</woe-name>
+    <latitude>18.1286</latitude>
+    <woe-label>Borkou-Ennedi-Tibesti, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>td-en</hc-key>
+    <hc-a2>EN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.CG" d="M64.3,540.7 L64.4,533.5 L65.7,531.4 L66.0,526.0 L69.3,521.1 L66.6,515.3 L68.5,510.0 L65.6,504.7 L67.4,501.7 L65.7,498.0 L69.3,496.5 L68.7,493.7 L65.6,492.7 L64.5,495.6 L62.5,496.3 L59.8,493.9 L60.0,489.4 L67.1,489.1 L75.5,487.5 L77.3,485.7 L81.7,488.5 L85.6,489.0 L87.9,487.3 L94.9,485.6 L102.0,486.2 L106.4,484.9 L110.0,481.0 L129.6,488.9 L134.9,491.7 L136.1,496.6 L136.0,501.6 L140.3,507.0 L140.7,513.2 L142.9,515.1 L149.5,515.6 L155.1,521.0 L161.2,524.2 L160.6,535.4 L162.3,547.0 L163.0,556.9 L162.1,564.0 L172.3,569.4 L163.1,597.6 L158.7,596.9 L154.9,593.4 L146.5,592.1 L143.7,589.3 L137.7,588.1 L133.6,585.4 L131.9,579.9 L130.1,578.2 L124.8,580.6 L115.2,580.4 L111.3,575.1 L110.6,569.3 L112.1,556.7 L106.2,554.2 L102.7,554.8 L95.1,553.1 L91.0,549.3 L86.7,547.9 L85.2,544.2 L82.6,543.1 L81.8,539.5 L78.0,537.0 L73.1,536.3 L69.6,539.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.CG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344948</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD15</fips>
+    <postal-code>CG</postal-code>
+    <name>Chari-Baguirmi</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>16.2095</longitude>
+    <woe-name>Hadjer-Lamis</woe-name>
+    <latitude>11.468</latitude>
+    <woe-label>Chari-Baguirmi, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>td-cg</hc-key>
+    <hc-a2>CG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.BG" d="M139.5,311.7 L188.6,336.7 L194.8,344.5 L174.9,422.7 L162.0,426.5 L159.5,436.4 L159.7,446.5 L156.5,452.0 L150.8,450.2 L145.7,451.9 L143.3,451.1 L138.8,453.1 L128.9,454.3 L127.1,455.6 L121.9,454.4 L118.5,455.4 L107.9,455.4 L106.5,452.1 L103.0,449.1 L103.8,446.4 L104.0,434.5 L101.6,429.2 L101.8,423.8 L98.5,422.6 L96.4,424.1 L91.4,424.1 L91.3,409.9 L99.2,406.9 L111.3,392.9 L114.0,388.5 L115.1,378.2 L131.5,324.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.BG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344950</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD22</fips>
+    <postal-code>BG</postal-code>
+    <name>Barh El Gazel</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>16.9496</longitude>
+    <woe-name>Kanem</woe-name>
+    <latitude>14.5304</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>td-bg</hc-key>
+    <hc-a2>BG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.SI" d="M356.7,468.5 L359.8,473.6 L362.2,475.2 L367.4,475.3 L371.1,473.8 L373.7,470.6 L379.1,474.2 L384.0,476.3 L380.9,482.8 L382.5,485.6 L385.7,495.3 L384.7,501.7 L391.3,499.8 L388.2,516.9 L389.3,521.1 L392.1,524.4 L397.1,526.2 L398.8,529.2 L404.5,529.3 L406.4,537.4 L402.3,550.1 L396.2,548.1 L385.0,546.6 L380.9,548.7 L368.6,520.8 L367.1,519.5 L357.4,516.3 L333.3,520.8 L323.3,518.5 L301.5,507.6 L290.8,500.3 L288.6,499.7 L277.4,500.0 L276.5,504.2 L272.8,504.1 L271.4,499.3 L271.5,495.9 L275.5,485.3 L283.1,477.4 L281.3,473.9 L286.7,468.0 L285.1,465.6 L278.8,460.7 L278.7,460.1 L289.8,457.8 L291.9,455.5 L296.8,457.5 L308.2,457.6 L308.6,463.3 L315.2,464.7 L315.6,471.8 L321.3,474.1 L326.1,472.7 L332.2,473.6 L338.4,468.7 L346.7,464.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.SI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344956</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD25</fips>
+    <postal-code>SI</postal-code>
+    <name>Sila</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>21.1347</longitude>
+    <woe-name>Ouaddaï</woe-name>
+    <latitude>12.2336</latitude>
+    <woe-label>Ouaddai, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>td-si</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.MO" d="M199.2,676.3 L197.1,667.9 L197.3,660.7 L195.6,654.5 L193.1,652.0 L192.1,647.3 L192.4,642.1 L189.3,640.1 L190.5,633.2 L194.7,632.6 L197.1,630.2 L198.1,625.4 L191.8,624.8 L183.1,620.7 L179.6,613.5 L175.8,613.6 L173.8,609.0 L172.0,607.7 L173.0,604.4 L167.3,599.4 L163.1,597.6 L172.3,569.4 L185.0,569.1 L189.2,573.0 L197.2,575.3 L203.8,579.1 L207.7,579.8 L211.6,581.9 L214.0,585.3 L218.5,589.2 L218.2,593.8 L222.1,595.9 L225.4,594.8 L227.2,590.2 L235.5,589.9 L242.7,584.2 L244.2,581.2 L248.6,577.3 L250.2,571.9 L254.8,568.4 L258.7,568.7 L264.1,563.3 L261.8,574.6 L263.3,580.5 L260.5,587.5 L263.7,593.5 L275.7,631.2 L263.1,633.4 L251.3,633.9 L246.7,632.7 L239.7,633.2 L235.3,635.2 L229.6,639.7 L232.2,642.7 L237.3,644.9 L240.6,648.0 L231.7,658.6 L227.0,665.4 L220.9,668.4 L217.2,675.3 L213.7,676.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.MO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56013482</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD17</fips>
+    <postal-code>MO</postal-code>
+    <name>Moyen-Chari</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>18.4827</longitude>
+    <woe-name>Mandoul</woe-name>
+    <latitude>9.0852</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>td-mo</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.HD" d="M60.0,489.4 L60.2,485.9 L56.7,472.2 L54.5,472.4 L52.4,469.3 L48.2,466.7 L46.7,467.2 L42.8,461.0 L43.4,457.1 L51.2,456.1 L65.5,456.4 L66.8,452.0 L65.3,445.1 L72.4,447.6 L76.6,452.3 L81.4,448.8 L78.3,446.2 L74.7,440.9 L80.6,439.1 L84.2,443.0 L89.2,445.4 L98.4,449.7 L103.0,449.1 L106.5,452.1 L107.9,455.4 L118.5,455.4 L121.9,454.4 L127.1,455.6 L128.9,454.3 L138.8,453.1 L143.3,451.1 L145.7,451.9 L150.8,450.2 L156.5,452.0 L149.5,459.5 L148.4,462.5 L152.3,465.7 L156.0,474.9 L159.1,478.6 L161.5,479.5 L162.8,486.6 L166.5,490.6 L167.5,493.8 L174.3,495.5 L172.6,505.9 L176.9,514.7 L169.7,516.8 L161.2,524.2 L155.1,521.0 L149.5,515.6 L142.9,515.1 L140.7,513.2 L140.3,507.0 L136.0,501.6 L136.1,496.6 L134.9,491.7 L129.6,488.9 L110.0,481.0 L106.4,484.9 L102.0,486.2 L94.9,485.6 L87.9,487.3 L85.6,489.0 L81.7,488.5 L77.3,485.7 L75.5,487.5 L67.1,489.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.HD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344948</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD18</fips>
+    <postal-code>HD</postal-code>
+    <name>Hadjer-Lamis</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>15.8235</longitude>
+    <woe-name>Hadjer-Lamis</woe-name>
+    <latitude>12.7695</latitude>
+    <woe-label>Chari-Baguirmi, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>td-hd</hc-key>
+    <hc-a2>HD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.KM" d="M103.0,449.1 L98.4,449.7 L89.2,445.4 L81.8,423.9 L74.8,423.8 L62.0,426.6 L56.8,426.8 L50.6,416.2 L43.7,407.5 L38.6,406.0 L29.8,397.9 L29.1,394.6 L21.6,390.9 L14.5,390.3 L13.0,388.6 L7.0,388.2 L9.2,386.9 L8.8,382.9 L14.0,379.6 L14.0,373.1 L17.4,366.4 L41.2,335.1 L88.6,287.1 L89.3,285.8 L90.0,286.2 L139.5,311.7 L131.5,324.9 L115.1,378.2 L114.0,388.5 L111.3,392.9 L99.2,406.9 L91.3,409.9 L91.4,424.1 L96.4,424.1 L98.5,422.6 L101.8,423.8 L101.6,429.2 L104.0,434.5 L103.8,446.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.KM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344950</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD06</fips>
+    <postal-code>KM</postal-code>
+    <name>Kanem</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>15.8001</longitude>
+    <woe-name>Kanem</woe-name>
+    <latitude>15.2641</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>td-km</hc-key>
+    <hc-a2>KM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.LC" d="M89.2,445.4 L84.2,443.0 L80.6,439.1 L74.7,440.9 L78.3,446.2 L81.4,448.8 L76.6,452.3 L72.4,447.6 L65.3,445.1 L66.8,452.0 L65.5,456.4 L51.2,456.1 L55.0,453.2 L51.1,449.3 L45.2,444.9 L35.1,448.5 L37.1,452.3 L24.7,452.1 L5.8,424.0 L1.2,399.4 L0.0,394.0 L1.6,389.5 L7.0,388.2 L13.0,388.6 L14.5,390.3 L21.6,390.9 L29.1,394.6 L29.8,397.9 L38.6,406.0 L43.7,407.5 L50.6,416.2 L56.8,426.8 L62.0,426.6 L74.8,423.8 L81.8,423.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.LC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344951</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD07</fips>
+    <postal-code>LC</postal-code>
+    <name>Lac</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>14.6744</longitude>
+    <woe-name>Lac</woe-name>
+    <latitude>13.431</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>td-lc</hc-key>
+    <hc-a2>LC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.BI" d="M411.7,340.9 L403.5,347.3 L402.8,350.9 L405.3,354.2 L405.4,362.1 L402.9,367.0 L400.5,368.1 L395.8,372.9 L394.9,376.4 L392.2,380.0 L392.9,385.9 L384.3,388.2 L380.0,392.0 L382.7,395.2 L383.8,400.6 L383.4,404.8 L387.3,406.1 L387.3,410.3 L375.1,416.8 L372.4,419.2 L370.6,419.4 L366.5,415.8 L352.0,411.0 L340.6,409.3 L336.2,409.7 L332.0,411.8 L329.2,411.5 L320.3,407.0 L315.4,400.4 L310.8,397.9 L303.3,395.4 L298.3,396.7 L291.8,396.6 L286.2,401.6 L279.5,409.0 L279.8,337.9 L283.2,338.4 L292.6,343.0 L300.2,341.2 L303.8,342.3 L315.0,337.4 L320.0,332.4 L325.9,329.3 L334.5,333.4 L338.5,331.9 L354.3,328.6 L361.0,330.9 L365.1,329.1 L371.9,328.5 L374.8,331.0 L379.3,330.7 L384.2,332.4 L387.3,336.4 L396.8,335.3 L401.7,337.1 L404.8,336.0 L409.5,337.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.BI</hasc>
+    <alt-name>Biltine</alt-name>
+    <woe-id>2344946</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD02</fips>
+    <postal-code>BI</postal-code>
+    <name>Wadi Fira</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>21.5596</longitude>
+    <woe-name>Wadi Fira</woe-name>
+    <latitude>15.0457</latitude>
+    <woe-label>Wadi Fira, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>td-bi</hc-key>
+    <hc-a2>BI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.BA" d="M279.8,337.9 L279.5,409.0 L279.4,415.3 L289.6,420.8 L289.3,430.3 L291.5,434.9 L291.4,441.9 L292.3,449.8 L291.9,455.5 L289.8,457.8 L278.7,460.1 L278.8,460.7 L266.7,457.0 L256.6,461.4 L243.5,469.0 L239.9,470.2 L213.8,469.0 L212.2,469.3 L196.6,477.6 L192.2,481.5 L185.9,482.4 L174.5,491.9 L174.3,495.5 L167.5,493.8 L166.5,490.6 L162.8,486.6 L161.5,479.5 L159.1,478.6 L156.0,474.9 L152.3,465.7 L148.4,462.5 L149.5,459.5 L156.5,452.0 L159.7,446.5 L159.5,436.4 L162.0,426.5 L174.9,422.7 L194.8,344.5 L198.7,348.2 L206.5,352.7 L215.3,354.9 L220.1,354.6 L228.5,352.1 L234.7,349.1 L239.4,345.1 L243.0,340.0 L246.3,330.9 L246.8,320.7 L253.7,323.1 L255.5,329.8 L261.0,333.4 L274.0,337.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.BA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344945</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD01</fips>
+    <postal-code>BA</postal-code>
+    <name>Batha</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>18.6222</longitude>
+    <woe-name>Batha</woe-name>
+    <latitude>14.0823</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>td-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.GR" d="M161.2,524.2 L169.7,516.8 L176.9,514.7 L172.6,505.9 L174.3,495.5 L174.5,491.9 L185.9,482.4 L192.2,481.5 L196.6,477.6 L212.2,469.3 L213.8,469.0 L239.9,470.2 L243.5,469.0 L256.6,461.4 L266.7,457.0 L278.8,460.7 L285.1,465.6 L286.7,468.0 L281.3,473.9 L283.1,477.4 L275.5,485.3 L271.5,495.9 L271.4,499.3 L263.7,498.8 L252.9,496.0 L245.5,503.0 L248.5,507.8 L248.4,509.7 L244.2,517.2 L238.3,519.6 L235.9,515.6 L230.2,516.8 L229.3,529.5 L229.8,531.2 L241.5,538.4 L263.1,547.2 L264.6,551.2 L265.0,559.6 L264.1,563.3 L258.7,568.7 L254.8,568.4 L250.2,571.9 L248.6,577.3 L244.2,581.2 L242.7,584.2 L235.5,589.9 L227.2,590.2 L225.4,594.8 L222.1,595.9 L218.2,593.8 L218.5,589.2 L214.0,585.3 L211.6,581.9 L207.7,579.8 L203.8,579.1 L197.2,575.3 L189.2,573.0 L185.0,569.1 L172.3,569.4 L162.1,564.0 L163.0,556.9 L162.3,547.0 L160.6,535.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.GR</hasc>
+    <alt-name>Guera|Baguirmi</alt-name>
+    <woe-id>2344949</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD05</fips>
+    <postal-code>GR</postal-code>
+    <name>Guéra</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>18.0946</longitude>
+    <woe-name>Guéra</woe-name>
+    <latitude>11.3122</latitude>
+    <woe-label>Guera, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>td-gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.OA" d="M291.9,455.5 L292.3,449.8 L291.4,441.9 L291.5,434.9 L289.3,430.3 L289.6,420.8 L279.4,415.3 L279.5,409.0 L286.2,401.6 L291.8,396.6 L298.3,396.7 L303.3,395.4 L310.8,397.9 L315.4,400.4 L320.3,407.0 L329.2,411.5 L332.0,411.8 L336.2,409.7 L340.6,409.3 L352.0,411.0 L366.5,415.8 L370.6,419.4 L372.4,419.2 L367.9,425.8 L370.4,431.6 L373.1,434.1 L373.8,438.3 L376.6,443.0 L376.2,444.8 L370.8,451.0 L365.5,453.3 L362.1,456.9 L356.7,468.5 L346.7,464.7 L338.4,468.7 L332.2,473.6 L326.1,472.7 L321.3,474.1 L315.6,471.8 L315.2,464.7 L308.6,463.3 L308.2,457.6 L296.8,457.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.OA</hasc>
+    <alt-name>Ouaddai|Ouadaï</alt-name>
+    <woe-id>2344956</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD12</fips>
+    <postal-code>OA</postal-code>
+    <name>Ouaddaï</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>21.1068</longitude>
+    <woe-name>Ouaddaï</woe-name>
+    <latitude>13.4714</latitude>
+    <woe-label>Ouaddai, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>td-oa</hc-key>
+    <hc-a2>OA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.LR" d="M158.1,685.2 L152.9,690.6 L142.6,692.9 L141.5,695.4 L137.7,696.4 L135.2,693.0 L131.5,691.2 L130.7,687.3 L128.2,685.6 L128.2,682.3 L122.0,685.5 L120.4,690.9 L116.5,691.4 L113.2,693.4 L105.3,695.0 L100.8,698.7 L95.1,700.0 L89.6,697.4 L81.4,697.0 L84.5,692.3 L85.2,685.2 L79.8,683.1 L75.9,670.0 L70.2,657.4 L70.9,657.1 L72.9,656.3 L79.8,660.5 L81.9,660.8 L86.0,664.8 L93.1,662.1 L96.6,662.3 L99.9,657.1 L111.0,650.3 L120.6,648.2 L122.6,645.7 L127.1,643.7 L130.8,638.1 L123.9,627.3 L129.7,627.0 L144.9,631.5 L153.0,630.1 L153.9,633.4 L153.4,642.6 L149.7,649.2 L159.0,664.3 L155.1,670.1 L152.0,671.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.LR</hasc>
+    <alt-name>Logone-Oriental</alt-name>
+    <woe-id>2344953</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD09</fips>
+    <postal-code>LR</postal-code>
+    <name>Logone Oriental</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>16.23</longitude>
+    <woe-name>Logone Oriental</woe-name>
+    <latitude>8.125590000000001</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>td-lr</hc-key>
+    <hc-a2>LR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.ME" d="M50.4,591.2 L57.7,589.7 L64.7,590.3 L66.9,589.0 L71.5,588.9 L78.7,591.4 L91.7,589.0 L85.5,585.0 L75.5,574.6 L72.0,566.9 L68.6,565.3 L69.1,560.9 L65.6,553.3 L66.3,548.8 L64.5,544.5 L64.3,540.7 L69.6,539.2 L73.1,536.3 L78.0,537.0 L81.8,539.5 L82.6,543.1 L85.2,544.2 L86.7,547.9 L91.0,549.3 L95.1,553.1 L102.7,554.8 L106.2,554.2 L112.1,556.7 L110.6,569.3 L111.3,575.1 L115.2,580.4 L116.3,582.4 L114.7,590.9 L112.3,595.2 L104.2,602.7 L101.6,600.5 L98.0,600.0 L93.0,606.0 L91.2,610.5 L84.0,618.5 L80.6,624.0 L74.6,621.4 L65.6,614.7 L64.9,608.8 L63.0,603.8 L59.3,601.4 L50.4,602.5 L49.9,597.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.ME</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56013483</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD16</fips>
+    <postal-code>ME</postal-code>
+    <name>Mayo-Kebbi Est</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>15.4373</longitude>
+    <woe-name>Mayo-Kebbi Est</woe-name>
+    <latitude>9.71626</latitude>
+    <woe-label>Mayo-Kebbi Est, TD, Chad</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>td-me</hc-key>
+    <hc-a2>ME</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD.TA" d="M153.0,630.1 L144.9,631.5 L129.7,627.0 L123.9,627.3 L121.2,622.4 L113.6,626.2 L111.1,628.8 L104.0,627.9 L97.5,631.2 L94.3,631.0 L84.5,632.6 L81.6,631.1 L81.1,625.6 L80.6,624.0 L84.0,618.5 L91.2,610.5 L93.0,606.0 L98.0,600.0 L101.6,600.5 L104.2,602.7 L112.3,595.2 L114.7,590.9 L116.3,582.4 L115.2,580.4 L124.8,580.6 L130.1,578.2 L131.9,579.9 L133.6,585.4 L137.7,588.1 L143.7,589.3 L146.5,592.1 L154.9,593.4 L158.7,596.9 L163.1,597.6 L167.3,599.4 L173.0,604.4 L172.0,607.7 L168.7,605.4 L159.8,606.9 L157.3,608.7 L157.7,616.3 L151.7,621.1 L156.3,626.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>TD.TA</hasc>
+    <alt-name>Tandjile</alt-name>
+    <woe-id>2344958</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CD14</fips>
+    <postal-code>TA</postal-code>
+    <name>Tandjilé</name>
+    <country>Chad</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>16.4994</longitude>
+    <woe-name>Tandjile</woe-name>
+    <latitude>9.67051</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>td-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

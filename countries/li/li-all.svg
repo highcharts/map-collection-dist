@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Liechtenstein</title>
+<g id="admin1">
+
+<g id="LI">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Liechtenstein</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Liech.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>LIE</iso-a3>
+    <iso-a2>LI</iso-a2>
+    <woe-id>23424879</woe-id>
+    <continent>Europe</continent>
+    <hc-key>li</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6425" d="M149.2,92.8 L143.1,111.9 L153.4,141.1 L175.2,169.9 L147.6,172.8 L108.4,152.7 L96.8,125.0 L119.4,102.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070538</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS04</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mauren</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.53828</longitude>
+    <woe-name>Mauren</woe-name>
+    <latitude>47.2214</latitude>
+    <woe-label>Mauren, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>li-6425</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6426" d="M171.1,318.9 L205.4,338.9 L197.1,381.7 L179.3,363.3 L162.7,339.4 Z M192.8,239.8 L170.6,290.0 L145.9,283.9 L120.4,256.3 L122.7,226.7 L142.8,209.9 L169.4,217.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.PL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070536</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Planken</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.5494</longitude>
+    <woe-name>Planken</woe-name>
+    <latitude>47.1875</latitude>
+    <woe-label>Planken, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.22</hc-middle-y>
+    <hc-key>li-6426</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6427" d="M175.2,169.9 L195.0,216.0 L192.8,239.8 L169.4,217.1 L142.8,209.9 L122.7,226.7 L94.9,210.2 L73.3,193.7 L70.6,160.4 L80.4,127.0 L96.8,125.0 L108.4,152.7 L147.6,172.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.ES</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070537</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS02</fips>
+    <postal-code>NULL</postal-code>
+    <name>Eschen</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.53383</longitude>
+    <woe-name>Eschen</woe-name>
+    <latitude>47.2058</latitude>
+    <woe-label>Eschen, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>li-6427</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6418" d="M255.9,664.3 L240.0,684.8 L193.3,700.0 L130.6,690.0 L128.3,667.4 L121.8,639.6 L106.4,613.8 L105.0,586.1 L82.2,580.7 L60.9,560.0 L82.2,515.5 L80.6,444.5 L115.4,439.7 L129.4,458.1 L132.1,491.4 L138.7,532.1 L162.9,550.5 L183.1,554.0 L192.2,578.0 L178.4,598.5 L192.5,622.5 L215.3,622.3 L217.6,598.2 L208.6,579.8 L242.8,585.1 L246.9,623.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.TN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070532</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS09</fips>
+    <postal-code>NULL</postal-code>
+    <name>Triesen</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.5266</longitude>
+    <woe-name>Triesen</woe-name>
+    <latitude>47.1001</latitude>
+    <woe-label>Triesen, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>li-6418</hc-key>
+    <hc-a2>TR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.3644" d="M192.2,578.0 L183.1,554.0 L162.9,550.5 L138.7,532.1 L132.1,491.4 L129.4,458.1 L115.4,439.7 L116.3,398.9 L125.1,389.6 L149.1,389.5 L156.6,369.0 L162.7,339.4 L179.3,363.3 L197.1,381.7 L192.3,416.9 L212.6,431.6 L221.7,463.0 L227.1,513.0 L209.4,516.8 L210.9,548.3 L208.6,579.8 Z M313.6,505.0 L317.2,518.0 L302.2,604.7 L293.9,615.4 L283.4,599.6 L276.9,571.9 L277.9,544.1 L262.4,503.5 L281.4,505.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.TB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070534</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS10</fips>
+    <postal-code>NULL</postal-code>
+    <name>Triesenberg</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.548579999999999</longitude>
+    <woe-name>Triesenberg</woe-name>
+    <latitude>47.1284</latitude>
+    <woe-label>Triesenberg, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>li-3644</hc-key>
+    <hc-a2>TR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6419" d="M208.6,579.8 L217.6,598.2 L215.3,622.3 L192.5,622.5 L178.4,598.5 L192.2,578.0 Z M130.6,690.0 L54.1,677.8 L2.8,663.0 L0.0,631.9 L26.3,596.1 L60.9,560.0 L82.2,580.7 L105.0,586.1 L106.4,613.8 L121.8,639.6 L128.3,667.4 Z M205.4,338.9 L239.0,358.3 L293.6,433.3 L302.7,466.0 L278.6,470.0 L258.1,436.8 L236.5,412.9 L218.7,394.5 L197.1,381.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.BA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070533</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Balzers</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.506030000000001</longitude>
+    <woe-name>Balzers</woe-name>
+    <latitude>47.0701</latitude>
+    <woe-label>Balzers, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.21</hc-middle-x>
+    <hc-middle-y>0.82</hc-middle-y>
+    <hc-key>li-6419</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6420" d="M242.8,585.1 L208.6,579.8 L210.9,548.3 L209.4,516.8 L227.1,513.0 L248.6,509.1 L262.4,503.5 L277.9,544.1 L276.9,571.9 Z M162.7,339.4 L156.6,369.0 L149.1,389.5 L125.1,389.6 L116.3,398.9 L115.4,439.7 L80.6,444.5 L61.2,391.2 L43.0,356.2 L71.9,365.9 L65.2,312.2 L81.7,317.7 L93.2,338.0 L110.8,324.9 L139.9,334.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.VA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070531</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Vaduz</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.51826</longitude>
+    <woe-name>Vaduz</woe-name>
+    <latitude>47.1469</latitude>
+    <woe-label>Vaduz, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-y>0.21</hc-middle-y>
+    <hc-key>li-6420</hc-key>
+    <hc-a2>VA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6421" d="M293.9,615.4 L255.9,664.3 L246.9,623.9 L242.8,585.1 L276.9,571.9 L283.4,599.6 Z M302.7,466.0 L313.6,505.0 L281.4,505.2 L262.4,503.5 L248.6,509.1 L227.1,513.0 L221.7,463.0 L212.6,431.6 L192.3,416.9 L197.1,381.7 L218.7,394.5 L236.5,412.9 L258.1,436.8 L278.6,470.0 Z M170.6,290.0 L171.1,318.9 L162.7,339.4 L139.9,334.0 L110.8,324.9 L93.2,338.0 L81.7,317.7 L65.2,312.2 L71.9,365.9 L43.0,356.2 L36.3,343.4 L18.6,288.4 L21.4,219.9 L52.1,236.4 L91.3,238.0 L122.7,226.7 L120.4,256.3 L145.9,283.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.SN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070535</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS07</fips>
+    <postal-code>NULL</postal-code>
+    <name>Schaan</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.513809999999999</longitude>
+    <woe-name>Schaan</woe-name>
+    <latitude>47.1819</latitude>
+    <woe-label>Schaan, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.20</hc-middle-x>
+    <hc-middle-y>0.12</hc-middle-y>
+    <hc-key>li-6421</hc-key>
+    <hc-a2>SC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6422" d="M21.4,219.9 L23.3,176.3 L44.8,113.1 L60.2,117.8 L80.4,127.0 L70.6,160.4 L73.3,193.7 L94.9,210.2 L122.7,226.7 L91.3,238.0 L52.1,236.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.GA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070539</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Gamprin</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.502129999999999</longitude>
+    <woe-name>Gamprin</woe-name>
+    <latitude>47.2052</latitude>
+    <woe-label>Gamprin, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>li-6422</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6423" d="M80.4,127.0 L60.2,117.8 L44.8,113.1 L61.7,63.7 L98.8,0.0 L119.6,30.3 L128.6,38.5 L117.8,60.0 L110.4,82.3 L95.4,104.6 L96.8,125.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.RU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070540</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS06</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ruggell</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.51882</longitude>
+    <woe-name>Ruggell</woe-name>
+    <latitude>47.2458</latitude>
+    <woe-label>Ruggell, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>li-6423</hc-key>
+    <hc-a2>RU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI.6424" d="M96.8,125.0 L95.4,104.6 L110.4,82.3 L117.8,60.0 L128.6,38.5 L158.0,65.4 L149.2,92.8 L119.4,102.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>LI.SB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070541</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LS08</fips>
+    <postal-code>NULL</postal-code>
+    <name>Schellenberg</name>
+    <country>Liechtenstein</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>9.53828</longitude>
+    <woe-name>Schellenberg</woe-name>
+    <latitude>47.242</latitude>
+    <woe-label>Schellenberg, LI, Liechtenstein</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>li-6424</hc-key>
+    <hc-a2>SC</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

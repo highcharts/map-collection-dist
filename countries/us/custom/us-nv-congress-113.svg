@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Nevada congressional districts</title>
+<g id="special">
+
+<g id="US.NV">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NV</hasc>
+    <alt-name>NV|Nev.</alt-name>
+    <woe-id>2347587</woe-id>
+    <subregion>Mountain</subregion>
+    <fips>US32</fips>
+    <postal-code>NV</postal-code>
+    <name>Nevada</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>West</region>
+    <longitude>-117.02</longitude>
+    <woe-name>Nevada</woe-name>
+    <latitude>39.4299</latitude>
+    <woe-label>Nevada, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-nv</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</g>
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NV.03" d="M417.0,594.0 L417.3,603.0 L420.1,609.5 L423.8,613.0 L420.4,615.9 L420.0,619.9 L421.6,624.8 L420.7,629.3 L422.7,631.5 L422.2,635.4 L425.2,639.1 L423.5,642.5 L425.1,646.8 L423.4,650.2 L424.8,655.5 L427.8,659.2 L430.7,668.0 L433.2,683.9 L432.5,687.2 L428.1,688.5 L427.3,690.6 L430.5,692.8 L427.9,698.0 L428.3,700.0 L398.0,671.6 L362.8,638.7 L327.6,605.7 L327.4,589.9 L332.6,589.6 L341.7,585.8 L348.9,585.1 L349.5,590.9 L355.1,585.5 L361.4,588.7 L364.9,587.0 L362.3,584.9 L363.1,580.3 L369.1,579.7 L368.2,581.0 L373.3,583.7 L373.4,592.9 L393.7,592.5 L393.6,589.3 L393.6,589.3 L393.5,589.3 L393.5,589.3 L393.6,589.3 L393.6,589.3 L397.4,592.1 L400.9,590.4 L400.8,587.9 L405.7,587.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>3203</geoid>
+    <name>Congressional District 3</name>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>us-nv-03</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NV.04" d="M393.6,589.3 L393.5,589.3 L393.3,581.5 L384.5,581.7 L381.7,583.8 L379.8,581.3 L373.3,583.7 L368.2,581.0 L369.1,579.7 L363.1,580.3 L362.3,584.9 L364.9,587.0 L361.4,588.7 L355.1,585.5 L349.5,590.9 L348.9,585.1 L341.7,585.8 L332.6,589.6 L327.4,589.9 L327.6,605.7 L275.2,556.7 L243.5,527.1 L194.0,480.7 L164.2,452.9 L98.6,391.5 L51.3,347.2 L51.5,335.9 L50.0,335.8 L50.1,327.8 L45.7,327.3 L46.0,319.7 L44.8,315.3 L45.1,305.1 L46.7,302.3 L53.8,301.7 L53.9,298.9 L60.4,298.4 L64.2,288.3 L66.4,287.4 L77.2,289.1 L83.7,294.1 L166.6,295.4 L173.6,293.5 L195.0,289.1 L208.1,286.7 L253.3,286.9 L318.9,286.4 L318.5,256.2 L321.0,256.0 L325.6,243.2 L323.9,229.7 L325.7,226.4 L325.4,220.1 L326.7,217.3 L326.1,211.3 L323.4,200.9 L323.3,189.9 L358.5,189.5 L367.1,189.7 L397.7,189.0 L444.7,188.3 L460.4,187.8 L465.6,354.9 L467.6,416.9 L468.1,439.9 L471.1,528.2 L472.7,561.0 L473.2,579.7 L471.4,581.2 L464.8,597.0 L457.5,598.0 L446.9,585.5 L443.5,585.2 L436.0,587.4 L435.7,585.1 L425.8,586.1 L421.7,589.5 L417.5,590.1 L417.0,594.0 L405.7,587.6 L400.8,587.9 L397.4,592.1 L393.6,589.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>3204</geoid>
+    <name>Congressional District 4</name>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-nv-04</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NV.01" d="M393.6,589.3 L393.7,592.5 L373.4,592.9 L373.3,583.7 L379.8,581.3 L381.7,583.8 L384.5,581.7 L393.3,581.5 L393.5,589.3 L393.6,589.3 L393.6,589.3 L393.6,589.3 L393.6,589.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>3201</geoid>
+    <name>Congressional District 1</name>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-nv-01</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NV.02" d="M51.3,347.2 L0.0,299.3 L0.6,267.6 L2.0,238.6 L5.6,142.3 L6.8,99.4 L10.3,0.0 L18.7,0.0 L69.3,1.9 L107.4,2.9 L122.0,2.9 L224.0,3.3 L281.0,3.6 L290.3,3.4 L380.2,2.1 L397.4,1.1 L413.0,1.4 L454.5,0.2 L455.0,11.1 L457.8,99.5 L460.4,187.8 L444.7,188.3 L397.7,189.0 L367.1,189.7 L358.5,189.5 L323.3,189.9 L323.4,200.9 L326.1,211.3 L326.7,217.3 L325.4,220.1 L325.7,226.4 L323.9,229.7 L325.6,243.2 L321.0,256.0 L318.5,256.2 L318.9,286.4 L253.3,286.9 L208.1,286.7 L195.0,289.1 L173.6,293.5 L166.6,295.4 L83.7,294.1 L77.2,289.1 L66.4,287.4 L64.2,288.3 L60.4,298.4 L53.9,298.9 L53.8,301.7 L46.7,302.3 L45.1,305.1 L44.8,315.3 L46.0,319.7 L45.7,327.3 L50.1,327.8 L50.0,335.8 L51.5,335.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>3202</geoid>
+    <name>Congressional District 2</name>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>us-nv-02</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

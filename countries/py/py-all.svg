@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Paraguay</title>
+<g id="admin1">
+
+<g id="PY">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Paraguay</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Para.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>PRY</iso-a3>
+    <iso-a2>PY</iso-a2>
+    <woe-id>23424917</woe-id>
+    <continent>South America</continent>
+    <hc-key>py</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.AG" d="M51.5,70.5 L53.9,65.0 L63.6,35.6 L65.5,34.0 L83.6,30.8 L203.6,2.0 L277.2,0.0 L283.5,3.7 L350.8,44.4 L353.3,56.9 L353.4,66.8 L352.3,74.8 L355.5,77.6 L352.6,78.6 L352.5,81.6 L356.3,81.5 L358.5,91.2 L365.9,96.0 L364.4,103.8 L366.8,117.9 L372.8,116.7 L376.5,121.8 L370.0,126.4 L374.2,127.4 L376.6,131.1 L372.1,135.8 L377.5,140.1 L379.8,139.9 L377.1,147.0 L378.9,154.5 L377.5,162.0 L373.1,168.1 L377.0,171.7 L371.2,182.1 L369.8,188.6 L372.6,191.4 L370.5,196.5 L374.0,201.9 L370.6,207.6 L370.9,212.4 L369.3,215.7 L371.7,220.2 L367.0,231.3 L368.1,235.1 L367.8,246.1 L368.8,250.0 L374.2,251.8 L379.7,261.0 L378.0,263.9 L350.8,252.1 L348.5,246.5 L345.3,245.2 L308.4,243.0 L304.3,243.5 L287.5,242.3 L275.3,242.9 L269.2,241.2 L260.3,236.5 L254.1,233.5 L225.6,232.9 L213.3,233.7 L211.5,222.5 L219.2,185.3 L222.4,181.4 L230.3,176.5 L231.4,172.9 L227.7,151.3 L220.1,138.7 L220.4,135.0 L216.3,126.7 L217.8,120.1 L210.1,116.3 L60.1,75.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.AG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346463</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA03</fips>
+    <postal-code>AG</postal-code>
+    <name>Alto Paraguay</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-59.8709</longitude>
+    <woe-name>Alto Paraguay</woe-name>
+    <latitude>-21.796</latitude>
+    <woe-label>Alto Paraguay, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.71</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>py-ag</hc-key>
+    <hc-a2>AG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.BQ" d="M51.5,70.5 L60.1,75.9 L210.1,116.3 L217.8,120.1 L216.3,126.7 L220.4,135.0 L220.1,138.7 L227.7,151.3 L231.4,172.9 L230.3,176.5 L222.4,181.4 L219.2,185.3 L211.5,222.5 L213.3,233.7 L225.6,232.9 L254.1,233.5 L260.3,236.5 L263.5,245.9 L257.2,250.6 L254.4,251.4 L250.9,249.0 L240.8,254.7 L238.4,259.0 L239.2,264.6 L230.2,266.4 L229.6,274.7 L214.9,297.5 L213.0,307.5 L213.9,319.6 L211.4,328.6 L212.5,332.2 L208.1,343.3 L206.5,349.7 L206.0,357.2 L197.7,362.0 L193.1,363.4 L167.9,365.4 L160.7,368.8 L155.1,369.8 L151.7,372.4 L149.7,379.3 L150.4,390.2 L146.5,390.1 L138.6,385.4 L133.2,384.9 L128.3,377.4 L124.1,373.4 L124.7,368.3 L119.0,364.3 L111.8,361.6 L109.8,358.1 L94.4,352.8 L91.6,349.7 L92.3,347.1 L89.3,346.6 L85.2,342.6 L80.3,342.2 L74.1,338.4 L73.4,334.3 L65.9,327.0 L57.0,321.9 L52.7,316.6 L50.3,309.5 L39.2,295.7 L37.7,289.1 L32.4,286.3 L33.8,282.2 L29.4,276.2 L22.9,274.8 L17.3,271.2 L14.6,268.1 L10.4,266.8 L7.0,263.3 L1.6,261.3 L2.5,257.8 L0.0,256.1 L1.6,251.8 L5.4,236.1 L16.6,193.3 L26.2,156.2 L26.3,150.6 L24.7,114.9 L28.1,108.2 L45.0,82.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.BQ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346450</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA24</fips>
+    <postal-code>BQ</postal-code>
+    <name>Boquerón</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-60.9776</longitude>
+    <woe-name>Boquerón</woe-name>
+    <latitude>-22.0943</latitude>
+    <woe-label>Boquerón, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>py-bq</hc-key>
+    <hc-a2>BQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.CN" d="M378.0,263.9 L379.7,261.0 L374.2,251.8 L368.8,250.0 L367.8,246.1 L368.1,235.1 L370.7,238.3 L376.1,238.5 L378.3,240.3 L383.7,238.7 L383.8,237.3 L393.2,237.0 L396.4,243.1 L401.0,242.5 L404.5,244.0 L407.5,243.3 L414.4,246.1 L418.6,245.1 L423.3,246.1 L427.8,243.9 L436.1,247.8 L443.8,247.8 L451.4,250.2 L452.2,248.0 L454.1,252.5 L457.0,252.4 L457.7,253.2 L474.3,257.4 L477.5,258.6 L474.9,260.2 L471.5,265.0 L467.5,268.5 L466.6,272.6 L466.5,282.4 L467.8,287.8 L470.2,290.5 L471.9,297.1 L468.9,302.3 L473.6,301.0 L476.3,302.9 L481.2,301.6 L483.7,295.5 L491.2,292.6 L493.8,289.1 L498.3,286.6 L501.7,287.9 L512.8,317.1 L512.6,321.6 L509.1,323.0 L507.8,330.3 L500.7,336.5 L499.2,341.3 L491.0,347.3 L485.7,348.0 L481.7,350.0 L475.4,350.7 L467.6,348.9 L454.2,348.1 L445.4,350.3 L443.4,349.9 L437.7,352.1 L428.4,352.9 L424.2,354.5 L417.4,355.1 L409.9,352.6 L409.1,346.6 L405.6,342.7 L407.2,336.1 L401.7,330.2 L395.9,326.5 L395.3,322.0 L388.9,319.8 L387.6,317.2 L383.0,314.4 L384.2,309.3 L380.6,305.5 L382.9,302.3 L381.3,298.0 L378.0,296.7 L375.3,292.2 L371.0,288.7 L374.5,284.4 L383.2,284.4 L383.5,281.7 L379.5,275.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.CN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346454</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA07</fips>
+    <postal-code>CN</postal-code>
+    <name>Concepción</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.0543</longitude>
+    <woe-name>Concepción</woe-name>
+    <latitude>-22.8458</latitude>
+    <woe-label>Concepción, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>py-cn</hc-key>
+    <hc-a2>CN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.PH" d="M378.0,263.9 L379.5,275.4 L383.5,281.7 L383.2,284.4 L374.5,284.4 L371.0,288.7 L375.3,292.2 L378.0,296.7 L381.3,298.0 L382.9,302.3 L380.6,305.5 L384.2,309.3 L383.0,314.4 L387.6,317.2 L388.9,319.8 L395.3,322.0 L395.9,326.5 L401.7,330.2 L407.2,336.1 L405.6,342.7 L409.1,346.6 L409.9,352.6 L409.6,361.0 L413.7,367.0 L419.3,370.2 L422.9,373.6 L421.4,376.5 L422.8,380.1 L421.7,386.1 L418.4,391.1 L422.6,393.1 L423.9,399.5 L427.3,401.2 L426.6,404.9 L432.0,406.8 L427.6,413.6 L431.4,422.1 L433.3,435.8 L434.6,439.1 L433.4,446.1 L434.9,451.1 L437.7,454.1 L435.2,460.4 L430.6,461.9 L429.5,466.7 L425.5,472.2 L428.0,473.0 L428.2,480.4 L422.7,479.9 L418.2,486.9 L412.2,490.9 L409.7,490.9 L404.4,490.7 L402.0,498.5 L399.8,501.3 L396.7,502.5 L393.1,506.0 L389.2,502.3 L386.7,496.8 L376.2,488.2 L369.0,487.9 L367.7,485.4 L364.5,485.4 L359.1,482.8 L350.4,476.8 L343.7,481.3 L340.7,479.2 L332.9,470.3 L331.1,469.4 L314.0,466.3 L310.7,463.9 L305.1,463.4 L290.2,452.4 L281.2,448.7 L263.7,439.6 L260.8,435.1 L254.3,428.9 L248.0,424.8 L242.0,422.8 L237.5,417.9 L209.2,400.0 L200.8,401.8 L186.4,401.5 L181.7,399.0 L174.1,398.3 L166.9,395.7 L165.5,392.6 L158.0,391.7 L154.9,389.9 L150.4,390.2 L149.7,379.3 L151.7,372.4 L155.1,369.8 L160.7,368.8 L167.9,365.4 L193.1,363.4 L197.7,362.0 L206.0,357.2 L206.5,349.7 L208.1,343.3 L212.5,332.2 L211.4,328.6 L213.9,319.6 L213.0,307.5 L214.9,297.5 L229.6,274.7 L230.2,266.4 L239.2,264.6 L238.4,259.0 L240.8,254.7 L250.9,249.0 L254.4,251.4 L257.2,250.6 L263.5,245.9 L260.3,236.5 L269.2,241.2 L275.3,242.9 L287.5,242.3 L304.3,243.5 L308.4,243.0 L345.3,245.2 L348.5,246.5 L350.8,252.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.PH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346461</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA16</fips>
+    <postal-code>PH</postal-code>
+    <name>Presidente Hayes</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-58.9417</longitude>
+    <woe-name>Presidente Hayes</woe-name>
+    <latitude>-23.4234</latitude>
+    <woe-label>Presidente Hayes, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>py-ph</hc-key>
+    <hc-a2>PH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.CR" d="M409.7,490.9 L412.2,490.9 L418.2,486.9 L422.7,479.9 L428.2,480.4 L434.7,483.7 L440.1,484.5 L443.0,482.9 L443.1,480.0 L445.8,478.3 L462.2,474.8 L468.6,474.4 L475.8,477.3 L479.9,481.4 L483.6,483.3 L479.7,505.7 L478.1,510.9 L459.3,524.1 L459.3,526.6 L464.1,536.6 L459.5,535.2 L456.4,537.1 L451.9,535.4 L454.1,532.7 L452.1,526.9 L444.6,527.0 L437.9,525.8 L436.0,524.3 L432.3,517.3 L429.8,513.8 L426.8,514.9 L422.3,508.4 L420.2,503.0 L415.5,496.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.CR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346455</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA08</fips>
+    <postal-code>CR</postal-code>
+    <name>Cordillera</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.9747</longitude>
+    <woe-name>Cordillera</woe-name>
+    <latitude>-25.2506</latitude>
+    <woe-label>Cordillera, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>py-cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.SP" d="M483.6,483.3 L479.9,481.4 L475.8,477.3 L468.6,474.4 L462.2,474.8 L445.8,478.3 L443.1,480.0 L443.0,482.9 L440.1,484.5 L434.7,483.7 L428.2,480.4 L428.0,473.0 L425.5,472.2 L429.5,466.7 L430.6,461.9 L435.2,460.4 L437.7,454.1 L434.9,451.1 L433.4,446.1 L434.6,439.1 L433.3,435.8 L431.4,422.1 L427.6,413.6 L432.0,406.8 L426.6,404.9 L427.3,401.2 L423.9,399.5 L422.6,393.1 L418.4,391.1 L421.7,386.1 L422.8,380.1 L421.4,376.5 L422.9,373.6 L419.3,370.2 L413.7,367.0 L409.6,361.0 L409.9,352.6 L417.4,355.1 L424.2,354.5 L428.4,352.9 L437.7,352.1 L443.4,349.9 L445.4,350.3 L454.2,348.1 L467.6,348.9 L475.4,350.7 L481.7,350.0 L485.7,348.0 L491.0,347.3 L499.2,341.3 L508.7,338.6 L516.1,340.1 L516.5,344.1 L519.2,348.5 L517.8,350.9 L511.3,356.1 L513.6,362.9 L515.3,364.5 L519.2,362.3 L519.9,358.9 L527.5,357.5 L527.7,363.4 L523.9,369.5 L523.8,377.6 L521.7,382.0 L517.7,384.4 L522.4,397.2 L521.7,399.6 L515.3,405.9 L512.4,406.9 L510.2,410.7 L510.0,419.2 L512.0,421.1 L513.2,426.9 L515.2,430.1 L518.6,431.7 L525.0,442.1 L529.4,452.1 L534.4,456.2 L536.1,460.3 L541.0,463.4 L531.9,465.8 L525.6,468.3 L522.9,471.0 L518.1,479.2 L511.3,472.5 L505.5,469.4 L505.2,464.2 L502.7,463.7 L498.7,469.6 L494.5,472.2 L492.4,475.7 L489.2,477.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>PY.SP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346462</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA17</fips>
+    <postal-code>SP</postal-code>
+    <name>San Pedro</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.6053</longitude>
+    <woe-name>San Pedro</woe-name>
+    <latitude>-24.2001</latitude>
+    <woe-label>San Pedro, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>py-sp</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.CE" d="M409.7,490.9 L415.5,496.4 L420.2,503.0 L422.3,508.4 L426.8,514.9 L429.8,513.8 L432.3,517.3 L426.4,521.9 L420.0,532.3 L414.8,537.9 L412.1,543.8 L411.9,548.1 L413.7,553.9 L411.5,561.2 L406.2,566.8 L401.9,558.6 L399.5,557.5 L390.8,549.9 L385.5,549.7 L384.9,553.4 L382.0,553.3 L383.4,551.8 L381.9,547.3 L388.0,542.5 L385.4,540.8 L387.0,538.4 L392.7,536.1 L393.5,533.2 L396.9,533.5 L401.0,527.6 L402.0,520.3 L398.8,515.5 L402.5,511.7 L402.9,505.2 L399.8,501.3 L402.0,498.5 L404.4,490.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.CE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346453</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA06</fips>
+    <postal-code>CE</postal-code>
+    <name>Central</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.5265</longitude>
+    <woe-name>Central</woe-name>
+    <latitude>-25.6711</latitude>
+    <woe-label>Central, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>py-ce</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.MI" d="M471.9,688.6 L461.9,693.1 L454.5,686.8 L451.9,685.7 L446.4,687.1 L438.9,691.2 L431.1,691.5 L421.3,686.6 L422.7,680.9 L429.4,661.6 L429.3,657.1 L412.8,654.1 L404.0,644.0 L397.7,635.0 L396.5,631.9 L391.0,600.8 L396.3,604.8 L398.4,608.8 L403.0,612.4 L408.5,613.6 L410.8,615.6 L418.8,618.5 L429.4,615.6 L431.1,610.8 L435.7,606.5 L437.8,602.5 L441.7,600.0 L444.4,600.2 L454.5,606.7 L458.4,607.2 L461.1,611.5 L463.3,612.9 L466.4,618.0 L470.9,621.3 L476.8,622.5 L477.1,626.9 L480.1,657.7 L479.2,662.0 L475.3,662.5 L470.7,666.3 L468.3,672.0 L468.2,675.2 L471.8,679.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.MI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346458</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA12</fips>
+    <postal-code>MI</postal-code>
+    <name>Misiones</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.1187</longitude>
+    <woe-name>Misiones</woe-name>
+    <latitude>-26.9861</latitude>
+    <woe-label>Misiones, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>py-mi</hc-key>
+    <hc-a2>MI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.NE" d="M391.0,600.8 L396.5,631.9 L397.7,635.0 L404.0,644.0 L412.8,654.1 L429.3,657.1 L429.4,661.6 L422.7,680.9 L421.3,686.6 L415.5,684.4 L407.9,685.6 L404.3,684.8 L392.0,678.6 L367.5,672.6 L359.4,673.5 L351.2,672.5 L330.6,674.5 L323.6,677.8 L323.7,671.8 L319.8,667.9 L319.7,664.3 L322.5,661.6 L326.3,660.8 L326.9,655.7 L330.3,656.1 L333.6,648.9 L334.1,644.9 L344.0,641.0 L343.1,634.7 L347.0,634.9 L347.0,631.3 L350.0,630.3 L350.9,621.2 L355.2,621.2 L354.1,618.0 L356.2,616.3 L352.5,612.3 L353.2,606.1 L354.5,604.4 L352.9,600.3 L355.4,595.7 L355.5,589.1 L360.4,586.4 L359.0,583.3 L361.8,576.9 L369.3,573.6 L378.0,566.9 L379.0,564.4 L375.5,563.4 L379.5,557.4 L377.8,555.6 L382.0,553.3 L384.9,553.4 L385.5,549.7 L390.8,549.9 L399.5,557.5 L401.9,558.6 L406.2,566.8 L408.4,579.1 L408.0,580.6 L397.9,590.8 L394.1,597.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.NE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346459</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA13</fips>
+    <postal-code>NE</postal-code>
+    <name>Ñeembucú</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.9275</longitude>
+    <woe-name>Ñeembucú</woe-name>
+    <latitude>-26.6639</latitude>
+    <woe-label>Ã?eembucú, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
+    <hc-key>py-ne</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.GU" d="M476.2,580.7 L471.1,571.3 L469.9,565.1 L474.9,562.6 L475.3,560.4 L471.0,552.2 L469.9,544.1 L471.7,541.4 L478.3,537.9 L482.0,534.5 L493.8,530.3 L514.1,531.3 L517.7,533.1 L525.9,533.0 L529.9,534.6 L534.4,538.9 L538.7,538.8 L548.0,535.5 L550.0,536.8 L546.5,543.5 L542.6,543.6 L538.7,548.0 L528.1,553.2 L518.5,557.2 L515.3,566.4 L509.1,569.8 L501.6,565.3 L493.0,567.1 L491.6,571.1 L484.1,573.3 L482.3,579.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.GU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346456</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA10</fips>
+    <postal-code>GU</postal-code>
+    <name>Guairá</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.1486</longitude>
+    <woe-name>Guairá</woe-name>
+    <latitude>-25.8137</latitude>
+    <woe-label>Guairá, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>py-gu</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.PG" d="M471.7,541.4 L469.9,544.1 L471.0,552.2 L475.3,560.4 L474.9,562.6 L469.9,565.1 L471.1,571.3 L476.2,580.7 L475.2,584.2 L472.0,588.2 L470.4,595.8 L465.3,606.9 L461.1,611.5 L458.4,607.2 L454.5,606.7 L444.4,600.2 L441.7,600.0 L437.8,602.5 L435.7,606.5 L431.1,610.8 L429.4,615.6 L418.8,618.5 L410.8,615.6 L408.5,613.6 L403.0,612.4 L398.4,608.8 L396.3,604.8 L391.0,600.8 L394.1,597.8 L397.9,590.8 L408.0,580.6 L408.4,579.1 L406.2,566.8 L411.5,561.2 L413.7,553.9 L411.9,548.1 L412.1,543.8 L414.8,537.9 L420.0,532.3 L426.4,521.9 L432.3,517.3 L436.0,524.3 L437.9,525.8 L444.6,527.0 L452.1,526.9 L454.1,532.7 L451.9,535.4 L456.4,537.1 L459.5,535.2 L464.1,536.6 L468.1,540.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.PG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346460</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA15</fips>
+    <postal-code>PG</postal-code>
+    <name>Paraguarí</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-57.146</longitude>
+    <woe-name>Paraguarí</woe-name>
+    <latitude>-25.9805</latitude>
+    <woe-label>Paraguarí, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>py-pg</hc-key>
+    <hc-a2>PG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.AM" d="M499.2,341.3 L500.7,336.5 L507.8,330.3 L509.1,323.0 L512.6,321.6 L512.8,317.1 L501.7,287.9 L498.3,286.6 L493.8,289.1 L491.2,292.6 L483.7,295.5 L481.2,301.6 L476.3,302.9 L473.6,301.0 L468.9,302.3 L471.9,297.1 L470.2,290.5 L467.8,287.8 L466.5,282.4 L466.6,272.6 L467.5,268.5 L471.5,265.0 L474.9,260.2 L477.5,258.6 L474.3,257.4 L457.7,253.2 L457.0,252.4 L459.7,249.0 L465.6,248.7 L467.0,246.2 L471.0,250.0 L471.8,248.1 L477.3,244.2 L483.1,235.8 L490.2,234.4 L492.1,235.4 L494.1,240.6 L498.4,245.7 L507.8,251.8 L521.3,252.5 L523.4,251.7 L526.7,253.8 L533.1,255.2 L534.2,252.8 L538.1,258.2 L542.0,261.5 L543.4,273.8 L546.8,278.8 L552.0,281.4 L552.9,289.8 L549.6,297.6 L551.5,307.3 L551.1,313.0 L554.0,316.7 L554.1,322.9 L557.0,325.3 L559.0,332.4 L557.1,337.6 L557.3,340.9 L560.5,345.1 L558.2,352.4 L558.8,357.8 L557.2,359.7 L555.1,366.7 L550.5,370.2 L544.1,372.1 L532.7,379.8 L529.6,383.5 L519.8,385.5 L517.7,384.4 L521.7,382.0 L523.8,377.6 L523.9,369.5 L527.7,363.4 L527.5,357.5 L519.9,358.9 L519.2,362.3 L515.3,364.5 L513.6,362.9 L511.3,356.1 L517.8,350.9 L519.2,348.5 L516.5,344.1 L516.1,340.1 L508.7,338.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.AM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346449</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA02</fips>
+    <postal-code>AM</postal-code>
+    <name>Amambay</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.1788</longitude>
+    <woe-name>Amambay</woe-name>
+    <latitude>-23.2295</latitude>
+    <woe-label>Amambay, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>py-am</hc-key>
+    <hc-a2>AM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.AA" d="M636.3,458.5 L627.7,458.6 L640.2,462.9 L642.0,465.1 L640.4,468.2 L640.1,473.4 L632.8,472.4 L623.8,473.5 L618.4,470.4 L610.5,473.5 L617.2,473.4 L622.9,474.9 L629.3,475.0 L637.2,476.9 L638.0,479.7 L635.7,484.0 L636.2,489.0 L629.5,486.0 L624.8,485.9 L622.1,484.2 L614.6,490.1 L619.8,489.3 L622.2,491.9 L627.8,490.5 L631.2,491.1 L629.3,494.4 L634.7,494.2 L638.1,495.9 L633.6,501.0 L633.6,504.2 L630.8,506.9 L623.9,506.3 L628.2,509.4 L625.9,514.7 L625.3,518.9 L628.0,519.5 L629.3,527.4 L628.4,533.1 L629.7,537.5 L625.9,538.1 L625.1,541.1 L626.9,548.3 L629.1,551.5 L626.9,557.6 L627.5,563.0 L623.2,565.7 L624.5,574.7 L622.8,580.0 L624.7,584.1 L622.6,587.6 L617.2,587.0 L616.6,584.0 L610.6,581.6 L607.4,583.4 L604.2,579.7 L601.2,584.0 L596.6,584.9 L595.0,587.0 L591.9,585.2 L584.7,583.3 L579.0,583.5 L577.5,582.0 L575.0,573.7 L580.0,569.3 L574.1,565.9 L564.6,567.4 L559.3,565.2 L558.2,563.3 L558.3,556.8 L557.3,554.7 L559.4,549.0 L562.1,545.9 L563.7,539.1 L567.2,534.7 L564.9,528.6 L560.4,529.0 L578.6,504.3 L581.8,501.8 L585.1,504.8 L594.3,506.5 L596.3,511.2 L602.1,511.1 L600.3,503.8 L597.6,502.5 L597.7,498.7 L590.8,493.3 L583.7,486.2 L576.3,484.3 L573.4,479.3 L573.1,469.5 L574.5,467.7 L573.6,462.6 L575.9,458.3 L577.0,452.6 L576.6,447.0 L581.6,440.2 L590.3,437.4 L591.9,437.8 L592.0,442.9 L595.2,444.7 L599.8,443.6 L608.0,447.4 L607.9,450.5 L613.6,451.7 L615.7,454.7 L618.7,452.0 L624.7,452.4 L627.8,456.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.AA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346448</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA01</fips>
+    <postal-code>AA</postal-code>
+    <name>Alto Paraná</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-54.9426</longitude>
+    <woe-name>Alto Paraná</woe-name>
+    <latitude>-25.3757</latitude>
+    <woe-label>Alto Paraná, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>py-aa</hc-key>
+    <hc-a2>AA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.CG" d="M550.0,536.8 L548.0,535.5 L538.7,538.8 L534.4,538.9 L529.9,534.6 L525.9,533.0 L517.7,533.1 L514.1,531.3 L493.8,530.3 L482.0,534.5 L478.3,537.9 L471.7,541.4 L468.1,540.5 L464.1,536.6 L459.3,526.6 L459.3,524.1 L478.1,510.9 L479.7,505.7 L483.6,483.3 L489.2,477.5 L492.4,475.7 L494.5,472.2 L498.7,469.6 L502.7,463.7 L505.2,464.2 L505.5,469.4 L511.3,472.5 L518.1,479.2 L522.9,471.0 L525.6,468.3 L531.9,465.8 L541.0,463.4 L546.3,456.4 L550.2,453.5 L558.8,444.5 L561.3,443.4 L581.6,440.2 L576.6,447.0 L577.0,452.6 L575.9,458.3 L573.6,462.6 L574.5,467.7 L573.1,469.5 L573.4,479.3 L576.3,484.3 L583.7,486.2 L590.8,493.3 L597.7,498.7 L597.6,502.5 L600.3,503.8 L602.1,511.1 L596.3,511.2 L594.3,506.5 L585.1,504.8 L581.8,501.8 L578.6,504.3 L560.4,529.0 L558.8,533.0 L555.7,536.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.CG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346451</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA04</fips>
+    <postal-code>CG</postal-code>
+    <name>Caaguazú</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-55.8821</longitude>
+    <woe-name>Caaguazú</woe-name>
+    <latitude>-25.2234</latitude>
+    <woe-label>Caaguazú, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>py-cg</hc-key>
+    <hc-a2>CG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.CZ" d="M477.1,626.9 L476.8,622.5 L470.9,621.3 L466.4,618.0 L463.3,612.9 L461.1,611.5 L465.3,606.9 L470.4,595.8 L472.0,588.2 L475.2,584.2 L476.2,580.7 L482.3,579.9 L484.1,573.3 L491.6,571.1 L493.0,567.1 L501.6,565.3 L509.1,569.8 L515.3,566.4 L518.5,557.2 L528.1,553.2 L538.7,548.0 L542.6,543.6 L546.5,543.5 L550.0,536.8 L555.7,536.1 L558.8,533.0 L560.4,529.0 L564.9,528.6 L567.2,534.7 L563.7,539.1 L562.1,545.9 L559.4,549.0 L557.3,554.7 L558.3,556.8 L558.2,563.3 L559.3,565.2 L564.6,567.4 L574.1,565.9 L580.0,569.3 L575.0,573.7 L573.0,573.6 L572.5,580.6 L568.0,585.8 L561.5,590.8 L554.9,593.5 L548.3,593.7 L540.6,596.4 L539.1,599.1 L531.0,606.1 L521.9,608.2 L517.9,614.5 L511.6,622.8 L504.6,624.6 L498.1,628.1 L489.3,631.5 L482.8,628.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.CZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346452</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA05</fips>
+    <postal-code>CZ</postal-code>
+    <name>Caazapá</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-56.0049</longitude>
+    <woe-name>Caazapá</woe-name>
+    <latitude>-26.2005</latitude>
+    <woe-label>Caazapá, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>py-cz</hc-key>
+    <hc-a2>CZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.CY" d="M636.3,458.5 L627.8,456.7 L624.7,452.4 L618.7,452.0 L615.7,454.7 L613.6,451.7 L607.9,450.5 L608.0,447.4 L599.8,443.6 L595.2,444.7 L592.0,442.9 L591.9,437.8 L590.3,437.4 L581.6,440.2 L561.3,443.4 L558.8,444.5 L550.2,453.5 L546.3,456.4 L541.0,463.4 L536.1,460.3 L534.4,456.2 L529.4,452.1 L525.0,442.1 L518.6,431.7 L515.2,430.1 L513.2,426.9 L512.0,421.1 L510.0,419.2 L510.2,410.7 L512.4,406.9 L515.3,405.9 L521.7,399.6 L522.4,397.2 L517.7,384.4 L519.8,385.5 L529.6,383.5 L532.7,379.8 L544.1,372.1 L550.5,370.2 L555.1,366.7 L557.2,359.7 L558.8,357.8 L559.0,364.0 L563.9,370.0 L565.5,375.2 L566.5,391.6 L569.0,395.7 L584.2,399.4 L591.7,396.9 L596.6,397.0 L604.3,395.5 L608.3,391.4 L613.4,388.7 L623.6,385.3 L628.1,381.9 L630.2,382.5 L644.8,391.5 L649.0,397.5 L658.3,403.3 L651.9,406.0 L649.1,410.1 L649.8,415.7 L647.0,418.2 L651.0,421.3 L654.2,428.1 L650.0,435.6 L642.9,432.9 L646.3,436.0 L647.7,439.8 L647.4,444.2 L639.7,445.6 L646.0,447.4 L647.8,451.1 L646.0,457.5 L642.1,459.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.CY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346464</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA19</fips>
+    <postal-code>CY</postal-code>
+    <name>Canindeyú</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-55.2022</longitude>
+    <woe-name>Canindeyú</woe-name>
+    <latitude>-24.2567</latitude>
+    <woe-label>Canindeyú, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>py-cy</hc-key>
+    <hc-a2>CY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.IT" d="M575.0,573.7 L577.5,582.0 L579.0,583.5 L584.7,583.3 L591.9,585.2 L595.0,587.0 L596.6,584.9 L601.2,584.0 L604.2,579.7 L607.4,583.4 L610.6,581.6 L616.6,584.0 L617.2,587.0 L622.6,587.6 L622.6,593.5 L619.1,604.7 L612.6,611.9 L613.3,615.9 L612.2,621.8 L603.8,622.9 L601.7,625.7 L598.2,633.6 L591.7,635.0 L586.7,639.8 L587.1,644.6 L585.6,647.4 L580.9,647.5 L574.9,645.6 L571.1,647.6 L566.1,648.5 L563.4,650.7 L561.0,659.3 L555.5,659.4 L553.8,663.9 L550.6,665.1 L552.8,671.7 L551.0,678.7 L546.2,681.3 L538.5,688.3 L530.4,683.7 L526.7,678.4 L521.3,678.7 L510.7,675.8 L504.6,681.1 L499.0,683.4 L497.6,691.1 L492.3,699.5 L489.8,700.0 L485.2,697.2 L478.8,688.8 L471.9,688.6 L471.8,679.1 L468.2,675.2 L468.3,672.0 L470.7,666.3 L475.3,662.5 L479.2,662.0 L480.1,657.7 L477.1,626.9 L482.8,628.2 L489.3,631.5 L498.1,628.1 L504.6,624.6 L511.6,622.8 L517.9,614.5 L521.9,608.2 L531.0,606.1 L539.1,599.1 L540.6,596.4 L548.3,593.7 L554.9,593.5 L561.5,590.8 L568.0,585.8 L572.5,580.6 L573.0,573.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.IT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346457</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA11</fips>
+    <postal-code>IT</postal-code>
+    <name>Itapúa</name>
+    <country>Paraguay</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-55.6773</longitude>
+    <woe-name>Itapúa</woe-name>
+    <latitude>-26.8545</latitude>
+    <woe-label>Itapúa, PY, Paraguay</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>py-it</hc-key>
+    <hc-a2>IT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY.AS" d="M398.8,515.5 L395.5,513.0 L393.1,506.0 L396.7,502.5 L399.8,501.3 L402.9,505.2 L402.5,511.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>PY.AS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070148</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PA22</fips>
+    <postal-code>AS</postal-code>
+    <name>Asunción</name>
+    <country>Paraguay</country>
+    <type-en>Capital District</type-en>
+    <region>NULL</region>
+    <longitude>-57.5735</longitude>
+    <woe-name>Asunción</woe-name>
+    <latitude>-25.3096</latitude>
+    <woe-label>Asunción, PY, Paraguay</woe-label>
+    <type>Distrito Capital</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>py-as</hc-key>
+    <hc-a2>AS</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

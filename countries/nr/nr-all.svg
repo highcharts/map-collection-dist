@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Nauru</title>
+<g id="admin1">
+
+<g id="NR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Nauru</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Nauru</country-abbrev>
+    <subregion>Micronesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>NRU</iso-a3>
+    <iso-a2>NR</iso-a2>
+    <woe-id>23424912</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>nr</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6494" d="M277.7,33.3 L365.1,0.0 L367.0,156.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.AT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070311</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Anetan</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.936</longitude>
+    <woe-name>Anetan</woe-name>
+    <latitude>-0.494702</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>nr-6494</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6495" d="M367.0,156.9 L365.1,0.0 L557.3,86.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.AB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070308</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR02</fips>
+    <postal-code>NULL</postal-code>
+    <name>Anabar</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.944</longitude>
+    <woe-name>Anabar</woe-name>
+    <latitude>-0.497511</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>nr-6495</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6496" d="M367.0,156.9 L557.3,86.3 L578.1,238.4 L455.6,208.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.IJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070305</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR10</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ijuw</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.951</longitude>
+    <woe-name>Ijuw</woe-name>
+    <latitude>-0.504534</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.67</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>nr-6496</hc-key>
+    <hc-a2>IJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6497" d="M578.1,238.4 L588.0,310.7 L530.0,489.6 L439.4,477.0 L326.6,448.9 L334.2,396.3 L338.8,364.9 L341.8,339.4 L346.9,297.4 L350.9,264.9 L356.2,229.1 L367.0,156.9 L455.6,208.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.AR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070304</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR04</fips>
+    <postal-code>NULL</postal-code>
+    <name>Anibare</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.947</longitude>
+    <woe-name>Anibare</woe-name>
+    <latitude>-0.519984</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>nr-6497</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6498" d="M530.0,489.6 L508.6,555.4 L364.8,700.0 L294.1,686.5 L209.8,500.9 L326.6,448.9 L439.4,477.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.ME</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070301</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Meneng</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.939</longitude>
+    <woe-name>Meneng</woe-name>
+    <latitude>-0.539648</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>nr-6498</hc-key>
+    <hc-a2>ME</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6499" d="M294.1,686.5 L107.3,650.8 L129.3,568.9 L150.2,551.2 L209.8,500.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.YA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070300</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR14</fips>
+    <postal-code>NULL</postal-code>
+    <name>Yaren</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.925</longitude>
+    <woe-name>Yaren</woe-name>
+    <latitude>-0.543159</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>nr-6499</hc-key>
+    <hc-a2>YA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6487" d="M107.3,650.8 L57.3,530.3 L125.3,508.9 L150.2,551.2 L129.3,568.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.BO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070299</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR06</fips>
+    <postal-code>NULL</postal-code>
+    <name>Boe</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.916</longitude>
+    <woe-name>Boe</woe-name>
+    <latitude>-0.538594</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.30</hc-middle-y>
+    <hc-key>nr-6487</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.3591" d="M150.2,551.2 L125.3,508.9 L105.2,440.9 L113.2,384.8 L153.5,344.9 L246.1,368.9 L334.2,396.3 L326.6,448.9 L209.8,500.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.BU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070303</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR07</fips>
+    <postal-code>NULL</postal-code>
+    <name>Buada</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.925</longitude>
+    <woe-name>Buada</woe-name>
+    <latitude>-0.527877</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>nr-3591</hc-key>
+    <hc-a2>BU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6488" d="M125.3,508.9 L57.3,530.3 L0.0,392.1 L113.2,384.8 L105.2,440.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.AI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070298</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Aiwo</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.913</longitude>
+    <woe-name>Aiwo</woe-name>
+    <latitude>-0.529816</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>nr-6488</hc-key>
+    <hc-a2>AI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6489" d="M153.5,344.9 L113.2,384.8 L0.0,392.1 L38.1,247.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.DE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070302</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR08</fips>
+    <postal-code>NULL</postal-code>
+    <name>Denigomodu</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.914</longitude>
+    <woe-name>Denigomodu</woe-name>
+    <latitude>-0.520335</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>nr-6489</hc-key>
+    <hc-a2>DE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6490" d="M334.2,396.3 L246.1,368.9 L153.5,344.9 L38.1,247.1 L73.8,111.2 L341.8,339.4 L338.8,364.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.NI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070306</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR12</fips>
+    <postal-code>NULL</postal-code>
+    <name>Nibok</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.921</longitude>
+    <woe-name>Nibok</woe-name>
+    <latitude>-0.512961</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>nr-6490</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6491" d="M341.8,339.4 L73.8,111.2 L127.1,90.8 L346.9,297.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.UA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070307</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR13</fips>
+    <postal-code>NULL</postal-code>
+    <name>Uaboe</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.924</longitude>
+    <woe-name>Uaboe</woe-name>
+    <latitude>-0.506992</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>nr-6491</hc-key>
+    <hc-a2>UA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6492" d="M346.9,297.4 L127.1,90.8 L208.1,59.9 L356.2,229.1 L350.9,264.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.BA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070309</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Baiti</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.925</longitude>
+    <woe-name>Baiti</woe-name>
+    <latitude>-0.500672</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>nr-6492</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6493" d="M356.2,229.1 L208.1,59.9 L277.7,33.3 L367.0,156.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>NR.EW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070310</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NR09</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ewa</name>
+    <country>Nauru</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>166.934</longitude>
+    <woe-name>Ewa</woe-name>
+    <latitude>-0.502076</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>nr-6493</hc-key>
+    <hc-a2>EW</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Central African Republic</title>
+<g id="admin1">
+
+<g id="CF">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Central African Republic</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>C.A.R.</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>CAF</iso-a3>
+    <iso-a2>CF</iso-a2>
+    <woe-id>23424792</woe-id>
+    <continent>Africa</continent>
+    <hc-key>cf</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.VK" d="M344.2,84.8 L345.6,81.3 L347.4,80.3 L353.8,72.5 L355.0,67.4 L359.6,65.8 L361.1,61.7 L364.4,59.7 L368.4,54.4 L372.0,55.8 L373.9,55.1 L377.0,51.2 L379.8,44.9 L382.9,41.9 L388.8,41.2 L392.1,37.8 L392.2,34.4 L393.8,31.6 L392.2,28.6 L391.4,23.1 L392.3,19.6 L395.6,17.9 L399.7,17.9 L403.9,14.7 L407.1,13.9 L409.5,8.9 L416.2,9.9 L417.5,7.1 L420.3,4.6 L427.6,2.3 L431.2,0.0 L435.1,1.1 L438.6,0.7 L444.9,1.9 L446.3,3.0 L452.4,4.3 L452.5,5.7 L460.1,16.6 L465.6,20.5 L475.3,29.7 L493.2,58.1 L494.3,60.5 L495.9,69.7 L495.7,71.7 L492.4,77.9 L493.0,82.2 L494.6,84.3 L493.3,88.4 L493.9,91.8 L489.5,96.8 L484.9,98.5 L485.0,94.3 L482.5,94.0 L478.8,97.8 L477.7,103.6 L475.5,106.8 L470.1,108.5 L466.4,111.3 L464.8,113.8 L464.3,118.3 L462.5,120.1 L460.4,119.7 L450.5,122.2 L441.7,123.8 L434.3,129.3 L428.1,128.8 L428.1,125.7 L426.4,124.5 L418.5,122.8 L414.5,119.9 L413.3,117.6 L411.8,108.7 L408.8,106.6 L407.0,103.2 L399.8,97.6 L396.1,90.3 L394.9,85.2 L391.3,80.4 L386.8,75.6 L382.1,75.2 L380.3,66.3 L378.0,66.0 L376.9,67.8 L373.0,70.2 L367.5,76.0 L359.7,77.7 L355.7,80.1 L353.8,83.0 L350.8,83.9 L348.6,86.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.VK</hasc>
+    <alt-name>Birao</alt-name>
+    <woe-id>2345101</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT14</fips>
+    <postal-code>VK</postal-code>
+    <name>Vakaga</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>22.2437</longitude>
+    <woe-name>Vakaga</woe-name>
+    <latitude>9.8017</latitude>
+    <woe-label>Vakaga, CF, Central African Republic</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>cf-vk</hc-key>
+    <hc-a2>VK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.HK" d="M428.1,128.8 L434.3,129.3 L441.7,123.8 L450.5,122.2 L460.4,119.7 L462.5,120.1 L464.3,118.3 L464.8,113.8 L466.4,111.3 L470.1,108.5 L475.5,106.8 L477.7,103.6 L478.8,97.8 L482.5,94.0 L485.0,94.3 L484.9,98.5 L483.5,105.7 L484.4,108.1 L487.3,108.8 L490.2,106.9 L489.9,112.9 L486.1,118.3 L487.3,122.2 L493.1,121.0 L498.8,122.6 L501.4,121.5 L509.5,121.9 L519.8,123.5 L525.3,122.9 L525.2,125.6 L526.7,129.4 L524.1,131.4 L521.1,136.5 L520.3,140.0 L523.5,144.0 L527.9,145.5 L532.8,149.9 L535.6,151.0 L536.7,153.8 L539.2,155.9 L538.2,163.4 L540.8,175.0 L540.7,179.4 L544.3,186.4 L545.9,187.2 L541.6,196.9 L542.1,200.2 L544.2,202.4 L543.2,213.0 L540.8,214.5 L536.1,214.7 L531.6,217.0 L532.9,219.7 L529.8,223.5 L530.6,225.3 L528.4,226.7 L485.2,251.1 L482.3,255.7 L477.9,256.3 L476.6,261.7 L474.0,262.2 L460.0,258.8 L456.0,257.4 L450.8,252.8 L444.2,253.0 L437.5,254.3 L435.7,255.9 L434.0,260.6 L429.0,264.9 L423.5,265.4 L420.1,264.3 L413.3,268.5 L411.8,272.6 L411.5,280.0 L410.4,283.1 L412.2,286.6 L402.3,294.8 L402.3,295.6 L394.1,292.1 L389.6,291.6 L390.1,289.0 L395.4,284.8 L400.0,287.7 L402.4,284.5 L404.2,277.4 L404.4,272.2 L401.8,266.4 L398.1,264.5 L396.4,258.5 L393.8,256.0 L397.3,249.3 L395.8,241.1 L396.4,237.8 L392.0,236.0 L389.7,232.9 L386.6,226.2 L388.5,223.8 L388.9,220.4 L388.0,215.7 L386.4,213.9 L385.0,204.6 L385.1,199.5 L382.4,197.6 L377.9,197.7 L376.1,195.2 L376.7,189.6 L374.6,185.0 L370.9,182.3 L367.2,181.5 L361.0,176.5 L359.7,169.2 L361.1,162.8 L362.2,161.4 L374.0,160.3 L376.4,159.6 L375.0,151.9 L382.1,146.9 L385.9,147.8 L387.5,145.5 L393.5,143.0 L395.2,143.1 L400.9,149.9 L406.8,148.1 L405.4,144.2 L407.2,140.1 L405.1,133.8 L405.2,131.5 L407.5,128.2 L411.3,127.5 L415.5,129.2 L425.9,130.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.HK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345091</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT03</fips>
+    <postal-code>HK</postal-code>
+    <name>Haute-Kotto</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>22.8492</longitude>
+    <woe-name>Haute-Kotto</woe-name>
+    <latitude>7.48168</latitude>
+    <woe-label>Haute-Kotto, CF, Central African Republic</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>cf-hk</hc-key>
+    <hc-a2>HK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.HM" d="M528.4,226.7 L530.6,225.3 L529.8,223.5 L532.9,219.7 L531.6,217.0 L536.1,214.7 L540.8,214.5 L543.2,213.0 L544.2,202.4 L542.1,200.2 L541.6,196.9 L545.9,187.2 L544.3,186.4 L540.7,179.4 L540.8,175.0 L538.2,163.4 L539.2,155.9 L536.7,153.8 L535.6,151.0 L532.8,149.9 L527.9,145.5 L531.6,146.7 L536.9,145.3 L541.3,148.7 L546.7,148.1 L551.8,148.8 L558.3,150.8 L562.9,154.9 L564.8,159.8 L569.0,163.9 L572.2,165.7 L576.7,165.5 L579.0,166.7 L581.6,171.3 L582.5,177.7 L581.1,179.7 L576.4,182.0 L577.8,186.2 L584.6,190.6 L587.0,195.0 L593.5,198.6 L596.2,198.9 L599.5,201.5 L609.9,205.1 L610.7,207.1 L614.8,208.0 L615.4,209.9 L619.8,212.5 L622.8,212.8 L623.9,218.0 L625.8,221.0 L629.4,223.0 L634.2,227.5 L641.9,231.0 L642.0,232.8 L637.2,241.5 L637.3,245.4 L642.0,249.3 L646.1,251.0 L646.3,253.7 L649.2,255.0 L648.7,257.0 L645.8,259.1 L644.7,262.2 L647.7,260.4 L650.3,263.7 L654.3,265.4 L659.8,265.4 L665.2,268.2 L666.0,271.5 L670.1,271.7 L671.3,273.9 L674.8,273.3 L677.4,277.0 L682.5,278.1 L687.7,284.7 L687.6,287.9 L690.0,289.8 L687.9,295.7 L688.9,302.0 L692.4,308.3 L697.0,311.6 L700.0,315.5 L694.7,313.9 L682.4,308.7 L677.6,309.3 L674.1,311.4 L669.1,317.5 L665.5,317.2 L663.3,314.9 L659.6,314.6 L657.8,315.7 L653.6,315.7 L650.4,317.2 L647.3,316.5 L643.4,311.8 L638.0,311.7 L634.5,310.0 L633.0,307.1 L629.3,306.0 L627.4,308.6 L623.8,309.7 L620.8,307.7 L617.5,310.8 L615.4,308.3 L613.0,309.6 L611.1,305.9 L609.3,306.9 L603.5,302.9 L601.3,302.9 L599.7,300.0 L594.6,301.1 L588.1,303.5 L585.1,310.3 L587.4,312.6 L585.2,318.5 L580.9,319.7 L575.6,319.3 L573.2,322.7 L566.4,320.8 L557.3,324.7 L550.1,324.2 L551.0,322.7 L547.7,319.5 L540.7,315.0 L544.0,314.7 L543.8,311.1 L547.4,305.8 L552.0,306.5 L560.0,301.8 L561.4,302.6 L561.9,299.5 L567.0,296.0 L570.8,290.2 L570.0,286.7 L570.7,279.4 L575.1,277.3 L576.1,278.8 L578.0,272.2 L576.8,269.3 L573.6,268.7 L570.6,263.6 L567.8,262.0 L560.8,256.0 L560.5,254.7 L564.2,255.6 L567.7,254.1 L568.8,251.5 L572.0,250.4 L571.9,248.0 L568.3,244.6 L562.7,240.8 L558.0,240.6 L552.7,244.8 L547.3,245.9 L543.6,243.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.HM</hasc>
+    <alt-name>Haut-M'bomou|Obo-Zemio</alt-name>
+    <woe-id>2345093</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT05</fips>
+    <postal-code>HM</postal-code>
+    <name>Haut-Mbomou</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>25.851</longitude>
+    <woe-name>Haut-Mbomou</woe-name>
+    <latitude>6.15735</latitude>
+    <woe-label>Haut-Mbomou, CF, Central African Republic</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>cf-hm</hc-key>
+    <hc-a2>HM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.MB" d="M402.3,295.6 L402.3,294.8 L412.2,286.6 L410.4,283.1 L411.5,280.0 L411.8,272.6 L413.3,268.5 L420.1,264.3 L423.5,265.4 L429.0,264.9 L434.0,260.6 L435.7,255.9 L437.5,254.3 L444.2,253.0 L450.8,252.8 L456.0,257.4 L460.0,258.8 L474.0,262.2 L476.6,261.7 L477.9,256.3 L482.3,255.7 L485.2,251.1 L528.4,226.7 L543.6,243.0 L547.3,245.9 L552.7,244.8 L558.0,240.6 L562.7,240.8 L568.3,244.6 L571.9,248.0 L572.0,250.4 L568.8,251.5 L567.7,254.1 L564.2,255.6 L560.5,254.7 L560.8,256.0 L567.8,262.0 L570.6,263.6 L573.6,268.7 L576.8,269.3 L578.0,272.2 L576.1,278.8 L575.1,277.3 L570.7,279.4 L570.0,286.7 L570.8,290.2 L567.0,296.0 L561.9,299.5 L561.4,302.6 L560.0,301.8 L552.0,306.5 L547.4,305.8 L543.8,311.1 L544.0,314.7 L540.7,315.0 L538.0,316.9 L536.2,313.9 L534.3,317.1 L536.3,318.6 L530.9,320.3 L529.3,324.0 L527.3,322.6 L523.7,325.5 L519.8,324.8 L513.8,328.4 L512.2,330.4 L505.1,330.2 L500.9,332.5 L491.7,335.4 L488.5,338.0 L485.4,338.9 L484.3,342.0 L482.2,342.8 L475.6,340.3 L470.4,334.8 L466.7,336.2 L462.2,334.1 L460.5,330.1 L455.9,330.2 L455.7,333.4 L453.5,336.3 L449.8,335.6 L444.7,348.0 L440.4,348.4 L439.2,350.3 L440.4,354.9 L436.7,359.5 L437.0,361.6 L434.2,365.0 L430.4,367.1 L424.0,367.5 L418.8,366.3 L414.6,363.5 L409.7,362.1 L411.4,358.3 L411.4,354.5 L414.9,349.2 L414.8,345.8 L410.9,345.6 L407.7,346.6 L405.0,346.1 L405.3,344.1 L403.1,342.1 L403.2,340.0 L399.5,339.3 L397.9,337.4 L393.9,337.1 L395.4,330.3 L396.0,324.7 L398.7,319.5 L396.8,315.7 L401.0,312.5 L402.6,301.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.MB</hasc>
+    <alt-name>M'Bomou</alt-name>
+    <woe-id>2345096</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT08</fips>
+    <postal-code>MB</postal-code>
+    <name>Mbomou</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>23.4601</longitude>
+    <woe-name>Mbomou</woe-name>
+    <latitude>5.48563</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>cf-mb</hc-key>
+    <hc-a2>MB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.BG" d="M225.0,354.4 L222.9,355.3 L221.9,357.8 L219.5,353.4 L221.0,351.0 L223.2,350.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.BG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345105</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT18</fips>
+    <postal-code>BG</postal-code>
+    <name>Bangui</name>
+    <country>Central African Republic</country>
+    <type-en>Autonomous Commune</type-en>
+    <region>NULL</region>
+    <longitude>18.5457</longitude>
+    <woe-name>Bangui</woe-name>
+    <latitude>4.38332</latitude>
+    <woe-label>Bangui, CF, Central African Republic</woe-label>
+    <type>Commune Autonome</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>cf-bg</hc-key>
+    <hc-a2>BG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.MP" d="M221.9,357.8 L223.8,360.0 L226.3,365.2 L227.7,371.8 L227.6,375.2 L225.8,381.4 L219.3,378.5 L215.6,375.1 L211.1,368.8 L211.4,362.2 L209.4,358.0 L203.2,354.9 L200.1,350.2 L196.5,350.5 L190.4,348.5 L187.2,349.7 L184.8,349.1 L183.0,346.6 L180.4,345.5 L174.4,346.7 L170.8,345.5 L168.5,342.4 L166.8,335.1 L164.4,331.5 L156.6,327.1 L151.3,322.1 L145.9,318.4 L141.5,319.0 L139.3,315.9 L145.9,311.5 L141.4,304.9 L135.2,300.5 L127.4,301.1 L125.1,299.7 L122.0,300.7 L114.1,305.4 L112.6,298.0 L113.6,289.7 L118.3,286.9 L126.3,278.5 L138.7,274.3 L138.7,277.8 L140.9,281.4 L145.1,282.1 L171.0,281.9 L173.1,281.2 L183.5,275.5 L187.8,272.5 L193.3,274.9 L194.8,277.7 L197.9,277.2 L199.9,278.2 L207.1,278.0 L208.3,280.6 L211.5,280.2 L214.7,281.2 L213.3,284.0 L216.0,290.5 L225.0,286.3 L227.4,281.6 L230.2,285.0 L239.1,286.8 L240.8,293.4 L245.8,297.8 L248.2,303.0 L246.3,309.6 L246.8,312.1 L251.7,318.9 L252.5,324.5 L250.5,326.6 L247.4,333.4 L237.5,344.3 L234.8,351.1 L231.8,354.1 L227.1,355.2 L225.0,354.4 L223.2,350.8 L221.0,351.0 L219.5,353.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.MP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345104</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT17</fips>
+    <postal-code>MP</postal-code>
+    <name>Ombella-M'Poko</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>17.802</longitude>
+    <woe-name>Ombella-M'Poko</woe-name>
+    <latitude>5.17659</latitude>
+    <woe-label>Ombella-M'Poko, CF, Central African Republic</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>cf-mp</hc-key>
+    <hc-a2>MP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.LB" d="M141.5,319.0 L145.9,318.4 L151.3,322.1 L156.6,327.1 L164.4,331.5 L166.8,335.1 L168.5,342.4 L170.8,345.5 L174.4,346.7 L180.4,345.5 L183.0,346.6 L184.8,349.1 L187.2,349.7 L190.4,348.5 L196.5,350.5 L200.1,350.2 L203.2,354.9 L209.4,358.0 L211.4,362.2 L211.1,368.8 L215.6,375.1 L219.3,378.5 L225.8,381.4 L224.8,389.7 L226.5,402.2 L224.2,402.2 L220.5,396.0 L218.3,393.9 L216.0,395.6 L212.0,396.6 L206.2,396.9 L203.8,401.6 L201.5,402.0 L200.1,399.0 L197.3,397.5 L191.9,398.8 L188.8,397.5 L184.4,398.7 L182.6,395.0 L178.9,393.9 L172.8,394.0 L168.7,392.9 L165.0,389.8 L161.4,390.9 L157.3,384.6 L151.0,381.1 L143.8,379.0 L141.0,377.1 L137.9,376.8 L135.6,375.1 L130.1,366.0 L125.1,360.7 L127.6,355.6 L132.2,351.0 L134.0,351.3 L139.4,355.4 L143.0,354.4 L140.5,352.7 L138.5,348.1 L135.8,346.3 L131.5,338.3 L130.3,334.3 L130.3,327.3 L140.4,322.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.LB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345095</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT07</fips>
+    <postal-code>LB</postal-code>
+    <name>Lobaye</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>17.6819</longitude>
+    <woe-name>Lobaye</woe-name>
+    <latitude>4.07603</latitude>
+    <woe-label>Lobaye, CF, Central African Republic</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>cf-lb</hc-key>
+    <hc-a2>LB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.HS" d="M141.5,319.0 L140.4,322.2 L130.3,327.3 L130.3,334.3 L131.5,338.3 L135.8,346.3 L138.5,348.1 L140.5,352.7 L143.0,354.4 L139.4,355.4 L134.0,351.3 L132.2,351.0 L127.6,355.6 L125.1,360.7 L122.0,359.9 L118.7,364.1 L117.6,367.0 L116.9,373.8 L108.6,382.5 L105.4,379.6 L101.5,379.3 L96.7,376.5 L89.9,374.1 L79.3,375.2 L70.9,378.5 L63.9,382.8 L61.7,386.7 L58.2,387.1 L56.1,385.1 L45.5,391.5 L40.6,386.2 L36.0,379.4 L32.8,371.8 L36.4,372.4 L41.8,370.5 L38.6,367.4 L36.4,366.7 L35.5,359.0 L31.6,351.6 L28.3,349.8 L19.8,343.8 L16.4,339.7 L15.1,332.1 L15.7,329.3 L13.6,318.7 L23.5,319.8 L29.6,319.5 L32.8,322.6 L36.5,320.0 L39.3,319.5 L54.5,319.4 L58.7,316.9 L61.8,318.5 L69.1,318.7 L67.8,311.1 L70.8,307.2 L73.4,307.5 L74.3,313.7 L76.8,315.8 L81.9,313.8 L84.8,316.1 L88.9,315.6 L114.1,305.4 L122.0,300.7 L125.1,299.7 L127.4,301.1 L135.2,300.5 L141.4,304.9 L145.9,311.5 L139.3,315.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.HS</hasc>
+    <alt-name>Haute-Sangha|Mambéré Kadéi</alt-name>
+    <woe-id>2345092</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT04</fips>
+    <postal-code>HS</postal-code>
+    <name>Mambéré-Kadéï</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>15.8888</longitude>
+    <woe-name>Mambéré-Kadéï</woe-name>
+    <latitude>4.5324</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>cf-hs</hc-key>
+    <hc-a2>HS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.OP" d="M28.6,228.8 L30.8,226.1 L35.2,223.3 L41.0,208.8 L43.3,206.8 L43.1,203.7 L45.2,198.9 L51.4,194.9 L54.9,191.5 L55.9,188.8 L59.2,184.2 L63.0,185.0 L69.3,184.7 L72.0,187.3 L75.9,187.9 L83.0,186.4 L85.7,185.0 L88.4,181.8 L98.2,179.8 L102.2,177.4 L106.9,176.8 L109.0,170.2 L111.6,170.0 L112.6,168.1 L116.6,166.3 L116.6,170.3 L119.5,172.4 L120.5,177.1 L125.0,179.4 L128.9,184.0 L130.6,183.6 L131.4,189.4 L128.7,195.1 L127.2,203.1 L127.5,208.1 L124.2,210.9 L123.1,213.7 L125.5,219.7 L125.4,223.5 L127.4,233.7 L131.9,239.9 L135.7,242.4 L137.7,241.0 L142.2,240.6 L145.1,242.3 L145.3,244.7 L141.0,247.9 L140.6,250.3 L137.9,250.4 L136.7,256.2 L137.3,259.7 L134.9,261.0 L136.2,269.0 L138.7,274.3 L126.3,278.5 L118.3,286.9 L113.6,289.7 L109.5,283.0 L103.0,278.0 L100.5,275.0 L99.5,272.0 L96.6,271.4 L95.1,274.6 L91.7,277.2 L86.1,277.1 L76.7,270.2 L75.2,263.9 L74.9,258.0 L70.5,251.2 L74.8,245.5 L73.0,243.7 L66.5,246.3 L61.7,249.3 L58.4,248.4 L55.4,249.8 L51.5,245.4 L50.4,243.0 L48.9,234.8 L43.5,229.1 L42.3,225.3 L33.3,228.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.OP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345100</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT13</fips>
+    <postal-code>OP</postal-code>
+    <name>Ouham-Pendé</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>16.0108</longitude>
+    <woe-name>Ouham-Pendé</woe-name>
+    <latitude>6.67901</latitude>
+    <woe-label>Ouham-Pendé, CF, Central African Republic</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>cf-op</hc-key>
+    <hc-a2>OP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.SE" d="M125.1,360.7 L130.1,366.0 L135.6,375.1 L137.9,376.8 L141.0,377.1 L143.8,379.0 L151.0,381.1 L157.3,384.6 L161.4,390.9 L157.1,394.4 L153.1,394.0 L150.6,395.9 L142.4,397.1 L137.4,398.9 L136.0,397.8 L131.2,397.4 L128.9,399.5 L124.5,398.3 L119.7,399.1 L115.8,402.5 L112.7,415.2 L110.2,419.0 L111.5,423.7 L109.1,429.6 L110.9,436.1 L95.5,468.2 L92.1,461.3 L89.8,453.5 L91.0,449.5 L89.9,445.4 L91.0,443.3 L88.4,443.2 L88.2,438.7 L90.0,434.6 L86.5,428.4 L84.1,428.5 L82.4,424.0 L80.4,422.0 L73.5,421.4 L45.5,391.5 L56.1,385.1 L58.2,387.1 L61.7,386.7 L63.9,382.8 L70.9,378.5 L79.3,375.2 L89.9,374.1 L96.7,376.5 L101.5,379.3 L105.4,379.6 L108.6,382.5 L116.9,373.8 L117.6,367.0 L118.7,364.1 L122.0,359.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.SE</hasc>
+    <alt-name>Sangha|Sangha-Économique|Sangha M'baéré</alt-name>
+    <woe-id>2345103</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT16</fips>
+    <postal-code>SE</postal-code>
+    <name>Sangha-Mbaéré</name>
+    <country>Central African Republic</country>
+    <type-en>Economic Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>16.3383</longitude>
+    <woe-name>Sangha-Mbaéré</woe-name>
+    <latitude>3.21418</latitude>
+    <woe-label>Sangha-Mbaéré, CF, Central African Republic</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>cf-se</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.NM" d="M113.6,289.7 L112.6,298.0 L114.1,305.4 L88.9,315.6 L84.8,316.1 L81.9,313.8 L76.8,315.8 L74.3,313.7 L73.4,307.5 L70.8,307.2 L67.8,311.1 L69.1,318.7 L61.8,318.5 L58.7,316.9 L54.5,319.4 L39.3,319.5 L36.5,320.0 L32.8,322.6 L29.6,319.5 L23.5,319.8 L13.6,318.7 L13.8,311.7 L11.7,307.2 L7.2,305.2 L6.1,303.6 L10.4,297.2 L11.6,291.0 L10.3,285.7 L12.4,279.6 L11.7,272.8 L10.0,269.6 L4.5,270.3 L0.0,264.3 L1.8,260.7 L7.5,255.2 L9.7,255.3 L17.5,251.7 L20.9,247.5 L22.3,242.6 L28.6,228.8 L33.3,228.7 L42.3,225.3 L43.5,229.1 L48.9,234.8 L50.4,243.0 L51.5,245.4 L55.4,249.8 L58.4,248.4 L61.7,249.3 L66.5,246.3 L73.0,243.7 L74.8,245.5 L70.5,251.2 L74.9,258.0 L75.2,263.9 L76.7,270.2 L86.1,277.1 L91.7,277.2 L95.1,274.6 L96.6,271.4 L99.5,272.0 L100.5,275.0 L103.0,278.0 L109.5,283.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.NM</hasc>
+    <alt-name>Bouar-Baboua|Buar-Baboua|Nana Nambéré</alt-name>
+    <woe-id>2345097</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT09</fips>
+    <postal-code>NM</postal-code>
+    <name>Nana-Mambéré</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>15.4564</longitude>
+    <woe-name>Nana-Mambéré</woe-name>
+    <latitude>5.67426</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>cf-nm</hc-key>
+    <hc-a2>NM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.KG" d="M292.9,317.7 L291.8,316.2 L285.4,313.6 L279.3,313.5 L277.4,312.6 L274.6,313.6 L268.8,313.9 L266.9,316.2 L259.5,320.3 L257.3,323.5 L252.5,324.5 L251.7,318.9 L246.8,312.1 L246.3,309.6 L248.2,303.0 L245.8,297.8 L240.8,293.4 L239.1,286.8 L230.2,285.0 L227.4,281.6 L226.3,274.1 L227.0,267.2 L233.6,263.8 L242.2,256.2 L239.9,254.4 L239.8,249.0 L234.2,242.6 L233.8,239.8 L245.9,238.3 L249.1,238.6 L251.0,241.7 L255.2,243.8 L263.4,242.9 L272.2,240.8 L275.7,240.6 L286.9,242.0 L287.4,245.0 L292.6,248.1 L293.7,250.2 L292.5,253.9 L293.1,256.7 L291.9,261.0 L289.3,264.9 L285.4,265.6 L279.7,270.8 L278.9,272.5 L280.2,277.4 L279.9,280.1 L282.1,280.7 L281.8,285.7 L276.9,289.7 L272.6,290.9 L274.9,294.7 L297.6,294.9 L301.3,296.0 L298.5,302.4 L297.8,310.1 L296.9,313.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.KG</hasc>
+    <alt-name>Kémo-Gribingui|Kémo-Ibingui</alt-name>
+    <woe-id>2345094</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT06</fips>
+    <postal-code>KG</postal-code>
+    <name>Kémo</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>19.3143</longitude>
+    <woe-name>Kémo</woe-name>
+    <latitude>5.75536</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>cf-kg</hc-key>
+    <hc-a2>KG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.KB" d="M286.9,242.0 L275.7,240.6 L272.2,240.8 L263.4,242.9 L255.2,243.8 L251.0,241.7 L249.1,238.6 L245.9,238.3 L233.8,239.8 L235.9,235.2 L239.6,233.2 L239.4,230.3 L233.9,227.1 L234.1,223.9 L232.4,223.0 L231.1,219.3 L228.8,216.3 L233.3,209.8 L231.9,208.1 L234.8,205.3 L235.2,202.9 L238.7,199.7 L233.1,183.2 L236.3,179.2 L247.6,173.6 L246.4,172.4 L246.8,165.3 L249.0,163.6 L249.0,159.7 L250.4,156.8 L250.6,148.1 L248.5,146.5 L250.5,139.1 L251.4,138.4 L250.8,133.7 L251.1,129.2 L252.4,130.4 L253.2,134.3 L255.8,138.7 L259.4,142.0 L260.1,145.5 L265.6,151.3 L266.6,153.5 L266.4,157.0 L267.7,157.8 L265.8,159.8 L265.1,163.4 L266.2,165.9 L264.5,166.7 L266.2,168.9 L264.5,170.4 L266.4,173.5 L268.0,172.5 L269.8,174.3 L274.0,174.4 L279.0,178.8 L278.1,182.6 L286.3,184.7 L287.8,186.7 L288.1,190.0 L290.2,190.6 L290.9,192.8 L294.6,195.1 L296.5,200.8 L301.6,203.4 L304.7,206.6 L309.0,208.8 L308.6,213.7 L306.7,219.3 L302.3,225.1 L296.4,230.5 L293.7,234.0 L293.1,236.4 L293.9,243.5 L290.7,242.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.KB</hasc>
+    <alt-name>Nana-Gribingui|Gribingui|Gribingui-Économique|Ibingui|Nana Gribizi</alt-name>
+    <woe-id>2345102</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT15</fips>
+    <postal-code>KB</postal-code>
+    <name>Nana-Grébizi</name>
+    <country>Central African Republic</country>
+    <type-en>Economic Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>19.4051</longitude>
+    <woe-name>Nana-Grébizi</woe-name>
+    <latitude>7.11882</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
+    <hc-key>cf-kb</hc-key>
+    <hc-a2>KB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.BK" d="M389.6,291.6 L394.1,292.1 L402.3,295.6 L402.6,301.5 L401.0,312.5 L396.8,315.7 L398.7,319.5 L396.0,324.7 L395.4,330.3 L393.9,337.1 L397.9,337.4 L399.5,339.3 L403.2,340.0 L403.1,342.1 L405.3,344.1 L405.0,346.1 L407.7,346.6 L410.9,345.6 L414.8,345.8 L414.9,349.2 L411.4,354.5 L411.4,358.3 L409.7,362.1 L400.6,361.5 L398.0,359.8 L392.8,358.6 L388.1,358.7 L382.9,361.3 L378.8,359.9 L373.3,359.1 L370.1,356.8 L365.4,358.8 L360.2,356.2 L358.6,353.7 L352.1,351.2 L347.2,350.2 L342.9,351.6 L332.8,352.5 L330.4,351.5 L324.9,346.3 L329.8,343.8 L334.0,339.9 L337.9,335.1 L343.0,332.1 L347.8,331.6 L348.9,329.9 L348.6,323.5 L350.6,320.2 L349.0,313.7 L351.8,308.6 L351.8,300.8 L353.3,298.7 L353.1,295.5 L350.8,293.0 L355.4,291.4 L355.2,288.9 L357.1,285.9 L356.0,282.7 L359.1,283.7 L361.0,286.0 L364.2,285.3 L366.5,286.2 L369.8,284.9 L371.9,282.8 L373.9,283.7 L375.0,282.1 L379.9,287.3 L380.1,290.2 L381.8,293.7 L384.2,295.8 L388.0,294.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.BK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345090</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT02</fips>
+    <postal-code>BK</postal-code>
+    <name>Basse-Kotto</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>21.3019</longitude>
+    <woe-name>Basse-Kotto</woe-name>
+    <latitude>5.00365</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.67</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>cf-bk</hc-key>
+    <hc-a2>BK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.UK" d="M389.6,291.6 L388.0,294.7 L384.2,295.8 L381.8,293.7 L380.1,290.2 L379.9,287.3 L375.0,282.1 L373.9,283.7 L371.9,282.8 L369.8,284.9 L366.5,286.2 L364.2,285.3 L361.0,286.0 L359.1,283.7 L356.0,282.7 L357.1,285.9 L355.2,288.9 L355.4,291.4 L350.8,293.0 L353.1,295.5 L353.3,298.7 L351.8,300.8 L351.8,308.6 L349.0,313.7 L350.6,320.2 L348.6,323.5 L348.9,329.9 L347.8,331.6 L343.0,332.1 L337.9,335.1 L334.0,339.9 L329.8,343.8 L324.9,346.3 L325.3,342.3 L321.6,338.2 L318.6,333.1 L314.1,331.8 L309.7,327.4 L305.1,325.4 L300.7,322.3 L294.6,320.8 L292.9,317.7 L296.9,313.8 L297.8,310.1 L298.5,302.4 L301.3,296.0 L297.6,294.9 L274.9,294.7 L272.6,290.9 L276.9,289.7 L281.8,285.7 L282.1,280.7 L279.9,280.1 L280.2,277.4 L278.9,272.5 L279.7,270.8 L285.4,265.6 L289.3,264.9 L291.9,261.0 L293.1,256.7 L292.5,253.9 L293.7,250.2 L292.6,248.1 L287.4,245.0 L286.9,242.0 L290.7,242.0 L293.9,243.5 L293.1,236.4 L293.7,234.0 L296.4,230.5 L302.3,225.1 L306.7,219.3 L308.6,213.7 L309.0,208.8 L313.5,212.2 L325.4,212.6 L328.0,210.6 L331.2,210.1 L334.5,207.4 L338.0,200.9 L343.1,201.7 L347.5,199.6 L355.1,189.5 L358.2,186.6 L357.3,182.3 L361.0,176.5 L367.2,181.5 L370.9,182.3 L374.6,185.0 L376.7,189.6 L376.1,195.2 L377.9,197.7 L382.4,197.6 L385.1,199.5 L385.0,204.6 L386.4,213.9 L388.0,215.7 L388.9,220.4 L388.5,223.8 L386.6,226.2 L389.7,232.9 L392.0,236.0 L396.4,237.8 L395.8,241.1 L397.3,249.3 L393.8,256.0 L396.4,258.5 L398.1,264.5 L401.8,266.4 L404.4,272.2 L404.2,277.4 L402.4,284.5 L400.0,287.7 L395.4,284.8 L390.1,289.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.UK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345098</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT11</fips>
+    <postal-code>UK</postal-code>
+    <name>Ouaka</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>20.7064</longitude>
+    <woe-name>Ouaka</woe-name>
+    <latitude>5.99454</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>cf-uk</hc-key>
+    <hc-a2>UK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.AC" d="M251.1,129.2 L250.8,133.7 L251.4,138.4 L250.5,139.1 L248.5,146.5 L250.6,148.1 L250.4,156.8 L249.0,159.7 L249.0,163.6 L246.8,165.3 L246.4,172.4 L247.6,173.6 L236.3,179.2 L233.1,183.2 L238.7,199.7 L235.2,202.9 L234.8,205.3 L231.9,208.1 L233.3,209.8 L228.8,216.3 L231.1,219.3 L232.4,223.0 L234.1,223.9 L233.9,227.1 L239.4,230.3 L239.6,233.2 L235.9,235.2 L233.8,239.8 L234.2,242.6 L239.8,249.0 L239.9,254.4 L242.2,256.2 L233.6,263.8 L227.0,267.2 L226.3,274.1 L227.4,281.6 L225.0,286.3 L216.0,290.5 L213.3,284.0 L214.7,281.2 L211.5,280.2 L208.3,280.6 L207.1,278.0 L199.9,278.2 L197.9,277.2 L194.8,277.7 L193.3,274.9 L187.8,272.5 L183.5,275.5 L173.1,281.2 L171.0,281.9 L145.1,282.1 L140.9,281.4 L138.7,277.8 L138.7,274.3 L136.2,269.0 L134.9,261.0 L137.3,259.7 L136.7,256.2 L137.9,250.4 L140.6,250.3 L141.0,247.9 L145.3,244.7 L145.1,242.3 L142.2,240.6 L137.7,241.0 L135.7,242.4 L131.9,239.9 L127.4,233.7 L125.4,223.5 L125.5,219.7 L123.1,213.7 L124.2,210.9 L127.5,208.1 L127.2,203.1 L128.7,195.1 L131.4,189.4 L130.6,183.6 L132.8,182.2 L134.2,179.2 L142.7,177.7 L143.8,175.9 L146.8,176.4 L154.1,169.2 L161.3,166.7 L163.1,165.2 L165.6,166.0 L167.6,163.8 L172.8,162.5 L173.9,161.0 L177.0,160.7 L184.4,162.0 L188.7,161.7 L197.9,159.0 L221.3,158.6 L225.6,157.7 L227.2,152.8 L230.1,149.2 L237.6,145.5 L242.3,139.5 L243.4,137.2 L248.7,131.2 L251.5,126.6 L251.0,128.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.AC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345099</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT12</fips>
+    <postal-code>AC</postal-code>
+    <name>Ouham</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>17.8774</longitude>
+    <woe-name>Ouham</woe-name>
+    <latitude>6.92835</latitude>
+    <woe-label>Ouham, CF, Central African Republic</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>cf-ac</hc-key>
+    <hc-a2>AC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF.BB" d="M251.1,129.2 L251.0,128.3 L251.5,126.6 L254.3,124.3 L250.3,120.5 L243.9,117.7 L240.8,114.1 L242.0,112.3 L247.7,108.5 L253.1,106.1 L256.7,106.8 L261.7,105.4 L267.4,106.9 L281.8,106.3 L290.6,104.3 L295.0,104.6 L300.5,102.6 L306.8,99.0 L308.2,100.6 L312.8,99.5 L314.6,100.9 L320.0,100.9 L324.0,99.7 L328.2,95.2 L327.3,92.7 L329.7,89.9 L336.4,91.0 L335.7,88.8 L341.2,87.0 L344.2,84.8 L348.6,86.7 L350.8,83.9 L353.8,83.0 L355.7,80.1 L359.7,77.7 L367.5,76.0 L373.0,70.2 L376.9,67.8 L378.0,66.0 L380.3,66.3 L382.1,75.2 L386.8,75.6 L391.3,80.4 L394.9,85.2 L396.1,90.3 L399.8,97.6 L407.0,103.2 L408.8,106.6 L411.8,108.7 L413.3,117.6 L414.5,119.9 L418.5,122.8 L426.4,124.5 L428.1,125.7 L428.1,128.8 L425.9,130.2 L415.5,129.2 L411.3,127.5 L407.5,128.2 L405.2,131.5 L405.1,133.8 L407.2,140.1 L405.4,144.2 L406.8,148.1 L400.9,149.9 L395.2,143.1 L393.5,143.0 L387.5,145.5 L385.9,147.8 L382.1,146.9 L375.0,151.9 L376.4,159.6 L374.0,160.3 L362.2,161.4 L361.1,162.8 L359.7,169.2 L361.0,176.5 L357.3,182.3 L358.2,186.6 L355.1,189.5 L347.5,199.6 L343.1,201.7 L338.0,200.9 L334.5,207.4 L331.2,210.1 L328.0,210.6 L325.4,212.6 L313.5,212.2 L309.0,208.8 L304.7,206.6 L301.6,203.4 L296.5,200.8 L294.6,195.1 L290.9,192.8 L290.2,190.6 L288.1,190.0 L287.8,186.7 L286.3,184.7 L278.1,182.6 L279.0,178.8 L274.0,174.4 L269.8,174.3 L268.0,172.5 L266.4,173.5 L264.5,170.4 L266.2,168.9 L264.5,166.7 L266.2,165.9 L265.1,163.4 L265.8,159.8 L267.7,157.8 L266.4,157.0 L266.6,153.5 L265.6,151.3 L260.1,145.5 L259.4,142.0 L255.8,138.7 L253.2,134.3 L252.4,130.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>CF.BB</hasc>
+    <alt-name>Bamingui-Bangora|N'Délé|Ndélé</alt-name>
+    <woe-id>2345089</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CT01</fips>
+    <postal-code>BB</postal-code>
+    <name>Bamingui-Bangoran</name>
+    <country>Central African Republic</country>
+    <type-en>Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>20.6318</longitude>
+    <woe-name>Bamingui-Bangoran</woe-name>
+    <latitude>8.212719999999999</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>cf-bb</hc-key>
+    <hc-a2>BB</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

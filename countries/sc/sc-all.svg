@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Seychelles</title>
+<g id="admin1">
+
+<g id="SC">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Seychelles</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Syc.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SYC</iso-a3>
+    <iso-a2>SC</iso-a2>
+    <woe-id>23424941</woe-id>
+    <continent>Seven seas (open ocean)</continent>
+    <hc-key>sc</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6700" d="M354.8,344.1 L354.6,346.4 L346.1,343.5 L340.1,338.0 L342.2,335.6 L347.1,335.6 L358.4,336.3 L361.5,336.6 L360.5,339.9 L354.0,339.9 Z M319.8,347.8 L324.9,345.9 L329.6,345.1 L334.8,344.9 L344.7,353.8 L354.1,357.7 L364.1,359.5 L369.6,366.1 L376.5,363.0 L385.3,364.3 L392.2,372.7 L381.0,373.2 L379.1,378.9 L379.0,386.3 L364.8,378.4 L360.3,371.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549888</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Baie Sainte Anne</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.76</longitude>
+    <woe-name>Baie Ste. Anne</woe-name>
+    <latitude>-4.32918</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.73</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>sc-6700</hc-key>
+    <hc-a2>BS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6707" d="M297.9,388.6 L295.8,388.6 L292.7,385.8 L295.0,384.0 L296.3,385.3 Z M307.9,375.2 L304.3,375.7 L304.1,372.7 L306.1,371.1 L308.4,371.9 Z M314.5,290.9 L312.2,292.7 L307.0,292.2 L303.4,291.5 L304.2,289.7 L308.6,289.4 L311.1,289.9 Z M379.0,386.3 L372.8,391.9 L364.2,391.7 L354.5,387.7 L348.0,381.0 L344.0,372.4 L334.6,370.9 L326.2,369.8 L321.1,364.7 L320.5,359.6 L315.9,349.2 L319.8,347.8 L360.3,371.7 L364.8,378.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549889</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Grand'Anse Praslin</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.7435</longitude>
+    <woe-name>Grand Anse Praslin</woe-name>
+    <latitude>-4.34469</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-y>0.96</hc-middle-y>
+    <hc-key>sc-6707</hc-key>
+    <hc-a2>GP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6708" d="M505.6,552.4 L501.9,553.6 L497.9,553.3 L493.7,549.1 L493.3,546.5 L495.6,544.8 L498.6,543.9 L501.5,544.8 L505.0,549.3 Z M27.0,490.5 L14.3,493.3 L4.6,481.9 L0.0,465.3 L2.7,452.4 L14.3,456.2 L26.7,464.9 L33.2,476.7 Z M431.8,402.8 L430.0,408.7 L425.1,407.4 L418.9,401.3 L417.3,392.8 L420.9,384.3 L423.2,377.4 L431.7,380.9 L436.4,389.7 L440.8,396.3 L436.2,398.7 Z M486.9,381.1 L486.2,385.7 L483.6,384.5 L482.8,379.3 L484.4,374.9 L487.7,377.0 Z M459.9,376.8 L455.7,377.8 L452.1,374.0 L447.5,367.6 L448.7,363.4 L452.1,364.2 L458.8,371.4 Z M452.3,348.8 L449.8,349.0 L447.2,343.7 L447.2,339.8 L449.5,340.1 L450.3,344.4 Z M303.2,0.0 L307.5,14.3 L302.4,14.2 L297.8,7.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>La Digue and Inner Islands</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.8393</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-4.35949</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.03</hc-middle-x>
+    <hc-middle-y>0.85</hc-middle-y>
+    <hc-key>sc-6708</hc-key>
+    <hc-a2>LD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6711" d="M191.5,578.6 L193.3,579.9 L194.6,579.1 L196.3,579.7 L198.2,584.7 L197.5,586.6 L195.3,586.8 L192.5,585.8 L190.4,583.9 L187.9,582.9 L187.7,579.9 L189.1,578.5 Z M202.4,578.0 L201.1,579.6 L199.3,578.8 L197.0,577.3 L195.8,575.5 L196.4,574.0 L197.4,574.2 L199.1,575.7 L201.4,576.3 Z M196.0,558.1 L199.3,558.8 L202.1,558.8 L203.4,559.6 L202.1,562.4 L199.9,565.4 L195.3,567.2 L192.5,569.2 L191.2,569.4 L190.9,567.4 L191.6,563.7 L191.2,561.3 L192.0,559.8 L193.0,559.0 Z M168.8,591.8 L162.4,581.5 L166.1,580.0 L166.1,577.0 L168.8,576.8 L173.9,583.4 L170.7,588.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549882</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mont Fleuri</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4633</longitude>
+    <woe-name>Mont Fleuri</woe-name>
+    <latitude>-4.63449</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.82</hc-middle-x>
+    <hc-middle-y>0.13</hc-middle-y>
+    <hc-key>sc-6711</hc-key>
+    <hc-a2>MF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6714" d="M127.9,614.6 L127.0,614.8 L124.2,611.7 L122.5,610.1 L122.6,608.7 L121.7,607.5 L122.2,606.7 L123.5,606.8 L125.0,607.4 L127.5,608.9 L128.9,611.2 L128.3,613.3 Z M106.0,605.3 L105.4,606.3 L103.2,605.4 L99.8,604.9 L97.8,603.4 L96.8,601.8 L98.3,600.4 L100.7,601.3 L103.7,603.6 Z M165.2,599.1 L162.5,604.3 L156.7,605.2 L156.4,609.4 L158.8,610.3 L158.2,613.1 L148.7,612.1 L136.7,605.0 L130.5,601.3 L125.3,601.2 L120.3,599.4 L120.6,596.6 L124.2,595.9 L122.4,593.8 L116.9,592.1 L110.0,593.6 L104.2,591.8 L100.3,588.9 L101.4,586.5 L106.7,587.0 L108.6,585.5 L106.6,582.0 L110.6,578.2 L130.2,588.0 L137.8,584.6 L136.5,579.4 L146.0,575.8 L148.4,580.3 L152.7,584.3 L155.4,594.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549876</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Port Glaud</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4262</longitude>
+    <woe-name>Port Glaud</woe-name>
+    <latitude>-4.65351</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.70</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>sc-6714</hc-key>
+    <hc-a2>PG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6702" d="M164.9,571.8 L166.9,574.8 L163.8,575.9 L163.4,577.1 L166.1,577.0 L166.1,580.0 L162.4,581.5 L168.8,591.8 L165.2,599.1 L155.4,594.3 L152.7,584.3 L148.4,580.3 L156.9,573.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549883</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Bel Air</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4483</longitude>
+    <woe-name>Bel Air</woe-name>
+    <latitude>-4.63198</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.30</hc-middle-y>
+    <hc-key>sc-6702</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6703" d="M110.6,578.2 L116.1,572.9 L120.4,571.1 L128.8,570.4 L134.1,568.2 L135.9,570.3 L142.0,568.2 L146.0,575.8 L136.5,579.4 L137.8,584.6 L130.2,588.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549890</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Bel Ombre</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4092</longitude>
+    <woe-name>Belombre</woe-name>
+    <latitude>-4.62448</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.19</hc-middle-y>
+    <hc-key>sc-6703</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6704" d="M188.0,594.8 L191.9,597.5 L203.0,604.9 L197.9,612.7 L196.3,615.1 L193.7,614.2 L190.2,613.0 L181.5,602.3 L186.2,599.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549871</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Cascade</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4988</longitude>
+    <woe-name>Cascade</woe-name>
+    <latitude>-4.66702</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.87</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>sc-6704</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6705" d="M146.7,550.3 L147.9,545.1 L147.4,533.4 L152.2,532.0 L157.0,532.4 L162.1,533.2 L168.3,539.5 L165.1,543.0 L156.5,541.5 L152.3,550.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549878</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Glacis</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4433</longitude>
+    <woe-name>Glacis</woe-name>
+    <latitude>-4.56942</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.21</hc-middle-x>
+    <hc-middle-y>0.14</hc-middle-y>
+    <hc-key>sc-6705</hc-key>
+    <hc-a2>GL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6706" d="M181.5,602.3 L190.2,613.0 L187.8,620.3 L180.2,626.4 L178.3,632.8 L171.5,632.1 L164.7,622.1 L158.2,613.1 L158.8,610.3 L156.4,609.4 L156.7,605.2 L162.5,604.3 L165.2,599.1 L179.5,609.1 L177.9,604.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549875</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Grand'Anse</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4738</longitude>
+    <woe-name>Grand Anse Mahe</woe-name>
+    <latitude>-4.68654</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>sc-6706</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6709" d="M165.6,558.3 L165.6,563.7 L164.9,571.8 L156.9,573.6 L157.8,568.2 L152.3,562.4 L161.8,557.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549885</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>English River</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4533</longitude>
+    <woe-name>English River</woe-name>
+    <latitude>-4.60746</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sc-6709</hc-key>
+    <hc-a2>ER</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6710" d="M152.3,562.4 L157.8,568.2 L156.9,573.6 L150.8,569.7 L149.0,565.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549887</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mont Buxton</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4428</longitude>
+    <woe-name>Mont Buxton</woe-name>
+    <latitude>-4.61246</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>sc-6710</hc-key>
+    <hc-a2>MB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6712" d="M177.9,604.3 L179.5,609.1 L165.2,599.1 L168.8,591.8 L170.7,588.2 L173.9,583.4 L176.6,586.8 L176.1,592.1 L176.8,595.7 L175.5,597.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549881</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Plaisance</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4693</longitude>
+    <woe-name>Plaisance</woe-name>
+    <latitude>-4.65451</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
+    <hc-key>sc-6712</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6713" d="M197.9,612.7 L203.0,604.9 L204.9,606.2 L213.3,614.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549873</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Pointe La Rue</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.5163</longitude>
+    <woe-name>Pointe Larue</woe-name>
+    <latitude>-4.67403</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.79</hc-middle-y>
+    <hc-key>sc-6713</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6715" d="M156.9,573.6 L148.4,580.3 L146.0,575.8 L150.8,569.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549886</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Louis</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4388</longitude>
+    <woe-name>Saint Louis</woe-name>
+    <latitude>-4.62247</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>sc-6715</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6716" d="M211.5,676.7 L212.5,686.2 L217.7,690.3 L220.0,700.0 L207.4,700.0 L196.6,694.5 L189.0,681.2 L200.7,681.9 L200.4,677.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549867</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Takamaka</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.5173</longitude>
+    <woe-name>Takamaka</woe-name>
+    <latitude>-4.79065</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>sc-6716</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6717" d="M186.2,599.7 L181.5,602.3 L177.9,604.3 L175.5,597.3 L176.8,595.7 L176.1,592.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549880</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Les Mamelles</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4808</longitude>
+    <woe-name>Les Mamelles</woe-name>
+    <latitude>-4.65751</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>sc-6717</hc-key>
+    <hc-a2>LM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6718" d="M186.2,599.7 L176.1,592.1 L176.6,586.8 L188.0,594.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549879</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Roche Caïman</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4828</longitude>
+    <woe-name>Roche Caiman</woe-name>
+    <latitude>-4.6495</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.90</hc-middle-x>
+    <hc-middle-y>0.79</hc-middle-y>
+    <hc-key>sc-6718</hc-key>
+    <hc-a2>RC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6694" d="M213.3,614.6 L211.8,620.8 L196.3,615.1 L197.9,612.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549874</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Anse aux Pins</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.5208</longitude>
+    <woe-name>Anse aux Pins</woe-name>
+    <latitude>-4.68304</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.88</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>sc-6694</hc-key>
+    <hc-a2>AA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6695" d="M187.8,653.5 L183.2,647.3 L180.0,643.1 L180.9,637.3 L178.3,632.8 L180.2,626.4 L187.8,620.3 L190.2,613.0 L193.7,614.2 L196.0,632.4 L199.1,642.0 L197.1,655.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549869</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Anse Boileau</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4923</longitude>
+    <woe-name>Anse Boileau</woe-name>
+    <latitude>-4.71357</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.22</hc-middle-x>
+    <hc-middle-y>0.71</hc-middle-y>
+    <hc-key>sc-6695</hc-key>
+    <hc-a2>AB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6696" d="M168.3,539.5 L170.7,547.8 L167.8,550.9 L165.6,558.3 L161.8,557.5 L152.3,562.4 L151.4,556.3 L152.3,550.3 L156.5,541.5 L165.1,543.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549884</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Anse Etoile</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4543</longitude>
+    <woe-name>Anse Etoile</woe-name>
+    <latitude>-4.58794</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.82</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>sc-6696</hc-key>
+    <hc-a2>AE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6697" d="M196.3,615.1 L211.8,620.8 L208.5,633.7 L211.1,637.9 L213.1,653.7 L200.3,645.8 L199.1,642.0 L196.0,632.4 L193.7,614.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549872</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Au Cap</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.5138</longitude>
+    <woe-name>Au Cap</woe-name>
+    <latitude>-4.70356</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sc-6697</hc-key>
+    <hc-a2>AC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6698" d="M213.1,653.7 L207.3,655.4 L205.3,663.1 L211.5,676.7 L200.4,677.6 L197.6,670.6 L196.7,658.2 L197.1,655.3 L199.1,642.0 L200.3,645.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549870</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Anse Royale</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.5118</longitude>
+    <woe-name>Anse Royale</woe-name>
+    <latitude>-4.7456</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.91</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>sc-6698</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6699" d="M197.1,655.3 L196.7,658.2 L197.6,670.6 L200.4,677.6 L200.7,681.9 L189.0,681.2 L187.5,678.7 L184.6,671.3 L178.4,669.0 L173.5,672.3 L168.3,669.7 L171.6,657.1 L183.1,657.1 L187.8,653.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549868</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Baie Lazare</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4918</longitude>
+    <woe-name>Baie Lazare</woe-name>
+    <latitude>-4.75461</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>sc-6699</hc-key>
+    <hc-a2>BL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC.6701" d="M152.3,550.3 L151.4,556.3 L152.3,562.4 L149.0,565.2 L150.8,569.7 L146.0,575.8 L142.0,568.2 L135.9,570.3 L134.1,568.2 L136.3,567.2 L139.5,561.7 L142.2,556.2 L146.0,553.5 L146.7,550.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>SC.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549877</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Beau Vallon</name>
+    <country>Seychelles</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.4317</longitude>
+    <woe-name>Beau Vallon</woe-name>
+    <latitude>-4.60295</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>sc-6701</hc-key>
+    <hc-a2>BV</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

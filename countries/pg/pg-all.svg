@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Papua New Guinea</title>
+<g id="admin1">
+
+<g id="PG">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Papua New Guinea</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>P.N.G.</country-abbrev>
+    <subregion>Melanesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>PNG</iso-a3>
+    <iso-a2>PG</iso-a2>
+    <woe-id>23424926</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>pg</hc-key>
+    <hc-a2>PN</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.4773" d="M560.3,455.3 L559.4,458.1 L557.3,456.9 L558.2,455.3 Z M532.0,433.4 L528.9,434.1 L529.5,432.1 L530.8,432.1 Z M453.7,426.9 L455.5,427.9 L456.2,429.3 L452.8,428.4 Z M112.4,360.7 L110.1,359.4 L112.3,358.4 L113.2,358.9 Z M120.8,354.6 L119.3,355.6 L118.2,354.2 L120.3,352.5 Z M466.8,333.7 L464.7,334.6 L464.9,331.4 L466.2,330.0 L467.2,330.7 Z M130.4,332.2 L128.1,331.5 L129.8,329.3 L131.4,331.4 Z M135.9,330.9 L133.4,328.9 L133.9,327.6 L136.3,328.6 Z M122.3,321.8 L122.0,323.0 L114.8,322.1 L119.7,321.7 Z M300.9,47.1 L302.4,47.8 L298.5,49.5 L300.1,46.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Papua New Guinea</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>152.071</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-4.11092</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.79</hc-middle-x>
+    <hc-middle-y>0.69</hc-middle-y>
+    <hc-key>pg-4773</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.ES" d="M125.9,93.8 L122.3,92.3 L123.0,90.8 L126.3,92.4 Z M151.4,86.8 L150.5,87.6 L148.0,86.1 L149.6,84.9 Z M102.4,98.9 L102.7,92.7 L108.5,93.0 L109.9,93.8 L120.9,95.7 L123.9,97.0 L127.5,101.4 L130.6,102.8 L131.6,102.1 L132.9,104.1 L136.8,105.0 L138.5,107.7 L142.8,109.6 L145.1,112.9 L147.8,113.4 L153.0,113.2 L151.5,114.4 L153.6,115.5 L154.7,114.9 L156.9,116.3 L158.1,113.5 L161.7,113.0 L169.1,113.9 L170.9,116.9 L170.9,120.9 L172.3,122.1 L171.5,144.5 L166.1,153.3 L147.7,167.1 L144.0,167.8 L107.6,170.9 L102.1,172.2 L94.5,171.7 L88.1,169.9 L85.6,168.3 L77.2,168.3 L74.5,167.8 L67.7,167.6 L66.4,154.2 L61.7,151.5 L29.0,151.5 L23.1,150.3 L21.7,146.2 L21.5,138.5 L22.8,135.1 L39.1,124.0 L41.3,123.5 L43.5,125.7 L42.6,127.0 L73.6,126.2 L76.2,125.6 L78.3,120.2 L81.2,118.2 L82.0,114.7 L80.4,109.5 L80.3,102.1 L82.0,98.0 L83.1,96.8 L87.4,95.4 L90.1,96.7 L98.6,100.1 L101.3,100.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.ES</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346591</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP11</fips>
+    <postal-code>ES</postal-code>
+    <name>East Sepik</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>143.391</longitude>
+    <woe-name>East Sepik</woe-name>
+    <latitude>-4.25081</latitude>
+    <woe-label>East Sepik, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>pg-es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.MD" d="M250.3,160.1 L249.6,161.5 L248.0,161.1 L248.0,158.9 L249.4,158.5 Z M236.5,157.0 L235.3,157.3 L233.1,155.7 L232.4,153.9 L233.8,149.5 L236.1,147.1 L238.0,146.9 L240.3,149.2 L240.7,152.7 L239.4,155.5 Z M196.2,124.8 L195.9,128.0 L193.1,127.3 L193.0,125.0 Z M157.0,180.7 L154.0,178.7 L153.0,175.0 L149.6,173.4 L144.7,169.7 L144.0,167.8 L147.7,167.1 L166.1,153.3 L171.5,144.5 L172.3,122.1 L179.2,123.5 L185.6,126.9 L186.0,130.2 L188.9,131.0 L191.6,133.3 L191.6,135.0 L194.1,138.1 L200.2,140.3 L206.0,139.6 L207.8,140.3 L212.5,145.0 L215.6,148.9 L217.0,149.1 L218.7,152.1 L223.8,157.7 L227.8,159.8 L229.4,162.0 L228.4,163.8 L228.2,166.9 L229.4,171.4 L228.8,172.5 L228.2,179.4 L226.5,181.8 L226.5,184.9 L225.6,187.9 L227.1,190.4 L233.6,190.8 L236.8,189.8 L246.2,193.7 L251.4,195.2 L254.3,195.0 L256.4,196.2 L259.5,196.0 L268.6,202.9 L274.7,205.2 L274.9,206.0 L260.4,214.4 L232.1,214.4 L229.8,212.8 L223.0,212.5 L221.0,211.0 L218.0,210.9 L216.3,212.7 L212.2,212.3 L209.5,208.5 L208.1,208.1 L204.3,208.7 L199.7,208.8 L196.3,205.6 L193.7,204.8 L190.2,200.0 L186.3,196.5 L183.7,193.2 L179.1,190.9 L177.0,188.1 L173.5,186.8 L168.9,182.4 L162.2,180.0 L158.6,181.3 Z M295.7,184.7 L294.8,187.9 L290.3,188.8 L284.9,183.8 L285.3,179.6 L290.6,177.1 L294.1,180.1 L294.5,183.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>PG.MD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346592</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP12</fips>
+    <postal-code>MD</postal-code>
+    <name>Madang</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>145.086</longitude>
+    <woe-name>Madang</woe-name>
+    <latitude>-5.08973</latitude>
+    <woe-label>Madang, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>pg-md</hc-key>
+    <hc-a2>MD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.NS" d="M618.5,145.3 L619.9,145.8 L621.4,148.2 L620.8,148.2 Z M644.5,97.9 L644.2,98.7 L642.0,93.6 L638.7,88.5 L635.9,86.8 L639.4,87.8 Z M665.4,211.3 L668.5,212.0 L671.4,215.2 L672.4,215.2 L674.2,217.8 L674.9,220.7 L676.4,223.9 L678.7,226.4 L680.4,225.6 L681.8,227.5 L684.0,227.8 L684.3,226.6 L686.8,230.0 L688.5,230.8 L690.6,233.8 L693.1,234.8 L694.8,238.0 L697.8,242.1 L697.9,245.7 L700.0,251.9 L697.4,255.7 L698.0,252.4 L697.2,252.3 L695.8,255.3 L694.6,254.0 L692.9,254.3 L688.2,258.5 L683.2,257.9 L679.2,256.8 L671.7,252.3 L663.7,243.2 L666.0,238.6 L666.1,234.3 L663.7,230.9 L659.0,229.5 L654.3,226.2 L653.4,223.3 L650.0,220.7 L644.0,214.6 L643.4,211.8 L643.8,209.3 L641.6,206.2 L642.5,203.8 L643.6,198.1 L645.0,196.5 L643.7,193.5 L641.7,191.5 L643.3,190.3 L646.9,193.0 L650.6,196.4 L652.2,195.5 L656.5,195.8 L657.2,197.1 L658.9,196.4 L658.6,197.9 L664.5,206.4 L664.2,208.1 Z M636.3,180.2 L636.4,176.9 L635.5,175.7 L634.2,176.7 L635.6,173.4 L638.5,171.0 L641.0,172.6 L641.6,175.5 L641.3,177.6 L642.9,179.5 L643.1,181.7 L641.8,186.0 L641.2,190.3 L639.7,190.1 L638.6,191.8 L635.9,183.9 L635.4,180.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.NS</hasc>
+    <alt-name>Northern Solomon Islands|Bougainville</alt-name>
+    <woe-id>2346587</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP07</fips>
+    <postal-code>NS</postal-code>
+    <name>North Solomons</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>154.632</longitude>
+    <woe-name>North Solomons</woe-name>
+    <latitude>-5.23625</latitude>
+    <woe-label>North Solomons, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-y>0.89</hc-middle-y>
+    <hc-key>pg-ns</hc-key>
+    <hc-a2>NS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.WE" d="M117.2,324.6 L122.7,324.3 L126.8,324.8 L128.6,328.9 L128.1,329.8 L124.8,330.0 L120.9,327.8 L117.9,327.3 L115.0,324.8 Z M131.7,326.9 L130.3,327.2 L125.7,323.0 L129.8,323.2 Z M132.0,314.5 L129.5,315.1 L127.9,312.6 L128.5,311.9 L131.6,313.0 Z M132.4,311.6 L132.1,312.1 L127.1,310.7 L126.2,308.9 L128.5,308.4 L130.5,309.3 Z M99.7,253.9 L99.9,263.2 L143.7,307.0 L140.7,304.6 L137.2,304.3 L140.6,306.0 L142.3,307.7 L139.9,309.3 L135.6,309.3 L130.2,306.6 L126.2,307.4 L122.2,306.4 L120.8,303.8 L116.9,302.8 L119.8,304.3 L120.9,306.7 L125.5,309.0 L129.2,316.1 L129.3,318.1 L127.6,318.7 L115.9,319.0 L114.2,320.0 L110.2,320.4 L99.5,323.3 L97.6,323.2 L93.0,321.1 L87.2,320.3 L81.5,321.2 L77.9,323.3 L74.0,323.0 L72.9,321.6 L71.8,317.0 L68.8,315.4 L64.2,316.2 L60.7,318.7 L61.5,319.3 L64.8,317.1 L70.5,316.8 L72.6,323.2 L75.1,325.3 L78.7,324.9 L83.4,322.2 L89.7,323.1 L95.8,326.9 L103.3,328.7 L106.5,330.2 L112.5,335.0 L115.1,338.1 L119.0,343.7 L119.3,352.1 L117.8,353.8 L115.2,354.9 L108.7,355.9 L108.2,356.7 L103.2,358.3 L99.2,360.7 L98.0,362.3 L93.4,365.0 L88.5,367.0 L84.9,369.5 L81.4,369.2 L76.2,365.4 L69.5,363.8 L65.0,361.9 L62.5,362.8 L54.5,363.3 L48.7,364.9 L44.8,364.0 L39.7,364.7 L38.0,365.6 L35.4,364.7 L32.2,364.9 L28.1,361.9 L22.9,362.1 L19.4,365.0 L15.7,365.9 L14.0,365.3 L7.6,360.2 L6.1,257.7 L3.2,256.1 L1.0,252.2 L1.7,251.1 L0.0,248.7 L0.4,244.3 L2.5,243.4 L3.2,240.0 L4.7,238.4 L2.8,236.4 L4.7,236.1 L5.7,231.6 L5.1,169.1 L6.4,169.5 L62.5,188.0 L61.1,191.0 L62.2,193.7 L77.9,208.7 L82.6,212.5 L83.2,214.9 L83.7,248.2 L84.9,252.8 L91.1,254.0 Z M112.9,329.3 L122.3,331.8 L123.1,333.1 L127.6,336.7 L130.2,338.0 L130.1,341.0 L128.4,339.4 L119.5,335.1 L116.0,331.7 L111.7,330.1 L108.6,327.0 L110.5,326.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.WE</hasc>
+    <alt-name>Fly</alt-name>
+    <woe-id>2346586</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP06</fips>
+    <postal-code>WE</postal-code>
+    <name>Western</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>142.01</longitude>
+    <woe-name>Western</woe-name>
+    <latitude>-7.48919</latitude>
+    <woe-label>Western, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>pg-we</hc-key>
+    <hc-a2>WE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.EN" d="M539.4,132.8 L537.5,132.3 L536.6,130.6 L538.5,128.7 L539.9,130.1 Z M499.9,166.7 L501.3,164.5 L502.1,160.7 L500.7,158.3 L500.9,152.7 L499.0,148.8 L498.2,143.7 L495.7,141.1 L493.6,133.4 L495.1,130.9 L500.2,131.6 L503.7,132.9 L508.0,132.7 L510.1,133.9 L511.0,137.0 L514.8,138.2 L516.4,137.6 L518.1,134.8 L516.5,132.6 L516.9,131.8 L519.5,132.7 L522.8,132.4 L524.0,129.8 L525.1,129.5 L527.3,131.8 L527.9,133.8 L524.5,133.1 L524.7,136.7 L527.6,137.2 L528.7,138.3 L533.0,138.8 L535.6,138.3 L535.7,139.7 L533.4,144.9 L533.6,148.0 L534.9,150.9 L535.5,154.7 L534.3,159.7 L529.8,166.3 L527.0,168.5 L522.6,169.2 L515.9,167.9 L514.8,169.4 L514.9,174.9 L515.6,176.8 L519.9,180.3 L521.8,182.7 L523.1,186.4 L520.6,190.4 L516.6,191.9 L514.7,194.0 L510.0,195.2 L508.3,196.6 L506.1,196.2 L503.9,193.9 L499.9,194.0 L497.7,195.6 L496.6,193.9 L491.8,193.6 L490.3,195.4 L491.4,197.6 L492.9,197.8 L494.3,199.8 L491.1,200.8 L488.6,203.1 L488.2,204.9 L486.0,207.6 L482.8,208.6 L477.9,213.6 L477.4,213.0 L473.5,214.5 L472.3,216.6 L468.2,216.1 L463.9,217.6 L461.2,215.8 L460.0,220.7 L458.8,221.1 L458.2,218.8 L454.2,214.8 L450.9,210.0 L451.2,206.0 L455.8,204.0 L460.9,203.8 L463.5,202.3 L468.3,201.4 L469.2,196.8 L473.3,197.7 L476.3,194.8 L479.4,192.9 L481.1,190.5 L480.3,189.3 L477.4,188.5 L481.2,179.9 L486.3,172.2 L491.1,169.8 L501.1,169.5 L501.8,168.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.EN</hasc>
+    <alt-name>Nova Bretanha Oriental|Nuova Britannia Orientale</alt-name>
+    <woe-id>2346590</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP10</fips>
+    <postal-code>EN</postal-code>
+    <name>East New Britain</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>151.507</longitude>
+    <woe-name>East New Britain</woe-name>
+    <latitude>-5.65441</latitude>
+    <woe-label>East New Britain, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>pg-en</hc-key>
+    <hc-a2>EN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.MN" d="M325.4,43.1 L324.3,44.8 L322.3,45.9 L318.4,44.9 L321.6,43.3 L322.2,40.8 Z M305.0,29.4 L304.5,32.6 L298.0,32.8 L297.2,35.4 L294.5,38.3 L290.5,37.3 L287.7,38.5 L286.9,38.0 L282.3,38.8 L275.3,37.7 L273.2,35.7 L270.6,35.1 L271.8,38.0 L269.4,38.6 L268.1,37.7 L265.8,38.6 L264.5,40.4 L263.0,39.2 L262.2,36.2 L263.3,35.1 L266.7,34.8 L265.0,29.6 L267.1,30.4 L268.3,28.2 L274.2,28.9 L277.3,27.5 L279.4,27.6 L289.5,28.1 L291.3,30.1 L293.0,28.9 L299.9,31.3 L304.1,32.0 L302.8,27.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.MN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346593</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP13</fips>
+    <postal-code>MN</postal-code>
+    <name>Manus</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>147.806</longitude>
+    <woe-name>Manus</woe-name>
+    <latitude>-2.30166</latitude>
+    <woe-label>Manus, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.30</hc-middle-y>
+    <hc-key>pg-mn</hc-key>
+    <hc-a2>MN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.MB" d="M570.1,459.6 L569.1,460.9 L563.8,458.2 L563.8,456.6 Z M538.6,430.0 L542.6,430.9 L544.5,432.1 L549.0,430.4 L553.1,432.5 L551.6,433.6 L547.6,434.3 L539.8,432.0 Z M469.1,428.2 L470.7,428.4 L468.7,431.4 L467.2,429.7 L464.4,429.5 L463.8,431.7 L463.3,429.8 L464.3,428.0 L468.2,427.7 Z M459.0,425.3 L462.7,425.7 L461.9,430.5 L457.8,429.8 L456.6,428.2 L461.2,429.1 L457.9,426.0 Z M469.3,384.6 L465.8,382.1 L467.7,380.9 L468.9,381.4 Z M589.3,477.8 L585.9,477.2 L583.9,478.2 L581.8,475.8 L580.1,475.8 L579.8,474.1 L578.0,475.4 L575.2,474.4 L576.1,471.9 L573.9,471.1 L571.3,472.7 L573.0,470.2 L568.7,468.1 L568.8,466.4 L567.1,465.1 L567.8,463.0 L570.1,464.8 L577.1,467.5 L583.3,471.1 L590.0,473.0 L592.4,474.9 L593.7,477.2 L591.6,476.9 Z M608.3,463.7 L614.6,464.0 L616.9,465.2 L618.0,467.4 L616.4,469.0 L615.2,467.9 L609.5,469.2 L606.2,468.6 L604.5,467.1 L606.5,465.9 L610.7,466.4 Z M478.2,409.7 L474.8,407.2 L470.1,405.8 L465.7,405.1 L465.5,401.8 L467.3,400.0 L465.4,398.2 L463.4,400.1 L462.3,398.4 L462.3,395.7 L460.2,392.5 L456.8,390.1 L457.0,386.4 L459.9,388.7 L460.6,390.7 L464.0,392.4 L466.9,395.8 L469.9,397.3 L469.3,399.6 L473.5,402.3 L474.0,400.1 L475.8,398.3 L479.0,396.8 L480.7,397.1 L481.5,399.0 L480.0,403.9 L478.6,406.6 Z M458.9,384.9 L456.0,384.1 L452.1,384.3 L447.2,382.6 L441.9,382.9 L445.5,379.7 L445.2,377.6 L443.0,376.3 L441.7,373.1 L441.9,370.6 L445.3,369.4 L449.5,371.3 L452.2,373.8 L456.3,373.2 L456.9,372.4 L460.4,375.3 L460.3,376.5 L462.8,378.1 L461.6,380.5 L463.3,381.5 L464.7,384.2 L460.5,387.0 L461.2,384.6 Z M432.0,363.2 L435.5,364.9 L437.5,366.8 L438.9,370.6 L439.5,371.6 L437.4,375.5 L438.6,375.6 L437.5,377.7 L433.9,376.6 L433.3,374.9 L429.9,373.8 L427.0,370.3 L427.3,367.5 L428.7,365.1 Z M559.1,364.3 L557.1,364.5 L558.8,365.9 L555.3,366.8 L551.5,366.9 L548.4,363.5 L547.3,365.8 L544.3,364.5 L544.1,362.8 L546.2,363.7 L547.1,362.2 L541.8,358.2 L540.6,358.6 L537.5,356.7 L537.0,354.9 L535.1,353.3 L533.9,354.0 L533.9,358.1 L532.2,354.4 L535.1,352.3 L536.0,352.5 L538.1,354.8 L541.9,354.5 L546.7,355.3 L550.8,355.3 L553.3,357.9 L558.0,359.6 L557.9,360.8 L560.8,362.2 Z M469.5,333.0 L468.4,331.7 L470.5,328.3 L474.5,327.4 L473.5,331.6 L474.8,333.1 L474.8,335.1 L473.0,343.4 L470.4,341.7 L472.8,338.0 L474.0,334.8 L472.1,333.2 Z M397.3,380.8 L400.9,380.8 L404.5,382.1 L409.6,381.1 L416.8,383.1 L420.8,382.7 L422.5,383.3 L424.5,386.7 L420.0,388.5 L412.4,389.9 L409.6,390.9 L409.3,392.7 L415.3,398.6 L415.1,400.4 L417.0,400.8 L419.0,402.7 L424.2,403.3 L427.7,404.7 L430.4,404.1 L435.5,408.2 L440.2,409.5 L442.7,409.1 L445.7,410.1 L449.3,409.6 L448.6,411.4 L450.4,413.0 L457.6,412.0 L459.7,410.7 L461.8,410.6 L453.2,415.2 L449.1,416.0 L445.6,414.9 L440.0,413.9 L437.5,416.9 L438.2,418.4 L441.3,418.6 L445.7,420.4 L451.2,422.2 L453.3,425.9 L452.3,426.8 L446.7,428.8 L443.8,428.8 L441.2,431.8 L438.4,431.8 L436.1,430.6 L433.0,431.1 L431.2,432.3 L428.7,429.8 L426.8,430.7 L424.6,429.4 L422.0,425.9 L421.2,427.1 L416.8,424.9 L414.9,425.2 L417.5,423.2 L421.2,423.6 L423.7,422.8 L425.3,421.2 L419.9,419.6 L418.5,421.9 L417.6,421.7 L415.8,418.1 L410.1,415.3 L406.9,415.2 L406.9,406.0 L405.9,403.9 L402.3,402.3 L397.2,399.2 L393.6,396.4 L391.1,396.0 L388.3,392.1 L382.2,389.6 L379.2,389.0 L374.1,389.5 L374.3,386.8 L375.8,385.3 L380.8,385.8 L394.5,382.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.MB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346583</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP03</fips>
+    <postal-code>MB</postal-code>
+    <name>Milne Bay</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>153.487</longitude>
+    <woe-name>Milne Bay</woe-name>
+    <latitude>-11.581</latitude>
+    <woe-label>Milne Bay, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.23</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>pg-mb</hc-key>
+    <hc-a2>MB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.MR" d="M337.6,189.1 L334.9,189.5 L334.3,186.7 L335.4,185.8 L337.5,187.8 Z M314.4,183.2 L312.2,185.1 L310.4,182.6 L313.4,181.7 Z M329.4,307.1 L284.1,306.8 L281.5,307.1 L278.8,306.0 L276.0,306.2 L272.6,304.9 L271.8,303.5 L271.0,298.8 L267.2,296.3 L257.3,289.6 L242.8,285.5 L239.9,281.1 L231.2,271.7 L235.2,260.0 L239.0,255.3 L239.2,253.6 L237.9,249.2 L240.1,245.7 L244.2,226.0 L243.5,223.7 L235.2,218.7 L232.1,214.4 L260.4,214.4 L274.9,206.0 L275.8,207.0 L278.4,206.4 L281.3,207.2 L282.4,209.4 L286.4,211.7 L288.2,211.1 L290.6,212.5 L295.7,212.9 L297.8,211.3 L300.3,211.3 L305.2,212.7 L308.1,214.5 L313.2,219.4 L315.6,222.6 L318.0,227.1 L322.6,230.0 L322.6,232.0 L324.5,236.5 L323.7,238.8 L324.2,241.3 L323.9,246.4 L320.2,247.7 L312.1,248.1 L310.5,249.3 L307.7,249.4 L304.6,248.4 L300.6,249.0 L293.4,248.6 L290.5,247.3 L286.5,248.5 L283.4,248.7 L281.8,253.1 L282.4,258.6 L285.7,262.2 L287.8,261.3 L287.1,263.2 L287.6,267.4 L291.0,270.5 L291.0,275.6 L293.1,282.0 L300.8,284.5 L301.5,286.0 L303.5,286.4 L307.7,290.3 L308.1,292.4 L311.2,293.2 L312.4,298.4 L314.6,298.1 L313.7,296.1 L315.9,298.1 L316.9,302.4 L317.9,303.7 L324.8,304.0 L329.4,307.1 Z M329.4,307.1 L329.4,307.1 L329.4,307.1 L329.4,307.1 Z M325.9,203.9 L324.0,201.1 L320.0,196.6 L319.9,192.4 L320.6,191.2 L322.8,190.9 L323.6,190.8 L326.5,193.3 L328.4,193.7 L333.0,196.4 L334.3,198.7 L333.8,202.9 L332.5,206.3 L330.3,207.9 L329.6,205.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.MR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346594</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP14</fips>
+    <postal-code>MR</postal-code>
+    <name>Morobe</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>146.83</longitude>
+    <woe-name>Morobe</woe-name>
+    <latitude>-6.3992</latitude>
+    <woe-label>Morobe, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>pg-mr</hc-key>
+    <hc-a2>MR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.NI" d="M594.4,127.6 L592.4,129.5 L590.6,127.5 L592.3,124.9 L593.9,124.4 Z M575.4,99.2 L575.4,100.0 L572.2,98.7 L574.2,97.5 Z M579.5,95.2 L575.8,95.6 L577.4,94.0 L578.6,94.0 Z M547.2,86.7 L544.8,85.7 L542.1,82.7 L541.5,80.1 L543.6,78.5 L547.1,78.8 L547.0,81.4 L548.1,83.1 Z M469.5,74.2 L471.5,75.0 L465.9,75.0 L462.6,74.5 L459.5,75.4 L464.8,71.8 Z M519.2,76.3 L518.0,76.4 L515.3,71.3 L516.0,69.2 L517.9,71.8 L520.1,72.7 L520.5,74.5 Z M516.6,67.4 L517.1,68.2 L512.9,69.3 L512.8,62.9 L517.3,64.7 Z M517.6,60.9 L515.0,60.4 L516.8,57.7 L518.6,60.0 Z M423.0,14.1 L425.0,14.9 L421.5,14.9 L422.2,12.9 Z M432.5,61.4 L428.7,58.4 L427.9,56.2 L425.3,53.3 L424.2,53.7 L421.8,52.0 L426.9,49.2 L433.5,47.3 L434.5,47.7 L440.9,50.8 L443.5,51.6 L445.7,55.3 L444.7,57.3 L444.8,60.5 L440.7,61.5 L436.7,61.1 Z M402.5,3.4 L404.7,0.0 L406.6,0.2 L411.1,3.5 L411.2,5.1 L414.2,10.6 L411.3,11.0 L409.2,9.3 L409.1,10.6 L403.4,6.7 Z M464.2,59.5 L460.7,58.5 L462.6,56.3 L463.7,57.7 L467.3,60.1 L469.3,62.1 L472.5,63.2 L473.1,64.5 L478.2,66.4 L480.3,70.3 L486.2,70.7 L487.4,72.0 L490.6,72.2 L493.6,75.2 L495.4,75.4 L502.2,79.6 L504.3,82.4 L506.5,82.8 L507.4,84.7 L513.2,85.7 L515.3,87.3 L519.2,88.0 L519.3,89.5 L521.9,91.9 L524.2,95.2 L526.8,97.8 L531.8,100.3 L533.6,101.8 L536.4,107.1 L538.3,107.6 L539.6,106.5 L542.7,111.7 L543.4,114.7 L546.6,115.3 L549.1,117.3 L552.8,118.3 L554.9,117.2 L557.1,122.7 L561.1,123.1 L561.2,125.1 L563.7,127.6 L566.2,132.0 L569.4,135.7 L568.9,139.5 L569.4,140.7 L565.5,144.2 L565.0,146.6 L566.4,148.3 L566.4,151.1 L564.5,152.7 L564.2,154.7 L560.3,160.3 L559.3,160.0 L558.0,162.5 L556.9,159.7 L554.2,157.7 L554.4,156.6 L550.4,153.2 L550.2,149.9 L548.5,148.5 L547.6,144.0 L548.6,141.5 L549.2,136.5 L548.3,133.2 L548.5,130.7 L547.3,129.1 L543.7,121.1 L541.3,118.0 L540.7,116.3 L538.9,115.6 L533.4,108.8 L533.4,106.9 L530.1,103.0 L527.8,102.2 L524.6,99.3 L515.9,97.8 L514.1,97.1 L507.8,93.2 L498.7,84.2 L492.3,81.9 L490.2,78.9 L482.3,74.1 L480.0,73.4 L478.7,71.6 L475.7,69.3 L472.4,68.3 L470.2,66.5 L466.3,65.4 L462.7,66.1 L459.1,65.6 L458.1,64.5 L459.1,62.9 L460.7,63.8 L465.3,61.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.NI</hasc>
+    <alt-name>Neuirland|Nouvelle-Irlande|Nova Irlanda|Nuova Irlanda</alt-name>
+    <woe-id>2346595</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP15</fips>
+    <postal-code>NI</postal-code>
+    <name>New Ireland</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>150.25</longitude>
+    <woe-name>New Ireland</woe-name>
+    <latitude>-2.51821</latitude>
+    <woe-label>New Ireland, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.81</hc-middle-x>
+    <hc-middle-y>0.88</hc-middle-y>
+    <hc-key>pg-ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.WN" d="M478.9,166.7 L476.9,166.8 L475.3,165.5 L478.0,163.7 L480.2,165.2 Z M385.3,163.6 L384.3,165.0 L382.7,163.7 L384.9,162.1 Z M402.6,152.8 L402.7,155.6 L401.4,153.3 L399.3,155.2 L398.7,153.3 L401.2,152.1 Z M458.8,221.1 L453.7,221.9 L450.3,223.3 L444.6,227.7 L441.4,228.3 L438.1,227.9 L433.7,228.4 L430.7,226.9 L427.9,228.9 L425.6,226.8 L423.6,229.7 L423.2,227.8 L419.0,228.5 L410.5,228.1 L408.8,229.0 L405.9,228.6 L403.7,226.8 L402.1,223.8 L398.3,219.5 L391.0,217.4 L387.8,219.0 L384.4,218.5 L383.4,221.4 L379.3,222.1 L380.6,221.1 L380.3,218.9 L378.4,217.8 L379.7,215.8 L377.5,215.9 L373.9,214.5 L370.1,213.7 L371.4,212.4 L369.8,210.9 L366.7,211.5 L366.4,208.8 L363.9,207.6 L361.9,207.6 L359.4,205.7 L356.2,207.1 L354.0,205.4 L348.5,204.2 L346.7,201.9 L345.7,198.2 L346.5,193.0 L348.6,190.0 L350.6,188.9 L354.8,191.4 L356.4,193.4 L357.8,193.1 L360.9,190.6 L365.1,191.2 L366.6,192.5 L369.2,193.1 L376.0,190.0 L386.2,194.6 L387.3,196.2 L395.0,195.7 L396.9,194.5 L400.1,195.8 L400.9,194.1 L405.4,192.3 L407.7,192.6 L408.3,191.1 L408.6,194.1 L410.2,194.9 L413.0,193.8 L414.0,192.0 L417.4,193.0 L420.7,191.4 L422.4,188.9 L419.4,184.8 L420.4,182.8 L424.6,179.1 L423.6,176.8 L425.0,170.2 L426.6,169.2 L430.6,169.6 L432.8,171.6 L431.8,173.4 L428.7,174.4 L426.2,177.0 L427.1,181.0 L424.8,182.3 L428.5,189.1 L429.9,193.4 L431.7,194.2 L437.5,194.7 L438.7,192.8 L442.9,189.9 L447.0,189.6 L450.7,191.3 L452.6,194.5 L456.6,193.5 L458.6,190.4 L460.8,189.4 L463.9,191.7 L466.1,191.1 L468.8,189.3 L470.7,187.0 L471.3,180.9 L473.6,176.5 L477.4,173.4 L481.5,168.6 L486.4,166.5 L486.9,164.5 L492.7,166.4 L494.6,165.2 L498.2,167.5 L499.9,166.7 L501.8,168.8 L501.1,169.5 L491.1,169.8 L486.3,172.2 L481.2,179.9 L477.4,188.5 L480.3,189.3 L481.1,190.5 L479.4,192.9 L476.3,194.8 L473.3,197.7 L469.2,196.8 L468.3,201.4 L463.5,202.3 L460.9,203.8 L455.8,204.0 L451.2,206.0 L450.9,210.0 L454.2,214.8 L458.2,218.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.WN</hasc>
+    <alt-name>Nova Bretanha Ocidental|Nuova Britannia Occidentale</alt-name>
+    <woe-id>2346597</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP17</fips>
+    <postal-code>WN</postal-code>
+    <name>West New Britain</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>149.813</longitude>
+    <woe-name>West New Britain</woe-name>
+    <latitude>-5.91003</latitude>
+    <woe-label>West New Britain, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.75</hc-middle-y>
+    <hc-key>pg-wn</hc-key>
+    <hc-a2>WN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.EH" d="M231.2,271.7 L206.1,255.0 L207.9,248.3 L206.2,246.2 L201.7,245.9 L195.5,240.3 L191.8,238.5 L191.4,236.0 L194.8,233.7 L199.6,233.6 L203.8,229.2 L204.2,226.5 L202.9,221.3 L199.5,219.2 L198.9,217.6 L199.1,211.4 L199.7,208.8 L204.3,208.7 L208.1,208.1 L209.5,208.5 L212.2,212.3 L216.3,212.7 L218.0,210.9 L221.0,211.0 L223.0,212.5 L229.8,212.8 L232.1,214.4 L235.2,218.7 L243.5,223.7 L244.2,226.0 L240.1,245.7 L237.9,249.2 L239.2,253.6 L239.0,255.3 L235.2,260.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.EH</hasc>
+    <alt-name>Planalto Oriental</alt-name>
+    <woe-id>2346589</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP09</fips>
+    <postal-code>EH</postal-code>
+    <name>Eastern Highlands</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>145.557</longitude>
+    <woe-name>Eastern Highlands</woe-name>
+    <latitude>-6.4841</latitude>
+    <woe-label>Eastern Highlands, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>pg-eh</hc-key>
+    <hc-a2>EH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.GU" d="M206.1,255.0 L231.2,271.7 L239.9,281.1 L242.8,285.5 L257.3,289.6 L267.2,296.3 L263.1,299.0 L261.0,301.2 L257.2,304.0 L256.5,306.4 L256.4,333.8 L255.2,332.8 L251.2,327.0 L250.0,321.1 L248.7,318.9 L243.8,316.1 L243.5,313.3 L242.1,310.9 L235.6,308.5 L232.9,308.8 L229.1,307.2 L228.0,305.9 L227.9,303.6 L225.6,303.8 L225.5,305.1 L222.7,305.1 L220.6,303.8 L213.8,304.4 L211.1,303.8 L207.2,300.6 L203.1,300.5 L200.8,298.0 L200.1,299.5 L197.0,298.6 L195.8,296.7 L195.0,298.6 L192.2,298.6 L190.3,296.7 L189.7,297.5 L186.8,297.0 L185.0,295.3 L186.1,293.5 L186.2,289.0 L185.5,287.2 L184.2,292.4 L181.7,292.4 L176.3,286.9 L176.7,290.2 L173.2,291.1 L171.8,289.0 L170.9,284.7 L170.0,284.5 L169.7,289.2 L171.0,291.1 L169.9,292.0 L167.8,289.8 L164.9,284.8 L166.6,292.7 L169.6,297.8 L168.5,298.0 L165.3,294.3 L163.2,295.4 L162.1,291.5 L160.5,289.2 L161.6,292.8 L160.4,293.0 L158.6,290.2 L156.7,291.8 L158.2,292.6 L157.4,294.6 L159.0,296.5 L156.1,297.8 L154.2,296.6 L151.4,296.1 L142.7,293.2 L138.2,290.4 L135.3,284.6 L132.1,283.8 L129.8,281.5 L131.4,284.4 L134.4,285.4 L135.1,288.1 L138.9,294.5 L139.6,298.5 L143.5,304.1 L143.7,307.0 L99.9,263.2 L99.7,253.9 L131.4,253.6 L178.9,248.8 L181.0,248.4 L183.5,249.6 L188.8,248.7 L191.0,250.7 L195.0,251.5 L200.6,253.5 L204.0,253.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.GU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346582</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP02</fips>
+    <postal-code>GU</postal-code>
+    <name>Gulf</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>144.812</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-7.21915</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>pg-gu</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.EG" d="M144.0,167.8 L144.7,169.7 L149.6,173.4 L153.0,175.0 L154.0,178.7 L157.0,180.7 L155.5,184.1 L148.2,187.9 L147.8,189.2 L150.7,194.8 L151.0,197.7 L149.5,201.7 L144.6,204.9 L138.1,207.2 L135.1,208.8 L136.7,212.0 L131.8,211.4 L123.5,213.3 L119.9,212.0 L115.6,209.0 L110.8,204.8 L107.7,203.3 L94.4,198.6 L89.4,192.3 L88.1,169.9 L94.5,171.7 L102.1,172.2 L107.6,170.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.EG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346599</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP19</fips>
+    <postal-code>EG</postal-code>
+    <name>Enga</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>143.505</longitude>
+    <woe-name>Enga</woe-name>
+    <latitude>-5.48883</latitude>
+    <woe-label>Enga, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>pg-eg</hc-key>
+    <hc-a2>EG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.CH" d="M193.7,204.8 L196.3,205.6 L199.7,208.8 L199.1,211.4 L198.9,217.6 L199.5,219.2 L202.9,221.3 L204.2,226.5 L203.8,229.2 L199.6,233.6 L194.8,233.7 L191.4,236.0 L191.8,238.5 L195.5,240.3 L201.7,245.9 L206.2,246.2 L207.9,248.3 L206.1,255.0 L204.0,253.8 L200.6,253.5 L195.0,251.5 L191.0,250.7 L188.8,248.7 L183.5,249.6 L181.0,248.4 L178.9,248.8 L176.8,246.4 L173.5,245.8 L172.6,243.5 L171.0,242.0 L167.0,241.2 L166.5,238.9 L167.3,236.2 L170.6,235.0 L170.8,231.7 L173.8,233.0 L175.2,229.5 L178.0,226.4 L180.0,220.4 L178.3,217.2 L179.1,214.8 L183.0,212.0 L182.5,205.5 L183.6,204.7 L186.1,205.6 L190.5,205.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.CH</hasc>
+    <alt-name>Simbu</alt-name>
+    <woe-id>2346588</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP08</fips>
+    <postal-code>CH</postal-code>
+    <name>Chimbu</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>144.894</longitude>
+    <woe-name>Chimbu</woe-name>
+    <latitude>-6.27374</latitude>
+    <woe-label>Chimbu, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>pg-ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.1041" d="M297.6,377.1 L293.8,377.4 L291.4,376.0 L290.6,373.3 L288.1,373.0 L289.0,375.2 L287.3,373.1 L292.4,370.6 L296.3,371.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.CE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346600</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>National Capital District</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>147.174</longitude>
+    <woe-name>National Capital District</woe-name>
+    <latitude>-9.4476</latitude>
+    <woe-label>National Capital, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.13</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
+    <hc-key>pg-1041</hc-key>
+    <hc-a2>NC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.CE" d="M297.6,377.1 L296.3,371.9 L292.4,370.6 L287.3,373.1 L289.0,375.2 L286.9,374.3 L284.6,370.2 L283.6,366.9 L280.6,365.0 L279.7,362.7 L280.2,360.3 L279.3,359.1 L283.4,356.5 L283.3,354.5 L280.2,357.8 L278.6,357.9 L274.3,355.6 L267.3,354.1 L264.2,350.3 L264.3,346.1 L266.3,345.4 L266.4,343.9 L264.5,344.6 L263.9,342.2 L262.4,342.2 L261.8,339.4 L258.5,335.0 L256.4,333.8 L256.5,306.4 L257.2,304.0 L261.0,301.2 L263.1,299.0 L267.2,296.3 L271.0,298.8 L271.8,303.5 L272.6,304.9 L276.0,306.2 L278.8,306.0 L281.5,307.1 L284.1,306.8 L298.3,320.1 L305.9,324.1 L310.0,327.6 L312.9,332.8 L312.1,335.4 L307.9,341.6 L307.7,346.0 L311.2,351.0 L316.3,356.3 L318.8,360.8 L321.7,360.7 L324.2,365.0 L327.9,367.3 L331.6,372.6 L332.1,374.2 L331.6,378.0 L333.5,380.4 L336.1,381.2 L343.9,387.6 L348.1,388.0 L355.1,392.8 L359.8,395.2 L361.7,394.5 L362.0,396.1 L367.8,397.6 L371.0,396.5 L374.9,396.1 L374.9,393.3 L373.6,390.5 L374.1,389.5 L379.2,389.0 L382.2,389.6 L388.3,392.1 L391.1,396.0 L393.6,396.4 L397.2,399.2 L402.3,402.3 L405.9,403.9 L406.9,406.0 L406.9,415.2 L402.1,415.2 L398.8,416.3 L397.0,415.9 L394.8,413.1 L392.8,412.3 L390.9,413.9 L387.0,412.8 L383.0,410.8 L379.0,410.3 L374.9,412.2 L370.0,410.4 L365.8,410.6 L363.9,410.0 L364.3,405.7 L362.4,406.1 L361.5,404.2 L360.8,407.0 L359.4,408.0 L354.8,407.3 L353.1,408.2 L348.6,408.6 L345.6,407.4 L344.8,405.9 L342.7,405.7 L340.8,404.2 L338.6,403.9 L337.3,402.5 L336.7,404.2 L332.8,405.5 L331.0,405.0 L329.2,406.9 L326.2,403.3 L323.5,403.8 L322.3,402.1 L319.3,402.0 L317.2,403.7 L316.5,399.9 L312.9,398.7 L308.1,393.6 L306.9,388.5 L300.2,379.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.CE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346581</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP01</fips>
+    <postal-code>CE</postal-code>
+    <name>Central</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>148.034</longitude>
+    <woe-name>Central</woe-name>
+    <latitude>-9.84123</latitude>
+    <woe-label>Central, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.19</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>pg-ce</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.NO" d="M284.1,306.8 L329.4,307.1 L329.4,307.1 L329.4,307.1 L329.4,307.1 L329.4,307.1 L329.4,307.1 L330.4,309.4 L335.7,309.5 L336.8,310.4 L337.7,314.6 L340.1,321.0 L339.8,323.4 L341.3,327.3 L340.7,329.8 L341.3,333.2 L347.8,335.9 L350.5,337.7 L352.7,341.5 L353.2,347.7 L356.0,354.7 L358.8,357.0 L365.1,358.0 L369.4,357.0 L371.3,355.6 L374.3,354.9 L375.2,355.6 L379.4,354.9 L382.8,352.1 L383.3,353.5 L387.5,353.2 L390.9,354.4 L391.2,356.1 L389.7,358.1 L391.7,359.1 L390.3,361.3 L388.7,361.3 L387.6,363.1 L386.8,367.2 L384.6,370.3 L386.5,375.8 L391.5,377.2 L397.3,380.8 L394.5,382.1 L380.8,385.8 L375.8,385.3 L374.3,386.8 L374.1,389.5 L373.6,390.5 L374.9,393.3 L374.9,396.1 L371.0,396.5 L367.8,397.6 L362.0,396.1 L361.7,394.5 L359.8,395.2 L355.1,392.8 L348.1,388.0 L343.9,387.6 L336.1,381.2 L333.5,380.4 L331.6,378.0 L332.1,374.2 L331.6,372.6 L327.9,367.3 L324.2,365.0 L321.7,360.7 L318.8,360.8 L316.3,356.3 L311.2,351.0 L307.7,346.0 L307.9,341.6 L312.1,335.4 L312.9,332.8 L310.0,327.6 L305.9,324.1 L298.3,320.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.NO</hasc>
+    <alt-name>Oro</alt-name>
+    <woe-id>2346584</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP04</fips>
+    <postal-code>NO</postal-code>
+    <name>Northern</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>148.227</longitude>
+    <woe-name>Northern</woe-name>
+    <latitude>-9.114319999999999</latitude>
+    <woe-label>Northern, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>pg-no</hc-key>
+    <hc-a2>NO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.SA" d="M5.1,169.1 L4.2,88.4 L4.2,58.2 L7.4,57.7 L14.4,58.9 L18.3,60.1 L19.2,61.7 L32.3,67.1 L42.8,71.9 L47.7,75.0 L52.1,74.5 L55.4,77.4 L55.0,79.3 L58.5,79.1 L60.6,80.2 L70.5,83.1 L75.5,85.5 L96.3,91.9 L100.1,92.8 L102.7,92.7 L102.4,98.9 L101.3,100.5 L98.6,100.1 L90.1,96.7 L87.4,95.4 L83.1,96.8 L82.0,98.0 L80.3,102.1 L80.4,109.5 L82.0,114.7 L81.2,118.2 L78.3,120.2 L76.2,125.6 L73.6,126.2 L42.6,127.0 L43.5,125.7 L41.3,123.5 L39.1,124.0 L22.8,135.1 L21.5,138.5 L21.7,146.2 L23.1,150.3 L29.0,151.5 L61.7,151.5 L66.4,154.2 L67.7,167.6 L67.8,172.1 L69.3,176.6 L66.4,185.4 L62.5,188.0 L6.4,169.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.SA</hasc>
+    <alt-name>West Sepik</alt-name>
+    <woe-id>2346598</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP18</fips>
+    <postal-code>SA</postal-code>
+    <name>Sandaun</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>141.741</longitude>
+    <woe-name>Sandaun</woe-name>
+    <latitude>-3.45778</latitude>
+    <woe-label>Sandaun, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>pg-sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.SH" d="M178.9,248.8 L131.4,253.6 L99.7,253.9 L91.1,254.0 L84.9,252.8 L83.7,248.2 L83.2,214.9 L82.6,212.5 L77.9,208.7 L62.2,193.7 L61.1,191.0 L62.5,188.0 L66.4,185.4 L69.3,176.6 L67.8,172.1 L67.7,167.6 L74.5,167.8 L77.2,168.3 L85.6,168.3 L88.1,169.9 L89.4,192.3 L94.4,198.6 L107.7,203.3 L110.8,204.8 L115.6,209.0 L119.9,212.0 L123.5,213.3 L131.8,211.4 L136.7,212.0 L140.6,213.6 L142.4,215.6 L146.3,215.7 L170.8,231.7 L170.6,235.0 L167.3,236.2 L166.5,238.9 L167.0,241.2 L171.0,242.0 L172.6,243.5 L173.5,245.8 L176.8,246.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.SH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346585</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP05</fips>
+    <postal-code>SH</postal-code>
+    <name>Southern Highlands</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>143.446</longitude>
+    <woe-name>Southern Highlands</woe-name>
+    <latitude>-6.38625</latitude>
+    <woe-label>Southern Highlands, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
+    <hc-key>pg-sh</hc-key>
+    <hc-a2>SH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG.WH" d="M157.0,180.7 L158.6,181.3 L162.2,180.0 L168.9,182.4 L173.5,186.8 L177.0,188.1 L179.1,190.9 L183.7,193.2 L186.3,196.5 L190.2,200.0 L193.7,204.8 L190.5,205.8 L186.1,205.6 L183.6,204.7 L182.5,205.5 L183.0,212.0 L179.1,214.8 L178.3,217.2 L180.0,220.4 L178.0,226.4 L175.2,229.5 L173.8,233.0 L170.8,231.7 L146.3,215.7 L142.4,215.6 L140.6,213.6 L136.7,212.0 L135.1,208.8 L138.1,207.2 L144.6,204.9 L149.5,201.7 L151.0,197.7 L150.7,194.8 L147.8,189.2 L148.2,187.9 L155.5,184.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>PG.WH</hasc>
+    <alt-name>Planalto Ocidental</alt-name>
+    <woe-id>2346596</woe-id>
+    <subregion>NULL</subregion>
+    <fips>PP16</fips>
+    <postal-code>WH</postal-code>
+    <name>Western Highlands</name>
+    <country>Papua New Guinea</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>144.404</longitude>
+    <woe-name>Western Highlands</woe-name>
+    <latitude>-5.77031</latitude>
+    <woe-label>Western Highlands, PG, Papua New Guinea</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>pg-wh</hc-key>
+    <hc-a2>WH</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

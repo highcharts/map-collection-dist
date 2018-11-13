@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Thailand</title>
+<g id="admin1">
+
+<g id="TH">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Thailand</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Thai.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>THA</iso-a3>
+    <iso-a2>TH</iso-a2>
+    <woe-id>23424960</woe-id>
+    <continent>Asia</continent>
+    <hc-key>th</hc-key>
+    <hc-a2>TH</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.CT" d="M227.4,338.3 L229.9,344.7 L235.1,351.3 L233.9,354.5 L235.8,360.5 L235.4,363.1 L233.3,363.8 L230.8,367.0 L231.5,371.8 L229.9,370.6 L227.9,372.2 L228.7,375.3 L228.1,377.3 L230.1,379.5 L229.2,381.5 L227.1,383.6 L225.8,382.4 L225.2,377.7 L222.0,378.1 L223.6,379.0 L225.4,383.1 L223.3,383.3 L218.5,378.8 L215.9,375.5 L217.1,372.9 L214.8,373.0 L215.5,371.6 L213.0,372.3 L215.6,373.9 L215.2,376.5 L213.0,373.4 L210.1,373.6 L208.5,372.5 L204.6,366.9 L202.7,365.8 L204.0,362.7 L204.2,356.5 L202.1,353.9 L200.7,353.9 L200.7,351.5 L199.0,349.9 L198.0,345.2 L198.2,344.4 L199.1,343.4 L201.5,342.9 L205.5,340.2 L206.7,341.1 L207.9,338.5 L211.9,335.4 L213.8,339.3 L214.0,343.7 L218.1,342.3 L220.1,339.7 L222.6,341.6 L224.7,341.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.CT</hasc>
+    <alt-name>Chantaburi|Muang Chan</alt-name>
+    <woe-id>2347172</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH48</fips>
+    <postal-code>CT</postal-code>
+    <name>Chanthaburi</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Eastern</region>
+    <longitude>102.139</longitude>
+    <woe-name>Chanthaburi</woe-name>
+    <latitude>12.8117</latitude>
+    <woe-label>Chanthaburi, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>th-ct</hc-key>
+    <hc-a2>CT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.4255" d="M87.8,658.9 L86.7,658.7 L86.1,656.3 L88.0,656.3 Z M72.2,596.3 L73.0,596.5 L72.5,598.7 L70.2,596.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Thailand</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>99.2992</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>6.53959</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.95</hc-middle-x>
+    <hc-middle-y>0.98</hc-middle-y>
+    <hc-key>th-4255</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PG" d="M51.3,583.1 L53.7,584.8 L54.8,586.9 L54.9,592.0 L53.2,592.3 L52.6,589.6 L53.5,588.2 L51.1,584.3 Z M55.3,583.7 L52.9,582.9 L55.4,579.5 L56.1,580.4 Z M40.0,544.3 L38.9,547.0 L37.9,545.1 L38.4,540.6 L40.8,542.3 Z M40.0,539.3 L37.4,538.3 L38.0,534.0 L40.6,534.9 L41.3,537.6 Z M44.5,524.9 L46.4,524.4 L50.2,526.8 L51.2,527.8 L48.8,538.6 L50.0,542.3 L47.8,543.2 L47.7,546.6 L49.7,547.1 L53.1,550.7 L54.3,550.8 L54.5,554.5 L51.8,557.2 L53.5,558.9 L57.3,558.1 L59.7,559.0 L58.9,561.7 L57.3,562.2 L57.9,567.2 L56.6,571.1 L54.3,570.8 L50.1,572.9 L47.1,573.1 L47.9,578.3 L46.1,581.5 L44.5,582.1 L42.9,579.8 L39.1,577.1 L37.5,569.3 L35.5,563.2 L37.4,557.7 L36.7,553.7 L38.0,552.3 L38.4,548.3 L41.4,542.4 L44.5,539.6 L42.3,540.4 L41.7,538.8 L44.1,537.8 L41.6,533.5 L43.6,530.5 L42.7,529.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347185</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH59</fips>
+    <postal-code>PG</postal-code>
+    <name>Phangnga</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>98.39400000000001</longitude>
+    <woe-name>Phangnga</woe-name>
+    <latitude>8.576779999999999</latitude>
+    <woe-label>Phangnga, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>th-pg</hc-key>
+    <hc-a2>PG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.ST" d="M124.1,514.0 L122.9,519.3 L121.3,520.9 L117.6,521.4 L116.6,517.9 L116.6,514.5 L119.3,513.8 L122.1,514.5 Z M119.9,503.5 L123.2,504.5 L124.3,509.7 L119.5,507.2 L118.7,505.1 Z M77.7,504.2 L79.9,503.9 L81.7,510.9 L85.6,519.2 L88.3,522.8 L86.8,522.8 L84.0,526.1 L85.1,530.3 L89.6,530.9 L90.9,532.1 L95.4,531.8 L97.6,528.5 L101.0,528.3 L105.5,526.3 L109.4,526.5 L108.4,527.9 L108.6,530.5 L107.5,534.0 L109.9,535.8 L110.1,538.4 L108.2,538.8 L107.3,542.5 L105.4,544.7 L100.7,545.5 L98.0,548.7 L97.7,554.0 L96.1,556.9 L94.4,558.3 L94.2,560.1 L92.3,561.9 L88.6,563.9 L86.5,562.9 L86.7,565.5 L84.6,569.7 L85.7,572.4 L82.7,573.3 L76.0,571.9 L73.1,573.6 L69.2,573.7 L68.1,568.3 L68.8,566.8 L67.8,564.5 L69.7,562.1 L69.3,560.9 L66.0,558.2 L62.3,556.7 L59.7,559.0 L57.3,558.1 L53.5,558.9 L51.8,557.2 L54.5,554.5 L54.3,550.8 L53.1,550.7 L49.7,547.1 L47.7,546.6 L47.8,543.2 L50.0,542.3 L48.8,538.6 L51.2,527.8 L50.2,526.8 L51.3,525.0 L57.8,524.4 L57.0,521.3 L62.6,515.4 L61.4,512.8 L62.9,509.2 L68.6,506.8 L74.8,506.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.ST</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347184</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH60</fips>
+    <postal-code>ST</postal-code>
+    <name>Surat Thani</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>99.0107</longitude>
+    <woe-name>Surat Thani</woe-name>
+    <latitude>9.0048</latitude>
+    <woe-label>Surat Thani, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>th-st</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.KR" d="M78.7,613.1 L75.8,612.0 L74.5,608.8 L74.1,605.7 L76.7,607.0 L77.2,610.4 Z M78.7,607.6 L76.4,606.4 L75.3,604.4 L79.0,604.7 Z M56.6,571.1 L57.9,567.2 L57.3,562.2 L58.9,561.7 L59.7,559.0 L62.3,556.7 L66.0,558.2 L69.3,560.9 L69.7,562.1 L67.8,564.5 L68.8,566.8 L68.1,568.3 L69.2,573.7 L73.1,573.6 L76.0,571.9 L82.7,573.3 L85.7,572.4 L88.0,574.7 L88.1,579.0 L86.7,583.7 L89.4,588.8 L89.1,591.2 L88.8,593.8 L87.1,595.5 L89.2,600.5 L87.9,603.0 L85.3,604.8 L79.6,600.6 L78.4,602.5 L75.8,602.8 L74.7,601.6 L73.8,597.3 L76.1,595.2 L76.4,592.1 L74.5,593.1 L71.6,590.6 L71.4,588.6 L68.7,586.2 L67.9,587.5 L65.1,588.2 L63.7,586.1 L62.3,587.4 L61.3,585.3 L61.1,578.4 L60.3,576.5 L59.3,577.9 L58.9,573.9 L55.4,574.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.KR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347187</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH63</fips>
+    <postal-code>KR</postal-code>
+    <name>Krabi</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>98.984</longitude>
+    <woe-name>Krabi</woe-name>
+    <latitude>8.1333</latitude>
+    <woe-label>Krabi, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>th-kr</hc-key>
+    <hc-a2>KR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SA" d="M84.9,655.9 L83.4,657.7 L81.4,657.6 L82.4,656.1 Z M104.6,659.5 L101.5,655.5 L104.2,648.8 L106.4,656.6 Z M129.8,649.9 L128.3,650.1 L127.8,653.7 L128.3,656.2 L127.3,657.5 L126.4,662.1 L124.7,660.1 L125.3,657.8 L123.4,659.1 L120.5,656.2 L118.4,651.6 L113.4,646.3 L112.1,646.7 L110.8,644.2 L105.5,641.6 L106.5,637.6 L105.3,637.0 L105.2,634.5 L108.3,629.6 L112.1,629.0 L112.2,630.7 L114.9,632.5 L116.4,629.7 L117.4,629.6 L119.8,632.5 L122.6,632.7 L123.7,635.8 L126.0,638.9 L130.5,641.1 L129.6,645.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347191</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH67</fips>
+    <postal-code>SA</postal-code>
+    <name>Satun</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>99.9633</longitude>
+    <woe-name>Satun</woe-name>
+    <latitude>6.85827</latitude>
+    <woe-label>Satun, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.79</hc-middle-x>
+    <hc-middle-y>0.71</hc-middle-y>
+    <hc-key>th-sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.TG" d="M94.2,623.9 L92.4,624.9 L91.2,626.6 L91.3,622.8 Z M121.8,631.4 L122.6,632.7 L119.8,632.5 L117.4,629.6 L116.4,629.7 L114.9,632.5 L112.2,630.7 L112.1,629.0 L108.3,629.6 L105.9,630.3 L104.9,627.7 L102.1,629.3 L100.7,628.4 L98.6,624.2 L101.4,619.6 L101.3,618.0 L99.1,621.5 L97.9,621.1 L97.1,617.6 L95.4,622.6 L91.7,621.0 L89.0,617.7 L89.4,613.6 L87.7,610.8 L87.0,606.5 L85.3,604.8 L87.9,603.0 L89.2,600.5 L87.1,595.5 L88.8,593.8 L89.1,591.2 L92.0,593.7 L98.6,594.2 L101.7,589.5 L107.3,588.9 L108.4,589.6 L107.6,593.6 L108.2,595.5 L111.7,603.6 L110.7,607.2 L113.4,612.7 L115.0,617.8 L117.5,621.5 L117.5,623.9 L118.7,627.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.TG</hasc>
+    <alt-name>Tab Tiang</alt-name>
+    <woe-id>2347189</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH65</fips>
+    <postal-code>TG</postal-code>
+    <name>Trang</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>99.6467</longitude>
+    <woe-name>Trang</woe-name>
+    <latitude>7.56967</latitude>
+    <woe-label>Trang, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>th-tg</hc-key>
+    <hc-a2>TG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.TT" d="M239.6,411.6 L241.3,413.3 L241.0,419.0 L237.8,417.1 L237.7,413.6 L238.6,410.1 Z M229.2,381.5 L230.1,379.5 L228.1,377.3 L228.7,375.3 L227.9,372.2 L229.9,370.6 L231.5,371.8 L230.8,367.0 L233.3,363.8 L235.4,363.1 L235.1,367.1 L238.5,368.5 L243.5,373.0 L248.2,378.5 L245.9,382.1 L245.0,389.8 L245.4,391.7 L249.5,398.1 L250.0,400.5 L252.2,404.6 L255.6,409.3 L256.3,413.8 L255.3,414.0 L255.3,410.4 L251.4,404.9 L249.1,402.9 L249.1,399.8 L247.7,396.4 L242.2,391.1 L243.2,390.8 L240.9,388.7 L238.9,388.8 L239.4,394.1 L238.4,395.5 L237.6,393.0 L234.8,391.4 L228.4,389.2 L226.5,389.5 L224.9,384.8 L227.4,384.7 Z M226.5,395.9 L224.4,391.3 L225.2,391.3 L227.2,391.6 L229.8,393.9 L233.5,399.2 L232.8,400.3 L230.5,398.4 L230.4,399.9 L226.4,399.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.TT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347173</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH49</fips>
+    <postal-code>TT</postal-code>
+    <name>Trat</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Eastern</region>
+    <longitude>102.541</longitude>
+    <woe-name>Trat</woe-name>
+    <latitude>12.3925</latitude>
+    <woe-label>Trat, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>th-tt</hc-key>
+    <hc-a2>TT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PL" d="M129.8,599.2 L127.1,601.7 L127.6,606.6 L129.1,611.4 L131.1,613.3 L132.6,617.1 L134.6,619.5 L137.8,620.0 L138.2,621.1 L136.6,623.7 L133.6,626.0 L127.7,627.2 L123.3,629.7 L121.8,631.4 L118.7,627.4 L117.5,623.9 L117.5,621.5 L115.0,617.8 L113.4,612.7 L110.7,607.2 L111.7,603.6 L108.2,595.5 L111.4,594.0 L118.4,593.0 L120.7,594.2 L122.4,596.8 L126.4,597.8 L127.9,598.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347190</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH66</fips>
+    <postal-code>PL</postal-code>
+    <name>Phatthalung</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>100.062</longitude>
+    <woe-name>Phatthalung</woe-name>
+    <latitude>7.47276</latitude>
+    <woe-label>Phatthalung, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>th-pl</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PS" d="M161.8,129.1 L158.7,135.5 L161.1,136.3 L158.6,140.5 L160.5,147.0 L163.6,147.2 L168.3,151.8 L167.1,154.8 L165.3,162.6 L165.4,164.9 L167.2,167.0 L165.8,167.0 L159.5,173.7 L161.0,177.2 L158.6,178.6 L157.0,181.8 L157.0,184.7 L154.9,188.5 L151.0,190.4 L149.3,193.6 L145.4,189.8 L143.8,185.2 L137.9,184.7 L131.9,186.0 L129.4,182.1 L126.1,183.7 L124.2,185.8 L120.2,186.7 L118.8,183.9 L115.0,182.5 L113.9,180.4 L114.4,177.7 L115.6,176.0 L113.6,175.3 L116.7,169.3 L119.7,169.7 L120.2,168.1 L124.1,167.8 L124.7,164.9 L122.6,162.9 L119.1,160.9 L115.3,157.1 L115.0,155.2 L117.8,155.1 L120.2,155.1 L125.5,153.5 L128.0,153.5 L130.5,151.0 L129.8,148.5 L131.9,145.5 L138.5,143.2 L141.3,143.7 L145.2,142.7 L146.2,141.0 L151.2,137.6 L153.8,134.1 L156.4,132.1 L158.2,129.2 L159.8,130.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PS</hasc>
+    <alt-name>Bisnulok|Phisanulauk|Phitsnulok|Pitsanuloke</alt-name>
+    <woe-id>2347139</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH12</fips>
+    <postal-code>PS</postal-code>
+    <name>Phitsanulok</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.49</longitude>
+    <woe-name>Phitsanulok</woe-name>
+    <latitude>16.9748</latitude>
+    <woe-label>Phitsanulok, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>th-ps</hc-key>
+    <hc-a2>PS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.KP" d="M120.2,186.7 L117.8,193.1 L118.6,194.2 L116.2,197.1 L115.8,200.9 L113.8,206.8 L111.0,209.2 L108.2,213.7 L106.6,218.4 L103.6,220.5 L101.2,215.9 L97.8,214.2 L94.1,215.3 L89.5,214.3 L86.0,215.6 L83.2,213.6 L80.6,213.7 L76.8,216.5 L76.3,210.5 L74.3,208.9 L73.6,204.6 L74.2,200.8 L73.0,197.0 L73.7,191.3 L72.6,188.5 L73.4,187.6 L78.4,187.8 L81.2,185.5 L84.1,184.7 L84.8,183.1 L84.5,179.4 L86.7,176.1 L86.9,173.0 L88.0,171.8 L88.9,168.3 L90.8,169.4 L95.7,168.5 L97.2,168.9 L98.5,171.8 L104.7,175.7 L112.3,175.6 L114.4,177.7 L113.9,180.4 L115.0,182.5 L118.8,183.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.KP</hasc>
+    <alt-name>Gampheang Phet|Kambhengbhej</alt-name>
+    <woe-id>2347138</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH11</fips>
+    <postal-code>KP</postal-code>
+    <name>Kamphaeng Phet</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>99.5098</longitude>
+    <woe-name>Kamphaeng Phet</woe-name>
+    <latitude>16.4009</latitude>
+    <woe-label>Kamphaeng Phet, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>th-kp</hc-key>
+    <hc-a2>KP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PC" d="M118.6,194.2 L117.8,193.1 L120.2,186.7 L124.2,185.8 L126.1,183.7 L129.4,182.1 L131.9,186.0 L137.9,184.7 L143.8,185.2 L145.4,189.8 L149.3,193.6 L150.7,198.1 L147.8,203.5 L147.8,207.6 L150.9,208.5 L154.1,210.6 L153.5,213.3 L146.5,212.3 L142.1,213.6 L137.7,213.7 L132.7,213.0 L132.5,214.2 L129.0,213.7 L126.7,212.3 L125.2,209.5 L123.0,203.5 L120.7,201.5 L119.9,195.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347140</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH13</fips>
+    <postal-code>PC</postal-code>
+    <name>Phichit</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.374</longitude>
+    <woe-name>Phichit</woe-name>
+    <latitude>16.2321</latitude>
+    <woe-label>Phichit, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>th-pc</hc-key>
+    <hc-a2>PC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SH" d="M129.9,267.4 L128.8,269.1 L129.5,273.8 L128.3,277.8 L129.2,280.5 L130.9,281.7 L132.2,285.7 L131.0,294.0 L129.5,296.4 L126.3,298.1 L118.7,297.9 L113.7,301.7 L110.6,301.9 L108.8,300.0 L108.5,296.8 L110.5,294.9 L111.1,292.5 L110.9,288.9 L111.2,280.3 L114.1,278.0 L112.2,275.9 L113.1,274.6 L109.4,272.9 L104.4,267.3 L98.2,267.2 L97.5,270.5 L94.3,272.2 L93.3,268.7 L90.8,268.7 L86.2,263.8 L87.3,262.5 L86.0,257.6 L88.0,254.2 L91.9,256.0 L92.4,257.6 L102.3,260.1 L103.3,257.9 L106.5,259.4 L109.8,259.8 L113.2,261.2 L117.8,261.8 L120.4,261.1 L121.5,259.3 L125.6,261.1 L128.8,259.6 L129.4,261.7 L128.9,265.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347175</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH51</fips>
+    <postal-code>SH</postal-code>
+    <name>Suphan Buri</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.034</longitude>
+    <woe-name>Suphan Buri</woe-name>
+    <latitude>14.4298</latitude>
+    <woe-label>Suphan Buri, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>th-sh</hc-key>
+    <hc-a2>SH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.AT" d="M130.9,281.7 L129.2,280.5 L128.3,277.8 L129.5,273.8 L128.8,269.1 L129.9,267.4 L134.9,267.2 L137.1,269.2 L141.1,270.4 L141.6,271.2 L142.9,272.2 L142.2,277.3 L142.2,283.1 L139.1,283.7 L138.3,280.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TH.AT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347160</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH35</fips>
+    <postal-code>AT</postal-code>
+    <name>Ang Thong</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.357</longitude>
+    <woe-name>Ang Thong</woe-name>
+    <latitude>14.6335</latitude>
+    <woe-label>Ang Thong, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.95</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>th-at</hc-key>
+    <hc-a2>AT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.LB" d="M142.9,272.2 L141.6,271.2 L141.1,270.4 L141.9,269.2 L141.1,265.2 L139.1,260.9 L140.2,258.8 L139.5,254.5 L141.0,252.5 L141.9,249.1 L143.2,248.3 L144.7,245.0 L152.4,237.6 L152.9,233.8 L159.6,235.2 L163.7,234.4 L167.0,236.9 L172.0,238.6 L175.6,238.2 L177.0,241.4 L178.8,242.8 L177.8,245.7 L178.0,252.9 L182.6,254.1 L185.8,260.7 L185.7,263.5 L181.1,266.3 L180.6,267.9 L177.9,269.9 L174.1,268.7 L171.0,264.6 L169.0,264.1 L164.7,266.0 L163.1,269.1 L159.6,267.7 L159.3,265.2 L157.3,262.8 L155.3,263.4 L152.3,268.6 L147.3,271.9 L146.5,273.6 L144.8,273.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.LB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347159</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH34</fips>
+    <postal-code>LB</postal-code>
+    <name>Lop Buri</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.944</longitude>
+    <woe-name>Lop Buri</woe-name>
+    <latitude>15.1147</latitude>
+    <woe-label>Lop Buri, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>th-lb</hc-key>
+    <hc-a2>LB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PA" d="M142.9,272.2 L144.8,273.2 L146.5,273.6 L145.7,276.8 L148.0,278.8 L151.8,277.7 L154.7,278.0 L154.1,280.5 L154.6,285.4 L155.8,286.6 L155.2,288.9 L157.2,290.1 L157.2,293.1 L149.6,296.8 L147.9,298.5 L144.9,299.3 L135.5,299.3 L133.1,298.4 L132.4,299.2 L132.1,296.8 L129.5,296.4 L131.0,294.0 L132.2,285.7 L130.9,281.7 L138.3,280.6 L139.1,283.7 L142.2,283.1 L142.2,277.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PA</hasc>
+    <alt-name>Phranakhon Si Ayutthaya|Ayudhya|Ayutthaya|Phranakhornsri-ayuthaya</alt-name>
+    <woe-id>2347161</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH36</fips>
+    <postal-code>PA</postal-code>
+    <name>Phra Nakhon Si Ayutthaya</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.522</longitude>
+    <woe-name>Phra Nakhon Si Ayutthaya</woe-name>
+    <latitude>14.402</latitude>
+    <woe-label>Phra Nakhon Si Ayutthaya, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>th-pa</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NP" d="M129.5,296.4 L132.1,296.8 L132.4,299.2 L131.5,303.4 L132.9,306.2 L132.8,309.9 L134.9,314.2 L134.5,316.5 L134.7,317.5 L132.1,318.7 L131.4,320.8 L123.0,319.7 L121.5,319.2 L120.7,317.2 L117.8,318.2 L117.0,316.9 L117.6,312.2 L116.7,308.3 L113.8,307.4 L110.4,303.2 L110.6,301.9 L113.7,301.7 L118.7,297.9 L126.3,298.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347177</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH53</fips>
+    <postal-code>NP</postal-code>
+    <name>Nakhon Pathom</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.072</longitude>
+    <woe-name>Nakhon Pathom</woe-name>
+    <latitude>13.917</latitude>
+    <woe-label>Nathon Pathon, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>th-np</hc-key>
+    <hc-a2>NP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SB" d="M139.5,254.5 L140.2,258.8 L139.1,260.9 L141.1,265.2 L141.9,269.2 L141.1,270.4 L137.1,269.2 L134.9,267.2 L129.9,267.4 L128.9,265.7 L129.4,261.7 L128.8,259.6 L131.4,259.6 L133.1,257.7 L131.5,256.3 L132.8,254.6 L131.6,252.1 L133.3,249.5 L134.7,249.9 L135.9,252.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TH.SB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347158</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH33</fips>
+    <postal-code>SB</postal-code>
+    <name>Sing Buri</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.343</longitude>
+    <woe-name>Sing Buri</woe-name>
+    <latitude>14.9746</latitude>
+    <woe-label>Sing Buri, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>th-sb</hc-key>
+    <hc-a2>SB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.CN" d="M133.3,249.5 L131.6,252.1 L132.8,254.6 L131.5,256.3 L133.1,257.7 L131.4,259.6 L128.8,259.6 L125.6,261.1 L121.5,259.3 L120.4,261.1 L117.8,261.8 L113.2,261.2 L109.8,259.8 L106.5,259.4 L106.9,256.9 L109.4,255.3 L110.3,253.4 L107.8,249.8 L106.1,244.8 L108.1,242.6 L114.2,244.0 L119.0,243.6 L121.4,245.0 L122.3,242.5 L120.6,239.4 L121.7,237.7 L124.4,237.5 L128.5,240.5 L131.1,243.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.CN</hasc>
+    <alt-name>Chainat</alt-name>
+    <woe-id>2347157</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH32</fips>
+    <postal-code>CN</postal-code>
+    <name>Chai Nat</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.013</longitude>
+    <woe-name>Chai Nat</woe-name>
+    <latitude>15.1055</latitude>
+    <woe-label>Chai Nat, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>th-cn</hc-key>
+    <hc-a2>CN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.BM" d="M141.0,328.5 L139.3,328.9 L138.0,328.8 L138.5,327.8 L137.4,323.1 L135.4,320.9 L134.7,317.5 L134.5,316.5 L134.9,314.2 L141.9,314.2 L143.5,311.9 L144.8,307.1 L150.7,308.5 L161.1,306.9 L160.8,311.8 L162.1,313.2 L158.6,318.6 L158.9,319.1 L152.4,318.3 L150.1,321.0 L146.5,320.4 L146.9,319.0 L142.5,320.4 L142.2,323.6 L140.8,324.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.BM</hasc>
+    <alt-name>Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi</alt-name>
+    <woe-id>2347165</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH40</fips>
+    <postal-code>BM</postal-code>
+    <name>Bangkok Metropolis</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.626</longitude>
+    <woe-name>Bangkok Metropolis</woe-name>
+    <latitude>13.793</latitude>
+    <woe-label>Bangkok, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.19</hc-middle-x>
+    <hc-middle-y>0.92</hc-middle-y>
+    <hc-key>th-bm</hc-key>
+    <hc-a2>BM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PT" d="M144.8,307.1 L142.7,307.2 L135.9,304.6 L135.0,302.7 L135.5,299.3 L144.9,299.3 L147.9,298.5 L149.6,296.8 L157.2,293.1 L159.2,292.2 L161.4,294.4 L161.5,303.6 L161.1,306.7 L161.1,306.9 L150.7,308.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TH.PT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347164</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH39</fips>
+    <postal-code>PT</postal-code>
+    <name>Pathum Thani</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.625</longitude>
+    <woe-name>Pathum Thani</woe-name>
+    <latitude>14.034</latitude>
+    <woe-label>Pathum Thani, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.78</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>th-pt</hc-key>
+    <hc-a2>PT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NO" d="M135.5,299.3 L135.0,302.7 L135.9,304.6 L142.7,307.2 L144.8,307.1 L143.5,311.9 L141.9,314.2 L134.9,314.2 L132.8,309.9 L132.9,306.2 L131.5,303.4 L132.4,299.2 L133.1,298.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TH.NO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347163</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH38</fips>
+    <postal-code>NO</postal-code>
+    <name>Nonthaburi</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.407</longitude>
+    <woe-name>Nonthaburi</woe-name>
+    <latitude>13.8933</latitude>
+    <woe-label>Nonthaburi, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>th-no</hc-key>
+    <hc-a2>NO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SP" d="M158.3,329.3 L150.9,327.8 L146.8,325.7 L145.1,327.8 L141.0,328.5 L140.8,324.4 L142.2,323.6 L142.5,320.4 L146.9,319.0 L146.5,320.4 L150.1,321.0 L152.4,318.3 L158.9,319.1 L162.9,320.7 L163.2,322.1 L159.9,325.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TH.SP</hasc>
+    <alt-name>Pak Nam|Samudh Prakarn|Samudraprakar|Samut Phrakhan</alt-name>
+    <woe-id>2347167</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH42</fips>
+    <postal-code>SP</postal-code>
+    <name>Samut Prakan</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.704</longitude>
+    <woe-name>Samut Prakan</woe-name>
+    <latitude>13.606</latitude>
+    <woe-label>Samut Prakan, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>th-sp</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SS" d="M138.0,328.8 L135.0,329.2 L132.1,327.6 L130.4,329.5 L123.6,331.9 L123.0,330.6 L121.2,328.2 L121.9,323.3 L123.0,319.7 L131.4,320.8 L132.1,318.7 L134.7,317.5 L135.4,320.9 L137.4,323.1 L138.5,327.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TH.SS</hasc>
+    <alt-name>Krokkrak Maha Chai|Mahachai|Samudrasagara</alt-name>
+    <woe-id>2347179</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH55</fips>
+    <postal-code>SS</postal-code>
+    <name>Samut Sakhon</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.225</longitude>
+    <woe-name>Samut Sakhon</woe-name>
+    <latitude>13.5655</latitude>
+    <woe-label>Samut Sakhon, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.83</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>th-ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SM" d="M121.2,328.2 L123.0,330.6 L123.6,331.9 L121.2,333.0 L119.7,336.3 L117.6,338.3 L115.0,339.2 L114.5,340.8 L112.9,339.4 L112.9,336.6 L115.6,328.0 L118.4,328.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TH.SM</hasc>
+    <alt-name>Mae Klong|Samudrasonggram</alt-name>
+    <woe-id>2347178</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH54</fips>
+    <postal-code>SM</postal-code>
+    <name>Samut Songkhram</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>99.97360000000001</longitude>
+    <woe-name>Samut Songkhram</woe-name>
+    <latitude>13.4036</latitude>
+    <woe-label>Samut Songkhran, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>th-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PE" d="M112.9,336.6 L112.9,339.4 L114.5,340.8 L115.0,339.2 L117.6,338.3 L119.4,341.8 L122.9,344.9 L124.3,349.4 L122.3,353.0 L120.7,359.3 L119.0,362.0 L117.9,365.8 L117.8,369.3 L111.5,369.7 L108.5,371.9 L104.5,372.2 L102.2,373.6 L99.7,372.3 L95.2,371.8 L91.9,372.6 L91.4,371.6 L86.0,368.0 L85.0,365.9 L83.1,364.7 L82.9,362.0 L81.1,359.6 L80.2,352.4 L77.5,350.4 L77.9,344.1 L81.8,342.2 L85.0,343.8 L85.7,345.3 L88.1,344.0 L89.2,341.4 L94.1,343.6 L97.7,342.8 L100.2,343.1 L103.9,342.0 L104.1,339.6 L105.7,337.4 L108.2,336.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PE</hasc>
+    <alt-name>Phetcha Buri|Bejraburi|Petchburi|Phet Buri|Tetchburit</alt-name>
+    <woe-id>2347180</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH56</fips>
+    <postal-code>PE</postal-code>
+    <name>Phetchaburi</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Western</region>
+    <longitude>99.5964</longitude>
+    <woe-name>Phetchaburi</woe-name>
+    <latitude>12.8727</latitude>
+    <woe-label>Phetchaburi, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>th-pe</hc-key>
+    <hc-a2>PE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.CC" d="M161.1,306.9 L161.1,306.7 L163.0,306.0 L172.0,305.9 L172.8,308.1 L172.2,310.3 L173.0,311.5 L175.3,310.3 L181.9,311.0 L191.0,315.1 L191.8,316.1 L193.4,314.6 L196.8,315.9 L198.3,314.0 L200.5,313.6 L203.9,317.5 L206.1,317.2 L206.6,319.6 L208.8,323.8 L211.0,323.5 L211.4,328.0 L209.5,328.6 L211.9,335.4 L207.9,338.5 L206.7,341.1 L205.5,340.2 L201.5,342.9 L199.1,343.4 L197.3,339.7 L195.5,337.8 L191.9,335.9 L189.9,332.6 L187.1,332.3 L184.4,330.0 L182.6,330.0 L178.5,325.6 L172.8,323.9 L168.0,326.2 L168.1,327.7 L164.8,329.9 L160.6,329.7 L158.3,329.3 L159.9,325.8 L163.2,322.1 L162.9,320.7 L158.9,319.1 L158.6,318.6 L162.1,313.2 L160.8,311.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.CC</hasc>
+    <alt-name>Chaxerngsao|Pad Rew|Paed Riu|Petrieu|Shajeun Dhrao</alt-name>
+    <woe-id>2347169</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH44</fips>
+    <postal-code>CC</postal-code>
+    <name>Chachoengsao</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Eastern</region>
+    <longitude>101.419</longitude>
+    <woe-name>Chachoengsao</woe-name>
+    <latitude>13.6342</latitude>
+    <woe-label>Chachoengsao, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>th-cc</hc-key>
+    <hc-a2>CC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NN" d="M172.0,305.9 L163.0,306.0 L161.1,306.7 L161.5,303.6 L161.4,294.4 L162.9,292.7 L163.0,290.6 L164.8,290.9 L167.1,289.0 L167.9,285.4 L171.1,286.4 L172.8,288.0 L174.9,286.6 L176.5,281.7 L178.3,280.6 L184.2,284.2 L185.3,285.9 L187.5,286.9 L189.2,289.8 L188.3,291.6 L185.3,292.2 L183.7,291.7 L183.5,293.7 L179.9,296.5 L179.3,298.1 L180.5,301.3 L175.5,302.2 L171.7,304.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NN</hasc>
+    <alt-name>Nakon Nayok</alt-name>
+    <woe-id>2347168</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH43</fips>
+    <postal-code>NN</postal-code>
+    <name>Nakhon Nayok</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Eastern</region>
+    <longitude>101.21</longitude>
+    <woe-name>Nakhon Nayok</woe-name>
+    <latitude>14.2249</latitude>
+    <woe-label>Nakhon Nayok, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>th-nn</hc-key>
+    <hc-a2>NN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.CB" d="M199.1,343.4 L198.2,344.4 L198.0,345.2 L195.4,344.4 L192.7,345.8 L190.8,348.5 L189.0,348.4 L187.6,350.0 L183.7,350.6 L181.7,348.7 L178.9,349.4 L174.1,348.2 L173.3,350.9 L169.9,350.7 L170.3,356.3 L168.2,359.8 L166.1,361.6 L164.8,367.4 L165.0,368.9 L164.8,370.8 L162.6,369.9 L162.2,367.8 L159.4,368.3 L159.7,366.0 L158.4,365.7 L159.8,362.7 L161.0,363.1 L162.2,360.1 L159.8,356.3 L162.8,350.6 L160.2,347.2 L163.3,342.3 L161.7,337.9 L162.6,335.8 L164.9,334.8 L164.8,329.9 L168.1,327.7 L168.0,326.2 L172.8,323.9 L178.5,325.6 L182.6,330.0 L184.4,330.0 L187.1,332.3 L189.9,332.6 L191.9,335.9 L195.5,337.8 L197.3,339.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.CB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347170</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH46</fips>
+    <postal-code>CB</postal-code>
+    <name>Chon Buri</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Eastern</region>
+    <longitude>101.278</longitude>
+    <woe-name>Chon Buri</woe-name>
+    <latitude>13.2988</latitude>
+    <woe-label>Chon Buri, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>th-cb</hc-key>
+    <hc-a2>CB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.BR" d="M268.9,286.9 L264.1,288.1 L261.6,289.3 L258.0,292.5 L254.7,293.9 L253.8,295.6 L249.5,295.6 L244.6,297.3 L239.1,296.6 L238.6,294.4 L240.0,290.1 L238.1,286.1 L237.3,282.1 L234.6,279.5 L233.8,276.4 L234.7,272.5 L231.7,264.1 L234.5,265.4 L237.4,265.1 L237.7,264.0 L235.7,257.8 L239.7,259.1 L243.7,258.4 L245.8,256.9 L247.0,252.6 L250.5,248.6 L256.2,246.8 L255.7,241.5 L256.4,238.6 L254.7,237.6 L255.6,235.6 L257.6,234.8 L254.0,232.2 L249.2,232.0 L247.4,230.3 L246.9,225.8 L248.2,226.7 L250.5,225.9 L252.0,219.4 L254.0,218.6 L256.9,221.6 L255.5,224.1 L260.6,229.7 L260.7,232.1 L262.0,233.0 L261.4,235.1 L263.5,235.8 L264.5,238.4 L265.6,238.2 L268.7,241.0 L270.4,240.9 L273.7,238.9 L276.6,240.3 L278.4,239.8 L279.9,241.3 L277.4,246.7 L277.9,252.7 L277.7,258.5 L275.5,261.8 L270.6,266.6 L270.0,270.9 L268.2,274.8 L268.2,277.9 L269.4,281.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.BR</hasc>
+    <alt-name>Buri Rum</alt-name>
+    <woe-id>2347153</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH28</fips>
+    <postal-code>BR</postal-code>
+    <name>Buri Ram</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>102.971</longitude>
+    <woe-name>Buri Ram</woe-name>
+    <latitude>14.699</latitude>
+    <woe-label>Buriram, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>th-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.KK" d="M254.0,218.6 L252.0,219.4 L250.5,225.9 L248.2,226.7 L246.9,225.8 L244.1,224.6 L242.4,222.1 L238.0,222.9 L234.4,222.4 L229.9,223.4 L227.8,221.8 L225.8,218.3 L225.9,215.5 L228.4,209.8 L223.2,206.8 L222.6,205.7 L225.4,203.0 L228.8,197.5 L230.9,189.7 L228.9,187.6 L227.0,188.3 L221.9,186.9 L219.9,185.4 L213.8,185.5 L209.1,181.6 L208.0,179.4 L203.2,178.3 L200.1,179.0 L198.6,177.8 L200.2,175.1 L200.3,173.2 L204.0,171.7 L208.2,169.2 L209.2,169.4 L213.1,167.4 L219.2,168.5 L221.0,167.1 L223.3,167.5 L225.2,170.3 L229.5,171.7 L233.7,171.5 L235.6,172.9 L237.8,172.4 L240.6,164.1 L241.3,159.6 L242.9,159.3 L245.6,160.7 L247.2,163.2 L247.8,167.2 L250.9,167.2 L253.4,168.7 L260.5,165.2 L261.5,166.5 L261.1,168.8 L263.7,167.7 L264.3,169.4 L263.2,172.7 L263.1,177.9 L259.9,184.2 L256.3,186.5 L253.1,187.5 L253.9,188.9 L251.3,193.8 L249.3,195.5 L250.0,206.0 L252.3,209.4 L252.0,211.7 L253.5,215.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.KK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347147</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH22</fips>
+    <postal-code>KK</postal-code>
+    <name>Khon Kaen</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>102.683</longitude>
+    <woe-name>Khon Kaen</woe-name>
+    <latitude>16.5762</latitude>
+    <woe-label>Khon Kaen, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.72</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>th-kk</hc-key>
+    <hc-a2>KK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PH" d="M200.3,173.2 L200.2,175.1 L198.6,177.8 L197.4,178.5 L195.9,177.2 L193.2,177.2 L191.6,176.3 L189.7,177.8 L187.6,177.7 L187.2,180.5 L187.8,183.7 L185.6,185.3 L185.8,186.9 L182.9,190.5 L181.8,192.8 L181.2,198.2 L179.4,206.2 L180.3,210.6 L182.3,211.9 L181.1,215.3 L179.7,216.7 L179.9,221.4 L182.9,224.0 L181.6,230.7 L181.9,237.8 L178.8,242.8 L177.0,241.4 L175.6,238.2 L172.0,238.6 L167.0,236.9 L163.7,234.4 L159.6,235.2 L152.9,233.8 L155.5,231.0 L157.1,227.7 L157.0,225.1 L155.4,219.3 L155.5,216.5 L153.5,213.3 L154.1,210.6 L150.9,208.5 L147.8,207.6 L147.8,203.5 L150.7,198.1 L149.3,193.6 L151.0,190.4 L154.9,188.5 L157.0,184.7 L157.0,181.8 L158.6,178.6 L161.0,177.2 L159.5,173.7 L165.8,167.0 L167.2,167.0 L169.7,166.0 L170.2,160.7 L171.9,160.3 L173.7,157.0 L178.7,159.3 L185.5,158.9 L188.0,160.3 L190.0,162.6 L193.6,160.2 L197.0,167.4 L197.1,172.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347141</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH14</fips>
+    <postal-code>PH</postal-code>
+    <name>Phetchabun</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>101.21</longitude>
+    <woe-name>Phetchabun</woe-name>
+    <latitude>16.2589</latitude>
+    <woe-label>Phetchabun, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>th-ph</hc-key>
+    <hc-a2>PH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.KL" d="M263.1,177.9 L263.2,172.7 L264.3,169.4 L263.7,167.7 L261.1,168.8 L261.5,166.5 L260.5,165.2 L261.8,163.0 L266.2,162.7 L273.6,165.4 L275.3,168.9 L277.3,165.4 L277.5,162.6 L278.5,161.0 L278.4,158.6 L281.8,155.8 L284.9,158.4 L291.2,162.7 L291.1,164.5 L294.1,167.7 L298.3,170.6 L299.2,169.0 L302.4,167.0 L304.5,168.0 L309.8,175.7 L309.9,178.3 L312.4,182.2 L312.8,186.7 L309.1,186.3 L304.6,188.7 L303.4,186.6 L298.6,186.7 L295.5,185.5 L292.7,186.1 L288.3,189.6 L290.3,193.2 L289.3,197.4 L286.3,197.4 L285.1,198.7 L280.1,198.1 L276.8,199.1 L275.1,194.9 L272.9,193.6 L269.7,189.3 L265.9,191.2 L264.2,190.7 L264.9,187.7 L263.9,184.7 L264.6,182.7 L264.0,180.1 L264.7,178.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.KL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347148</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH23</fips>
+    <postal-code>KL</postal-code>
+    <name>Kalasin</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>103.679</longitude>
+    <woe-name>Kalasin</woe-name>
+    <latitude>16.6224</latitude>
+    <woe-label>Kalasin, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>th-kl</hc-key>
+    <hc-a2>KL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SR" d="M174.1,268.7 L174.8,276.9 L173.9,278.6 L176.5,281.7 L174.9,286.6 L172.8,288.0 L171.1,286.4 L167.9,285.4 L167.1,289.0 L164.8,290.9 L163.0,290.6 L162.9,292.7 L161.4,294.4 L159.2,292.2 L157.2,293.1 L157.2,290.1 L155.2,288.9 L155.8,286.6 L154.6,285.4 L154.1,280.5 L154.7,278.0 L151.8,277.7 L148.0,278.8 L145.7,276.8 L146.5,273.6 L147.3,271.9 L152.3,268.6 L155.3,263.4 L157.3,262.8 L159.3,265.2 L159.6,267.7 L163.1,269.1 L164.7,266.0 L169.0,264.1 L171.0,264.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SR</hasc>
+    <alt-name>Sara Buri</alt-name>
+    <woe-id>2347162</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH37</fips>
+    <postal-code>SR</postal-code>
+    <name>Saraburi</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.909</longitude>
+    <woe-name>Saraburi</woe-name>
+    <latitude>14.4914</latitude>
+    <woe-label>Sara Buri, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>th-sr</hc-key>
+    <hc-a2>SR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NR" d="M176.5,281.7 L173.9,278.6 L174.8,276.9 L174.1,268.7 L177.9,269.9 L180.6,267.9 L181.1,266.3 L185.7,263.5 L185.8,260.7 L182.6,254.1 L178.0,252.9 L177.8,245.7 L178.8,242.8 L182.3,244.7 L183.7,246.9 L191.0,244.9 L194.6,242.1 L203.0,238.4 L205.6,238.5 L206.2,236.4 L208.9,234.5 L208.5,231.4 L210.9,228.6 L212.5,225.5 L214.6,227.3 L217.4,224.3 L218.7,221.3 L221.6,220.9 L225.8,218.3 L227.8,221.8 L229.9,223.4 L234.4,222.4 L238.0,222.9 L242.4,222.1 L244.1,224.6 L246.9,225.8 L247.4,230.3 L249.2,232.0 L254.0,232.2 L257.6,234.8 L255.6,235.6 L254.7,237.6 L256.4,238.6 L255.7,241.5 L256.2,246.8 L250.5,248.6 L247.0,252.6 L245.8,256.9 L243.7,258.4 L239.7,259.1 L235.7,257.8 L237.7,264.0 L237.4,265.1 L234.5,265.4 L231.7,264.1 L234.7,272.5 L233.8,276.4 L234.6,279.5 L237.3,282.1 L238.1,286.1 L240.0,290.1 L238.6,294.4 L239.1,296.6 L236.6,298.0 L237.0,299.3 L234.9,299.0 L234.5,297.0 L228.3,296.4 L225.6,297.8 L222.7,297.3 L220.9,295.2 L219.3,297.4 L215.6,296.5 L214.0,295.2 L209.8,291.9 L209.1,290.6 L210.7,287.8 L209.5,286.1 L208.5,287.0 L206.7,285.5 L205.6,286.7 L200.7,287.7 L199.9,289.2 L193.9,283.8 L190.6,284.1 L187.9,282.6 L184.2,284.2 L178.3,280.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NR</hasc>
+    <alt-name>Khorat|Nagara Rajasima|Nakaun Rachasima</alt-name>
+    <woe-id>2347152</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH32</fips>
+    <postal-code>NR</postal-code>
+    <name>Nakhon Ratchasima</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>102.103</longitude>
+    <woe-name>Nakhon Ratchasima</woe-name>
+    <latitude>14.8923</latitude>
+    <woe-label>Nakhon Ratchasima, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>th-nr</hc-key>
+    <hc-a2>NR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SI" d="M302.1,235.6 L306.5,229.5 L308.6,228.1 L309.6,231.1 L314.5,237.3 L316.4,238.4 L320.9,239.6 L322.2,241.0 L324.2,242.0 L329.9,242.9 L330.6,242.2 L334.4,242.6 L337.0,246.0 L334.8,249.5 L335.3,255.6 L336.4,257.3 L339.7,258.4 L341.6,260.6 L341.2,263.1 L343.5,267.3 L345.9,270.4 L343.6,270.4 L342.2,275.0 L343.6,276.9 L343.5,280.6 L344.9,280.5 L346.2,282.8 L342.3,282.0 L339.5,280.7 L336.8,282.4 L331.3,282.4 L329.0,284.8 L326.7,284.2 L325.3,285.0 L318.9,284.2 L315.3,283.2 L313.2,284.3 L312.4,283.1 L310.7,284.8 L309.0,284.3 L306.0,285.5 L306.7,280.8 L305.8,276.2 L306.3,270.9 L303.8,267.5 L303.1,264.0 L300.1,263.0 L300.2,259.9 L304.0,253.2 L301.7,246.8 L302.8,242.2 L306.1,238.7 L305.6,235.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SI</hasc>
+    <alt-name>Sisaket|Khukhan|Khukhandh|Srisaket</alt-name>
+    <woe-id>2347155</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH30</fips>
+    <postal-code>SI</postal-code>
+    <name>Si Sa Ket</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>104.418</longitude>
+    <woe-name>Si Sa Ket</woe-name>
+    <latitude>14.8248</latitude>
+    <woe-label>Sisaket, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>th-si</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.RE" d="M308.6,228.1 L306.5,229.5 L302.1,235.6 L301.7,234.7 L298.2,233.8 L297.9,232.9 L292.9,234.4 L286.2,234.1 L283.9,233.4 L280.9,234.8 L277.5,234.4 L276.0,235.3 L277.0,231.3 L271.7,229.2 L270.3,226.9 L272.1,223.2 L273.8,221.9 L276.7,221.4 L277.9,214.5 L279.0,211.4 L277.6,204.4 L277.9,201.9 L280.1,198.1 L285.1,198.7 L286.3,197.4 L289.3,197.4 L290.3,193.2 L288.3,189.6 L292.7,186.1 L295.5,185.5 L298.6,186.7 L303.4,186.6 L304.6,188.7 L309.1,186.3 L312.8,186.7 L315.9,185.7 L317.0,191.5 L318.0,191.8 L316.8,194.8 L315.0,195.4 L312.6,199.4 L307.0,202.9 L307.1,208.3 L303.0,208.7 L302.8,217.1 L305.7,216.0 L305.6,214.8 L308.4,217.5 L308.3,221.6 L310.1,222.2 L312.3,226.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.RE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347150</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH25</fips>
+    <postal-code>RE</postal-code>
+    <name>Roi Et</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>103.827</longitude>
+    <woe-name>Roi Et</woe-name>
+    <latitude>15.9601</latitude>
+    <woe-label>Roi Et, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>th-re</hc-key>
+    <hc-a2>RE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.LE" d="M213.1,167.4 L209.2,169.4 L208.2,169.2 L204.0,171.7 L200.3,173.2 L197.1,172.9 L197.0,167.4 L193.6,160.2 L190.0,162.6 L188.0,160.3 L185.5,158.9 L178.7,159.3 L173.7,157.0 L171.9,160.3 L170.2,160.7 L169.7,166.0 L167.2,167.0 L165.4,164.9 L165.3,162.6 L167.1,154.8 L168.3,151.8 L163.6,147.2 L160.5,147.0 L158.6,140.5 L161.1,136.3 L163.1,136.7 L166.2,139.1 L170.0,140.7 L171.5,138.3 L173.1,137.7 L175.1,134.4 L180.1,130.3 L182.0,127.6 L184.5,126.8 L185.1,128.2 L186.6,126.1 L189.0,124.8 L189.9,121.2 L191.0,121.8 L192.6,119.9 L196.8,119.0 L198.3,112.9 L199.4,111.3 L203.7,113.3 L204.6,112.9 L212.0,104.7 L213.7,104.5 L212.1,108.0 L211.6,110.4 L210.1,115.5 L211.4,122.8 L210.3,127.2 L210.9,130.1 L212.2,129.3 L214.8,134.3 L215.8,137.8 L212.8,140.5 L209.1,140.7 L209.0,142.8 L210.5,144.8 L210.5,146.9 L208.7,149.0 L207.1,152.6 L208.6,155.1 L213.7,157.0 L216.4,161.2 L211.4,164.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.LE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347145</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH18</fips>
+    <postal-code>LE</postal-code>
+    <name>Loei</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>101.517</longitude>
+    <woe-name>Loei</woe-name>
+    <latitude>17.4099</latitude>
+    <woe-label>Loei, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>th-le</hc-key>
+    <hc-a2>LE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NK" d="M211.6,110.4 L212.1,108.0 L213.7,104.5 L216.6,105.0 L217.5,107.3 L222.8,112.0 L225.5,112.5 L227.7,114.6 L230.8,115.6 L234.7,115.6 L236.8,118.2 L236.1,121.3 L240.1,123.1 L239.4,121.2 L247.7,115.2 L251.5,113.4 L256.0,114.2 L257.6,112.0 L257.1,109.3 L257.8,107.3 L260.4,105.7 L260.9,103.1 L262.4,101.4 L266.4,100.4 L267.4,99.5 L267.7,102.3 L270.4,103.0 L271.0,104.4 L268.5,107.9 L268.8,109.8 L274.1,113.8 L271.6,114.4 L272.6,116.5 L272.6,119.7 L269.0,121.3 L266.5,119.3 L264.3,120.1 L262.0,123.0 L256.9,119.1 L253.9,122.2 L252.1,119.7 L249.2,119.3 L247.7,122.9 L248.3,126.9 L242.7,133.0 L239.2,133.2 L237.0,132.2 L236.9,128.9 L233.7,126.0 L230.6,125.9 L227.6,121.7 L226.7,119.4 L222.1,115.6 L218.2,113.6 L215.8,114.8 L214.1,111.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347144</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH17</fips>
+    <postal-code>NK</postal-code>
+    <name>Nong Khai</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>102.754</longitude>
+    <woe-name>Nong Khai</woe-name>
+    <latitude>17.7553</latitude>
+    <woe-label>Nong Khai, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>th-nk</hc-key>
+    <hc-a2>NK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.AC" d="M339.2,197.5 L342.1,196.7 L347.1,192.4 L348.9,194.1 L349.8,199.6 L352.8,201.7 L352.1,203.6 L349.6,206.3 L350.8,210.8 L349.1,212.7 L349.3,215.6 L347.7,218.8 L345.8,224.8 L345.7,229.7 L344.5,231.5 L342.2,229.9 L340.6,230.3 L338.9,227.4 L335.9,226.8 L334.0,224.4 L332.1,224.7 L332.9,226.0 L330.1,227.9 L326.1,226.8 L322.9,224.2 L321.9,220.3 L323.6,211.2 L325.2,209.1 L327.9,203.2 L330.2,201.1 L339.0,199.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.AC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347201</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH77</fips>
+    <postal-code>AC</postal-code>
+    <name>Amnat Charoen</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>104.766</longitude>
+    <woe-name>Amnat Charoen</woe-name>
+    <latitude>15.8583</latitude>
+    <woe-label>Amnat Charoen, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>th-ac</hc-key>
+    <hc-a2>AC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.MD" d="M347.1,192.4 L342.1,196.7 L339.2,197.5 L334.6,196.6 L332.5,195.5 L330.8,196.6 L328.7,194.9 L327.4,192.3 L324.5,190.8 L320.2,190.7 L318.0,191.8 L317.0,191.5 L315.9,185.7 L312.8,186.7 L312.4,182.2 L309.9,178.3 L309.8,175.7 L304.5,168.0 L305.7,167.7 L307.5,165.0 L312.0,164.8 L315.0,166.7 L316.7,165.9 L319.4,166.7 L323.7,166.6 L325.8,168.3 L328.4,167.3 L332.3,167.8 L332.5,170.1 L335.3,170.8 L334.7,168.5 L335.8,167.8 L336.9,172.6 L335.9,177.5 L336.0,181.5 L341.4,185.7 L343.3,189.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.MD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347197</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH78</fips>
+    <postal-code>MD</postal-code>
+    <name>Mukdahan</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>104.531</longitude>
+    <woe-name>Mukdahan</woe-name>
+    <latitude>16.5636</latitude>
+    <woe-label>Mukdahan, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>th-md</hc-key>
+    <hc-a2>MD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SN" d="M312.0,164.8 L307.5,165.0 L305.7,167.7 L304.5,168.0 L302.4,167.0 L299.2,169.0 L298.3,170.6 L294.1,167.7 L291.1,164.5 L291.2,162.7 L284.9,158.4 L284.9,155.5 L282.1,152.9 L280.4,152.8 L276.7,150.4 L273.1,150.4 L270.5,149.0 L267.3,148.3 L266.2,146.0 L268.2,142.7 L267.2,140.3 L267.6,138.3 L270.3,133.2 L272.7,132.5 L272.6,125.3 L271.2,123.5 L272.6,119.7 L272.6,116.5 L271.6,114.4 L274.1,113.8 L275.9,111.2 L278.8,110.3 L283.1,112.6 L282.6,114.5 L288.2,117.0 L288.8,115.6 L290.7,119.4 L295.2,118.7 L296.3,121.7 L298.6,123.7 L300.4,122.1 L301.0,124.2 L303.0,125.6 L303.6,128.0 L301.6,130.2 L302.4,132.0 L300.8,137.9 L303.1,141.7 L306.3,141.8 L307.8,140.4 L310.9,140.6 L315.1,139.7 L319.2,139.6 L319.5,142.6 L320.9,147.7 L319.2,151.2 L318.9,153.9 L317.3,155.7 L318.9,157.9 L315.7,160.8 L314.9,162.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347146</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH20</fips>
+    <postal-code>SN</postal-code>
+    <name>Sakon Nakhon</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>103.845</longitude>
+    <woe-name>Sakon Nakhon</woe-name>
+    <latitude>17.3577</latitude>
+    <woe-label>Sakon Nakhon, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>th-sn</hc-key>
+    <hc-a2>SN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NW" d="M196.2,656.5 L195.7,653.4 L198.0,653.0 L200.3,655.6 L201.9,655.6 L206.0,660.7 L210.7,663.7 L216.0,668.7 L218.5,670.5 L218.5,676.7 L218.0,678.2 L213.2,682.1 L211.4,685.5 L211.1,689.3 L206.9,693.1 L205.8,695.0 L202.9,693.0 L200.4,694.0 L198.6,693.0 L197.9,689.6 L195.2,687.2 L191.5,687.9 L190.7,683.6 L190.9,680.7 L185.9,673.5 L186.9,672.2 L188.3,663.3 L193.1,661.8 L196.7,657.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347156</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH31</fips>
+    <postal-code>NW</postal-code>
+    <name>Narathiwat</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>101.727</longitude>
+    <woe-name>Narathiwat</woe-name>
+    <latitude>6.17758</latitude>
+    <woe-label>Narathiwat, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>th-nw</hc-key>
+    <hc-a2>NW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PI" d="M201.9,655.6 L200.3,655.6 L198.0,653.0 L195.7,653.4 L196.2,656.5 L194.1,657.0 L191.8,654.6 L189.6,655.8 L184.0,656.8 L182.1,654.4 L181.9,651.1 L178.8,654.3 L175.2,654.5 L172.5,652.7 L170.6,652.0 L169.5,648.2 L169.6,645.1 L170.9,642.3 L176.7,642.1 L179.2,640.2 L184.2,641.4 L183.1,639.4 L180.0,638.1 L182.8,637.9 L185.8,640.0 L189.9,641.0 L194.4,643.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347193</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH69</fips>
+    <postal-code>PI</postal-code>
+    <name>Pattani</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>101.381</longitude>
+    <woe-name>Pattani</woe-name>
+    <latitude>6.7391</latitude>
+    <woe-label>Pattani, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.21</hc-middle-y>
+    <hc-key>th-pi</hc-key>
+    <hc-a2>PI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.RN" d="M50.2,526.8 L46.4,524.4 L44.5,524.9 L46.2,520.8 L47.7,515.3 L49.1,516.3 L51.2,514.5 L48.0,512.7 L50.4,510.3 L49.7,507.2 L51.8,507.9 L52.8,506.2 L50.1,504.6 L52.8,503.0 L50.3,501.7 L53.1,498.0 L56.0,495.7 L54.6,494.3 L57.3,490.0 L60.1,483.2 L60.5,480.2 L63.4,469.4 L62.7,466.4 L61.4,464.5 L62.2,461.4 L65.2,457.9 L67.5,456.7 L69.6,458.9 L68.9,461.5 L70.4,462.5 L71.9,465.9 L71.6,468.6 L69.0,471.1 L68.6,474.0 L70.6,476.0 L70.8,477.9 L69.1,480.5 L68.3,485.1 L70.3,488.1 L68.6,493.2 L66.3,494.3 L64.8,496.5 L62.5,496.8 L60.1,500.7 L56.3,504.1 L56.1,505.6 L57.5,510.3 L61.4,512.8 L62.6,515.4 L57.0,521.3 L57.8,524.4 L51.3,525.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.RN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347183</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH59</fips>
+    <postal-code>RN</postal-code>
+    <name>Ranong</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>98.58</longitude>
+    <woe-name>Ranong</woe-name>
+    <latitude>9.51717</latitude>
+    <woe-label>Ranong, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.11</hc-middle-x>
+    <hc-middle-y>0.84</hc-middle-y>
+    <hc-key>th-rn</hc-key>
+    <hc-a2>RN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NT" d="M89.1,591.2 L89.4,588.8 L86.7,583.7 L88.1,579.0 L88.0,574.7 L85.7,572.4 L84.6,569.7 L86.7,565.5 L86.5,562.9 L88.6,563.9 L92.3,561.9 L94.2,560.1 L94.4,558.3 L96.1,556.9 L97.7,554.0 L98.0,548.7 L100.7,545.5 L105.4,544.7 L107.3,542.5 L108.2,538.8 L110.1,538.4 L109.9,535.8 L107.5,534.0 L108.6,530.5 L108.4,527.9 L109.4,526.5 L110.9,526.0 L113.2,527.3 L114.8,533.8 L116.2,536.4 L117.0,541.2 L116.4,542.2 L118.3,558.3 L119.4,561.1 L122.1,562.7 L125.1,568.7 L127.6,570.2 L129.0,569.7 L128.0,564.8 L130.6,567.2 L133.0,573.4 L134.5,582.8 L136.4,591.3 L133.4,591.9 L127.6,594.4 L126.4,597.8 L122.4,596.8 L120.7,594.2 L118.4,593.0 L111.4,594.0 L108.2,595.5 L107.6,593.6 L108.4,589.6 L107.3,588.9 L101.7,589.5 L98.6,594.2 L92.0,593.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NT</hasc>
+    <alt-name>Nakhon Thammarat|Nagara Sridharmaraj|Nakhon Sri Thammarat|Nakhornsrithamrat|Nakornsrithamaraj</alt-name>
+    <woe-id>2347188</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH64</fips>
+    <postal-code>NT</postal-code>
+    <name>Nakhon Si Thammarat</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>99.78189999999999</longitude>
+    <woe-name>Nakhon Si Thammarat</woe-name>
+    <latitude>8.37448</latitude>
+    <woe-label>Nakhon Si Thammarat, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.75</hc-middle-y>
+    <hc-key>th-nt</hc-key>
+    <hc-a2>NT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SG" d="M122.6,632.7 L121.8,631.4 L123.3,629.7 L127.7,627.2 L133.6,626.0 L136.6,623.7 L138.2,621.1 L138.5,623.1 L140.5,624.1 L138.9,625.2 L140.4,627.6 L143.3,629.1 L146.6,628.8 L148.1,627.2 L148.0,625.1 L156.5,636.4 L159.5,637.9 L160.5,637.4 L165.2,641.2 L167.5,642.4 L170.9,642.3 L169.6,645.1 L169.5,648.2 L170.6,652.0 L172.5,652.7 L172.6,655.3 L169.1,660.3 L164.2,662.4 L164.0,666.8 L162.2,668.6 L159.4,668.8 L158.5,663.3 L155.5,661.6 L154.1,659.6 L151.1,661.8 L144.9,660.2 L142.5,658.7 L138.7,658.3 L135.4,655.7 L133.7,650.4 L129.8,649.9 L129.6,645.5 L130.5,641.1 L126.0,638.9 L123.7,635.8 Z M129.8,599.2 L127.9,598.1 L126.4,597.8 L127.6,594.4 L133.4,591.9 L136.4,591.3 L141.1,613.1 L144.0,619.9 L147.1,624.8 L146.2,626.4 L142.6,623.4 L140.4,623.0 L141.1,621.8 L139.6,617.8 L139.5,610.8 L138.7,608.9 L135.7,608.5 L134.0,611.2 L133.3,608.4 L135.6,606.6 L134.8,599.9 L133.0,598.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347192</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH68</fips>
+    <postal-code>SG</postal-code>
+    <name>Songkhla</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>100.568</longitude>
+    <woe-name>Songkhla</woe-name>
+    <latitude>6.81212</latitude>
+    <woe-label>Songkhla, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>th-sg</hc-key>
+    <hc-a2>SG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PR" d="M123.6,77.2 L125.8,76.3 L134.1,77.0 L136.0,81.1 L135.0,82.5 L135.3,85.1 L136.5,85.4 L135.7,88.0 L136.7,92.0 L140.4,92.1 L142.2,93.0 L142.8,95.2 L140.9,99.1 L141.1,102.4 L138.6,108.4 L136.7,109.3 L137.5,114.7 L134.9,116.8 L133.7,120.5 L131.5,117.5 L128.5,119.1 L124.3,122.3 L118.3,123.7 L116.2,125.9 L113.8,124.9 L108.7,125.9 L106.7,128.8 L103.2,125.3 L100.4,124.4 L98.1,124.8 L94.6,128.5 L90.4,131.0 L89.0,130.7 L87.4,128.4 L87.4,126.6 L90.1,126.2 L96.5,118.5 L100.9,114.0 L102.4,114.6 L105.9,112.3 L109.9,105.3 L112.4,102.6 L114.4,101.7 L116.8,97.5 L118.5,96.5 L120.9,91.7 L121.2,89.4 L123.4,88.8 L123.9,87.0 L123.1,81.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347134</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH07</fips>
+    <postal-code>PR</postal-code>
+    <name>Phrae</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>99.9263</longitude>
+    <woe-name>Phrae</woe-name>
+    <latitude>18.0577</latitude>
+    <woe-label>Phrae, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>th-pr</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PY" d="M134.1,77.0 L125.8,76.3 L123.6,77.2 L121.5,76.5 L120.2,73.4 L116.6,71.2 L115.0,69.0 L111.1,68.3 L110.2,65.9 L108.7,65.5 L105.0,57.5 L105.1,53.3 L104.0,48.0 L106.6,46.8 L113.9,45.5 L114.1,49.5 L115.6,50.1 L118.2,48.0 L121.7,48.0 L124.0,46.0 L126.3,39.2 L129.8,38.1 L133.4,36.2 L135.4,33.9 L136.8,38.2 L138.4,40.5 L138.7,42.7 L142.7,44.7 L143.8,44.1 L143.5,46.2 L141.0,49.7 L142.1,51.9 L143.8,51.7 L145.4,53.1 L144.8,56.3 L146.6,61.7 L143.5,63.8 L143.9,66.5 L139.7,65.8 L138.9,68.4 L140.6,68.8 L139.5,70.6 L137.1,71.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347166</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH41</fips>
+    <postal-code>PY</postal-code>
+    <name>Phayao</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>100.16</longitude>
+    <woe-name>Phayao</woe-name>
+    <latitude>19.1866</latitude>
+    <woe-label>Phayao, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>th-py</hc-key>
+    <hc-a2>PY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SO" d="M113.8,124.9 L117.1,129.6 L117.1,133.7 L115.3,135.5 L116.2,137.3 L119.4,140.5 L120.1,142.4 L118.6,143.5 L119.2,148.0 L117.3,150.9 L117.8,155.1 L115.0,155.2 L115.3,157.1 L119.1,160.9 L122.6,162.9 L124.7,164.9 L124.1,167.8 L120.2,168.1 L119.7,169.7 L116.7,169.3 L113.6,175.3 L115.6,176.0 L114.4,177.7 L112.3,175.6 L104.7,175.7 L98.5,171.8 L97.2,168.9 L95.7,168.5 L90.8,169.4 L88.9,168.3 L86.0,166.4 L85.5,164.8 L85.9,160.2 L87.7,157.9 L87.6,150.7 L89.0,151.0 L90.9,153.4 L93.1,152.3 L94.8,146.1 L92.8,144.5 L93.1,142.7 L92.0,141.1 L93.0,138.3 L92.2,136.3 L93.7,134.6 L94.7,131.2 L94.6,128.5 L98.1,124.8 L100.4,124.4 L103.2,125.3 L106.7,128.8 L108.7,125.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SO</hasc>
+    <alt-name>Sawankhalokt|Sukhotai|Sukothai|Svargalok</alt-name>
+    <woe-id>2347136</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH09</fips>
+    <postal-code>SO</postal-code>
+    <name>Sukhothai</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>99.7009</longitude>
+    <woe-name>Sukhothai</woe-name>
+    <latitude>17.2435</latitude>
+    <woe-label>Sukhothai, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>th-so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.UD" d="M117.8,155.1 L117.3,150.9 L119.2,148.0 L118.6,143.5 L120.1,142.4 L119.4,140.5 L116.2,137.3 L115.3,135.5 L117.1,133.7 L117.1,129.6 L113.8,124.9 L116.2,125.9 L118.3,123.7 L124.3,122.3 L128.5,119.1 L131.5,117.5 L133.7,120.5 L134.9,116.8 L137.5,114.7 L141.7,114.6 L144.3,113.1 L152.8,114.1 L156.4,111.4 L159.9,103.5 L166.8,97.6 L170.5,99.9 L169.4,103.6 L170.8,105.5 L170.0,109.3 L171.1,112.6 L168.8,114.7 L166.7,118.3 L164.1,120.2 L163.5,123.9 L162.2,124.8 L161.8,129.1 L159.8,130.1 L158.2,129.2 L156.4,132.1 L153.8,134.1 L151.2,137.6 L146.2,141.0 L145.2,142.7 L141.3,143.7 L138.5,143.2 L131.9,145.5 L129.8,148.5 L130.5,151.0 L128.0,153.5 L125.5,153.5 L120.2,155.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.UD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347137</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH10</fips>
+    <postal-code>UD</postal-code>
+    <name>Uttaradit</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>100.531</longitude>
+    <woe-name>Uttaradit</woe-name>
+    <latitude>17.7188</latitude>
+    <woe-label>Uttaradit, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>th-ud</hc-key>
+    <hc-a2>UD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.KN" d="M79.9,318.0 L78.2,316.1 L77.4,311.3 L73.9,307.8 L71.0,303.6 L70.6,301.6 L67.3,299.6 L61.8,295.4 L59.6,292.1 L57.9,292.2 L54.4,289.7 L52.3,287.0 L49.1,280.5 L47.9,279.9 L46.4,276.1 L40.8,270.7 L38.3,266.8 L37.4,261.3 L36.1,258.6 L36.3,255.1 L34.8,251.6 L36.0,249.1 L35.4,247.1 L37.1,247.2 L40.2,243.8 L45.3,245.4 L44.6,243.6 L45.5,240.8 L49.0,239.5 L51.7,242.2 L53.0,240.8 L53.3,236.2 L52.2,229.1 L52.3,225.7 L57.7,228.4 L60.8,233.2 L67.4,242.9 L68.1,244.4 L72.2,247.2 L73.2,254.0 L76.8,257.1 L79.3,256.6 L84.6,258.0 L86.0,257.6 L87.3,262.5 L86.2,263.8 L90.8,268.7 L93.3,268.7 L94.3,272.2 L97.5,270.5 L98.2,267.2 L104.4,267.3 L109.4,272.9 L113.1,274.6 L112.2,275.9 L114.1,278.0 L111.2,280.3 L110.9,288.9 L111.1,292.5 L110.5,294.9 L108.5,296.8 L108.8,300.0 L110.6,301.9 L110.4,303.2 L113.8,307.4 L110.0,313.6 L105.0,313.3 L99.8,314.9 L98.5,316.2 L95.3,314.5 L89.5,316.6 L84.6,316.0 L82.6,317.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.KN</hasc>
+    <alt-name>Kan Buri|Park Prag</alt-name>
+    <woe-id>2347174</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH50</fips>
+    <postal-code>KN</postal-code>
+    <name>Kanchanaburi</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Western</region>
+    <longitude>99.29689999999999</longitude>
+    <woe-name>Kanchanaburi</woe-name>
+    <latitude>14.3317</latitude>
+    <woe-label>Kanchanaburi, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>th-kn</hc-key>
+    <hc-a2>KN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.TK" d="M52.3,225.7 L52.2,222.8 L53.7,218.1 L53.4,214.1 L54.1,211.4 L52.8,207.7 L55.4,208.1 L57.5,204.8 L59.3,204.3 L63.2,205.5 L65.6,203.5 L66.0,200.5 L67.8,198.1 L68.7,193.1 L67.9,191.1 L64.5,189.5 L63.5,192.6 L58.6,197.4 L57.5,196.0 L56.2,190.8 L56.3,188.4 L53.3,184.2 L52.5,181.0 L50.9,179.9 L48.4,176.1 L49.2,173.6 L51.3,171.8 L50.8,168.1 L47.5,162.5 L45.8,161.1 L41.9,160.5 L39.9,157.9 L40.4,156.5 L37.7,153.5 L32.3,148.6 L31.8,145.3 L29.4,143.8 L27.0,139.0 L23.6,136.6 L26.3,135.9 L32.6,132.7 L37.0,132.4 L39.1,130.6 L41.5,130.1 L39.5,133.0 L39.6,135.5 L41.7,136.3 L42.4,138.3 L42.0,144.4 L43.0,148.7 L46.6,151.2 L53.3,149.4 L53.7,146.7 L52.7,145.8 L53.5,143.0 L52.0,140.8 L53.2,136.6 L55.6,135.9 L56.2,134.4 L55.5,131.5 L57.9,128.2 L60.0,127.3 L61.6,130.7 L59.8,131.6 L59.5,134.2 L60.5,140.1 L62.8,140.1 L67.0,137.8 L68.3,133.8 L70.1,132.6 L73.7,134.2 L74.6,139.2 L73.7,143.1 L75.2,145.0 L81.0,147.2 L83.1,144.3 L85.4,144.5 L85.9,148.0 L87.6,150.7 L87.7,157.9 L85.9,160.2 L85.5,164.8 L86.0,166.4 L88.9,168.3 L88.0,171.8 L86.9,173.0 L86.7,176.1 L84.5,179.4 L84.8,183.1 L84.1,184.7 L81.2,185.5 L78.4,187.8 L73.4,187.6 L72.6,188.5 L73.7,191.3 L73.0,197.0 L74.2,200.8 L73.6,204.6 L74.3,208.9 L76.3,210.5 L76.8,216.5 L77.1,218.3 L78.7,221.2 L78.8,223.7 L77.9,228.0 L75.2,231.4 L76.2,234.7 L75.8,238.8 L73.9,245.0 L72.2,247.2 L68.1,244.4 L67.4,242.9 L60.8,233.2 L57.7,228.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.TK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347135</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH08</fips>
+    <postal-code>TK</postal-code>
+    <name>Tak</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Western</region>
+    <longitude>98.8441</longitude>
+    <woe-name>Tak</woe-name>
+    <latitude>17.0043</latitude>
+    <woe-label>Tak, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>th-tk</hc-key>
+    <hc-a2>TK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.UT" d="M78.7,221.2 L80.6,221.1 L84.2,223.7 L89.9,226.7 L90.8,228.3 L94.6,230.9 L96.6,231.1 L103.5,226.1 L106.5,225.4 L108.7,227.4 L112.2,227.5 L113.1,230.8 L115.0,233.1 L117.8,233.6 L121.1,236.4 L121.7,237.7 L120.6,239.4 L122.3,242.5 L121.4,245.0 L119.0,243.6 L114.2,244.0 L108.1,242.6 L106.1,244.8 L107.8,249.8 L110.3,253.4 L109.4,255.3 L106.9,256.9 L106.5,259.4 L103.3,257.9 L102.3,260.1 L92.4,257.6 L91.9,256.0 L88.0,254.2 L86.0,257.6 L84.6,258.0 L79.3,256.6 L76.8,257.1 L73.2,254.0 L72.2,247.2 L73.9,245.0 L75.8,238.8 L76.2,234.7 L75.2,231.4 L77.9,228.0 L78.8,223.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.UT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347142</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH15</fips>
+    <postal-code>UT</postal-code>
+    <name>Uthai Thani</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>99.5275</longitude>
+    <woe-name>Uthai Thani</woe-name>
+    <latitude>15.27</latitude>
+    <woe-label>Uthai Thani, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>th-ut</hc-key>
+    <hc-a2>UT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NS" d="M121.7,237.7 L121.1,236.4 L117.8,233.6 L115.0,233.1 L113.1,230.8 L112.2,227.5 L108.7,227.4 L106.5,225.4 L103.5,226.1 L96.6,231.1 L94.6,230.9 L90.8,228.3 L89.9,226.7 L84.2,223.7 L80.6,221.1 L78.7,221.2 L77.1,218.3 L76.8,216.5 L80.6,213.7 L83.2,213.6 L86.0,215.6 L89.5,214.3 L94.1,215.3 L97.8,214.2 L101.2,215.9 L103.6,220.5 L106.6,218.4 L108.2,213.7 L111.0,209.2 L113.8,206.8 L115.8,200.9 L116.2,197.1 L118.6,194.2 L119.9,195.9 L120.7,201.5 L123.0,203.5 L125.2,209.5 L126.7,212.3 L129.0,213.7 L132.5,214.2 L132.7,213.0 L137.7,213.7 L142.1,213.6 L146.5,212.3 L153.5,213.3 L155.5,216.5 L155.4,219.3 L157.0,225.1 L157.1,227.7 L155.5,231.0 L152.9,233.8 L152.4,237.6 L144.7,245.0 L143.2,248.3 L141.9,249.1 L141.0,252.5 L139.5,254.5 L135.9,252.9 L134.7,249.9 L133.3,249.5 L131.1,243.8 L128.5,240.5 L124.4,237.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347143</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH16</fips>
+    <postal-code>NS</postal-code>
+    <name>Nakhon Sawan</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Central</region>
+    <longitude>100.25</longitude>
+    <woe-name>Nakhon Sawan</woe-name>
+    <latitude>15.6943</latitude>
+    <woe-label>Nakhon Sawan, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>th-ns</hc-key>
+    <hc-a2>NS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PK" d="M79.7,444.9 L83.1,441.6 L84.5,437.4 L87.9,431.6 L90.1,428.9 L90.8,426.1 L93.1,423.2 L93.7,418.5 L94.9,417.2 L97.9,416.9 L101.4,412.4 L102.5,408.1 L99.9,406.2 L98.9,404.4 L99.9,400.5 L97.3,398.2 L98.5,393.2 L94.8,393.5 L94.4,387.3 L93.2,385.4 L92.7,381.3 L91.1,377.4 L91.9,372.6 L95.2,371.8 L99.7,372.3 L102.2,373.6 L104.5,372.2 L108.5,371.9 L111.5,369.7 L117.8,369.3 L118.7,373.8 L118.7,377.9 L120.1,381.2 L118.8,386.1 L120.6,390.3 L119.1,392.1 L117.6,396.0 L113.0,400.9 L111.0,407.3 L111.2,411.6 L108.2,413.1 L103.1,422.0 L102.3,425.9 L99.7,430.9 L99.6,433.6 L100.5,436.6 L97.2,438.5 L96.2,441.3 L97.1,444.0 L96.7,446.8 L92.4,448.8 L85.6,448.7 L80.4,446.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PK</hasc>
+    <alt-name>Korh Luxk|Prachuab Girikhand|Prachuapkirikhan|Prachut Khirikhan</alt-name>
+    <woe-id>2347181</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH57</fips>
+    <postal-code>PK</postal-code>
+    <name>Prachuap Khiri Khan</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Western</region>
+    <longitude>99.7274</longitude>
+    <woe-name>Prachuap Khiri Khan</woe-name>
+    <latitude>12.3053</latitude>
+    <woe-label>Prachuap Khiri Khan, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.19</hc-middle-y>
+    <hc-key>th-pk</hc-key>
+    <hc-a2>PK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.UR" d="M352.8,201.7 L358.9,203.6 L366.6,204.9 L367.3,206.0 L364.8,208.0 L364.7,209.7 L367.3,215.3 L369.0,216.9 L372.5,216.9 L376.6,218.7 L378.5,222.8 L375.9,232.9 L371.3,235.4 L371.2,237.3 L374.7,237.7 L375.0,240.2 L372.3,242.2 L370.1,244.9 L370.1,248.8 L373.1,250.0 L374.9,252.9 L376.8,253.5 L374.1,256.3 L374.9,257.8 L373.5,259.0 L373.6,261.1 L372.3,263.4 L373.1,265.7 L372.7,269.4 L373.5,272.5 L372.9,275.2 L369.4,280.5 L365.7,282.6 L363.5,282.3 L362.6,283.7 L357.4,285.5 L355.0,290.3 L352.5,291.1 L350.7,289.8 L349.1,287.1 L348.9,283.3 L346.2,282.8 L344.9,280.5 L343.5,280.6 L343.6,276.9 L342.2,275.0 L343.6,270.4 L345.9,270.4 L343.5,267.3 L341.2,263.1 L341.6,260.6 L339.7,258.4 L336.4,257.3 L335.3,255.6 L334.8,249.5 L337.0,246.0 L334.4,242.6 L330.6,242.2 L329.9,242.9 L324.2,242.0 L322.2,241.0 L323.0,237.9 L320.8,235.8 L320.3,234.0 L321.2,229.5 L325.3,229.1 L326.1,226.8 L330.1,227.9 L332.9,226.0 L332.1,224.7 L334.0,224.4 L335.9,226.8 L338.9,227.4 L340.6,230.3 L342.2,229.9 L344.5,231.5 L345.7,229.7 L345.8,224.8 L347.7,218.8 L349.3,215.6 L349.1,212.7 L350.8,210.8 L349.6,206.3 L352.1,203.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.UR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347199</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH75</fips>
+    <postal-code>UR</postal-code>
+    <name>Ubon Ratchathani</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>105.016</longitude>
+    <woe-name>Ubon Ratchathani</woe-name>
+    <latitude>15.0137</latitude>
+    <woe-label>Ubon Ratchathani, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>th-ur</hc-key>
+    <hc-a2>UR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SK" d="M253.8,295.6 L252.2,300.1 L251.9,302.5 L247.5,306.5 L244.2,314.8 L238.5,318.2 L237.0,320.3 L239.6,322.3 L235.7,324.2 L227.4,324.4 L227.4,338.3 L224.7,341.6 L222.6,341.6 L220.1,339.7 L218.1,342.3 L214.0,343.7 L213.8,339.3 L211.9,335.4 L209.5,328.6 L211.4,328.0 L211.0,323.5 L208.8,323.8 L206.6,319.6 L206.1,317.2 L207.5,315.7 L207.5,313.1 L205.1,311.2 L205.7,307.3 L207.6,305.7 L207.4,303.1 L211.3,300.9 L213.7,297.8 L214.0,295.2 L215.6,296.5 L219.3,297.4 L220.9,295.2 L222.7,297.3 L225.6,297.8 L228.3,296.4 L234.5,297.0 L234.9,299.0 L237.0,299.3 L236.6,298.0 L239.1,296.6 L244.6,297.3 L249.5,295.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SK</hasc>
+    <alt-name>Srakaeo</alt-name>
+    <woe-id>20069925</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH80</fips>
+    <postal-code>SK</postal-code>
+    <name>Sa Kaeo</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Eastern</region>
+    <longitude>102.384</longitude>
+    <woe-name>Sa Kaeo</woe-name>
+    <latitude>13.8589</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>th-sk</hc-key>
+    <hc-a2>SK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.RY" d="M202.7,365.8 L197.9,365.6 L195.9,368.0 L193.0,368.0 L192.6,369.0 L189.7,368.7 L186.6,369.4 L186.0,370.7 L181.0,368.6 L177.6,367.8 L170.1,366.9 L165.0,368.9 L164.8,367.4 L166.1,361.6 L168.2,359.8 L170.3,356.3 L169.9,350.7 L173.3,350.9 L174.1,348.2 L178.9,349.4 L181.7,348.7 L183.7,350.6 L187.6,350.0 L189.0,348.4 L190.8,348.5 L192.7,345.8 L195.4,344.4 L198.0,345.2 L199.0,349.9 L200.7,351.5 L200.7,353.9 L202.1,353.9 L204.2,356.5 L204.0,362.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.RY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347171</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH47</fips>
+    <postal-code>RY</postal-code>
+    <name>Rayong</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Eastern</region>
+    <longitude>101.402</longitude>
+    <woe-name>Rayong</woe-name>
+    <latitude>12.8125</latitude>
+    <woe-label>Rayong, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>th-ry</hc-key>
+    <hc-a2>RY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.CY" d="M178.8,242.8 L181.9,237.8 L181.6,230.7 L182.9,224.0 L179.9,221.4 L179.7,216.7 L181.1,215.3 L182.3,211.9 L180.3,210.6 L179.4,206.2 L181.2,198.2 L181.8,192.8 L182.9,190.5 L185.8,186.9 L185.6,185.3 L187.8,183.7 L187.2,180.5 L187.6,177.7 L189.7,177.8 L191.6,176.3 L193.2,177.2 L195.9,177.2 L197.4,178.5 L198.6,177.8 L200.1,179.0 L203.2,178.3 L208.0,179.4 L209.1,181.6 L213.8,185.5 L219.9,185.4 L221.9,186.9 L227.0,188.3 L228.9,187.6 L230.9,189.7 L228.8,197.5 L225.4,203.0 L222.6,205.7 L223.2,206.8 L228.4,209.8 L225.9,215.5 L225.8,218.3 L221.6,220.9 L218.7,221.3 L217.4,224.3 L214.6,227.3 L212.5,225.5 L210.9,228.6 L208.5,231.4 L208.9,234.5 L206.2,236.4 L205.6,238.5 L203.0,238.4 L194.6,242.1 L191.0,244.9 L183.7,246.9 L182.3,244.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.CY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347151</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH26</fips>
+    <postal-code>CY</postal-code>
+    <name>Chaiyaphum</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>101.877</longitude>
+    <woe-name>Chaiyaphum</woe-name>
+    <latitude>16.0138</latitude>
+    <woe-label>Chaiyaphum, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>th-cy</hc-key>
+    <hc-a2>CY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.SU" d="M306.0,285.5 L304.0,286.1 L302.7,285.1 L297.9,286.3 L295.7,285.2 L289.2,284.6 L288.6,282.4 L286.6,282.0 L285.2,283.7 L283.0,282.9 L278.8,285.2 L277.2,284.7 L273.4,286.4 L268.9,286.9 L269.4,281.6 L268.2,277.9 L268.2,274.8 L270.0,270.9 L270.6,266.6 L275.5,261.8 L277.7,258.5 L277.9,252.7 L277.4,246.7 L279.9,241.3 L278.4,239.8 L276.6,240.3 L273.7,238.9 L270.4,240.9 L268.7,241.0 L265.6,238.2 L264.5,238.4 L263.5,235.8 L261.4,235.1 L262.0,233.0 L267.4,234.4 L272.6,236.6 L276.0,235.3 L277.5,234.4 L280.9,234.8 L283.9,233.4 L286.2,234.1 L292.9,234.4 L297.9,232.9 L298.2,233.8 L301.7,234.7 L302.1,235.6 L305.6,235.9 L306.1,238.7 L302.8,242.2 L301.7,246.8 L304.0,253.2 L300.2,259.9 L300.1,263.0 L303.1,264.0 L303.8,267.5 L306.3,270.9 L305.8,276.2 L306.7,280.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.SU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347154</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH29</fips>
+    <postal-code>SU</postal-code>
+    <name>Surin</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>103.588</longitude>
+    <woe-name>Surin</woe-name>
+    <latitude>14.9355</latitude>
+    <woe-label>Surin, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>th-su</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NF" d="M308.9,111.5 L312.9,119.1 L315.9,120.8 L319.3,126.4 L322.0,129.1 L329.2,132.6 L332.8,134.8 L337.7,141.4 L338.0,147.7 L337.7,150.9 L334.9,158.0 L335.8,167.8 L334.7,168.5 L335.3,170.8 L332.5,170.1 L332.3,167.8 L328.4,167.3 L325.8,168.3 L323.7,166.6 L319.4,166.7 L316.7,165.9 L315.0,166.7 L312.0,164.8 L314.9,162.9 L315.7,160.8 L318.9,157.9 L317.3,155.7 L318.9,153.9 L319.2,151.2 L320.9,147.7 L319.5,142.6 L319.2,139.6 L315.1,139.7 L310.9,140.6 L307.8,140.4 L306.3,141.8 L303.1,141.7 L300.8,137.9 L302.4,132.0 L301.6,130.2 L303.6,128.0 L303.0,125.6 L301.0,124.2 L300.4,122.1 L299.4,119.3 L300.0,116.3 L301.7,115.8 L303.0,118.3 L304.9,118.9 L305.9,116.8 L305.5,112.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347196</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH73</fips>
+    <postal-code>NF</postal-code>
+    <name>Nakhon Phanom</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>104.628</longitude>
+    <woe-name>Nakhon Phanom</woe-name>
+    <latitude>17.2227</latitude>
+    <woe-label>Nakhon Phanom, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>th-nf</hc-key>
+    <hc-a2>NF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.BK" d="M267.4,99.5 L264.8,97.6 L265.7,94.5 L267.7,93.3 L271.3,92.5 L281.4,94.2 L286.0,96.4 L288.7,96.5 L294.1,99.2 L297.0,96.9 L299.3,97.6 L302.5,102.4 L304.6,107.1 L308.9,111.5 L305.5,112.5 L305.9,116.8 L304.9,118.9 L303.0,118.3 L301.7,115.8 L300.0,116.3 L299.4,119.3 L300.4,122.1 L298.6,123.7 L296.3,121.7 L295.2,118.7 L290.7,119.4 L288.8,115.6 L288.2,117.0 L282.6,114.5 L283.1,112.6 L278.8,110.3 L275.9,111.2 L274.1,113.8 L268.8,109.8 L268.5,107.9 L271.0,104.4 L270.4,103.0 L267.7,102.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.BK</hasc>
+    <alt-name>??????</alt-name>
+    <woe-id>-2347144</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH81</fips>
+    <postal-code>BK</postal-code>
+    <name>Bueng Kan</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>103.752</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>18.1565</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>th-bk</hc-key>
+    <hc-a2>BK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.MH" d="M23.6,136.6 L17.3,130.7 L16.5,127.9 L13.2,123.6 L15.2,118.2 L16.7,117.0 L15.2,113.0 L14.0,112.2 L13.6,108.6 L10.7,104.1 L11.6,101.0 L8.1,100.0 L6.6,102.9 L3.2,99.7 L2.8,96.4 L0.0,90.8 L1.7,92.0 L5.9,92.2 L10.8,89.3 L16.6,88.5 L17.2,86.1 L15.5,74.6 L12.7,71.7 L14.8,69.9 L15.9,66.5 L19.7,62.9 L19.9,59.2 L17.8,55.1 L19.5,54.0 L17.8,49.4 L21.5,44.9 L21.1,42.0 L28.7,38.1 L28.6,34.1 L29.5,30.3 L33.4,31.6 L37.9,34.4 L39.0,36.9 L42.1,35.7 L48.0,35.9 L49.8,35.0 L50.0,37.0 L53.0,39.8 L54.4,44.4 L55.6,45.8 L54.9,50.0 L55.6,55.3 L54.7,58.8 L56.3,60.5 L57.6,63.6 L56.8,65.8 L52.2,67.2 L49.9,66.7 L48.7,68.1 L47.1,67.1 L43.3,66.7 L39.3,61.7 L37.4,60.6 L35.2,61.5 L33.5,64.6 L34.1,66.4 L33.1,68.2 L33.7,70.7 L31.9,76.4 L33.5,79.1 L32.6,85.3 L33.2,90.1 L35.1,92.7 L37.4,93.9 L35.6,95.0 L32.5,99.5 L33.4,101.0 L32.1,104.4 L33.6,111.4 L31.7,114.5 L32.5,117.2 L34.9,118.9 L38.9,123.5 L37.4,126.1 L39.0,129.0 L41.5,130.1 L39.1,130.6 L37.0,132.4 L32.6,132.7 L26.3,135.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.MH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347128</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH01</fips>
+    <postal-code>MH</postal-code>
+    <name>Mae Hong Son</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>97.89109999999999</longitude>
+    <woe-name>Mae Hong Son</woe-name>
+    <latitude>18.4043</latitude>
+    <woe-label>Mae Hong Son, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.23</hc-middle-y>
+    <hc-key>th-mh</hc-key>
+    <hc-a2>MH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PU" d="M42.2,596.4 L40.6,599.5 L39.5,598.3 L38.0,591.9 L39.3,588.4 L39.0,585.2 L39.7,579.5 L41.6,580.4 L43.0,582.9 L46.7,585.4 L44.8,590.6 L46.7,593.9 L44.9,594.9 L44.8,597.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TH.PU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347186</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH62</fips>
+    <postal-code>PU</postal-code>
+    <name>Phuket</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>98.3472</longitude>
+    <woe-name>Phuket</woe-name>
+    <latitude>7.97108</latitude>
+    <woe-label>Phuket, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>th-pu</hc-key>
+    <hc-a2>PU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.CP" d="M96.7,446.8 L96.3,449.3 L97.1,453.0 L94.3,452.6 L93.5,456.1 L90.7,460.3 L87.3,464.2 L84.7,473.0 L86.7,474.5 L86.2,477.1 L84.1,477.7 L82.5,476.1 L80.2,477.1 L80.6,479.7 L84.5,483.9 L82.6,484.0 L80.6,487.9 L80.3,490.4 L81.4,493.4 L80.6,494.4 L81.0,501.3 L79.9,503.9 L77.7,504.2 L74.8,506.5 L68.6,506.8 L62.9,509.2 L61.4,512.8 L57.5,510.3 L56.1,505.6 L56.3,504.1 L60.1,500.7 L62.5,496.8 L64.8,496.5 L66.3,494.3 L68.6,493.2 L70.3,488.1 L68.3,485.1 L69.1,480.5 L70.8,477.9 L70.6,476.0 L68.6,474.0 L69.0,471.1 L71.6,468.6 L71.9,465.9 L70.4,462.5 L68.9,461.5 L69.6,458.9 L67.5,456.7 L68.7,455.5 L72.0,455.0 L72.3,450.1 L73.2,448.7 L75.7,449.3 L76.7,446.9 L79.7,444.9 L80.4,446.5 L85.6,448.7 L92.4,448.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.CP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347182</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH58</fips>
+    <postal-code>CP</postal-code>
+    <name>Chumphon</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>99.07550000000001</longitude>
+    <woe-name>Chumphon</woe-name>
+    <latitude>10.3809</latitude>
+    <woe-label>Chumphon, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.80</hc-middle-x>
+    <hc-middle-y>0.16</hc-middle-y>
+    <hc-key>th-cp</hc-key>
+    <hc-a2>CP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.YL" d="M191.5,687.9 L179.6,692.9 L178.5,697.1 L175.0,699.9 L172.9,700.0 L169.6,695.9 L167.5,695.3 L166.3,693.2 L168.5,687.7 L171.2,686.7 L172.2,678.8 L170.3,676.5 L172.0,673.9 L171.6,671.2 L168.8,671.5 L166.5,670.0 L163.5,671.7 L159.9,671.7 L159.4,668.8 L162.2,668.6 L164.0,666.8 L164.2,662.4 L169.1,660.3 L172.6,655.3 L172.5,652.7 L175.2,654.5 L178.8,654.3 L181.9,651.1 L182.1,654.4 L184.0,656.8 L189.6,655.8 L191.8,654.6 L194.1,657.0 L196.2,656.5 L196.7,657.5 L193.1,661.8 L188.3,663.3 L186.9,672.2 L185.9,673.5 L190.9,680.7 L190.7,683.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.YL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347194</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH70</fips>
+    <postal-code>YL</postal-code>
+    <name>Yala</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Southern</region>
+    <longitude>101.218</longitude>
+    <woe-name>Yala</woe-name>
+    <latitude>6.14264</latitude>
+    <woe-label>Yala, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>th-yl</hc-key>
+    <hc-a2>YL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.CR" d="M95.9,13.9 L96.6,11.8 L94.9,9.5 L94.0,5.9 L91.9,3.3 L95.6,4.8 L102.2,6.6 L107.5,5.5 L109.0,4.5 L110.5,1.3 L115.2,0.0 L117.1,2.7 L119.4,3.3 L122.2,5.9 L122.4,8.5 L123.8,9.6 L125.3,8.9 L125.2,7.1 L127.1,6.1 L127.6,4.4 L131.4,2.0 L134.0,3.4 L136.6,9.0 L138.4,11.8 L141.5,13.7 L142.3,13.3 L142.1,17.7 L139.1,27.2 L137.2,28.5 L135.1,32.0 L135.4,33.9 L133.4,36.2 L129.8,38.1 L126.3,39.2 L124.0,46.0 L121.7,48.0 L118.2,48.0 L115.6,50.1 L114.1,49.5 L113.9,45.5 L106.6,46.8 L104.0,48.0 L101.9,44.7 L99.6,46.1 L98.7,49.3 L99.2,54.5 L98.3,56.4 L97.6,61.0 L98.4,62.5 L97.2,65.0 L95.1,65.5 L93.0,67.9 L91.1,68.5 L90.7,66.4 L87.8,62.6 L87.1,59.6 L88.5,55.4 L88.1,50.9 L86.4,44.7 L87.6,42.6 L85.3,39.6 L85.3,37.2 L88.5,35.0 L90.4,30.5 L91.9,29.8 L90.5,26.1 L92.9,22.4 L96.5,22.8 L97.9,25.1 L99.5,20.7 L96.0,18.5 L96.0,17.1 L98.4,15.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.CR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347130</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH03</fips>
+    <postal-code>CR</postal-code>
+    <name>Chiang Rai</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>99.9059</longitude>
+    <woe-name>Chiang Rai</woe-name>
+    <latitude>19.9607</latitude>
+    <woe-label>Chiang Rai, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>th-cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.CM" d="M49.8,35.0 L52.2,36.4 L57.1,33.2 L61.9,32.3 L64.5,30.3 L67.9,33.2 L72.0,31.2 L73.5,28.4 L73.1,25.5 L73.9,19.2 L74.8,17.6 L78.4,15.6 L81.1,15.4 L86.4,18.2 L92.9,16.3 L95.9,13.9 L98.4,15.2 L96.0,17.1 L96.0,18.5 L99.5,20.7 L97.9,25.1 L96.5,22.8 L92.9,22.4 L90.5,26.1 L91.9,29.8 L90.4,30.5 L88.5,35.0 L85.3,37.2 L85.3,39.6 L87.6,42.6 L86.4,44.7 L88.1,50.9 L88.5,55.4 L87.1,59.6 L87.8,62.6 L90.7,66.4 L91.1,68.5 L89.9,69.6 L89.7,73.3 L87.9,74.6 L88.8,75.5 L89.6,79.5 L87.7,86.2 L89.1,87.0 L87.4,90.7 L83.1,87.7 L83.2,85.0 L81.1,82.3 L79.6,82.4 L75.1,84.8 L73.6,84.2 L69.8,90.7 L63.0,94.8 L59.6,95.7 L59.9,99.8 L58.7,101.5 L63.2,103.8 L64.8,109.0 L64.3,115.7 L66.4,117.2 L69.1,124.3 L68.5,127.8 L65.9,129.2 L61.9,127.2 L60.0,127.3 L57.9,128.2 L55.5,131.5 L56.2,134.4 L55.6,135.9 L53.2,136.6 L52.0,140.8 L53.5,143.0 L52.7,145.8 L53.7,146.7 L53.3,149.4 L46.6,151.2 L43.0,148.7 L42.0,144.4 L42.4,138.3 L41.7,136.3 L39.6,135.5 L39.5,133.0 L41.5,130.1 L39.0,129.0 L37.4,126.1 L38.9,123.5 L34.9,118.9 L32.5,117.2 L31.7,114.5 L33.6,111.4 L32.1,104.4 L33.4,101.0 L32.5,99.5 L35.6,95.0 L37.4,93.9 L35.1,92.7 L33.2,90.1 L32.6,85.3 L33.5,79.1 L31.9,76.4 L33.7,70.7 L33.1,68.2 L34.1,66.4 L33.5,64.6 L35.2,61.5 L37.4,60.6 L39.3,61.7 L43.3,66.7 L47.1,67.1 L48.7,68.1 L49.9,66.7 L52.2,67.2 L56.8,65.8 L57.6,63.6 L56.3,60.5 L54.7,58.8 L55.6,55.3 L54.9,50.0 L55.6,45.8 L54.4,44.4 L53.0,39.8 L50.0,37.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.CM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347129</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH02</fips>
+    <postal-code>CM</postal-code>
+    <name>Chiang Mai</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>98.69670000000001</longitude>
+    <woe-name>Chiang Mai</woe-name>
+    <latitude>18.8368</latitude>
+    <woe-label>Chiang Mai, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>th-cm</hc-key>
+    <hc-a2>CM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.LN" d="M60.0,127.3 L61.9,127.2 L65.9,129.2 L68.5,127.8 L69.1,124.3 L66.4,117.2 L64.3,115.7 L64.8,109.0 L63.2,103.8 L58.7,101.5 L59.9,99.8 L59.6,95.7 L63.0,94.8 L69.8,90.7 L73.6,84.2 L75.1,84.8 L79.6,82.4 L81.1,82.3 L83.2,85.0 L83.1,87.7 L87.4,90.7 L87.2,92.0 L83.8,93.2 L77.9,102.8 L73.8,104.3 L75.7,109.3 L76.0,113.1 L77.4,116.0 L78.1,119.6 L81.1,122.3 L80.6,124.6 L78.0,125.2 L78.7,126.5 L75.9,130.9 L75.6,133.7 L73.7,134.2 L70.1,132.6 L68.3,133.8 L67.0,137.8 L62.8,140.1 L60.5,140.1 L59.5,134.2 L59.8,131.6 L61.6,130.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.LN</hasc>
+    <alt-name>Hariphunchai|Lampoon</alt-name>
+    <woe-id>2347132</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH05</fips>
+    <postal-code>LN</postal-code>
+    <name>Lamphun</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>98.9979</longitude>
+    <woe-name>Lamphun</woe-name>
+    <latitude>18.1333</latitude>
+    <woe-label>Lamphun, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.16</hc-middle-y>
+    <hc-key>th-ln</hc-key>
+    <hc-a2>LN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NA" d="M143.8,44.1 L146.4,42.4 L150.1,43.8 L151.8,45.2 L157.2,39.0 L161.7,38.9 L168.4,41.1 L172.2,39.9 L173.9,40.8 L174.4,43.0 L173.6,45.4 L171.6,46.4 L171.0,51.4 L172.0,51.8 L173.4,57.1 L173.4,61.0 L177.4,65.4 L177.8,66.8 L176.0,68.6 L173.7,72.9 L173.6,77.5 L172.8,81.4 L174.2,83.2 L170.9,86.5 L170.4,88.8 L166.9,91.1 L164.8,95.0 L166.8,97.6 L159.9,103.5 L156.4,111.4 L152.8,114.1 L144.3,113.1 L141.7,114.6 L137.5,114.7 L136.7,109.3 L138.6,108.4 L141.1,102.4 L140.9,99.1 L142.8,95.2 L142.2,93.0 L140.4,92.1 L136.7,92.0 L135.7,88.0 L136.5,85.4 L135.3,85.1 L135.0,82.5 L136.0,81.1 L134.1,77.0 L137.1,71.2 L139.5,70.6 L140.6,68.8 L138.9,68.4 L139.7,65.8 L143.9,66.5 L143.5,63.8 L146.6,61.7 L144.8,56.3 L145.4,53.1 L143.8,51.7 L142.1,51.9 L141.0,49.7 L143.5,46.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347131</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH04</fips>
+    <postal-code>NA</postal-code>
+    <name>Nan</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>100.837</longitude>
+    <woe-name>Nan</woe-name>
+    <latitude>18.8264</latitude>
+    <woe-label>Nan, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>th-na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.LG" d="M123.6,77.2 L123.1,81.0 L123.9,87.0 L123.4,88.8 L121.2,89.4 L120.9,91.7 L118.5,96.5 L116.8,97.5 L114.4,101.7 L112.4,102.6 L109.9,105.3 L105.9,112.3 L102.4,114.6 L100.9,114.0 L96.5,118.5 L90.1,126.2 L87.4,126.6 L87.4,128.4 L89.0,130.7 L90.4,131.0 L94.6,128.5 L94.7,131.2 L93.7,134.6 L92.2,136.3 L93.0,138.3 L92.0,141.1 L93.1,142.7 L92.8,144.5 L94.8,146.1 L93.1,152.3 L90.9,153.4 L89.0,151.0 L87.6,150.7 L85.9,148.0 L85.4,144.5 L83.1,144.3 L81.0,147.2 L75.2,145.0 L73.7,143.1 L74.6,139.2 L73.7,134.2 L75.6,133.7 L75.9,130.9 L78.7,126.5 L78.0,125.2 L80.6,124.6 L81.1,122.3 L78.1,119.6 L77.4,116.0 L76.0,113.1 L75.7,109.3 L73.8,104.3 L77.9,102.8 L83.8,93.2 L87.2,92.0 L87.4,90.7 L89.1,87.0 L87.7,86.2 L89.6,79.5 L88.8,75.5 L87.9,74.6 L89.7,73.3 L89.9,69.6 L91.1,68.5 L93.0,67.9 L95.1,65.5 L97.2,65.0 L98.4,62.5 L97.6,61.0 L98.3,56.4 L99.2,54.5 L98.7,49.3 L99.6,46.1 L101.9,44.7 L104.0,48.0 L105.1,53.3 L105.0,57.5 L108.7,65.5 L110.2,65.9 L111.1,68.3 L115.0,69.0 L116.6,71.2 L120.2,73.4 L121.5,76.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.LG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347133</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH06</fips>
+    <postal-code>LG</postal-code>
+    <name>Lampang</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northern</region>
+    <longitude>99.5707</longitude>
+    <woe-name>Lampang</woe-name>
+    <latitude>18.6296</latitude>
+    <woe-label>Lampang, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>th-lg</hc-key>
+    <hc-a2>LG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.PB" d="M172.0,305.9 L171.7,304.9 L175.5,302.2 L180.5,301.3 L179.3,298.1 L179.9,296.5 L183.5,293.7 L183.7,291.7 L185.3,292.2 L188.3,291.6 L189.2,289.8 L187.5,286.9 L185.3,285.9 L184.2,284.2 L187.9,282.6 L190.6,284.1 L193.9,283.8 L199.9,289.2 L200.7,287.7 L205.6,286.7 L206.7,285.5 L208.5,287.0 L209.5,286.1 L210.7,287.8 L209.1,290.6 L209.8,291.9 L214.0,295.2 L213.7,297.8 L211.3,300.9 L207.4,303.1 L207.6,305.7 L205.7,307.3 L205.1,311.2 L207.5,313.1 L207.5,315.7 L206.1,317.2 L203.9,317.5 L200.5,313.6 L198.3,314.0 L196.8,315.9 L193.4,314.6 L191.8,316.1 L191.0,315.1 L181.9,311.0 L175.3,310.3 L173.0,311.5 L172.2,310.3 L172.8,308.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.PB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069926</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH74</fips>
+    <postal-code>PB</postal-code>
+    <name>Prachin Buri</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Eastern</region>
+    <longitude>101.594</longitude>
+    <woe-name>Prachin Buri</woe-name>
+    <latitude>14.1081</latitude>
+    <woe-label>Prachin Buri, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>th-pb</hc-key>
+    <hc-a2>PB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.RT" d="M112.9,336.6 L108.2,336.4 L105.7,337.4 L104.1,339.6 L103.9,342.0 L100.2,343.1 L97.7,342.8 L94.1,343.6 L89.2,341.4 L88.1,344.0 L85.7,345.3 L85.0,343.8 L81.8,342.2 L81.2,338.0 L81.8,336.6 L81.8,332.0 L80.2,324.7 L79.9,318.0 L82.6,317.6 L84.6,316.0 L89.5,316.6 L95.3,314.5 L98.5,316.2 L99.8,314.9 L105.0,313.3 L110.0,313.6 L113.8,307.4 L116.7,308.3 L117.6,312.2 L117.0,316.9 L117.8,318.2 L120.7,317.2 L121.5,319.2 L123.0,319.7 L121.9,323.3 L121.2,328.2 L118.4,328.8 L115.6,328.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.RT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347176</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH52</fips>
+    <postal-code>RT</postal-code>
+    <name>Ratchaburi</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Western</region>
+    <longitude>99.61279999999999</longitude>
+    <woe-name>Ratchaburi</woe-name>
+    <latitude>13.4964</latitude>
+    <woe-label>Ratchaburi, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>th-rt</hc-key>
+    <hc-a2>RT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.YS" d="M339.2,197.5 L339.0,199.0 L330.2,201.1 L327.9,203.2 L325.2,209.1 L323.6,211.2 L321.9,220.3 L322.9,224.2 L326.1,226.8 L325.3,229.1 L321.2,229.5 L320.3,234.0 L320.8,235.8 L323.0,237.9 L322.2,241.0 L320.9,239.6 L316.4,238.4 L314.5,237.3 L309.6,231.1 L308.6,228.1 L312.3,226.0 L310.1,222.2 L308.3,221.6 L308.4,217.5 L305.6,214.8 L305.7,216.0 L302.8,217.1 L303.0,208.7 L307.1,208.3 L307.0,202.9 L312.6,199.4 L315.0,195.4 L316.8,194.8 L318.0,191.8 L320.2,190.7 L324.5,190.8 L327.4,192.3 L328.7,194.9 L330.8,196.6 L332.5,195.5 L334.6,196.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.YS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347195</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH72</fips>
+    <postal-code>YS</postal-code>
+    <name>Yasothon</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>104.324</longitude>
+    <woe-name>Yasothon</woe-name>
+    <latitude>16.0225</latitude>
+    <woe-label>Yasothon, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
+    <hc-key>th-ys</hc-key>
+    <hc-a2>YS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.MS" d="M262.0,233.0 L260.7,232.1 L260.6,229.7 L255.5,224.1 L256.9,221.6 L254.0,218.6 L253.5,215.0 L252.0,211.7 L252.3,209.4 L250.0,206.0 L249.3,195.5 L251.3,193.8 L253.9,188.9 L253.1,187.5 L256.3,186.5 L259.9,184.2 L263.1,177.9 L264.7,178.4 L264.0,180.1 L264.6,182.7 L263.9,184.7 L264.9,187.7 L264.2,190.7 L265.9,191.2 L269.7,189.3 L272.9,193.6 L275.1,194.9 L276.8,199.1 L280.1,198.1 L277.9,201.9 L277.6,204.4 L279.0,211.4 L277.9,214.5 L276.7,221.4 L273.8,221.9 L272.1,223.2 L270.3,226.9 L271.7,229.2 L277.0,231.3 L276.0,235.3 L272.6,236.6 L267.4,234.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.MS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347149</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH24</fips>
+    <postal-code>MS</postal-code>
+    <name>Maha Sarakham</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>103.188</longitude>
+    <woe-name>Maha Sarakham</woe-name>
+    <latitude>15.9151</latitude>
+    <woe-label>Maha Sarakham, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>th-ms</hc-key>
+    <hc-a2>MS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.UN" d="M211.6,110.4 L214.1,111.8 L215.8,114.8 L218.2,113.6 L222.1,115.6 L226.7,119.4 L227.6,121.7 L230.6,125.9 L233.7,126.0 L236.9,128.9 L237.0,132.2 L239.2,133.2 L242.7,133.0 L248.3,126.9 L247.7,122.9 L249.2,119.3 L252.1,119.7 L253.9,122.2 L256.9,119.1 L262.0,123.0 L264.3,120.1 L266.5,119.3 L269.0,121.3 L272.6,119.7 L271.2,123.5 L272.6,125.3 L272.7,132.5 L270.3,133.2 L267.6,138.3 L267.2,140.3 L268.2,142.7 L266.2,146.0 L267.3,148.3 L270.5,149.0 L273.1,150.4 L276.7,150.4 L280.4,152.8 L282.1,152.9 L284.9,155.5 L284.9,158.4 L281.8,155.8 L278.4,158.6 L278.5,161.0 L277.5,162.6 L277.3,165.4 L275.3,168.9 L273.6,165.4 L266.2,162.7 L261.8,163.0 L260.5,165.2 L253.4,168.7 L250.9,167.2 L247.8,167.2 L247.2,163.2 L245.6,160.7 L242.9,159.3 L241.3,159.6 L240.6,164.1 L235.0,158.9 L233.0,155.3 L233.6,153.9 L236.0,152.9 L236.6,150.9 L232.9,151.9 L231.2,150.3 L231.2,147.0 L229.3,146.3 L229.4,143.4 L227.2,138.2 L226.1,132.3 L224.8,132.9 L219.5,131.6 L217.7,133.0 L215.9,132.8 L214.8,134.3 L212.2,129.3 L210.9,130.1 L210.3,127.2 L211.4,122.8 L210.1,115.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.UN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347200</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH76</fips>
+    <postal-code>UN</postal-code>
+    <name>Udon Thani</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>102.882</longitude>
+    <woe-name>Udon Thani</woe-name>
+    <latitude>17.4511</latitude>
+    <woe-label>Udon Thani, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>th-un</hc-key>
+    <hc-a2>UN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH.NB" d="M240.6,164.1 L237.8,172.4 L235.6,172.9 L233.7,171.5 L229.5,171.7 L225.2,170.3 L223.3,167.5 L221.0,167.1 L219.2,168.5 L213.1,167.4 L211.4,164.5 L216.4,161.2 L213.7,157.0 L208.6,155.1 L207.1,152.6 L208.7,149.0 L210.5,146.9 L210.5,144.8 L209.0,142.8 L209.1,140.7 L212.8,140.5 L215.8,137.8 L214.8,134.3 L215.9,132.8 L217.7,133.0 L219.5,131.6 L224.8,132.9 L226.1,132.3 L227.2,138.2 L229.4,143.4 L229.3,146.3 L231.2,147.0 L231.2,150.3 L232.9,151.9 L236.6,150.9 L236.0,152.9 L233.6,153.9 L233.0,155.3 L235.0,158.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TH.NB</hasc>
+    <alt-name>Nong Bua Lamphu</alt-name>
+    <woe-id>2347202</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TH79</fips>
+    <postal-code>NB</postal-code>
+    <name>Nong Bua Lam Phu</name>
+    <country>Thailand</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>102.311</longitude>
+    <woe-name>Nong Bua Lam Phu</woe-name>
+    <latitude>17.2392</latitude>
+    <woe-label>Nong Bua Lam Phu, TH, Thailand</woe-label>
+    <type>Changwat</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>th-nb</hc-key>
+    <hc-a2>NB</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

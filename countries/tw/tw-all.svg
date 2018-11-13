@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Taiwan</title>
+<g id="admin1">
+
+<g id="TW">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Taiwan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Taiwan</country-abbrev>
+    <subregion>Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>TWN</iso-a3>
+    <iso-a2>TW</iso-a2>
+    <woe-id>23424971</woe-id>
+    <continent>Asia</continent>
+    <hc-key>tw</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.PT" d="M303.1,628.6 L304.2,630.3 L299.7,634.1 L299.3,632.3 L301.6,628.9 Z M376.1,648.2 L376.2,676.5 L375.2,680.5 L373.8,683.8 L369.7,687.1 L369.7,691.7 L370.4,696.7 L370.2,700.0 L367.7,696.2 L364.0,693.3 L359.7,691.3 L355.3,690.2 L355.1,693.8 L353.8,695.1 L351.9,694.6 L349.9,692.9 L350.6,687.7 L347.6,682.6 L347.8,672.5 L349.8,667.2 L339.3,638.7 L335.4,633.3 L333.1,627.8 L332.0,626.3 L327.5,622.7 L324.6,621.0 L323.7,618.2 L321.3,616.6 L315.9,613.9 L309.4,608.9 L314.1,597.7 L313.9,593.2 L312.5,589.1 L312.6,585.2 L315.9,573.7 L315.9,564.6 L317.4,560.3 L319.2,553.8 L328.9,554.5 L333.4,553.1 L336.9,549.2 L342.1,546.9 L349.3,550.6 L353.0,547.4 L356.9,546.5 L361.0,551.4 L364.2,554.5 L368.9,550.9 L374.2,551.4 L376.0,555.0 L376.4,557.7 L379.3,558.4 L382.3,560.4 L380.7,568.0 L380.6,570.8 L379.4,573.5 L371.4,577.1 L367.2,578.0 L364.2,580.4 L362.8,583.9 L360.7,587.5 L359.0,591.6 L358.4,599.6 L360.1,606.6 L360.6,613.4 L362.0,616.2 L364.5,619.3 L363.1,621.3 L360.1,623.0 L358.9,625.1 L358.6,627.7 L360.1,629.8 L362.0,630.7 L363.6,633.2 L363.8,639.7 L365.5,642.9 L368.0,645.6 L373.6,648.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.PT</hasc>
+    <alt-name>Pingdong</alt-name>
+    <woe-id>2347340</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>PT</postal-code>
+    <name>Pingtung</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>120.661</longitude>
+    <woe-name>Pingtung County</woe-name>
+    <latitude>22.5344</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>tw-pt</hc-key>
+    <hc-a2>PT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.TN" d="M258.1,519.6 L256.5,519.2 L255.6,516.9 L256.2,516.2 Z M275.3,538.2 L274.8,534.8 L271.8,530.6 L274.4,528.8 L276.0,525.5 L275.4,522.6 L272.0,522.1 L269.7,526.4 L267.8,526.3 L267.1,525.0 L267.1,519.9 L264.9,518.8 L262.5,521.5 L261.0,521.9 L259.4,520.5 L259.1,518.6 L260.2,515.5 L265.5,513.9 L265.4,511.4 L260.3,510.0 L260.3,509.0 L264.6,509.0 L264.2,507.6 L260.4,503.7 L260.8,501.6 L263.7,500.3 L264.5,499.0 L263.3,495.1 L264.7,491.5 L266.0,490.0 L266.0,487.6 L267.9,482.7 L270.2,481.5 L268.2,480.1 L269.1,477.9 L272.0,479.0 L280.8,480.9 L284.2,479.4 L285.6,476.8 L292.5,472.2 L295.1,469.6 L298.5,467.2 L302.8,465.3 L311.2,464.0 L315.8,463.8 L319.7,465.1 L321.9,466.5 L323.9,471.6 L329.2,477.2 L329.7,481.3 L328.6,489.0 L329.4,491.5 L331.9,493.5 L333.9,493.5 L336.9,492.3 L339.6,491.9 L346.2,493.2 L346.2,493.2 L346.2,493.2 L344.9,496.8 L339.1,504.9 L333.4,514.1 L329.8,518.6 L322.1,525.4 L318.6,528.8 L315.7,532.6 L312.6,538.4 L309.1,540.8 L301.2,544.3 L296.6,543.7 L292.1,544.1 L283.5,542.7 L280.9,541.3 L278.7,536.3 Z M346.2,493.2 L346.2,493.2 L346.2,493.2 L346.2,493.2 L346.2,493.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.TN</hasc>
+    <alt-name>Tainan Shi</alt-name>
+    <woe-id>28751581</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>TN</postal-code>
+    <name>Tainan City</name>
+    <country>Taiwan</country>
+    <type-en>Special Municipality</type-en>
+    <region>Special Municipalities</region>
+    <longitude>120.182</longitude>
+    <woe-name>Tainan City</woe-name>
+    <latitude>23.0464</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Zhixiashi</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>tw-tn</hc-key>
+    <hc-a2>TN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.IL" d="M533.8,242.2 L535.8,243.6 L535.4,244.8 L533.3,244.8 L532.2,243.1 Z M538.2,221.3 L531.7,224.5 L528.7,227.0 L518.5,239.2 L516.9,241.8 L515.6,245.4 L514.7,249.5 L514.5,257.6 L516.2,266.0 L515.3,270.2 L515.4,274.6 L517.2,278.0 L520.7,280.2 L524.9,281.0 L519.0,283.0 L520.4,285.8 L521.1,289.3 L520.6,292.3 L517.4,294.1 L517.1,295.4 L518.8,300.0 L514.0,303.2 L510.1,307.5 L510.2,313.0 L508.8,315.6 L508.1,320.8 L506.9,323.1 L507.6,324.2 L501.0,323.2 L491.0,317.1 L488.9,317.6 L487.6,320.8 L484.9,323.2 L481.4,323.2 L476.9,321.4 L468.7,319.3 L463.9,316.4 L460.8,313.8 L458.1,313.8 L453.4,315.3 L449.0,312.5 L446.3,311.9 L445.6,309.9 L446.0,306.9 L444.0,306.3 L446.4,300.7 L454.1,293.1 L456.2,290.0 L455.9,287.7 L457.9,281.6 L460.4,280.0 L464.0,279.7 L465.2,277.6 L463.6,270.9 L466.5,268.8 L468.2,268.4 L474.0,266.6 L478.8,263.0 L484.5,259.9 L483.7,254.8 L484.8,252.1 L489.5,248.8 L496.5,246.0 L503.9,241.8 L507.2,240.8 L510.0,238.9 L513.5,234.0 L519.9,230.7 L520.8,228.7 L519.4,226.8 L520.2,225.2 L526.2,224.0 L532.8,220.4 L536.0,219.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.IL</hasc>
+    <alt-name>Ilan</alt-name>
+    <woe-id>2347336</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>IL</postal-code>
+    <name>Yilan</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>121.644</longitude>
+    <woe-name>Yilan County</woe-name>
+    <latitude>24.5913</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>tw-il</hc-key>
+    <hc-a2>IL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.CH" d="M267.5,478.9 L266.4,479.0 L268.8,475.3 L269.2,476.2 Z M255.6,458.8 L253.8,459.7 L255.9,456.7 L263.7,449.2 L269.7,442.0 L271.1,441.6 L265.9,449.5 L259.7,455.8 Z M269.1,477.9 L273.8,477.3 L273.4,475.6 L272.2,476.4 L269.8,476.0 L269.8,474.2 L271.2,471.2 L276.2,471.2 L274.3,465.5 L272.1,461.0 L273.2,458.0 L271.6,457.2 L273.3,453.7 L275.6,450.9 L270.9,451.1 L270.9,446.4 L277.3,445.8 L281.8,448.4 L285.1,448.5 L287.3,446.8 L289.4,442.6 L292.3,442.2 L296.2,439.2 L298.6,437.9 L300.8,435.9 L309.8,430.9 L313.7,430.0 L320.6,428.8 L324.4,428.7 L327.2,431.2 L329.9,434.5 L336.8,437.1 L343.3,435.6 L345.9,437.5 L347.2,439.7 L350.6,439.4 L359.2,437.5 L359.8,433.0 L363.1,433.4 L369.0,435.5 L371.8,437.1 L371.5,439.9 L369.8,442.7 L371.9,448.9 L372.6,454.2 L376.8,455.0 L391.3,455.4 L381.1,460.4 L376.4,464.0 L374.4,467.7 L372.0,470.4 L367.8,472.7 L363.4,475.9 L360.9,478.8 L354.1,482.7 L350.9,482.9 L347.1,482.5 L345.1,484.4 L345.0,487.1 L346.2,493.2 L346.2,493.2 L346.2,493.2 L346.2,493.2 L346.2,493.2 L346.2,493.2 L339.6,491.9 L336.9,492.3 L333.9,493.5 L331.9,493.5 L329.4,491.5 L328.6,489.0 L329.7,481.3 L329.2,477.2 L323.9,471.6 L321.9,466.5 L319.7,465.1 L315.8,463.8 L311.2,464.0 L302.8,465.3 L298.5,467.2 L295.1,469.6 L292.5,472.2 L285.6,476.8 L284.2,479.4 L280.8,480.9 L272.0,479.0 Z M308.8,448.8 L306.7,451.0 L307.1,454.0 L310.4,455.4 L314.2,457.9 L318.2,458.9 L321.9,457.5 L324.4,457.2 L326.1,456.1 L323.4,450.1 L318.2,447.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.CH</hasc>
+    <alt-name>Jiayi|Chiai</alt-name>
+    <woe-id>7153409</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>CH</postal-code>
+    <name>Chiayi</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>120.26</longitude>
+    <woe-name>Chiayi County</woe-name>
+    <latitude>23.4465</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>tw-ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.TT" d="M479.0,684.2 L476.0,685.2 L471.9,683.5 L466.1,678.8 L466.7,675.9 L465.2,673.5 L476.1,673.6 L475.1,678.0 L475.6,679.4 L479.2,682.7 Z M466.7,586.8 L464.8,587.1 L463.1,586.2 L461.6,583.5 L461.2,580.9 L466.7,580.5 L467.7,582.0 Z M374.2,551.4 L376.3,551.1 L375.7,548.4 L372.3,544.9 L370.7,542.4 L370.1,537.9 L371.4,532.6 L376.2,528.7 L378.6,525.6 L378.7,519.4 L380.5,512.3 L379.3,506.8 L379.9,503.1 L384.0,501.0 L385.5,498.3 L384.3,495.0 L384.8,491.9 L389.1,489.3 L391.3,487.2 L394.9,485.0 L403.5,483.0 L404.0,487.0 L406.7,491.5 L414.3,494.7 L417.0,497.3 L423.5,498.7 L428.5,507.5 L434.8,512.9 L439.3,513.6 L442.9,511.6 L443.4,504.5 L445.2,501.2 L447.9,494.1 L450.0,489.9 L452.9,481.7 L456.8,475.2 L456.5,471.5 L455.6,467.7 L457.8,464.8 L463.7,462.0 L465.6,462.6 L462.9,476.9 L461.7,479.6 L457.7,484.6 L455.1,490.6 L454.2,496.8 L454.2,502.4 L453.7,507.6 L450.9,513.0 L446.0,517.2 L444.4,521.6 L441.7,526.2 L440.0,533.3 L438.8,536.5 L433.1,544.5 L432.4,546.0 L424.7,552.3 L422.8,554.4 L422.8,560.8 L420.9,564.4 L415.6,570.1 L406.7,575.9 L400.6,582.3 L398.0,584.5 L395.0,591.8 L393.5,594.5 L389.0,600.0 L387.2,603.2 L386.1,610.0 L383.3,619.1 L377.9,628.2 L377.1,631.3 L376.1,640.1 L376.1,648.2 L373.6,648.3 L368.0,645.6 L365.5,642.9 L363.8,639.7 L363.6,633.2 L362.0,630.7 L360.1,629.8 L358.6,627.7 L358.9,625.1 L360.1,623.0 L363.1,621.3 L364.5,619.3 L362.0,616.2 L360.6,613.4 L360.1,606.6 L358.4,599.6 L359.0,591.6 L360.7,587.5 L362.8,583.9 L364.2,580.4 L367.2,578.0 L371.4,577.1 L379.4,573.5 L380.6,570.8 L380.7,568.0 L382.3,560.4 L379.3,558.4 L376.4,557.7 L376.0,555.0 L374.2,551.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.TT</hasc>
+    <alt-name>Taidong</alt-name>
+    <woe-id>2347344</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>TT</postal-code>
+    <name>Taitung</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>121.54</longitude>
+    <woe-name>Taitung County</woe-name>
+    <latitude>22.0499</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>tw-tt</hc-key>
+    <hc-a2>TT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.PH" d="M169.0,494.8 L167.4,494.5 L166.6,491.9 L169.3,490.6 L170.7,491.0 L170.6,493.0 Z M168.6,488.3 L167.6,490.0 L165.3,488.2 L165.9,486.3 L167.6,486.6 Z M185.1,468.3 L182.5,469.2 L183.6,467.2 L185.2,467.6 Z M180.6,464.5 L181.7,467.4 L180.1,470.2 L177.5,469.6 L178.4,467.9 L178.3,465.6 L176.7,466.2 L176.4,465.0 L177.6,462.2 L178.5,462.1 Z M186.0,448.1 L181.8,450.0 L182.3,448.8 L184.5,447.7 Z M197.0,433.1 L201.8,433.3 L202.7,431.9 L205.1,436.6 L205.4,440.5 L203.0,438.4 L201.5,438.1 L197.8,439.4 L196.6,440.6 L195.5,443.4 L192.9,444.8 L190.3,445.1 L187.7,444.1 L185.1,441.4 L185.8,440.0 L187.2,441.8 L189.4,442.3 L191.8,441.7 L193.7,440.2 L191.4,439.0 L189.8,436.9 L188.8,437.9 L188.9,433.6 L191.0,433.9 L195.1,431.5 L197.7,430.7 Z M175.0,437.6 L173.0,437.6 L174.0,435.8 L177.6,435.0 L178.1,431.3 L180.0,425.7 L181.8,424.0 L184.0,426.1 L182.6,426.9 L180.0,433.4 L180.1,436.4 L176.4,436.8 Z M193.7,428.3 L192.5,428.7 L191.5,425.9 L188.1,421.9 L191.2,419.8 L194.7,422.3 L195.4,423.9 L194.1,425.2 L194.6,427.1 Z M195.6,411.8 L194.7,409.9 L196.6,407.6 L198.2,408.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.PH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>22695856</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>PH</postal-code>
+    <name>Penghu</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>119.597</longitude>
+    <woe-name>Penghu County</woe-name>
+    <latitude>23.5724</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.73</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>tw-ph</hc-key>
+    <hc-a2>PH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.KM" d="M4.5,299.7 L1.6,300.4 L0.0,299.7 L2.9,294.5 L5.9,293.5 L7.8,295.3 L7.8,297.0 Z M34.9,286.2 L37.2,293.1 L36.5,297.9 L34.3,300.3 L30.7,297.9 L28.0,296.9 L23.5,297.2 L19.6,299.5 L17.4,302.7 L15.5,303.6 L10.7,301.7 L10.1,300.6 L11.9,298.1 L11.8,293.3 L10.8,289.8 L15.8,287.5 L21.2,291.2 L25.0,290.9 L25.7,286.2 L27.1,283.3 L31.2,282.6 Z M183.1,216.4 L181.5,217.1 L181.2,214.8 L183.5,214.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.FK.KM</hasc>
+    <alt-name>Chinmen|Jinmen</alt-name>
+    <woe-id>28760735</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>KM</postal-code>
+    <name>Kinmen</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Fujian Province</region>
+    <longitude>118.368</longitude>
+    <woe-name>Kinmen</woe-name>
+    <latitude>24.454</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.16</hc-middle-x>
+    <hc-middle-y>0.87</hc-middle-y>
+    <hc-key>tw-km</hc-key>
+    <hc-a2>KM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.LK" d="M260.0,63.9 L259.9,65.2 L256.6,67.3 L258.0,64.3 Z M253.7,63.3 L252.5,64.4 L251.3,62.6 L253.3,62.0 Z M252.6,34.0 L255.6,33.0 L257.1,34.0 L255.5,35.7 L251.6,37.2 L249.9,35.0 L250.8,32.5 Z M264.3,24.8 L264.1,27.1 L262.1,24.9 L259.6,25.5 L258.1,29.1 L257.3,27.9 L257.9,24.7 L261.5,22.8 L262.8,23.0 Z M334.2,2.0 L333.0,2.0 L331.6,3.8 L329.9,2.9 L330.2,1.2 L331.9,0.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.FK.LK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>28760734</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>LK</postal-code>
+    <name>Lienchiang</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Fujian Province</region>
+    <longitude>119.938</longitude>
+    <woe-name>Lienchiang</woe-name>
+    <latitude>26.1519</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.04</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>tw-lk</hc-key>
+    <hc-a2>LK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.TW" d="M488.0,222.5 L485.7,223.4 L480.0,222.8 L476.0,218.7 L472.9,216.2 L470.8,212.6 L471.7,208.6 L471.1,205.2 L466.0,199.9 L469.0,194.6 L471.0,192.5 L480.6,186.7 L483.8,188.6 L483.7,192.4 L485.4,196.0 L486.7,201.5 L488.8,203.3 L489.6,205.7 L488.7,209.3 L488.8,212.0 L493.2,215.1 L492.1,217.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TP.TC</hasc>
+    <alt-name>Taibei Shi</alt-name>
+    <woe-id>20070568</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TW03</fips>
+    <postal-code>TW</postal-code>
+    <name>Taipei City</name>
+    <country>Taiwan</country>
+    <type-en>Special Municipality</type-en>
+    <region>Special Municipalities</region>
+    <longitude>121.559</longitude>
+    <woe-name>Taipei City</woe-name>
+    <latitude>25.0904</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Zhixiashi</type>
+    <hc-middle-x>0.18</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>tw-tw</hc-key>
+    <hc-a2>TW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.CS" d="M308.8,448.8 L318.2,447.7 L323.4,450.1 L326.1,456.1 L324.4,457.2 L321.9,457.5 L318.2,458.9 L314.2,457.9 L310.4,455.4 L307.1,454.0 L306.7,451.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.CS</hasc>
+    <alt-name>Jiayi Shi|Chiai City</alt-name>
+    <woe-id>28751583</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>CS</postal-code>
+    <name>Chiayi City</name>
+    <country>Taiwan</country>
+    <type-en>Provincial City</type-en>
+    <region>Taiwan Province</region>
+    <longitude>120.441</longitude>
+    <woe-name>Chiayi City</woe-name>
+    <latitude>23.4822</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Shi</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>tw-cs</hc-key>
+    <hc-a2>CS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.TH" d="M323.3,340.2 L324.1,338.0 L325.9,336.6 L327.2,333.1 L328.8,326.5 L334.0,317.9 L335.6,312.5 L337.5,309.6 L344.8,301.7 L349.7,309.5 L355.6,315.3 L363.7,321.5 L367.7,323.4 L371.2,324.1 L377.4,327.9 L384.1,327.6 L386.9,326.1 L387.4,322.2 L390.5,320.4 L395.8,320.9 L399.1,322.3 L401.7,325.3 L404.7,326.5 L409.5,324.0 L413.3,322.5 L419.6,317.6 L422.8,315.9 L427.7,312.0 L430.6,312.1 L433.2,311.0 L434.2,308.0 L436.3,306.6 L442.5,305.9 L444.0,306.3 L446.0,306.9 L445.6,309.9 L446.3,311.9 L449.0,312.5 L453.4,315.3 L458.1,313.8 L460.8,313.8 L463.9,316.4 L461.3,319.0 L461.1,321.3 L459.8,324.6 L455.6,327.1 L454.0,329.8 L453.2,332.5 L451.6,334.5 L447.5,337.6 L435.1,336.4 L429.1,338.7 L422.3,339.3 L417.5,341.7 L415.0,342.2 L412.3,343.7 L407.9,347.7 L405.2,348.7 L401.6,348.6 L399.0,350.7 L397.5,353.6 L395.6,354.1 L390.8,350.4 L389.2,351.4 L386.0,355.5 L382.7,355.6 L377.2,354.7 L373.7,356.3 L371.6,360.9 L367.3,368.6 L364.6,371.2 L362.3,371.5 L352.5,369.9 L350.2,369.8 L350.2,369.1 L347.3,367.1 L345.0,366.6 L344.4,362.7 L341.6,357.8 L339.3,355.8 L332.8,353.8 L330.5,350.8 L330.0,346.7 L328.6,343.2 L326.4,341.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.TG</hasc>
+    <alt-name>Taizhong Shi</alt-name>
+    <woe-id>28751584</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>TH</postal-code>
+    <name>Taichung City</name>
+    <country>Taiwan</country>
+    <type-en>Special Municipality</type-en>
+    <region>Special Municipalities</region>
+    <longitude>120.966</longitude>
+    <woe-name>Taichung City</woe-name>
+    <latitude>24.238</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Zhixiashi</type>
+    <hc-middle-x>0.22</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>tw-th</hc-key>
+    <hc-a2>TH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.YL" d="M270.9,446.4 L273.4,443.6 L273.5,434.7 L274.0,428.0 L275.7,422.7 L278.1,418.6 L278.9,413.2 L281.0,406.8 L284.5,402.5 L285.5,400.2 L289.1,397.1 L293.2,399.5 L305.2,398.3 L309.3,398.6 L312.9,399.7 L319.2,402.2 L329.9,403.6 L336.5,407.0 L339.7,407.0 L346.2,408.4 L346.8,408.0 L347.7,412.0 L346.6,414.5 L346.0,418.4 L346.5,422.6 L344.8,428.5 L347.0,431.0 L350.1,432.5 L353.8,431.4 L358.4,431.0 L359.8,433.0 L359.2,437.5 L350.6,439.4 L347.2,439.7 L345.9,437.5 L343.3,435.6 L336.8,437.1 L329.9,434.5 L327.2,431.2 L324.4,428.7 L320.6,428.8 L313.7,430.0 L309.8,430.9 L300.8,435.9 L298.6,437.9 L296.2,439.2 L292.3,442.2 L289.4,442.6 L287.3,446.8 L285.1,448.5 L281.8,448.4 L277.3,445.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.YL</hasc>
+    <alt-name>Yüanlin</alt-name>
+    <woe-id>2347346</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>YL</postal-code>
+    <name>Yunlin</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>120.427</longitude>
+    <woe-name>Yunlin County</woe-name>
+    <latitude>23.7253</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>tw-yl</hc-key>
+    <hc-a2>YL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.KH" d="M368.9,550.9 L364.2,554.5 L361.0,551.4 L356.9,546.5 L353.0,547.4 L349.3,550.6 L342.1,546.9 L336.9,549.2 L333.4,553.1 L328.9,554.5 L319.2,553.8 L317.4,560.3 L315.9,564.6 L315.9,573.7 L312.6,585.2 L312.5,589.1 L313.9,593.2 L314.1,597.7 L309.4,608.9 L308.0,608.2 L304.9,608.6 L297.8,602.9 L291.3,593.4 L298.2,602.0 L297.4,597.9 L295.4,593.9 L292.5,590.6 L287.6,585.9 L285.8,583.6 L284.9,581.0 L286.8,576.2 L284.6,569.9 L282.0,565.7 L279.6,560.1 L279.2,556.0 L279.9,552.0 L278.5,550.7 L276.3,545.7 L275.3,538.2 L278.7,536.3 L280.9,541.3 L283.5,542.7 L292.1,544.1 L296.6,543.7 L301.2,544.3 L309.1,540.8 L312.6,538.4 L315.7,532.6 L318.6,528.8 L322.1,525.4 L329.8,518.6 L333.4,514.1 L339.1,504.9 L344.9,496.8 L346.2,493.2 L346.2,493.2 L345.0,487.1 L345.1,484.4 L347.1,482.5 L350.9,482.9 L354.1,482.7 L360.9,478.8 L363.4,475.9 L367.8,472.7 L372.0,470.4 L374.4,467.7 L376.4,464.0 L381.1,460.4 L391.3,455.4 L396.8,457.3 L399.4,461.5 L400.4,464.7 L398.7,467.4 L395.6,468.7 L394.9,470.4 L395.4,472.6 L401.8,477.5 L403.5,483.0 L394.9,485.0 L391.3,487.2 L389.1,489.3 L384.8,491.9 L384.3,495.0 L385.5,498.3 L384.0,501.0 L379.9,503.1 L379.3,506.8 L380.5,512.3 L378.7,519.4 L378.6,525.6 L376.2,528.7 L371.4,532.6 L370.1,537.9 L370.7,542.4 L372.3,544.9 L375.7,548.4 L376.3,551.1 L374.2,551.4 L374.2,551.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.KH.KC</hasc>
+    <alt-name>Gaoxiong Shi</alt-name>
+    <woe-id>20070571</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>KH</postal-code>
+    <name>Kaohsiung City</name>
+    <country>Taiwan</country>
+    <type-en>Special Municipality</type-en>
+    <region>Special Municipalities</region>
+    <longitude>120.609</longitude>
+    <woe-name>Kaohsiung City</woe-name>
+    <latitude>23.0157</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Zhixiashi</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>tw-kh</hc-key>
+    <hc-a2>KH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.TP" d="M508.5,196.9 L527.1,201.5 L528.8,202.6 L527.7,206.2 L529.3,213.6 L531.9,216.4 L535.6,215.8 L539.9,216.7 L542.9,219.1 L538.2,221.3 L536.0,219.7 L532.8,220.4 L526.2,224.0 L520.2,225.2 L519.4,226.8 L520.8,228.7 L519.9,230.7 L513.5,234.0 L510.0,238.9 L507.2,240.8 L503.9,241.8 L496.5,246.0 L489.5,248.8 L484.8,252.1 L483.7,254.8 L484.5,259.9 L478.8,263.0 L474.0,266.6 L468.2,268.4 L466.9,265.4 L462.1,260.8 L461.0,255.0 L462.7,253.0 L463.5,250.2 L459.1,243.5 L456.4,242.4 L452.3,242.6 L449.6,241.0 L450.4,237.4 L449.8,234.7 L447.0,231.9 L446.4,229.1 L447.0,226.0 L447.0,222.7 L449.0,220.5 L456.1,218.6 L457.9,216.7 L458.2,212.3 L455.5,208.3 L451.0,206.5 L446.8,203.2 L443.4,201.6 L441.2,199.1 L447.3,198.1 L449.9,197.1 L454.2,193.9 L457.1,193.7 L459.0,194.3 L461.4,198.1 L463.3,197.4 L461.4,194.3 L456.7,190.0 L457.2,188.6 L459.6,186.8 L462.5,181.0 L466.1,177.8 L471.3,175.2 L477.3,174.0 L483.1,174.7 L485.5,176.5 L490.8,184.2 L492.7,188.2 L496.5,187.4 L497.6,187.7 L496.5,191.0 L498.3,192.6 L495.9,194.1 L490.3,196.9 L490.6,198.5 L494.5,204.2 L498.1,207.3 L503.8,209.7 L506.5,210.1 L510.1,208.3 L510.3,207.0 L508.3,204.9 Z M488.0,222.5 L492.1,217.4 L493.2,215.1 L488.8,212.0 L488.7,209.3 L489.6,205.7 L488.8,203.3 L486.7,201.5 L485.4,196.0 L483.7,192.4 L483.8,188.6 L480.6,186.7 L471.0,192.5 L469.0,194.6 L466.0,199.9 L471.1,205.2 L471.7,208.6 L470.8,212.6 L472.9,216.2 L476.0,218.7 L480.0,222.8 L485.7,223.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.TP</hasc>
+    <alt-name>Xinbei Shi</alt-name>
+    <woe-id>20070569</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TW03</fips>
+    <postal-code>TP</postal-code>
+    <name>New Taipei City</name>
+    <country>Taiwan</country>
+    <type-en>Special Municipality</type-en>
+    <region>Special Municipalities</region>
+    <longitude>121.646</longitude>
+    <woe-name>Taipei County</woe-name>
+    <latitude>24.911</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Zhixiashi</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>tw-tp</hc-key>
+    <hc-a2>TP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.HS" d="M381.4,256.8 L382.0,254.6 L385.1,248.6 L386.8,246.1 L385.8,243.0 L387.6,240.5 L392.1,242.5 L400.2,245.2 L403.1,246.8 L405.2,248.8 L406.2,250.8 L405.6,252.8 L398.3,255.2 L396.4,257.5 L395.2,260.5 L393.8,262.1 L391.2,262.8 L388.8,261.8 L387.4,259.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.HS</hasc>
+    <alt-name>Xinzhu Shi</alt-name>
+    <woe-id>28751582</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>HS</postal-code>
+    <name>Hsinchu City</name>
+    <country>Taiwan</country>
+    <type-en>Provincial City</type-en>
+    <region>Taiwan Province</region>
+    <longitude>120.959</longitude>
+    <woe-name>Hsinchu City</woe-name>
+    <latitude>24.7757</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Shi</type>
+    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>tw-hs</hc-key>
+    <hc-a2>HS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.HH" d="M393.8,262.1 L395.2,260.5 L396.4,257.5 L398.3,255.2 L405.6,252.8 L406.2,250.8 L405.2,248.8 L403.1,246.8 L400.2,245.2 L392.1,242.5 L387.6,240.5 L388.5,239.2 L389.3,235.6 L391.9,232.9 L393.3,232.5 L393.6,230.3 L396.0,225.2 L397.7,225.9 L405.1,225.5 L407.5,227.2 L409.6,231.9 L420.5,236.0 L422.4,238.3 L421.8,241.4 L423.6,243.4 L427.2,244.6 L431.1,248.0 L435.2,248.2 L438.4,252.6 L442.6,255.2 L443.5,261.9 L442.5,266.0 L439.9,269.5 L440.2,271.8 L446.3,276.0 L449.3,276.6 L451.4,278.2 L457.9,281.6 L455.9,287.7 L456.2,290.0 L454.1,293.1 L446.4,300.7 L444.0,306.3 L442.5,305.9 L436.3,306.6 L436.0,304.0 L433.6,299.8 L431.8,298.0 L431.1,295.6 L428.4,293.4 L421.6,295.1 L415.3,295.0 L411.1,296.0 L408.9,295.5 L410.1,290.2 L409.1,286.5 L410.4,280.9 L410.0,278.1 L407.9,276.2 L401.4,273.0 L398.2,270.6 L396.1,268.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.HH</hasc>
+    <alt-name>Xinzhu</alt-name>
+    <woe-id>2347334</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>HH</postal-code>
+    <name>Hsinchu</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>121.163</longitude>
+    <woe-name>Hsinchu County</woe-name>
+    <latitude>24.6748</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>tw-hh</hc-key>
+    <hc-a2>HH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.CL" d="M498.3,192.6 L500.3,194.6 L508.5,196.9 L508.3,204.9 L510.3,207.0 L510.1,208.3 L506.5,210.1 L503.8,209.7 L498.1,207.3 L494.5,204.2 L490.6,198.5 L490.3,196.9 L495.9,194.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.CL</hasc>
+    <alt-name>Jilong Shi|Chilung City</alt-name>
+    <woe-id>22695855</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>CL</postal-code>
+    <name>Keelung City</name>
+    <country>Taiwan</country>
+    <type-en>Provincial City</type-en>
+    <region>Taiwan Province</region>
+    <longitude>121.704</longitude>
+    <woe-name>Keelung City</woe-name>
+    <latitude>25.1131</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Shi</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>tw-cl</hc-key>
+    <hc-a2>CL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.ML" d="M393.8,262.1 L396.1,268.1 L398.2,270.6 L401.4,273.0 L407.9,276.2 L410.0,278.1 L410.4,280.9 L409.1,286.5 L410.1,290.2 L408.9,295.5 L411.1,296.0 L415.3,295.0 L421.6,295.1 L428.4,293.4 L431.1,295.6 L431.8,298.0 L433.6,299.8 L436.0,304.0 L436.3,306.6 L434.2,308.0 L433.2,311.0 L430.6,312.1 L427.7,312.0 L422.8,315.9 L419.6,317.6 L413.3,322.5 L409.5,324.0 L404.7,326.5 L401.7,325.3 L399.1,322.3 L395.8,320.9 L390.5,320.4 L387.4,322.2 L386.9,326.1 L384.1,327.6 L377.4,327.9 L371.2,324.1 L367.7,323.4 L363.7,321.5 L355.6,315.3 L349.7,309.5 L344.8,301.7 L348.8,297.5 L349.9,295.3 L350.4,291.8 L351.7,288.8 L355.0,283.2 L356.8,278.4 L360.4,277.4 L362.9,273.5 L367.7,269.4 L370.8,268.7 L374.6,269.5 L374.2,266.5 L377.7,262.5 L379.2,258.5 L381.4,256.8 L387.4,259.8 L388.8,261.8 L391.2,262.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.ML</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347338</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>ML</postal-code>
+    <name>Miaoli</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>120.942</longitude>
+    <woe-name>Miaoli County</woe-name>
+    <latitude>24.5253</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>tw-ml</hc-key>
+    <hc-a2>ML</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.TY" d="M468.2,268.4 L466.5,268.8 L463.6,270.9 L465.2,277.6 L464.0,279.7 L460.4,280.0 L457.9,281.6 L451.4,278.2 L449.3,276.6 L446.3,276.0 L440.2,271.8 L439.9,269.5 L442.5,266.0 L443.5,261.9 L442.6,255.2 L438.4,252.6 L435.2,248.2 L431.1,248.0 L427.2,244.6 L423.6,243.4 L421.8,241.4 L422.4,238.3 L420.5,236.0 L409.6,231.9 L407.5,227.2 L405.1,225.5 L397.7,225.9 L396.0,225.2 L400.9,217.7 L404.7,213.3 L408.6,210.1 L418.6,207.0 L423.0,203.8 L425.5,202.5 L430.3,200.9 L441.2,199.1 L443.4,201.6 L446.8,203.2 L451.0,206.5 L455.5,208.3 L458.2,212.3 L457.9,216.7 L456.1,218.6 L449.0,220.5 L447.0,222.7 L447.0,226.0 L446.4,229.1 L447.0,231.9 L449.8,234.7 L450.4,237.4 L449.6,241.0 L452.3,242.6 L456.4,242.4 L459.1,243.5 L463.5,250.2 L462.7,253.0 L461.0,255.0 L462.1,260.8 L466.9,265.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.TY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347345</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>TY</postal-code>
+    <name>Taoyuan</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>121.227</longitude>
+    <woe-name>Taoyuan County</woe-name>
+    <latitude>24.961</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>tw-ty</hc-key>
+    <hc-a2>TY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.CG" d="M289.1,397.1 L291.1,390.9 L296.2,385.7 L297.8,381.6 L300.1,377.4 L303.4,368.7 L306.6,364.6 L310.0,362.4 L311.0,359.3 L313.9,357.2 L314.6,355.6 L315.0,350.1 L317.0,347.3 L323.3,340.2 L326.4,341.3 L328.6,343.2 L330.0,346.7 L330.5,350.8 L332.8,353.8 L339.3,355.8 L341.6,357.8 L344.4,362.7 L345.0,366.6 L347.3,367.1 L350.2,369.1 L350.2,369.8 L350.2,371.8 L347.9,372.6 L347.5,376.3 L345.4,381.7 L344.0,395.6 L345.0,399.0 L347.0,400.9 L352.1,403.3 L351.6,405.2 L349.5,406.0 L346.8,408.0 L346.2,408.4 L339.7,407.0 L336.5,407.0 L329.9,403.6 L319.2,402.2 L312.9,399.7 L309.3,398.6 L305.2,398.3 L293.2,399.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.CG</hasc>
+    <alt-name>Zhanghua|Changhwa</alt-name>
+    <woe-id>20070572</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>CG</postal-code>
+    <name>Changhua</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>120.464</longitude>
+    <woe-name>Changhua County</woe-name>
+    <latitude>24.0016</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>tw-cg</hc-key>
+    <hc-a2>CG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.HL" d="M507.6,324.2 L508.9,326.8 L505.0,331.1 L501.5,335.7 L498.2,338.8 L498.1,340.7 L493.1,344.7 L491.5,348.0 L489.9,354.5 L485.8,360.4 L485.0,362.8 L486.0,368.2 L487.9,370.7 L487.4,374.4 L485.3,377.5 L484.6,382.8 L482.8,391.6 L479.3,400.9 L474.7,422.5 L472.0,427.8 L465.6,462.6 L463.7,462.0 L457.8,464.8 L455.6,467.7 L456.5,471.5 L456.8,475.2 L452.9,481.7 L450.0,489.9 L447.9,494.1 L445.2,501.2 L443.4,504.5 L442.9,511.6 L439.3,513.6 L434.8,512.9 L428.5,507.5 L423.5,498.7 L417.0,497.3 L414.3,494.7 L406.7,491.5 L404.0,487.0 L403.5,483.0 L401.8,477.5 L395.4,472.6 L394.9,470.4 L395.6,468.7 L398.7,467.4 L400.4,464.7 L399.4,461.5 L404.4,458.2 L403.5,454.8 L405.2,451.2 L408.1,449.1 L412.1,448.3 L416.2,448.2 L419.1,445.7 L419.9,441.0 L422.1,438.3 L426.3,436.8 L428.8,435.1 L431.5,425.6 L432.2,421.0 L431.2,414.2 L428.3,409.8 L431.5,404.7 L431.6,402.7 L435.2,394.3 L437.0,389.6 L438.3,380.1 L436.2,375.9 L437.6,371.7 L440.4,366.0 L444.8,360.4 L444.2,355.9 L439.9,352.3 L439.8,346.9 L441.8,345.4 L448.3,343.0 L447.5,337.6 L451.6,334.5 L453.2,332.5 L454.0,329.8 L455.6,327.1 L459.8,324.6 L461.1,321.3 L461.3,319.0 L463.9,316.4 L468.7,319.3 L476.9,321.4 L481.4,323.2 L484.9,323.2 L487.6,320.8 L488.9,317.6 L491.0,317.1 L501.0,323.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.HL</hasc>
+    <alt-name>Hualian</alt-name>
+    <woe-id>2347335</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>HL</postal-code>
+    <name>Hualien</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>121.381</longitude>
+    <woe-name>Hualien County</woe-name>
+    <latitude>23.7743</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>tw-hl</hc-key>
+    <hc-a2>HL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW.NT" d="M447.5,337.6 L448.3,343.0 L441.8,345.4 L439.8,346.9 L439.9,352.3 L444.2,355.9 L444.8,360.4 L440.4,366.0 L437.6,371.7 L436.2,375.9 L438.3,380.1 L437.0,389.6 L435.2,394.3 L431.6,402.7 L431.5,404.7 L428.3,409.8 L431.2,414.2 L432.2,421.0 L431.5,425.6 L428.8,435.1 L426.3,436.8 L422.1,438.3 L419.9,441.0 L419.1,445.7 L416.2,448.2 L412.1,448.3 L408.1,449.1 L405.2,451.2 L403.5,454.8 L404.4,458.2 L399.4,461.5 L396.8,457.3 L391.3,455.4 L376.8,455.0 L372.6,454.2 L371.9,448.9 L369.8,442.7 L371.5,439.9 L371.8,437.1 L369.0,435.5 L363.1,433.4 L359.8,433.0 L358.4,431.0 L353.8,431.4 L350.1,432.5 L347.0,431.0 L344.8,428.5 L346.5,422.6 L346.0,418.4 L346.6,414.5 L347.7,412.0 L346.8,408.0 L349.5,406.0 L351.6,405.2 L352.1,403.3 L347.0,400.9 L345.0,399.0 L344.0,395.6 L345.4,381.7 L347.5,376.3 L347.9,372.6 L350.2,371.8 L350.2,369.8 L352.5,369.9 L362.3,371.5 L364.6,371.2 L367.3,368.6 L371.6,360.9 L373.7,356.3 L377.2,354.7 L382.7,355.6 L386.0,355.5 L389.2,351.4 L390.8,350.4 L395.6,354.1 L397.5,353.6 L399.0,350.7 L401.6,348.6 L405.2,348.7 L407.9,347.7 L412.3,343.7 L415.0,342.2 L417.5,341.7 L422.3,339.3 L429.1,338.7 L435.1,336.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TW.TW.NT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347339</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NT</postal-code>
+    <name>Nantou</name>
+    <country>Taiwan</country>
+    <type-en>County</type-en>
+    <region>Taiwan Province</region>
+    <longitude>120.988</longitude>
+    <woe-name>Nantou County</woe-name>
+    <latitude>23.7977</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hsien</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>tw-nt</hc-key>
+    <hc-a2>NT</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

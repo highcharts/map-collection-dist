@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>East Timor</title>
+<g id="admin1">
+
+<g id="TL">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>East Timor</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>T.L.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>TLS</iso-a3>
+    <iso-a2>TL</iso-a2>
+    <woe-id>23424968</woe-id>
+    <continent>Asia</continent>
+    <hc-key>tl</hc-key>
+    <hc-a2>ET</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.DL" d="M331.3,38.3 L329.3,38.9 L327.0,37.2 L320.2,35.0 L317.4,33.5 L315.2,30.9 L314.5,28.9 L315.1,26.8 L316.7,23.9 L319.4,21.4 L327.0,15.8 L330.9,9.3 L336.3,3.8 L342.1,0.0 L346.0,1.7 L344.1,8.5 L335.7,28.6 L334.2,35.1 L333.3,36.8 Z M311.1,92.5 L322.2,87.6 L327.4,87.0 L332.9,88.6 L335.3,88.5 L341.2,82.7 L345.1,84.4 L351.4,84.6 L363.0,82.8 L383.4,76.4 L387.0,81.3 L383.7,85.7 L379.5,88.8 L374.8,94.5 L369.4,96.0 L369.0,96.1 L363.2,92.7 L355.0,92.1 L345.2,96.8 L338.0,100.7 L332.8,101.6 L326.0,103.9 L317.7,105.1 L315.7,103.6 L312.7,101.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.DL</hasc>
+    <alt-name>Dilli</alt-name>
+    <woe-id>24549898</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>DL</postal-code>
+    <name>Dili</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.668</longitude>
+    <woe-name>Dili</woe-name>
+    <latitude>-8.55429</latitude>
+    <woe-label>Dili, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.26</hc-middle-x>
+    <hc-middle-y>0.89</hc-middle-y>
+    <hc-key>tl-dl</hc-key>
+    <hc-a2>DL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.AM" d="M0.0,256.4 L3.9,255.4 L21.1,248.6 L24.8,248.1 L27.5,246.8 L32.2,240.1 L34.2,238.0 L40.7,235.0 L54.8,230.7 L75.6,226.8 L78.0,225.6 L79.8,223.2 L84.0,222.4 L89.4,222.1 L89.6,226.5 L86.4,238.3 L85.3,245.8 L84.5,247.6 L78.9,254.5 L72.6,259.9 L68.9,261.4 L67.5,263.6 L66.9,269.9 L64.1,274.5 L63.4,277.5 L64.3,281.3 L64.1,283.3 L62.2,286.2 L59.3,288.0 L55.7,288.9 L51.6,289.3 L48.2,290.6 L47.3,286.2 L48.2,280.8 L47.5,277.2 L46.0,273.6 L43.9,270.1 L41.5,267.2 L38.3,264.4 L35.5,263.2 L32.6,263.3 L29.1,264.8 L26.2,267.2 L22.0,273.0 L19.3,274.6 L12.7,273.5 L6.9,268.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.AM</hasc>
+    <alt-name>Ambino|Oecussi</alt-name>
+    <woe-id>24549906</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>AM</postal-code>
+    <name>Ambeno</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>124.241</longitude>
+    <woe-name>Ambeno</woe-name>
+    <latitude>-9.323230000000001</latitude>
+    <woe-label>Oecussi-Ambeno, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>tl-am</hc-key>
+    <hc-a2>AM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.BB" d="M238.6,220.9 L237.0,215.4 L240.7,202.0 L240.8,197.3 L239.0,193.1 L236.0,189.6 L232.1,186.9 L228.1,184.6 L224.8,181.3 L222.6,182.3 L221.9,183.5 L220.2,189.2 L217.3,191.7 L207.2,196.1 L201.8,199.6 L199.0,200.7 L195.2,200.9 L192.0,200.0 L189.6,198.1 L187.8,195.4 L186.7,192.1 L187.0,188.4 L189.9,181.2 L189.3,176.0 L196.6,171.9 L201.1,167.5 L211.5,151.9 L212.4,148.6 L214.4,146.8 L224.0,143.3 L227.1,140.6 L228.0,136.9 L228.6,128.8 L236.9,132.2 L243.3,132.2 L244.8,131.9 L246.3,135.6 L254.1,137.2 L257.5,138.9 L260.1,143.3 L266.0,154.9 L271.9,167.0 L273.0,171.3 L273.6,177.7 L275.7,182.8 L289.0,182.4 L294.2,180.9 L294.0,186.7 L293.6,192.0 L288.0,193.3 L282.9,197.5 L281.9,203.0 L281.1,211.0 L278.9,215.1 L271.9,214.8 L268.2,215.6 L274.0,222.9 L272.2,229.4 L260.2,231.0 L252.4,230.2 L251.5,227.4 L250.0,225.2 L246.9,223.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.BB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549896</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>BB</postal-code>
+    <name>Bobonaro</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.219</longitude>
+    <woe-name>Bobonaro</woe-name>
+    <latitude>-8.980729999999999</latitude>
+    <woe-label>Bobonaro, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>tl-bb</hc-key>
+    <hc-a2>BB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.CL" d="M309.8,236.3 L286.5,244.8 L278.8,249.4 L267.8,258.4 L261.9,260.9 L259.3,263.9 L255.3,269.8 L250.7,274.2 L247.6,275.2 L237.7,275.9 L233.6,277.1 L229.9,279.4 L226.3,282.9 L218.9,288.1 L216.7,275.1 L215.7,271.9 L211.0,264.3 L211.2,259.5 L209.7,256.7 L205.3,253.8 L200.2,249.3 L198.8,246.9 L197.6,243.2 L196.3,235.8 L197.2,229.4 L200.7,225.2 L207.7,224.0 L212.0,224.1 L214.9,225.5 L217.5,228.4 L218.8,229.3 L221.8,229.5 L225.6,226.4 L228.9,224.6 L231.2,224.4 L236.4,224.8 L238.1,224.0 L238.6,220.9 L246.9,223.5 L250.0,225.2 L251.5,227.4 L252.4,230.2 L260.2,231.0 L272.2,229.4 L274.0,222.9 L268.2,215.6 L271.9,214.8 L278.9,215.1 L281.1,211.0 L281.9,203.0 L282.9,197.5 L288.0,193.3 L293.6,192.0 L296.6,195.1 L298.1,198.3 L301.1,199.7 L303.3,205.1 L303.9,213.5 L306.7,216.8 L311.4,218.0 L314.8,220.0 L311.3,230.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.CL</hasc>
+    <alt-name>Covalima|Kova-Lima</alt-name>
+    <woe-id>24549894</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>CL</postal-code>
+    <name>Cova Lima</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.233</longitude>
+    <woe-name>Cova Lima</woe-name>
+    <latitude>-9.30758</latitude>
+    <woe-label>Cova Lima, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>tl-cl</hc-key>
+    <hc-a2>CL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.ER" d="M294.2,180.9 L289.0,182.4 L275.7,182.8 L273.6,177.7 L273.0,171.3 L271.9,167.0 L266.0,154.9 L260.1,143.3 L257.5,138.9 L254.1,137.2 L246.3,135.6 L244.8,131.9 L254.9,129.8 L264.8,126.0 L270.3,123.0 L289.2,119.5 L298.8,112.2 L306.4,109.6 L312.0,109.9 L313.0,110.0 L315.2,114.3 L312.6,120.8 L308.1,123.4 L301.2,125.7 L300.6,128.3 L304.0,131.7 L302.3,136.5 L298.8,140.7 L301.9,143.9 L307.6,146.8 L308.6,150.7 L310.3,153.9 L311.3,155.8 L310.6,161.3 L306.8,164.7 L305.3,168.3 L300.7,173.9 L300.5,179.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.ER</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549895</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>ER</postal-code>
+    <name>Ermera</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.344</longitude>
+    <woe-name>Ermera</woe-name>
+    <latitude>-8.84722</latitude>
+    <woe-label>Ermera, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>tl-er</hc-key>
+    <hc-a2>ER</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.MT" d="M448.4,185.9 L444.9,187.2 L429.0,198.0 L428.6,195.4 L425.8,190.5 L416.7,184.0 L407.4,178.5 L404.1,173.3 L399.2,167.3 L391.9,163.6 L385.4,160.1 L378.9,154.7 L376.5,145.1 L378.0,132.5 L377.2,122.3 L373.9,114.7 L371.0,110.2 L368.0,103.3 L369.4,96.0 L374.8,94.5 L379.5,88.8 L383.7,85.7 L387.0,81.3 L383.4,76.4 L388.1,74.9 L398.1,74.4 L420.3,78.5 L428.8,82.7 L434.5,83.4 L439.2,82.5 L448.3,79.7 L450.1,79.5 L454.1,82.7 L456.3,87.0 L457.5,98.4 L457.8,105.4 L456.4,110.1 L453.9,113.5 L449.4,117.6 L443.3,116.3 L439.1,119.0 L436.5,125.8 L434.1,131.3 L430.1,133.9 L427.3,137.5 L426.5,141.6 L431.5,149.4 L435.9,157.6 L436.0,162.2 L436.9,166.8 L439.2,173.2 L442.8,178.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.MT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549902</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>MT</postal-code>
+    <name>Manatuto</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.968</longitude>
+    <woe-name>Manatuto</woe-name>
+    <latitude>-8.737</latitude>
+    <woe-label>Manatuto, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>tl-mt</hc-key>
+    <hc-a2>MT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.MF" d="M378.0,132.5 L376.5,145.1 L378.9,154.7 L385.4,160.1 L391.9,163.6 L399.2,167.3 L404.1,173.3 L407.4,178.5 L416.7,184.0 L425.8,190.5 L428.6,195.4 L429.0,198.0 L407.5,212.4 L403.6,213.7 L391.1,211.7 L386.9,211.9 L384.5,213.2 L379.8,217.0 L377.3,217.8 L368.5,217.8 L364.0,218.9 L350.3,226.4 L348.5,226.4 L348.0,225.0 L346.4,217.1 L349.3,210.0 L347.5,205.2 L344.4,202.2 L332.9,196.8 L330.0,191.8 L329.4,184.8 L329.9,180.7 L331.6,177.7 L333.4,173.6 L334.1,169.6 L339.1,167.0 L346.1,167.2 L349.4,165.1 L350.2,155.1 L353.0,141.2 L357.2,140.8 L365.0,136.9 L368.8,133.1 L372.4,132.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.MF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549901</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>MF</postal-code>
+    <name>Manufahi</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.813</longitude>
+    <woe-name>Manufahi</woe-name>
+    <latitude>-9.004339999999999</latitude>
+    <woe-label>Manufahi, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>tl-mf</hc-key>
+    <hc-a2>MF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.VQ" d="M574.5,135.9 L567.2,136.3 L562.6,137.4 L560.1,138.6 L553.8,143.1 L550.4,144.2 L545.7,144.4 L543.5,145.2 L535.1,154.6 L527.2,167.7 L519.6,174.3 L510.6,176.7 L454.3,183.4 L448.4,185.9 L442.8,178.6 L439.2,173.2 L436.9,166.8 L436.0,162.2 L435.9,157.6 L431.5,149.4 L426.5,141.6 L427.3,137.5 L430.1,133.9 L434.1,131.3 L436.5,125.8 L439.1,119.0 L443.3,116.3 L449.4,117.6 L458.0,120.6 L469.4,121.0 L479.6,117.3 L490.1,116.8 L499.3,118.9 L511.6,123.6 L515.2,120.9 L514.5,114.4 L515.2,108.0 L516.7,102.4 L520.8,106.5 L524.3,115.9 L530.0,118.8 L538.7,117.5 L544.4,118.3 L547.9,120.4 L550.7,119.1 L553.2,114.1 L558.3,111.7 L570.1,115.2 L574.0,118.2 L576.9,122.1 L576.2,123.1 L574.6,128.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.VQ</hasc>
+    <alt-name>Vikeke</alt-name>
+    <woe-id>24549903</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>VQ</postal-code>
+    <name>Viqueque</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>126.386</longitude>
+    <woe-name>Viqueque</woe-name>
+    <latitude>-8.8247</latitude>
+    <woe-label>Viqueque, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>tl-vq</hc-key>
+    <hc-a2>VQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.BT" d="M566.7,65.2 L567.7,64.9 L573.5,61.3 L575.9,61.3 L581.0,62.7 L590.4,60.9 L599.6,56.9 L621.6,41.6 L626.4,39.6 L630.0,40.5 L633.2,42.9 L648.1,50.2 L652.3,51.4 L657.5,51.9 L662.7,51.5 L666.5,49.7 L673.1,45.1 L674.6,44.5 L677.3,45.2 L680.3,50.6 L684.8,53.3 L694.5,56.0 L698.5,58.8 L700.0,63.1 L697.8,66.8 L682.1,78.2 L672.2,87.9 L652.5,102.9 L638.6,116.1 L637.1,118.3 L634.6,118.4 L619.6,121.6 L605.8,131.4 L599.7,134.3 L574.5,135.9 L574.6,128.4 L576.2,123.1 L576.9,122.1 L584.1,112.2 L592.6,105.9 L591.0,102.4 L585.2,96.4 L577.8,89.5 L574.6,86.3 L576.4,83.5 L577.0,79.9 L573.7,77.8 L571.3,75.3 L569.8,70.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.BT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549904</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ID28</fips>
+    <postal-code>BT</postal-code>
+    <name>Lautem</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>127.001</longitude>
+    <woe-name>Lautem</woe-name>
+    <latitude>-8.50164</latitude>
+    <woe-label>Lautem, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>tl-bt</hc-key>
+    <hc-a2>BT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.LQ" d="M228.6,128.8 L229.4,117.7 L231.2,112.9 L234.0,108.5 L237.5,105.5 L241.8,104.1 L251.5,102.7 L255.6,100.5 L257.3,100.1 L265.1,101.3 L267.5,100.7 L273.8,97.0 L287.9,93.0 L292.2,92.6 L306.2,93.6 L311.1,92.5 L312.7,101.3 L315.7,103.6 L313.4,107.5 L312.0,109.9 L306.4,109.6 L298.8,112.2 L289.2,119.5 L270.3,123.0 L264.8,126.0 L254.9,129.8 L244.8,131.9 L243.3,132.2 L236.9,132.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.LQ</hasc>
+    <alt-name>Likisia</alt-name>
+    <woe-id>24549897</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>LQ</postal-code>
+    <name>Liquica</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.308</longitude>
+    <woe-name>Liquica</woe-name>
+    <latitude>-8.65272</latitude>
+    <woe-label>Liquica, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>tl-lq</hc-key>
+    <hc-a2>LQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.AL" d="M312.0,109.9 L313.4,107.5 L315.7,103.6 L317.7,105.1 L326.0,103.9 L332.8,101.6 L338.0,100.7 L345.2,96.8 L355.0,92.1 L363.2,92.7 L369.0,96.1 L369.4,96.0 L368.0,103.3 L371.0,110.2 L373.9,114.7 L377.2,122.3 L378.0,132.5 L372.4,132.0 L368.8,133.1 L365.0,136.9 L357.2,140.8 L353.0,141.2 L353.7,136.1 L350.1,135.5 L343.9,136.4 L338.6,139.9 L334.0,140.9 L332.5,144.8 L328.2,150.0 L321.2,152.5 L310.3,153.9 L308.6,150.7 L307.6,146.8 L301.9,143.9 L298.8,140.7 L302.3,136.5 L304.0,131.7 L300.6,128.3 L301.2,125.7 L308.1,123.4 L312.6,120.8 L315.2,114.3 L313.0,110.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.AL</hasc>
+    <alt-name>Alieau</alt-name>
+    <woe-id>24549899</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>AL</postal-code>
+    <name>Aileu</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.619</longitude>
+    <woe-name>Aileu</woe-name>
+    <latitude>-8.69661</latitude>
+    <woe-label>Aileu, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>tl-al</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.AN" d="M348.5,226.4 L346.4,226.5 L335.6,224.8 L332.2,225.5 L327.8,228.9 L323.4,231.4 L309.8,236.3 L311.3,230.5 L314.8,220.0 L311.4,218.0 L306.7,216.8 L303.9,213.5 L303.3,205.1 L301.1,199.7 L298.1,198.3 L296.6,195.1 L293.6,192.0 L294.0,186.7 L294.2,180.9 L300.5,179.1 L300.7,173.9 L305.3,168.3 L306.8,164.7 L310.6,161.3 L311.3,155.8 L310.3,153.9 L321.2,152.5 L328.2,150.0 L332.5,144.8 L334.0,140.9 L338.6,139.9 L343.9,136.4 L350.1,135.5 L353.7,136.1 L353.0,141.2 L350.2,155.1 L349.4,165.1 L346.1,167.2 L339.1,167.0 L334.1,169.6 L333.4,173.6 L331.6,177.7 L329.9,180.7 L329.4,184.8 L330.0,191.8 L332.9,196.8 L344.4,202.2 L347.5,205.2 L349.3,210.0 L346.4,217.1 L348.0,225.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549900</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>AN</postal-code>
+    <name>Ainaro</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>125.551</longitude>
+    <woe-name>Ainaro</woe-name>
+    <latitude>-9.030989999999999</latitude>
+    <woe-label>Ainaro, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>tl-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL.BC" d="M450.1,79.5 L452.9,79.1 L462.5,79.1 L471.1,77.9 L475.5,75.8 L484.9,69.2 L491.7,67.3 L498.9,63.4 L505.5,63.0 L507.7,62.1 L511.5,64.9 L516.1,66.7 L521.0,67.8 L525.9,68.2 L529.0,69.3 L536.8,76.8 L545.7,73.9 L562.1,66.4 L566.7,65.2 L569.8,70.0 L571.3,75.3 L573.7,77.8 L577.0,79.9 L576.4,83.5 L574.6,86.3 L577.8,89.5 L585.2,96.4 L591.0,102.4 L592.6,105.9 L584.1,112.2 L576.9,122.1 L574.0,118.2 L570.1,115.2 L558.3,111.7 L553.2,114.1 L550.7,119.1 L547.9,120.4 L544.4,118.3 L538.7,117.5 L530.0,118.8 L524.3,115.9 L520.8,106.5 L516.7,102.4 L515.2,108.0 L514.5,114.4 L515.2,120.9 L511.6,123.6 L499.3,118.9 L490.1,116.8 L479.6,117.3 L469.4,121.0 L458.0,120.6 L449.4,117.6 L453.9,113.5 L456.4,110.1 L457.8,105.4 L457.5,98.4 L456.3,87.0 L454.1,82.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TP.BC</hasc>
+    <alt-name>Baukau</alt-name>
+    <woe-id>24549905</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TT00</fips>
+    <postal-code>BC</postal-code>
+    <name>Baucau</name>
+    <country>East Timor</country>
+    <type-en>District|Regencies</type-en>
+    <region>NULL</region>
+    <longitude>126.476</longitude>
+    <woe-name>Baucau</woe-name>
+    <latitude>-8.537290000000001</latitude>
+    <woe-label>Baucau, TL, East Timor</woe-label>
+    <type>Distrik|Kabupaten</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tl-bc</hc-key>
+    <hc-a2>BC</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

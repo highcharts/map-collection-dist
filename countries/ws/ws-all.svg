@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Samoa</title>
+<g id="admin1">
+
+<g id="WS">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Samoa</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Samoa</country-abbrev>
+    <subregion>Polynesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>WSM</iso-a3>
+    <iso-a2>WS</iso-a2>
+    <woe-id>23424992</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>ws</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.3586" d="M515.6,186.7 L589.5,215.6 L581.6,246.9 L588.6,308.0 L572.2,304.0 L563.8,304.8 L541.6,311.7 L536.3,311.5 L531.7,310.1 L528.6,307.2 L527.4,302.7 L525.2,298.2 L520.1,296.0 L509.7,293.7 L500.4,288.8 L492.3,286.0 L483.9,285.3 L487.0,254.4 L488.9,235.0 L484.1,216.8 L481.5,181.4 L493.7,181.9 L503.9,184.1 L505.5,213.1 L516.2,215.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.TU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070339</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS10</fips>
+    <postal-code>NULL</postal-code>
+    <name>Tuamasaga</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-171.752</longitude>
+    <woe-name>Tuamasaga</woe-name>
+    <latitude>-13.9415</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>ws-3586</hc-key>
+    <hc-a2>TU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6500" d="M379.0,211.3 L384.9,203.1 L393.2,200.0 L398.5,212.3 L391.4,215.9 Z M472.7,286.9 L463.4,288.1 L454.3,287.9 L446.2,285.1 L438.8,279.4 L427.8,262.3 L422.4,256.0 L417.4,257.7 L413.8,257.7 L404.7,244.8 L398.6,241.0 L386.9,239.6 L422.3,217.0 L411.6,193.3 L425.8,188.1 L469.9,180.9 L481.5,181.4 L484.1,216.8 L488.9,235.0 L487.0,254.4 L474.7,253.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.AA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070340</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS01</fips>
+    <postal-code>NULL</postal-code>
+    <name>A'ana</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-171.919</longitude>
+    <woe-name>A`ana</woe-name>
+    <latitude>-13.9005</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ws-6500</hc-key>
+    <hc-a2>A'</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6501" d="M386.9,239.6 L376.2,234.9 L374.8,223.7 L379.0,211.3 L391.4,215.9 L398.5,212.3 L393.2,200.0 L411.6,193.3 L422.3,217.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.AL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070341</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS02</fips>
+    <postal-code>NULL</postal-code>
+    <name>Aiga-i-le-Tai</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-172.039</longitude>
+    <woe-name>Aiga-i-le-Tai</woe-name>
+    <latitude>-13.8904</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>ws-6501</hc-key>
+    <hc-a2>AI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6502" d="M632.5,229.0 L637.7,238.8 L636.9,244.2 L623.2,245.6 L619.7,267.5 L637.5,274.7 L657.7,271.0 L675.6,279.5 L683.5,267.5 L700.0,287.0 L694.6,303.7 L696.1,305.8 L698.5,311.3 L685.3,311.8 L648.5,308.1 L626.6,310.2 L616.4,309.3 L605.7,303.9 L597.2,308.5 L588.6,308.0 L581.6,246.9 L589.5,215.6 L612.0,218.1 L623.3,222.2 L616.1,234.6 L622.0,235.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.AT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070345</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Atua</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-171.592</longitude>
+    <woe-name>Atua</woe-name>
+    <latitude>-14.0212</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.77</hc-middle-y>
+    <hc-key>ws-6502</hc-key>
+    <hc-a2>AT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6503" d="M636.9,244.2 L633.4,247.4 L631.2,251.0 L634.2,257.0 L657.5,254.5 L683.5,267.5 L675.6,279.5 L657.7,271.0 L637.5,274.7 L619.7,267.5 L623.2,245.6 Z M632.5,229.0 L622.0,235.8 L616.1,234.6 L623.3,222.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.VF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070346</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS06</fips>
+    <postal-code>NULL</postal-code>
+    <name>Va'a-o-Fonoti</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-171.549</longitude>
+    <woe-name>Va`a-o-Fonoti</woe-name>
+    <latitude>-13.9633</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.74</hc-middle-y>
+    <hc-key>ws-6503</hc-key>
+    <hc-a2>VO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6504" d="M291.3,50.4 L291.8,52.6 L290.9,58.7 L291.4,61.0 L294.1,63.4 L300.5,65.9 L302.7,68.5 L304.5,74.1 L305.6,79.8 L306.0,92.1 L308.5,102.2 L313.1,108.4 L316.1,115.1 L313.6,126.9 L308.4,135.1 L302.5,141.7 L297.7,149.3 L295.7,161.6 L297.4,173.8 L297.1,179.3 L285.3,164.1 L275.7,155.7 L245.7,93.8 L252.6,52.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.FA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070338</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS04</fips>
+    <postal-code>NULL</postal-code>
+    <name>Fa'asaleleaga</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-172.243</longitude>
+    <woe-name>Fa`asaleleaga</woe-name>
+    <latitude>-13.6516</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>ws-6504</hc-key>
+    <hc-a2>FA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6505" d="M483.9,285.3 L472.7,286.9 L474.7,253.3 L487.0,254.4 Z M515.6,186.7 L516.2,215.5 L505.5,213.1 L503.9,184.1 Z M216.5,0.0 L227.8,0.0 L239.3,2.0 L250.5,7.1 L261.1,16.1 L291.3,50.4 L252.6,52.4 L245.7,93.8 L226.7,93.4 L204.1,92.9 L192.0,92.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.GE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070344</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Gaga'emauga</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-171.861</longitude>
+    <woe-name>Gaga`emauga</woe-name>
+    <latitude>-13.9658</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.12</hc-middle-x>
+    <hc-middle-y>0.16</hc-middle-y>
+    <hc-key>ws-6505</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6506" d="M74.7,32.4 L87.0,25.5 L92.9,23.9 L104.4,22.8 L110.9,21.1 L124.9,13.9 L131.0,11.8 L171.9,11.5 L182.5,9.8 L204.5,2.3 L216.5,0.0 L192.0,92.7 L106.4,91.0 L78.7,73.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.GI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070337</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS07</fips>
+    <postal-code>NULL</postal-code>
+    <name>Gaga'ifomauga</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-172.467</longitude>
+    <woe-name>Gagaifomauga</woe-name>
+    <latitude>-13.5461</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ws-6506</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6507" d="M41.5,82.9 L33.5,75.6 L31.9,72.9 L31.2,67.4 L29.9,64.5 L26.9,62.9 L20.0,63.6 L17.3,62.7 L11.3,55.7 L3.3,43.5 L0.0,31.9 L8.3,26.7 L26.1,26.6 L45.5,33.7 L63.2,34.1 L74.7,32.4 L78.7,73.7 L65.8,65.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.VS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070336</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Vaisigano</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-172.701</longitude>
+    <woe-name>Vaisigano</woe-name>
+    <latitude>-13.5561</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>ws-6507</hc-key>
+    <hc-a2>VA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6508" d="M242.2,163.8 L223.5,170.7 L204.1,92.9 L226.7,93.4 Z M90.9,123.2 L83.9,120.4 L78.4,117.3 L67.1,100.0 L60.3,91.9 L46.8,86.8 L41.5,82.9 L65.8,65.7 L78.7,73.7 L106.4,91.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.SA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070342</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS09</fips>
+    <postal-code>NULL</postal-code>
+    <name>Satupa'itea</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-172.635</longitude>
+    <woe-name>Satupa`itea</woe-name>
+    <latitude>-13.6365</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.20</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
+    <hc-key>ws-6508</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="WS.6509" d="M297.1,179.3 L293.9,181.7 L281.6,181.6 L276.1,180.5 L270.7,177.9 L262.4,170.9 L258.2,165.7 L253.0,163.0 L242.2,163.8 L226.7,93.4 L245.7,93.8 L275.7,155.7 L285.3,164.1 Z M106.4,91.0 L192.0,92.7 L204.1,92.9 L223.5,170.7 L216.1,173.4 L135.9,182.6 L130.8,179.0 L125.5,172.0 L121.3,167.9 L112.8,163.3 L108.8,160.1 L107.0,155.5 L105.9,150.6 L100.9,140.0 L99.8,133.5 L97.1,127.2 L90.9,123.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WS.PA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070343</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WS08</fips>
+    <postal-code>NULL</postal-code>
+    <name>Palauli</name>
+    <country>Samoa</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-172.454</longitude>
+    <woe-name>Palauli</woe-name>
+    <latitude>-13.7195</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ws-6509</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

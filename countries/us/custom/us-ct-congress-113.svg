@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Connecticut congressional districts</title>
+<g id="special">
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<g id="US.CT">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.CT</hasc>
+    <alt-name>CT|Conn.</alt-name>
+    <woe-id>2347565</woe-id>
+    <subregion>New England</subregion>
+    <fips>US09</fips>
+    <postal-code>CT</postal-code>
+    <name>Connecticut</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>Northeast</region>
+    <longitude>-72.7594</longitude>
+    <woe-name>Connecticut</woe-name>
+    <latitude>41.6486</latitude>
+    <woe-label>Connecticut, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-ct</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.05" d="M65.2,329.7 L67.2,295.9 L68.8,256.9 L79.5,28.1 L79.9,4.1 L99.5,3.3 L209.7,5.2 L185.4,127.6 L207.7,127.5 L206.6,115.2 L214.3,116.3 L219.6,106.7 L228.4,122.7 L252.2,122.2 L276.6,117.7 L280.8,101.4 L274.4,94.8 L278.6,74.7 L287.7,73.7 L290.8,61.6 L340.6,62.2 L340.3,80.1 L335.5,92.4 L336.3,106.3 L330.8,107.4 L333.1,144.8 L339.0,153.0 L345.0,149.2 L350.4,191.4 L325.6,194.5 L324.9,189.4 L302.2,193.0 L296.0,157.5 L259.8,163.5 L266.1,198.6 L282.3,195.9 L284.5,213.5 L280.5,238.3 L303.1,234.4 L317.7,243.3 L315.8,232.4 L326.7,238.4 L332.9,229.1 L350.7,225.9 L354.4,265.0 L344.3,266.0 L315.6,256.9 L317.4,263.5 L303.4,290.4 L279.3,282.9 L285.1,262.0 L269.4,249.7 L260.6,254.3 L251.5,244.1 L230.9,251.7 L236.0,259.9 L227.1,260.3 L223.9,272.2 L204.4,272.6 L202.3,292.8 L186.9,306.3 L196.1,320.0 L183.4,333.5 L179.5,330.4 L142.3,356.7 L136.7,341.3 L92.2,353.3 L78.6,329.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>0905</geoid>
+    <name>Congressional District 5</name>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>us-ct-05</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.03" d="M223.9,272.2 L227.1,260.3 L236.0,259.9 L230.9,251.7 L251.5,244.1 L260.6,254.3 L269.4,249.7 L285.1,262.0 L279.3,282.9 L303.4,290.4 L317.4,263.5 L315.6,256.9 L344.3,266.0 L354.4,265.0 L350.7,225.9 L350.2,219.3 L371.4,214.4 L368.7,224.3 L373.4,232.6 L384.8,224.9 L392.1,233.7 L420.5,236.0 L423.2,256.7 L394.7,262.8 L394.0,280.4 L404.5,290.1 L379.2,295.3 L381.7,336.5 L398.0,354.9 L392.0,371.2 L387.5,372.3 L378.1,381.1 L374.0,381.2 L363.5,374.9 L358.5,374.0 L344.6,375.3 L340.9,376.8 L335.1,381.6 L332.4,380.8 L327.6,382.4 L321.6,381.6 L317.0,388.0 L303.7,388.6 L302.4,378.5 L299.4,372.9 L298.2,361.8 L296.6,359.6 L293.4,362.8 L288.7,371.0 L276.3,383.7 L260.9,406.2 L255.6,408.5 L250.9,409.0 L245.3,406.0 L241.7,409.4 L233.8,413.4 L230.6,416.2 L226.0,424.3 L225.0,430.5 L225.9,436.9 L213.5,435.7 L205.8,429.8 L208.6,415.0 L205.3,402.8 L211.8,384.8 L224.7,379.0 L232.7,385.5 L237.7,368.8 L230.5,354.3 L221.3,348.3 L209.4,331.4 L228.9,308.8 L233.9,283.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>0903</geoid>
+    <name>Congressional District 3</name>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-ct-03</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.04" d="M223.9,272.2 L233.9,283.7 L228.9,308.8 L209.4,331.4 L221.3,348.3 L230.5,354.3 L237.7,368.8 L232.7,385.5 L224.7,379.0 L211.8,384.8 L205.3,402.8 L208.6,415.0 L205.8,429.8 L203.2,427.3 L198.0,425.2 L198.1,431.2 L189.1,433.8 L184.6,428.9 L183.1,430.8 L183.6,437.3 L182.4,440.7 L176.4,448.0 L166.6,453.2 L164.0,447.2 L161.0,445.1 L158.5,450.7 L155.5,453.7 L144.4,455.5 L138.0,458.9 L132.9,459.4 L127.2,462.4 L111.4,473.5 L106.3,475.8 L92.9,484.9 L89.1,485.4 L82.2,491.0 L75.4,501.3 L70.3,496.7 L66.8,497.9 L60.2,502.8 L51.0,505.0 L48.5,500.7 L45.9,501.2 L43.3,506.7 L34.8,508.9 L29.1,514.1 L30.0,516.3 L28.1,521.2 L26.5,519.5 L27.2,506.7 L0.0,464.2 L88.7,408.6 L63.1,369.1 L65.2,329.7 L78.6,329.2 L92.2,353.3 L136.7,341.3 L142.3,356.7 L179.5,330.4 L183.4,333.5 L196.1,320.0 L186.9,306.3 L202.3,292.8 L204.4,272.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>0904</geoid>
+    <name>Congressional District 4</name>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>us-ct-04</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.02" d="M337.2,21.5 L343.5,4.9 L363.7,4.0 L396.9,6.0 L397.4,8.8 L425.7,3.5 L564.5,1.0 L658.2,0.7 L688.0,0.0 L688.8,7.5 L690.7,44.7 L699.5,177.5 L700.0,293.3 L684.0,296.8 L689.8,329.7 L680.0,340.5 L678.0,334.9 L669.4,329.3 L664.7,328.6 L641.0,330.0 L637.5,330.9 L614.9,344.2 L597.1,328.3 L592.9,331.3 L591.1,342.8 L587.8,348.4 L578.8,348.2 L566.8,343.6 L557.2,343.2 L555.5,356.1 L545.5,350.0 L523.7,364.1 L511.8,359.2 L501.7,353.0 L500.4,349.5 L502.6,337.9 L496.9,328.6 L491.6,325.5 L484.6,325.0 L489.0,332.7 L495.3,338.9 L498.9,346.3 L495.5,357.9 L500.6,361.4 L493.9,368.1 L486.2,367.7 L470.5,362.3 L463.5,363.5 L455.4,367.0 L448.2,372.4 L443.8,379.3 L438.4,372.8 L431.8,376.1 L416.5,369.3 L408.1,367.1 L392.0,371.2 L398.0,354.9 L381.7,336.5 L379.2,295.3 L404.5,290.1 L394.0,280.4 L394.7,262.8 L423.2,256.7 L420.5,236.0 L431.0,205.0 L425.3,193.0 L439.3,190.5 L449.2,179.7 L450.6,162.1 L430.6,159.2 L433.7,145.7 L452.9,142.4 L447.6,109.9 L436.2,111.9 L439.4,87.1 L431.7,89.2 L432.2,46.3 L392.7,52.8 L396.0,48.3 L359.0,46.2 L361.8,34.8 L336.0,27.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>0902</geoid>
+    <name>Congressional District 2</name>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>us-ct-02</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.01" d="M209.7,5.2 L322.8,5.2 L322.1,24.1 L337.2,21.5 L336.0,27.7 L361.8,34.8 L359.0,46.2 L396.0,48.3 L392.7,52.8 L432.2,46.3 L431.7,89.2 L439.4,87.1 L436.2,111.9 L447.6,109.9 L452.9,142.4 L433.7,145.7 L430.6,159.2 L450.6,162.1 L449.2,179.7 L439.3,190.5 L425.3,193.0 L431.0,205.0 L420.5,236.0 L392.1,233.7 L384.8,224.9 L373.4,232.6 L368.7,224.3 L371.4,214.4 L350.2,219.3 L350.7,225.9 L332.9,229.1 L326.7,238.4 L315.8,232.4 L317.7,243.3 L303.1,234.4 L280.5,238.3 L284.5,213.5 L282.3,195.9 L266.1,198.6 L259.8,163.5 L296.0,157.5 L302.2,193.0 L324.9,189.4 L325.6,194.5 L350.4,191.4 L345.0,149.2 L339.0,153.0 L333.1,144.8 L330.8,107.4 L336.3,106.3 L335.5,92.4 L340.3,80.1 L340.6,62.2 L290.8,61.6 L287.7,73.7 L278.6,74.7 L274.4,94.8 L280.8,101.4 L276.6,117.7 L252.2,122.2 L228.4,122.7 L219.6,106.7 L214.3,116.3 L206.6,115.2 L207.7,127.5 L185.4,127.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>0901</geoid>
+    <name>Congressional District 1</name>
+    <hc-middle-x>0.77</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>us-ct-01</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

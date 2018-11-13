@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Azerbaijan</title>
+<g id="admin1">
+
+<g id="AZ">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Azerbaijan</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Aze.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>AZE</iso-a3>
+    <iso-a2>AZ</iso-a2>
+    <woe-id>23424741</woe-id>
+    <continent>Asia</continent>
+    <hc-key>az</hc-key>
+    <hc-a2>AZ</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.CF" d="M121.0,462.7 L114.7,460.3 L103.8,460.2 L96.9,458.6 L92.6,458.3 L92.0,452.4 L94.4,448.2 L91.2,443.5 L88.8,438.4 L91.1,433.5 L91.4,427.9 L84.1,424.0 L89.3,420.8 L91.7,415.1 L95.3,412.7 L94.0,408.3 L99.1,405.3 L108.0,401.2 L110.7,404.1 L113.7,404.7 L120.0,397.0 L127.2,399.5 L132.0,404.0 L136.7,407.0 L129.0,416.3 L127.0,424.6 L121.7,436.9 L116.5,443.4 L115.2,451.9 L119.6,455.0 L123.2,458.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.CF</hasc>
+    <alt-name>Julfa</alt-name>
+    <woe-id>24550721</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ35</fips>
+    <postal-code>CF</postal-code>
+    <name>Culfa</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Naxç?van Autonomous Republic</region>
+    <longitude>45.6847</longitude>
+    <woe-name>Culfa</woe-name>
+    <latitude>39.136</latitude>
+    <woe-label>Culfa, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>az-cf</hc-key>
+    <hc-a2>CF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SH" d="M120.0,397.0 L113.7,404.7 L110.7,404.1 L108.0,401.2 L99.1,405.3 L94.0,408.3 L91.9,408.7 L91.0,403.5 L88.4,400.1 L77.4,394.8 L75.0,388.1 L70.5,385.7 L73.4,381.2 L78.6,376.3 L82.6,376.9 L95.0,369.4 L98.2,368.1 L113.7,364.2 L116.5,364.1 L122.6,367.3 L123.7,369.3 L123.4,375.9 L124.5,383.1 L124.0,385.5 L120.0,392.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SH</hasc>
+    <alt-name>Shakhbuz</alt-name>
+    <woe-id>24550718</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ35</fips>
+    <postal-code>SH</postal-code>
+    <name>?ahbuz</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Naxç?van Autonomous Republic</region>
+    <longitude>45.5799</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>39.4227</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>az-sh</hc-key>
+    <hc-a2>SH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.QZ" d="M53.3,144.1 L52.1,145.9 L49.4,145.4 L48.2,141.8 L49.9,141.2 Z M30.8,133.7 L29.1,137.3 L24.8,135.8 L22.6,131.5 L24.8,128.1 L29.5,129.2 Z M72.5,139.0 L66.9,141.8 L59.0,139.2 L53.5,138.6 L41.4,128.4 L40.4,133.1 L35.5,131.2 L34.0,128.6 L35.2,123.6 L46.9,124.0 L51.0,121.1 L49.3,116.3 L43.1,111.5 L41.1,110.9 L33.4,110.9 L30.7,108.0 L31.9,104.8 L27.5,95.5 L38.7,86.2 L39.3,88.3 L44.8,93.6 L52.2,96.2 L59.8,100.7 L73.5,102.4 L74.3,108.1 L71.3,118.0 L72.1,120.5 L70.7,122.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.QZ</hasc>
+    <alt-name>Qazakh</alt-name>
+    <woe-id>20070267</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ40</fips>
+    <postal-code>QZ</postal-code>
+    <name>Qazax</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>45.2004</longitude>
+    <woe-name>Qazax</woe-name>
+    <latitude>41.0778</latitude>
+    <woe-label>Qazax, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.72</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>az-qz</hc-key>
+    <hc-a2>QZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.BA" d="M698.2,223.1 L700.0,224.9 L700.0,229.0 L696.2,229.1 L693.0,225.5 Z M586.7,195.8 L588.4,192.1 L588.7,190.6 L601.6,193.1 L606.6,192.7 L615.9,188.9 L629.5,188.6 L632.2,192.7 L636.9,197.1 L639.4,198.4 L650.3,200.0 L652.5,201.1 L657.6,210.1 L662.7,212.2 L665.1,214.5 L668.4,220.7 L670.4,233.5 L672.5,237.6 L673.1,243.0 L667.8,235.0 L664.6,231.7 L658.4,227.2 L653.0,225.1 L643.0,223.5 L632.0,225.0 L626.1,229.6 L623.7,229.7 L620.1,225.7 L612.5,223.3 L606.4,228.6 L607.4,232.2 L604.2,235.9 L599.5,238.7 L591.6,240.9 L584.9,245.3 L575.9,249.2 L573.8,250.9 L566.2,259.5 L567.2,268.8 L560.8,271.6 L559.7,274.1 L562.0,280.4 L566.5,285.4 L560.9,290.6 L559.7,295.5 L562.5,303.7 L559.5,308.5 L560.4,312.6 L557.4,318.2 L558.5,324.4 L561.4,329.5 L556.8,332.7 L553.9,336.6 L552.5,331.9 L551.1,319.9 L552.6,313.8 L551.5,305.9 L547.8,301.2 L543.7,292.2 L545.6,283.5 L549.3,277.4 L548.0,271.0 L551.3,264.4 L552.4,256.1 L554.4,254.0 L557.6,247.0 L557.6,238.3 L556.0,229.7 L555.5,221.8 L559.1,217.8 L564.1,216.7 L569.8,209.9 L579.6,209.1 L586.7,208.0 L592.2,209.3 L597.7,206.8 L608.5,203.5 L610.6,200.8 L596.1,196.7 L591.9,198.7 L589.1,198.3 Z M585.5,224.6 L589.4,221.6 L585.2,215.6 L580.3,216.2 L576.6,218.7 L580.0,224.6 Z M663.4,206.4 L663.2,202.7 L667.4,203.6 L667.8,206.8 L672.0,211.8 L671.4,214.8 L667.3,215.3 L667.6,211.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.BA</hasc>
+    <alt-name>Baku city</alt-name>
+    <woe-id>20070218</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ01</fips>
+    <postal-code>BA</postal-code>
+    <name>Bak?</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Absheron Economic Region</region>
+    <longitude>50.0435</longitude>
+    <woe-name>Bak?</woe-name>
+    <latitude>40.4447</latitude>
+    <woe-label>Baki, AZ, Azerbaijan</woe-label>
+    <type>Sahar</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.14</hc-middle-y>
+    <hc-key>az-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.6369" d="M241.7,325.0 L239.4,326.4 L237.4,325.1 L237.1,321.5 L241.6,316.5 L244.7,319.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.XC</hasc>
+    <alt-name>Khojali</alt-name>
+    <woe-id>20070276</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ61</fips>
+    <postal-code>NULL</postal-code>
+    <name>Stepanakert</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>46.7662</longitude>
+    <woe-name>Xankandi</woe-name>
+    <latitude>39.8285</latitude>
+    <woe-label>Xankandi, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>az-6369</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SA" d="M287.6,112.4 L285.9,113.3 L281.0,112.1 L283.7,101.0 L286.4,100.9 L289.0,105.1 L289.4,108.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070246</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ39</fips>
+    <postal-code>SA</postal-code>
+    <name>??ki</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Shaki-Zaqatala Economic Region</region>
+    <longitude>47.1885</longitude>
+    <woe-name>??ki</woe-name>
+    <latitude>41.1882</latitude>
+    <woe-label>Saki, AZ, Azerbaijan</woe-label>
+    <type>Sahari</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>az-sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.GA" d="M195.3,188.7 L191.9,194.4 L187.6,198.7 L183.0,198.1 L181.8,193.3 L183.5,188.4 L186.7,182.7 L192.7,182.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.GA</hasc>
+    <alt-name>Ganja city</alt-name>
+    <woe-id>20070231</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ20</fips>
+    <postal-code>GA</postal-code>
+    <name>G?nc?</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>46.3206</longitude>
+    <woe-name>G?nc?</woe-name>
+    <latitude>40.6864</latitude>
+    <woe-label>Ganca, AZ, Azerbaijan</woe-label>
+    <type>Sahar</type>
+    <hc-middle-x>0.80</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>az-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.XR" d="M186.7,182.7 L183.5,188.4 L181.8,193.3 L183.0,198.1 L187.6,198.7 L191.9,194.4 L195.3,188.7 L202.3,189.2 L205.6,196.7 L205.6,205.9 L207.4,208.0 L206.7,210.8 L201.5,217.1 L197.2,221.2 L188.4,233.1 L185.0,242.1 L185.0,252.9 L175.0,251.5 L165.6,248.3 L168.3,239.9 L173.8,233.8 L173.7,229.1 L165.6,222.8 L162.5,218.0 L170.5,205.5 L155.7,195.3 L160.0,192.1 L164.9,190.9 L168.7,191.0 L171.9,188.5 L172.8,183.0 L174.7,178.5 L175.4,172.4 L178.9,165.9 L182.6,173.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.XR</hasc>
+    <alt-name>Khanlar</alt-name>
+    <woe-id>20070268</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ20</fips>
+    <postal-code>XR</postal-code>
+    <name>Xanlar</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>46.295</longitude>
+    <woe-name>Xanlar</woe-name>
+    <latitude>40.4627</latitude>
+    <woe-label>Xanlar, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>az-xr</hc-key>
+    <hc-a2>XR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.NA" d="M245.7,217.5 L243.4,215.8 L245.2,213.7 L246.8,215.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AZ.NA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070261</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ21</fips>
+    <postal-code>NA</postal-code>
+    <name>Naftalan</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>46.8275</longitude>
+    <woe-name>Goranboy</woe-name>
+    <latitude>40.5077</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Sahari</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>az-na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.GR" d="M210.9,246.7 L198.4,254.7 L185.0,252.9 L185.0,242.1 L188.4,233.1 L197.2,221.2 L201.5,217.1 L206.7,210.8 L207.4,208.0 L205.6,205.9 L205.6,196.7 L202.3,189.2 L204.3,181.9 L211.0,175.2 L210.4,172.0 L225.6,156.4 L235.8,144.1 L234.8,150.4 L235.8,163.1 L235.0,169.5 L233.0,175.6 L235.9,180.1 L240.7,180.7 L244.7,183.3 L238.3,193.3 L240.5,196.7 L245.2,193.7 L249.3,194.0 L252.4,197.3 L252.4,204.0 L253.2,210.8 L256.6,211.8 L260.3,211.2 L261.3,212.6 L259.6,218.4 L256.9,219.7 L251.5,225.2 L242.0,231.9 L233.0,232.1 L227.2,234.8 L221.5,238.5 L214.9,241.2 Z M245.7,217.5 L246.8,215.1 L245.2,213.7 L243.4,215.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AZ.GR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070261</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ21</fips>
+    <postal-code>GR</postal-code>
+    <name>Goranboy</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>46.645</longitude>
+    <woe-name>Goranboy</woe-name>
+    <latitude>40.5463</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>az-gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.KA" d="M185.0,252.9 L198.4,254.7 L210.9,246.7 L209.7,252.1 L207.3,254.1 L206.9,259.8 L209.4,270.5 L211.1,274.8 L216.4,271.7 L223.6,272.3 L232.9,280.3 L236.0,286.9 L238.9,290.0 L234.8,290.4 L231.3,292.5 L226.4,293.4 L222.0,295.8 L219.4,299.8 L215.7,302.0 L208.7,298.0 L201.8,302.4 L191.7,306.6 L186.3,307.5 L172.8,312.9 L164.1,314.2 L155.7,316.1 L149.6,310.3 L145.0,319.3 L133.7,328.6 L131.1,327.3 L125.7,321.9 L119.2,309.0 L116.6,306.2 L113.3,304.6 L100.7,303.4 L96.9,301.7 L96.5,298.0 L104.1,293.0 L123.9,296.1 L132.3,295.2 L134.7,292.2 L136.4,283.8 L141.3,278.3 L142.8,274.5 L144.8,264.4 L144.6,261.6 L141.4,257.6 L138.0,255.1 L133.6,255.8 L134.6,250.1 L141.3,247.4 L148.9,248.6 L157.2,249.2 L165.6,248.3 L175.0,251.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.KA</hasc>
+    <alt-name>Kalbajar</alt-name>
+    <woe-id>20070273</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ26</fips>
+    <postal-code>KA</postal-code>
+    <name>K?lb?c?r</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Kalbajar-Lachin Economic Region</region>
+    <longitude>46.1688</longitude>
+    <woe-name>K?lb?c?r</woe-name>
+    <latitude>40.0966</latitude>
+    <woe-label>Kalbacar, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>az-ka</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.YV" d="M296.1,170.4 L291.7,188.5 L291.8,194.1 L293.4,198.8 L292.3,203.7 L290.5,206.0 L286.4,209.0 L282.5,218.2 L268.2,220.8 L262.6,229.6 L258.5,224.7 L256.9,219.7 L259.6,218.4 L261.3,212.6 L260.3,211.2 L256.6,211.8 L253.2,210.8 L252.4,204.0 L252.4,197.3 L249.3,194.0 L245.2,193.7 L240.5,196.7 L238.3,193.3 L244.7,183.3 L240.7,180.7 L235.9,180.1 L233.0,175.6 L235.0,169.5 L235.8,163.1 L234.8,150.4 L235.8,144.1 L246.0,147.0 L256.2,152.3 L267.1,157.5 L277.8,163.2 Z M268.3,173.3 L263.7,174.2 L259.2,172.6 L255.5,174.7 L261.3,181.2 L270.8,177.1 Z M282.2,204.8 L286.4,205.0 L287.5,203.3 L287.0,200.4 L288.4,196.6 L288.0,194.1 L278.6,194.3 L276.6,197.6 L278.4,202.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AZ.YV</hasc>
+    <alt-name>Yevlakh</alt-name>
+    <woe-id>20070252</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ67</fips>
+    <postal-code>YV</postal-code>
+    <name>Yevlakh Rayon</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>46.9101</longitude>
+    <woe-name>Yevlax</woe-name>
+    <latitude>40.6958</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>az-yv</hc-key>
+    <hc-a2>YV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.AS" d="M290.5,206.0 L292.3,203.7 L293.4,198.8 L291.8,194.1 L291.7,188.5 L296.1,170.4 L306.0,172.4 L309.0,173.6 L314.0,172.4 L322.8,174.9 L327.5,173.9 L328.6,187.5 L331.6,190.6 L335.5,192.7 L339.3,197.3 L336.1,205.4 L335.8,210.6 L331.1,209.2 L326.6,209.9 L323.2,212.3 L321.7,222.6 L323.5,226.5 L326.9,228.3 L328.8,231.9 L325.6,240.2 L319.6,246.6 L317.5,243.9 L318.4,238.3 L316.9,236.4 L312.5,237.2 L310.1,236.4 L312.5,232.8 L311.5,231.1 L305.0,228.9 L308.3,225.8 L309.2,222.1 L303.2,222.3 L303.2,220.8 L298.4,216.1 L299.3,210.4 L297.2,208.8 L292.4,213.4 L293.0,208.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.AS</hasc>
+    <alt-name>Agdash</alt-name>
+    <woe-id>20070213</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ04</fips>
+    <postal-code>AS</postal-code>
+    <name>A?da?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>47.4132</longitude>
+    <woe-name>Agdas</woe-name>
+    <latitude>40.568</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>az-as</hc-key>
+    <hc-a2>AS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.DV" d="M507.8,73.7 L515.2,86.3 L518.1,103.1 L520.4,107.3 L518.8,107.5 L509.2,100.5 L501.9,103.5 L493.4,103.9 L489.7,109.6 L492.1,114.8 L492.5,120.7 L489.8,125.6 L485.1,126.7 L481.8,129.3 L480.3,133.5 L483.4,147.7 L479.6,150.3 L476.2,153.9 L470.1,150.8 L463.9,148.1 L464.0,141.2 L463.1,135.3 L461.2,131.6 L463.3,128.0 L466.3,125.6 L467.6,121.5 L463.1,116.0 L457.9,111.2 L460.7,103.6 L466.6,97.9 L469.5,93.9 L467.7,89.7 L467.4,83.4 L468.4,76.9 L472.3,76.3 L475.9,74.4 L483.8,75.7 L489.0,73.4 L500.8,74.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.DV</hasc>
+    <alt-name>Davachi</alt-name>
+    <woe-id>20070279</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ17</fips>
+    <postal-code>DV</postal-code>
+    <name>D?v?çi</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Guba-Khachmaz Economic Region</region>
+    <longitude>48.9074</longitude>
+    <woe-name>D?v?çi</woe-name>
+    <latitude>41.1969</latitude>
+    <woe-label>Davaci, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>az-dv</hc-key>
+    <hc-a2>DV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.BS" d="M435.8,348.7 L442.2,342.1 L455.4,349.0 L460.1,343.0 L465.4,343.7 L470.7,345.8 L482.8,349.3 L480.5,357.5 L480.2,365.6 L485.1,371.7 L483.7,380.1 L480.6,380.3 L473.6,378.9 L469.6,384.8 L469.3,393.9 L465.7,397.5 L461.6,395.2 L460.1,389.7 L457.1,385.4 L452.9,385.5 L449.4,390.1 L445.3,393.8 L440.5,395.5 L437.5,398.9 L433.0,396.6 L432.4,389.2 L431.0,387.3 L432.3,386.8 L429.4,381.3 L425.8,376.7 L417.2,369.4 L396.1,345.7 L388.4,339.0 L384.4,337.1 L384.4,335.7 L391.8,336.0 L400.5,342.1 L408.7,349.6 L423.2,357.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.BS</hasc>
+    <alt-name>Bilasuvar</alt-name>
+    <woe-id>20070242</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ13</fips>
+    <postal-code>BS</postal-code>
+    <name>Bil?suvar</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>48.3681</longitude>
+    <woe-name>Bil?suvar</woe-name>
+    <latitude>39.4604</latitude>
+    <woe-label>Bilasuvar, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>az-bs</hc-key>
+    <hc-a2>BS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.ST" d="M460.1,343.0 L455.4,349.0 L442.2,342.1 L435.8,348.7 L430.8,341.9 L430.7,334.8 L431.4,330.8 L425.5,325.9 L418.1,323.7 L414.7,317.1 L415.6,312.9 L418.9,305.7 L418.2,302.1 L415.4,298.7 L418.1,293.3 L420.2,296.4 L422.7,296.0 L433.0,290.2 L437.2,289.4 L442.7,292.7 L441.2,297.4 L442.5,299.6 L445.9,301.0 L449.6,298.0 L452.6,298.0 L463.0,303.8 L468.2,305.9 L472.3,310.7 L471.7,316.6 L474.0,324.1 L474.3,329.5 L471.5,334.2 L466.1,337.1 L460.2,338.6 L456.8,341.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.ST</hasc>
+    <alt-name>Saatly</alt-name>
+    <woe-id>20070243</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ45</fips>
+    <postal-code>ST</postal-code>
+    <name>Saatl?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>48.4591</longitude>
+    <woe-name>Saatli</woe-name>
+    <latitude>39.7892</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>az-st</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SQ" d="M561.2,184.1 L562.1,180.9 L566.9,179.7 L574.0,185.2 L579.2,185.3 L583.5,186.8 L588.7,190.6 L588.4,192.1 L586.7,195.8 L580.7,198.2 L574.6,198.0 L570.3,191.4 L566.0,186.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SQ</hasc>
+    <alt-name>Sumqayit city</alt-name>
+    <woe-id>20070247</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ54</fips>
+    <postal-code>SQ</postal-code>
+    <name>Sumqay?t</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Absheron Economic Region</region>
+    <longitude>49.5962</longitude>
+    <woe-name>Sumqay?t</woe-name>
+    <latitude>40.5841</latitude>
+    <woe-label>Sumqayit, AZ, Azerbaijan</woe-label>
+    <type>Sahar</type>
+    <hc-middle-x>0.70</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>az-sq</hc-key>
+    <hc-a2>SQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.XI" d="M562.1,180.9 L561.2,184.1 L559.0,188.3 L553.1,195.3 L552.3,201.3 L544.8,205.2 L536.0,205.9 L528.1,202.1 L516.0,190.7 L509.4,188.8 L504.0,185.2 L496.5,177.1 L486.9,170.1 L480.0,168.3 L475.1,161.8 L476.2,153.9 L479.6,150.3 L483.4,147.7 L487.4,147.3 L495.4,144.1 L499.2,141.7 L500.3,136.8 L504.6,133.6 L507.3,135.7 L508.4,141.5 L519.8,147.3 L524.9,148.9 L530.7,149.1 L540.8,146.3 L546.0,146.0 L547.4,148.7 L555.6,153.9 L558.2,153.0 L566.7,160.1 L566.3,163.5 L564.0,172.5 L564.1,175.9 L566.9,179.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.XI</hasc>
+    <alt-name>Khizi</alt-name>
+    <woe-id>20070271</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ63</fips>
+    <postal-code>XI</postal-code>
+    <name>Xiz?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Absheron Economic Region</region>
+    <longitude>49.154</longitude>
+    <woe-name>Xiz?</woe-name>
+    <latitude>40.7249</latitude>
+    <woe-label>Xizi, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>az-xi</hc-key>
+    <hc-a2>XI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SI" d="M476.2,153.9 L475.1,161.8 L480.0,168.3 L470.9,175.1 L469.7,181.7 L470.4,188.5 L466.7,194.7 L469.8,198.0 L472.2,210.1 L472.7,215.0 L474.3,217.2 L471.1,225.5 L470.6,228.7 L465.2,232.6 L466.1,235.0 L475.5,233.9 L474.2,240.0 L470.8,244.1 L467.0,246.2 L457.6,242.1 L452.5,239.4 L442.9,237.3 L447.6,230.7 L448.0,223.1 L453.1,218.7 L461.5,214.5 L463.2,212.1 L453.3,206.4 L445.0,206.5 L440.4,204.8 L436.9,200.6 L437.9,194.0 L442.9,188.9 L444.5,186.2 L444.3,183.5 L446.9,177.6 L444.4,172.8 L440.6,169.2 L438.5,165.0 L442.0,158.1 L440.9,151.2 L434.5,147.0 L429.0,141.2 L438.6,140.9 L448.0,143.2 L455.8,146.1 L463.9,148.1 L470.1,150.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SI</hasc>
+    <alt-name>Shamakhi</alt-name>
+    <woe-id>20070270</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ50</fips>
+    <postal-code>SI</postal-code>
+    <name>?amax?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Daghlig Shirvan Economic Region</region>
+    <longitude>48.5986</longitude>
+    <woe-name>?amax?</woe-name>
+    <latitude>40.3768</latitude>
+    <woe-label>Samaxi, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>az-si</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.QA" d="M345.5,103.6 L351.3,105.7 L359.5,104.7 L360.5,106.6 L364.3,109.0 L373.1,110.4 L376.4,119.6 L386.0,124.8 L382.9,129.7 L381.5,135.1 L378.2,134.7 L376.7,138.3 L378.0,143.4 L381.1,148.2 L380.9,153.1 L377.5,156.1 L374.2,157.1 L374.0,164.2 L369.5,168.0 L364.2,170.6 L360.8,173.7 L358.5,178.3 L352.5,186.7 L348.6,188.7 L339.8,190.1 L335.5,192.7 L331.6,190.6 L328.6,187.5 L327.5,173.9 L331.6,172.5 L332.6,168.4 L332.5,158.8 L334.6,149.7 L338.4,142.7 L338.1,135.2 L344.7,120.9 L346.4,113.2 L345.3,109.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.QA</hasc>
+    <alt-name>Qabala</alt-name>
+    <woe-id>20070235</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ37</fips>
+    <postal-code>QA</postal-code>
+    <name>Q?b?l?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Shaki-Zaqatala Economic Region</region>
+    <longitude>47.7784</longitude>
+    <woe-name>Q?b?l?</woe-name>
+    <latitude>40.9578</latitude>
+    <woe-label>Qabala, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>az-qa</hc-key>
+    <hc-a2>QA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.QB" d="M386.0,124.8 L376.4,119.6 L373.1,110.4 L395.3,92.2 L418.1,75.0 L425.8,68.0 L434.4,63.2 L441.3,60.7 L447.7,56.6 L453.5,65.7 L458.2,74.2 L460.3,76.9 L466.0,75.0 L468.4,76.9 L467.4,83.4 L467.7,89.7 L469.5,93.9 L466.6,97.9 L460.7,103.6 L457.9,111.2 L463.1,116.0 L467.6,121.5 L466.3,125.6 L463.3,128.0 L461.2,131.6 L463.1,135.3 L464.0,141.2 L463.9,148.1 L455.8,146.1 L448.0,143.2 L438.6,140.9 L429.0,141.2 L421.8,135.2 L412.8,134.9 L406.3,132.1 L396.4,126.9 L393.0,125.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.QB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070232</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ42</fips>
+    <postal-code>QB</postal-code>
+    <name>Quba</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Guba-Khachmaz Economic Region</region>
+    <longitude>48.3368</longitude>
+    <woe-name>Quba</woe-name>
+    <latitude>41.1847</latitude>
+    <woe-label>Quba, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>az-qb</hc-key>
+    <hc-a2>QB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.805" d="M237.1,359.5 L231.7,360.5 L228.6,364.2 L230.7,366.5 L231.5,370.5 L229.3,373.8 L226.0,376.2 L216.6,383.3 L211.1,382.8 L206.4,379.9 L208.7,378.0 L207.9,372.3 L212.1,367.9 L210.2,363.3 L206.2,361.6 L198.5,362.5 L194.3,360.8 L189.7,355.6 L185.5,355.4 L177.3,359.7 L173.1,360.7 L168.6,358.2 L165.7,352.9 L161.9,349.6 L157.3,348.3 L153.4,345.3 L148.7,336.0 L145.4,332.8 L137.7,330.6 L133.7,328.6 L145.0,319.3 L149.6,310.3 L155.7,316.1 L164.1,314.2 L172.8,312.9 L186.3,307.5 L191.7,306.6 L201.8,302.4 L200.2,307.1 L201.2,311.1 L206.5,315.2 L210.8,323.8 L213.1,333.5 L215.2,343.2 L211.7,351.6 L212.3,355.8 L219.5,359.6 L224.5,359.0 L228.1,352.6 L231.3,351.4 L234.7,351.7 L236.4,355.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SU</hasc>
+    <alt-name>Shusha</alt-name>
+    <woe-id>20070262</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ29</fips>
+    <postal-code>NULL</postal-code>
+    <name>Lankaran</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Kalbajar-Lachin Economic Region</region>
+    <longitude>46.3095</longitude>
+    <woe-name>Lankaran</woe-name>
+    <latitude>39.7717</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>az-805</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.XD" d="M226.0,376.2 L229.3,373.8 L231.5,370.5 L230.7,366.5 L228.6,364.2 L231.7,360.5 L237.1,359.5 L240.3,354.2 L243.4,348.9 L249.8,353.3 L257.5,346.6 L255.9,340.6 L249.7,334.1 L248.2,331.2 L250.6,326.9 L259.8,322.5 L262.1,318.7 L263.4,314.2 L268.5,312.8 L273.6,315.2 L280.2,319.4 L287.1,320.9 L290.5,315.8 L294.3,315.3 L298.2,316.2 L301.5,323.0 L307.5,326.6 L309.5,332.6 L306.3,339.3 L289.8,343.4 L285.5,347.0 L280.1,349.8 L274.6,350.4 L272.6,354.0 L277.1,354.8 L281.0,354.2 L278.4,357.7 L273.4,359.0 L271.5,361.3 L272.3,363.9 L275.0,363.5 L280.9,359.8 L281.9,363.3 L279.8,366.8 L281.2,372.9 L276.8,374.1 L276.0,377.9 L273.5,382.0 L275.1,388.8 L270.9,389.3 L265.8,391.9 L264.2,389.0 L256.5,383.9 L255.7,380.0 L248.8,376.7 L246.3,378.5 L248.2,383.4 L246.7,388.6 L242.2,388.2 L237.4,386.5 L240.6,379.6 L237.0,375.7 L231.9,377.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.XD</hasc>
+    <alt-name>Khojavend</alt-name>
+    <woe-id>20070259</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ14</fips>
+    <postal-code>XD</postal-code>
+    <name>Xocav?nd</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>46.99</longitude>
+    <woe-name>Xocav?nd</woe-name>
+    <latitude>39.6307</latitude>
+    <woe-label>Xocavand, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>az-xd</hc-key>
+    <hc-a2>XD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.QD" d="M206.4,379.9 L211.1,382.8 L216.6,383.3 L226.0,376.2 L231.9,377.1 L237.0,375.7 L240.6,379.6 L237.4,386.5 L234.6,389.3 L233.9,394.1 L238.1,401.0 L238.6,406.1 L240.6,410.5 L248.8,415.7 L239.3,421.7 L231.9,431.6 L226.9,428.7 L225.4,417.4 L221.6,417.1 L211.6,408.4 L208.8,401.4 L206.8,399.8 L198.0,396.1 L194.0,393.1 L192.2,388.2 L193.8,384.1 L197.6,381.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.QD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070233</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ43</fips>
+    <postal-code>QD</postal-code>
+    <name>Qubadli</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Kalbajar-Lachin Economic Region</region>
+    <longitude>46.5917</longitude>
+    <woe-name>Qubadli</woe-name>
+    <latitude>39.3434</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>az-qd</hc-key>
+    <hc-a2>QD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.2051" d="M243.4,348.9 L240.3,354.2 L237.1,359.5 L236.4,355.1 L234.7,351.7 L231.3,351.4 L228.1,352.6 L224.5,359.0 L219.5,359.6 L212.3,355.8 L211.7,351.6 L215.2,343.2 L213.1,333.5 L218.5,332.6 L223.5,330.1 L228.6,329.3 L237.2,330.9 L237.6,335.0 L241.6,333.1 L243.0,338.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SU</hasc>
+    <alt-name>Shusha</alt-name>
+    <woe-id>20070264</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ55</fips>
+    <postal-code>NULL</postal-code>
+    <name>?u?a</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>46.658</longitude>
+    <woe-name>?u?a</woe-name>
+    <latitude>39.7027</latitude>
+    <woe-label>Susa, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>az-2051</hc-key>
+    <hc-a2>?U</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.XC" d="M243.4,348.9 L243.0,338.5 L241.6,333.1 L239.3,331.4 L237.2,330.9 L228.6,329.3 L223.5,330.1 L218.5,332.6 L213.1,333.5 L210.8,323.8 L206.5,315.2 L201.2,311.1 L200.2,307.1 L201.8,302.4 L208.7,298.0 L215.7,302.0 L219.4,299.8 L222.0,295.8 L226.4,293.4 L231.3,292.5 L235.6,295.5 L240.5,294.0 L246.4,296.8 L249.5,303.7 L253.8,307.6 L258.8,309.8 L257.9,314.0 L255.5,317.3 L250.6,326.9 L248.2,331.2 L249.7,334.1 L255.9,340.6 L257.5,346.6 L249.8,353.3 Z M241.7,325.0 L244.7,319.2 L241.6,316.5 L237.1,321.5 L237.4,325.1 L239.4,326.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.XC</hasc>
+    <alt-name>Khojali</alt-name>
+    <woe-id>20070277</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ61</fips>
+    <postal-code>XC</postal-code>
+    <name>Xocal?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>46.6804</longitude>
+    <woe-name>Xocal?</woe-name>
+    <latitude>39.8925</latitude>
+    <woe-label>Xocali, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>az-xc</hc-key>
+    <hc-a2>XC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.BB" d="M59.4,360.8 L65.1,370.0 L72.6,371.3 L78.6,376.3 L73.4,381.2 L70.5,385.7 L75.0,388.1 L77.4,394.8 L88.4,400.1 L91.0,403.5 L91.9,408.7 L94.0,408.3 L95.3,412.7 L91.7,415.1 L76.5,415.8 L69.8,415.5 L65.1,419.2 L73.5,425.3 L84.1,424.0 L91.4,427.9 L91.1,433.5 L88.8,438.4 L91.2,443.5 L94.4,448.2 L92.0,452.4 L92.6,458.3 L86.1,455.8 L80.7,452.8 L79.1,449.4 L80.2,445.2 L75.5,442.0 L73.4,436.1 L69.2,431.8 L69.6,427.9 L65.1,425.9 L65.4,423.1 L61.7,423.3 L49.0,419.2 L45.8,420.2 L43.7,410.0 L41.1,405.2 L46.5,407.1 L55.3,403.0 L55.8,399.5 L54.2,395.8 L55.6,392.5 L52.8,384.0 L52.1,379.9 L55.7,366.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.BB</hasc>
+    <alt-name>Babek</alt-name>
+    <woe-id>24550722</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ35</fips>
+    <postal-code>BB</postal-code>
+    <name>Bab?k</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Naxç?van Autonomous Republic</region>
+    <longitude>45.3373</longitude>
+    <woe-name>Babek</woe-name>
+    <latitude>39.1871</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>az-bb</hc-key>
+    <hc-a2>BB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.LA" d="M497.9,476.8 L500.1,481.6 L500.2,483.0 L496.7,486.4 L495.4,478.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.LA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070263</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ29</fips>
+    <postal-code>LA</postal-code>
+    <name>Lankaran</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Lankaran Economic Region</region>
+    <longitude>48.8421</longitude>
+    <woe-name>Astara</woe-name>
+    <latitude>38.7585</latitude>
+    <woe-label>Lankaran, AZ, Azerbaijan</woe-label>
+    <type>Sahari</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>az-la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SL" d="M498.0,301.7 L498.9,302.0 L500.5,300.3 L508.9,299.2 L518.5,304.5 L535.0,306.1 L541.0,304.3 L545.1,308.3 L552.6,313.8 L551.1,319.9 L552.5,331.9 L553.9,336.6 L549.3,343.9 L549.6,346.5 L547.2,352.7 L546.2,361.7 L536.3,365.2 L532.0,367.4 L526.4,365.8 L517.7,356.8 L514.9,359.9 L513.8,364.1 L508.5,369.8 L505.8,375.2 L507.2,382.7 L499.6,388.8 L495.0,388.1 L483.7,380.1 L485.1,371.7 L480.2,365.6 L480.5,357.5 L482.8,349.3 L491.4,348.1 L497.1,350.8 L496.9,344.7 L500.5,342.6 L506.7,337.2 L509.3,330.6 L509.1,328.9 L503.2,323.3 L504.2,318.5 L502.4,314.2 L502.2,308.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070280</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ49</fips>
+    <postal-code>SL</postal-code>
+    <name>Salyan</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>49.0495</longitude>
+    <woe-name>Salyan</woe-name>
+    <latitude>39.7198</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>az-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.AB" d="M500.5,300.3 L498.9,302.0 L498.0,301.7 L494.8,299.9 L493.0,296.8 L493.1,290.0 L502.0,289.7 L503.8,291.6 L503.8,296.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.AB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070281</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ46</fips>
+    <postal-code>AB</postal-code>
+    <name>Shirvan</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>48.9257</longitude>
+    <woe-name>Sabirabad</woe-name>
+    <latitude>39.9474</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Sahari</type>
+    <hc-middle-x>0.03</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>az-ab</hc-key>
+    <hc-a2>AB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SB" d="M493.1,290.0 L493.0,296.8 L494.8,299.9 L498.0,301.7 L502.2,308.9 L502.4,314.2 L504.2,318.5 L503.2,323.3 L509.1,328.9 L509.3,330.6 L506.7,337.2 L500.5,342.6 L496.9,344.7 L497.1,350.8 L491.4,348.1 L482.8,349.3 L470.7,345.8 L465.4,343.7 L460.1,343.0 L456.8,341.7 L460.2,338.6 L466.1,337.1 L471.5,334.2 L474.3,329.5 L474.0,324.1 L471.7,316.6 L472.3,310.7 L468.2,305.9 L463.0,303.8 L452.6,298.0 L449.6,298.0 L445.9,301.0 L442.5,299.6 L441.2,297.4 L442.7,292.7 L437.2,289.4 L433.0,290.2 L422.7,296.0 L420.2,296.4 L418.1,293.3 L422.9,288.8 L426.6,286.9 L425.8,283.6 L428.5,278.8 L435.2,273.3 L438.3,269.9 L442.1,267.6 L453.3,267.3 L464.3,269.8 L467.0,271.2 L468.0,280.0 L477.0,282.6 L479.5,285.3 L488.8,286.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070281</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ46</fips>
+    <postal-code>SB</postal-code>
+    <name>Sabirabad</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>48.8122</longitude>
+    <woe-name>Sabirabad</woe-name>
+    <latitude>39.8179</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>az-sb</hc-key>
+    <hc-a2>SB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.7025" d="M241.6,333.1 L237.6,335.0 L237.2,330.9 L239.3,331.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070264</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ55</fips>
+    <postal-code>NULL</postal-code>
+    <name>?u?a</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>46.7523</longitude>
+    <woe-name>?u?a</woe-name>
+    <latitude>39.7618</latitude>
+    <woe-label>Susa, AZ, Azerbaijan</woe-label>
+    <type>Sahari</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>az-7025</hc-key>
+    <hc-a2>?U</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.KG" d="M41.1,405.2 L38.9,400.2 L33.4,393.0 L38.8,389.1 L42.8,382.7 L44.9,373.5 L47.5,365.1 L52.0,364.1 L55.4,360.9 L59.4,360.8 L55.7,366.1 L52.1,379.9 L52.8,384.0 L55.6,392.5 L54.2,395.8 L55.8,399.5 L55.3,403.0 L46.5,407.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.KG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550720</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AM10</fips>
+    <postal-code>KG</postal-code>
+    <name>Kangarli</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Naxç?van Autonomous Republic</region>
+    <longitude>45.1447</longitude>
+    <woe-name>Sarur</woe-name>
+    <latitude>39.4039</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.81</hc-middle-y>
+    <hc-key>az-kg</hc-key>
+    <hc-a2>KG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.AF" d="M79.7,148.8 L76.6,146.8 L77.6,141.8 L76.9,138.1 L72.5,139.0 L70.7,122.7 L72.1,120.5 L71.3,118.0 L74.3,108.1 L73.5,102.4 L59.8,100.7 L52.2,96.2 L44.8,93.6 L39.3,88.3 L38.7,86.2 L56.6,71.4 L60.4,70.0 L64.2,70.2 L72.1,74.3 L81.9,73.5 L87.5,79.0 L104.5,85.5 L112.1,87.0 L115.1,89.1 L110.7,91.0 L108.1,94.3 L111.0,98.7 L118.2,104.2 L110.0,108.5 L106.8,111.3 L104.6,115.1 L97.9,115.1 L94.2,117.9 L97.2,126.9 L95.9,132.4 L92.4,136.1 L85.3,138.3 L81.0,144.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.AF</hasc>
+    <alt-name>Agstafa</alt-name>
+    <woe-id>20070266</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ05</fips>
+    <postal-code>AF</postal-code>
+    <name>A?stafa</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>45.4341</longitude>
+    <woe-name>A?stafa</woe-name>
+    <latitude>41.1896</latitude>
+    <woe-label>Agstafa, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>az-af</hc-key>
+    <hc-a2>AF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.DS" d="M133.6,255.8 L130.4,255.9 L125.3,250.3 L126.3,245.2 L128.3,240.2 L128.3,236.4 L129.6,233.3 L125.5,224.9 L127.5,214.9 L135.9,209.6 L145.4,196.2 L150.0,192.3 L155.7,195.3 L170.5,205.5 L162.5,218.0 L165.6,222.8 L173.7,229.1 L173.8,233.8 L168.3,239.9 L165.6,248.3 L157.2,249.2 L148.9,248.6 L141.3,247.4 L134.6,250.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.DS</hasc>
+    <alt-name>Dashkasan</alt-name>
+    <woe-id>20070222</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ16</fips>
+    <postal-code>DS</postal-code>
+    <name>Da?k?s?n</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>46.0228</longitude>
+    <woe-name>Daskasan</woe-name>
+    <latitude>40.4837</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>az-ds</hc-key>
+    <hc-a2>DS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SX" d="M202.3,189.2 L195.3,188.7 L192.7,182.8 L186.7,182.7 L182.6,173.6 L178.9,165.9 L176.7,160.5 L180.1,145.6 L181.9,142.6 L182.4,137.0 L179.6,131.8 L169.6,118.5 L162.9,115.4 L155.7,111.4 L161.3,108.8 L170.2,108.6 L172.3,109.3 L177.7,115.4 L184.8,121.6 L194.3,125.2 L199.7,131.3 L204.4,132.4 L207.3,125.7 L209.8,124.1 L216.7,124.5 L218.3,122.1 L221.8,124.7 L227.2,124.8 L232.0,127.5 L233.4,136.4 L235.1,140.0 L235.8,144.1 L225.6,156.4 L210.4,172.0 L211.0,175.2 L204.3,181.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SX</hasc>
+    <alt-name>Samukh</alt-name>
+    <woe-id>20070269</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ52</fips>
+    <postal-code>SX</postal-code>
+    <name>Samux</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>46.4234</longitude>
+    <woe-name>Samux</woe-name>
+    <latitude>40.8795</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>az-sx</hc-key>
+    <hc-a2>SX</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.TO" d="M155.7,111.4 L162.9,115.4 L169.6,118.5 L166.0,124.9 L158.7,133.6 L156.8,138.2 L151.0,139.6 L139.1,138.3 L133.5,139.5 L129.5,148.6 L115.0,159.6 L112.9,163.4 L113.0,168.2 L111.6,175.0 L112.2,188.7 L110.8,200.8 L108.0,203.9 L99.3,198.4 L99.6,194.2 L97.2,190.8 L93.5,189.3 L89.1,189.2 L85.5,187.0 L84.1,180.1 L93.3,175.6 L96.4,172.0 L98.6,165.6 L98.3,162.1 L91.1,160.1 L84.1,151.7 L79.7,148.8 L81.0,144.2 L85.3,138.3 L92.4,136.1 L95.9,132.4 L97.2,126.9 L94.2,117.9 L97.9,115.1 L104.6,115.1 L106.8,111.3 L110.0,108.5 L118.2,104.2 L124.1,107.8 L141.7,113.9 L147.4,114.6 L152.6,113.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AZ.TO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070248</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ58</fips>
+    <postal-code>TO</postal-code>
+    <name>Tovuz</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>45.8238</longitude>
+    <woe-name>Tovuz</woe-name>
+    <latitude>41.0669</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>az-to</hc-key>
+    <hc-a2>TO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.TA" d="M256.9,219.7 L258.5,224.7 L262.6,229.6 L264.3,236.9 L267.3,239.7 L269.5,243.4 L272.4,246.0 L275.9,247.2 L275.6,257.0 L276.0,262.4 L277.4,268.2 L270.9,267.8 L269.7,263.8 L267.4,261.1 L264.6,262.3 L258.8,260.0 L258.7,264.5 L244.8,271.5 L244.0,276.8 L241.0,280.1 L239.3,284.3 L238.9,290.0 L236.0,286.9 L232.9,280.3 L223.6,272.3 L216.4,271.7 L211.1,274.8 L209.4,270.5 L206.9,259.8 L207.3,254.1 L209.7,252.1 L210.9,246.7 L214.9,241.2 L221.5,238.5 L227.2,234.8 L233.0,232.1 L242.0,231.9 L251.5,225.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.TA</hasc>
+    <alt-name>Tartar</alt-name>
+    <woe-id>20070274</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ57</fips>
+    <postal-code>TA</postal-code>
+    <name>T?rt?r</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>46.7929</longitude>
+    <woe-name>T?rt?r</woe-name>
+    <latitude>40.2547</latitude>
+    <woe-label>Tartar, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>az-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.AM" d="M231.3,292.5 L234.8,290.4 L238.9,290.0 L239.3,284.3 L241.0,280.1 L244.0,276.8 L244.8,271.5 L258.7,264.5 L258.8,260.0 L264.6,262.3 L267.4,261.1 L269.7,263.8 L270.9,267.8 L277.4,268.2 L285.9,267.3 L294.5,267.3 L289.7,272.4 L284.2,276.2 L283.8,279.8 L287.4,282.8 L284.2,285.9 L279.8,287.4 L279.5,296.1 L276.5,298.3 L279.3,305.9 L289.3,307.8 L294.3,305.7 L299.6,304.8 L302.4,309.3 L300.0,314.8 L298.2,316.2 L294.3,315.3 L290.5,315.8 L287.1,320.9 L280.2,319.4 L273.6,315.2 L268.5,312.8 L263.4,314.2 L262.1,318.7 L259.8,322.5 L250.6,326.9 L255.5,317.3 L257.9,314.0 L258.8,309.8 L253.8,307.6 L249.5,303.7 L246.4,296.8 L240.5,294.0 L235.6,295.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.AM</hasc>
+    <alt-name>Agdam</alt-name>
+    <woe-id>20070258</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ03</fips>
+    <postal-code>AM</postal-code>
+    <name>A?dam</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>46.9918</longitude>
+    <woe-name>A?dam</woe-name>
+    <latitude>40.0455</latitude>
+    <woe-label>Agdam, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>az-am</hc-key>
+    <hc-a2>AM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.HA" d="M439.2,245.7 L440.5,240.9 L442.9,237.3 L452.5,239.4 L457.6,242.1 L467.0,246.2 L470.8,244.1 L474.2,240.0 L475.5,233.9 L481.5,236.8 L488.0,235.9 L489.3,241.6 L500.3,252.0 L507.6,261.4 L511.8,262.4 L521.9,262.3 L527.5,262.9 L530.6,266.7 L531.8,271.9 L537.2,280.8 L538.8,286.4 L543.7,292.2 L547.8,301.2 L551.5,305.9 L552.6,313.8 L545.1,308.3 L541.0,304.3 L535.0,306.1 L518.5,304.5 L508.9,299.2 L500.5,300.3 L503.8,296.3 L503.8,291.6 L502.0,289.7 L493.1,290.0 L488.8,286.9 L479.5,285.3 L477.0,282.6 L468.0,280.0 L467.0,271.2 L464.3,269.8 L453.3,267.3 L442.1,267.6 L442.9,261.1 L441.5,249.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.HA</hasc>
+    <alt-name>Ali Bayramli</alt-name>
+    <woe-id>20070282</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ07</fips>
+    <postal-code>HA</postal-code>
+    <name>Hajigabul</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>48.8984</longitude>
+    <woe-name>?li Bayraml?</woe-name>
+    <latitude>40.1106</latitude>
+    <woe-label>Haciqabul, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>az-ha</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.AU" d="M442.9,237.3 L440.5,240.9 L439.2,245.7 L434.9,242.5 L432.1,237.3 L425.1,234.6 L424.1,222.5 L419.3,220.4 L414.1,221.0 L407.4,227.0 L402.6,222.7 L398.4,223.7 L395.1,220.7 L395.9,214.0 L398.0,207.5 L400.4,208.9 L402.5,207.1 L403.2,202.5 L407.5,198.0 L413.2,194.0 L414.7,191.1 L426.3,185.0 L433.2,179.4 L436.5,172.8 L438.5,165.0 L440.6,169.2 L444.4,172.8 L446.9,177.6 L444.3,183.5 L444.5,186.2 L442.9,188.9 L437.9,194.0 L436.9,200.6 L440.4,204.8 L445.0,206.5 L453.3,206.4 L463.2,212.1 L461.5,214.5 L453.1,218.7 L448.0,223.1 L447.6,230.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.AU</hasc>
+    <alt-name>Agsu</alt-name>
+    <woe-id>20070215</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ06</fips>
+    <postal-code>AU</postal-code>
+    <name>A?su</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Daghlig Shirvan Economic Region</region>
+    <longitude>48.3659</longitude>
+    <woe-name>Agsu</woe-name>
+    <latitude>40.5091</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>az-au</hc-key>
+    <hc-a2>AU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.BR" d="M294.5,267.3 L285.9,267.3 L277.4,268.2 L276.0,262.4 L275.6,257.0 L275.9,247.2 L272.4,246.0 L269.5,243.4 L267.3,239.7 L264.3,236.9 L262.6,229.6 L268.2,220.8 L282.5,218.2 L286.4,209.0 L290.5,206.0 L293.0,208.3 L292.4,213.4 L297.2,208.8 L299.3,210.4 L298.4,216.1 L303.2,220.8 L303.2,222.3 L309.2,222.1 L308.3,225.8 L305.0,228.9 L311.5,231.1 L312.5,232.8 L310.1,236.4 L312.5,237.2 L316.9,236.4 L318.4,238.3 L317.5,243.9 L319.6,246.6 L319.9,247.9 L329.4,248.8 L324.8,253.4 L314.9,261.4 L305.0,268.3 L301.0,269.7 L294.2,264.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.BR</hasc>
+    <alt-name>Barda</alt-name>
+    <woe-id>20070219</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ11</fips>
+    <postal-code>BR</postal-code>
+    <name>B?rd?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>47.2467</longitude>
+    <woe-name>B?rd?</woe-name>
+    <latitude>40.3534</latitude>
+    <woe-label>Barda, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>az-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.YR" d="M429.8,443.4 L438.0,442.8 L443.7,441.0 L448.0,443.6 L451.5,447.7 L454.0,453.8 L460.3,454.5 L449.9,462.4 L438.9,469.4 L433.9,473.4 L429.7,478.7 L428.2,485.2 L425.0,489.9 L422.3,491.4 L420.3,488.9 L403.8,481.5 L395.6,475.4 L393.1,471.0 L392.6,464.6 L393.7,462.8 L399.9,458.6 L400.6,455.4 L423.0,450.6 L427.9,447.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.YR</hasc>
+    <alt-name>Yardymli</alt-name>
+    <woe-id>20070251</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ66</fips>
+    <postal-code>YR</postal-code>
+    <name>Yard?ml?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Lankaran Economic Region</region>
+    <longitude>48.269</longitude>
+    <woe-name>Yardimli</woe-name>
+    <latitude>38.866</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>az-yr</hc-key>
+    <hc-a2>YR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.CL" d="M451.5,447.7 L448.0,443.6 L443.7,441.0 L438.0,442.8 L429.8,443.4 L430.3,439.1 L425.6,429.4 L423.7,427.7 L416.7,425.1 L409.5,418.6 L406.4,414.5 L404.6,410.4 L404.7,405.0 L406.7,400.5 L410.1,397.0 L414.2,394.7 L421.7,392.9 L427.9,388.4 L431.0,387.3 L432.4,389.2 L433.0,396.6 L437.5,398.9 L440.5,395.5 L445.3,393.8 L449.4,390.1 L452.9,385.5 L457.1,385.4 L460.1,389.7 L461.6,395.2 L465.7,397.5 L469.3,393.9 L469.6,384.8 L473.6,378.9 L480.6,380.3 L483.7,380.1 L478.2,388.8 L477.5,394.8 L478.7,400.7 L483.4,410.4 L482.5,421.2 L477.5,420.4 L476.4,424.1 L471.7,424.1 L471.8,427.8 L473.9,431.2 L464.3,437.3 L457.5,445.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.CL</hasc>
+    <alt-name>Jalilabad</alt-name>
+    <woe-id>20070223</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ15</fips>
+    <postal-code>CL</postal-code>
+    <name>C?lilabad</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Lankaran Economic Region</region>
+    <longitude>48.4338</longitude>
+    <woe-name>Calilabad</woe-name>
+    <latitude>39.1757</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>az-cl</hc-key>
+    <hc-a2>CL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.ZG" d="M248.8,415.7 L253.1,421.0 L254.3,425.4 L250.9,428.9 L247.8,434.4 L243.3,438.1 L239.9,445.2 L237.9,447.2 L230.9,450.9 L227.2,455.0 L223.9,462.1 L220.8,466.3 L217.0,469.2 L212.2,470.4 L207.8,461.6 L207.3,455.9 L209.4,448.1 L209.7,443.7 L207.4,434.1 L200.3,429.6 L197.1,426.5 L196.9,421.7 L199.7,419.1 L204.0,419.6 L211.4,423.2 L212.9,422.9 L221.6,417.1 L225.4,417.4 L226.9,428.7 L231.9,431.6 L239.3,421.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.ZG</hasc>
+    <alt-name>Zangilan</alt-name>
+    <woe-id>20070255</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ69</fips>
+    <postal-code>ZG</postal-code>
+    <name>Z?ngilan</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Kalbajar-Lachin Economic Region</region>
+    <longitude>46.6305</longitude>
+    <woe-name>Zangilan</woe-name>
+    <latitude>39.0904</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>az-zg</hc-key>
+    <hc-a2>ZG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.CB" d="M254.3,425.4 L253.1,421.0 L248.8,415.7 L240.6,410.5 L238.6,406.1 L238.1,401.0 L233.9,394.1 L234.6,389.3 L237.4,386.5 L242.2,388.2 L246.7,388.6 L248.2,383.4 L246.3,378.5 L248.8,376.7 L255.7,380.0 L256.5,383.9 L264.2,389.0 L265.8,391.9 L270.9,389.3 L275.1,388.8 L273.5,382.0 L276.0,377.9 L284.7,382.3 L289.6,390.2 L296.4,388.8 L301.6,392.8 L288.2,398.7 L282.5,402.4 L276.7,412.4 L274.8,418.4 L273.0,421.1 L265.0,425.9 L258.2,424.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.CB</hasc>
+    <alt-name>Jabrayil</alt-name>
+    <woe-id>20070224</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ14</fips>
+    <postal-code>CB</postal-code>
+    <name>C?bray?l</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>46.9823</longitude>
+    <woe-name>Cabrayil</woe-name>
+    <latitude>39.2768</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>az-cb</hc-key>
+    <hc-a2>CB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.ZR" d="M362.2,274.2 L361.1,268.0 L357.9,267.2 L355.4,266.6 L353.8,260.5 L352.4,260.6 L348.8,265.4 L347.4,264.5 L343.8,265.5 L341.3,262.2 L338.4,261.9 L332.3,265.9 L326.3,255.3 L324.8,253.4 L329.4,248.8 L319.9,247.9 L319.6,246.6 L325.6,240.2 L328.8,231.9 L335.9,236.3 L342.8,241.3 L346.8,246.7 L352.7,244.2 L358.7,243.8 L365.0,244.4 L378.4,242.5 L378.6,254.1 L380.4,265.3 L375.9,271.9 L369.5,276.0 L367.1,275.3 L363.6,276.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.ZR</hasc>
+    <alt-name>Zardab</alt-name>
+    <woe-id>20070256</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ71</fips>
+    <postal-code>ZR</postal-code>
+    <name>Z?rdab</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>47.6936</longitude>
+    <woe-name>Zardab</woe-name>
+    <latitude>40.2395</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>az-zr</hc-key>
+    <hc-a2>ZR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.BQ" d="M357.9,267.2 L361.1,268.0 L362.2,274.2 L357.3,279.0 L365.9,287.9 L365.8,294.0 L358.8,299.0 L357.2,301.4 L361.0,305.2 L359.1,310.9 L358.4,315.4 L363.0,317.6 L375.8,327.6 L375.2,332.4 L370.1,335.5 L365.1,340.3 L364.1,345.5 L359.1,351.0 L344.8,359.6 L344.6,353.2 L336.8,347.0 L331.0,339.6 L326.9,338.6 L324.8,334.0 L320.6,327.3 L323.7,324.8 L322.1,320.3 L324.0,316.8 L327.7,315.2 L329.8,312.5 L335.6,312.4 L343.4,309.4 L346.8,305.6 L348.5,300.0 L350.6,285.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.BQ</hasc>
+    <alt-name>Beylagan</alt-name>
+    <woe-id>20070257</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ12</fips>
+    <postal-code>BQ</postal-code>
+    <name>Beyl?qan</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>47.6611</longitude>
+    <woe-name>Beylaqan</woe-name>
+    <latitude>39.7591</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>az-bq</hc-key>
+    <hc-a2>BQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.IM" d="M384.4,337.1 L381.8,340.4 L371.1,341.0 L368.2,341.8 L364.1,345.5 L365.1,340.3 L370.1,335.5 L375.2,332.4 L375.8,327.6 L363.0,317.6 L358.4,315.4 L359.1,310.9 L361.0,305.2 L357.2,301.4 L358.8,299.0 L365.8,294.0 L365.9,287.9 L357.3,279.0 L362.2,274.2 L363.6,276.8 L367.1,275.3 L369.5,276.0 L375.5,279.1 L377.9,277.4 L381.7,279.1 L383.8,278.6 L383.6,273.5 L385.2,271.4 L389.4,273.6 L394.1,269.8 L395.9,269.6 L397.8,275.7 L407.1,280.6 L407.0,282.7 L410.8,280.6 L415.1,280.3 L418.1,282.7 L419.0,285.2 L424.2,282.1 L425.8,283.6 L426.6,286.9 L422.9,288.8 L418.1,293.3 L415.4,298.7 L418.2,302.1 L418.9,305.7 L415.6,312.9 L414.7,317.1 L418.1,323.7 L425.5,325.9 L431.4,330.8 L430.7,334.8 L430.8,341.9 L435.8,348.7 L423.2,357.8 L408.7,349.6 L400.5,342.1 L391.8,336.0 L384.4,335.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.IM</hasc>
+    <alt-name>Imishli</alt-name>
+    <woe-id>20070227</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ24</fips>
+    <postal-code>IM</postal-code>
+    <name>?mi?li</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>48.0606</longitude>
+    <woe-name>Imisli</woe-name>
+    <latitude>39.9121</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>az-im</hc-key>
+    <hc-a2>IM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.KU" d="M439.2,245.7 L441.5,249.6 L442.9,261.1 L442.1,267.6 L438.3,269.9 L435.2,273.3 L428.5,278.8 L425.8,283.6 L424.2,282.1 L419.0,285.2 L418.1,282.7 L415.1,280.3 L410.8,280.6 L407.0,282.7 L407.1,280.6 L397.8,275.7 L395.9,269.6 L394.1,269.8 L389.4,273.6 L385.2,271.4 L383.6,273.5 L383.8,278.6 L381.7,279.1 L377.9,277.4 L375.5,279.1 L369.5,276.0 L375.9,271.9 L380.4,265.3 L378.6,254.1 L378.4,242.5 L381.3,239.1 L383.5,234.8 L384.7,222.1 L389.7,219.1 L388.5,210.9 L393.3,209.5 L398.0,207.5 L395.9,214.0 L395.1,220.7 L398.4,223.7 L402.6,222.7 L407.4,227.0 L414.1,221.0 L419.3,220.4 L424.1,222.5 L425.1,234.6 L432.1,237.3 L434.9,242.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.KU</hasc>
+    <alt-name>Kurdamir</alt-name>
+    <woe-id>20070236</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ27</fips>
+    <postal-code>KU</postal-code>
+    <name>Kürd?mir</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>48.1586</longitude>
+    <woe-name>Kürd?mir</woe-name>
+    <latitude>40.2443</latitude>
+    <woe-label>Kurdamir, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>az-ku</hc-key>
+    <hc-a2>KU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.UC" d="M384.7,222.1 L383.5,234.8 L381.3,239.1 L378.4,242.5 L365.0,244.4 L358.7,243.8 L352.7,244.2 L346.8,246.7 L342.8,241.3 L335.9,236.3 L328.8,231.9 L326.9,228.3 L323.5,226.5 L321.7,222.6 L323.2,212.3 L326.6,209.9 L331.1,209.2 L335.8,210.6 L340.5,214.8 L345.3,213.0 L354.4,218.1 L358.7,215.0 L361.1,215.1 L373.8,221.0 L381.6,221.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.UC</hasc>
+    <alt-name>Ujar</alt-name>
+    <woe-id>20070249</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ59</fips>
+    <postal-code>UC</postal-code>
+    <name>Ucar</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>47.729</longitude>
+    <woe-name>Ucar</woe-name>
+    <latitude>40.3925</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>az-uc</hc-key>
+    <hc-a2>UC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.GY" d="M388.5,210.9 L389.7,219.1 L384.7,222.1 L381.6,221.0 L373.8,221.0 L361.1,215.1 L358.7,215.0 L354.4,218.1 L345.3,213.0 L340.5,214.8 L335.8,210.6 L336.1,205.4 L339.3,197.3 L335.5,192.7 L339.8,190.1 L348.6,188.7 L352.5,186.7 L363.8,189.9 L372.8,190.0 L385.3,193.2 L390.5,197.3 L387.8,204.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.GY</hasc>
+    <alt-name>Goychay</alt-name>
+    <woe-id>20070226</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ22</fips>
+    <postal-code>GY</postal-code>
+    <name>Göyçay</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>47.8172</longitude>
+    <woe-name>Göyçay</woe-name>
+    <latitude>40.569</latitude>
+    <woe-label>Goycay, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>az-gy</hc-key>
+    <hc-a2>GY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.IS" d="M398.0,207.5 L393.3,209.5 L388.5,210.9 L387.8,204.6 L390.5,197.3 L385.3,193.2 L372.8,190.0 L363.8,189.9 L352.5,186.7 L358.5,178.3 L360.8,173.7 L364.2,170.6 L369.5,168.0 L374.0,164.2 L374.2,157.1 L377.5,156.1 L380.9,153.1 L381.1,148.2 L378.0,143.4 L376.7,138.3 L378.2,134.7 L381.5,135.1 L382.9,129.7 L386.0,124.8 L393.0,125.6 L396.4,126.9 L406.3,132.1 L412.8,134.9 L421.8,135.2 L429.0,141.2 L434.5,147.0 L440.9,151.2 L442.0,158.1 L438.5,165.0 L436.5,172.8 L433.2,179.4 L426.3,185.0 L414.7,191.1 L413.2,194.0 L407.5,198.0 L403.2,202.5 L402.5,207.1 L400.4,208.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.IS</hasc>
+    <alt-name>Ismailli</alt-name>
+    <woe-id>20070228</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ25</fips>
+    <postal-code>IS</postal-code>
+    <name>?smay?ll?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Daghlig Shirvan Economic Region</region>
+    <longitude>48.1125</longitude>
+    <woe-name>?smay?ll?</woe-name>
+    <latitude>40.7896</latitude>
+    <woe-label>Ismayilli, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>az-is</hc-key>
+    <hc-a2>IS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.LN" d="M503.2,460.5 L499.9,464.8 L495.5,463.9 L495.8,469.4 L497.9,476.8 L495.4,478.5 L496.7,486.4 L500.2,483.0 L501.7,505.7 L492.0,508.8 L481.0,509.8 L484.6,502.1 L479.8,498.0 L479.7,492.4 L476.0,485.9 L464.9,479.2 L463.2,472.4 L466.4,465.7 L474.9,471.4 L479.5,470.2 L491.1,462.9 L494.5,459.7 Z M542.6,417.1 L540.2,427.5 L539.7,436.4 L538.7,439.2 L529.8,446.0 L525.1,448.1 L521.6,445.5 L523.0,440.1 L530.3,437.7 L532.6,432.1 L531.1,426.1 L528.6,424.9 L522.7,425.0 L521.1,415.5 L516.6,413.3 L509.9,414.3 L508.0,419.4 L507.8,423.2 L506.4,423.7 L507.0,434.9 L509.2,438.1 L508.8,442.0 L505.7,454.4 L502.7,446.1 L501.9,438.3 L496.1,433.2 L495.7,428.1 L496.5,423.0 L500.5,417.3 L510.3,405.4 L516.2,400.5 L519.9,403.4 L522.5,408.3 L526.4,410.7 L535.5,413.9 L540.6,414.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.LN</hasc>
+    <alt-name>Lenkoran|L?nk?ran</alt-name>
+    <woe-id>20070263</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ29</fips>
+    <postal-code>LN</postal-code>
+    <name>Lankaran</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Lankaran Economic Region</region>
+    <longitude>48.7309</longitude>
+    <woe-name>Astara</woe-name>
+    <latitude>38.7168</latitude>
+    <woe-label>Lankaran, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.86</hc-middle-y>
+    <hc-key>az-ln</hc-key>
+    <hc-a2>LN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.MA" d="M505.7,454.4 L503.5,460.1 L503.2,460.5 L494.5,459.7 L491.1,462.9 L479.5,470.2 L474.9,471.4 L466.4,465.7 L464.6,459.2 L460.3,454.5 L454.0,453.8 L451.5,447.7 L457.5,445.8 L464.3,437.3 L473.9,431.2 L471.8,427.8 L471.7,424.1 L476.4,424.1 L477.5,420.4 L482.5,421.2 L489.2,423.8 L496.5,423.0 L495.7,428.1 L496.1,433.2 L501.9,438.3 L502.7,446.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.MA</hasc>
+    <alt-name>Masally</alt-name>
+    <woe-id>20070239</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ29</fips>
+    <postal-code>MA</postal-code>
+    <name>Masall?</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Lankaran Economic Region</region>
+    <longitude>48.698</longitude>
+    <woe-name>Masall?</woe-name>
+    <latitude>38.9858</latitude>
+    <woe-label>Masalli, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>az-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.NE" d="M496.5,423.0 L489.2,423.8 L482.5,421.2 L483.4,410.4 L478.7,400.7 L477.5,394.8 L478.2,388.8 L483.7,380.1 L495.0,388.1 L499.6,388.8 L507.2,382.7 L505.8,375.2 L508.5,369.8 L513.8,364.1 L514.9,359.9 L517.7,356.8 L526.4,365.8 L532.0,367.4 L536.3,365.2 L546.2,361.7 L547.7,366.6 L559.5,376.4 L562.1,380.1 L561.0,386.6 L562.4,389.9 L557.3,385.9 L559.0,390.7 L562.6,395.2 L559.9,394.7 L556.4,390.7 L550.0,386.9 L546.0,388.7 L543.1,392.9 L542.0,397.9 L542.9,415.0 L542.6,417.1 L540.6,414.9 L535.5,413.9 L526.4,410.7 L522.5,408.3 L519.9,403.4 L516.2,400.5 L510.3,405.4 L500.5,417.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.NE</hasc>
+    <alt-name>Neftchala</alt-name>
+    <woe-id>20070241</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ36</fips>
+    <postal-code>NE</postal-code>
+    <name>Neftçala</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>49.0585</longitude>
+    <woe-name>Neftcala</woe-name>
+    <latitude>39.3924</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>az-ne</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.AC" d="M324.8,253.4 L326.3,255.3 L332.3,265.9 L338.4,261.9 L341.3,262.2 L343.8,265.5 L347.4,264.5 L348.8,265.4 L352.4,260.6 L353.8,260.5 L355.4,266.6 L357.9,267.2 L350.6,285.0 L348.5,300.0 L346.8,305.6 L343.4,309.4 L335.6,312.4 L329.8,312.5 L327.7,315.2 L324.0,316.8 L322.1,320.3 L323.7,324.8 L320.6,327.3 L324.8,334.0 L315.5,336.6 L306.3,339.3 L309.5,332.6 L307.5,326.6 L301.5,323.0 L298.2,316.2 L300.0,314.8 L302.4,309.3 L299.6,304.8 L294.3,305.7 L289.3,307.8 L279.3,305.9 L276.5,298.3 L279.5,296.1 L279.8,287.4 L284.2,285.9 L287.4,282.8 L283.8,279.8 L284.2,276.2 L289.7,272.4 L294.5,267.3 L294.2,264.9 L301.0,269.7 L305.0,268.3 L314.9,261.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.AC</hasc>
+    <alt-name>Agjabadi</alt-name>
+    <woe-id>20070214</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ01</fips>
+    <postal-code>AC</postal-code>
+    <name>A?cab?di</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>47.4145</longitude>
+    <woe-name>Agcabadi</woe-name>
+    <latitude>39.971</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>az-ac</hc-key>
+    <hc-a2>AC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.OG" d="M306.5,96.2 L319.8,97.3 L322.4,98.1 L325.8,102.7 L330.5,104.3 L336.8,100.4 L339.2,100.6 L345.5,103.6 L345.3,109.5 L346.4,113.2 L344.7,120.9 L338.1,135.2 L338.4,142.7 L334.6,149.7 L332.5,158.8 L332.6,168.4 L321.0,162.7 L310.2,154.8 L306.5,149.8 L304.9,143.7 L301.6,144.3 L300.9,140.7 L296.1,134.2 L297.3,127.9 L304.5,111.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.OG</hasc>
+    <alt-name>Oguz</alt-name>
+    <woe-id>20070250</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ37</fips>
+    <postal-code>OG</postal-code>
+    <name>O?uz</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Shaki-Zaqatala Economic Region</region>
+    <longitude>47.4853</longitude>
+    <woe-name>O?uz</woe-name>
+    <latitude>41.04</latitude>
+    <woe-label>Oguz, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>az-og</hc-key>
+    <hc-a2>OG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.QX" d="M218.3,122.1 L218.9,121.2 L220.3,110.8 L221.4,106.5 L224.5,102.0 L224.8,98.1 L227.2,96.8 L226.4,94.5 L219.3,85.0 L220.1,80.6 L225.1,73.8 L228.8,65.3 L232.5,59.0 L238.5,56.8 L246.4,57.1 L254.0,59.4 L260.9,57.7 L265.5,51.0 L274.7,48.8 L278.8,51.4 L281.1,59.0 L283.4,60.8 L282.1,67.8 L279.4,72.9 L269.9,79.7 L254.7,86.9 L250.2,89.9 L245.8,97.5 L243.7,99.2 L241.3,105.2 L240.7,112.6 L241.5,118.7 L246.9,121.4 L255.4,134.5 L256.2,152.3 L246.0,147.0 L235.8,144.1 L235.1,140.0 L233.4,136.4 L232.0,127.5 L227.2,124.8 L221.8,124.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.QX</hasc>
+    <alt-name>Qakh</alt-name>
+    <woe-id>20070229</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ39</fips>
+    <postal-code>QX</postal-code>
+    <name>Qax</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Shaki-Zaqatala Economic Region</region>
+    <longitude>46.7976</longitude>
+    <woe-name>Qax</woe-name>
+    <latitude>41.375</latitude>
+    <woe-label>Qax, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.22</hc-middle-y>
+    <hc-key>az-qx</hc-key>
+    <hc-a2>QX</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SK" d="M283.4,60.8 L286.1,66.2 L289.8,70.7 L291.3,76.3 L291.3,84.5 L292.6,88.0 L294.7,90.1 L303.8,95.2 L306.5,96.2 L304.5,111.0 L297.3,127.9 L296.1,134.2 L300.9,140.7 L301.6,144.3 L304.9,143.7 L306.5,149.8 L310.2,154.8 L321.0,162.7 L332.6,168.4 L331.6,172.5 L327.5,173.9 L322.8,174.9 L314.0,172.4 L309.0,173.6 L306.0,172.4 L296.1,170.4 L277.8,163.2 L267.1,157.5 L256.2,152.3 L255.4,134.5 L246.9,121.4 L241.5,118.7 L240.7,112.6 L241.3,105.2 L243.7,99.2 L245.8,97.5 L250.2,89.9 L254.7,86.9 L269.9,79.7 L279.4,72.9 L282.1,67.8 Z M287.6,112.4 L289.4,108.2 L289.0,105.1 L286.4,100.9 L283.7,101.0 L281.0,112.1 L285.9,113.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SK</hasc>
+    <alt-name>Shaki</alt-name>
+    <woe-id>20070246</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ39</fips>
+    <postal-code>SK</postal-code>
+    <name>??ki</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Shaki-Zaqatala Economic Region</region>
+    <longitude>47.1565</longitude>
+    <woe-name>??ki</woe-name>
+    <latitude>41.0486</latitude>
+    <woe-label>Saki, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>az-sk</hc-key>
+    <hc-a2>SK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.QR" d="M447.7,56.6 L441.3,60.7 L434.4,63.2 L425.8,68.0 L418.1,75.0 L395.3,92.2 L373.1,110.4 L364.3,109.0 L360.5,106.6 L359.5,104.7 L366.3,102.7 L369.4,99.4 L368.1,94.2 L368.4,90.9 L372.6,86.0 L375.2,79.3 L378.3,79.8 L380.8,78.2 L384.3,66.8 L386.4,62.4 L390.2,59.9 L403.7,56.8 L407.1,54.8 L413.0,49.2 L422.9,42.5 L425.5,39.4 L427.7,34.8 L432.1,21.1 L432.9,20.0 L435.9,19.6 L439.1,22.9 L436.8,31.3 L439.2,38.8 L445.3,39.6 L445.4,42.7 L443.6,45.5 L446.0,50.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.QR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070234</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ44</fips>
+    <postal-code>QR</postal-code>
+    <name>Qusar</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Guba-Khachmaz Economic Region</region>
+    <longitude>48.1944</longitude>
+    <woe-name>Qusar</woe-name>
+    <latitude>41.4005</latitude>
+    <woe-label>Qusar, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>az-qr</hc-key>
+    <hc-a2>QR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.XZ" d="M447.7,56.6 L446.0,50.2 L443.6,45.5 L445.4,42.7 L445.3,39.6 L439.2,38.8 L436.8,31.3 L439.1,22.9 L435.9,19.6 L432.9,20.0 L440.5,9.3 L445.7,0.0 L455.0,6.6 L465.9,20.5 L471.9,26.7 L472.7,30.5 L481.1,39.2 L486.0,48.7 L490.5,51.4 L497.3,61.2 L501.2,62.4 L507.8,73.7 L500.8,74.5 L489.0,73.4 L483.8,75.7 L475.9,74.4 L472.3,76.3 L468.4,76.9 L466.0,75.0 L460.3,76.9 L458.2,74.2 L453.5,65.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.XZ</hasc>
+    <alt-name>Khachmaz</alt-name>
+    <woe-id>20070221</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ60</fips>
+    <postal-code>XZ</postal-code>
+    <name>Xaçmaz</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Guba-Khachmaz Economic Region</region>
+    <longitude>48.7701</longitude>
+    <woe-name>Xaçmaz</woe-name>
+    <latitude>41.5198</latitude>
+    <woe-label>Xacmaz, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>az-xz</hc-key>
+    <hc-a2>XZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.ZQ" d="M219.3,85.0 L216.6,85.2 L214.7,80.9 L208.8,77.5 L197.3,72.9 L191.7,67.8 L187.9,66.7 L181.7,62.5 L179.6,60.0 L177.5,50.5 L183.9,53.0 L187.5,52.6 L193.8,47.8 L201.9,45.4 L205.4,43.0 L208.0,39.3 L211.1,30.1 L222.6,21.6 L226.5,17.3 L228.0,11.8 L227.2,8.3 L230.8,5.7 L232.5,13.6 L234.3,17.5 L242.1,24.4 L248.7,26.3 L250.7,27.9 L253.5,34.0 L259.4,38.9 L262.4,43.5 L263.5,48.2 L265.3,51.0 L260.9,57.7 L254.0,59.4 L246.4,57.1 L238.5,56.8 L232.5,59.0 L228.8,65.3 L225.1,73.8 L220.1,80.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.ZQ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070254</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ70</fips>
+    <postal-code>ZQ</postal-code>
+    <name>Zaqatala</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Shaki-Zaqatala Economic Region</region>
+    <longitude>46.654</longitude>
+    <woe-name>Zaqatala</woe-name>
+    <latitude>41.5666</latitude>
+    <woe-label>Zaqatala, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>az-zq</hc-key>
+    <hc-a2>ZQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.BL" d="M177.5,50.5 L174.4,43.5 L172.7,43.6 L170.4,47.1 L167.2,44.5 L165.6,37.5 L165.4,29.6 L166.5,24.2 L168.7,21.8 L171.3,21.5 L179.2,22.4 L182.7,19.9 L187.7,13.6 L190.1,9.5 L194.4,0.3 L205.5,1.4 L207.6,2.6 L208.3,5.5 L207.9,11.9 L208.6,14.5 L212.9,16.2 L218.7,11.4 L225.8,9.4 L227.2,8.3 L228.0,11.8 L226.5,17.3 L222.6,21.6 L211.1,30.1 L208.0,39.3 L205.4,43.0 L201.9,45.4 L193.8,47.8 L187.5,52.6 L183.9,53.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.BL</hasc>
+    <alt-name>Balakan</alt-name>
+    <woe-id>20070220</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ10</fips>
+    <postal-code>BL</postal-code>
+    <name>Balak?n</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Shaki-Zaqatala Economic Region</region>
+    <longitude>46.4478</longitude>
+    <woe-name>Balak?n</woe-name>
+    <latitude>41.7393</latitude>
+    <woe-label>Balakan, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>az-bl</hc-key>
+    <hc-a2>BL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SD" d="M5.9,355.0 L2.5,351.6 L0.0,343.7 L3.4,342.2 L9.0,341.2 L14.3,341.3 L21.6,338.5 L19.0,342.6 L14.3,344.0 L9.2,348.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SD</hasc>
+    <alt-name>Sadarak</alt-name>
+    <woe-id>-2345767</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AM02</fips>
+    <postal-code>SD</postal-code>
+    <name>S?d?r?k</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Naxç?van Autonomous Republic</region>
+    <longitude>44.8638</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>39.699</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.13</hc-middle-x>
+    <hc-middle-y>0.24</hc-middle-y>
+    <hc-key>az-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.OR" d="M136.7,407.0 L143.7,410.4 L146.2,412.7 L147.1,416.2 L143.4,421.2 L142.7,425.2 L143.8,429.3 L149.7,438.0 L152.2,442.9 L158.7,460.5 L166.0,474.0 L157.7,472.5 L149.6,468.9 L123.8,463.7 L121.0,462.7 L123.2,458.7 L119.6,455.0 L115.2,451.9 L116.5,443.4 L121.7,436.9 L127.0,424.6 L129.0,416.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.OR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550719</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AM08</fips>
+    <postal-code>OR</postal-code>
+    <name>Ordubad</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Naxç?van Autonomous Republic</region>
+    <longitude>45.9272</longitude>
+    <woe-name>Ordubad</woe-name>
+    <latitude>39.0972</latitude>
+    <woe-label>Ordubad, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>az-or</hc-key>
+    <hc-a2>OR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SR" d="M33.4,393.0 L28.0,388.2 L25.1,387.9 L22.0,385.6 L22.6,382.6 L18.5,377.2 L14.9,362.2 L11.8,355.8 L5.9,355.0 L9.2,348.9 L14.3,344.0 L19.0,342.6 L21.6,338.5 L26.7,334.7 L31.3,333.1 L35.4,335.2 L44.3,346.6 L46.1,352.1 L44.7,361.3 L47.5,365.1 L44.9,373.5 L42.8,382.7 L38.8,389.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SR</hasc>
+    <alt-name>Sharur</alt-name>
+    <woe-id>24550720</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AM10</fips>
+    <postal-code>SR</postal-code>
+    <name>??rur</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Naxç?van Autonomous Republic</region>
+    <longitude>45.0172</longitude>
+    <woe-name>Sarur</woe-name>
+    <latitude>39.5929</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>az-sr</hc-key>
+    <hc-a2>SR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.GD" d="M125.3,250.3 L97.2,234.7 L90.1,228.1 L85.1,218.1 L81.0,213.6 L80.2,208.6 L73.4,201.8 L71.7,198.2 L71.7,191.6 L74.7,186.3 L79.3,182.5 L84.1,180.1 L85.5,187.0 L89.1,189.2 L93.5,189.3 L97.2,190.8 L99.6,194.2 L99.3,198.4 L108.0,203.9 L110.8,200.8 L112.2,188.7 L111.6,175.0 L113.0,168.2 L117.5,173.7 L119.8,179.4 L123.5,185.6 L133.2,194.0 L135.9,198.8 L135.9,209.6 L127.5,214.9 L125.5,224.9 L129.6,233.3 L128.3,236.4 L128.3,240.2 L126.3,245.2 Z M92.4,199.9 L94.0,195.8 L90.9,194.0 L87.4,193.9 L84.3,195.4 L83.4,198.6 L84.3,201.7 L88.4,203.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.GD</hasc>
+    <alt-name>Gadabay</alt-name>
+    <woe-id>20070230</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ19</fips>
+    <postal-code>GD</postal-code>
+    <name>G?d?b?y</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>45.6429</longitude>
+    <woe-name>Gadabay</woe-name>
+    <latitude>40.492</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>az-gd</hc-key>
+    <hc-a2>GD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SM" d="M178.9,165.9 L175.4,172.4 L174.7,178.5 L172.8,183.0 L171.9,188.5 L168.7,191.0 L164.9,190.9 L160.0,192.1 L155.7,195.3 L150.0,192.3 L145.4,196.2 L135.9,209.6 L135.9,198.8 L133.2,194.0 L123.5,185.6 L119.8,179.4 L117.5,173.7 L113.0,168.2 L112.9,163.4 L115.0,159.6 L129.5,148.6 L133.5,139.5 L139.1,138.3 L151.0,139.6 L156.8,138.2 L158.7,133.6 L166.0,124.9 L169.6,118.5 L179.6,131.8 L182.4,137.0 L181.9,142.6 L180.1,145.6 L176.7,160.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SM</hasc>
+    <alt-name>Shamkir</alt-name>
+    <woe-id>20070244</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ51</fips>
+    <postal-code>SM</postal-code>
+    <name>??mkir</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Ganja-Gazakh Economic Region</region>
+    <longitude>46.0161</longitude>
+    <woe-name>??mkir</woe-name>
+    <latitude>40.8317</latitude>
+    <woe-label>Samkir, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>az-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.AR" d="M543.7,292.2 L538.8,286.4 L537.2,280.8 L531.8,271.9 L530.6,266.7 L527.5,262.9 L521.9,262.3 L511.8,262.4 L507.6,261.4 L500.3,252.0 L489.3,241.6 L488.0,235.9 L492.2,237.3 L498.5,241.2 L508.7,229.4 L512.8,227.9 L516.7,221.8 L520.0,219.6 L527.3,217.0 L533.8,210.6 L536.0,205.9 L544.8,205.2 L552.3,201.3 L553.1,195.3 L559.0,188.3 L561.2,184.1 L566.0,186.9 L570.3,191.4 L574.6,198.0 L580.7,198.2 L586.7,195.8 L589.1,198.3 L591.9,198.7 L596.1,196.7 L610.6,200.8 L608.5,203.5 L597.7,206.8 L592.2,209.3 L586.7,208.0 L579.6,209.1 L569.8,209.9 L564.1,216.7 L559.1,217.8 L555.5,221.8 L556.0,229.7 L557.6,238.3 L557.6,247.0 L554.4,254.0 L552.4,256.1 L551.3,264.4 L548.0,271.0 L549.3,277.4 L545.6,283.5 Z M585.5,224.6 L580.0,224.6 L576.6,218.7 L580.3,216.2 L585.2,215.6 L589.4,221.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.AR</hasc>
+    <alt-name>Absheron</alt-name>
+    <woe-id>20070283</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ01</fips>
+    <postal-code>AR</postal-code>
+    <name>Ab?eron</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Absheron Economic Region</region>
+    <longitude>49.3694</longitude>
+    <woe-name>Ab?eron</woe-name>
+    <latitude>40.3278</latitude>
+    <woe-label>Abseron, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>az-ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.AA" d="M501.7,505.7 L503.6,532.0 L495.6,530.7 L491.6,530.8 L483.6,537.0 L477.4,539.5 L471.0,539.3 L467.0,535.6 L461.7,528.2 L464.6,520.8 L465.4,517.2 L467.5,514.9 L472.9,512.4 L475.7,512.7 L481.0,509.8 L492.0,508.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.AA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070217</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ08</fips>
+    <postal-code>AA</postal-code>
+    <name>Astara</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Lankaran Economic Region</region>
+    <longitude>48.7049</longitude>
+    <woe-name>Astara</woe-name>
+    <latitude>38.4938</latitude>
+    <woe-label>Astara, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>az-aa</hc-key>
+    <hc-a2>AA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.FU" d="M276.0,377.9 L276.8,374.1 L281.2,372.9 L279.8,366.8 L281.9,363.3 L280.9,359.8 L275.0,363.5 L272.3,363.9 L271.5,361.3 L273.4,359.0 L278.4,357.7 L281.0,354.2 L277.1,354.8 L272.6,354.0 L274.6,350.4 L280.1,349.8 L285.5,347.0 L289.8,343.4 L306.3,339.3 L315.5,336.6 L324.8,334.0 L326.9,338.6 L331.0,339.6 L336.8,347.0 L344.6,353.2 L344.8,359.6 L342.7,360.9 L336.4,367.6 L323.8,372.2 L318.8,375.1 L314.9,378.6 L309.1,386.5 L305.2,390.7 L301.6,392.8 L296.4,388.8 L289.6,390.2 L284.7,382.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.FU</hasc>
+    <alt-name>Fizuli</alt-name>
+    <woe-id>20070225</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ18</fips>
+    <postal-code>FU</postal-code>
+    <name>Füzuli</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Yukhari Garabakh Economic Region</region>
+    <longitude>47.322</longitude>
+    <woe-name>Fuzuli</woe-name>
+    <latitude>39.5574</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>az-fu</hc-key>
+    <hc-a2>FU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.LE" d="M461.7,528.2 L452.3,516.7 L448.6,512.9 L446.0,505.4 L443.2,505.6 L437.0,508.7 L433.3,508.7 L428.9,503.9 L422.8,499.4 L422.3,491.4 L425.0,489.9 L428.2,485.2 L429.7,478.7 L433.9,473.4 L438.9,469.4 L449.9,462.4 L460.3,454.5 L464.6,459.2 L466.4,465.7 L463.2,472.4 L464.9,479.2 L476.0,485.9 L479.7,492.4 L479.8,498.0 L484.6,502.1 L481.0,509.8 L475.7,512.7 L472.9,512.4 L467.5,514.9 L465.4,517.2 L464.6,520.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.LE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070238</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ31</fips>
+    <postal-code>LE</postal-code>
+    <name>Lerik</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Lankaran Economic Region</region>
+    <longitude>48.4779</longitude>
+    <woe-name>Lerik</woe-name>
+    <latitude>38.7139</latitude>
+    <woe-label>Lerik, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>az-le</hc-key>
+    <hc-a2>LE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.QO" d="M480.0,168.3 L486.9,170.1 L496.5,177.1 L504.0,185.2 L509.4,188.8 L516.0,190.7 L528.1,202.1 L536.0,205.9 L533.8,210.6 L527.3,217.0 L520.0,219.6 L516.7,221.8 L512.8,227.9 L508.7,229.4 L498.5,241.2 L492.2,237.3 L488.0,235.9 L481.5,236.8 L475.5,233.9 L466.1,235.0 L465.2,232.6 L470.6,228.7 L471.1,225.5 L474.3,217.2 L472.7,215.0 L472.2,210.1 L469.8,198.0 L466.7,194.7 L470.4,188.5 L469.7,181.7 L470.9,175.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.QO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070272</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ41</fips>
+    <postal-code>QO</postal-code>
+    <name>Qobustan</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Daghlig Shirvan Economic Region</region>
+    <longitude>48.9623</longitude>
+    <woe-name>Qobustan</woe-name>
+    <latitude>40.4977</latitude>
+    <woe-label>Qobustan, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>az-qo</hc-key>
+    <hc-a2>QO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.SY" d="M520.4,107.3 L521.3,108.9 L523.8,120.0 L529.9,129.1 L545.0,144.5 L546.0,146.0 L540.8,146.3 L530.7,149.1 L524.9,148.9 L519.8,147.3 L508.4,141.5 L507.3,135.7 L504.6,133.6 L500.3,136.8 L499.2,141.7 L495.4,144.1 L487.4,147.3 L483.4,147.7 L480.3,133.5 L481.8,129.3 L485.1,126.7 L489.8,125.6 L492.5,120.7 L492.1,114.8 L489.7,109.6 L493.4,103.9 L501.9,103.5 L509.2,100.5 L518.8,107.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.SY</hasc>
+    <alt-name>Siazan</alt-name>
+    <woe-id>20070278</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ42</fips>
+    <postal-code>SY</postal-code>
+    <name>Siy?z?n</name>
+    <country>Azerbaijan</country>
+    <type-en>District</type-en>
+    <region>Guba-Khachmaz Economic Region</region>
+    <longitude>49.0973</longitude>
+    <woe-name>Siy?z?n</woe-name>
+    <latitude>41.0414</latitude>
+    <woe-label>Siyazan, AZ, Azerbaijan</woe-label>
+    <type>Rayon</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>az-sy</hc-key>
+    <hc-a2>SY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.NX" d="M91.7,415.1 L89.3,420.8 L84.1,424.0 L73.5,425.3 L65.1,419.2 L69.8,415.5 L76.5,415.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.NX</hasc>
+    <alt-name>Nakhichevan</alt-name>
+    <woe-id>20070275</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ35</fips>
+    <postal-code>NX</postal-code>
+    <name>Naxç?van</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Naxç?van Autonomous Republic</region>
+    <longitude>45.4212</longitude>
+    <woe-name>Naxcivan</woe-name>
+    <latitude>39.2127</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Sahar</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>az-nx</hc-key>
+    <hc-a2>NX</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.MI" d="M268.3,173.3 L270.8,177.1 L261.3,181.2 L255.5,174.7 L259.2,172.6 L263.7,174.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AZ.MI</hasc>
+    <alt-name>Mingachevir</alt-name>
+    <woe-id>20070240</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ33</fips>
+    <postal-code>MI</postal-code>
+    <name>Ming?çevir</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>46.9846</longitude>
+    <woe-name>Ming?çevir</woe-name>
+    <latitude>40.7508</latitude>
+    <woe-label>Mingacevir, AZ, Azerbaijan</woe-label>
+    <type>Sahar</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>az-mi</hc-key>
+    <hc-a2>MI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ.YE" d="M282.2,204.8 L278.4,202.7 L276.6,197.6 L278.6,194.3 L288.0,194.1 L288.4,196.6 L287.0,200.4 L287.5,203.3 L286.4,205.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AZ.YE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070253</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AJ67</fips>
+    <postal-code>YE</postal-code>
+    <name>Yevlakh</name>
+    <country>Azerbaijan</country>
+    <type-en>Municipality</type-en>
+    <region>Aran Economic Region</region>
+    <longitude>47.1503</longitude>
+    <woe-name>Yevlax</woe-name>
+    <latitude>40.6019</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Sahari</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>az-ye</hc-key>
+    <hc-a2>YE</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

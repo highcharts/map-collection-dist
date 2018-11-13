@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>South Dakota congressional districts</title>
+<g id="special">
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<g id="US.SD">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.SD</hasc>
+    <alt-name>SD|S.D.</alt-name>
+    <woe-id>2347600</woe-id>
+    <subregion>West North Central</subregion>
+    <fips>US46</fips>
+    <postal-code>SD</postal-code>
+    <name>South Dakota</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>Midwest</region>
+    <longitude>-100.255</longitude>
+    <woe-name>South Dakota</woe-name>
+    <latitude>44.4711</latitude>
+    <woe-label>South Dakota, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.SD.00" d="M15.0,118.7 L16.6,117.1 L19.5,71.6 L23.5,0.0 L146.2,6.7 L314.1,12.5 L398.2,14.2 L460.6,14.7 L515.9,14.9 L597.4,14.0 L677.8,12.0 L676.5,26.5 L669.0,37.7 L654.7,48.7 L653.3,54.1 L661.8,64.5 L664.8,72.4 L669.5,78.1 L674.9,78.1 L686.6,84.3 L690.0,91.2 L692.1,153.2 L697.0,316.8 L683.7,317.2 L683.6,323.7 L690.8,330.1 L690.7,342.2 L686.7,342.4 L687.2,349.9 L691.8,352.3 L695.9,351.8 L696.8,359.7 L700.0,364.5 L698.0,371.5 L693.4,373.5 L695.3,378.4 L692.8,382.2 L694.9,385.0 L691.6,389.4 L691.1,398.6 L688.4,400.2 L682.8,412.9 L685.6,417.2 L692.4,422.9 L698.4,435.2 L696.4,444.5 L691.1,439.9 L686.9,442.0 L683.5,436.2 L676.6,429.3 L678.5,424.8 L674.8,422.0 L667.9,421.5 L667.4,417.5 L657.9,414.0 L652.8,415.8 L651.3,410.9 L637.3,409.8 L635.3,406.8 L629.6,404.9 L629.0,400.8 L620.8,398.1 L615.7,399.8 L610.6,398.5 L608.6,400.9 L602.5,399.6 L593.4,399.8 L585.8,401.9 L577.7,401.1 L572.4,398.8 L568.4,400.1 L567.2,405.3 L561.9,411.2 L555.8,412.3 L545.0,405.1 L533.1,398.5 L513.7,389.5 L510.8,383.1 L406.2,383.1 L324.4,381.9 L215.1,379.5 L201.4,378.7 L89.1,373.9 L0.0,369.0 L6.3,262.1 L14.2,134.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>4600</geoid>
+    <name>Congressional District (at Large)</name>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>us-sd-00</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

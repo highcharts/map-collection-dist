@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Nebraska congressional districts</title>
+<g id="special">
+
+<g id="US.NE">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.NE</hasc>
+    <alt-name>NE|Nebr.</alt-name>
+    <woe-id>2347586</woe-id>
+    <subregion>West North Central</subregion>
+    <fips>US31</fips>
+    <postal-code>NE</postal-code>
+    <name>Nebraska</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>Midwest</region>
+    <longitude>-99.68550000000001</longitude>
+    <woe-name>Nebraska</woe-name>
+    <latitude>41.5002</latitude>
+    <woe-label>Nebraska, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-ne</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</g>
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NE.02" d="M644.1,176.5 L644.9,178.6 L642.7,180.9 L645.3,183.7 L648.5,184.0 L649.2,187.5 L646.5,188.1 L645.9,197.4 L639.2,197.7 L640.1,201.9 L642.8,204.8 L639.8,205.3 L640.0,211.3 L635.9,211.0 L631.7,212.9 L629.0,216.2 L624.1,218.7 L620.6,216.4 L617.9,216.1 L615.0,213.8 L613.3,209.9 L615.5,206.4 L614.1,199.0 L610.8,194.0 L611.8,190.7 L607.2,185.7 L605.7,180.3 L601.9,177.6 L644.0,176.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>3102</geoid>
+    <name>Congressional District 2</name>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>us-ne-02</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NE.03" d="M665.5,266.9 L668.4,262.7 L669.4,267.4 L666.4,268.8 L667.1,272.5 L669.9,275.0 L669.8,278.0 L672.9,286.7 L670.6,288.1 L679.0,290.8 L679.2,293.9 L685.2,295.6 L685.5,301.8 L692.3,307.8 L690.8,315.7 L693.2,318.0 L696.8,317.7 L700.0,320.6 L553.3,325.0 L436.2,326.4 L336.3,326.3 L155.6,322.2 L159.2,217.3 L83.6,214.2 L0.0,210.0 L2.5,168.3 L12.4,0.0 L87.1,4.0 L181.3,8.1 L192.8,8.8 L284.3,10.8 L352.9,11.8 L440.6,11.8 L443.1,17.2 L459.2,24.7 L469.3,30.2 L478.3,36.3 L483.4,35.4 L487.9,30.4 L488.8,26.1 L492.2,24.9 L496.7,26.9 L503.5,27.6 L509.8,25.8 L513.1,26.9 L517.5,25.6 L522.6,26.7 L524.2,24.7 L528.5,25.8 L532.8,24.4 L539.7,26.6 L540.2,30.1 L545.0,31.7 L546.6,34.2 L558.3,35.1 L559.6,39.2 L563.9,37.7 L571.9,40.7 L572.3,44.0 L578.0,44.4 L581.1,46.7 L579.5,50.5 L585.3,56.3 L588.2,61.2 L591.7,59.4 L596.2,63.2 L603.9,62.6 L605.7,66.8 L603.5,70.4 L603.9,78.3 L608.1,84.6 L571.7,85.4 L572.2,105.1 L526.4,106.1 L493.1,106.9 L494.3,165.9 L504.2,165.7 L504.4,179.6 L512.7,179.4 L512.9,187.6 L508.2,189.0 L499.8,196.4 L494.9,202.7 L495.1,216.3 L531.7,215.6 L532.3,252.2 L568.7,251.5 L569.2,269.8 L605.8,268.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>3103</geoid>
+    <name>Congressional District 3</name>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-ne-03</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NE.01" d="M644.1,176.5 L644.0,176.2 L601.9,177.6 L605.7,180.3 L607.2,185.7 L611.8,190.7 L610.8,194.0 L614.1,199.0 L615.5,206.4 L613.3,209.9 L615.0,213.8 L617.9,216.1 L620.6,216.4 L624.1,218.7 L629.0,216.2 L631.7,212.9 L635.9,211.0 L640.0,211.3 L639.8,205.3 L642.8,204.8 L640.1,201.9 L639.2,197.7 L645.9,197.4 L650.4,197.5 L652.4,199.5 L649.3,201.1 L651.2,207.9 L649.7,210.7 L651.5,213.2 L651.4,217.6 L654.0,219.2 L653.9,225.5 L656.0,229.3 L653.2,231.5 L654.4,240.7 L650.9,243.5 L650.9,247.0 L654.3,251.1 L658.6,252.9 L661.9,258.0 L660.2,261.3 L661.7,266.8 L665.5,266.9 L605.8,268.9 L569.2,269.8 L568.7,251.5 L532.3,252.2 L531.7,215.6 L495.1,216.3 L494.9,202.7 L499.8,196.4 L508.2,189.0 L512.9,187.6 L512.7,179.4 L504.4,179.6 L504.2,165.7 L494.3,165.9 L493.1,106.9 L526.4,106.1 L572.2,105.1 L571.7,85.4 L608.1,84.6 L610.8,89.4 L608.1,91.5 L609.2,96.3 L615.6,101.9 L614.8,105.7 L615.8,109.0 L619.4,110.2 L618.0,113.3 L622.4,112.6 L623.1,115.6 L626.6,115.7 L626.5,120.7 L624.6,123.3 L628.7,128.7 L629.0,131.5 L632.6,134.7 L629.8,141.4 L631.9,144.4 L628.6,146.9 L630.7,150.1 L629.4,154.8 L632.1,157.6 L631.4,161.9 L635.5,164.6 L636.5,161.0 L638.6,161.0 L639.0,164.4 L637.2,166.1 L638.5,168.1 L644.9,169.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>3101</geoid>
+    <name>Congressional District 1</name>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-ne-01</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

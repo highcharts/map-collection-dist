@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Botswana</title>
+<g id="admin1">
+
+<g id="BW">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Botswana</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Bwa.</country-abbrev>
+    <subregion>Southern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>BWA</iso-a3>
+    <iso-a2>BW</iso-a2>
+    <woe-id>23424755</woe-id>
+    <continent>Africa</continent>
+    <hc-key>bw</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.6964" d="M403.1,572.9 L404.5,574.5 L403.9,577.7 L401.1,578.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344749</woe-id>
+    <subregion>South-East</subregion>
+    <fips>BC</fips>
+    <postal-code>NULL</postal-code>
+    <name>Lobatse</name>
+    <country>Botswana</country>
+    <type-en>Town</type-en>
+    <region>NULL</region>
+    <longitude>25.6842</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-25.2144</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Town</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>bw-6964</hc-key>
+    <hc-a2>LO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.6963" d="M549.1,270.2 L547.3,271.4 L541.0,270.4 L542.0,266.6 L547.9,263.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344748</woe-id>
+    <subregion>North-East</subregion>
+    <fips>BC</fips>
+    <postal-code>NULL</postal-code>
+    <name>Francistown</name>
+    <country>Botswana</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>27.5038</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-21.1678</latitude>
+    <woe-label>NULL</woe-label>
+    <type>City</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>bw-6963</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.6967" d="M570.1,330.3 L564.8,332.9 L564.7,330.5 L569.0,327.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344741</woe-id>
+    <subregion>Central</subregion>
+    <fips>BC</fips>
+    <postal-code>NULL</postal-code>
+    <name>Selebi-Phikwe</name>
+    <country>Botswana</country>
+    <type-en>Town</type-en>
+    <region>NULL</region>
+    <longitude>27.8625</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-21.9728</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Town</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>bw-6967</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.6966" d="M447.9,215.9 L456.1,217.1 L455.7,220.2 L446.2,217.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344741</woe-id>
+    <subregion>Central</subregion>
+    <fips>BC</fips>
+    <postal-code>NULL</postal-code>
+    <name>Sowa</name>
+    <country>Botswana</country>
+    <type-en>Township</type-en>
+    <region>NULL</region>
+    <longitude>26.1919</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-20.5752</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Township</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>bw-6966</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.KG" d="M318.5,615.6 L315.5,614.4 L310.7,615.6 L304.3,612.6 L299.6,606.7 L292.9,604.8 L284.0,606.8 L282.1,603.9 L278.4,604.7 L273.0,599.9 L265.9,592.1 L262.0,590.8 L246.3,577.2 L239.7,577.7 L232.7,575.6 L225.9,576.7 L219.0,580.1 L214.5,578.9 L208.3,585.0 L202.9,591.9 L200.6,599.1 L199.9,607.8 L195.7,613.0 L197.0,618.5 L193.0,623.4 L193.6,630.7 L189.5,633.4 L189.7,635.8 L183.7,643.1 L181.2,647.7 L173.1,649.1 L167.1,656.1 L161.1,657.8 L156.9,662.7 L153.2,671.5 L147.0,679.1 L138.5,682.6 L127.7,683.6 L127.2,692.0 L121.2,697.3 L108.1,696.5 L100.0,694.8 L82.0,697.9 L72.9,695.9 L67.2,692.9 L63.3,693.4 L52.1,700.0 L48.5,694.2 L46.4,684.1 L47.9,678.9 L46.1,673.4 L47.3,664.1 L50.3,661.4 L56.4,652.4 L62.5,641.2 L59.9,636.6 L59.2,622.9 L55.2,615.6 L53.0,609.1 L50.5,607.6 L48.6,601.2 L50.5,599.5 L46.8,594.7 L46.3,587.2 L41.4,583.4 L39.8,576.5 L37.1,571.7 L33.8,569.4 L34.5,566.9 L28.9,556.5 L19.7,549.1 L11.5,545.3 L5.1,539.8 L1.7,535.0 L0.8,423.5 L2.2,423.5 L220.3,424.5 L219.2,431.1 L213.2,433.2 L212.9,443.5 L218.2,444.4 L219.4,450.1 L219.3,477.6 L218.0,541.3 L220.5,543.4 L288.2,544.3 L291.4,545.7 L299.4,554.3 L301.2,558.6 L301.5,595.4 L311.6,606.8 L317.7,609.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.KG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344744</woe-id>
+    <subregion>Kgalagadi</subregion>
+    <fips>BC04</fips>
+    <postal-code>KG</postal-code>
+    <name>Kgalagadi</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>22.2402</longitude>
+    <woe-name>Kgalagadi</woe-name>
+    <latitude>-24.8361</latitude>
+    <woe-label>Kgalagadi, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>bw-kg</hc-key>
+    <hc-a2>KG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.SE" d="M438.5,534.5 L427.6,537.5 L424.1,539.6 L417.2,540.5 L417.4,551.2 L414.1,561.2 L403.5,583.6 L400.0,595.3 L392.8,592.0 L392.4,590.3 L401.5,562.4 L401.8,560.4 L397.5,559.4 L400.4,549.7 L402.8,547.2 L404.3,541.7 L415.2,530.7 L416.5,537.4 L423.6,537.6 L429.4,526.3 L434.9,530.3 Z M403.1,572.9 L401.1,578.0 L403.9,577.7 L404.5,574.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.SE</hasc>
+    <alt-name>Borwa-Botlhaba</alt-name>
+    <woe-id>2344749</woe-id>
+    <subregion>South-East</subregion>
+    <fips>BC09</fips>
+    <postal-code>SE</postal-code>
+    <name>South-East</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>25.7446</longitude>
+    <woe-name>South-East</woe-name>
+    <latitude>-24.9869</latitude>
+    <woe-label>South-East, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>bw-se</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.NE" d="M530.2,214.8 L535.5,213.3 L549.6,214.6 L553.8,214.0 L561.5,217.1 L561.7,221.6 L560.0,227.0 L561.5,233.2 L560.2,242.6 L558.8,244.8 L558.0,262.1 L561.4,266.9 L566.3,270.8 L573.2,281.0 L577.0,290.8 L575.9,293.1 L579.3,299.0 L573.9,298.2 L569.9,295.9 L560.1,296.0 L554.0,294.1 L548.9,293.9 L543.4,290.9 L537.6,281.3 L536.3,274.1 L531.3,259.1 L526.0,249.5 L525.5,236.3 L530.2,220.0 Z M549.1,270.2 L547.9,263.0 L542.0,266.6 L541.0,270.4 L547.3,271.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.NE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344748</woe-id>
+    <subregion>North-East</subregion>
+    <fips>BC08</fips>
+    <postal-code>NE</postal-code>
+    <name>North-East</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.4487</longitude>
+    <woe-name>North-East</woe-name>
+    <latitude>-20.9374</latitude>
+    <woe-label>North-East, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>bw-ne</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.6962" d="M429.4,526.3 L423.6,537.6 L416.5,537.4 L415.2,530.7 L423.7,522.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344749</woe-id>
+    <subregion>South-East</subregion>
+    <fips>BC</fips>
+    <postal-code>NULL</postal-code>
+    <name>Gaborone</name>
+    <country>Botswana</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>25.9171</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-24.6239</latitude>
+    <woe-label>NULL</woe-label>
+    <type>City</type>
+    <hc-middle-x>0.22</hc-middle-x>
+    <hc-middle-y>0.91</hc-middle-y>
+    <hc-key>bw-6962</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.GH" d="M220.3,424.5 L2.2,423.5 L0.8,423.5 L0.0,322.5 L71.5,322.2 L72.5,319.4 L72.2,245.0 L73.6,245.0 L282.5,246.9 L391.2,400.5 L376.2,428.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>BW.GH</hasc>
+    <alt-name>Ghantsi</alt-name>
+    <woe-id>2344743</woe-id>
+    <subregion>Ghanzi</subregion>
+    <fips>BC03</fips>
+    <postal-code>GH</postal-code>
+    <name>Ghanzi</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>22.7086</longitude>
+    <woe-name>Ghanzi</woe-name>
+    <latitude>-22.1555</latitude>
+    <woe-label>Ghanzi, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>bw-gh</hc-key>
+    <hc-a2>GH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.NW" d="M282.5,246.9 L73.6,245.0 L72.2,245.0 L71.7,90.7 L71.7,38.1 L108.6,36.6 L219.9,15.8 L240.1,14.2 L244.3,15.3 L247.7,23.7 L255.3,32.1 L258.1,33.0 L262.3,41.7 L261.3,43.3 L264.5,51.7 L273.7,47.3 L280.7,39.9 L288.4,33.3 L288.7,30.7 L292.8,29.4 L299.2,24.5 L305.0,22.0 L308.7,17.7 L312.8,16.3 L317.0,17.6 L322.2,11.9 L326.4,12.4 L332.5,20.5 L337.8,19.4 L349.0,8.2 L356.1,3.9 L364.3,1.9 L366.0,0.2 L369.9,3.2 L378.4,2.4 L380.9,0.0 L388.7,1.1 L385.6,7.7 L386.0,11.7 L390.9,22.4 L397.5,28.0 L403.6,40.9 L406.0,48.4 L414.2,56.5 L417.6,61.6 L424.2,66.7 L425.3,75.2 L427.8,81.1 L436.8,89.6 L438.6,95.8 L366.7,93.9 L365.0,170.9 L377.3,176.8 L377.8,178.1 L376.9,196.1 L375.5,198.0 L328.7,200.8 L321.3,201.4 L312.6,192.8 L310.7,188.8 L307.4,188.8 L303.7,185.3 L294.1,188.9 L291.8,192.9 L283.3,194.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.NW</hasc>
+    <alt-name>North West|Bokone-Bophirima</alt-name>
+    <woe-id>55949048</woe-id>
+    <subregion>North-West</subregion>
+    <fips>BC08</fips>
+    <postal-code>NW</postal-code>
+    <name>North-West</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>23.4709</longitude>
+    <woe-name>North-West</woe-name>
+    <latitude>-19.6141</latitude>
+    <woe-label>North-West, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>bw-nw</hc-key>
+    <hc-a2>NW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.CE" d="M391.2,400.5 L282.5,246.9 L283.3,194.0 L291.8,192.9 L294.1,188.9 L303.7,185.3 L307.4,188.8 L310.7,188.8 L312.6,192.8 L321.3,201.4 L328.7,200.8 L375.5,198.0 L376.9,196.1 L377.8,178.1 L377.3,176.8 L365.0,170.9 L366.7,93.9 L438.6,95.8 L436.8,101.9 L437.5,105.2 L443.0,114.8 L449.4,134.9 L454.0,139.6 L461.2,140.8 L464.1,144.0 L462.4,147.0 L467.7,149.3 L471.0,153.8 L476.6,155.8 L480.7,159.1 L482.7,163.4 L488.4,165.8 L492.4,170.0 L498.3,171.0 L506.5,175.5 L513.9,176.5 L519.8,181.6 L525.2,182.5 L527.4,184.8 L530.8,194.5 L531.7,203.7 L530.2,214.8 L530.2,220.0 L525.5,236.3 L526.0,249.5 L531.3,259.1 L536.3,274.1 L537.6,281.3 L543.4,290.9 L548.9,293.9 L554.0,294.1 L560.1,296.0 L569.9,295.9 L573.9,298.2 L579.3,299.0 L582.3,301.1 L591.9,302.9 L600.6,303.4 L613.4,309.0 L620.0,307.5 L625.4,308.9 L641.8,318.0 L654.5,321.8 L655.8,324.3 L652.6,329.5 L652.5,336.1 L655.8,341.6 L661.1,343.8 L668.0,343.9 L670.2,348.1 L675.5,353.2 L666.2,352.4 L662.3,354.6 L653.5,354.7 L646.7,361.3 L647.0,366.8 L642.7,372.3 L638.0,371.7 L635.6,375.0 L629.4,376.3 L621.4,379.7 L614.0,381.0 L609.5,379.6 L600.8,380.3 L594.1,385.5 L590.2,386.6 L587.4,393.3 L583.0,397.5 L578.8,398.9 L576.7,405.8 L570.5,408.4 L570.8,413.5 L567.0,417.2 L558.1,420.3 L559.1,423.4 L556.3,427.7 L552.5,425.4 L548.7,427.9 L545.9,426.9 L541.1,437.9 L531.1,439.6 L527.5,442.1 L526.8,439.6 L521.4,445.0 L515.9,447.0 L516.0,449.4 L510.4,449.3 L506.4,455.8 L505.9,459.3 L501.2,458.3 L498.1,466.0 L493.6,469.1 L492.7,467.5 L488.8,473.9 L486.1,474.1 L479.8,480.8 L431.2,449.4 L422.1,435.5 L419.0,432.1 L411.3,428.9 Z M570.1,330.3 L569.0,327.2 L564.7,330.5 L564.8,332.9 Z M447.9,215.9 L446.2,217.5 L455.7,220.2 L456.1,217.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.CE</hasc>
+    <alt-name>Centre|Ngwato|Serowe-Palapye</alt-name>
+    <woe-id>2344741</woe-id>
+    <subregion>Central</subregion>
+    <fips>BC01</fips>
+    <postal-code>CE</postal-code>
+    <name>Central</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>26.6144</longitude>
+    <woe-name>Central</woe-name>
+    <latitude>-21.8775</latitude>
+    <woe-label>Central, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>bw-ce</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.KL" d="M431.2,449.4 L479.8,480.8 L486.1,474.1 L488.8,473.9 L492.7,467.5 L493.6,469.1 L498.1,466.0 L490.2,494.3 L488.3,504.5 L484.7,507.6 L478.4,509.3 L471.7,515.5 L465.0,519.9 L460.2,528.4 L455.4,533.0 L449.9,532.0 L438.5,534.5 L434.9,530.3 L429.4,526.3 L423.7,522.1 L419.8,519.7 L419.3,516.0 L422.5,507.7 L425.0,496.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.KL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344745</woe-id>
+    <subregion>Kgatleng</subregion>
+    <fips>BC05</fips>
+    <postal-code>KL</postal-code>
+    <name>Kgatleng</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>26.4263</longitude>
+    <woe-name>Kgatleng</woe-name>
+    <latitude>-24.2001</latitude>
+    <woe-label>Kgatleng, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>bw-kl</hc-key>
+    <hc-a2>KL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.KW" d="M431.2,449.4 L425.0,496.5 L422.5,507.7 L419.3,516.0 L419.8,519.7 L423.7,522.1 L415.2,530.7 L404.3,541.7 L397.1,540.9 L388.9,536.0 L343.2,519.9 L331.0,515.6 L219.3,477.6 L219.4,450.1 L218.2,444.4 L212.9,443.5 L213.2,433.2 L219.2,431.1 L220.3,424.5 L376.2,428.4 L391.2,400.5 L411.3,428.9 L419.0,432.1 L422.1,435.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.KW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344746</woe-id>
+    <subregion>Kweneng</subregion>
+    <fips>BC06</fips>
+    <postal-code>KW</postal-code>
+    <name>Kweneng</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>24.4879</longitude>
+    <woe-name>Kweneng</woe-name>
+    <latitude>-23.8665</latitude>
+    <woe-label>Kweneng, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>bw-kw</hc-key>
+    <hc-a2>KW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.6965" d="M331.0,515.6 L343.2,519.9 L343.4,530.7 L330.4,531.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2344750</woe-id>
+    <subregion>Southern</subregion>
+    <fips>BC</fips>
+    <postal-code>NULL</postal-code>
+    <name>Jwaneng</name>
+    <country>Botswana</country>
+    <type-en>Town</type-en>
+    <region>NULL</region>
+    <longitude>24.7253</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>-24.5774</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Town</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>bw-6965</hc-key>
+    <hc-a2>JW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW.SO" d="M219.3,477.6 L331.0,515.6 L330.4,531.0 L343.4,530.7 L343.2,519.9 L388.9,536.0 L397.1,540.9 L404.3,541.7 L402.8,547.2 L400.4,549.7 L397.5,559.4 L401.8,560.4 L401.5,562.4 L392.4,590.3 L392.8,592.0 L400.0,595.3 L395.0,607.3 L385.7,614.1 L380.6,616.4 L365.9,617.4 L357.2,615.2 L351.2,616.9 L347.0,620.0 L339.2,621.7 L329.9,621.0 L318.5,615.6 L317.7,609.0 L311.6,606.8 L301.5,595.4 L301.2,558.6 L299.4,554.3 L291.4,545.7 L288.2,544.3 L220.5,543.4 L218.0,541.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BW.SO</hasc>
+    <alt-name>Borwa|Ngwakets|Ngwaketse</alt-name>
+    <woe-id>2344750</woe-id>
+    <subregion>Southern</subregion>
+    <fips>BC10</fips>
+    <postal-code>SO</postal-code>
+    <name>Southern</name>
+    <country>Botswana</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>24.3683</longitude>
+    <woe-name>Southern</woe-name>
+    <latitude>-25.0004</latitude>
+    <woe-label>Southern, BW, Botswana</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>bw-so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

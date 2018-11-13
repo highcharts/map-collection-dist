@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Guam</title>
+<g id="admin1">
+
+<g id="GU">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Guam</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Guam</country-abbrev>
+    <subregion>Micronesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>GUM</iso-a3>
+    <iso-a2>GU</iso-a2>
+    <woe-id>23424832</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>gu</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GU.3605" d="M305.3,353.1 L264.2,396.0 L240.8,466.0 L225.4,624.4 L184.8,686.2 L155.6,698.6 L121.5,700.0 L93.6,690.3 L76.6,659.7 L53.9,630.5 L48.6,622.1 L38.5,557.9 L33.3,546.5 L25.3,536.6 L15.6,528.7 L3.4,523.2 L20.5,506.2 L31.3,488.7 L36.9,467.1 L38.6,437.0 L35.3,423.0 L27.0,405.6 L17.5,390.7 L0.0,377.7 L7.4,364.9 L20.4,357.6 L27.3,366.5 L50.2,364.3 L150.4,306.2 L173.5,285.6 L264.1,233.0 L281.8,215.3 L296.9,194.9 L310.1,170.3 L344.9,56.7 L355.5,36.2 L375.1,17.6 L402.1,1.9 L425.1,0.0 L434.7,23.6 L451.7,61.2 L481.0,82.5 L514.3,91.9 L543.3,94.0 L543.7,113.9 L519.8,158.5 L469.0,232.9 L410.7,286.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>23424832</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Guam</name>
+    <country>Guam</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>144.789</longitude>
+    <woe-name>Guam</woe-name>
+    <latitude>13.4733</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.24</hc-middle-x>
+    <hc-middle-y>0.72</hc-middle-y>
+    <hc-key>gu-3605</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

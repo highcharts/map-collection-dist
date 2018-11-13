@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>District of Columbia congressional districts</title>
+<g id="special">
+
+<g id="US.DC">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>US.DC</hasc>
+    <alt-name>DC|D.C.</alt-name>
+    <woe-id>2347567</woe-id>
+    <subregion>South Atlantic</subregion>
+    <fips>US11</fips>
+    <postal-code>DC</postal-code>
+    <name>District of Columbia</name>
+    <country>United States of America</country>
+    <type-en>Federal District</type-en>
+    <region>South</region>
+    <longitude>-77.01130000000001</longitude>
+    <woe-name>District of Columbia</woe-name>
+    <latitude>38.8922</latitude>
+    <woe-label>District of Columbia, US, United States</woe-label>
+    <type>Federal District</type>
+    <hc-key>us-dc</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</g>
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.DC.98" d="M323.9,107.2 L573.4,368.1 L254.3,673.3 L244.2,617.1 L261.7,558.4 L272.4,529.0 L278.3,497.2 L268.8,472.4 L252.3,432.3 L225.1,406.3 L188.5,375.7 L160.7,337.3 L138.3,326.7 L142.5,339.8 L139.8,335.2 L70.4,311.7 L0.0,209.8 L220.6,0.0 Z M211.6,700.0 L212.9,686.6 L212.3,699.3 Z M228.1,532.9 L231.3,499.8 L231.3,527.8 Z M230.0,490.1 L170.0,387.2 L182.0,400.9 L199.6,418.5 L216.1,446.7 L226.6,472.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>1198</geoid>
+    <name>Delegate District (at Large)</name>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>us-dc-98</hc-key>
+    <hc-a2>DD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

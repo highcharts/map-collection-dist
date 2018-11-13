@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Belize</title>
+<g id="admin1">
+
+<g id="BZ">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Belize</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Belize</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>BLZ</iso-a3>
+    <iso-a2>BZ</iso-a2>
+    <woe-id>23424760</woe-id>
+    <continent>North America</continent>
+    <hc-key>bz</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BZ.5784" d="M140.7,619.2 L139.8,620.5 L137.9,618.4 L140.7,615.7 L142.5,617.0 Z M301.0,429.8 L299.8,433.1 L299.3,428.5 L301.1,426.4 Z M315.1,377.9 L314.4,380.0 L310.6,379.9 L308.8,381.1 L310.4,377.0 L314.7,376.6 Z M431.8,355.5 L431.1,354.2 L432.9,349.3 L434.7,352.2 Z M299.3,352.0 L298.7,349.8 L299.8,347.6 L301.6,348.7 Z M301.5,330.8 L300.6,329.0 L300.8,323.9 L302.4,320.8 L303.7,323.7 L303.1,328.3 Z M309.2,298.8 L307.3,300.9 L305.3,296.4 L307.2,295.0 Z M455.5,284.5 L454.2,285.1 L450.4,283.4 L452.5,280.0 L455.3,280.5 L456.3,282.6 Z M286.5,262.4 L285.7,266.1 L283.0,262.9 L282.5,260.6 L284.1,260.4 Z M276.4,258.4 L275.3,254.0 L277.4,254.2 L278.1,257.2 Z M277.6,252.7 L276.0,251.8 L278.9,247.3 L279.3,249.5 Z M313.2,214.6 L311.6,218.4 L311.8,214.0 L313.3,209.7 Z M317.7,201.2 L313.8,205.6 L314.3,201.5 L316.5,200.5 L315.1,197.5 L315.8,191.9 L318.4,189.3 L317.4,191.8 L317.0,196.6 Z M310.3,173.4 L307.2,173.9 L305.6,171.7 L312.4,172.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Belize</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-88.2564</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>16.1059</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.06</hc-middle-y>
+    <hc-key>bz-5784</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BZ.BZ" d="M373.8,316.4 L373.8,322.7 L372.1,322.7 L372.1,319.1 L369.6,320.3 L368.4,322.7 L368.7,306.4 L367.8,299.7 L365.0,296.9 L368.2,294.0 L371.2,298.8 L375.5,311.7 Z M303.6,265.6 L306.0,269.2 L303.6,277.1 L301.8,276.9 L300.7,267.9 L296.4,267.1 L293.3,263.1 L295.1,260.4 L298.9,261.9 Z M377.8,258.4 L379.4,263.8 L378.3,267.8 L372.9,278.3 L366.9,287.4 L363.1,289.8 L358.0,285.8 L355.3,290.2 L349.1,295.9 L347.2,302.4 L345.6,314.4 L342.4,322.5 L342.1,326.3 L338.5,322.6 L340.3,318.9 L340.9,313.2 L343.3,303.7 L344.6,290.9 L346.7,286.6 L354.5,280.3 L359.8,274.9 L362.4,274.6 L369.5,276.7 L372.0,274.4 L374.0,269.1 L374.5,263.5 L372.3,260.1 L367.1,263.9 L365.3,262.0 L367.9,254.7 L374.7,255.7 Z M312.3,252.4 L310.5,252.4 L307.0,243.4 L303.8,228.6 L307.3,231.6 L309.8,238.1 Z M289.0,220.4 L280.7,221.1 L282.4,217.4 L287.8,215.0 L302.5,205.1 L305.5,203.7 L303.1,212.4 L297.1,217.8 Z M331.8,112.9 L329.1,113.4 L328.3,111.7 L330.2,109.0 L333.8,107.5 L333.9,111.1 Z M339.2,107.5 L336.1,108.8 L335.4,106.4 L338.5,103.6 L339.9,100.7 L340.7,104.7 Z M363.6,90.8 L363.2,96.8 L359.7,99.9 L357.8,102.9 L352.5,117.3 L350.0,122.1 L346.5,120.1 L344.9,124.9 L341.2,127.4 L343.1,133.1 L345.5,129.6 L346.5,125.6 L348.1,125.6 L346.0,137.2 L340.9,147.9 L332.9,155.7 L321.7,158.6 L321.7,156.8 L325.3,156.9 L334.7,150.2 L338.0,145.5 L339.4,138.6 L335.3,138.8 L336.5,130.5 L341.3,113.7 L344.3,110.3 L345.0,105.6 L348.8,91.5 L351.4,89.1 L355.4,90.8 L361.1,87.1 Z M356.8,78.3 L355.7,82.3 L353.2,85.5 L351.8,84.2 L352.5,79.6 L354.2,76.5 Z M251.1,139.5 L281.3,143.0 L281.3,143.0 L270.5,163.9 L272.0,170.8 L268.7,193.1 L262.3,215.3 L260.2,219.7 L253.5,227.6 L250.7,232.6 L249.5,238.3 L250.6,244.7 L253.7,248.0 L262.9,252.8 L264.8,256.8 L267.2,259.1 L278.0,261.0 L280.4,263.3 L277.3,268.4 L270.6,268.3 L264.0,267.3 L261.0,269.7 L260.3,273.9 L249.4,309.3 L246.7,336.6 L245.5,352.7 L247.3,358.4 L248.3,364.1 L244.9,367.6 L235.8,371.1 L167.4,371.9 L173.2,369.8 L175.1,368.2 L178.3,362.7 L181.5,353.3 L181.3,347.9 L179.2,342.7 L176.0,337.1 L176.4,327.2 L174.3,273.7 L172.7,268.4 L170.6,269.5 L167.4,275.5 L161.3,278.0 L158.5,239.0 L158.7,234.2 L162.1,224.8 L165.1,220.3 L177.4,215.1 L178.8,212.2 L177.2,207.3 L177.9,199.0 L177.2,188.8 L178.9,181.7 L179.0,178.2 L177.8,171.0 L180.3,161.4 L193.9,153.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BZ.BZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344794</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BH01</fips>
+    <postal-code>BZ</postal-code>
+    <name>Belize</name>
+    <country>Belize</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>-88.41889999999999</longitude>
+    <woe-name>Belize</woe-name>
+    <latitude>17.5367</latitude>
+    <woe-label>Belize, BZ, Belize</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.24</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>bz-bz</hc-key>
+    <hc-a2>BZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BZ.CZ" d="M251.1,139.5 L216.0,107.2 L197.6,81.7 L185.9,72.9 L169.6,65.6 L167.0,65.0 L168.7,55.3 L171.2,51.0 L179.2,41.9 L182.4,36.9 L184.4,27.0 L186.8,20.6 L188.2,12.5 L191.6,7.6 L199.5,1.5 L207.1,3.9 L209.4,3.6 L219.0,0.0 L224.8,4.1 L229.7,2.5 L245.6,2.5 L251.4,7.8 L246.3,14.3 L226.4,28.5 L224.5,32.3 L227.4,36.5 L231.0,36.8 L243.3,31.3 L239.5,39.4 L232.1,49.1 L234.8,50.2 L237.1,48.6 L241.4,43.8 L250.0,37.7 L254.0,35.9 L258.3,35.1 L264.0,35.9 L271.4,39.6 L274.8,40.7 L280.2,39.9 L288.0,34.6 L296.9,31.9 L301.3,32.5 L300.7,36.3 L299.3,38.8 L294.2,42.7 L288.3,45.2 L287.1,49.2 L291.2,48.9 L293.1,45.7 L297.8,43.2 L300.3,42.7 L301.2,44.2 L303.1,75.9 L300.9,100.6 L300.0,104.7 L296.4,111.2 L295.5,115.4 L285.7,140.0 L281.3,142.9 L281.3,143.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BZ.CZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344796</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BH03</fips>
+    <postal-code>CZ</postal-code>
+    <name>Corozal</name>
+    <country>Belize</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>-88.3492</longitude>
+    <woe-name>Corozal</woe-name>
+    <latitude>18.1667</latitude>
+    <woe-label>Corozal, BZ, Belize</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>bz-cz</hc-key>
+    <hc-a2>CZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BZ.CY" d="M161.3,278.0 L167.4,275.5 L170.6,269.5 L172.7,268.4 L174.3,273.7 L176.4,327.2 L176.0,337.1 L179.2,342.7 L181.3,347.9 L181.5,353.3 L178.3,362.7 L175.1,368.2 L173.2,369.8 L167.4,371.9 L166.5,374.5 L171.1,382.9 L176.4,387.9 L176.3,390.2 L172.7,393.6 L168.5,403.3 L165.2,408.6 L160.9,411.9 L159.1,415.0 L151.3,423.5 L149.9,439.5 L144.4,443.6 L144.2,445.5 L147.5,447.9 L148.4,449.9 L136.9,453.3 L134.3,455.4 L127.0,466.3 L122.7,475.4 L121.1,480.7 L122.0,485.2 L115.6,486.5 L110.5,492.1 L109.6,494.5 L110.9,500.5 L110.1,503.2 L104.9,508.5 L100.7,511.7 L95.6,513.7 L86.3,520.3 L78.9,522.1 L75.2,525.9 L74.4,529.8 L64.1,533.6 L61.6,533.9 L56.1,529.7 L48.4,537.1 L44.7,539.4 L34.1,540.9 L24.9,544.5 L21.7,547.8 L20.2,552.0 L15.6,557.3 L12.7,561.6 L15.3,533.9 L26.0,388.8 L26.4,312.3 L34.3,306.0 L45.1,299.0 L51.6,297.6 L55.6,299.0 L85.6,295.9 L91.9,292.9 L95.4,288.7 L97.1,288.1 L105.6,289.1 L118.0,288.8 L124.9,289.2 L130.8,288.5 L135.4,286.8 L143.1,281.8 L150.5,279.8 L157.7,276.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BZ.CY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344795</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BH02</fips>
+    <postal-code>CY</postal-code>
+    <name>Cayo</name>
+    <country>Belize</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>-88.88330000000001</longitude>
+    <woe-name>Cayo</woe-name>
+    <latitude>16.9902</latitude>
+    <woe-label>Cayo, BZ, Belize</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>bz-cy</hc-key>
+    <hc-a2>CY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BZ.OW" d="M251.1,139.5 L193.9,153.7 L180.3,161.4 L177.8,171.0 L179.0,178.2 L178.9,181.7 L177.2,188.8 L177.9,199.0 L177.2,207.3 L178.8,212.2 L177.4,215.1 L165.1,220.3 L162.1,224.8 L158.7,234.2 L158.5,239.0 L161.3,278.0 L157.7,276.8 L150.5,279.8 L143.1,281.8 L135.4,286.8 L130.8,288.5 L124.9,289.2 L118.0,288.8 L105.6,289.1 L97.1,288.1 L95.4,288.7 L91.9,292.9 L85.6,295.9 L55.6,299.0 L51.6,297.6 L45.1,299.0 L34.3,306.0 L26.4,312.3 L25.4,179.8 L25.4,156.4 L27.5,145.8 L33.1,138.0 L54.5,130.5 L60.0,132.5 L68.0,140.7 L72.3,144.0 L80.7,144.4 L84.2,152.0 L87.4,154.5 L97.7,160.7 L101.6,157.9 L102.8,152.0 L103.9,150.0 L117.2,140.3 L119.6,137.5 L124.6,124.6 L128.5,121.4 L135.1,117.1 L137.6,113.2 L140.1,101.6 L146.5,90.9 L147.4,87.9 L145.6,83.4 L153.0,78.0 L160.5,74.5 L163.6,72.2 L166.2,68.1 L167.0,65.0 L169.6,65.6 L185.9,72.9 L197.6,81.7 L216.0,107.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BZ.OW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344797</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BH04</fips>
+    <postal-code>OW</postal-code>
+    <name>Orange Walk</name>
+    <country>Belize</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>-88.8552</longitude>
+    <woe-name>Orange Walk</woe-name>
+    <latitude>17.7122</latitude>
+    <woe-label>Orange Walk, BZ, Belize</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>bz-ow</hc-key>
+    <hc-a2>OW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BZ.SC" d="M122.0,485.2 L121.1,480.7 L122.7,475.4 L127.0,466.3 L134.3,455.4 L136.9,453.3 L148.4,449.9 L147.5,447.9 L144.2,445.5 L144.4,443.6 L149.9,439.5 L151.3,423.5 L159.1,415.0 L160.9,411.9 L165.2,408.6 L168.5,403.3 L172.7,393.6 L176.3,390.2 L176.4,387.9 L171.1,382.9 L166.5,374.5 L167.4,371.9 L235.8,371.1 L244.9,367.6 L248.3,364.1 L250.8,376.0 L258.7,379.3 L261.8,383.4 L263.9,388.6 L265.1,394.4 L265.7,402.9 L267.2,409.5 L266.5,412.6 L260.1,414.1 L253.7,420.8 L250.7,425.4 L249.4,429.7 L250.5,434.7 L255.5,442.6 L256.5,447.3 L258.5,449.2 L257.3,451.0 L252.8,450.7 L248.2,454.9 L247.0,458.7 L244.5,461.8 L244.1,467.8 L245.6,474.7 L243.1,493.7 L241.4,496.6 L236.5,502.3 L231.2,521.3 L232.8,528.1 L229.9,532.9 L228.1,533.1 L227.4,528.9 L235.7,498.4 L240.1,493.9 L241.8,491.2 L234.9,494.6 L227.8,512.2 L222.1,518.7 L227.4,520.7 L224.3,522.0 L220.4,520.7 L221.5,524.2 L225.6,524.4 L225.6,526.1 L220.9,530.6 L221.1,535.2 L218.1,534.0 L217.4,531.9 L213.7,531.5 L208.4,532.3 L191.8,531.2 L189.5,531.4 L179.0,529.9 L177.4,529.2 L178.9,526.3 L179.9,516.3 L174.3,506.1 L170.0,501.1 L171.0,495.1 L167.5,489.3 L158.6,484.2 L148.9,482.5 L129.5,482.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>BZ.SC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344798</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BH05</fips>
+    <postal-code>SC</postal-code>
+    <name>Stann Creek</name>
+    <country>Belize</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>-88.49630000000001</longitude>
+    <woe-name>Stann Creek</woe-name>
+    <latitude>16.809</latitude>
+    <woe-label>Stann Creek, BZ, Belize</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>bz-sc</hc-key>
+    <hc-a2>SC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BZ.TO" d="M221.1,535.2 L222.0,537.2 L217.1,540.8 L211.7,551.4 L206.8,553.6 L205.9,562.8 L202.2,562.7 L198.6,566.4 L195.3,574.4 L192.2,576.8 L185.3,585.7 L182.5,592.7 L182.8,595.0 L174.8,597.0 L173.1,598.7 L171.8,603.0 L171.9,591.8 L170.1,591.8 L168.3,597.6 L164.6,598.5 L161.1,596.2 L158.5,591.2 L153.2,591.7 L153.0,597.4 L150.3,599.8 L141.5,600.9 L136.9,604.3 L129.8,606.4 L128.7,610.6 L129.1,621.0 L128.1,626.6 L125.7,630.6 L122.0,633.1 L116.1,634.6 L113.3,638.3 L112.1,643.0 L105.7,646.6 L100.4,652.1 L99.1,660.3 L92.3,662.2 L83.5,668.4 L80.5,672.1 L79.5,678.7 L84.9,690.0 L83.8,696.3 L73.9,700.0 L51.0,693.9 L42.7,693.8 L35.3,695.0 L15.4,693.9 L8.2,695.9 L2.1,699.0 L0.0,695.4 L0.8,679.0 L8.1,617.0 L12.7,561.6 L15.6,557.3 L20.2,552.0 L21.7,547.8 L24.9,544.5 L34.1,540.9 L44.7,539.4 L48.4,537.1 L56.1,529.7 L61.6,533.9 L64.1,533.6 L74.4,529.8 L75.2,525.9 L78.9,522.1 L86.3,520.3 L95.6,513.7 L100.7,511.7 L104.9,508.5 L110.1,503.2 L110.9,500.5 L109.6,494.5 L110.5,492.1 L115.6,486.5 L122.0,485.2 L129.5,482.9 L148.9,482.5 L158.6,484.2 L167.5,489.3 L171.0,495.1 L170.0,501.1 L174.3,506.1 L179.9,516.3 L178.9,526.3 L177.4,529.2 L179.0,529.9 L189.5,531.4 L191.8,531.2 L208.4,532.3 L213.7,531.5 L217.4,531.9 L218.1,534.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>BZ.TO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344799</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BH06</fips>
+    <postal-code>TO</postal-code>
+    <name>Toledo</name>
+    <country>Belize</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>-88.8117</longitude>
+    <woe-name>Toledo</woe-name>
+    <latitude>16.3761</latitude>
+    <woe-label>Toledo, BZ, Belize</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>bz-to</hc-key>
+    <hc-a2>TO</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

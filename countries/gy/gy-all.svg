@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Guyana</title>
+<g id="admin1">
+
+<g id="GY">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Guyana</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Guy.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>GUY</iso-a3>
+    <iso-a2>GY</iso-a2>
+    <woe-id>23424836</woe-id>
+    <continent>South America</continent>
+    <hc-key>gy</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.DE" d="M270.1,173.5 L268.6,173.6 L269.6,168.1 L272.3,162.5 L275.4,160.5 L277.0,161.0 L270.6,170.9 Z M281.2,157.7 L279.1,158.1 L280.7,154.0 L283.3,151.3 L291.4,152.0 L286.0,156.2 Z M277.9,156.1 L275.8,156.4 L280.6,146.5 L284.2,148.3 L279.7,152.1 Z M296.8,233.5 L293.4,231.8 L288.3,231.2 L286.0,219.9 L281.2,213.6 L275.1,208.9 L269.8,200.6 L267.8,199.3 L268.2,187.0 L269.2,183.1 L279.3,165.5 L281.8,162.1 L285.3,159.7 L289.4,158.7 L297.1,160.0 L302.7,163.0 L306.5,166.2 L305.0,172.5 L306.1,179.8 L300.0,192.1 L295.8,196.6 L294.2,199.7 L295.4,204.3 L293.9,208.3 L295.3,212.9 L297.3,214.9 L297.3,218.3 L295.5,222.5 L298.5,229.8 Z M273.8,150.7 L270.8,153.6 L266.3,166.8 L266.3,175.0 L265.0,178.2 L265.0,195.1 L264.4,197.1 L259.4,196.5 L251.8,192.9 L245.3,192.3 L244.5,190.6 L245.8,179.9 L243.9,175.6 L252.5,170.4 L257.1,164.7 L260.9,164.0 L262.2,161.9 L263.0,157.2 L265.5,154.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.DE</hasc>
+    <alt-name>Essequibo Islands-West Demerara</alt-name>
+    <woe-id>2345607</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY14</fips>
+    <postal-code>DE</postal-code>
+    <name>Demerara-Mahaica</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-58.3773</longitude>
+    <woe-name>Demerara-Mahaica</woe-name>
+    <latitude>6.54128</latitude>
+    <woe-label>Essequibo Islands-West Demerara, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.70</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>gy-de</hc-key>
+    <hc-a2>DE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.MA" d="M368.4,217.3 L368.7,213.8 L373.5,211.6 L383.1,216.4 L390.3,221.4 L398.1,229.3 L401.9,235.6 L404.1,245.7 L404.7,254.8 L401.6,262.7 L400.4,269.1 L402.6,272.8 L402.4,277.9 L399.1,284.9 L394.2,291.8 L392.6,300.2 L387.0,306.4 L386.3,309.3 L390.3,309.2 L390.5,315.8 L393.7,316.2 L392.2,314.1 L395.2,313.0 L400.2,321.1 L395.6,325.0 L394.3,322.1 L390.3,322.2 L387.6,329.5 L387.6,332.9 L391.1,336.0 L387.8,336.0 L381.5,337.9 L371.2,339.3 L368.6,337.3 L359.8,339.3 L356.0,337.6 L349.3,339.4 L345.3,344.5 L341.9,345.7 L336.9,345.7 L330.4,354.5 L329.8,357.7 L333.6,360.9 L334.9,364.8 L337.5,368.0 L338.1,371.5 L335.6,375.6 L334.1,380.4 L330.8,387.3 L330.1,390.5 L327.1,394.4 L327.8,400.6 L325.9,406.5 L317.6,414.9 L316.1,418.9 L319.5,434.4 L321.8,437.3 L328.1,442.2 L334.4,451.0 L336.5,455.3 L337.1,461.5 L338.7,465.2 L348.6,470.5 L350.4,474.9 L356.4,479.1 L354.8,483.5 L355.1,490.6 L363.9,494.9 L366.8,493.2 L371.8,495.0 L376.7,493.9 L377.3,491.3 L382.8,493.4 L388.4,490.6 L390.8,495.5 L389.9,501.9 L391.1,504.6 L390.6,509.9 L391.6,515.3 L395.5,514.6 L394.1,517.4 L396.6,520.7 L398.1,525.4 L396.2,526.1 L395.4,530.9 L399.8,531.9 L400.3,533.3 L396.8,536.8 L398.1,541.7 L401.1,545.2 L405.1,543.9 L404.7,549.8 L409.2,549.5 L408.0,552.7 L411.9,558.2 L412.4,562.0 L415.2,561.4 L415.6,567.5 L418.1,570.2 L418.3,575.0 L421.6,573.1 L421.6,577.0 L424.4,581.5 L424.4,585.6 L427.8,588.5 L428.8,594.1 L433.1,596.2 L434.4,598.1 L436.7,607.1 L445.9,620.1 L448.5,621.1 L457.9,621.3 L466.3,626.4 L467.2,628.4 L458.3,631.8 L452.2,628.9 L447.9,631.2 L442.8,631.1 L438.7,634.3 L436.2,634.9 L428.2,633.3 L425.2,630.6 L416.7,630.6 L412.4,627.8 L410.7,623.1 L407.8,620.8 L403.2,622.7 L395.0,627.8 L389.7,625.3 L385.2,625.8 L381.1,630.0 L376.8,632.3 L373.4,640.3 L367.1,648.3 L364.2,650.5 L356.9,651.7 L348.8,650.2 L342.3,650.8 L331.4,656.2 L328.2,656.7 L323.8,655.3 L323.0,663.8 L319.8,668.7 L315.8,669.4 L308.2,668.4 L304.5,663.8 L301.4,664.9 L293.8,663.1 L290.7,661.4 L288.8,665.2 L285.8,666.7 L285.5,671.2 L282.9,672.9 L274.5,674.6 L276.1,666.8 L279.4,662.0 L284.6,656.3 L289.4,645.1 L293.4,639.2 L296.9,632.6 L312.1,590.4 L318.7,577.9 L319.9,574.6 L320.5,568.0 L319.5,555.8 L321.4,549.6 L328.9,539.6 L328.9,537.0 L322.9,522.9 L312.9,508.6 L311.1,500.4 L311.6,494.3 L308.3,481.6 L308.1,477.3 L304.5,469.7 L295.7,456.6 L294.2,453.1 L291.2,440.9 L291.7,433.2 L287.9,420.0 L280.7,409.3 L284.9,397.0 L286.6,390.7 L294.8,376.6 L295.8,373.0 L311.7,372.7 L316.4,371.2 L320.1,360.5 L323.1,350.7 L325.5,347.4 L334.8,337.0 L339.5,324.8 L344.6,317.3 L348.4,308.7 L351.4,305.5 L352.4,302.0 L353.2,292.9 L360.1,265.1 L355.8,261.7 L352.9,255.5 L352.3,245.5 L350.7,242.9 L354.6,241.0 L358.6,241.6 L361.1,236.0 L359.1,233.6 L358.4,227.9 L360.3,226.2 L366.6,225.0 L368.0,223.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345606</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY13</fips>
+    <postal-code>MA</postal-code>
+    <name>Mahaica-Berbice</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-57.4923</longitude>
+    <woe-name>Mahaica-Berbice</woe-name>
+    <latitude>2.56716</latitude>
+    <woe-label>East Berbice-Corentyne, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.80</hc-middle-y>
+    <hc-key>gy-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.PT" d="M295.8,373.0 L294.8,376.6 L286.6,390.7 L284.9,397.0 L280.7,409.3 L273.4,406.2 L270.4,405.8 L265.7,407.2 L262.3,409.6 L258.4,415.1 L245.7,426.4 L241.3,431.3 L238.7,433.0 L234.5,433.1 L231.6,431.5 L225.1,423.1 L222.9,416.5 L220.8,415.3 L213.3,418.2 L209.3,417.8 L203.6,418.7 L190.7,418.3 L184.8,415.9 L182.3,412.1 L184.9,407.0 L184.1,398.9 L186.0,394.5 L183.0,385.4 L181.0,384.6 L177.5,385.9 L174.3,389.1 L171.2,395.4 L168.5,397.5 L162.0,397.6 L157.1,393.4 L151.6,390.3 L144.8,388.9 L144.7,387.1 L140.3,387.7 L137.6,384.9 L133.7,386.3 L130.2,385.4 L125.9,385.8 L122.8,382.8 L121.5,385.0 L118.0,384.0 L116.5,380.8 L119.4,376.3 L123.9,375.0 L125.1,371.0 L129.2,363.9 L129.0,357.9 L130.4,353.7 L130.7,348.0 L132.4,341.8 L132.5,338.1 L134.2,332.4 L134.1,329.7 L127.2,325.9 L124.0,323.0 L133.3,314.8 L136.4,307.0 L140.4,302.3 L146.6,300.4 L156.6,300.0 L165.2,301.8 L172.2,301.3 L173.2,299.5 L171.8,287.1 L175.4,283.1 L181.0,280.0 L188.0,282.2 L191.6,282.5 L195.9,280.3 L201.5,273.1 L205.0,271.2 L208.1,271.2 L213.7,277.5 L218.1,284.0 L218.4,288.9 L220.4,289.7 L225.6,287.9 L227.7,288.5 L232.3,292.9 L238.3,293.6 L242.5,298.8 L241.1,299.4 L238.6,307.2 L244.7,316.5 L244.6,323.3 L242.2,337.0 L242.4,340.9 L244.7,346.9 L247.1,360.4 L248.4,362.1 L252.7,360.8 L257.7,369.5 L268.6,374.2 L273.1,374.9 L287.4,374.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.PT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345610</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY17</fips>
+    <postal-code>PT</postal-code>
+    <name>Potaro-Siparuni</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-59.2238</longitude>
+    <woe-name>Potaro-Siparuni</woe-name>
+    <latitude>4.93151</latitude>
+    <woe-label>Potaro-Siparuni, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>gy-pt</hc-key>
+    <hc-a2>PT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.UT" d="M295.8,373.0 L287.4,374.8 L273.1,374.9 L268.6,374.2 L257.7,369.5 L252.7,360.8 L248.4,362.1 L247.1,360.4 L244.7,346.9 L242.4,340.9 L242.2,337.0 L244.6,323.3 L244.7,316.5 L238.6,307.2 L241.1,299.4 L242.5,298.8 L246.4,298.7 L256.9,296.7 L258.6,295.1 L262.5,287.0 L264.2,279.1 L264.1,272.6 L264.8,266.5 L264.8,258.4 L268.4,251.6 L268.7,241.6 L267.4,236.3 L268.8,223.7 L267.6,221.1 L268.5,215.6 L266.2,211.0 L265.8,203.9 L266.2,203.3 L267.8,199.3 L269.8,200.6 L275.1,208.9 L281.2,213.6 L286.0,219.9 L288.3,231.2 L293.4,231.8 L296.8,233.5 L299.3,234.6 L305.8,232.6 L311.0,236.0 L312.1,240.7 L310.9,244.6 L311.9,246.2 L319.7,249.0 L327.5,250.3 L331.4,256.0 L335.1,256.4 L337.7,258.7 L342.1,256.6 L346.3,256.9 L352.9,255.5 L355.8,261.7 L360.1,265.1 L353.2,292.9 L352.4,302.0 L351.4,305.5 L348.4,308.7 L344.6,317.3 L339.5,324.8 L334.8,337.0 L325.5,347.4 L323.1,350.7 L320.1,360.5 L316.4,371.2 L311.7,372.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.UT</hasc>
+    <alt-name>Upper Takutu-Upper Essequibo</alt-name>
+    <woe-id>2345611</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY18</fips>
+    <postal-code>UT</postal-code>
+    <name>Upper Takutu-Upper Essequibo</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-58.2455</longitude>
+    <woe-name>Upper Takutu-Upper Essequibo</woe-name>
+    <latitude>5.36479</latitude>
+    <woe-label>Upper Demerara-Berbice, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>gy-ut</hc-key>
+    <hc-a2>UT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.UD" d="M280.7,409.3 L287.9,420.0 L291.7,433.2 L291.2,440.9 L294.2,453.1 L295.7,456.6 L304.5,469.7 L308.1,477.3 L308.3,481.6 L311.6,494.3 L311.1,500.4 L312.9,508.6 L322.9,522.9 L328.9,537.0 L328.9,539.6 L321.4,549.6 L319.5,555.8 L320.5,568.0 L319.9,574.6 L318.7,577.9 L312.1,590.4 L296.9,632.6 L293.4,639.2 L289.4,645.1 L284.6,656.3 L279.4,662.0 L276.1,666.8 L274.5,674.6 L273.3,676.0 L275.8,681.7 L276.4,686.0 L272.8,692.3 L269.2,690.4 L267.0,691.8 L257.2,690.8 L254.7,691.8 L248.7,698.5 L242.8,700.0 L236.7,697.0 L233.8,690.7 L225.9,686.5 L209.9,683.7 L203.8,681.8 L200.9,679.3 L198.9,674.7 L196.3,672.7 L194.6,667.8 L190.6,667.9 L187.1,664.9 L184.4,660.6 L180.5,657.2 L176.3,650.9 L172.3,648.6 L165.9,649.1 L161.8,644.9 L165.2,637.9 L159.6,636.2 L155.4,636.8 L154.0,630.2 L156.1,625.4 L156.5,620.5 L155.2,616.7 L156.8,610.9 L155.9,608.1 L156.2,597.6 L154.2,595.3 L150.5,594.9 L140.8,588.5 L140.5,579.1 L137.7,572.9 L137.3,569.2 L134.4,566.4 L135.0,564.4 L131.6,556.7 L132.3,541.2 L134.3,533.4 L134.2,526.0 L135.6,521.4 L139.9,516.3 L140.8,513.0 L139.7,509.3 L141.5,507.1 L143.3,501.8 L146.8,494.6 L148.9,493.2 L148.6,486.8 L147.0,487.3 L148.9,481.7 L144.9,475.3 L145.0,472.5 L147.4,469.9 L155.2,467.2 L162.4,461.2 L162.4,458.4 L164.4,454.8 L170.2,451.6 L169.9,446.6 L171.9,442.4 L176.9,439.4 L175.0,436.5 L170.5,435.7 L170.6,433.2 L164.1,425.3 L165.8,420.1 L158.1,416.1 L157.0,413.6 L158.2,407.1 L157.0,405.6 L161.3,400.5 L162.0,397.6 L168.5,397.5 L171.2,395.4 L174.3,389.1 L177.5,385.9 L181.0,384.6 L183.0,385.4 L186.0,394.5 L184.1,398.9 L184.9,407.0 L182.3,412.1 L184.8,415.9 L190.7,418.3 L203.6,418.7 L209.3,417.8 L213.3,418.2 L220.8,415.3 L222.9,416.5 L225.1,423.1 L231.6,431.5 L234.5,433.1 L238.7,433.0 L241.3,431.3 L245.7,426.4 L258.4,415.1 L262.3,409.6 L265.7,407.2 L270.4,405.8 L273.4,406.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.UD</hasc>
+    <alt-name>Upper Demerara-Berbice</alt-name>
+    <woe-id>2345612</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY19</fips>
+    <postal-code>UD</postal-code>
+    <name>Upper Demerara-Berbice</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-58.9648</longitude>
+    <woe-name>Upper Demerara-Berbice</woe-name>
+    <latitude>2.6693</latitude>
+    <woe-label>Upper Takutu-Upper Essequibo, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>gy-ud</hc-key>
+    <hc-a2>UD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.PM" d="M264.4,197.1 L257.8,207.1 L258.4,207.7 L263.3,203.3 L265.8,203.9 L266.2,211.0 L268.5,215.6 L267.6,221.1 L268.8,223.7 L267.4,236.3 L268.7,241.6 L268.4,251.6 L264.8,258.4 L264.8,266.5 L264.1,272.6 L264.2,279.1 L262.5,287.0 L258.6,295.1 L256.9,296.7 L246.4,298.7 L242.5,298.8 L238.3,293.6 L232.3,292.9 L227.7,288.5 L225.6,287.9 L220.4,289.7 L218.4,288.9 L218.1,284.0 L213.7,277.5 L208.1,271.2 L205.0,271.2 L201.5,273.1 L195.9,280.3 L191.6,282.5 L188.0,282.2 L181.0,280.0 L175.4,283.1 L171.8,287.1 L173.2,299.5 L172.2,301.3 L165.2,301.8 L156.6,300.0 L146.6,300.4 L140.4,302.3 L136.4,307.0 L133.3,314.8 L124.0,323.0 L120.0,314.6 L115.7,316.2 L112.2,312.3 L106.5,314.2 L100.8,319.3 L92.5,317.9 L89.0,321.0 L85.1,319.0 L79.8,319.7 L75.2,317.9 L68.4,317.2 L62.1,318.2 L54.8,310.3 L1.6,251.0 L0.0,247.2 L5.6,243.3 L12.2,231.9 L19.4,229.5 L22.6,224.8 L26.4,224.4 L27.2,218.0 L23.6,213.3 L22.7,209.6 L24.9,201.8 L21.9,193.7 L18.3,190.7 L18.8,185.5 L22.1,178.6 L26.0,174.1 L31.6,174.6 L32.5,172.8 L36.6,173.8 L38.3,172.5 L44.6,172.8 L47.7,169.7 L47.2,164.9 L53.8,167.7 L58.0,167.0 L64.8,170.3 L66.8,169.6 L71.1,164.2 L74.4,162.2 L81.3,160.6 L93.5,153.2 L97.6,153.5 L99.3,147.2 L103.7,143.9 L105.8,137.8 L100.5,133.2 L103.3,132.9 L108.2,134.6 L113.4,138.5 L118.9,139.1 L125.2,141.4 L130.6,137.2 L137.5,138.3 L144.4,130.5 L149.5,129.8 L163.2,137.3 L173.1,139.7 L182.1,148.7 L196.9,152.9 L202.8,146.6 L208.5,147.6 L213.6,149.9 L211.7,157.8 L211.8,160.5 L221.0,164.1 L225.6,163.8 L227.9,161.6 L231.5,162.3 L232.9,168.1 L235.0,170.7 L242.0,170.5 L243.9,175.6 L245.8,179.9 L244.5,190.6 L245.3,192.3 L251.8,192.9 L259.4,196.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.PM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345604</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY11</fips>
+    <postal-code>PM</postal-code>
+    <name>Pomeroon-Supenaam</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-59.9838</longitude>
+    <woe-name>Pomeroon-Supenaam</woe-name>
+    <latitude>6.18361</latitude>
+    <woe-label>Cuyuni-Mazaruni, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>gy-pm</hc-key>
+    <hc-a2>PM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.BA" d="M213.6,149.9 L208.5,147.6 L202.8,146.6 L196.9,152.9 L182.1,148.7 L173.1,139.7 L163.2,137.3 L149.5,129.8 L144.4,130.5 L137.5,138.3 L130.6,137.2 L125.2,141.4 L118.9,139.1 L113.4,138.5 L108.2,134.6 L103.3,132.9 L100.5,133.2 L98.3,131.3 L94.1,131.4 L88.5,129.7 L84.9,131.9 L81.5,135.7 L74.0,129.4 L72.6,126.5 L73.8,121.1 L76.1,119.1 L76.6,116.2 L74.1,111.0 L71.8,109.6 L71.5,106.8 L67.3,104.4 L64.5,97.5 L65.9,95.0 L70.2,93.7 L74.6,87.7 L76.9,87.3 L78.5,82.1 L78.8,77.6 L82.8,71.6 L86.3,69.6 L98.5,69.5 L101.6,65.6 L108.3,60.6 L112.2,56.2 L116.8,54.5 L121.9,50.2 L129.7,49.8 L132.3,47.3 L134.2,42.0 L134.9,37.0 L140.0,33.2 L148.6,31.5 L151.6,27.8 L151.7,25.8 L148.0,19.7 L138.2,8.6 L132.5,0.0 L137.5,2.9 L140.8,6.4 L146.2,14.6 L149.7,18.0 L159.4,21.9 L164.5,25.7 L170.0,27.8 L171.2,30.3 L177.4,31.5 L187.8,41.0 L185.6,37.5 L178.4,31.6 L171.3,28.6 L162.6,22.6 L156.9,19.4 L155.0,15.7 L157.5,14.2 L162.4,17.5 L166.2,18.7 L171.1,22.6 L177.3,26.4 L185.9,30.3 L195.9,37.6 L213.1,47.9 L218.8,52.2 L226.6,60.1 L239.5,74.6 L244.4,78.5 L249.3,85.4 L244.7,91.2 L239.0,95.8 L226.1,101.2 L220.4,107.0 L218.9,111.0 L221.6,115.9 L221.6,117.5 L217.1,121.8 L211.8,137.8 L211.7,141.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.BA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345603</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY10</fips>
+    <postal-code>BA</postal-code>
+    <name>Barima-Waini</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-59.7502</longitude>
+    <woe-name>Barima-Waini</woe-name>
+    <latitude>7.74233</latitude>
+    <woe-label>Barima-Waini, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>gy-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.EB" d="M311.0,236.0 L305.8,232.6 L299.3,234.6 L296.8,233.5 L298.5,229.8 L295.5,222.5 L297.3,218.3 L297.3,214.9 L295.3,212.9 L293.9,208.3 L295.4,204.3 L294.2,199.7 L295.8,196.6 L300.0,192.1 L306.1,179.8 L305.0,172.5 L306.5,166.2 L308.4,164.6 L316.6,165.6 L322.5,168.5 L331.1,176.0 L331.2,181.4 L333.3,187.1 L333.2,193.1 L328.8,193.6 L329.7,197.3 L328.9,200.8 L323.4,202.2 L315.4,210.9 L310.4,223.9 L310.1,231.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.EB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345605</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY12</fips>
+    <postal-code>EB</postal-code>
+    <name>East Berbice-Corentyne</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-58.0942</longitude>
+    <woe-name>East Berbice-Corentyne</woe-name>
+    <latitude>6.56415</latitude>
+    <woe-label>Demerara-Mahaica, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>gy-eb</hc-key>
+    <hc-a2>EB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.ES" d="M352.9,255.5 L346.3,256.9 L342.1,256.6 L337.7,258.7 L335.1,256.4 L331.4,256.0 L327.5,250.3 L319.7,249.0 L311.9,246.2 L310.9,244.6 L312.1,240.7 L311.0,236.0 L310.1,231.4 L310.4,223.9 L315.4,210.9 L323.4,202.2 L328.9,200.8 L329.7,197.3 L328.8,193.6 L333.2,193.1 L333.3,187.1 L331.2,181.4 L331.1,176.0 L333.2,177.5 L346.0,189.8 L356.4,198.3 L361.0,203.1 L367.6,218.4 L368.4,217.3 L368.0,223.9 L366.6,225.0 L360.3,226.2 L358.4,227.9 L359.1,233.6 L361.1,236.0 L358.6,241.6 L354.6,241.0 L350.7,242.9 L352.3,245.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.ES</hasc>
+    <alt-name>Mahaica-Berbice</alt-name>
+    <woe-id>2345608</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY15</fips>
+    <postal-code>ES</postal-code>
+    <name>Essequibo Islands-West Demerara</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-57.8277</longitude>
+    <woe-name>Essequibo Islands-West Demerara</woe-name>
+    <latitude>6.23705</latitude>
+    <woe-label>Mahaica-Berbice, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>gy-es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY.CU" d="M243.9,175.6 L242.0,170.5 L235.0,170.7 L232.9,168.1 L231.5,162.3 L227.9,161.6 L225.6,163.8 L221.0,164.1 L211.8,160.5 L211.7,157.8 L213.6,149.9 L211.7,141.8 L211.8,137.8 L217.1,121.8 L221.6,117.5 L221.6,115.9 L218.9,111.0 L220.4,107.0 L226.1,101.2 L239.0,95.8 L244.7,91.2 L249.3,85.4 L253.4,92.7 L253.0,88.8 L256.6,89.6 L260.4,93.1 L269.4,105.6 L276.8,112.9 L279.1,119.0 L278.3,125.4 L278.8,137.6 L277.1,147.6 L273.8,150.7 L265.5,154.7 L263.0,157.2 L262.2,161.9 L260.9,164.0 L257.1,164.7 L252.5,170.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GY.CU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345609</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GY16</fips>
+    <postal-code>CU</postal-code>
+    <name>Cuyuni-Mazaruni</name>
+    <country>Guyana</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-58.8206</longitude>
+    <woe-name>Cuyuni-Mazaruni</woe-name>
+    <latitude>7.16881</latitude>
+    <woe-label>Pomeroon-Supenaam, GY, Guyana</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>gy-cu</hc-key>
+    <hc-a2>CU</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

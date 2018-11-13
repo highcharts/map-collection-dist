@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Delaware</title>
+<g id="admin2">
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<g id="US.DE">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.DE</hasc>
+    <alt-name>DE|Del.</alt-name>
+    <woe-id>2347566</woe-id>
+    <subregion>South Atlantic</subregion>
+    <fips>US10</fips>
+    <postal-code>DE</postal-code>
+    <name>Delaware</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>South</region>
+    <longitude>-75.41119999999999</longitude>
+    <woe-name>Delaware</woe-name>
+    <latitude>38.8657</latitude>
+    <woe-label>Delaware, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-de</hc-key>
+    <hc-a2>DE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.DE.003" d="M142.3,24.9 L147.3,20.0 L148.9,21.1 L149.4,21.5 Z M107.8,137.2 L107.2,133.8 L102.2,128.5 L107.5,131.5 Z M97.8,172.5 L96.3,166.5 L100.6,172.1 L100.2,172.1 Z M110.8,235.9 L79.3,267.5 L65.5,266.8 L53.1,276.0 L10.4,273.3 L0.0,96.0 L0.1,58.6 L38.8,14.8 L75.7,0.7 L81.5,0.0 L120.0,4.9 L142.2,16.1 L121.7,33.7 L117.4,54.1 L92.6,87.1 L78.7,92.3 L71.5,112.1 L86.9,132.2 L91.2,150.2 L78.1,189.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>10003</fips>
+    <name>New Castle</name>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>us-de-003</hc-key>
+    <hc-a2>NC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.DE.001" d="M24.2,508.9 L18.5,411.2 L10.4,273.3 L53.1,276.0 L65.5,266.8 L79.3,267.5 L110.8,235.9 L138.1,264.4 L153.9,310.0 L149.7,336.4 L154.0,395.2 L174.2,413.0 L185.1,431.3 L186.7,450.4 L158.9,442.8 L147.5,465.4 L118.4,471.4 L104.1,496.0 L90.4,506.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>10001</fips>
+    <name>Kent</name>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>us-de-001</hc-key>
+    <hc-a2>KE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.DE.005" d="M24.2,508.9 L90.4,506.1 L104.1,496.0 L118.4,471.4 L147.5,465.4 L158.9,442.8 L186.7,450.4 L186.9,459.6 L213.0,493.9 L243.9,526.8 L258.0,532.7 L276.2,525.9 L283.6,585.4 L284.2,608.3 L275.6,577.7 L254.7,580.4 L262.4,595.1 L249.2,595.2 L270.8,605.4 L261.9,614.1 L234.7,621.6 L234.1,641.6 L260.1,629.9 L269.1,642.0 L286.1,618.4 L292.8,699.8 L287.4,699.8 L276.6,695.0 L277.2,699.8 L218.2,700.0 L174.9,699.7 L35.2,695.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>10005</fips>
+    <name>Sussex</name>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>us-de-005</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

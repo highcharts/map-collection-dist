@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Gambia</title>
+<g id="admin1">
+
+<g id="GM">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Gambia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Gambia</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GMB</iso-a3>
+    <iso-a2>GM</iso-a2>
+    <woe-id>23424821</woe-id>
+    <continent>Africa</continent>
+    <hc-key>gm</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GM.MC" d="M355.8,76.8 L355.2,76.8 L341.6,66.9 L338.9,60.2 L339.3,49.2 L340.0,45.9 L337.4,44.4 L329.3,44.0 L323.5,44.0 L313.0,42.4 L309.8,42.3 L311.9,35.4 L314.3,30.5 L316.9,26.4 L324.2,18.6 L334.0,11.4 L344.7,7.4 L354.8,9.0 L357.0,11.1 L361.5,17.0 L363.4,18.5 L368.4,17.4 L385.9,6.2 L402.8,0.0 L407.7,0.2 L421.6,5.5 L445.0,6.5 L453.5,9.4 L461.7,16.0 L464.6,20.0 L466.7,24.4 L471.2,39.8 L472.8,41.6 L482.4,47.4 L485.6,48.5 L488.5,47.6 L502.7,39.6 L512.1,37.1 L521.7,37.8 L531.7,42.4 L536.2,46.0 L539.3,50.0 L541.5,54.5 L544.6,64.8 L546.2,68.0 L550.4,71.9 L546.8,74.2 L544.8,76.6 L543.2,81.6 L541.3,84.2 L537.3,86.9 L542.9,99.0 L544.3,99.9 L541.0,101.8 L539.0,100.9 L535.7,103.4 L530.6,114.8 L529.6,117.9 L522.9,111.7 L520.3,110.8 L512.7,112.7 L504.1,113.7 L495.6,112.7 L487.8,109.4 L481.4,103.6 L476.7,97.1 L474.2,95.6 L469.4,94.7 L465.2,93.3 L457.4,88.5 L453.9,87.5 L445.0,86.8 L437.1,84.7 L421.9,77.0 L410.3,68.6 L399.9,58.8 L393.5,54.6 L388.2,56.7 L383.3,61.8 L381.4,61.1 L379.6,61.5 L376.8,63.6 L371.0,66.2 L356.3,74.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GM.MC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345445</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GA03</fips>
+    <postal-code>MC</postal-code>
+    <name>Central River</name>
+    <country>Gambia</country>
+    <type-en>Division</type-en>
+    <region>NULL</region>
+    <longitude>-14.9804</longitude>
+    <woe-name>Maccarthy Island</woe-name>
+    <latitude>13.637</latitude>
+    <woe-label>MacCarthy Island, GM, The Gambia</woe-label>
+    <type>Division</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>gm-mc</hc-key>
+    <hc-a2>MC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GM.UR" d="M550.4,71.9 L567.3,83.9 L572.9,86.5 L577.1,87.1 L581.2,86.1 L594.8,81.2 L607.6,73.1 L612.0,71.2 L625.4,68.1 L636.2,62.6 L640.9,61.4 L647.4,61.6 L649.8,61.2 L652.6,60.0 L657.3,57.2 L660.4,56.7 L665.3,57.5 L671.2,59.6 L676.8,62.4 L680.7,65.5 L681.9,67.6 L683.4,72.1 L684.6,74.1 L686.7,75.9 L692.0,79.0 L694.4,80.9 L700.0,92.1 L699.2,104.2 L692.6,114.4 L681.1,119.4 L663.5,121.0 L654.2,123.6 L644.8,123.7 L634.9,127.4 L630.8,127.3 L627.4,128.9 L616.2,137.4 L611.1,139.9 L604.4,140.1 L591.8,137.8 L578.5,139.0 L572.3,138.5 L566.2,136.8 L557.7,132.5 L553.0,128.8 L548.6,123.7 L545.5,122.9 L538.2,122.6 L534.8,121.6 L531.7,119.9 L529.6,117.9 L530.6,114.8 L535.7,103.4 L539.0,100.9 L541.0,101.8 L544.3,99.9 L542.9,99.0 L537.3,86.9 L541.3,84.2 L543.2,81.6 L544.8,76.6 L546.8,74.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GM.UR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345446</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GA04</fips>
+    <postal-code>UR</postal-code>
+    <name>Upper River</name>
+    <country>Gambia</country>
+    <type-en>Division</type-en>
+    <region>NULL</region>
+    <longitude>-14.1857</longitude>
+    <woe-name>Upper River</woe-name>
+    <latitude>13.3797</latitude>
+    <woe-label>Upper River, GM, The Gambia</woe-label>
+    <type>Division</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>gm-ur</hc-key>
+    <hc-a2>UR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GM.BJ" d="M15.6,97.1 L29.4,80.4 L35.3,75.6 L35.8,78.0 L37.1,79.7 L41.5,82.2 L45.6,80.1 L49.7,79.9 L53.3,81.4 L55.8,84.0 L57.0,88.2 L54.4,89.0 L50.6,89.2 L47.9,92.0 L51.5,95.2 L54.5,102.1 L49.0,106.5 L38.7,113.9 L29.1,113.1 L21.9,105.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GM.BJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345443</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GA01</fips>
+    <postal-code>BJ</postal-code>
+    <name>Banjul</name>
+    <country>Gambia</country>
+    <type-en>Independent City</type-en>
+    <region>NULL</region>
+    <longitude>-16.6831</longitude>
+    <woe-name>Banjul</woe-name>
+    <latitude>13.4063</latitude>
+    <woe-label>Banjul, GM, The Gambia</woe-label>
+    <type>Independent City</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>gm-bj</hc-key>
+    <hc-a2>BJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GM.LR" d="M157.7,126.7 L155.2,126.9 L150.6,129.0 L146.5,132.5 L145.5,131.1 L143.9,119.6 L141.3,118.1 L140.6,116.6 L140.0,112.8 L140.8,108.4 L142.7,105.5 L152.1,97.8 L153.8,95.9 L154.6,93.4 L155.6,92.3 L157.8,92.7 L161.6,94.3 L194.2,96.2 L206.7,93.3 L211.1,92.9 L216.1,93.3 L220.1,92.1 L223.0,89.6 L228.0,89.4 L243.0,91.2 L247.8,90.7 L261.3,86.5 L267.9,82.2 L270.1,81.5 L272.3,82.3 L275.6,85.8 L277.9,86.6 L283.6,86.1 L285.8,85.2 L288.4,83.4 L290.5,81.0 L294.2,75.2 L296.4,73.6 L299.2,73.5 L302.1,74.5 L306.8,77.6 L309.2,78.7 L311.7,78.3 L316.2,76.8 L320.6,78.0 L323.5,81.0 L325.7,84.3 L328.1,86.7 L336.1,89.3 L346.3,90.0 L354.6,86.5 L357.0,76.8 L355.8,76.8 L356.3,74.8 L371.0,66.2 L376.8,63.6 L379.6,61.5 L381.4,61.1 L383.3,61.8 L378.1,67.2 L374.8,72.5 L373.9,87.2 L372.5,93.7 L367.7,99.9 L361.0,104.4 L353.4,107.2 L345.9,108.6 L337.3,108.6 L311.9,103.1 L304.7,102.8 L299.2,104.8 L293.9,107.7 L286.9,110.0 L283.1,110.4 L267.4,108.8 L264.5,108.9 L254.0,112.2 L237.8,113.7 L235.1,115.2 L234.2,118.5 L233.7,135.4 L199.7,127.9 L197.8,127.8 L191.5,129.3 L183.5,130.5 L178.1,129.4 L175.7,130.4 L173.3,133.9 L170.2,133.2 L167.8,131.0 L166.4,126.6 L165.4,125.5 L161.0,125.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GM.LR</hasc>
+    <alt-name>South Bank</alt-name>
+    <woe-id>2345444</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GA02</fips>
+    <postal-code>LR</postal-code>
+    <name>Lower River</name>
+    <country>Gambia</country>
+    <type-en>Division</type-en>
+    <region>NULL</region>
+    <longitude>-15.7046</longitude>
+    <woe-name>Lower River</woe-name>
+    <latitude>13.4062</latitude>
+    <woe-label>Lower River, GM, The Gambia</woe-label>
+    <type>Division</type>
+    <hc-middle-x>0.22</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>gm-lr</hc-key>
+    <hc-a2>LR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GM.WC" d="M54.5,102.1 L56.2,109.2 L55.6,113.1 L64.1,123.3 L66.0,124.7 L77.7,125.3 L81.1,126.3 L84.1,128.2 L85.9,129.9 L88.3,131.0 L93.0,131.5 L95.3,133.1 L96.6,136.8 L96.6,141.0 L95.2,144.3 L99.8,140.5 L101.9,140.4 L104.9,142.8 L103.6,140.3 L98.5,135.4 L97.9,132.3 L96.3,130.4 L93.8,129.5 L90.6,129.7 L90.6,128.1 L97.4,128.3 L100.6,127.8 L103.4,126.4 L105.7,131.2 L108.4,130.1 L111.6,126.8 L115.4,125.0 L119.7,123.7 L128.3,118.1 L132.9,116.8 L139.4,118.9 L140.4,123.6 L139.3,129.0 L139.9,133.2 L144.1,134.4 L149.7,132.7 L157.7,128.4 L157.7,126.7 L161.0,125.1 L165.4,125.5 L166.4,126.6 L167.8,131.0 L170.2,133.2 L173.3,133.9 L175.7,130.4 L178.1,129.4 L183.5,130.5 L191.5,129.3 L197.8,127.8 L199.7,127.9 L233.7,135.4 L233.1,156.0 L231.6,157.1 L84.5,155.1 L36.0,154.4 L27.9,156.1 L24.4,161.9 L23.7,164.2 L20.0,167.8 L18.5,169.7 L17.6,172.4 L17.2,177.8 L13.7,174.8 L10.1,173.5 L9.6,171.8 L12.2,166.5 L11.8,162.9 L7.4,151.1 L7.2,148.3 L7.9,137.2 L7.4,134.1 L6.1,130.9 L2.1,126.4 L1.1,123.2 L3.0,119.4 L2.1,118.2 L0.0,112.7 L2.1,110.2 L4.7,103.0 L7.1,101.5 L9.9,100.8 L13.0,99.1 L15.6,97.1 L21.9,105.6 L29.1,113.1 L38.7,113.9 L49.0,106.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GM.WE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345447</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GA05</fips>
+    <postal-code>WC</postal-code>
+    <name>West Coast</name>
+    <country>Gambia</country>
+    <type-en>Division</type-en>
+    <region>NULL</region>
+    <longitude>-16.3138</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>13.2212</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Division</type>
+    <hc-middle-x>0.20</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>gm-wc</hc-key>
+    <hc-a2>WC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GM.NB" d="M355.2,76.8 L354.8,80.4 L353.1,83.6 L350.7,85.8 L348.1,86.7 L343.7,86.2 L335.8,83.9 L332.2,83.4 L328.8,82.3 L325.0,79.5 L319.4,74.4 L317.4,73.5 L311.4,75.2 L309.3,74.6 L305.1,71.9 L301.9,71.2 L299.3,69.8 L296.3,69.1 L291.7,70.4 L289.3,72.2 L285.9,76.9 L283.6,78.3 L279.6,78.5 L273.3,75.5 L269.3,75.1 L265.1,76.0 L254.8,81.5 L246.5,84.0 L172.1,89.5 L164.7,86.9 L160.2,86.1 L155.8,87.1 L151.6,89.3 L145.0,94.2 L135.2,104.0 L127.7,108.5 L125.8,107.0 L125.6,105.3 L126.8,100.1 L125.8,97.3 L121.9,100.9 L121.4,102.9 L122.7,105.6 L119.4,107.0 L119.4,108.6 L122.7,110.1 L118.1,112.5 L110.2,113.6 L102.1,113.8 L97.2,113.4 L79.2,108.9 L71.6,108.4 L73.1,106.3 L75.9,100.4 L76.5,97.9 L76.0,94.6 L72.2,86.4 L68.0,83.2 L66.5,80.6 L63.8,78.3 L63.8,73.4 L65.8,63.4 L65.6,59.7 L64.3,56.5 L62.8,54.2 L163.9,55.1 L192.7,55.3 L305.1,56.1 L308.7,54.9 L309.2,45.5 L309.8,42.3 L313.0,42.4 L323.5,44.0 L329.3,44.0 L337.4,44.4 L340.0,45.9 L339.3,49.2 L338.9,60.2 L341.6,66.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GM.NB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345448</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GA07</fips>
+    <postal-code>NB</postal-code>
+    <name>North Bank</name>
+    <country>Gambia</country>
+    <type-en>Division</type-en>
+    <region>NULL</region>
+    <longitude>-15.9799</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>13.5236</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Division</type>
+    <hc-middle-x>0.17</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>gm-nb</hc-key>
+    <hc-a2>NB</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

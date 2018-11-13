@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Cook Islands</title>
+<g id="admin1">
+
+<g id="NZ">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>New Zealand</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>N.Z.</country-abbrev>
+    <subregion>Australia and New Zealand</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>NZL</iso-a3>
+    <iso-a2>NZ</iso-a2>
+    <woe-id>23424916</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>nz</hc-key>
+    <hc-a2>NZ</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6471" d="M373.7,266.4 L370.6,268.0 L366.6,267.1 L363.5,263.7 L362.4,258.2 L365.6,257.4 L370.5,259.4 L374.5,262.3 Z M333.2,224.3 L334.2,225.7 L331.5,223.3 L332.5,223.7 Z M328.8,222.1 L328.1,222.3 L328.4,221.6 L330.1,220.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CK.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549674</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Atiu</name>
+    <country>Cook Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-158.089</longitude>
+    <woe-name>Atiu</woe-name>
+    <latitude>-20.0232</latitude>
+    <woe-label>Atiu, CK, Cook Islands</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.86</hc-middle-x>
+    <hc-middle-y>0.89</hc-middle-y>
+    <hc-key>nz-6471</hc-key>
+    <hc-a2>AT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6475" d="M191.8,95.9 L193.0,97.5 L196.0,96.9 L195.8,97.5 L195.5,98.0 L194.5,98.7 L191.9,97.5 L189.1,95.4 L188.0,93.3 L190.1,92.6 L191.2,93.7 Z M200.2,95.4 L198.9,96.7 L197.5,95.4 L197.4,94.2 L196.4,93.4 L196.1,92.8 L196.9,91.5 L199.1,92.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CK.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549676</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Aitutaki</name>
+    <country>Cook Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-158.892</longitude>
+    <woe-name>Aitutaki</woe-name>
+    <latitude>-19.2709</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.09</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>nz-6475</hc-key>
+    <hc-a2>AI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.3583" d="M406.2,699.7 L403.6,700.0 L400.5,699.6 L398.3,698.5 L396.6,696.6 L395.0,694.0 L396.0,691.3 L397.9,688.7 L400.2,686.8 L402.2,686.2 L405.0,687.3 L407.3,689.4 L411.6,694.7 L412.1,697.2 L409.7,698.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CK.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549672</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mangaia</name>
+    <country>Cook Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-157.909</longitude>
+    <woe-name>Mangaia</woe-name>
+    <latitude>-21.9367</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>nz-3583</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6470" d="M23.3,541.7 L22.9,543.7 L21.8,545.6 L15.9,544.7 L15.2,544.8 L11.2,542.8 L2.8,543.5 L0.0,541.1 L1.6,539.4 L2.8,535.2 L3.1,532.4 L4.8,531.0 L10.2,530.3 L14.3,530.4 L18.5,531.5 L21.8,533.7 L23.2,537.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CK.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549675</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Rarotonga</name>
+    <country>Cook Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-159.789</longitude>
+    <woe-name>Rarotonga</woe-name>
+    <latitude>-21.2088</latitude>
+    <woe-label>Rarotonga, CK, Cook Islands</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>nz-6470</hc-key>
+    <hc-a2>RA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6473" d="M453.5,228.4 L450.6,231.7 L450.6,228.6 L449.5,226.3 L448.1,224.9 L446.8,223.2 L446.3,220.1 L447.3,218.3 L452.0,213.1 L453.6,211.7 L453.2,216.5 L453.7,222.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CK.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549667</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mitiaro</name>
+    <country>Cook Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-157.707</longitude>
+    <woe-name>Mitiaro</woe-name>
+    <latitude>-19.8389</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>nz-6473</hc-key>
+    <hc-a2>MI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6474" d="M535.8,303.5 L533.5,305.1 L531.0,304.3 L529.2,300.9 L529.3,297.0 L531.5,295.7 L534.5,296.7 L536.9,299.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CK.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549666</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mauke</name>
+    <country>Cook Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-157.312</longitude>
+    <woe-name>Mauke</woe-name>
+    <latitude>-20.1852</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>nz-6474</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6476" d="M13.0,0.0 L15.3,1.9 L15.5,3.7 L14.7,2.9 L14.3,1.4 L13.7,1.2 L11.6,5.4 L11.6,6.2 L12.3,11.1 L10.9,13.3 L8.6,13.2 L7.0,11.1 L6.7,8.3 L7.6,4.0 L8.5,2.5 L10.4,0.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>CK.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549670</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Palmerston</name>
+    <country>Cook Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-159.771</longitude>
+    <woe-name>Palmerston</woe-name>
+    <latitude>-18.8968</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>nz-6476</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Saudi Arabia</title>
+<g id="admin1">
+
+<g id="SA">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Saudi Arabia</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Saud.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>SAU</iso-a3>
+    <iso-a2>SA</iso-a2>
+    <woe-id>23424938</woe-id>
+    <continent>Asia</continent>
+    <hc-key>sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.4293" d="M221.2,558.2 L220.0,557.4 L221.1,555.8 L222.4,556.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Saudi Arabia</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>41.6833</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>16.9326</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>sa-4293</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.TB" d="M61.7,235.5 L56.0,232.6 L56.9,231.2 L60.5,234.7 L63.4,235.2 L69.1,240.5 L68.7,243.1 L65.4,237.8 Z M143.4,144.2 L145.2,145.7 L155.5,148.7 L158.5,150.2 L168.3,159.0 L172.0,175.0 L179.7,181.7 L179.4,183.9 L174.0,188.7 L167.5,200.6 L164.5,197.8 L150.7,199.3 L144.6,198.4 L140.8,195.2 L134.9,192.1 L132.3,189.5 L132.2,192.2 L124.4,190.6 L119.4,193.5 L115.3,184.9 L106.8,181.6 L103.3,172.5 L100.6,170.3 L94.3,173.2 L89.8,172.6 L83.1,169.9 L74.4,173.3 L70.6,174.0 L69.1,176.1 L73.5,176.4 L75.6,178.8 L74.7,189.0 L76.8,195.3 L83.2,198.7 L83.0,201.8 L79.8,207.9 L82.7,217.6 L85.9,216.5 L91.6,220.2 L93.9,225.3 L99.5,231.7 L101.5,239.8 L105.2,240.6 L106.2,242.7 L104.6,251.0 L104.4,263.0 L102.4,265.7 L95.4,266.1 L92.0,269.1 L85.0,269.9 L83.1,274.1 L75.9,262.3 L79.6,261.7 L80.5,258.4 L79.4,249.9 L75.5,244.9 L70.6,232.7 L66.9,228.4 L63.8,228.3 L62.0,224.5 L63.5,218.4 L58.3,215.9 L53.9,206.3 L49.5,195.3 L45.5,190.3 L43.8,184.5 L37.7,177.2 L37.3,173.5 L29.7,163.2 L28.0,156.5 L21.2,144.2 L18.4,141.8 L20.3,140.3 L15.1,137.5 L10.9,138.7 L9.0,137.2 L1.8,137.1 L0.5,139.6 L0.0,135.8 L2.2,134.6 L3.3,130.7 L8.3,121.8 L7.9,116.7 L10.7,108.8 L15.7,109.0 L22.8,110.7 L28.0,108.6 L34.7,107.9 L43.7,107.8 L49.9,109.9 L53.0,112.4 L60.5,123.9 L63.5,124.9 L75.0,122.7 L79.4,123.2 L86.9,125.9 L94.1,126.1 L97.6,120.1 L103.4,116.3 L105.0,118.6 L104.4,129.9 L106.4,135.0 L109.9,137.9 L115.3,139.8 L122.9,140.9 L126.0,140.0 L130.5,141.3 L132.4,144.7 L140.4,142.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SA.TB</hasc>
+    <alt-name>Tabouk</alt-name>
+    <woe-id>2346962</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA19</fips>
+    <postal-code>TB</postal-code>
+    <name>Tabuk</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>36.8014</longitude>
+    <woe-name>Tabuk</woe-name>
+    <latitude>27.9146</latitude>
+    <woe-label>Tabuk, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.25</hc-middle-y>
+    <hc-key>sa-tb</hc-key>
+    <hc-a2>TB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.JZ" d="M228.6,563.8 L232.5,564.3 L233.8,561.6 L238.6,565.6 L237.5,570.0 L234.6,568.1 L235.1,566.0 L231.2,567.0 L224.4,561.5 L223.7,558.4 L226.2,559.8 Z M230.3,556.8 L230.0,561.2 L228.8,561.9 L226.4,558.6 Z M225.0,506.8 L230.3,506.9 L230.3,515.9 L235.5,516.7 L238.6,521.2 L245.6,522.0 L254.6,531.0 L256.8,529.5 L258.4,523.6 L260.3,520.8 L265.1,519.1 L266.3,523.6 L272.6,531.0 L275.3,532.0 L279.4,537.8 L273.2,543.4 L276.1,546.1 L272.8,547.6 L271.1,557.9 L274.5,563.5 L272.9,567.6 L270.2,567.2 L268.4,572.1 L263.8,574.1 L262.6,577.0 L259.7,578.0 L259.7,574.4 L257.5,570.9 L258.0,567.1 L254.5,561.8 L251.2,559.5 L251.3,554.9 L248.4,553.6 L246.4,549.0 L244.2,548.6 L243.1,538.4 L228.2,524.8 L223.0,521.5 L218.9,513.7 L220.5,511.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SA.JZ</hasc>
+    <alt-name>Jazan|Qizan</alt-name>
+    <woe-id>2346956</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA17</fips>
+    <postal-code>JZ</postal-code>
+    <name>Jizan</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>42.726</longitude>
+    <woe-name>Jizan</woe-name>
+    <latitude>17.3028</latitude>
+    <woe-label>Jizan, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>sa-jz</hc-key>
+    <hc-a2>JZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.NJ" d="M422.3,551.7 L414.1,556.6 L406.3,556.8 L398.4,546.0 L397.1,545.3 L383.6,547.3 L352.4,544.2 L343.1,540.0 L325.0,539.9 L322.0,540.8 L316.5,540.3 L306.0,542.7 L293.7,542.9 L289.8,539.5 L290.8,534.7 L290.0,530.5 L291.2,519.1 L290.0,512.9 L291.9,508.5 L301.5,499.3 L304.8,493.9 L314.2,489.4 L316.4,485.5 L315.2,476.6 L317.1,472.8 L320.2,470.7 L320.7,464.1 L330.2,470.1 L337.8,472.8 L346.7,473.4 L427.6,464.1 L432.1,462.7 L422.3,551.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SA.NJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346960</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA16</fips>
+    <postal-code>NJ</postal-code>
+    <name>Najran</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>45.6917</longitude>
+    <woe-name>Najran</woe-name>
+    <latitude>18.2931</latitude>
+    <woe-label>Najran, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sa-nj</hc-key>
+    <hc-a2>NJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.RI" d="M432.1,462.7 L427.6,464.1 L346.7,473.4 L337.8,472.8 L330.2,470.1 L320.7,464.1 L306.6,451.2 L300.8,442.4 L301.9,434.1 L305.2,426.7 L296.7,415.2 L291.8,410.7 L283.0,397.3 L282.4,394.3 L284.1,387.5 L283.7,381.4 L286.7,374.3 L285.1,362.1 L286.1,355.2 L280.2,353.1 L274.7,354.2 L270.2,352.5 L269.3,349.3 L270.2,343.4 L267.0,340.3 L252.9,339.3 L248.1,336.4 L243.9,326.0 L240.3,312.1 L236.1,307.3 L236.4,301.6 L237.3,285.0 L240.6,277.5 L243.6,272.9 L247.2,271.4 L254.5,274.5 L260.5,275.2 L266.9,274.6 L271.1,275.5 L275.3,272.0 L273.8,267.2 L277.7,261.1 L282.5,257.1 L293.6,254.6 L299.9,250.2 L303.9,244.3 L308.6,242.9 L315.6,243.9 L327.8,243.3 L328.3,236.8 L326.4,232.0 L326.7,227.9 L316.8,213.1 L317.4,204.3 L321.8,201.9 L326.9,195.7 L331.5,193.2 L331.3,188.0 L325.2,183.4 L325.1,178.3 L328.9,173.3 L330.8,172.6 L334.1,174.9 L337.0,172.1 L342.5,177.3 L345.3,183.1 L354.6,188.4 L359.2,189.2 L365.7,195.5 L369.3,197.1 L374.7,197.2 L379.6,199.1 L387.8,204.8 L398.0,205.3 L405.7,212.9 L416.2,216.9 L418.4,220.8 L420.0,269.7 L421.6,273.3 L433.6,281.5 L442.2,289.8 L447.4,299.5 L448.0,312.1 L440.0,390.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SA.RI</hasc>
+    <alt-name>Riyad|Riad|Riyadh</alt-name>
+    <woe-id>2346951</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA10</fips>
+    <postal-code>RI</postal-code>
+    <name>Ar Riyad</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>45.1404</longitude>
+    <woe-name>Ar Riyad</woe-name>
+    <latitude>23.3432</latitude>
+    <woe-label>Ar Riyad, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>sa-ri</hc-key>
+    <hc-a2>RI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.MD" d="M240.6,277.5 L237.3,285.0 L236.4,301.6 L230.0,300.9 L228.1,302.3 L228.8,309.4 L225.5,314.0 L215.1,318.8 L212.3,322.6 L217.2,325.9 L216.1,329.4 L212.1,330.8 L205.3,336.7 L195.5,344.0 L190.7,350.1 L182.0,348.8 L175.3,353.1 L171.4,352.7 L170.1,344.1 L165.0,341.3 L166.7,335.0 L165.9,328.9 L161.3,328.9 L151.4,331.2 L149.8,327.4 L142.1,327.3 L132.2,316.5 L123.5,317.2 L122.2,311.7 L120.2,312.5 L117.6,303.6 L114.8,300.3 L109.0,296.1 L105.6,292.5 L98.5,289.2 L92.4,283.7 L90.8,285.2 L87.3,284.3 L84.3,280.5 L85.4,277.8 L83.1,274.1 L85.0,269.9 L92.0,269.1 L95.4,266.1 L102.4,265.7 L104.4,263.0 L104.6,251.0 L106.2,242.7 L105.2,240.6 L101.5,239.8 L99.5,231.7 L93.9,225.3 L91.6,220.2 L85.9,216.5 L82.7,217.6 L79.8,207.9 L83.0,201.8 L83.2,198.7 L76.8,195.3 L74.7,189.0 L75.6,178.8 L73.5,176.4 L69.1,176.1 L70.6,174.0 L74.4,173.3 L83.1,169.9 L89.8,172.6 L94.3,173.2 L100.6,170.3 L103.3,172.5 L106.8,181.6 L115.3,184.9 L119.4,193.5 L124.4,190.6 L132.2,192.2 L132.3,189.5 L134.9,192.1 L140.8,195.2 L144.6,198.4 L150.7,199.3 L164.5,197.8 L167.5,200.6 L168.2,204.6 L166.3,211.3 L170.7,212.1 L171.7,214.2 L169.4,226.4 L170.8,236.2 L170.1,245.8 L171.5,249.0 L175.5,249.9 L183.8,247.3 L192.6,246.8 L197.1,242.5 L200.9,240.7 L206.6,240.7 L218.7,243.2 L225.2,245.3 L226.7,248.2 L225.8,257.6 L228.3,261.4 L233.5,263.2 L236.2,272.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SA.MD</hasc>
+    <alt-name>Madinah|Al Madinah al Munawwarah|Monwarah|Medina|Médine</alt-name>
+    <woe-id>2346958</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA05</fips>
+    <postal-code>MD</postal-code>
+    <name>Al Madinah</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>39.4378</longitude>
+    <woe-name>Al Madinah</woe-name>
+    <latitude>24.9279</latitude>
+    <woe-label>Al Madinah, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>sa-md</hc-key>
+    <hc-a2>MD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.HA" d="M330.8,172.6 L328.9,173.3 L325.1,178.3 L325.2,183.4 L321.3,188.1 L318.9,189.0 L311.1,187.2 L304.7,181.3 L301.3,179.4 L298.2,180.3 L285.7,186.4 L280.5,191.0 L276.8,196.2 L269.3,199.3 L256.5,208.6 L249.7,217.6 L245.8,217.8 L243.4,221.8 L243.6,228.5 L237.2,227.8 L235.1,232.3 L236.7,236.8 L229.8,238.5 L218.7,243.2 L206.6,240.7 L200.9,240.7 L197.1,242.5 L192.6,246.8 L183.8,247.3 L175.5,249.9 L171.5,249.0 L170.1,245.8 L170.8,236.2 L169.4,226.4 L171.7,214.2 L170.7,212.1 L166.3,211.3 L168.2,204.6 L167.5,200.6 L174.0,188.7 L179.4,183.9 L179.7,181.7 L172.0,175.0 L168.3,159.0 L158.5,150.2 L155.5,148.7 L145.2,145.7 L143.4,144.2 L148.7,139.5 L161.2,134.3 L166.9,133.0 L179.2,126.7 L191.5,122.2 L194.2,122.7 L200.5,125.0 L217.7,121.6 L222.4,121.7 L230.1,124.4 L241.1,123.6 L252.0,126.5 L254.9,128.2 L260.7,134.5 L264.5,135.2 L272.0,132.8 L273.9,138.9 L275.7,140.4 L282.6,140.9 L288.8,143.2 L295.9,139.8 L298.1,141.4 L303.4,151.3 L306.1,158.5 L310.8,162.3 L320.8,163.9 L324.1,165.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SA.HA</hasc>
+    <alt-name>Hail</alt-name>
+    <woe-id>2346957</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA13</fips>
+    <postal-code>HA</postal-code>
+    <name>Ha'il</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>41.7076</longitude>
+    <woe-name>Ha'il</woe-name>
+    <latitude>27.2652</latitude>
+    <woe-label>Hail, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>sa-ha</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.QS" d="M218.7,243.2 L229.8,238.5 L236.7,236.8 L235.1,232.3 L237.2,227.8 L243.6,228.5 L243.4,221.8 L245.8,217.8 L249.7,217.6 L256.5,208.6 L269.3,199.3 L276.8,196.2 L280.5,191.0 L285.7,186.4 L298.2,180.3 L301.3,179.4 L304.7,181.3 L311.1,187.2 L318.9,189.0 L321.3,188.1 L325.2,183.4 L331.3,188.0 L331.5,193.2 L326.9,195.7 L321.8,201.9 L317.4,204.3 L316.8,213.1 L326.7,227.9 L326.4,232.0 L328.3,236.8 L327.8,243.3 L315.6,243.9 L308.6,242.9 L303.9,244.3 L299.9,250.2 L293.6,254.6 L282.5,257.1 L277.7,261.1 L273.8,267.2 L275.3,272.0 L271.1,275.5 L266.9,274.6 L260.5,275.2 L254.5,274.5 L247.2,271.4 L243.6,272.9 L240.6,277.5 L236.2,272.6 L233.5,263.2 L228.3,261.4 L225.8,257.6 L226.7,248.2 L225.2,245.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>SA.QS</hasc>
+    <alt-name>Al Gassim|Gasim|Qaseem|Al Qasseem</alt-name>
+    <woe-id>2346952</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA08</fips>
+    <postal-code>QS</postal-code>
+    <name>Al Quassim</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>43.2716</longitude>
+    <woe-name>Al Quassim</woe-name>
+    <latitude>25.9478</latitude>
+    <woe-label>Al Qasim, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sa-qs</hc-key>
+    <hc-a2>QS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.HS" d="M337.0,172.1 L334.1,174.9 L330.8,172.6 L324.1,165.7 L320.8,163.9 L310.8,162.3 L306.1,158.5 L303.4,151.3 L298.1,141.4 L295.9,139.8 L288.8,143.2 L282.6,140.9 L275.7,140.4 L273.9,138.9 L272.0,132.8 L264.5,135.2 L260.7,134.5 L254.9,128.2 L252.0,126.5 L241.1,123.6 L230.1,124.4 L222.4,121.7 L217.7,121.6 L200.5,125.0 L194.2,122.7 L200.0,116.2 L201.3,104.1 L203.7,100.3 L207.2,97.8 L234.3,82.1 L238.5,78.6 L238.4,75.8 L232.3,70.5 L229.6,64.7 L225.7,61.2 L217.8,60.2 L209.8,54.0 L185.3,52.1 L180.6,50.4 L175.9,46.9 L154.7,42.6 L150.6,42.2 L140.8,43.1 L126.7,43.7 L121.3,41.0 L119.0,36.1 L113.9,30.2 L114.0,25.0 L118.6,11.3 L149.6,4.3 L155.9,0.0 L182.8,6.0 L193.3,8.5 L196.7,10.3 L245.6,41.7 L269.7,63.6 L327.5,111.3 L328.3,111.6 L380.8,116.1 L383.0,115.6 L367.5,122.0 L363.0,124.5 L355.5,133.1 L344.2,154.5 L337.2,163.4 L335.3,169.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>SA.HS</hasc>
+    <alt-name>Northern Frontier</alt-name>
+    <woe-id>2346961</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA15</fips>
+    <postal-code>HS</postal-code>
+    <name>Al Hudud ash Shamaliyah</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>43.3124</longitude>
+    <woe-name>Al Hudud ash Shamaliyah</woe-name>
+    <latitude>29.227</latitude>
+    <woe-label>Al Hudud ash Shamaliyah, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>sa-hs</hc-key>
+    <hc-a2>HS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.JF" d="M194.2,122.7 L191.5,122.2 L179.2,126.7 L166.9,133.0 L161.2,134.3 L148.7,139.5 L143.4,144.2 L140.4,142.6 L132.4,144.7 L130.5,141.3 L126.0,140.0 L122.9,140.9 L115.3,139.8 L109.9,137.9 L106.4,135.0 L104.4,129.9 L105.0,118.6 L103.4,116.3 L97.6,120.1 L94.1,126.1 L86.9,125.9 L79.4,123.2 L75.0,122.7 L63.5,124.9 L60.5,123.9 L53.0,112.4 L49.9,109.9 L43.7,107.8 L34.7,107.9 L28.0,108.6 L22.8,110.7 L15.7,109.0 L10.7,108.8 L11.5,102.9 L15.6,91.9 L49.5,100.7 L51.2,100.5 L65.1,90.6 L73.3,78.8 L75.0,77.7 L98.1,74.6 L104.1,63.3 L105.3,62.1 L115.5,57.1 L100.9,37.5 L85.8,18.6 L118.6,11.3 L114.0,25.0 L113.9,30.2 L119.0,36.1 L121.3,41.0 L126.7,43.7 L140.8,43.1 L150.6,42.2 L154.7,42.6 L175.9,46.9 L180.6,50.4 L185.3,52.1 L209.8,54.0 L217.8,60.2 L225.7,61.2 L229.6,64.7 L232.3,70.5 L238.4,75.8 L238.5,78.6 L234.3,82.1 L207.2,97.8 L203.7,100.3 L201.3,104.1 L200.0,116.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>SA.JF</hasc>
+    <alt-name>JawfAl Joaf|Al-Jouf|Jowf</alt-name>
+    <woe-id>2346950</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA03</fips>
+    <postal-code>JF</postal-code>
+    <name>Al Jawf</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>38.3651</longitude>
+    <woe-name>Al Jawf</woe-name>
+    <latitude>29.5589</latitude>
+    <woe-label>Al Jawf, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>sa-jf</hc-key>
+    <hc-a2>JF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.SH" d="M422.3,551.7 L422.3,551.6 L432.1,462.7 L440.0,390.8 L448.0,312.1 L447.4,299.5 L442.2,289.8 L433.6,281.5 L421.6,273.3 L420.0,269.7 L418.4,220.8 L416.2,216.9 L405.7,212.9 L398.0,205.3 L387.8,204.8 L379.6,199.1 L374.7,197.2 L369.3,197.1 L365.7,195.5 L359.2,189.2 L354.6,188.4 L345.3,183.1 L342.5,177.3 L337.0,172.1 L335.3,169.0 L337.2,163.4 L344.2,154.5 L355.5,133.1 L363.0,124.5 L367.5,122.0 L383.0,115.6 L386.4,114.9 L415.3,118.1 L417.3,121.3 L420.8,132.0 L423.2,134.7 L447.8,133.8 L451.3,138.6 L451.4,142.6 L454.1,145.5 L453.9,148.8 L463.0,159.1 L460.6,159.9 L459.9,163.7 L463.1,167.3 L466.2,166.9 L469.8,169.5 L475.1,169.3 L478.2,181.6 L480.0,183.6 L484.9,184.1 L490.8,190.2 L498.9,193.6 L505.7,199.8 L500.5,199.0 L502.3,206.7 L507.8,209.8 L508.4,218.3 L506.9,218.5 L506.6,223.3 L503.9,218.4 L501.0,219.8 L505.4,225.1 L506.1,229.5 L510.6,236.2 L507.2,234.4 L514.3,243.3 L518.1,244.4 L520.4,250.0 L521.4,256.3 L527.8,264.7 L528.3,268.3 L536.7,275.8 L540.6,275.9 L546.3,273.3 L547.6,277.2 L550.5,273.7 L552.2,275.6 L547.9,281.2 L547.3,285.0 L551.6,284.1 L557.0,286.3 L558.1,292.8 L592.0,332.3 L593.6,333.1 L680.1,339.3 L682.7,336.1 L699.5,360.1 L700.0,361.7 L682.0,436.2 L579.4,478.1 L480.7,495.3 L477.5,496.5 L447.4,512.8 L427.8,538.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>SA.SH</hasc>
+    <alt-name>Eastern Province</alt-name>
+    <woe-id>2346954</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA06</fips>
+    <postal-code>SH</postal-code>
+    <name>Ash Sharqiyah</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>50.1714</longitude>
+    <woe-name>Ash Sharqiyah</woe-name>
+    <latitude>22.9875</latitude>
+    <woe-label>Ash Sharqiyah, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>sa-sh</hc-key>
+    <hc-a2>SH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.BA" d="M235.6,422.7 L233.9,428.3 L235.4,431.9 L233.7,435.4 L228.8,438.9 L227.2,445.2 L223.6,452.7 L216.9,453.6 L215.1,455.9 L211.2,467.0 L209.1,468.0 L205.0,466.9 L198.2,460.1 L197.6,451.7 L198.1,448.0 L196.7,444.7 L193.0,442.9 L196.9,437.6 L203.8,435.9 L208.6,427.9 L208.0,421.7 L208.8,418.7 L211.7,417.2 L214.8,419.3 L218.3,424.3 L226.7,423.1 L231.4,420.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>SA.BA</hasc>
+    <alt-name>Baha</alt-name>
+    <woe-id>2346949</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA02</fips>
+    <postal-code>BA</postal-code>
+    <name>Al Bahah</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>41.4165</longitude>
+    <woe-name>Al Bahah</woe-name>
+    <latitude>20.1605</latitude>
+    <woe-label>Al Baha, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>sa-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.AS" d="M223.6,452.7 L227.2,445.2 L228.8,438.9 L233.7,435.4 L235.4,431.9 L233.9,428.3 L235.6,422.7 L239.6,431.1 L242.3,433.1 L247.4,430.8 L256.3,423.1 L267.2,416.5 L276.5,414.6 L282.7,415.2 L291.8,410.7 L296.7,415.2 L305.2,426.7 L301.9,434.1 L300.8,442.4 L306.6,451.2 L320.7,464.1 L320.2,470.7 L317.1,472.8 L315.2,476.6 L316.4,485.5 L314.2,489.4 L304.8,493.9 L301.5,499.3 L291.9,508.5 L290.0,512.9 L291.2,519.1 L290.0,530.5 L290.8,534.7 L289.8,539.5 L282.7,536.3 L279.4,537.8 L275.3,532.0 L272.6,531.0 L266.3,523.6 L265.1,519.1 L260.3,520.8 L258.4,523.6 L256.8,529.5 L254.6,531.0 L245.6,522.0 L238.6,521.2 L235.5,516.7 L230.3,515.9 L230.3,506.9 L225.0,506.8 L226.3,499.1 L224.1,491.9 L221.7,489.9 L215.0,489.4 L212.0,484.4 L212.4,475.9 L219.3,473.6 L227.8,472.9 L229.9,467.9 L228.1,461.0 L229.0,454.1 L227.2,452.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>SA.AS</hasc>
+    <alt-name>Asir|Aseer|Assyear</alt-name>
+    <woe-id>2346955</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA11</fips>
+    <postal-code>AS</postal-code>
+    <name>`Asir</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>42.9503</longitude>
+    <woe-name>`Asir</woe-name>
+    <latitude>19.3484</latitude>
+    <woe-label>Asir, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sa-as</hc-key>
+    <hc-a2>AS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA.MK" d="M291.8,410.7 L282.7,415.2 L276.5,414.6 L267.2,416.5 L256.3,423.1 L247.4,430.8 L242.3,433.1 L239.6,431.1 L235.6,422.7 L231.4,420.8 L226.7,423.1 L218.3,424.3 L214.8,419.3 L211.7,417.2 L208.8,418.7 L208.0,421.7 L208.6,427.9 L203.8,435.9 L196.9,437.6 L193.0,442.9 L196.7,444.7 L198.1,448.0 L197.6,451.7 L198.2,460.1 L205.0,466.9 L209.1,468.0 L211.2,467.0 L215.1,455.9 L216.9,453.6 L223.6,452.7 L227.2,452.2 L229.0,454.1 L228.1,461.0 L229.9,467.9 L227.8,472.9 L219.3,473.6 L212.4,475.9 L212.0,484.4 L215.0,489.4 L221.7,489.9 L224.1,491.9 L226.3,499.1 L225.0,506.8 L220.5,511.0 L218.9,513.7 L214.6,507.8 L213.6,501.1 L205.8,492.4 L207.3,487.5 L204.6,486.0 L203.5,482.9 L205.0,478.9 L201.3,476.7 L200.3,471.6 L197.5,468.7 L197.3,462.7 L191.8,459.3 L192.2,455.0 L190.0,452.2 L186.6,452.0 L183.5,447.9 L183.1,445.4 L174.5,439.5 L167.8,433.5 L162.8,434.1 L157.3,430.8 L153.5,426.6 L148.5,417.5 L149.0,416.0 L142.1,409.3 L138.1,399.4 L135.2,394.7 L138.4,391.6 L138.1,387.8 L135.9,385.2 L135.7,380.4 L131.5,372.4 L131.1,368.6 L133.6,369.5 L135.1,361.0 L138.8,355.5 L136.3,356.3 L136.9,349.7 L131.7,338.0 L133.5,337.7 L131.2,334.2 L128.5,333.4 L128.4,329.4 L125.5,324.0 L123.5,317.2 L132.2,316.5 L142.1,327.3 L149.8,327.4 L151.4,331.2 L161.3,328.9 L165.9,328.9 L166.7,335.0 L165.0,341.3 L170.1,344.1 L171.4,352.7 L175.3,353.1 L182.0,348.8 L190.7,350.1 L195.5,344.0 L205.3,336.7 L212.1,330.8 L216.1,329.4 L217.2,325.9 L212.3,322.6 L215.1,318.8 L225.5,314.0 L228.8,309.4 L228.1,302.3 L230.0,300.9 L236.4,301.6 L236.1,307.3 L240.3,312.1 L243.9,326.0 L248.1,336.4 L252.9,339.3 L267.0,340.3 L270.2,343.4 L269.3,349.3 L270.2,352.5 L274.7,354.2 L280.2,353.1 L286.1,355.2 L285.1,362.1 L286.7,374.3 L283.7,381.4 L284.1,387.5 L282.4,394.3 L283.0,397.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SA.MK</hasc>
+    <alt-name>La Meca|La Mecca|La Mecque|Makka|Makkah al-Mukarramah|Mecca|Meca|Mecka|Mekka</alt-name>
+    <woe-id>2346959</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SA14</fips>
+    <postal-code>MK</postal-code>
+    <name>Makkah</name>
+    <country>Saudi Arabia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>40.2542</longitude>
+    <woe-name>Makkah</woe-name>
+    <latitude>21.4348</latitude>
+    <woe-label>Makka, SA, Saudi Arabia</woe-label>
+    <type>Emirate|Mintaqah</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>sa-mk</hc-key>
+    <hc-a2>MK</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

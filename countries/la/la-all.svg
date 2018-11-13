@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Laos</title>
+<g id="admin1">
+
+<g id="LA">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Laos</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Laos</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>LAO</iso-a3>
+    <iso-a2>LA</iso-a2>
+    <woe-id>23424872</woe-id>
+    <continent>Asia</continent>
+    <hc-key>la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.OU" d="M129.9,108.7 L129.3,105.8 L134.0,103.9 L142.2,109.5 L148.1,111.3 L150.4,112.6 L153.9,117.4 L158.6,121.1 L163.8,120.7 L169.1,123.4 L170.9,125.6 L171.0,127.9 L173.4,131.1 L174.0,135.0 L172.7,138.2 L174.1,143.7 L172.8,149.1 L170.1,151.9 L164.8,152.6 L164.5,154.5 L160.9,163.1 L157.4,170.4 L157.1,172.8 L159.5,175.5 L158.3,183.5 L161.6,189.2 L161.0,192.0 L157.7,196.3 L155.1,196.5 L149.5,199.2 L145.3,198.7 L142.1,200.7 L138.0,205.1 L132.6,207.5 L123.2,208.7 L120.0,211.6 L116.3,213.2 L114.5,216.7 L111.6,217.3 L88.4,216.9 L86.6,216.4 L78.8,211.2 L77.1,211.4 L73.2,214.6 L70.3,213.7 L69.3,215.5 L66.6,213.3 L63.1,212.1 L53.7,210.4 L50.4,212.0 L48.9,208.3 L48.9,204.9 L55.2,202.8 L62.2,202.7 L65.6,201.1 L69.1,197.3 L69.9,194.5 L75.4,192.4 L79.9,195.8 L82.5,196.2 L84.9,195.0 L87.9,191.3 L88.3,182.2 L87.0,177.2 L98.5,176.4 L104.5,173.8 L107.2,169.0 L111.3,164.1 L113.6,157.7 L113.1,151.3 L109.7,147.8 L109.0,145.7 L101.6,143.0 L104.4,141.7 L107.3,136.3 L110.8,133.2 L115.0,132.0 L118.3,132.1 L118.2,126.5 L120.8,124.3 L126.8,121.8 L129.7,116.5 L130.8,110.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.OU</hasc>
+    <alt-name>Oudomsai|Oudomsay|Oudomxay|UdomXay</alt-name>
+    <woe-id>2346005</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA07</fips>
+    <postal-code>OU</postal-code>
+    <name>Oudômxai</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>101.548</longitude>
+    <woe-name>Oudômxai</woe-name>
+    <latitude>20.161</latitude>
+    <woe-label>Oudomxai, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.67</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>la-ou</hc-key>
+    <hc-a2>OU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.PH" d="M170.9,125.6 L169.1,123.4 L163.8,120.7 L158.6,121.1 L153.9,117.4 L150.4,112.6 L148.1,111.3 L142.2,109.5 L134.0,103.9 L133.4,100.8 L126.6,96.9 L126.2,94.2 L127.0,91.2 L127.5,83.1 L128.9,79.9 L128.0,76.6 L129.3,74.6 L132.5,73.9 L133.4,70.9 L129.8,69.0 L129.3,64.9 L127.8,63.3 L129.7,55.3 L127.8,53.6 L124.0,45.8 L121.3,45.0 L119.0,42.7 L118.0,37.8 L115.3,32.7 L116.3,27.9 L115.9,25.7 L112.7,21.4 L114.5,17.9 L118.1,18.0 L119.5,16.9 L121.0,11.9 L122.5,10.5 L123.5,3.9 L128.0,0.3 L131.2,0.0 L133.4,1.9 L135.8,7.4 L139.5,9.7 L141.4,5.6 L150.7,4.4 L155.3,5.6 L158.5,8.5 L161.1,16.2 L164.5,19.4 L166.4,22.5 L170.9,24.9 L176.3,30.3 L178.6,31.7 L181.0,36.2 L185.6,39.6 L184.3,41.7 L185.1,44.8 L191.3,47.6 L193.6,49.6 L196.1,55.5 L196.8,58.8 L196.4,63.6 L197.9,69.4 L203.2,69.2 L205.6,67.7 L208.3,62.9 L208.6,56.4 L211.4,56.3 L212.0,64.9 L214.2,65.8 L220.5,63.3 L221.6,66.2 L221.4,71.8 L222.4,76.5 L216.3,82.9 L212.7,88.6 L216.9,86.4 L217.9,87.6 L215.3,91.6 L214.5,98.4 L211.0,99.9 L208.9,102.4 L212.6,102.7 L215.4,104.8 L215.5,109.7 L218.2,111.8 L209.7,111.8 L208.9,113.3 L207.5,120.5 L198.0,124.7 L196.7,127.2 L194.1,126.7 L190.5,128.2 L186.1,133.5 L181.9,131.8 L180.6,129.2 L176.1,128.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.PH</hasc>
+    <alt-name>Fong Sali|Phongsaly</alt-name>
+    <woe-id>2346006</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA18</fips>
+    <postal-code>PH</postal-code>
+    <name>Phôngsali</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>102.245</longitude>
+    <woe-name>Phôngsali</woe-name>
+    <latitude>21.6153</latitude>
+    <woe-label>Phongsali, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>la-ph</hc-key>
+    <hc-a2>PH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.BL" d="M319.3,278.3 L322.6,281.2 L326.6,282.9 L330.2,287.5 L332.5,288.5 L336.4,288.7 L338.6,290.4 L341.2,294.4 L349.1,300.5 L352.2,301.1 L355.0,303.8 L362.2,305.3 L368.7,305.6 L371.6,308.8 L375.7,308.6 L381.5,311.6 L385.2,311.4 L387.4,315.1 L389.6,316.9 L389.1,319.6 L386.4,319.5 L384.3,323.4 L382.7,331.3 L383.5,333.5 L389.1,338.4 L388.7,342.2 L396.5,348.1 L395.2,353.9 L391.4,359.1 L388.9,363.8 L386.8,368.9 L383.8,372.2 L379.6,373.0 L370.9,371.7 L366.5,368.4 L363.4,367.9 L362.8,364.9 L360.4,362.0 L352.8,357.7 L346.7,353.0 L343.7,351.8 L341.5,349.5 L338.5,351.9 L332.4,353.1 L330.0,357.2 L326.9,366.7 L321.9,375.2 L320.6,379.4 L315.1,367.4 L309.3,361.6 L307.4,358.7 L304.1,350.5 L300.3,343.7 L298.9,342.1 L295.1,340.9 L291.9,342.3 L290.0,344.6 L287.8,344.6 L285.8,341.8 L280.8,339.7 L276.3,339.4 L270.8,337.1 L268.4,335.2 L263.9,334.0 L256.3,333.1 L251.3,331.8 L245.1,333.0 L241.5,335.0 L239.4,338.6 L239.9,340.2 L243.7,342.8 L242.4,345.1 L235.5,346.6 L232.8,349.5 L231.8,353.9 L227.8,356.2 L226.4,353.8 L223.8,357.1 L222.1,357.6 L220.8,355.4 L222.1,352.2 L220.8,347.0 L217.6,344.8 L213.7,343.4 L214.5,339.4 L213.7,335.3 L210.2,331.8 L207.5,325.7 L212.7,324.6 L227.9,325.7 L234.5,324.6 L243.8,324.2 L250.0,322.8 L255.4,319.7 L259.3,316.3 L260.2,309.9 L258.9,302.0 L261.8,299.5 L259.6,296.5 L259.2,292.1 L265.9,290.5 L269.1,293.7 L273.6,295.6 L279.6,299.8 L281.7,300.6 L290.2,296.6 L293.1,297.3 L302.0,302.0 L308.5,300.9 L313.9,295.0 L315.4,291.0 L318.8,288.1 L318.4,282.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.BL</hasc>
+    <alt-name>Bolikhamsai|Bolikhamxay|Borikhamzay|Borikane|Borikhan|Borikhane</alt-name>
+    <woe-id>20070163</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA00</fips>
+    <postal-code>BL</postal-code>
+    <name>Bolikhamxai</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>104.039</longitude>
+    <woe-name>Bolikhamxai</woe-name>
+    <latitude>18.538</latitude>
+    <woe-label>Bolikhamxai, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>la-bl</hc-key>
+    <hc-a2>BL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.KH" d="M356.7,454.1 L356.6,447.5 L361.6,435.5 L362.3,430.0 L362.2,419.2 L360.3,415.1 L357.5,412.9 L354.2,407.6 L348.1,403.7 L336.1,397.4 L331.5,392.5 L330.1,389.3 L326.1,382.8 L320.6,379.4 L321.9,375.2 L326.9,366.7 L330.0,357.2 L332.4,353.1 L338.5,351.9 L341.5,349.5 L343.7,351.8 L346.7,353.0 L352.8,357.7 L360.4,362.0 L362.8,364.9 L363.4,367.9 L366.5,368.4 L370.9,371.7 L379.6,373.0 L383.8,372.2 L386.8,368.9 L388.9,363.8 L391.4,359.1 L395.2,353.9 L396.5,348.1 L399.2,347.6 L399.4,352.3 L401.5,354.4 L405.1,356.0 L407.0,352.4 L411.6,352.5 L413.2,354.2 L413.5,357.8 L419.4,364.2 L420.5,367.5 L423.7,371.0 L422.7,377.2 L423.6,380.0 L426.6,382.7 L433.8,395.4 L437.9,397.2 L442.5,400.7 L447.6,407.3 L456.1,417.2 L469.1,428.3 L471.9,429.3 L474.9,425.7 L476.8,426.0 L477.1,428.5 L478.9,430.7 L478.6,434.8 L481.0,438.7 L484.8,442.2 L486.3,447.9 L481.4,448.4 L472.4,445.6 L468.9,442.0 L464.5,440.5 L462.0,444.5 L454.2,445.7 L446.0,445.2 L439.7,443.2 L433.5,440.5 L427.7,440.4 L426.1,445.9 L422.9,445.1 L414.4,441.3 L405.6,441.6 L403.5,443.9 L400.5,445.2 L398.6,444.5 L394.3,445.0 L389.4,440.4 L383.3,443.4 L380.7,443.1 L378.9,441.4 L374.9,442.4 L372.6,441.5 L369.7,443.7 L365.8,442.5 L364.0,443.3 L363.8,445.6 L360.5,448.5 L363.3,450.3 L364.4,455.0 L363.4,457.0 L359.0,456.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LA.KH</hasc>
+    <alt-name>Khammouane|Khammuan</alt-name>
+    <woe-id>20070161</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA15</fips>
+    <postal-code>KH</postal-code>
+    <name>Khammouan</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>Northeastern</region>
+    <longitude>105.343</longitude>
+    <woe-name>Khammouan</woe-name>
+    <latitude>17.6151</latitude>
+    <woe-label>Khammouan, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>la-kh</hc-key>
+    <hc-a2>KH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.AT" d="M574.2,607.3 L569.7,608.9 L571.1,614.5 L578.7,620.1 L573.5,626.9 L575.0,630.6 L574.1,631.6 L576.1,633.8 L572.3,639.7 L570.6,640.9 L567.7,648.1 L562.7,646.7 L559.0,643.9 L557.6,643.8 L553.4,648.2 L551.6,652.4 L549.2,652.2 L547.5,655.8 L542.9,659.4 L541.2,660.0 L537.3,657.2 L530.7,666.4 L525.9,665.4 L522.0,667.8 L518.6,666.5 L516.5,664.5 L511.7,657.9 L503.6,654.9 L502.1,652.6 L498.5,650.5 L497.7,646.9 L496.2,644.9 L493.0,647.1 L494.1,650.4 L491.0,650.0 L490.9,652.4 L488.9,655.1 L482.6,656.5 L483.5,654.4 L482.7,650.1 L478.2,645.2 L476.5,638.7 L472.3,635.9 L469.5,631.8 L469.3,625.9 L472.5,620.8 L482.5,611.3 L486.8,612.3 L489.6,615.4 L493.6,613.1 L495.2,614.7 L494.1,619.3 L493.9,625.7 L497.6,629.0 L503.9,630.4 L505.5,629.3 L510.3,628.9 L511.6,624.7 L515.3,620.8 L520.3,620.0 L519.0,616.8 L520.5,614.3 L519.6,606.1 L515.6,601.4 L512.3,602.2 L509.5,600.3 L511.2,599.5 L514.1,593.5 L517.8,590.8 L522.9,590.9 L525.0,592.3 L530.0,592.7 L536.0,591.1 L538.2,591.6 L542.0,589.2 L547.6,588.7 L553.1,590.5 L557.5,595.5 L564.2,598.2 L567.3,595.7 L570.8,596.2 L575.5,604.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LA.AT</hasc>
+    <alt-name>Attopu|Atpu|Attapeu|Attopeu|Muang Mai</alt-name>
+    <woe-id>20070159</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA01</fips>
+    <postal-code>AT</postal-code>
+    <name>Attapu</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>106.866</longitude>
+    <woe-name>Attapu</woe-name>
+    <latitude>14.7848</latitude>
+    <woe-label>Attapu, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.70</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>la-at</hc-key>
+    <hc-a2>AT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.BK" d="M87.0,177.2 L88.3,182.2 L87.9,191.3 L84.9,195.0 L82.5,196.2 L79.9,195.8 L75.4,192.4 L69.9,194.5 L69.1,197.3 L65.6,201.1 L62.2,202.7 L55.2,202.8 L48.9,204.9 L48.9,208.3 L50.4,212.0 L43.7,216.1 L36.1,217.1 L33.7,218.5 L28.5,219.0 L22.8,217.5 L24.7,214.0 L28.1,211.9 L29.6,206.5 L33.8,195.6 L34.4,188.2 L32.9,188.8 L27.8,185.3 L24.9,180.4 L20.7,170.6 L19.3,168.8 L16.4,168.0 L13.6,168.5 L9.6,171.9 L8.7,174.8 L5.4,176.4 L5.3,179.6 L2.8,180.7 L0.0,177.0 L0.4,170.5 L2.1,168.4 L4.6,155.5 L7.2,148.2 L9.8,143.5 L16.0,137.3 L19.1,136.5 L21.8,133.1 L23.3,132.9 L33.2,135.2 L37.5,134.4 L40.5,132.7 L42.5,135.8 L46.0,136.9 L48.7,139.4 L49.9,143.1 L54.0,147.6 L56.5,153.2 L57.0,160.9 L59.4,161.9 L65.1,161.4 L67.2,163.1 L70.0,168.6 L70.1,173.3 L72.9,175.8 L79.2,177.8 L84.6,176.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.BK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070156</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA22</fips>
+    <postal-code>BK</postal-code>
+    <name>Bokeo</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>100.672</longitude>
+    <woe-name>Bokeo</woe-name>
+    <latitude>20.3044</latitude>
+    <woe-label>Bokeo, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>la-bk</hc-key>
+    <hc-a2>BK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.XE" d="M544.3,514.9 L547.0,517.1 L552.4,519.3 L557.2,524.6 L559.4,525.2 L566.1,523.7 L568.0,524.1 L568.7,528.8 L564.5,534.9 L562.2,536.9 L557.8,538.0 L552.4,541.6 L549.5,541.1 L547.7,542.2 L545.7,546.6 L546.6,549.5 L550.9,552.0 L552.1,554.0 L553.6,559.8 L559.0,563.2 L563.3,570.7 L569.5,569.6 L572.6,571.8 L573.2,576.8 L574.7,577.6 L579.4,577.4 L580.0,581.5 L581.5,583.9 L586.2,587.8 L586.2,594.1 L583.6,595.6 L583.5,598.3 L580.7,602.4 L580.2,607.0 L574.2,607.3 L575.5,604.0 L570.8,596.2 L567.3,595.7 L564.2,598.2 L557.5,595.5 L553.1,590.5 L547.6,588.7 L542.0,589.2 L538.2,591.6 L536.0,591.1 L530.0,592.7 L525.0,592.3 L522.9,590.9 L517.8,590.8 L514.1,593.5 L511.2,599.5 L509.5,600.3 L508.5,600.4 L508.0,593.5 L499.7,587.0 L492.5,585.2 L488.8,580.7 L484.8,579.2 L480.3,577.6 L479.0,573.7 L481.1,570.8 L483.0,570.0 L489.3,571.7 L491.7,568.5 L494.4,568.1 L502.0,568.5 L504.8,566.6 L508.8,567.2 L509.7,566.1 L509.3,562.2 L510.3,560.8 L508.3,556.1 L510.3,553.3 L506.8,550.4 L510.3,542.6 L513.0,538.6 L518.4,533.2 L517.5,530.8 L519.4,526.1 L523.1,527.2 L528.6,527.7 L530.3,526.3 L532.5,526.9 L539.1,523.7 L540.1,520.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.XE</hasc>
+    <alt-name>Sekong</alt-name>
+    <woe-id>20070158</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA26</fips>
+    <postal-code>XE</postal-code>
+    <name>Xékong</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>106.982</longitude>
+    <woe-name>Xékong</woe-name>
+    <latitude>15.6414</latitude>
+    <woe-label>Xekong, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>la-xe</hc-key>
+    <hc-a2>XE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.LM" d="M87.0,177.2 L84.6,176.6 L79.2,177.8 L72.9,175.8 L70.1,173.3 L70.0,168.6 L67.2,163.1 L65.1,161.4 L59.4,161.9 L57.0,160.9 L56.5,153.2 L54.0,147.6 L49.9,143.1 L48.7,139.4 L46.0,136.9 L42.5,135.8 L40.5,132.7 L44.0,129.8 L41.8,128.8 L34.9,129.8 L33.5,128.7 L34.8,122.1 L36.9,119.6 L36.0,117.3 L40.9,116.1 L43.3,114.1 L47.4,106.9 L50.5,94.5 L55.6,95.8 L60.2,94.5 L63.7,91.3 L72.0,87.4 L82.8,78.9 L84.1,75.7 L86.2,77.2 L86.2,79.6 L84.6,86.2 L84.8,87.9 L89.5,91.3 L87.3,95.2 L88.3,96.7 L87.3,100.9 L89.9,105.2 L92.3,106.8 L95.2,106.0 L100.5,103.0 L109.2,101.6 L115.9,103.2 L115.3,106.4 L116.8,107.4 L119.8,106.2 L122.4,107.2 L123.7,109.8 L126.0,110.8 L129.9,108.7 L130.8,110.3 L129.7,116.5 L126.8,121.8 L120.8,124.3 L118.2,126.5 L118.3,132.1 L115.0,132.0 L110.8,133.2 L107.3,136.3 L104.4,141.7 L101.6,143.0 L109.0,145.7 L109.7,147.8 L113.1,151.3 L113.6,157.7 L111.3,164.1 L107.2,169.0 L104.5,173.8 L98.5,176.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LA.LM</hasc>
+    <alt-name>Haut-Mekong|Luangnamtha|Muong Luang Namtha|Namtha|Hiuakhong|Houa Kh</alt-name>
+    <woe-id>2346003</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA16</fips>
+    <postal-code>LM</postal-code>
+    <name>Louang Namtha</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>101.148</longitude>
+    <woe-name>Louang Namtha</woe-name>
+    <latitude>20.9099</latitude>
+    <woe-label>Louang Namtha Province, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>la-lm</hc-key>
+    <hc-a2>LM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.XA" d="M50.4,212.0 L53.7,210.4 L63.1,212.1 L66.6,213.3 L69.3,215.5 L70.3,213.7 L73.2,214.6 L77.1,211.4 L78.8,211.2 L86.6,216.4 L88.4,216.9 L111.6,217.3 L114.5,216.7 L116.3,213.2 L120.0,211.6 L123.2,208.7 L128.0,215.2 L128.1,219.0 L125.9,224.2 L125.9,229.2 L126.7,231.2 L131.1,231.2 L130.9,245.5 L132.8,248.8 L137.7,252.0 L134.6,255.4 L131.2,262.0 L131.6,268.3 L129.8,280.6 L129.2,283.8 L130.1,289.5 L129.0,294.0 L132.6,298.8 L133.4,301.6 L130.4,308.8 L129.2,315.5 L125.5,321.3 L123.7,325.1 L121.0,327.6 L117.3,327.5 L113.7,332.8 L110.8,334.4 L110.2,336.8 L106.9,340.3 L103.8,341.0 L98.3,348.0 L96.9,350.7 L96.5,354.0 L98.6,358.7 L98.9,364.5 L98.1,371.3 L100.5,375.6 L103.6,375.5 L104.6,377.0 L107.9,375.9 L106.7,379.8 L107.4,380.9 L108.2,382.6 L104.0,384.7 L101.2,388.4 L100.3,385.9 L96.1,387.2 L94.6,391.1 L92.5,391.6 L83.7,398.5 L80.1,404.0 L77.3,405.0 L74.6,408.9 L68.1,406.0 L62.9,401.7 L56.7,400.4 L55.5,397.6 L59.3,392.9 L61.6,387.1 L62.1,381.3 L64.4,379.7 L65.6,373.4 L70.2,370.3 L73.9,364.1 L78.1,360.8 L76.4,355.0 L77.9,348.5 L75.6,345.0 L75.8,341.3 L77.8,338.8 L72.2,335.3 L68.3,330.0 L72.1,323.4 L78.2,319.8 L79.3,315.7 L83.5,312.9 L85.0,310.4 L82.8,307.2 L82.7,304.4 L84.3,300.4 L84.0,295.5 L84.8,292.5 L87.6,289.2 L88.9,285.4 L92.3,282.3 L91.7,279.8 L86.3,274.4 L85.0,272.1 L85.2,265.4 L83.2,256.2 L81.4,255.5 L81.5,249.7 L82.7,246.8 L86.3,245.3 L87.8,241.2 L87.0,237.4 L84.1,235.7 L77.7,237.6 L73.3,236.5 L70.0,234.3 L66.1,233.4 L58.4,233.2 L53.2,239.3 L48.8,243.6 L45.9,241.1 L39.7,238.5 L37.6,238.6 L34.4,242.2 L28.7,240.5 L26.4,238.6 L26.0,234.7 L23.3,230.6 L22.5,225.2 L20.8,222.5 L20.8,219.9 L22.8,217.5 L28.5,219.0 L33.7,218.5 L36.1,217.1 L43.7,216.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.XA</hasc>
+    <alt-name>Sayabouri|Sayaboury|Xaignabouli|Xayabouri|Xayabury</alt-name>
+    <woe-id>2346010</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA13</fips>
+    <postal-code>XA</postal-code>
+    <name>Xaignabouri</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>101.143</longitude>
+    <woe-name>Xaignabouri</woe-name>
+    <latitude>17.7502</latitude>
+    <woe-label>Xiagnabouli, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.75</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>la-xa</hc-key>
+    <hc-a2>XA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.CH" d="M482.6,656.5 L479.2,656.6 L473.9,653.2 L471.9,660.6 L467.9,663.2 L460.8,662.8 L460.1,664.8 L453.7,663.4 L453.3,666.2 L456.1,669.6 L456.8,674.8 L461.8,678.9 L463.9,683.8 L467.3,687.2 L467.1,690.2 L462.4,694.7 L462.5,698.5 L459.8,700.0 L453.8,698.9 L449.9,699.9 L445.8,698.3 L439.0,692.4 L435.5,686.2 L433.3,685.0 L429.6,685.1 L426.7,684.0 L425.5,684.9 L423.7,682.2 L421.0,682.0 L418.8,679.9 L415.4,682.1 L410.0,684.5 L403.3,684.4 L400.6,680.9 L396.9,678.5 L391.4,669.7 L391.1,665.2 L397.8,663.7 L399.3,661.3 L403.0,661.9 L405.6,659.6 L409.4,658.5 L411.4,654.7 L415.7,649.6 L416.9,645.0 L415.7,639.6 L416.5,633.4 L415.2,629.4 L416.2,626.0 L417.6,625.5 L417.4,621.9 L420.0,619.9 L418.7,617.4 L423.4,612.7 L420.2,611.6 L417.3,606.5 L412.2,604.3 L411.5,601.1 L412.4,597.7 L416.3,593.2 L421.0,589.8 L420.5,585.6 L417.5,585.9 L414.6,584.8 L414.8,581.5 L420.1,579.3 L423.2,577.2 L426.5,575.1 L432.4,576.1 L435.9,574.7 L439.1,576.8 L440.7,575.9 L447.2,575.9 L452.0,574.7 L453.8,575.7 L461.1,574.5 L463.4,578.3 L461.3,582.4 L466.0,587.5 L468.1,588.4 L471.9,585.9 L475.4,582.5 L479.5,580.4 L484.8,579.2 L488.8,580.7 L492.5,585.2 L499.7,587.0 L508.0,593.5 L508.5,600.4 L509.5,600.3 L512.3,602.2 L515.6,601.4 L519.6,606.1 L520.5,614.3 L519.0,616.8 L520.3,620.0 L515.3,620.8 L511.6,624.7 L510.3,628.9 L505.5,629.3 L503.9,630.4 L497.6,629.0 L493.9,625.7 L494.1,619.3 L495.2,614.7 L493.6,613.1 L489.6,615.4 L486.8,612.3 L482.5,611.3 L472.5,620.8 L469.3,625.9 L469.5,631.8 L472.3,635.9 L476.5,638.7 L478.2,645.2 L482.7,650.1 L483.5,654.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LA.CH</hasc>
+    <alt-name>Bassac|Champassack|Champassak|Champassac|Khong|Pakse</alt-name>
+    <woe-id>20070160</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA02</fips>
+    <postal-code>CH</postal-code>
+    <name>Champasak</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>106.003</longitude>
+    <woe-name>Champasak</woe-name>
+    <latitude>14.1093</latitude>
+    <woe-label>Champasak, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>la-ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.SL" d="M513.9,495.4 L514.5,493.4 L517.5,491.2 L519.4,487.0 L521.3,487.0 L522.7,489.1 L522.4,496.6 L529.6,502.7 L531.0,505.7 L537.7,506.0 L542.7,509.2 L544.3,514.9 L540.1,520.7 L539.1,523.7 L532.5,526.9 L530.3,526.3 L528.6,527.7 L523.1,527.2 L519.4,526.1 L517.5,530.8 L518.4,533.2 L513.0,538.6 L510.3,542.6 L506.8,550.4 L510.3,553.3 L508.3,556.1 L510.3,560.8 L509.3,562.2 L509.7,566.1 L508.8,567.2 L504.8,566.6 L502.0,568.5 L494.4,568.1 L491.7,568.5 L489.3,571.7 L483.0,570.0 L481.1,570.8 L479.0,573.7 L480.3,577.6 L484.8,579.2 L479.5,580.4 L475.4,582.5 L471.9,585.9 L468.1,588.4 L466.0,587.5 L461.3,582.4 L463.4,578.3 L461.1,574.5 L453.8,575.7 L452.0,574.7 L447.2,575.9 L440.7,575.9 L439.1,576.8 L435.9,574.7 L432.4,576.1 L426.5,575.1 L423.2,577.2 L424.6,574.8 L425.1,569.6 L427.0,564.6 L427.8,560.4 L427.0,556.5 L424.8,553.3 L421.3,551.1 L417.9,549.9 L411.8,549.8 L408.9,547.0 L404.9,537.3 L405.0,534.4 L409.8,530.3 L415.8,530.9 L420.5,533.1 L425.7,534.6 L432.3,537.8 L434.7,537.8 L438.7,540.0 L442.8,539.4 L446.8,540.4 L453.8,534.0 L460.6,534.5 L466.2,531.3 L465.2,527.2 L464.6,518.9 L467.9,516.2 L470.4,516.0 L476.3,518.0 L479.0,522.3 L479.8,518.9 L485.5,519.3 L493.0,517.5 L497.0,515.2 L500.8,516.3 L504.6,514.6 L505.6,512.6 L505.2,508.0 L508.5,503.1 L512.3,504.0 L516.1,502.3 L517.4,497.8 L516.4,495.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LA.SL</hasc>
+    <alt-name>Salavan|Salavane|Saravane</alt-name>
+    <woe-id>20070157</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA19</fips>
+    <postal-code>SL</postal-code>
+    <name>Saravan</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>106.248</longitude>
+    <woe-name>Saravan</woe-name>
+    <latitude>15.7614</latitude>
+    <woe-label>Salavan, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>la-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.SV" d="M409.8,530.3 L408.3,529.2 L399.2,526.9 L395.1,526.6 L382.7,522.2 L379.8,519.3 L378.8,515.2 L378.6,509.8 L377.7,508.3 L369.3,502.1 L366.2,495.1 L363.9,492.8 L359.5,490.4 L357.3,487.8 L357.1,480.8 L359.1,472.6 L357.5,465.9 L358.2,460.2 L356.7,454.1 L359.0,456.5 L363.4,457.0 L364.4,455.0 L363.3,450.3 L360.5,448.5 L363.8,445.6 L364.0,443.3 L365.8,442.5 L369.7,443.7 L372.6,441.5 L374.9,442.4 L378.9,441.4 L380.7,443.1 L383.3,443.4 L389.4,440.4 L394.3,445.0 L398.6,444.5 L400.5,445.2 L403.5,443.9 L405.6,441.6 L414.4,441.3 L422.9,445.1 L426.1,445.9 L427.7,440.4 L433.5,440.5 L439.7,443.2 L446.0,445.2 L454.2,445.7 L462.0,444.5 L464.5,440.5 L468.9,442.0 L472.4,445.6 L481.4,448.4 L486.3,447.9 L487.6,450.0 L493.6,452.0 L495.8,449.9 L496.5,451.2 L496.8,474.8 L498.0,478.5 L499.7,480.4 L505.1,482.6 L505.1,487.8 L506.3,492.0 L509.3,495.4 L513.9,495.4 L516.4,495.8 L517.4,497.8 L516.1,502.3 L512.3,504.0 L508.5,503.1 L505.2,508.0 L505.6,512.6 L504.6,514.6 L500.8,516.3 L497.0,515.2 L493.0,517.5 L485.5,519.3 L479.8,518.9 L479.0,522.3 L476.3,518.0 L470.4,516.0 L467.9,516.2 L464.6,518.9 L465.2,527.2 L466.2,531.3 L460.6,534.5 L453.8,534.0 L446.8,540.4 L442.8,539.4 L438.7,540.0 L434.7,537.8 L432.3,537.8 L425.7,534.6 L420.5,533.1 L415.8,530.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.SV</hasc>
+    <alt-name>Svannakhet</alt-name>
+    <woe-id>2346008</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA20</fips>
+    <postal-code>SV</postal-code>
+    <name>Savannakhét</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>105.771</longitude>
+    <woe-name>Savannakhét</woe-name>
+    <latitude>16.4937</latitude>
+    <woe-label>Savannahkhet, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>la-sv</hc-key>
+    <hc-a2>SV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.VT" d="M213.7,343.4 L217.6,344.8 L220.8,347.0 L222.1,352.2 L220.8,355.4 L222.1,357.6 L223.8,357.1 L226.4,353.8 L227.8,356.2 L226.0,359.8 L226.6,364.5 L223.9,368.2 L221.2,368.3 L218.8,366.7 L216.1,366.6 L209.4,369.5 L203.2,373.4 L199.2,376.7 L196.4,377.4 L194.9,379.3 L196.0,382.5 L194.3,382.3 L189.3,379.2 L190.6,373.9 L189.7,370.6 L187.2,369.3 L180.6,369.2 L175.1,367.3 L171.6,363.6 L167.0,362.5 L161.4,356.5 L158.2,354.2 L156.7,350.2 L155.3,349.4 L149.4,349.0 L147.6,350.7 L146.5,348.8 L146.4,344.6 L148.1,338.1 L146.9,334.1 L147.6,332.4 L151.5,334.1 L154.9,331.7 L159.7,331.3 L162.5,334.8 L163.3,337.5 L165.9,339.3 L172.4,341.6 L181.5,342.7 L184.9,344.9 L185.2,347.3 L191.5,348.7 L195.1,345.6 L198.2,345.3 L203.2,343.3 L209.6,342.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.VT</hasc>
+    <alt-name>Vientiane|Kamphaeng Nakhon Viang Chan</alt-name>
+    <woe-id>20070162</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA00</fips>
+    <postal-code>VT</postal-code>
+    <name>Vientiane [prefecture]</name>
+    <country>Laos</country>
+    <type-en>Municipality|Prefecture</type-en>
+    <region>NULL</region>
+    <longitude>102.563</longitude>
+    <woe-name>Vientiane [prefecture]</woe-name>
+    <latitude>18.103</latitude>
+    <woe-label>Viangchan, LA, Laos</woe-label>
+    <type>Kampeng Nakhon</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>la-vt</hc-key>
+    <hc-a2>VT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.VI" d="M213.7,343.4 L209.6,342.1 L203.2,343.3 L198.2,345.3 L195.1,345.6 L191.5,348.7 L185.2,347.3 L184.9,344.9 L181.5,342.7 L172.4,341.6 L165.9,339.3 L163.3,337.5 L162.5,334.8 L159.7,331.3 L154.9,331.7 L151.5,334.1 L147.6,332.4 L146.9,334.1 L148.1,338.1 L146.4,344.6 L146.5,348.8 L147.6,350.7 L135.7,363.2 L134.1,363.7 L126.8,360.1 L124.9,362.7 L121.8,373.1 L114.6,374.4 L111.7,377.6 L110.0,376.5 L108.8,380.4 L107.4,380.9 L106.7,379.8 L107.9,375.9 L104.6,377.0 L103.6,375.5 L100.5,375.6 L98.1,371.3 L98.9,364.5 L98.6,358.7 L96.5,354.0 L96.9,350.7 L98.3,348.0 L103.8,341.0 L106.9,340.3 L110.2,336.8 L110.8,334.4 L113.7,332.8 L117.3,327.5 L121.0,327.6 L123.7,325.1 L125.5,321.3 L129.2,315.5 L130.4,308.8 L133.4,301.6 L132.6,298.8 L129.0,294.0 L130.1,289.5 L129.2,283.8 L129.8,280.6 L135.1,276.2 L137.4,275.8 L141.3,272.4 L143.7,267.6 L144.5,264.2 L151.2,258.8 L152.4,253.8 L154.8,252.4 L159.6,251.9 L163.8,254.7 L166.5,254.1 L168.8,255.8 L173.6,253.7 L176.0,255.5 L180.4,255.5 L179.4,258.2 L182.5,259.4 L184.1,262.9 L189.2,267.4 L194.9,264.7 L199.2,263.5 L202.5,260.2 L203.5,262.2 L208.3,264.4 L210.6,267.0 L214.7,269.5 L218.6,269.4 L226.8,271.7 L229.1,274.0 L242.3,276.3 L248.9,274.6 L255.7,276.4 L256.3,274.6 L261.2,274.3 L266.9,279.5 L272.6,281.0 L277.6,280.7 L283.1,283.4 L288.4,284.1 L290.3,285.9 L290.9,291.2 L290.2,296.6 L281.7,300.6 L279.6,299.8 L273.6,295.6 L269.1,293.7 L265.9,290.5 L259.2,292.1 L259.6,296.5 L261.8,299.5 L258.9,302.0 L260.2,309.9 L259.3,316.3 L255.4,319.7 L250.0,322.8 L243.8,324.2 L234.5,324.6 L227.9,325.7 L212.7,324.6 L207.5,325.7 L210.2,331.8 L213.7,335.3 L214.5,339.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.VI</hasc>
+    <alt-name>Viangchan</alt-name>
+    <woe-id>20070164</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA27</fips>
+    <postal-code>VI</postal-code>
+    <name>Vientiane</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>102.156</longitude>
+    <woe-name>Vientiane</woe-name>
+    <latitude>18.9186</latitude>
+    <woe-label>Viangchan, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>la-vi</hc-key>
+    <hc-a2>VI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.XI" d="M290.2,296.6 L290.9,291.2 L290.3,285.9 L288.4,284.1 L283.1,283.4 L277.6,280.7 L272.6,281.0 L266.9,279.5 L261.2,274.3 L256.3,274.6 L255.7,276.4 L248.9,274.6 L242.3,276.3 L229.1,274.0 L226.8,271.7 L218.6,269.4 L214.7,269.5 L210.6,267.0 L208.3,264.4 L203.5,262.2 L202.5,260.2 L200.9,255.5 L197.0,251.4 L196.1,247.2 L196.9,242.9 L200.5,240.3 L203.3,237.1 L207.9,234.0 L212.5,229.3 L212.2,227.4 L218.2,227.0 L218.9,219.4 L226.9,215.0 L230.8,214.8 L233.3,211.7 L240.3,210.5 L243.9,213.4 L247.7,211.9 L251.0,214.1 L258.8,215.8 L262.5,213.9 L269.4,212.3 L271.2,210.1 L275.5,210.9 L276.2,205.8 L279.8,203.2 L283.9,203.0 L288.0,205.5 L291.0,209.4 L291.3,213.3 L289.9,217.8 L291.9,218.8 L294.0,222.1 L295.8,223.0 L302.5,221.3 L305.9,216.4 L308.4,218.1 L311.3,218.4 L314.3,216.6 L315.4,213.4 L315.7,217.3 L313.9,222.8 L314.9,230.0 L310.0,230.8 L307.9,233.5 L306.3,233.7 L301.2,231.3 L299.6,231.3 L299.3,233.6 L300.8,237.9 L304.9,241.3 L306.3,247.4 L304.1,248.4 L302.4,253.1 L295.7,254.9 L293.3,258.0 L289.3,260.0 L287.6,262.2 L291.0,262.7 L293.0,265.7 L297.2,268.4 L302.1,268.0 L310.7,271.9 L314.5,274.8 L315.5,278.6 L319.3,278.3 L318.4,282.4 L318.8,288.1 L315.4,291.0 L313.9,295.0 L308.5,300.9 L302.0,302.0 L293.1,297.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LA.XI</hasc>
+    <alt-name>Xiang Khouang|Xieng Khouang|Xiengkhuang|Xieng Khwang</alt-name>
+    <woe-id>2346011</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA14</fips>
+    <postal-code>XI</postal-code>
+    <name>Xiangkhoang</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>103.46</longitude>
+    <woe-name>Xiangkhoang</woe-name>
+    <latitude>19.5113</latitude>
+    <woe-label>Xiangkhoang, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>la-xi</hc-key>
+    <hc-a2>XI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.HO" d="M253.3,140.4 L256.2,138.3 L258.2,139.6 L261.6,144.2 L267.7,145.5 L274.3,151.7 L278.1,150.6 L277.6,146.5 L281.5,144.3 L281.1,141.8 L282.9,137.4 L287.5,136.0 L289.3,134.6 L296.4,132.1 L300.9,131.5 L304.4,127.4 L307.2,127.2 L310.2,128.9 L314.9,129.8 L317.0,132.9 L320.0,132.4 L322.6,133.9 L325.8,138.9 L329.8,142.8 L334.6,143.4 L337.7,148.5 L345.9,151.9 L346.4,155.2 L341.5,162.0 L337.9,163.9 L334.0,162.1 L332.4,165.2 L327.9,168.2 L327.4,169.8 L333.0,172.1 L344.0,171.9 L346.8,174.9 L352.0,177.9 L352.1,182.2 L350.2,182.8 L350.2,188.3 L352.8,189.6 L359.5,187.8 L362.6,187.6 L369.4,191.3 L369.2,194.7 L373.2,198.1 L372.2,200.1 L372.9,204.8 L371.6,206.9 L366.8,207.0 L365.6,209.2 L359.6,213.1 L358.1,216.9 L362.4,217.9 L361.5,222.6 L356.2,226.3 L352.8,227.1 L349.9,230.1 L347.5,236.6 L338.4,237.8 L331.5,233.9 L328.8,231.1 L325.8,231.3 L322.2,233.6 L320.8,231.2 L317.1,229.4 L314.9,230.0 L313.9,222.8 L315.7,217.3 L315.4,213.4 L314.3,216.6 L311.3,218.4 L308.4,218.1 L305.9,216.4 L302.5,221.3 L295.8,223.0 L294.0,222.1 L291.9,218.8 L289.9,217.8 L291.3,213.3 L291.0,209.4 L288.0,205.5 L283.9,203.0 L279.8,203.2 L276.2,205.8 L275.5,210.9 L271.2,210.1 L269.4,212.3 L262.5,213.9 L258.8,215.8 L251.0,214.1 L247.7,211.9 L243.9,213.4 L240.3,210.5 L233.3,211.7 L233.0,208.2 L233.6,199.4 L235.8,196.7 L231.7,190.4 L234.3,186.7 L241.1,179.5 L241.0,173.4 L242.0,171.2 L239.2,170.7 L236.8,166.2 L238.6,164.1 L239.8,159.4 L239.4,154.5 L240.8,147.4 L244.6,145.1 L249.0,143.8 L253.0,141.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>LA.HO</hasc>
+    <alt-name>Hua Phan|Huaphanh|Sam Neua|Xam Nua</alt-name>
+    <woe-id>2346001</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA03</fips>
+    <postal-code>HO</postal-code>
+    <name>Houaphan</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>104.039</longitude>
+    <woe-name>Houaphan</woe-name>
+    <latitude>20.3729</latitude>
+    <woe-label>Houaphan, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>la-ho</hc-key>
+    <hc-a2>HO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA.LP" d="M233.3,211.7 L230.8,214.8 L226.9,215.0 L218.9,219.4 L218.2,227.0 L212.2,227.4 L212.5,229.3 L207.9,234.0 L203.3,237.1 L200.5,240.3 L196.9,242.9 L196.1,247.2 L197.0,251.4 L200.9,255.5 L202.5,260.2 L199.2,263.5 L194.9,264.7 L189.2,267.4 L184.1,262.9 L182.5,259.4 L179.4,258.2 L180.4,255.5 L176.0,255.5 L173.6,253.7 L168.8,255.8 L166.5,254.1 L163.8,254.7 L159.6,251.9 L154.8,252.4 L152.4,253.8 L151.2,258.8 L144.5,264.2 L143.7,267.6 L141.3,272.4 L137.4,275.8 L135.1,276.2 L129.8,280.6 L131.6,268.3 L131.2,262.0 L134.6,255.4 L137.7,252.0 L132.8,248.8 L130.9,245.5 L131.1,231.2 L126.7,231.2 L125.9,229.2 L125.9,224.2 L128.1,219.0 L128.0,215.2 L123.2,208.7 L132.6,207.5 L138.0,205.1 L142.1,200.7 L145.3,198.7 L149.5,199.2 L155.1,196.5 L157.7,196.3 L161.0,192.0 L161.6,189.2 L158.3,183.5 L159.5,175.5 L157.1,172.8 L157.4,170.4 L160.9,163.1 L164.5,154.5 L164.8,152.6 L170.1,151.9 L172.8,149.1 L174.1,143.7 L172.7,138.2 L174.0,135.0 L173.4,131.1 L171.0,127.9 L170.9,125.6 L176.1,128.6 L180.6,129.2 L181.9,131.8 L186.1,133.5 L190.5,128.2 L194.1,126.7 L196.7,127.2 L198.0,124.7 L207.5,120.5 L208.9,113.3 L209.7,111.8 L218.2,111.8 L220.1,117.7 L223.7,118.7 L224.9,120.0 L228.9,129.0 L232.4,134.1 L234.8,136.0 L240.3,137.8 L242.5,137.3 L248.0,140.1 L253.3,140.4 L253.0,141.7 L249.0,143.8 L244.6,145.1 L240.8,147.4 L239.4,154.5 L239.8,159.4 L238.6,164.1 L236.8,166.2 L239.2,170.7 L242.0,171.2 L241.0,173.4 L241.1,179.5 L234.3,186.7 L231.7,190.4 L235.8,196.7 L233.6,199.4 L233.0,208.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LA.LP</hasc>
+    <alt-name>Loang Prabang|Louangphabang|Louang Prabang|Luang Phabang|Luangphrabang|Luang Prabang</alt-name>
+    <woe-id>2346004</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LA17</fips>
+    <postal-code>LP</postal-code>
+    <name>Louangphrabang</name>
+    <country>Laos</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>102.549</longitude>
+    <woe-name>Louangphrabang</woe-name>
+    <latitude>20.0788</latitude>
+    <woe-label>Louangphabang, LA, Laos</woe-label>
+    <type>Khoueng</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>la-lp</hc-key>
+    <hc-a2>LP</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

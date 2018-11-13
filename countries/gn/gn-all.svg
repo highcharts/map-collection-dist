@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Guinea</title>
+<g id="admin1">
+
+<g id="GN">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Guinea</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Gin.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GIN</iso-a3>
+    <iso-a2>GN</iso-a2>
+    <woe-id>23424835</woe-id>
+    <continent>Africa</continent>
+    <hc-key>gn</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7097" d="M232.8,289.9 L232.6,293.9 L229.2,295.8 L226.4,301.5 L223.1,311.9 L216.8,316.4 L217.1,318.7 L214.1,319.9 L210.2,324.9 L204.6,325.2 L202.5,326.2 L200.7,324.3 L198.7,325.7 L196.7,331.4 L198.4,334.7 L196.1,335.2 L191.7,342.4 L183.4,347.3 L179.8,346.8 L174.8,344.1 L168.1,345.7 L165.9,347.4 L163.9,343.4 L168.5,339.5 L173.1,334.3 L177.9,334.9 L179.6,333.8 L171.1,333.6 L172.6,325.9 L170.5,328.0 L167.9,335.6 L164.7,333.9 L164.8,329.0 L163.9,321.6 L166.2,321.2 L166.2,317.3 L162.0,318.5 L159.2,325.2 L156.0,323.8 L153.8,315.7 L157.3,309.3 L154.2,311.0 L147.5,310.2 L145.6,303.8 L147.5,301.3 L148.9,296.8 L151.8,294.5 L155.0,294.3 L165.0,290.4 L168.9,292.2 L175.4,297.7 L182.5,298.4 L186.5,297.8 L190.5,295.9 L192.8,292.5 L202.3,286.5 L207.7,285.2 L222.5,285.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.FO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059377</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV10</fips>
+    <postal-code>NULL</postal-code>
+    <name>Forécariah</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kindia</region>
+    <longitude>-13.0624</longitude>
+    <woe-name>Kindia</woe-name>
+    <latitude>9.38543</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>gn-7097</hc-key>
+    <hc-a2>FO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7087" d="M102.0,98.5 L108.6,94.9 L112.5,96.0 L115.4,93.3 L115.8,88.6 L118.1,89.2 L120.8,94.1 L125.2,94.0 L129.0,92.0 L130.1,85.0 L128.8,73.7 L130.0,64.1 L128.1,62.0 L122.2,60.0 L119.0,55.4 L111.9,50.8 L106.9,49.4 L107.6,45.4 L109.7,43.1 L115.4,40.5 L119.6,37.7 L123.7,37.6 L122.5,39.7 L128.8,39.8 L133.2,36.4 L136.9,42.0 L145.6,37.6 L148.9,36.8 L153.6,38.7 L153.0,35.1 L156.7,38.3 L158.9,35.3 L161.1,35.2 L163.6,37.4 L161.8,38.9 L162.7,41.6 L165.9,44.2 L167.1,48.7 L166.1,54.9 L168.2,58.1 L170.3,58.6 L169.8,55.9 L172.2,56.6 L173.3,62.1 L178.2,63.6 L196.4,63.8 L197.6,61.4 L201.9,57.6 L208.0,57.4 L210.7,55.6 L214.4,50.9 L216.2,56.1 L214.6,66.4 L210.8,73.7 L213.0,75.4 L215.9,72.5 L218.5,76.0 L216.0,81.4 L215.0,88.2 L215.6,92.2 L216.1,95.5 L221.2,101.7 L225.0,103.3 L225.3,107.2 L219.9,111.0 L216.1,116.3 L208.4,120.2 L203.8,124.1 L201.3,130.6 L198.0,136.4 L199.9,144.8 L193.1,144.4 L188.6,146.1 L180.3,147.9 L174.8,148.1 L173.7,146.9 L172.2,128.9 L159.9,125.8 L145.3,125.3 L140.1,127.1 L137.8,129.0 L130.5,128.5 L122.5,130.5 L121.1,131.8 L117.9,126.7 L114.0,125.8 L111.5,123.5 L109.4,113.1 L106.0,110.5 L101.2,110.4 L98.7,108.3 L98.8,105.4 L101.1,102.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.GA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059373</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV12</fips>
+    <postal-code>NULL</postal-code>
+    <name>Gaoual</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Boke</region>
+    <longitude>-13.3943</longitude>
+    <woe-name>Boke</woe-name>
+    <latitude>11.7453</latitude>
+    <woe-label>Boké, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>gn-7087</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7108" d="M490.5,401.2 L482.1,403.1 L474.6,408.2 L471.3,408.1 L471.9,402.4 L469.8,400.2 L464.4,398.8 L461.2,399.3 L456.4,403.3 L455.7,401.7 L450.6,402.7 L445.8,401.2 L441.5,402.1 L439.2,403.9 L435.9,409.8 L429.2,416.7 L423.1,419.4 L419.0,417.0 L413.1,417.7 L410.6,422.9 L408.7,421.2 L409.6,418.1 L415.0,410.6 L416.4,402.3 L417.9,399.1 L423.1,391.8 L424.9,390.3 L430.8,388.5 L432.8,384.6 L421.7,370.6 L420.8,365.5 L420.6,358.6 L422.4,348.8 L431.4,342.5 L433.4,335.8 L437.7,339.4 L436.8,345.3 L442.2,349.4 L450.7,359.5 L451.3,360.9 L456.0,362.1 L459.4,365.7 L462.7,365.8 L471.9,364.2 L480.4,359.0 L484.5,359.5 L500.3,363.1 L498.1,370.1 L490.4,373.8 L487.2,376.9 L486.1,383.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.GU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059376</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV13</fips>
+    <postal-code>NULL</postal-code>
+    <name>Guéckédou</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Nzérékoré</region>
+    <longitude>-10.2232</longitude>
+    <woe-name>Nzérékoré</woe-name>
+    <latitude>8.703290000000001</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>gn-7108</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.3417" d="M653.2,263.2 L651.2,264.0 L653.1,266.9 L653.7,271.3 L655.9,273.2 L652.4,298.8 L653.3,304.8 L661.1,315.8 L653.7,315.5 L642.1,321.2 L637.5,321.7 L627.3,317.7 L622.4,317.4 L623.7,310.1 L622.8,304.1 L618.3,298.1 L613.7,294.1 L604.1,290.1 L594.4,289.5 L590.7,288.7 L588.5,285.0 L584.2,283.2 L570.9,284.1 L561.5,289.0 L556.4,293.0 L553.0,306.4 L552.3,313.1 L540.7,309.2 L521.3,310.0 L513.7,302.6 L501.8,300.5 L494.5,301.0 L488.8,296.8 L483.0,289.9 L486.0,288.0 L492.8,286.9 L496.3,282.3 L499.7,280.0 L500.0,274.9 L503.4,270.6 L507.1,267.7 L507.9,258.3 L505.4,254.0 L505.4,239.1 L508.9,231.4 L510.3,216.8 L525.0,201.1 L533.3,189.7 L538.1,187.1 L544.9,189.7 L553.1,191.4 L558.2,193.7 L576.5,195.2 L578.2,210.6 L582.8,215.8 L593.5,218.6 L596.9,221.2 L599.2,231.5 L604.0,236.3 L622.4,239.5 L627.0,241.4 L627.8,246.3 L630.7,252.9 L635.5,258.0 L647.4,262.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GN.KA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059378</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV32</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kankan</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kankan</region>
+    <longitude>-9.126239999999999</longitude>
+    <woe-name>Kankan</woe-name>
+    <latitude>10.1319</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>gn-3417</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7106" d="M552.3,313.1 L553.0,306.4 L556.4,293.0 L561.5,289.0 L570.9,284.1 L584.2,283.2 L588.5,285.0 L590.7,288.7 L594.4,289.5 L604.1,290.1 L613.7,294.1 L618.3,298.1 L622.8,304.1 L623.7,310.1 L622.4,317.4 L618.4,318.8 L617.6,322.6 L614.4,323.7 L609.0,332.1 L604.7,335.1 L600.5,342.3 L598.9,346.8 L591.5,350.3 L584.2,351.6 L580.2,353.5 L576.1,357.3 L559.1,362.2 L550.5,361.4 L547.5,353.8 L545.9,345.9 L541.4,345.2 L543.0,335.0 L550.7,330.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GN.KE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059378</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV15</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kérouané</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kankan</region>
+    <longitude>-8.90504</longitude>
+    <woe-name>Kankan</woe-name>
+    <latitude>9.330120000000001</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>gn-7106</hc-key>
+    <hc-a2>KÉ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.3420" d="M279.5,268.4 L274.9,268.9 L271.6,267.9 L266.0,263.8 L263.8,263.7 L249.6,266.6 L241.8,270.1 L239.9,280.2 L240.4,282.1 L235.5,286.0 L232.8,289.9 L222.5,285.6 L207.7,285.2 L202.3,286.5 L192.8,292.5 L190.5,295.9 L186.5,297.8 L184.9,289.5 L180.7,284.0 L173.1,280.2 L172.0,276.1 L175.5,270.2 L174.7,261.8 L168.8,256.0 L172.6,252.3 L176.3,247.2 L180.9,245.6 L181.0,238.1 L185.0,233.0 L183.1,227.8 L183.2,217.5 L191.8,215.6 L205.9,211.5 L210.0,210.4 L211.5,206.8 L214.7,206.7 L223.0,211.6 L229.2,206.2 L236.6,203.0 L241.1,198.6 L244.1,198.2 L244.2,204.4 L248.7,206.2 L251.3,210.0 L254.3,212.5 L252.0,215.6 L250.1,224.4 L251.6,230.4 L253.0,231.6 L259.4,230.5 L268.6,232.4 L272.6,240.2 L278.2,247.6 L278.1,255.7 L276.4,260.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.KD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059377</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV16</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kindia</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kindia</region>
+    <longitude>-12.7298</longitude>
+    <woe-name>Kindia</woe-name>
+    <latitude>10.0552</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>gn-3420</hc-key>
+    <hc-a2>KI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7098" d="M251.3,210.0 L248.7,206.2 L244.2,204.4 L244.1,198.2 L241.1,198.6 L236.6,203.0 L229.2,206.2 L229.8,192.3 L232.4,186.9 L238.7,182.6 L244.1,178.1 L249.2,177.0 L253.0,171.1 L254.7,165.9 L259.0,162.8 L266.7,158.9 L278.3,158.7 L277.2,154.7 L274.7,152.7 L273.9,148.9 L276.2,145.5 L276.5,140.9 L278.5,138.1 L279.7,133.9 L282.5,132.7 L286.0,134.1 L288.4,134.7 L290.7,134.6 L293.2,141.4 L299.4,145.5 L300.1,148.5 L299.6,155.5 L301.5,161.4 L308.5,161.8 L311.1,165.1 L311.6,171.9 L307.5,180.8 L303.8,182.5 L295.6,183.0 L288.0,184.6 L281.1,189.7 L274.2,196.5 L271.9,200.5 L264.6,201.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.DL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059375</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV06</fips>
+    <postal-code>NULL</postal-code>
+    <name>Dalaba</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Mamou</region>
+    <longitude>-12.2144</longitude>
+    <woe-name>Mamou</woe-name>
+    <latitude>10.8327</latitude>
+    <woe-label>Mamou, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>gn-7098</hc-key>
+    <hc-a2>DA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7101" d="M483.0,289.9 L488.8,296.8 L494.5,301.0 L501.8,300.5 L513.7,302.6 L521.3,310.0 L540.7,309.2 L552.3,313.1 L550.7,330.3 L543.0,335.0 L541.4,345.2 L540.0,348.1 L538.9,354.3 L533.3,360.5 L523.7,365.8 L517.1,367.0 L500.3,363.1 L484.5,359.5 L480.4,359.0 L471.9,364.2 L462.7,365.8 L459.4,365.7 L456.0,362.1 L451.3,360.9 L450.7,359.5 L442.2,349.4 L436.8,345.3 L437.7,339.4 L433.4,335.8 L437.6,328.4 L441.6,325.6 L442.8,316.7 L442.0,309.0 L438.9,300.7 L439.3,295.2 L451.3,296.8 L456.2,294.9 L462.8,286.6 L466.1,285.6 L476.8,285.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.KS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059379</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV17</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kissidougou</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Faranah</region>
+    <longitude>-9.89138</longitude>
+    <woe-name>Faranah</woe-name>
+    <latitude>9.25638</latitude>
+    <woe-label>Faranah, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>gn-7101</hc-key>
+    <hc-a2>KI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7092" d="M290.7,134.6 L288.4,134.7 L286.0,134.1 L284.9,127.3 L281.5,123.8 L277.0,116.6 L263.5,97.0 L261.8,92.2 L272.8,92.2 L281.2,96.0 L284.3,98.6 L289.1,99.5 L295.6,99.7 L298.1,97.8 L301.7,97.8 L309.8,94.0 L316.0,92.9 L326.7,92.8 L330.2,81.6 L334.5,77.7 L337.1,70.5 L341.4,61.7 L341.7,54.3 L347.4,56.9 L352.8,63.3 L353.2,95.3 L352.3,99.0 L343.6,100.6 L336.2,102.9 L333.6,108.6 L326.8,113.7 L310.1,120.7 L296.4,128.3 L291.6,131.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.KB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059374</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV33</fips>
+    <postal-code>NULL</postal-code>
+    <name>Koubia</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Labé</region>
+    <longitude>-11.7074</longitude>
+    <woe-name>Labé</woe-name>
+    <latitude>11.6162</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.69</hc-middle-y>
+    <hc-key>gn-7092</hc-key>
+    <hc-a2>KO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7088" d="M214.4,50.9 L210.7,55.6 L208.0,57.4 L201.9,57.6 L197.6,61.4 L196.4,63.8 L178.2,63.6 L173.3,62.1 L172.2,56.6 L169.8,55.9 L170.3,58.6 L168.2,58.1 L166.1,54.9 L167.1,48.7 L165.9,44.2 L162.7,41.6 L161.8,38.9 L163.6,37.4 L161.1,35.2 L158.9,35.3 L156.7,38.3 L153.0,35.1 L153.6,38.7 L148.9,36.8 L145.6,37.6 L136.9,42.0 L133.2,36.4 L134.4,32.0 L134.6,26.2 L136.5,19.0 L130.8,11.0 L129.9,6.3 L130.7,0.0 L161.0,1.6 L167.7,3.9 L171.5,2.7 L180.0,4.7 L185.3,3.7 L191.8,4.6 L193.3,7.7 L191.0,16.1 L193.8,20.3 L200.5,20.9 L203.5,14.3 L206.9,14.3 L212.9,18.4 L214.7,21.5 L219.0,22.5 L219.9,24.2 L227.9,24.2 L231.6,25.2 L238.1,31.5 L224.3,39.6 L217.2,42.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.KN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059373</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV18</fips>
+    <postal-code>NULL</postal-code>
+    <name>Koundara</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Boke</region>
+    <longitude>-13.1823</longitude>
+    <woe-name>Boke</woe-name>
+    <latitude>12.3537</latitude>
+    <woe-label>Boké, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>gn-7088</hc-key>
+    <hc-a2>KO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7103" d="M538.1,187.1 L533.3,189.7 L525.0,201.1 L510.3,216.8 L508.9,231.4 L505.4,239.1 L505.4,254.0 L507.9,258.3 L507.1,267.7 L503.4,270.6 L500.0,274.9 L499.7,280.0 L496.3,282.3 L492.8,286.9 L486.0,288.0 L483.0,289.9 L476.8,285.7 L466.1,285.6 L462.8,286.6 L456.2,294.9 L451.3,296.8 L439.3,295.2 L440.2,289.2 L439.7,283.0 L444.2,279.4 L443.4,277.0 L444.2,272.4 L446.9,271.7 L448.4,268.2 L446.8,264.7 L445.5,258.3 L447.4,256.0 L448.7,250.1 L450.6,250.1 L458.2,242.3 L459.2,239.3 L457.0,234.1 L457.8,227.2 L461.6,227.7 L466.0,220.4 L465.6,215.9 L467.4,213.5 L466.4,208.5 L464.9,211.9 L460.1,216.5 L456.9,211.8 L457.9,209.9 L452.7,209.2 L450.3,207.6 L446.7,208.5 L440.5,207.8 L437.4,210.0 L430.3,203.0 L425.8,201.6 L422.7,195.1 L418.0,189.4 L414.4,186.7 L397.7,181.1 L395.1,178.5 L395.3,175.0 L401.0,172.0 L403.8,165.8 L412.2,157.5 L413.9,153.4 L413.1,152.2 L413.8,141.2 L418.2,140.5 L423.0,143.1 L424.5,145.6 L427.5,146.3 L444.0,146.1 L447.0,143.4 L447.0,137.4 L441.7,125.0 L443.1,121.0 L449.1,118.6 L456.5,120.0 L466.1,127.5 L476.5,127.2 L483.1,128.4 L486.2,131.8 L491.0,134.4 L492.4,138.1 L494.1,147.9 L494.9,159.6 L497.1,162.5 L500.8,164.5 L508.4,175.4 L513.2,176.2 L540.9,176.0 L538.9,180.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GN.KO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059378</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV19</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kouroussa</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kankan</region>
+    <longitude>-10.0204</longitude>
+    <woe-name>Kankan</woe-name>
+    <latitude>10.7221</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>gn-7103</hc-key>
+    <hc-a2>KO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.3416" d="M286.0,134.1 L282.5,132.7 L279.7,133.9 L269.0,136.3 L267.2,142.9 L256.6,146.3 L251.9,147.3 L247.6,146.2 L245.5,144.4 L245.3,140.9 L243.3,134.8 L241.7,132.8 L242.2,124.8 L245.2,115.1 L248.0,112.5 L248.1,106.2 L246.7,101.4 L243.9,98.7 L244.6,92.2 L261.8,92.2 L263.5,97.0 L277.0,116.6 L281.5,123.8 L284.9,127.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.LA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059374</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV34</fips>
+    <postal-code>NULL</postal-code>
+    <name>Labé</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Labé</region>
+    <longitude>-12.3404</longitude>
+    <woe-name>Labé</woe-name>
+    <latitude>11.515</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>gn-3416</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7094" d="M199.9,144.8 L198.0,136.4 L201.3,130.6 L203.8,124.1 L208.4,120.2 L216.1,116.3 L219.9,111.0 L225.3,107.2 L225.0,103.3 L221.2,101.7 L216.1,95.5 L215.6,92.2 L244.6,92.2 L243.9,98.7 L246.7,101.4 L248.1,106.2 L248.0,112.5 L245.2,115.1 L242.2,124.8 L241.7,132.8 L240.5,131.3 L230.2,131.3 L228.3,135.9 L224.4,137.0 L220.3,142.9 L217.6,152.9 L215.8,155.9 L214.4,161.0 L210.8,159.9 L208.5,162.3 L205.4,154.2 L201.5,149.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.LE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059374</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV35</fips>
+    <postal-code>NULL</postal-code>
+    <name>Lélouma</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Labé</region>
+    <longitude>-12.6338</longitude>
+    <woe-name>Labé</woe-name>
+    <latitude>11.4687</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>gn-7094</hc-key>
+    <hc-a2>LÉ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7111" d="M661.7,446.8 L660.6,452.8 L655.9,460.0 L655.7,463.8 L658.5,466.6 L656.1,476.1 L653.2,480.9 L648.9,486.2 L649.2,489.1 L646.4,492.2 L639.4,487.9 L636.2,487.1 L631.1,488.3 L628.8,485.7 L622.1,490.9 L616.1,486.9 L613.8,482.1 L614.3,478.5 L617.6,475.4 L619.6,471.4 L615.9,461.1 L615.9,455.1 L621.6,444.2 L623.0,439.6 L625.9,437.1 L627.3,428.2 L633.0,427.9 L641.5,430.2 L657.5,444.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.LO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059376</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV36</fips>
+    <postal-code>NULL</postal-code>
+    <name>Lola</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Nzérékoré</region>
+    <longitude>-8.33352</longitude>
+    <woe-name>Nzérékoré</woe-name>
+    <latitude>7.85522</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>gn-7111</hc-key>
+    <hc-a2>LO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7109" d="M538.3,472.0 L531.6,461.6 L530.9,453.6 L533.1,447.4 L529.6,442.3 L527.5,433.2 L522.9,431.2 L523.4,425.9 L524.9,423.6 L522.1,418.9 L525.9,416.2 L518.3,412.0 L516.3,409.7 L514.5,411.5 L509.0,411.6 L512.1,406.6 L511.6,404.6 L508.4,402.5 L505.4,403.8 L504.8,407.4 L502.5,404.3 L501.4,398.1 L499.9,395.2 L496.6,398.5 L496.7,400.6 L491.8,402.4 L490.5,401.2 L486.1,383.0 L487.2,376.9 L490.4,373.8 L498.1,370.1 L500.3,363.1 L517.1,367.0 L523.7,365.8 L533.3,360.5 L538.9,354.3 L540.0,348.1 L541.4,345.2 L545.9,345.9 L547.5,353.8 L550.5,361.4 L559.1,362.2 L576.1,357.3 L576.3,377.9 L577.7,382.2 L582.3,388.5 L585.4,396.5 L586.8,404.8 L585.1,411.1 L581.7,420.5 L578.8,422.8 L574.3,431.7 L572.3,438.2 L568.2,441.0 L566.6,443.8 L562.9,449.5 L556.5,454.2 L554.8,458.0 L544.5,466.8 L542.0,472.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.MC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059376</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV21</fips>
+    <postal-code>NULL</postal-code>
+    <name>Macenta</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Nzérékoré</region>
+    <longitude>-9.31986</longitude>
+    <woe-name>Nzérékoré</woe-name>
+    <latitude>8.546580000000001</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>gn-7109</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7091" d="M261.8,92.2 L244.6,92.2 L215.6,92.2 L215.0,88.2 L216.0,81.4 L218.5,76.0 L215.9,72.5 L213.0,75.4 L210.8,73.7 L214.6,66.4 L216.2,56.1 L214.4,50.9 L217.2,42.8 L224.3,39.6 L238.1,31.5 L245.0,28.8 L248.6,29.4 L254.3,32.2 L258.4,37.1 L274.3,33.1 L280.9,28.5 L284.9,27.6 L290.6,29.5 L293.8,29.5 L298.4,26.9 L307.3,29.9 L315.0,30.3 L318.6,29.7 L325.8,27.1 L337.8,25.9 L347.0,28.5 L349.6,30.5 L345.6,30.6 L343.7,33.5 L344.3,39.5 L342.5,43.3 L338.3,48.8 L341.7,54.3 L341.4,61.7 L337.1,70.5 L334.5,77.7 L330.2,81.6 L326.7,92.8 L316.0,92.9 L309.8,94.0 L301.7,97.8 L298.1,97.8 L295.6,99.7 L289.1,99.5 L284.3,98.6 L281.2,96.0 L272.8,92.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.ML</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059374</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV22</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mali</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Labé</region>
+    <longitude>-12.1222</longitude>
+    <woe-name>Labé</woe-name>
+    <latitude>12.0218</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>gn-7091</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.3418" d="M329.0,258.1 L298.5,258.0 L297.3,264.7 L279.5,268.4 L276.4,260.7 L278.1,255.7 L278.2,247.6 L272.6,240.2 L268.6,232.4 L259.4,230.5 L253.0,231.6 L251.6,230.4 L250.1,224.4 L252.0,215.6 L254.3,212.5 L251.3,210.0 L264.6,201.5 L271.9,200.5 L274.2,196.5 L281.1,189.7 L288.0,184.6 L295.6,183.0 L303.8,182.5 L307.5,180.8 L311.6,171.9 L311.1,165.1 L308.5,161.8 L311.2,160.7 L322.6,159.3 L331.3,150.8 L331.9,149.5 L337.9,146.2 L339.4,144.3 L340.8,139.0 L345.6,136.2 L351.8,136.8 L356.5,131.4 L359.7,135.6 L361.8,140.8 L361.7,145.0 L345.3,156.3 L339.0,156.2 L328.3,165.6 L329.5,171.9 L328.9,179.5 L332.8,181.8 L332.8,187.5 L331.3,222.1 L331.3,234.5 L330.6,239.6 L328.5,242.6 L327.2,251.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.MM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059375</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV23</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mamou</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Mamou</region>
+    <longitude>-11.8934</longitude>
+    <woe-name>Mamou</woe-name>
+    <latitude>10.3442</latitude>
+    <woe-label>Mamou, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>gn-3418</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7105" d="M653.2,263.2 L647.4,262.6 L635.5,258.0 L630.7,252.9 L627.8,246.3 L627.0,241.4 L622.4,239.5 L604.0,236.3 L599.2,231.5 L596.9,221.2 L593.5,218.6 L582.8,215.8 L578.2,210.6 L576.5,195.2 L558.2,193.7 L553.1,191.4 L544.9,189.7 L538.1,187.1 L538.9,180.0 L540.9,176.0 L543.8,172.8 L550.8,167.7 L566.7,161.7 L575.4,155.7 L580.5,150.8 L583.9,141.4 L585.0,131.1 L587.0,122.5 L590.9,113.2 L593.2,110.2 L595.1,105.2 L598.9,101.5 L600.1,102.4 L603.3,112.9 L605.4,116.0 L613.1,118.5 L615.5,116.6 L617.6,123.0 L627.0,125.2 L631.9,128.3 L628.2,129.6 L627.9,132.3 L632.3,132.7 L631.8,135.2 L629.0,137.1 L621.8,136.2 L620.3,141.1 L615.3,143.2 L613.7,148.3 L609.4,150.5 L607.6,156.5 L601.7,163.7 L603.2,167.8 L606.3,166.6 L611.5,166.7 L616.3,164.8 L619.7,158.3 L628.6,159.3 L632.5,158.1 L638.0,163.2 L638.6,165.3 L638.7,175.2 L635.1,185.8 L638.1,188.5 L639.6,207.3 L645.9,218.1 L647.6,219.0 L654.7,217.7 L656.6,224.1 L658.4,225.4 L666.0,226.1 L669.2,229.1 L670.8,233.7 L670.5,238.4 L666.1,247.9 L664.3,250.2 L657.3,253.2 L652.6,259.9 L654.7,261.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GN.MD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059378</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV37</fips>
+    <postal-code>NULL</postal-code>
+    <name>Mandiana</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kankan</region>
+    <longitude>-8.665369999999999</longitude>
+    <woe-name>Kankan</woe-name>
+    <latitude>10.7221</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>gn-7105</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.3421" d="M627.3,428.2 L625.9,437.1 L623.0,439.6 L621.6,444.2 L615.9,455.1 L615.9,461.1 L619.6,471.4 L617.6,475.4 L614.3,478.5 L603.0,478.0 L599.1,484.9 L591.4,483.8 L584.2,480.7 L581.6,475.0 L579.0,467.2 L574.9,459.5 L573.9,452.3 L571.8,447.6 L566.6,443.8 L568.2,441.0 L572.3,438.2 L574.3,431.7 L578.8,422.8 L581.7,420.5 L590.0,418.5 L598.2,414.8 L606.2,414.2 L612.2,415.6 L615.9,419.6 L617.0,423.1 L622.7,423.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.NZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059376</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV38</fips>
+    <postal-code>NULL</postal-code>
+    <name>Nzérékoré</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Nzérékoré</region>
+    <longitude>-8.738379999999999</longitude>
+    <woe-name>Nzérékoré</woe-name>
+    <latitude>8.050750000000001</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>gn-3421</hc-key>
+    <hc-a2>NZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7099" d="M241.7,132.8 L243.3,134.8 L245.3,140.9 L245.5,144.4 L247.6,146.2 L251.9,147.3 L256.6,146.3 L267.2,142.9 L269.0,136.3 L279.7,133.9 L278.5,138.1 L276.5,140.9 L276.2,145.5 L273.9,148.9 L274.7,152.7 L277.2,154.7 L278.3,158.7 L266.7,158.9 L259.0,162.8 L254.7,165.9 L253.0,171.1 L249.2,177.0 L244.1,178.1 L238.7,182.6 L232.4,186.9 L229.8,192.3 L229.2,206.2 L223.0,211.6 L214.7,206.7 L211.5,206.8 L210.0,210.4 L205.9,211.5 L203.6,204.5 L199.7,200.5 L199.8,198.4 L202.7,194.0 L203.6,186.3 L201.3,184.6 L200.1,178.7 L201.4,176.7 L200.9,171.9 L203.1,169.3 L203.7,165.8 L208.5,162.3 L210.8,159.9 L214.4,161.0 L215.8,155.9 L217.6,152.9 L220.3,142.9 L224.4,137.0 L228.3,135.9 L230.2,131.3 L240.5,131.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.PI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059375</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV25</fips>
+    <postal-code>NULL</postal-code>
+    <name>Pita</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Mamou</region>
+    <longitude>-12.62</longitude>
+    <woe-name>Mamou</woe-name>
+    <latitude>10.9341</latitude>
+    <woe-label>Mamou, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>gn-7099</hc-key>
+    <hc-a2>PI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7104" d="M540.9,176.0 L513.2,176.2 L508.4,175.4 L500.8,164.5 L497.1,162.5 L494.9,159.6 L494.1,147.9 L492.4,138.1 L491.0,134.4 L486.2,131.8 L483.1,128.4 L476.5,127.2 L476.9,111.3 L473.2,102.1 L465.3,93.9 L459.9,85.5 L462.2,82.7 L471.7,77.7 L480.0,71.3 L483.7,66.2 L489.9,62.2 L495.1,62.8 L500.2,65.5 L505.4,65.6 L509.3,60.3 L509.3,56.8 L514.4,51.9 L524.9,48.4 L528.3,45.6 L533.7,43.6 L539.5,44.6 L541.7,42.4 L541.8,38.9 L544.3,35.3 L540.7,30.4 L538.1,29.0 L534.6,24.7 L536.0,23.0 L543.1,20.8 L545.7,22.0 L548.3,21.0 L559.4,23.8 L573.8,31.2 L576.7,37.3 L573.6,43.3 L573.4,45.8 L575.7,50.3 L578.6,49.5 L581.3,52.0 L581.9,56.2 L580.1,62.0 L582.2,65.2 L588.4,65.4 L590.1,66.9 L590.6,72.4 L592.2,76.4 L587.5,100.7 L594.1,102.8 L598.9,101.5 L595.1,105.2 L593.2,110.2 L590.9,113.2 L587.0,122.5 L585.0,131.1 L583.9,141.4 L580.5,150.8 L575.4,155.7 L566.7,161.7 L550.8,167.7 L543.8,172.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>GN.SI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059378</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV39</fips>
+    <postal-code>NULL</postal-code>
+    <name>Siguiri</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kankan</region>
+    <longitude>-9.393599999999999</longitude>
+    <woe-name>Kankan</woe-name>
+    <latitude>11.5701</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>gn-7104</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7093" d="M356.5,131.4 L351.8,136.8 L345.6,136.2 L340.8,139.0 L339.4,144.3 L337.9,146.2 L331.9,149.5 L331.3,150.8 L322.6,159.3 L311.2,160.7 L308.5,161.8 L301.5,161.4 L299.6,155.5 L300.1,148.5 L299.4,145.5 L293.2,141.4 L290.7,134.6 L291.6,131.4 L296.4,128.3 L310.1,120.7 L326.8,113.7 L333.6,108.6 L336.2,102.9 L343.6,100.6 L352.3,99.0 L353.2,95.3 L352.8,63.3 L356.2,65.9 L361.8,67.6 L368.4,65.3 L368.7,70.0 L370.1,73.5 L374.5,77.7 L374.4,87.6 L373.3,89.7 L372.4,100.0 L365.1,109.0 L367.0,113.2 L372.5,115.9 L371.6,118.7 L360.3,125.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.TO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059374</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV28</fips>
+    <postal-code>NULL</postal-code>
+    <name>Tougué</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Labé</region>
+    <longitude>-11.4677</longitude>
+    <woe-name>Labé</woe-name>
+    <latitude>11.4503</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>gn-7093</hc-key>
+    <hc-a2>TO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7107" d="M566.6,443.8 L571.8,447.6 L573.9,452.3 L574.9,459.5 L579.0,467.2 L581.6,475.0 L584.2,480.7 L591.4,483.8 L599.1,484.9 L598.0,490.2 L599.1,491.5 L598.9,495.6 L596.3,499.1 L593.1,501.2 L591.5,505.6 L589.0,506.6 L586.0,511.1 L587.3,516.2 L586.7,518.1 L580.3,520.4 L577.3,516.8 L576.8,519.0 L570.1,521.2 L566.3,524.0 L561.3,526.0 L561.8,521.4 L558.7,517.8 L556.0,517.8 L553.6,515.7 L552.3,509.7 L550.9,507.8 L544.7,508.2 L541.4,504.1 L537.2,504.5 L534.5,508.1 L531.6,503.9 L527.8,508.2 L528.9,502.8 L533.9,497.2 L534.4,493.9 L536.8,490.8 L539.6,484.8 L537.6,482.5 L537.5,479.3 L539.5,473.4 L538.3,472.0 L542.0,472.2 L544.5,466.8 L554.8,458.0 L556.5,454.2 L562.9,449.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.YO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059376</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV29</fips>
+    <postal-code>NULL</postal-code>
+    <name>Yomou</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Nzérékoré</region>
+    <longitude>-9.08019</longitude>
+    <woe-name>Nzérékoré</woe-name>
+    <latitude>7.61555</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>gn-7107</hc-key>
+    <hc-a2>YO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7112" d="M199.9,144.8 L201.5,149.7 L205.4,154.2 L208.5,162.3 L203.7,165.8 L203.1,169.3 L200.9,171.9 L201.4,176.7 L200.1,178.7 L201.3,184.6 L203.6,186.3 L202.7,194.0 L199.8,198.4 L199.7,200.5 L203.6,204.5 L205.9,211.5 L191.8,215.6 L183.2,217.5 L175.9,218.1 L175.4,210.5 L177.6,206.9 L176.5,199.1 L158.1,188.9 L138.5,187.2 L128.0,186.3 L120.9,184.5 L116.8,186.2 L116.0,189.1 L108.7,190.5 L103.1,193.1 L98.9,193.7 L97.2,190.9 L88.2,190.8 L92.5,184.8 L98.2,179.2 L103.1,172.6 L108.7,173.1 L115.4,170.1 L118.8,161.4 L120.0,155.6 L124.2,152.4 L125.3,147.5 L125.1,143.6 L123.2,142.0 L123.1,138.6 L120.5,135.3 L117.9,134.6 L121.1,131.8 L122.5,130.5 L130.5,128.5 L137.8,129.0 L140.1,127.1 L145.3,125.3 L159.9,125.8 L172.2,128.9 L173.7,146.9 L174.8,148.1 L180.3,147.9 L188.6,146.1 L193.1,144.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.TE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059377</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV27</fips>
+    <postal-code>NULL</postal-code>
+    <name>Télimélé</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kindia</region>
+    <longitude>-13.3113</longitude>
+    <woe-name>Kindia</woe-name>
+    <latitude>10.9156</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>gn-7112</hc-key>
+    <hc-a2>TÉ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7090" d="M138.5,187.2 L158.1,188.9 L176.5,199.1 L177.6,206.9 L175.4,210.5 L175.9,218.1 L168.1,219.9 L161.2,225.4 L157.2,231.1 L150.0,232.8 L124.4,227.0 L118.4,226.9 L117.6,221.5 L119.3,217.5 L126.9,208.4 L130.9,207.0 L137.2,202.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.FR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059373</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Fria</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Boke</region>
+    <longitude>-13.4957</longitude>
+    <woe-name>Boke</woe-name>
+    <latitude>10.4732</latitude>
+    <woe-label>Boké, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>gn-7090</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7110" d="M661.7,446.8 L657.5,444.2 L641.5,430.2 L633.0,427.9 L627.3,428.2 L622.7,423.6 L617.0,423.1 L615.9,419.6 L612.2,415.6 L606.2,414.2 L598.2,414.8 L590.0,418.5 L581.7,420.5 L585.1,411.1 L586.8,404.8 L585.4,396.5 L582.3,388.5 L577.7,382.2 L576.3,377.9 L576.1,357.3 L580.2,353.5 L584.2,351.6 L591.5,350.3 L598.9,346.8 L600.5,342.3 L604.7,335.1 L609.0,332.1 L614.4,323.7 L617.6,322.6 L618.4,318.8 L622.4,317.4 L627.3,317.7 L637.5,321.7 L642.1,321.2 L653.7,315.5 L661.1,315.8 L668.5,316.9 L674.1,314.1 L680.5,314.5 L677.7,324.3 L674.3,332.6 L674.5,336.1 L679.3,337.9 L682.2,337.5 L683.5,339.9 L691.8,346.2 L690.1,347.5 L684.2,348.0 L675.7,352.4 L672.9,358.5 L670.8,371.4 L671.8,374.3 L683.9,377.6 L686.5,377.4 L690.2,381.5 L692.4,385.6 L696.0,388.4 L697.2,391.0 L697.2,396.6 L698.4,400.6 L697.4,406.9 L700.0,413.0 L694.5,413.6 L689.7,411.9 L684.7,403.2 L682.6,403.6 L682.3,407.9 L677.6,408.2 L675.2,406.5 L673.3,402.6 L670.8,401.5 L663.2,402.4 L660.7,400.9 L653.7,402.5 L649.0,402.0 L644.4,405.7 L643.9,407.5 L645.7,412.7 L644.5,422.8 L642.8,425.4 L650.7,430.6 L659.9,433.4 L666.6,431.3 L667.8,432.2 L666.0,437.6 L671.6,447.3 L666.9,445.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.BE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059376</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Beyla</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Nzérékoré</region>
+    <longitude>-8.407260000000001</longitude>
+    <woe-name>Nzérékoré</woe-name>
+    <latitude>8.81391</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>gn-7110</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7089" d="M130.1,260.1 L128.9,263.8 L124.4,268.3 L121.0,269.5 L115.5,268.5 L111.5,263.5 L107.6,261.2 L106.0,258.2 L102.0,256.8 L100.2,254.8 L95.4,252.4 L96.6,247.3 L99.1,245.9 L94.8,242.9 L96.9,242.1 L101.1,235.9 L96.9,239.4 L92.6,241.6 L92.5,247.2 L91.4,249.2 L86.4,249.4 L84.1,244.1 L89.4,239.2 L88.1,237.6 L86.6,239.8 L83.6,240.1 L83.8,242.3 L79.9,244.5 L77.3,241.1 L78.4,237.8 L75.5,239.3 L67.8,232.8 L60.3,231.9 L57.4,232.7 L57.5,222.7 L50.6,215.5 L49.5,209.0 L50.9,205.6 L58.2,199.8 L63.4,197.6 L75.6,197.2 L82.2,195.3 L88.2,190.8 L97.2,190.9 L98.9,193.7 L103.1,193.1 L108.7,190.5 L116.0,189.1 L116.8,186.2 L120.9,184.5 L128.0,186.3 L138.5,187.2 L137.2,202.5 L130.9,207.0 L126.9,208.4 L119.3,217.5 L117.6,221.5 L118.4,226.9 L116.2,232.3 L109.2,243.9 L110.5,247.0 L121.2,256.2 L128.5,257.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.BF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059373</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV02</fips>
+    <postal-code>NULL</postal-code>
+    <name>Boffa</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Boke</region>
+    <longitude>-14.0764</longitude>
+    <woe-name>Boke</woe-name>
+    <latitude>10.3994</latitude>
+    <woe-label>Boké, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>gn-7089</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.3419" d="M88.2,190.8 L82.2,195.3 L75.6,197.2 L63.4,197.6 L58.2,199.8 L51.0,205.5 L43.5,208.7 L39.3,208.1 L38.7,205.0 L40.2,199.4 L45.4,196.3 L42.3,194.9 L43.7,187.9 L46.1,187.2 L48.2,184.2 L52.9,172.8 L47.9,176.4 L43.7,184.4 L39.7,189.6 L35.6,192.3 L35.9,188.6 L33.9,186.9 L36.9,180.0 L40.5,176.5 L39.3,175.8 L33.6,180.6 L30.0,186.9 L27.0,182.4 L26.9,180.2 L29.2,179.4 L31.3,175.7 L32.2,170.4 L29.1,173.7 L25.7,174.9 L27.1,167.7 L24.8,166.4 L25.9,163.8 L33.2,161.4 L34.7,158.1 L39.7,154.9 L37.8,152.2 L36.8,154.5 L33.8,155.7 L32.3,159.2 L26.7,159.9 L25.8,156.6 L22.6,161.1 L19.7,160.5 L17.9,155.0 L15.7,155.0 L17.5,158.5 L16.2,161.7 L11.7,159.6 L15.9,163.3 L15.2,166.6 L11.6,169.6 L9.8,169.4 L10.1,174.9 L12.6,177.6 L11.3,179.9 L4.5,177.4 L1.0,173.1 L0.0,169.2 L2.2,165.6 L4.7,164.7 L5.9,160.7 L11.8,154.3 L21.3,137.0 L24.8,126.0 L34.4,112.4 L38.5,109.4 L42.4,109.1 L50.2,110.1 L54.1,109.5 L71.4,100.5 L74.4,96.3 L77.2,95.4 L88.2,96.0 L92.2,98.2 L97.9,97.8 L102.0,98.5 L101.1,102.6 L98.8,105.4 L98.7,108.3 L101.2,110.4 L106.0,110.5 L109.4,113.1 L111.5,123.5 L114.0,125.8 L117.9,126.7 L121.1,131.8 L117.9,134.6 L120.5,135.3 L123.1,138.6 L123.2,142.0 L125.1,143.6 L125.3,147.5 L124.2,152.4 L120.0,155.6 L118.8,161.4 L115.4,170.1 L108.7,173.1 L103.1,172.6 L98.2,179.2 L92.5,184.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.BK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059373</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Boke</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Boke</region>
+    <longitude>-14.3088</longitude>
+    <woe-name>Boke</woe-name>
+    <latitude>11.1674</latitude>
+    <woe-label>Boké, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>gn-3419</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7096" d="M148.9,296.8 L148.2,296.8 L146.1,301.0 L145.1,289.0 L150.3,281.0 L149.3,272.4 L150.5,265.3 L153.7,260.1 L158.3,256.5 L168.8,256.0 L174.7,261.8 L175.5,270.2 L172.0,276.1 L173.1,280.2 L180.7,284.0 L184.9,289.5 L186.5,297.8 L182.5,298.4 L175.4,297.7 L168.9,292.2 L165.0,290.4 L155.0,294.3 L151.8,294.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.CO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059377</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV30</fips>
+    <postal-code>NULL</postal-code>
+    <name>Coyah</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kindia</region>
+    <longitude>-13.3482</longitude>
+    <woe-name>Kindia</woe-name>
+    <latitude>9.791029999999999</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>gn-7096</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7100" d="M413.1,152.2 L413.9,153.4 L412.2,157.5 L403.8,165.8 L401.0,172.0 L395.3,175.0 L395.1,178.5 L397.7,181.1 L414.4,186.7 L418.0,189.4 L422.7,195.1 L417.5,199.9 L410.4,200.7 L402.8,200.1 L399.4,196.6 L396.0,195.5 L383.0,200.0 L369.6,212.8 L361.4,213.6 L356.2,217.8 L349.1,220.1 L347.5,241.8 L344.6,251.8 L342.0,258.1 L338.7,258.1 L329.0,258.1 L327.2,251.0 L328.5,242.6 L330.6,239.6 L331.3,234.5 L331.3,222.1 L332.8,187.5 L332.8,181.8 L328.9,179.5 L329.5,171.9 L328.3,165.6 L339.0,156.2 L345.3,156.3 L345.9,159.6 L366.8,160.1 L371.9,165.8 L377.2,167.9 L382.6,166.5 L400.8,154.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.DB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059379</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Dabola</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Faranah</region>
+    <longitude>-11.2004</longitude>
+    <woe-name>Faranah</woe-name>
+    <latitude>10.7774</latitude>
+    <woe-label>Faranah, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>gn-7100</hc-key>
+    <hc-a2>DA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7102" d="M413.1,152.2 L400.8,154.3 L382.6,166.5 L377.2,167.9 L371.9,165.8 L366.8,160.1 L345.9,159.6 L345.3,156.3 L361.7,145.0 L361.8,140.8 L359.7,135.6 L356.5,131.4 L360.3,125.8 L371.6,118.7 L372.5,115.9 L367.0,113.2 L365.1,109.0 L372.4,100.0 L373.3,89.7 L374.4,87.6 L374.5,77.7 L370.1,73.5 L368.7,70.0 L368.4,65.3 L370.8,59.9 L379.0,53.2 L381.0,48.1 L388.5,46.6 L394.3,48.4 L398.0,54.3 L404.1,58.4 L403.8,65.4 L406.3,67.9 L410.0,75.2 L412.7,78.1 L416.6,77.9 L418.9,76.4 L421.9,70.8 L427.0,68.2 L426.4,66.1 L431.2,62.7 L431.6,56.5 L437.8,56.3 L443.8,50.6 L450.4,49.6 L454.5,47.1 L456.3,48.7 L462.7,50.9 L466.8,51.2 L473.9,53.9 L483.1,58.8 L486.7,59.6 L489.9,62.2 L483.7,66.2 L480.0,71.3 L471.7,77.7 L462.2,82.7 L459.9,85.5 L465.3,93.9 L473.2,102.1 L476.9,111.3 L476.5,127.2 L466.1,127.5 L456.5,120.0 L449.1,118.6 L443.1,121.0 L441.7,125.0 L447.0,137.4 L447.0,143.4 L444.0,146.1 L427.5,146.3 L424.5,145.6 L423.0,143.1 L418.2,140.5 L413.8,141.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.DI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059379</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV07</fips>
+    <postal-code>NULL</postal-code>
+    <name>Dinguiraye</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Faranah</region>
+    <longitude>-10.6749</longitude>
+    <woe-name>Faranah</woe-name>
+    <latitude>11.5609</latitude>
+    <woe-label>Faranah, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>gn-7102</hc-key>
+    <hc-a2>DI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.7095" d="M168.8,256.0 L158.3,256.5 L153.7,260.1 L150.5,265.3 L149.3,272.4 L150.3,281.0 L145.1,289.0 L146.1,301.0 L144.8,302.8 L141.7,302.4 L139.2,296.6 L134.0,299.1 L134.0,299.1 L131.2,296.1 L135.8,289.1 L136.0,282.2 L142.1,275.8 L139.0,277.0 L134.0,271.5 L132.4,271.0 L133.6,276.7 L129.6,280.2 L126.2,279.8 L124.5,277.5 L125.2,271.6 L130.8,263.6 L130.1,260.1 L128.5,257.5 L121.2,256.2 L110.5,247.0 L109.2,243.9 L116.2,232.3 L118.4,226.9 L124.4,227.0 L150.0,232.8 L157.2,231.1 L161.2,225.4 L168.1,219.9 L175.9,218.1 L183.2,217.5 L183.1,227.8 L185.0,233.0 L181.0,238.1 L180.9,245.6 L176.3,247.2 L172.6,252.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.DU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059377</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV31</fips>
+    <postal-code>NULL</postal-code>
+    <name>Dubréka</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Kindia</region>
+    <longitude>-13.468</longitude>
+    <woe-name>Kindia</woe-name>
+    <latitude>10.1137</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>gn-7095</hc-key>
+    <hc-a2>DU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.3422" d="M422.7,195.1 L425.8,201.6 L430.3,203.0 L437.4,210.0 L440.5,207.8 L446.7,208.5 L450.3,207.6 L452.7,209.2 L457.9,209.9 L456.9,211.8 L460.1,216.5 L464.9,211.9 L466.4,208.5 L467.4,213.5 L465.6,215.9 L466.0,220.4 L461.6,227.7 L457.8,227.2 L457.0,234.1 L459.2,239.3 L458.2,242.3 L450.6,250.1 L448.7,250.1 L447.4,256.0 L445.5,258.3 L446.8,264.7 L448.4,268.2 L446.9,271.7 L444.2,272.4 L443.4,277.0 L444.2,279.4 L439.7,283.0 L440.2,289.2 L439.3,295.2 L438.9,300.7 L442.0,309.0 L442.8,316.7 L441.6,325.6 L437.6,328.4 L433.4,335.8 L431.4,342.5 L422.4,348.8 L421.2,347.3 L408.0,345.3 L407.3,341.9 L410.1,334.8 L413.0,333.1 L414.8,324.2 L408.5,319.3 L406.3,316.6 L400.0,315.9 L402.0,314.4 L397.9,309.9 L398.1,304.5 L395.3,299.9 L390.9,295.5 L390.3,293.0 L387.2,290.9 L383.3,282.4 L376.2,274.5 L369.2,270.0 L367.3,262.6 L365.6,259.5 L358.7,258.2 L342.0,258.1 L344.6,251.8 L347.5,241.8 L349.1,220.1 L356.2,217.8 L361.4,213.6 L369.6,212.8 L383.0,200.0 L396.0,195.5 L399.4,196.6 L402.8,200.1 L410.4,200.7 L417.5,199.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GN.FA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059379</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV09</fips>
+    <postal-code>NULL</postal-code>
+    <name>Faranah</name>
+    <country>Guinea</country>
+    <type-en>Prefecture</type-en>
+    <region>Faranah</region>
+    <longitude>-10.881</longitude>
+    <woe-name>Faranah</woe-name>
+    <latitude>9.98517</latitude>
+    <woe-label>Faranah, GN, Guinea</woe-label>
+    <type>Préfecture</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>gn-3422</hc-key>
+    <hc-a2>FA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN.3423" d="M134.0,299.1 L126.5,302.5 L131.2,296.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>GN.CK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56059372</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GV04</fips>
+    <postal-code>NULL</postal-code>
+    <name>Conakry</name>
+    <country>Guinea</country>
+    <type-en>Administrative Zone</type-en>
+    <region>Conakry</region>
+    <longitude>-13.6847</longitude>
+    <woe-name>Conakry</woe-name>
+    <latitude>9.539199999999999</latitude>
+    <woe-label>Conakry, GN, Guinea</woe-label>
+    <type>Gouvernorat</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>gn-3423</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

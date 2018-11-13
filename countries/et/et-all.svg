@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Ethiopia</title>
+<g id="admin1">
+
+<g id="ET">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ethiopia</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Eth.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>ETH</iso-a3>
+    <iso-a2>ET</iso-a2>
+    <woe-id>23424808</woe-id>
+    <continent>Africa</continent>
+    <hc-key>et</hc-key>
+    <hc-a2>ET</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.BE" d="M154.7,277.3 L152.4,276.6 L154.5,274.4 L156.6,276.2 Z M145.9,273.1 L151.6,275.9 L150.9,279.6 L152.3,284.2 L148.4,280.0 L146.6,281.5 L141.8,280.9 L142.9,273.1 Z M161.7,255.3 L160.2,258.5 L158.6,253.9 L159.4,251.4 L162.5,250.2 L164.3,252.2 Z M189.9,213.7 L188.1,217.7 L181.8,216.4 L176.4,213.3 L170.8,215.8 L169.8,217.9 L166.4,217.2 L167.9,211.9 L164.8,212.0 L160.6,215.7 L156.5,221.4 L149.6,225.7 L147.3,225.1 L147.3,237.7 L146.8,242.4 L153.4,249.3 L151.8,259.0 L144.9,267.7 L142.5,263.5 L140.5,263.6 L137.7,258.5 L131.6,257.3 L130.0,251.3 L127.4,251.6 L118.9,241.5 L109.6,232.1 L106.9,230.2 L96.6,230.0 L95.1,226.2 L89.2,225.7 L90.4,228.6 L85.8,240.3 L80.5,245.9 L73.8,242.6 L69.9,243.5 L68.9,252.2 L66.9,260.3 L62.8,264.6 L51.9,263.6 L51.4,248.3 L52.9,241.4 L58.9,225.2 L62.8,221.2 L63.8,213.9 L61.7,203.6 L62.0,200.0 L69.4,189.3 L76.4,185.5 L83.9,192.0 L84.0,194.8 L88.0,192.7 L89.1,190.0 L93.2,186.2 L91.6,181.8 L94.8,172.8 L93.3,167.2 L99.3,154.5 L98.2,149.8 L98.3,144.0 L100.2,140.9 L106.1,138.3 L107.7,135.4 L110.6,140.7 L115.1,143.7 L121.2,142.7 L129.2,136.3 L131.6,132.0 L139.1,133.6 L143.9,138.5 L147.3,144.0 L148.2,148.4 L151.0,148.2 L156.6,143.4 L157.9,143.5 L157.9,150.8 L162.6,157.8 L160.8,160.4 L165.4,164.7 L163.2,170.1 L163.1,174.3 L164.5,177.2 L157.5,185.1 L156.2,189.1 L159.9,191.5 L156.8,198.4 L157.8,203.0 L159.7,205.7 L165.8,206.2 L167.2,209.9 L174.6,210.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.BE</hasc>
+    <alt-name>Benishangul|Beni Shangul|Bénishangul|Benishangul-Gumuz|Binshangul Gumuz</alt-name>
+    <woe-id>56013538</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET47</fips>
+    <postal-code>BE</postal-code>
+    <name>Benshangul-Gumaz</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>35.6017</longitude>
+    <woe-name>Benshangul-Gumaz</woe-name>
+    <latitude>10.5396</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>et-be</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.2837" d="M272.1,270.9 L274.6,271.1 L276.1,275.5 L273.7,277.3 L274.6,279.9 L271.8,282.6 L265.8,278.3 L264.3,274.9 L266.9,271.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ET.AA</hasc>
+    <alt-name>?dd?s ?baba|Addis Abeba|Adis-Abeba|?d?s ?beba</alt-name>
+    <woe-id>56013543</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET44</fips>
+    <postal-code>NULL</postal-code>
+    <name>Addis Ababa</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>38.7815</longitude>
+    <woe-name>Addis Ababa</woe-name>
+    <latitude>8.965999999999999</latitude>
+    <woe-label>Addis Ababa, ET, Ethiopia</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>et-2837</hc-key>
+    <hc-a2>AA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.HA" d="M431.5,256.1 L430.5,265.1 L422.6,263.4 L423.1,259.7 L425.5,256.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.HA</hasc>
+    <alt-name>Harari|Harer|Hareri Hizb</alt-name>
+    <woe-id>56013544</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET50</fips>
+    <postal-code>HA</postal-code>
+    <name>Harari People</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>42.1676</longitude>
+    <woe-name>Harari People</woe-name>
+    <latitude>9.29063</latitude>
+    <woe-label>Harari, ET, Ethiopia</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>et-ha</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.SN" d="M170.1,487.9 L168.7,487.4 L152.7,487.6 L141.6,487.3 L136.9,484.2 L136.0,479.0 L129.6,472.2 L128.1,468.0 L128.4,458.2 L130.8,453.5 L129.5,450.6 L130.9,446.7 L125.0,443.4 L121.0,443.9 L116.8,441.3 L113.2,441.1 L108.0,444.8 L104.9,441.1 L105.3,437.1 L97.7,431.9 L96.8,428.3 L92.4,421.6 L91.1,416.4 L90.9,410.4 L86.0,402.5 L85.5,397.6 L83.2,393.4 L80.9,384.2 L76.4,379.9 L71.2,378.7 L70.3,372.3 L67.3,370.2 L60.7,368.5 L56.1,364.0 L56.0,362.4 L60.8,364.8 L70.8,363.8 L76.2,366.7 L80.4,365.9 L83.8,363.2 L91.1,362.5 L96.7,359.7 L101.0,362.0 L109.0,361.3 L108.7,358.4 L110.5,347.6 L106.5,345.1 L106.1,342.2 L105.2,335.8 L109.8,331.0 L110.6,328.1 L114.4,326.4 L118.8,326.3 L122.3,329.5 L128.2,327.1 L131.4,323.9 L128.0,320.5 L129.8,317.2 L134.0,317.3 L136.2,322.9 L134.0,327.6 L134.8,329.3 L140.5,332.9 L142.7,336.9 L143.5,341.6 L147.1,342.1 L152.7,345.6 L160.1,348.4 L169.0,350.4 L177.0,355.8 L183.3,357.5 L192.0,357.0 L204.8,350.8 L207.5,340.9 L206.0,334.9 L206.1,330.1 L207.6,325.9 L205.6,321.5 L209.9,320.5 L212.1,323.0 L215.9,323.0 L214.8,318.6 L215.4,311.2 L210.0,308.7 L209.0,306.8 L211.4,301.8 L213.4,301.3 L215.5,304.3 L227.3,305.6 L236.0,303.5 L245.0,302.1 L247.4,303.5 L248.9,308.8 L252.6,308.5 L255.3,302.8 L259.2,300.1 L263.9,302.3 L264.7,308.4 L266.4,309.8 L265.3,317.1 L261.9,309.6 L259.2,310.5 L260.9,313.5 L262.6,320.5 L261.4,323.8 L253.6,335.9 L253.8,343.5 L249.7,346.0 L245.8,353.7 L239.4,357.7 L237.4,360.3 L237.2,364.5 L240.9,366.4 L245.1,365.5 L249.1,360.6 L258.0,364.2 L260.8,363.3 L264.7,369.4 L263.5,378.1 L273.2,383.4 L277.4,384.0 L284.7,390.4 L286.4,397.6 L284.7,402.5 L286.6,407.3 L280.0,407.8 L273.9,398.9 L269.4,395.6 L258.8,394.3 L254.8,395.6 L253.5,399.5 L254.0,404.8 L251.6,406.8 L247.5,413.9 L251.9,418.7 L248.5,420.9 L244.5,421.2 L237.9,409.9 L238.1,406.6 L242.6,405.9 L241.9,403.0 L243.3,399.6 L246.3,398.5 L247.4,394.8 L245.7,393.3 L241.5,393.5 L234.6,388.0 L227.5,388.0 L224.4,393.0 L226.9,398.6 L225.9,403.4 L223.2,409.1 L224.0,414.4 L232.3,417.5 L234.3,423.6 L237.5,426.3 L237.7,428.6 L230.6,432.6 L230.9,440.7 L229.1,444.7 L228.9,449.9 L218.8,446.9 L215.9,449.1 L205.6,453.8 L196.7,451.9 L185.4,452.7 L183.0,456.4 L180.8,463.3 L182.4,469.1 L180.8,474.2 L175.2,481.9 L173.6,485.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.SN</hasc>
+    <alt-name>Southern Nations, Nationalities, and People's Region</alt-name>
+    <woe-id>56013536</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET54</fips>
+    <postal-code>SN</postal-code>
+    <name>Southern Nations, Nationalities and Peoples</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>36.4494</longitude>
+    <woe-name>Southern Nations, Nationalities and Peoples</woe-name>
+    <latitude>6.21467</latitude>
+    <woe-label>Southern Nations Nationalities and People's Region, ET, Ethiopia</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>et-sn</hc-key>
+    <hc-a2>SN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.GA" d="M106.1,342.2 L106.5,345.1 L110.5,347.6 L108.7,358.4 L109.0,361.3 L101.0,362.0 L96.7,359.7 L91.1,362.5 L83.8,363.2 L80.4,365.9 L76.2,366.7 L70.8,363.8 L60.8,364.8 L56.0,362.4 L54.7,358.8 L53.0,359.3 L48.3,355.0 L47.3,347.7 L41.5,341.7 L38.2,340.5 L33.8,336.0 L30.2,334.3 L27.1,334.6 L22.0,331.5 L17.2,332.8 L11.7,329.9 L2.8,328.8 L0.0,323.3 L6.1,314.6 L8.9,313.6 L8.5,311.0 L10.5,307.7 L8.3,305.2 L9.0,300.6 L12.7,298.1 L17.7,299.3 L24.5,297.5 L28.9,298.1 L33.3,302.4 L36.1,302.6 L39.3,300.3 L46.2,299.2 L50.9,295.1 L52.7,291.9 L55.2,293.8 L59.1,291.7 L64.1,294.1 L70.3,299.9 L75.0,302.3 L78.9,306.9 L83.1,308.1 L85.6,311.5 L96.9,311.8 L97.9,313.5 L89.4,317.3 L91.7,320.2 L88.7,324.3 L87.9,328.4 L93.5,334.8 L95.4,339.5 L100.6,341.8 L98.6,344.8 L102.6,345.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.GA</hasc>
+    <alt-name>Gambella|Gambela Hizboch</alt-name>
+    <woe-id>56013539</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET49</fips>
+    <postal-code>GA</postal-code>
+    <name>Gambela Peoples</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>34.1775</longitude>
+    <woe-name>Gambela Peoples</woe-name>
+    <latitude>7.86869</latitude>
+    <woe-label>Gambela, ET, Ethiopia</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>et-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.AA" d="M284.6,530.7 L275.4,531.0 L264.4,527.2 L256.7,525.8 L251.7,527.1 L241.7,525.9 L238.2,526.3 L232.3,521.0 L191.8,495.0 L187.3,490.8 L179.3,487.9 L170.1,487.9 L173.6,485.7 L175.2,481.9 L180.8,474.2 L182.4,469.1 L180.8,463.3 L183.0,456.4 L185.4,452.7 L196.7,451.9 L205.6,453.8 L215.9,449.1 L218.8,446.9 L228.9,449.9 L229.1,444.7 L230.9,440.7 L230.6,432.6 L237.7,428.6 L237.5,426.3 L234.3,423.6 L232.3,417.5 L224.0,414.4 L223.2,409.1 L225.9,403.4 L226.9,398.6 L224.4,393.0 L227.5,388.0 L234.6,388.0 L241.5,393.5 L245.7,393.3 L247.4,394.8 L246.3,398.5 L243.3,399.6 L241.9,403.0 L242.6,405.9 L238.1,406.6 L237.9,409.9 L244.5,421.2 L248.5,420.9 L251.9,418.7 L247.5,413.9 L251.6,406.8 L254.0,404.8 L253.5,399.5 L254.8,395.6 L258.8,394.3 L269.4,395.6 L273.9,398.9 L280.0,407.8 L286.6,407.3 L284.7,402.5 L286.4,397.6 L284.7,390.4 L277.4,384.0 L273.2,383.4 L263.5,378.1 L264.7,369.4 L260.8,363.3 L258.0,364.2 L249.1,360.6 L245.1,365.5 L240.9,366.4 L237.2,364.5 L237.4,360.3 L239.4,357.7 L245.8,353.7 L249.7,346.0 L253.8,343.5 L253.6,335.9 L261.4,323.8 L262.6,320.5 L260.9,313.5 L259.2,310.5 L261.9,309.6 L265.3,317.1 L266.4,309.8 L264.7,308.4 L263.9,302.3 L259.2,300.1 L255.3,302.8 L252.6,308.5 L248.9,308.8 L247.4,303.5 L245.0,302.1 L236.0,303.5 L227.3,305.6 L215.5,304.3 L213.4,301.3 L211.4,301.8 L209.0,306.8 L210.0,308.7 L215.4,311.2 L214.8,318.6 L215.9,323.0 L212.1,323.0 L209.9,320.5 L205.6,321.5 L207.6,325.9 L206.1,330.1 L206.0,334.9 L207.5,340.9 L204.8,350.8 L192.0,357.0 L183.3,357.5 L177.0,355.8 L169.0,350.4 L160.1,348.4 L152.7,345.6 L147.1,342.1 L143.5,341.6 L142.7,336.9 L140.5,332.9 L134.8,329.3 L134.0,327.6 L136.2,322.9 L134.0,317.3 L129.8,317.2 L128.0,320.5 L131.4,323.9 L128.2,327.1 L122.3,329.5 L118.8,326.3 L114.4,326.4 L110.6,328.1 L109.8,331.0 L105.2,335.8 L106.1,342.2 L102.6,345.8 L98.6,344.8 L100.6,341.8 L95.4,339.5 L93.5,334.8 L87.9,328.4 L88.7,324.3 L91.7,320.2 L89.4,317.3 L97.9,313.5 L96.9,311.8 L85.6,311.5 L83.1,308.1 L78.9,306.9 L75.0,302.3 L70.3,299.9 L64.1,294.1 L59.1,291.7 L55.2,293.8 L52.7,291.9 L52.9,290.8 L51.9,263.6 L62.8,264.6 L66.9,260.3 L68.9,252.2 L69.9,243.5 L73.8,242.6 L80.5,245.9 L85.8,240.3 L90.4,228.6 L89.2,225.7 L95.1,226.2 L96.6,230.0 L106.9,230.2 L109.6,232.1 L118.9,241.5 L127.4,251.6 L130.0,251.3 L131.6,257.3 L137.7,258.5 L140.5,263.6 L142.5,263.5 L144.9,267.7 L151.8,259.0 L153.4,249.3 L146.8,242.4 L147.3,237.7 L147.3,225.1 L149.6,225.7 L156.5,221.4 L160.6,215.7 L164.8,212.0 L167.9,211.9 L166.4,217.2 L169.8,217.9 L170.8,215.8 L176.4,213.3 L181.8,216.4 L188.1,217.7 L189.9,213.7 L196.2,215.6 L195.8,220.0 L197.5,222.7 L201.5,223.9 L202.3,226.8 L204.8,225.0 L213.0,228.1 L215.9,232.0 L220.3,235.3 L224.6,234.5 L228.9,231.4 L242.5,225.6 L245.5,222.6 L252.4,221.9 L254.1,220.5 L257.1,210.7 L267.9,210.2 L273.3,211.1 L274.0,213.5 L272.1,222.9 L268.4,225.2 L264.8,225.2 L265.8,227.5 L270.9,230.9 L271.4,235.8 L273.8,239.8 L276.7,241.2 L285.2,243.0 L290.5,245.3 L295.9,253.5 L300.1,254.0 L303.9,258.9 L298.2,260.5 L292.3,260.8 L294.1,266.6 L297.6,267.8 L297.2,270.7 L293.2,277.2 L293.3,281.5 L295.4,285.0 L299.6,282.7 L305.6,285.9 L314.1,281.7 L316.1,279.4 L315.9,269.9 L318.0,268.2 L323.0,269.2 L324.4,274.4 L328.0,274.8 L328.6,282.0 L334.0,276.2 L337.8,274.4 L338.9,270.5 L345.5,261.7 L351.2,256.8 L359.0,253.8 L366.9,253.2 L369.0,256.0 L363.7,256.1 L366.0,260.2 L373.6,257.8 L383.8,251.2 L387.6,250.9 L396.0,252.9 L402.7,250.3 L407.3,252.1 L415.4,252.0 L419.0,250.6 L423.1,252.0 L426.3,248.8 L425.7,245.3 L431.9,243.0 L435.2,240.4 L437.1,240.9 L437.4,247.5 L442.1,251.6 L445.2,257.5 L448.7,268.3 L452.5,274.7 L459.6,281.3 L458.6,287.5 L462.0,293.0 L461.7,301.3 L455.8,303.6 L452.8,312.2 L451.2,314.1 L448.2,312.1 L446.2,307.5 L444.7,299.7 L443.3,297.7 L435.1,295.6 L432.6,291.7 L429.5,292.6 L421.4,300.7 L421.3,305.7 L418.2,310.7 L416.8,315.6 L416.3,326.9 L418.0,332.6 L414.4,341.9 L415.6,348.5 L430.0,354.0 L430.9,357.2 L428.7,366.1 L423.9,374.3 L424.1,377.3 L419.8,386.6 L414.0,389.4 L411.5,388.1 L408.2,390.6 L402.9,397.6 L395.2,389.9 L389.7,387.9 L379.4,382.3 L375.1,384.0 L370.0,389.8 L367.2,395.1 L368.3,402.4 L367.5,409.6 L368.6,424.8 L370.3,428.7 L360.1,435.0 L352.7,441.7 L349.9,442.7 L335.9,445.0 L329.5,442.9 L327.8,443.6 L323.4,450.0 L318.8,460.8 L316.4,468.5 L315.1,477.6 L307.8,494.5 L305.7,497.3 L303.2,505.4 L303.7,509.2 L294.4,524.9 Z M154.7,277.3 L156.6,276.2 L154.5,274.4 L152.4,276.6 Z M145.9,273.1 L142.9,273.1 L141.8,280.9 L146.6,281.5 L148.4,280.0 L152.3,284.2 L150.9,279.6 L151.6,275.9 Z M161.7,255.3 L164.3,252.2 L162.5,250.2 L159.4,251.4 L158.6,253.9 L160.2,258.5 Z M272.1,270.9 L266.9,271.0 L264.3,274.9 L265.8,278.3 L271.8,282.6 L274.6,279.9 L273.7,277.3 L276.1,275.5 L274.6,271.1 Z M431.5,256.1 L425.5,256.2 L423.1,259.7 L422.6,263.4 L430.5,265.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.AA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56013545</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET44</fips>
+    <postal-code>AA</postal-code>
+    <name>Oromiya</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>40.2242</longitude>
+    <woe-name>Addis Ababa</woe-name>
+    <latitude>7.55642</latitude>
+    <woe-label>Oromia, ET, Ethiopia</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.24</hc-middle-y>
+    <hc-key>et-aa</hc-key>
+    <hc-a2>AA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.SO" d="M407.3,252.1 L402.7,250.3 L396.0,252.9 L387.6,250.9 L383.8,251.2 L373.6,257.8 L366.0,260.2 L363.7,256.1 L369.0,256.0 L366.9,253.2 L359.0,253.8 L360.9,245.4 L364.9,239.1 L373.3,231.1 L370.3,225.6 L376.8,200.1 L377.0,195.1 L382.1,189.6 L384.2,183.8 L386.2,182.5 L404.6,182.5 L408.1,181.3 L416.7,183.4 L422.1,181.5 L436.9,180.2 L441.0,177.7 L447.2,176.2 L452.5,177.2 L454.5,180.4 L461.5,180.2 L460.2,184.0 L456.8,186.2 L453.6,190.8 L451.4,196.3 L449.0,197.5 L451.2,202.5 L455.1,207.2 L458.0,217.3 L463.7,221.6 L468.9,230.5 L474.4,232.3 L476.8,241.2 L478.4,244.2 L483.1,248.1 L485.5,254.2 L491.5,257.7 L494.9,257.6 L512.1,272.8 L513.9,273.8 L583.8,295.7 L650.2,316.7 L653.0,318.0 L700.0,317.0 L628.0,389.1 L605.4,413.0 L559.1,464.5 L557.7,465.0 L513.3,462.8 L507.5,464.7 L492.7,468.2 L473.5,477.4 L466.1,483.6 L461.8,492.5 L458.1,494.5 L435.0,498.5 L427.4,498.6 L424.3,499.8 L417.5,504.7 L417.2,507.1 L413.4,510.4 L407.0,508.2 L394.3,510.5 L384.3,511.1 L379.5,509.9 L374.4,504.1 L368.8,500.9 L363.0,494.9 L360.1,496.8 L345.2,502.5 L344.4,503.8 L335.9,506.7 L320.1,514.4 L315.3,524.1 L307.3,531.7 L305.5,536.0 L300.8,533.4 L288.8,532.7 L284.6,530.7 L294.4,524.9 L303.7,509.2 L303.2,505.4 L305.7,497.3 L307.8,494.5 L315.1,477.6 L316.4,468.5 L318.8,460.8 L323.4,450.0 L327.8,443.6 L329.5,442.9 L335.9,445.0 L349.9,442.7 L352.7,441.7 L360.1,435.0 L370.3,428.7 L368.6,424.8 L367.5,409.6 L368.3,402.4 L367.2,395.1 L370.0,389.8 L375.1,384.0 L379.4,382.3 L389.7,387.9 L395.2,389.9 L402.9,397.6 L408.2,390.6 L411.5,388.1 L414.0,389.4 L419.8,386.6 L424.1,377.3 L423.9,374.3 L428.7,366.1 L430.9,357.2 L430.0,354.0 L415.6,348.5 L414.4,341.9 L418.0,332.6 L416.3,326.9 L416.8,315.6 L418.2,310.7 L421.3,305.7 L421.4,300.7 L429.5,292.6 L432.6,291.7 L435.1,295.6 L443.3,297.7 L444.7,299.7 L446.2,307.5 L448.2,312.1 L451.2,314.1 L452.8,312.2 L455.8,303.6 L461.7,301.3 L462.0,293.0 L458.6,287.5 L459.6,281.3 L452.5,274.7 L448.7,268.3 L445.2,257.5 L442.1,251.6 L437.4,247.5 L437.1,240.9 L435.2,240.4 L433.4,238.4 L428.8,237.9 L421.3,244.8 L415.7,242.6 L408.4,244.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.SO</hasc>
+    <alt-name>Sumale</alt-name>
+    <woe-id>56013540</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET48</fips>
+    <postal-code>SO</postal-code>
+    <name>Somali</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>43.5345</longitude>
+    <woe-name>Somali</woe-name>
+    <latitude>7.09365</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>et-so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.DD" d="M435.2,240.4 L431.9,243.0 L425.7,245.3 L426.3,248.8 L423.1,252.0 L419.0,250.6 L415.4,252.0 L407.3,252.1 L408.4,244.4 L415.7,242.6 L421.3,244.8 L428.8,237.9 L433.4,238.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ET.DD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56013542</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET48</fips>
+    <postal-code>DD</postal-code>
+    <name>Dire Dawa</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>42.0364</longitude>
+    <woe-name>Dire Dawa</woe-name>
+    <latitude>9.56155</latitude>
+    <woe-label>Dire Dawa, ET, Ethiopia</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>et-dd</hc-key>
+    <hc-a2>DD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.TI" d="M163.4,51.1 L164.3,49.0 L163.4,41.0 L167.6,28.3 L169.4,26.9 L177.7,25.2 L186.8,26.6 L189.4,28.5 L192.5,27.5 L194.8,21.2 L202.6,19.6 L207.2,24.6 L207.3,26.9 L214.9,35.6 L230.0,0.0 L235.2,7.3 L240.1,9.3 L245.3,9.4 L249.6,17.6 L254.2,21.7 L262.4,20.8 L274.2,18.2 L280.1,13.9 L280.2,11.4 L283.8,11.4 L287.5,15.0 L289.8,20.6 L292.6,18.5 L297.0,18.6 L302.6,16.7 L303.8,14.7 L307.6,17.3 L315.2,17.6 L321.8,21.4 L325.9,19.8 L324.2,23.9 L317.0,23.1 L311.1,25.6 L315.2,28.0 L312.2,33.8 L315.1,34.4 L313.3,36.4 L316.5,38.3 L317.7,44.4 L316.8,53.5 L318.2,59.2 L316.6,62.0 L314.9,61.2 L313.4,65.4 L314.3,70.8 L313.3,75.5 L315.7,78.8 L317.1,84.6 L315.4,86.1 L314.9,92.8 L319.0,94.9 L321.2,99.0 L320.5,103.4 L317.2,108.1 L316.5,112.4 L317.3,117.8 L316.2,119.4 L309.3,120.4 L305.1,122.9 L304.9,119.3 L299.1,119.1 L297.5,120.7 L292.9,120.0 L289.1,103.5 L292.4,97.4 L291.0,88.1 L289.8,86.8 L284.7,87.8 L281.0,87.2 L280.1,82.0 L268.7,70.4 L266.8,69.5 L265.5,65.0 L262.2,64.6 L255.7,66.3 L256.8,62.8 L255.8,60.5 L252.0,63.3 L247.5,63.9 L240.9,63.3 L237.3,66.0 L229.7,62.6 L224.6,61.4 L221.8,62.2 L218.8,67.6 L211.1,70.8 L202.5,70.4 L197.7,67.5 L191.3,70.2 L184.9,69.3 L175.5,61.4 L167.2,58.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.TI</hasc>
+    <alt-name>Tegr?|Tigrai|Tigre|Tigr?|Tigré</alt-name>
+    <woe-id>2345312</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET06</fips>
+    <postal-code>TI</postal-code>
+    <name>Tigray</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>38.2158</longitude>
+    <woe-name>Tigray</woe-name>
+    <latitude>14.1003</latitude>
+    <woe-label>Tigray, ET, Ethiopia</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>et-ti</hc-key>
+    <hc-a2>TI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.AF" d="M408.1,181.3 L404.6,182.5 L386.2,182.5 L384.2,183.8 L382.1,189.6 L377.0,195.1 L376.8,200.1 L370.3,225.6 L373.3,231.1 L364.9,239.1 L360.9,245.4 L359.0,253.8 L351.2,256.8 L345.5,261.7 L338.9,270.5 L337.8,274.4 L334.0,276.2 L328.6,282.0 L328.0,274.8 L324.4,274.4 L323.0,269.2 L318.0,268.2 L321.8,262.2 L321.9,260.0 L317.3,256.4 L320.6,253.3 L321.7,246.4 L319.8,240.1 L327.4,240.7 L327.3,237.1 L330.2,232.8 L330.2,229.0 L326.8,226.7 L327.4,223.1 L332.4,223.4 L332.2,218.5 L334.7,204.8 L333.8,196.4 L331.8,193.4 L334.0,187.8 L332.4,184.0 L335.5,178.6 L335.2,173.9 L332.5,168.0 L329.5,164.8 L328.8,158.4 L325.4,150.3 L321.0,145.1 L321.0,138.4 L318.6,135.4 L318.3,132.0 L315.7,124.6 L316.2,119.4 L317.3,117.8 L316.5,112.4 L317.2,108.1 L320.5,103.4 L321.2,99.0 L319.0,94.9 L314.9,92.8 L315.4,86.1 L317.1,84.6 L315.7,78.8 L313.3,75.5 L314.3,70.8 L313.4,65.4 L314.9,61.2 L316.6,62.0 L318.2,59.2 L316.8,53.5 L317.7,44.4 L316.5,38.3 L313.3,36.4 L315.1,34.4 L312.2,33.8 L315.2,28.0 L311.1,25.6 L317.0,23.1 L324.2,23.9 L325.9,19.8 L330.6,19.3 L338.5,22.2 L345.1,28.2 L352.6,31.9 L358.0,32.8 L363.9,35.9 L373.6,46.8 L380.5,58.7 L381.9,60.1 L396.1,68.9 L404.5,75.7 L409.4,81.9 L413.0,89.6 L415.4,92.9 L424.2,97.7 L435.6,111.9 L431.5,118.7 L422.8,130.6 L415.5,142.0 L409.6,146.3 L407.0,155.6 L408.8,167.5 L406.9,167.4 L404.0,172.2 L406.4,176.0 L408.9,176.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.AF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56013537</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET26</fips>
+    <postal-code>AF</postal-code>
+    <name>Afar</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>41.0236</longitude>
+    <woe-name>Afar</woe-name>
+    <latitude>12.1232</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>et-af</hc-key>
+    <hc-a2>AF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET.AM" d="M316.2,119.4 L315.7,124.6 L318.3,132.0 L318.6,135.4 L321.0,138.4 L321.0,145.1 L325.4,150.3 L328.8,158.4 L329.5,164.8 L332.5,168.0 L335.2,173.9 L335.5,178.6 L332.4,184.0 L334.0,187.8 L331.8,193.4 L333.8,196.4 L334.7,204.8 L332.2,218.5 L332.4,223.4 L327.4,223.1 L326.8,226.7 L330.2,229.0 L330.2,232.8 L327.3,237.1 L327.4,240.7 L319.8,240.1 L321.7,246.4 L320.6,253.3 L317.3,256.4 L321.9,260.0 L321.8,262.2 L318.0,268.2 L315.9,269.9 L316.1,279.4 L314.1,281.7 L305.6,285.9 L299.6,282.7 L295.4,285.0 L293.3,281.5 L293.2,277.2 L297.2,270.7 L297.6,267.8 L294.1,266.6 L292.3,260.8 L298.2,260.5 L303.9,258.9 L300.1,254.0 L295.9,253.5 L290.5,245.3 L285.2,243.0 L276.7,241.2 L273.8,239.8 L271.4,235.8 L270.9,230.9 L265.8,227.5 L264.8,225.2 L268.4,225.2 L272.1,222.9 L274.0,213.5 L273.3,211.1 L267.9,210.2 L257.1,210.7 L254.1,220.5 L252.4,221.9 L245.5,222.6 L242.5,225.6 L228.9,231.4 L224.6,234.5 L220.3,235.3 L215.9,232.0 L213.0,228.1 L204.8,225.0 L202.3,226.8 L201.5,223.9 L197.5,222.7 L195.8,220.0 L196.2,215.6 L189.9,213.7 L174.6,210.4 L167.2,209.9 L165.8,206.2 L159.7,205.7 L157.8,203.0 L156.8,198.4 L159.9,191.5 L156.2,189.1 L157.5,185.1 L164.5,177.2 L163.1,174.3 L163.2,170.1 L165.4,164.7 L160.8,160.4 L162.6,157.8 L157.9,150.8 L157.9,143.5 L156.6,143.4 L151.0,148.2 L148.2,148.4 L147.3,144.0 L143.9,138.5 L139.1,133.6 L131.6,132.0 L129.2,136.3 L121.2,142.7 L115.1,143.7 L110.6,140.7 L107.7,135.4 L110.9,132.4 L112.7,126.7 L115.4,124.3 L116.2,121.1 L125.0,106.8 L130.2,102.2 L144.1,100.4 L147.3,101.4 L149.3,95.0 L148.1,90.3 L153.8,70.3 L160.7,60.6 L163.4,51.1 L167.2,58.6 L175.5,61.4 L184.9,69.3 L191.3,70.2 L197.7,67.5 L202.5,70.4 L211.1,70.8 L218.8,67.6 L221.8,62.2 L224.6,61.4 L229.7,62.6 L237.3,66.0 L240.9,63.3 L247.5,63.9 L252.0,63.3 L255.8,60.5 L256.8,62.8 L255.7,66.3 L262.2,64.6 L265.5,65.0 L266.8,69.5 L268.7,70.4 L280.1,82.0 L281.0,87.2 L284.7,87.8 L289.8,86.8 L291.0,88.1 L292.4,97.4 L289.1,103.5 L292.9,120.0 L297.5,120.7 L299.1,119.1 L304.9,119.3 L305.1,122.9 L309.3,120.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>ET.AM</hasc>
+    <alt-name>Amara</alt-name>
+    <woe-id>56013541</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ET46</fips>
+    <postal-code>AM</postal-code>
+    <name>Amhara</name>
+    <country>Ethiopia</country>
+    <type-en>Administrative State</type-en>
+    <region>NULL</region>
+    <longitude>37.7222</longitude>
+    <woe-name>Amhara</woe-name>
+    <latitude>11.6981</latitude>
+    <woe-label>Amhara, ET, Ethiopia</woe-label>
+    <type>Kilil</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>et-am</hc-key>
+    <hc-a2>AM</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

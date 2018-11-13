@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Senegal</title>
+<g id="admin1">
+
+<g id="SN">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Senegal</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Sen.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SEN</iso-a3>
+    <iso-a2>SN</iso-a2>
+    <woe-id>23424943</woe-id>
+    <continent>Africa</continent>
+    <hc-key>sn</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.SL" d="M430.3,64.1 L435.2,67.4 L439.8,65.7 L456.6,61.7 L455.0,66.8 L455.9,69.4 L461.7,67.8 L466.9,72.7 L469.7,81.2 L476.1,88.6 L475.6,92.5 L480.0,100.1 L479.2,105.3 L484.1,110.1 L485.8,114.7 L483.7,118.3 L484.9,123.2 L490.0,122.5 L497.9,125.4 L501.7,130.3 L501.7,137.7 L507.4,138.8 L512.2,135.6 L515.8,136.2 L519.4,144.4 L519.7,149.2 L522.5,154.3 L529.2,158.8 L530.8,163.8 L525.1,163.8 L524.7,166.1 L528.2,169.4 L535.1,169.6 L536.7,171.0 L537.0,178.1 L539.9,179.0 L544.2,183.0 L547.3,184.3 L559.6,200.8 L560.7,207.2 L552.3,229.1 L543.2,243.3 L540.4,245.6 L523.5,247.9 L518.6,248.0 L488.0,242.7 L485.9,243.5 L456.3,265.1 L455.1,265.7 L424.1,266.3 L418.5,265.5 L369.2,247.0 L359.3,237.7 L354.7,239.2 L347.5,245.8 L342.1,249.7 L328.1,253.1 L328.2,248.6 L325.6,247.1 L307.2,241.7 L302.1,238.4 L306.4,235.2 L308.1,225.9 L313.0,222.6 L317.1,214.1 L312.1,203.2 L308.9,191.8 L316.6,188.9 L329.3,187.2 L338.3,184.5 L333.4,182.1 L335.4,169.5 L339.1,153.4 L329.7,154.7 L310.9,145.1 L314.9,138.7 L315.7,117.7 L324.7,114.3 L329.2,111.3 L338.1,102.9 L343.1,109.6 L361.0,118.8 L365.5,122.2 L382.2,109.1 L400.1,94.3 L412.7,82.8 L414.3,78.6 L425.7,73.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SN.SL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346990</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG14</fips>
+    <postal-code>SL</postal-code>
+    <name>Matam</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-13.5063</longitude>
+    <woe-name>Matam</woe-name>
+    <latitude>15.4647</latitude>
+    <woe-label>St.-Louis, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>sn-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.TH" d="M81.4,297.2 L79.3,293.8 L74.9,292.4 L73.2,289.7 L72.3,283.4 L70.6,280.0 L66.3,276.6 L67.0,270.2 L65.1,266.2 L61.6,262.6 L53.6,258.7 L47.8,249.8 L43.7,240.1 L46.0,224.2 L43.4,218.0 L42.6,212.5 L40.2,207.1 L45.1,203.6 L63.3,182.4 L66.9,177.1 L74.8,168.4 L91.2,140.2 L95.1,143.2 L95.6,149.1 L92.7,155.8 L92.1,160.7 L93.1,164.2 L96.0,165.5 L98.8,169.8 L104.2,174.7 L104.5,180.5 L106.2,180.9 L114.3,172.2 L116.4,167.1 L123.0,158.6 L130.4,159.5 L135.2,159.0 L136.7,160.9 L138.0,168.6 L141.9,168.2 L144.4,174.5 L143.9,178.9 L146.0,184.9 L149.3,188.9 L152.0,196.0 L158.8,199.7 L158.3,201.1 L151.9,204.6 L146.4,204.0 L145.1,200.5 L138.2,196.0 L133.8,196.6 L128.7,194.5 L101.4,202.2 L99.3,203.3 L97.1,209.9 L101.1,213.8 L101.2,221.2 L104.3,223.6 L103.7,227.8 L106.6,230.4 L106.3,234.4 L103.3,238.0 L105.4,241.2 L113.4,244.5 L111.2,251.4 L106.3,257.2 L100.7,261.2 L94.8,262.2 L89.0,278.6 L87.3,285.3 L88.4,288.6 L85.5,291.0 L85.5,295.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.TH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346992</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG07</fips>
+    <postal-code>TH</postal-code>
+    <name>Thiès</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-16.8671</longitude>
+    <woe-name>Thiès</woe-name>
+    <latitude>14.6931</latitude>
+    <woe-label>Thiès, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>sn-th</hc-key>
+    <hc-a2>TH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.680" d="M473.6,468.6 L468.4,467.3 L431.5,466.1 L269.9,465.8 L269.0,458.7 L271.7,451.5 L271.7,442.0 L267.4,435.8 L267.4,428.7 L259.7,423.6 L259.0,417.1 L255.0,408.2 L249.7,407.2 L245.7,404.5 L245.0,400.4 L247.4,391.5 L247.7,386.5 L255.1,384.4 L260.7,379.2 L261.8,368.8 L268.4,361.1 L271.0,360.1 L284.9,371.0 L292.3,374.8 L302.2,376.7 L311.6,380.9 L317.1,386.9 L325.1,389.0 L333.0,387.5 L338.6,392.0 L346.8,393.9 L351.2,398.1 L355.4,400.3 L361.4,401.3 L367.9,400.8 L377.4,401.8 L385.3,396.4 L393.9,393.9 L411.6,391.8 L417.2,389.3 L420.4,384.3 L420.8,378.4 L418.1,372.9 L413.5,369.8 L418.0,368.4 L420.1,365.9 L423.4,366.7 L421.8,372.5 L430.6,373.9 L428.4,377.5 L426.4,384.7 L434.2,384.8 L434.0,388.1 L436.0,394.7 L438.7,396.0 L440.3,399.5 L443.2,400.3 L444.4,401.9 L444.3,409.1 L445.9,414.7 L449.1,417.7 L449.3,420.4 L454.2,425.2 L456.0,428.5 L455.8,433.7 L457.4,437.9 L460.5,440.6 L461.4,444.2 L459.1,445.3 L458.7,449.9 L460.6,454.7 L459.7,461.9 L464.1,464.7 L473.0,464.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.KD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346996</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kolda</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-14.422</longitude>
+    <woe-name>Kolda</woe-name>
+    <latitude>12.9574</latitude>
+    <woe-label>Kolda, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>sn-680</hc-key>
+    <hc-a2>KO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.ZG" d="M185.7,493.1 L175.6,493.7 L166.2,490.9 L162.2,490.5 L151.8,492.9 L145.9,491.7 L128.9,500.8 L125.4,502.2 L119.7,502.2 L111.6,503.8 L96.1,502.6 L89.3,505.4 L87.5,500.0 L81.4,493.9 L80.9,487.6 L83.4,483.3 L89.1,479.9 L95.1,480.2 L100.2,476.8 L102.1,473.8 L106.5,470.6 L110.2,477.5 L111.7,478.5 L113.0,475.3 L117.3,475.2 L128.3,480.2 L132.5,479.3 L137.3,474.9 L144.4,476.1 L148.4,473.9 L150.6,477.3 L159.5,474.0 L171.7,471.0 L176.7,474.5 L176.9,478.3 L181.7,487.2 Z M170.1,459.8 L167.5,464.3 L167.0,468.2 L163.8,470.2 L159.2,471.0 L154.9,473.3 L146.6,472.4 L140.6,474.0 L136.9,473.3 L133.0,474.8 L130.3,478.7 L121.8,475.0 L116.4,468.8 L119.4,466.0 L116.5,465.0 L115.5,462.0 L114.6,471.6 L108.1,465.9 L107.6,463.6 L104.3,467.0 L101.2,467.2 L99.8,465.1 L101.5,460.5 L105.3,455.6 L104.6,451.5 L103.2,456.6 L98.4,462.2 L98.8,470.7 L95.4,472.1 L90.3,476.2 L86.5,477.6 L84.4,476.3 L83.4,469.3 L85.9,461.2 L88.8,458.9 L92.8,460.3 L93.0,458.5 L89.0,456.8 L83.3,461.2 L81.9,457.0 L84.4,453.6 L84.4,449.8 L82.2,451.7 L82.2,446.6 L86.3,440.6 L85.9,433.5 L87.6,423.2 L87.6,416.4 L92.2,409.7 L96.2,408.9 L184.5,410.1 L181.0,416.5 L184.0,419.2 L179.4,428.7 L174.2,436.8 L174.8,441.4 L173.7,446.3 L171.6,448.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.ZG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346997</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG12</fips>
+    <postal-code>ZG</postal-code>
+    <name>Ziguinchor</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-16.3435</longitude>
+    <woe-name>Ziguinchor</woe-name>
+    <latitude>12.4818</latitude>
+    <woe-label>Ziguinchor, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>sn-zg</hc-key>
+    <hc-a2>ZG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.TC" d="M443.2,400.3 L440.3,399.5 L438.7,396.0 L436.0,394.7 L434.0,388.1 L434.2,384.8 L426.4,384.7 L428.4,377.5 L430.6,373.9 L421.8,372.5 L423.4,366.7 L420.1,365.9 L418.0,368.4 L413.5,369.8 L411.4,365.4 L406.7,362.5 L401.5,361.1 L396.3,363.3 L389.6,364.0 L384.4,366.7 L377.8,368.2 L369.4,373.1 L360.8,376.0 L355.9,374.4 L346.8,367.9 L340.7,355.9 L333.6,351.9 L329.0,351.5 L324.4,352.7 L317.4,356.7 L314.4,356.5 L309.0,352.8 L306.8,345.3 L302.4,339.7 L307.9,331.0 L318.8,328.3 L328.7,319.5 L329.8,312.6 L333.5,309.7 L334.5,304.9 L332.7,286.7 L328.1,275.0 L328.1,253.1 L342.1,249.7 L347.5,245.8 L354.7,239.2 L359.3,237.7 L369.2,247.0 L418.5,265.5 L424.1,266.3 L455.1,265.7 L456.3,265.1 L485.9,243.5 L488.0,242.7 L518.6,248.0 L523.5,247.9 L540.4,245.6 L543.2,243.3 L552.3,229.1 L560.7,207.2 L559.6,200.8 L547.3,184.3 L553.7,182.7 L557.2,185.8 L572.0,195.0 L574.8,204.2 L582.3,212.5 L589.4,215.8 L595.8,220.6 L596.7,224.0 L600.5,228.9 L605.4,230.1 L604.3,234.4 L607.1,237.9 L603.5,242.3 L602.9,246.2 L599.3,250.3 L601.2,260.1 L601.1,265.2 L613.2,269.2 L611.8,272.8 L615.3,277.0 L619.8,278.6 L622.5,281.3 L626.8,291.0 L626.3,298.3 L623.9,307.3 L625.1,315.1 L631.1,320.8 L631.3,330.1 L629.5,335.3 L625.8,339.3 L616.1,344.8 L619.3,348.4 L623.1,357.1 L627.8,363.3 L634.5,368.0 L640.8,373.7 L639.1,382.0 L628.5,384.4 L622.5,389.9 L620.2,389.9 L618.8,384.8 L611.7,382.9 L598.6,374.8 L596.0,375.9 L594.4,380.3 L598.4,386.4 L597.5,391.2 L589.5,391.3 L587.2,397.5 L582.8,394.8 L577.1,394.8 L571.2,400.0 L569.6,404.8 L563.9,407.2 L557.9,404.9 L554.5,407.0 L548.2,408.8 L548.9,414.2 L544.6,418.0 L543.6,422.1 L538.0,421.5 L536.7,424.5 L533.0,425.3 L531.0,429.4 L528.7,428.7 L522.9,424.0 L516.9,421.0 L510.6,421.0 L503.6,423.4 L499.6,426.2 L494.5,423.5 L489.5,423.2 L481.3,426.0 L476.9,422.9 L476.1,413.5 L473.7,411.8 L478.3,410.1 L476.7,401.4 L472.4,399.1 L471.1,394.1 L473.5,390.2 L472.5,388.4 L468.9,389.5 L459.8,388.7 L457.8,392.1 L455.7,389.8 L448.1,393.2 L445.8,391.7 L445.8,398.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SN.TC</hasc>
+    <alt-name>Sénégal Oriental</alt-name>
+    <woe-id>2346991</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG05</fips>
+    <postal-code>TC</postal-code>
+    <name>Tambacounda</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-13.2878</longitude>
+    <woe-name>Tambacounda</woe-name>
+    <latitude>13.9278</latitude>
+    <woe-label>Tambacounda, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>sn-tc</hc-key>
+    <hc-a2>TC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.KD" d="M269.9,465.8 L261.1,466.3 L251.5,472.3 L244.6,475.5 L238.2,480.2 L209.4,493.6 L205.4,494.4 L185.7,493.1 L181.7,487.2 L176.9,478.3 L176.7,474.5 L179.5,477.1 L188.1,477.4 L190.8,479.8 L194.7,479.0 L198.9,475.7 L206.8,476.8 L210.7,481.8 L214.4,481.9 L219.6,479.8 L225.2,473.1 L228.5,470.8 L225.0,460.2 L224.7,456.6 L227.0,452.9 L231.9,452.8 L235.8,448.9 L240.2,451.8 L240.2,449.2 L235.0,448.1 L230.5,450.9 L225.5,451.6 L223.3,454.1 L223.3,460.8 L224.6,465.2 L224.4,470.0 L215.0,478.7 L210.0,478.3 L210.6,474.8 L207.2,473.2 L199.1,471.9 L191.6,475.9 L189.9,473.8 L183.8,475.0 L177.9,471.9 L178.0,469.7 L174.7,468.7 L171.1,463.6 L170.1,459.8 L171.6,448.9 L173.7,446.3 L174.8,441.4 L174.2,436.8 L179.4,428.7 L184.0,419.2 L181.0,416.5 L184.5,410.1 L192.6,409.6 L193.1,391.3 L194.8,389.0 L202.8,388.2 L207.9,386.6 L217.0,387.4 L227.5,383.6 L231.1,383.8 L243.5,386.5 L247.7,386.5 L247.4,391.5 L245.0,400.4 L245.7,404.5 L249.7,407.2 L255.0,408.2 L259.0,417.1 L259.7,423.6 L267.4,428.7 L267.4,435.8 L271.7,442.0 L271.7,451.5 L269.0,458.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.KD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346996</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG11</fips>
+    <postal-code>KD</postal-code>
+    <name>Sédhiou</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-15.6151</longitude>
+    <woe-name>Kolda</woe-name>
+    <latitude>12.8803</latitude>
+    <woe-label>Kolda, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>sn-kd</hc-key>
+    <hc-a2>KD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.6976" d="M639.1,382.0 L644.3,385.6 L647.4,390.6 L653.3,386.3 L655.4,379.7 L658.7,379.0 L662.5,382.0 L667.5,381.4 L668.3,384.7 L671.8,384.0 L672.7,388.8 L678.1,394.9 L677.0,402.8 L680.6,406.9 L681.3,412.9 L690.8,417.0 L689.8,419.4 L692.5,423.8 L692.3,430.5 L694.1,430.8 L696.4,426.9 L698.5,433.4 L693.6,435.9 L695.1,437.7 L693.2,445.6 L696.2,449.6 L695.4,453.6 L696.8,456.9 L692.8,459.2 L690.2,465.5 L693.0,469.1 L692.8,477.0 L689.6,478.9 L694.0,482.9 L695.4,480.4 L697.4,486.2 L700.0,486.1 L698.9,495.0 L695.7,494.9 L688.2,492.3 L684.4,491.9 L669.8,493.7 L661.0,497.1 L656.7,497.9 L647.4,497.6 L636.4,494.2 L630.8,497.5 L626.9,497.7 L620.0,495.4 L615.1,496.6 L607.2,502.5 L587.9,507.7 L582.8,501.8 L575.7,498.6 L571.3,498.0 L561.3,501.4 L555.0,494.0 L550.4,492.9 L540.7,493.1 L539.5,491.0 L534.3,489.9 L532.0,486.2 L524.6,481.4 L520.5,481.5 L516.9,489.6 L508.8,489.0 L505.3,484.0 L507.9,473.8 L505.9,470.0 L498.0,469.1 L491.6,470.4 L490.0,469.0 L485.6,469.5 L481.2,468.2 L476.7,469.8 L473.6,468.6 L473.0,464.6 L464.1,464.7 L459.7,461.9 L460.6,454.7 L458.7,449.9 L459.1,445.3 L461.4,444.2 L460.5,440.6 L457.4,437.9 L455.8,433.7 L456.0,428.5 L454.2,425.2 L449.3,420.4 L449.1,417.7 L445.9,414.7 L444.3,409.1 L444.4,401.9 L443.2,400.3 L445.8,398.0 L445.8,391.7 L448.1,393.2 L455.7,389.8 L457.8,392.1 L459.8,388.7 L468.9,389.5 L472.5,388.4 L473.5,390.2 L471.1,394.1 L472.4,399.1 L476.7,401.4 L478.3,410.1 L473.7,411.8 L476.1,413.5 L476.9,422.9 L481.3,426.0 L489.5,423.2 L494.5,423.5 L499.6,426.2 L503.6,423.4 L510.6,421.0 L516.9,421.0 L522.9,424.0 L528.7,428.7 L531.0,429.4 L533.0,425.3 L536.7,424.5 L538.0,421.5 L543.6,422.1 L544.6,418.0 L548.9,414.2 L548.2,408.8 L554.5,407.0 L557.9,404.9 L563.9,407.2 L569.6,404.8 L571.2,400.0 L577.1,394.8 L582.8,394.8 L587.2,397.5 L589.5,391.3 L597.5,391.2 L598.4,386.4 L594.4,380.3 L596.0,375.9 L598.6,374.8 L611.7,382.9 L618.8,384.8 L620.2,389.9 L622.5,389.9 L628.5,384.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SN.TC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346991</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kédougou</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-12.1903</longitude>
+    <woe-name>Tambacounda</woe-name>
+    <latitude>12.842</latitude>
+    <woe-label>Tambacounda, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>sn-6976</hc-key>
+    <hc-a2>KÉ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.6978" d="M302.4,339.7 L296.1,336.6 L284.7,336.1 L275.5,333.4 L267.2,336.4 L258.7,341.9 L256.3,342.4 L252.0,337.8 L247.1,337.0 L241.9,339.0 L236.1,336.3 L228.3,335.8 L220.5,332.4 L215.9,339.6 L211.0,339.2 L206.1,332.4 L206.9,323.6 L202.0,320.6 L197.9,316.4 L194.6,308.8 L189.7,307.9 L189.7,294.4 L191.0,290.2 L196.0,278.9 L196.2,267.6 L199.2,265.3 L206.3,257.0 L211.8,255.4 L219.4,249.2 L237.8,245.8 L241.2,242.0 L243.7,231.4 L252.7,236.8 L258.4,239.0 L275.6,242.5 L279.5,242.8 L284.3,241.4 L294.3,235.2 L298.1,233.9 L302.1,238.4 L307.2,241.7 L325.6,247.1 L328.2,248.6 L328.1,253.1 L328.1,275.0 L332.7,286.7 L334.5,304.9 L333.5,309.7 L329.8,312.6 L328.7,319.5 L318.8,328.3 L307.9,331.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346995</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kaffrine</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-15.2014</longitude>
+    <woe-name>Kaolack</woe-name>
+    <latitude>14.2364</latitude>
+    <woe-label>Kaolack, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>sn-6978</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.6975" d="M430.3,64.1 L425.7,73.9 L414.3,78.6 L412.7,82.8 L400.1,94.3 L382.2,109.1 L365.5,122.2 L361.0,118.8 L343.1,109.6 L338.1,102.9 L332.4,94.5 L319.8,85.7 L313.9,86.1 L302.9,80.6 L238.7,80.4 L237.8,88.2 L220.2,89.3 L219.0,88.6 L196.0,62.1 L192.2,59.0 L186.2,63.5 L183.1,68.0 L161.2,80.3 L157.3,83.5 L155.4,87.1 L148.8,91.0 L145.2,97.9 L140.0,98.5 L131.7,101.9 L113.4,102.2 L115.8,97.5 L116.9,91.1 L117.3,78.5 L121.5,67.3 L122.1,59.5 L124.6,55.8 L130.5,53.7 L131.7,51.1 L137.9,24.7 L141.5,20.5 L146.5,18.6 L152.7,19.2 L159.8,15.5 L163.0,17.3 L168.5,22.4 L176.2,21.3 L180.1,22.0 L184.5,20.0 L195.5,20.4 L211.3,24.3 L218.3,19.6 L224.8,20.4 L228.9,18.6 L231.6,14.7 L236.3,12.9 L238.8,16.0 L243.4,16.2 L248.1,14.2 L253.5,13.7 L260.6,14.5 L272.6,12.6 L276.2,10.6 L273.4,5.7 L274.6,3.0 L277.8,3.1 L280.8,6.6 L284.5,5.3 L285.1,2.9 L289.5,0.0 L294.3,5.6 L299.8,5.1 L318.9,6.4 L324.0,5.3 L331.7,7.2 L336.4,5.8 L344.5,6.6 L353.0,3.5 L360.1,6.2 L362.1,12.5 L367.4,12.6 L369.7,17.1 L373.7,17.5 L383.8,27.5 L397.0,38.7 L401.2,40.7 L401.1,45.1 L402.9,49.3 L402.8,53.3 L409.1,55.6 L413.1,59.2 L415.4,64.4 L420.0,65.7 L424.4,62.4 L427.2,58.7 L431.3,57.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>SN.SL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346990</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG14</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint-Louis</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-14.9945</longitude>
+    <woe-name>Matam</woe-name>
+    <latitude>16.3051</latitude>
+    <woe-label>St.-Louis, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>sn-6975</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.DK" d="M43.7,240.1 L40.3,235.5 L33.0,230.0 L28.7,229.1 L23.2,225.6 L13.4,225.4 L10.8,227.2 L13.1,228.7 L10.8,231.1 L12.2,232.7 L9.3,234.1 L0.0,222.9 L18.7,218.2 L24.3,213.7 L40.2,207.1 L42.6,212.5 L43.4,218.0 L46.0,224.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>SN.DK</hasc>
+    <alt-name>Cap Vert|Dacar</alt-name>
+    <woe-id>2346988</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG01</fips>
+    <postal-code>DK</postal-code>
+    <name>Dakar</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-17.3327</longitude>
+    <woe-name>Dakar</woe-name>
+    <latitude>14.7835</latitude>
+    <woe-label>Dakar, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.73</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>sn-dk</hc-key>
+    <hc-a2>DK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.DB" d="M243.7,231.4 L241.2,242.0 L237.8,245.8 L236.3,241.7 L233.6,239.6 L215.0,232.0 L212.4,229.3 L204.8,230.3 L199.2,226.2 L195.8,229.3 L195.2,239.1 L194.3,241.5 L188.2,247.6 L181.1,250.1 L170.0,251.1 L157.7,248.9 L151.2,245.1 L142.5,243.4 L135.0,244.5 L132.0,242.3 L121.3,241.4 L114.8,242.3 L113.4,244.5 L105.4,241.2 L103.3,238.0 L106.3,234.4 L106.6,230.4 L103.7,227.8 L104.3,223.6 L101.2,221.2 L101.1,213.8 L97.1,209.9 L99.3,203.3 L101.4,202.2 L128.7,194.5 L133.8,196.6 L138.2,196.0 L145.1,200.5 L146.4,204.0 L151.9,204.6 L158.3,201.1 L158.8,199.7 L165.0,195.9 L192.7,195.8 L194.4,196.1 L194.8,200.0 L199.4,205.1 L204.8,208.6 L205.5,212.3 L207.5,213.9 L210.5,213.0 L219.6,213.1 L224.8,215.5 L232.3,214.8 L235.4,216.2 L236.7,225.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.DB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346989</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG03</fips>
+    <postal-code>DB</postal-code>
+    <name>Diourbel</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-16.1895</longitude>
+    <woe-name>Diourbel</woe-name>
+    <latitude>14.7509</latitude>
+    <woe-label>Diourbel, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>sn-db</hc-key>
+    <hc-a2>DB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.FK" d="M163.3,360.4 L109.3,359.9 L107.7,353.7 L115.4,348.2 L113.0,346.6 L115.5,343.5 L113.0,341.8 L112.8,345.9 L109.1,349.8 L105.1,352.0 L100.9,349.2 L100.4,347.1 L101.9,338.5 L107.8,330.6 L110.8,332.3 L110.0,329.8 L114.0,329.1 L114.9,333.6 L117.9,334.6 L115.3,324.3 L118.0,311.6 L114.5,317.5 L113.5,322.3 L110.8,327.1 L100.8,329.8 L98.4,333.8 L93.7,338.6 L92.0,334.3 L89.5,332.7 L89.9,326.5 L88.5,317.4 L92.2,313.5 L98.4,313.3 L100.9,316.3 L105.3,312.2 L107.9,313.2 L108.8,308.4 L106.3,306.8 L111.4,303.7 L117.9,297.1 L121.5,296.0 L124.7,293.3 L127.4,295.1 L131.1,293.1 L139.0,293.5 L145.1,297.8 L147.2,304.0 L145.1,309.7 L149.5,315.1 L150.8,323.1 L150.3,325.8 L146.2,330.5 L146.2,335.8 L153.5,341.7 L155.6,349.6 L162.3,357.3 Z M237.8,245.8 L219.4,249.2 L211.8,255.4 L206.3,257.0 L199.2,265.3 L196.2,267.6 L192.6,269.9 L178.7,269.3 L171.8,273.3 L162.2,271.6 L160.6,270.4 L144.3,272.7 L138.8,278.0 L133.0,286.4 L130.2,292.5 L124.9,292.2 L120.2,289.5 L119.7,294.8 L115.2,294.4 L110.2,303.6 L106.6,304.7 L101.6,310.7 L99.1,311.5 L91.5,309.9 L96.4,303.0 L90.8,304.3 L92.0,306.9 L86.5,315.1 L85.5,319.4 L85.9,330.5 L85.2,330.4 L84.7,308.1 L81.4,297.2 L85.5,295.2 L85.5,291.0 L88.4,288.6 L87.3,285.3 L89.0,278.6 L94.8,262.2 L100.7,261.2 L106.3,257.2 L111.2,251.4 L113.4,244.5 L114.8,242.3 L121.3,241.4 L132.0,242.3 L135.0,244.5 L142.5,243.4 L151.2,245.1 L157.7,248.9 L170.0,251.1 L181.1,250.1 L188.2,247.6 L194.3,241.5 L195.2,239.1 L195.8,229.3 L199.2,226.2 L204.8,230.3 L212.4,229.3 L215.0,232.0 L233.6,239.6 L236.3,241.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.FK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346994</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG09</fips>
+    <postal-code>FK</postal-code>
+    <name>Fatick</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-16.4165</longitude>
+    <woe-name>Fatick</woe-name>
+    <latitude>13.8699</latitude>
+    <woe-label>Fatick, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.20</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>sn-fk</hc-key>
+    <hc-a2>FK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.1181" d="M241.9,339.0 L233.5,346.3 L231.1,350.7 L229.5,360.2 L227.7,360.8 L163.3,360.4 L162.3,357.3 L155.6,349.6 L153.5,341.7 L146.2,335.8 L146.2,330.5 L150.3,325.8 L150.8,323.1 L149.5,315.1 L145.1,309.7 L147.2,304.0 L145.1,297.8 L139.0,293.5 L131.1,293.1 L132.0,292.6 L130.2,292.5 L133.0,286.4 L138.8,278.0 L144.3,272.7 L160.6,270.4 L162.2,271.6 L171.8,273.3 L178.7,269.3 L192.6,269.9 L196.2,267.6 L196.0,278.9 L191.0,290.2 L189.7,294.4 L189.7,307.9 L194.6,308.8 L197.9,316.4 L202.0,320.6 L206.9,323.6 L206.1,332.4 L211.0,339.2 L215.9,339.6 L220.5,332.4 L228.3,335.8 L236.1,336.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346995</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kaolack</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-15.9845</longitude>
+    <woe-name>Kaolack</woe-name>
+    <latitude>13.8846</latitude>
+    <woe-label>Kaolack, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>sn-1181</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN.LG" d="M302.1,238.4 L298.1,233.9 L294.3,235.2 L284.3,241.4 L279.5,242.8 L275.6,242.5 L258.4,239.0 L252.7,236.8 L243.7,231.4 L236.7,225.7 L235.4,216.2 L232.3,214.8 L224.8,215.5 L219.6,213.1 L210.5,213.0 L207.5,213.9 L205.5,212.3 L204.8,208.6 L199.4,205.1 L194.8,200.0 L194.4,196.1 L192.7,195.8 L165.0,195.9 L158.8,199.7 L152.0,196.0 L149.3,188.9 L146.0,184.9 L143.9,178.9 L144.4,174.5 L141.9,168.2 L138.0,168.6 L136.7,160.9 L135.2,159.0 L130.4,159.5 L123.0,158.6 L116.4,167.1 L114.3,172.2 L106.2,180.9 L104.5,180.5 L104.2,174.7 L98.8,169.8 L96.0,165.5 L93.1,164.2 L92.1,160.7 L92.7,155.8 L95.6,149.1 L95.1,143.2 L91.2,140.2 L98.6,130.4 L113.5,105.8 L113.4,102.2 L131.7,101.9 L140.0,98.5 L145.2,97.9 L148.8,91.0 L155.4,87.1 L157.3,83.5 L161.2,80.3 L183.1,68.0 L186.2,63.5 L192.2,59.0 L196.0,62.1 L219.0,88.6 L220.2,89.3 L237.8,88.2 L238.7,80.4 L302.9,80.6 L313.9,86.1 L319.8,85.7 L332.4,94.5 L338.1,102.9 L329.2,111.3 L324.7,114.3 L315.7,117.7 L314.9,138.7 L310.9,145.1 L329.7,154.7 L339.1,153.4 L335.4,169.5 L333.4,182.1 L338.3,184.5 L329.3,187.2 L316.6,188.9 L308.9,191.8 L312.1,203.2 L317.1,214.1 L313.0,222.6 L308.1,225.9 L306.4,235.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SN.LG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346993</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SG13</fips>
+    <postal-code>LG</postal-code>
+    <name>Louga</name>
+    <country>Senegal</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-15.5162</longitude>
+    <woe-name>Louga</woe-name>
+    <latitude>15.4183</latitude>
+    <woe-label>Louga, SN, Senegal</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>sn-lg</hc-key>
+    <hc-a2>LG</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

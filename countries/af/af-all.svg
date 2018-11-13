@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Afghanistan</title>
+<g id="admin1">
+
+<g id="AF">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Afghanistan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Afg.</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>AFG</iso-a3>
+    <iso-a2>AF</iso-a2>
+    <woe-id>23424739</woe-id>
+    <continent>Asia</continent>
+    <hc-key>af</hc-key>
+    <hc-a2>AF</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.KT" d="M470.4,280.6 L475.9,281.4 L477.2,285.3 L479.0,286.6 L478.4,294.4 L484.9,301.6 L485.4,305.4 L477.1,312.6 L473.3,312.9 L471.6,316.1 L465.0,319.2 L459.6,317.7 L455.3,319.8 L448.4,320.2 L445.0,323.9 L438.4,322.1 L441.1,316.8 L441.1,310.2 L443.6,305.1 L448.2,300.9 L450.1,291.8 L453.1,289.7 L459.5,288.4 L470.0,282.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.KT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550741</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF37</fips>
+    <postal-code>KT</postal-code>
+    <name>Khost</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>69.8211</longitude>
+    <woe-name>Khost</woe-name>
+    <latitude>33.363</latitude>
+    <woe-label>Khowst, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>af-kt</hc-key>
+    <hc-a2>KT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.PK" d="M441.1,310.2 L441.1,316.8 L438.4,322.1 L445.0,323.9 L445.0,333.1 L440.0,338.1 L442.6,344.3 L439.3,350.1 L435.3,352.3 L432.6,358.9 L434.6,366.0 L433.8,376.0 L436.2,387.4 L432.5,390.7 L427.0,399.3 L421.4,404.4 L413.3,407.0 L409.9,406.3 L405.9,400.5 L404.8,397.1 L397.3,394.2 L391.8,396.5 L398.4,398.3 L395.8,400.0 L388.7,397.7 L383.6,397.5 L378.8,393.9 L375.7,397.8 L372.2,395.2 L371.5,389.9 L374.7,383.4 L373.5,377.8 L375.1,372.0 L374.9,362.7 L375.5,359.9 L374.0,353.8 L368.5,349.3 L367.6,347.3 L363.0,343.7 L362.2,341.7 L366.7,335.2 L373.0,340.8 L378.9,340.4 L382.9,338.0 L384.9,334.3 L392.5,326.1 L395.8,317.7 L400.5,314.3 L404.5,309.1 L405.6,305.4 L409.7,301.4 L414.6,299.9 L418.9,301.2 L420.2,303.3 L421.1,315.2 L422.0,315.6 L429.2,311.2 L432.3,308.6 L434.6,310.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.PK</hasc>
+    <alt-name>Paktiya|Paktya|Southern Province</alt-name>
+    <woe-id>2344574</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF29</fips>
+    <postal-code>PK</postal-code>
+    <name>Paktika</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>68.651</longitude>
+    <woe-name>Paktika</woe-name>
+    <latitude>32.5106</latitude>
+    <woe-label>Paktika, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>af-pk</hc-key>
+    <hc-a2>PK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.GZ" d="M409.7,301.4 L405.6,305.4 L404.5,309.1 L400.5,314.3 L395.8,317.7 L392.5,326.1 L384.9,334.3 L382.9,338.0 L378.9,340.4 L373.0,340.8 L366.7,335.2 L362.2,341.7 L363.0,343.7 L367.6,347.3 L368.5,349.3 L374.0,353.8 L375.5,359.9 L374.9,362.7 L375.1,372.0 L373.5,377.8 L371.1,379.2 L366.9,379.0 L363.1,376.1 L356.6,373.5 L355.5,368.3 L353.1,368.6 L352.9,365.6 L358.1,363.8 L360.0,361.1 L355.4,358.6 L354.0,355.3 L350.8,353.0 L354.2,349.2 L352.0,347.8 L344.5,340.1 L341.6,336.0 L343.4,332.8 L340.2,330.0 L343.3,326.9 L341.4,323.9 L339.3,326.7 L336.2,327.1 L334.0,324.6 L331.7,324.8 L329.9,320.7 L325.3,320.6 L326.4,323.8 L324.2,327.7 L322.0,328.0 L317.6,325.9 L316.9,321.7 L317.8,315.4 L321.9,311.7 L321.3,309.2 L314.1,308.8 L313.4,306.9 L315.1,296.8 L313.7,292.4 L314.5,289.3 L320.2,286.5 L324.5,286.0 L331.3,283.5 L333.5,280.3 L341.4,272.5 L338.8,267.7 L340.8,264.2 L339.8,262.7 L341.4,259.0 L344.1,256.8 L348.7,256.6 L351.4,253.5 L356.0,252.8 L363.2,256.5 L366.9,256.6 L373.6,253.3 L376.9,255.5 L378.0,259.3 L379.1,268.0 L383.3,269.7 L391.4,277.8 L394.3,278.1 L394.1,283.3 L397.4,284.6 L403.3,281.9 L407.0,278.0 L408.9,279.3 L409.9,288.4 L410.1,294.5 L411.2,297.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AF.GZ</hasc>
+    <alt-name>Gazni</alt-name>
+    <woe-id>2344555</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF08</fips>
+    <postal-code>GZ</postal-code>
+    <name>Ghazni</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>67.8006</longitude>
+    <woe-name>Ghazni</woe-name>
+    <latitude>33.4079</latitude>
+    <woe-label>Ghazni, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>af-gz</hc-key>
+    <hc-a2>GZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.BD" d="M468.5,55.3 L474.4,56.4 L478.4,51.3 L479.6,51.3 L481.5,46.1 L479.4,38.8 L475.8,35.2 L476.1,31.9 L480.3,32.2 L479.9,30.2 L483.3,27.9 L490.5,20.3 L493.4,12.9 L495.0,12.1 L495.5,8.4 L499.6,5.4 L499.5,3.8 L503.1,2.0 L508.2,1.3 L511.3,2.4 L513.0,0.0 L516.6,3.8 L521.6,5.6 L524.5,8.5 L530.0,11.0 L531.6,15.4 L530.3,21.0 L527.6,27.8 L527.0,32.1 L530.9,33.9 L538.4,30.6 L543.0,33.3 L542.8,38.2 L540.3,40.5 L540.6,44.6 L538.8,53.1 L539.6,57.8 L538.5,62.4 L538.8,70.8 L537.1,73.8 L536.4,82.7 L538.1,89.7 L541.4,95.1 L542.7,100.2 L545.5,103.9 L552.1,105.3 L556.3,104.0 L569.8,93.3 L575.9,87.4 L582.8,84.8 L594.7,83.1 L599.2,73.5 L602.4,70.3 L605.7,69.3 L610.0,65.9 L613.4,65.4 L618.0,59.7 L620.0,59.6 L622.9,56.4 L627.7,56.6 L632.7,54.7 L641.7,57.2 L645.5,57.2 L645.3,61.6 L642.9,64.6 L640.1,65.3 L639.6,69.0 L642.6,68.3 L644.5,69.7 L648.2,68.9 L660.0,63.3 L665.2,62.0 L667.8,57.5 L682.3,58.3 L688.4,56.8 L694.7,60.2 L700.0,65.8 L694.9,66.8 L691.7,62.3 L687.3,66.6 L685.6,65.9 L680.8,67.3 L679.6,70.2 L675.4,71.1 L676.2,73.4 L680.8,75.7 L684.5,79.9 L683.4,83.0 L681.1,80.7 L677.2,81.2 L668.9,87.6 L664.3,88.2 L663.5,91.7 L660.7,92.8 L656.5,92.1 L652.4,89.8 L648.0,88.9 L641.7,88.9 L635.5,90.3 L620.4,91.1 L608.8,93.0 L605.1,94.5 L596.9,94.4 L590.7,95.6 L585.6,99.5 L574.2,101.8 L571.4,103.3 L572.3,106.1 L566.6,108.4 L558.5,115.7 L553.7,117.0 L554.8,121.3 L552.0,122.0 L546.8,118.4 L545.5,119.1 L542.8,124.6 L543.6,126.3 L539.9,128.0 L535.4,133.0 L532.4,134.1 L531.1,136.7 L527.8,138.7 L525.4,144.3 L521.2,150.3 L520.5,154.9 L516.5,159.3 L516.3,162.1 L518.3,163.7 L515.8,167.5 L512.4,168.2 L511.3,170.1 L512.2,175.0 L511.4,177.0 L504.8,176.3 L502.7,174.0 L500.6,177.9 L495.9,179.5 L496.3,172.3 L492.9,166.8 L487.3,164.8 L483.6,167.0 L480.6,166.4 L481.6,158.4 L482.5,155.8 L491.5,148.1 L489.8,144.6 L492.0,136.2 L491.7,130.0 L479.0,127.0 L475.7,123.0 L471.0,120.0 L469.0,110.7 L469.0,92.5 L474.5,85.3 L470.1,79.9 L468.7,71.6 L469.3,66.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.BD</hasc>
+    <alt-name>Badah?an</alt-name>
+    <woe-id>2344549</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF01</fips>
+    <postal-code>BD</postal-code>
+    <name>Badakhshan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>70.8036</longitude>
+    <woe-name>Badakhshan</woe-name>
+    <latitude>36.781</latitude>
+    <woe-label>Badakhshan, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.17</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>af-bd</hc-key>
+    <hc-a2>BD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.NR" d="M480.6,166.4 L483.6,167.0 L487.3,164.8 L492.9,166.8 L496.3,172.3 L495.9,179.5 L500.6,177.9 L502.7,174.0 L504.8,176.3 L511.4,177.0 L512.2,175.0 L511.3,170.1 L512.4,168.2 L515.8,167.5 L518.3,163.7 L516.3,162.1 L516.5,159.3 L520.5,154.9 L521.2,150.3 L525.4,144.3 L529.7,147.7 L533.8,149.1 L535.3,152.7 L537.5,154.2 L542.8,164.4 L541.1,167.9 L546.5,172.3 L546.7,177.3 L540.8,182.0 L540.0,184.3 L535.2,184.3 L529.5,186.6 L527.0,189.5 L526.8,192.6 L523.8,199.2 L522.9,198.0 L520.1,201.0 L517.6,200.3 L511.3,201.5 L506.3,200.3 L501.4,198.0 L497.8,206.2 L494.6,209.4 L489.0,211.6 L482.5,209.5 L477.1,200.7 L471.5,200.2 L468.3,192.3 L468.4,189.1 L465.8,185.9 L466.7,184.1 L471.1,181.6 L473.3,178.0 L476.1,177.9 L478.1,175.1 L477.8,172.9 L479.9,170.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.NR</hasc>
+    <alt-name>Nooristan|Nuristão</alt-name>
+    <woe-id>24549937</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF38</fips>
+    <postal-code>NR</postal-code>
+    <name>Nuristan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>70.7567</longitude>
+    <woe-name>Nuristan</woe-name>
+    <latitude>35.2898</latitude>
+    <woe-label>Nurestan, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>af-nr</hc-key>
+    <hc-a2>NR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.KR" d="M497.8,206.2 L501.4,198.0 L506.3,200.3 L511.3,201.5 L517.6,200.3 L520.1,201.0 L522.9,198.0 L523.8,199.2 L526.8,192.6 L527.0,189.5 L529.5,186.6 L535.2,184.3 L540.0,184.3 L540.8,182.0 L546.7,177.3 L547.6,181.4 L543.9,185.5 L543.8,187.1 L549.0,192.7 L547.7,196.6 L543.2,200.6 L543.4,204.4 L541.0,208.4 L532.8,212.5 L528.7,220.1 L522.8,224.7 L522.2,231.5 L518.2,231.8 L510.4,232.1 L506.4,233.4 L506.9,229.8 L503.5,229.6 L501.7,225.6 L502.5,220.6 L500.0,217.6 L500.1,213.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.KR</hasc>
+    <alt-name>Konarha|Kunarha</alt-name>
+    <woe-id>2344561</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF34</fips>
+    <postal-code>KR</postal-code>
+    <name>Kunar</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>71.1061</longitude>
+    <woe-name>Kunar</woe-name>
+    <latitude>34.9013</latitude>
+    <woe-label>Konar, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>af-kr</hc-key>
+    <hc-a2>KR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.KZ" d="M374.9,92.3 L382.6,86.9 L386.9,87.4 L387.1,82.9 L388.4,81.3 L393.3,81.4 L392.9,79.1 L399.1,78.1 L403.5,75.9 L405.5,71.7 L409.8,71.9 L412.7,73.3 L412.4,69.0 L417.5,71.1 L415.8,68.4 L419.5,68.7 L427.0,78.1 L432.8,82.0 L435.8,81.2 L437.2,82.9 L436.0,86.3 L435.7,97.0 L434.3,99.4 L431.5,100.4 L431.1,104.9 L433.4,111.1 L432.0,114.8 L428.2,118.3 L430.8,124.3 L431.7,129.7 L429.7,127.6 L425.1,126.3 L421.1,122.6 L417.1,121.7 L414.6,122.9 L411.6,120.8 L407.9,115.7 L403.2,116.4 L399.2,115.3 L388.8,114.8 L384.9,113.4 L383.4,112.9 L382.5,112.1 L379.2,107.3 L375.4,98.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.KZ</hasc>
+    <alt-name>Kondoz|Qonduz|Qunduz</alt-name>
+    <woe-id>2344570</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF24</fips>
+    <postal-code>KZ</postal-code>
+    <name>Kunduz</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>68.682</longitude>
+    <woe-name>Kunduz</woe-name>
+    <latitude>36.9043</latitude>
+    <woe-label>Konduz, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>af-kz</hc-key>
+    <hc-a2>KZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.NG" d="M500.0,217.6 L502.5,220.6 L501.7,225.6 L503.5,229.6 L506.9,229.8 L506.4,233.4 L510.4,232.1 L518.2,231.8 L516.9,233.2 L517.7,236.9 L521.7,241.5 L525.2,243.4 L524.1,249.0 L524.5,255.5 L522.6,258.3 L522.7,261.3 L517.4,264.4 L514.0,264.3 L512.9,266.8 L502.8,267.6 L496.2,268.6 L486.6,267.7 L481.2,266.3 L470.5,262.7 L465.7,263.2 L465.4,262.7 L460.1,253.1 L457.3,250.6 L445.1,256.1 L445.2,253.1 L448.5,250.8 L453.8,244.5 L453.7,242.2 L461.0,241.1 L462.5,241.6 L470.5,240.4 L473.4,241.0 L477.1,239.4 L485.0,237.6 L489.4,234.7 L490.6,232.1 L489.9,226.4 L494.2,223.9 L496.8,219.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.NG</hasc>
+    <alt-name>Ningrahar|Eastern Province</alt-name>
+    <woe-id>2344564</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF18</fips>
+    <postal-code>NG</postal-code>
+    <name>Nangarhar</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>70.3027</longitude>
+    <woe-name>Nangarhar</woe-name>
+    <latitude>34.2153</latitude>
+    <woe-label>Nangarhar, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>af-ng</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.TK" d="M431.7,129.7 L430.8,124.3 L428.2,118.3 L432.0,114.8 L433.4,111.1 L431.1,104.9 L431.5,100.4 L434.3,99.4 L435.7,97.0 L436.0,86.3 L437.2,82.9 L435.8,81.2 L440.5,77.6 L442.2,74.1 L440.9,72.3 L439.0,65.6 L439.0,62.3 L446.1,53.4 L452.5,54.0 L456.7,52.7 L458.9,53.6 L463.3,51.4 L468.5,55.3 L469.3,66.7 L468.7,71.6 L470.1,79.9 L474.5,85.3 L469.0,92.5 L469.0,110.7 L471.0,120.0 L475.7,123.0 L479.0,127.0 L491.7,130.0 L492.0,136.2 L489.8,144.6 L491.5,148.1 L482.5,155.8 L477.8,153.3 L474.8,157.7 L468.7,159.4 L467.5,158.3 L467.2,153.8 L463.8,146.7 L459.0,141.3 L458.5,134.5 L454.9,132.0 L453.3,126.3 L446.2,129.8 L442.5,132.6 L435.6,133.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.TK</hasc>
+    <alt-name>Takar</alt-name>
+    <woe-id>2344571</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF26</fips>
+    <postal-code>TK</postal-code>
+    <name>Takhar</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>69.8124</longitude>
+    <woe-name>Takhar</woe-name>
+    <latitude>36.8335</latitude>
+    <woe-label>Takhar, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>af-tk</hc-key>
+    <hc-a2>TK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.BL" d="M431.7,129.7 L435.6,133.8 L442.5,132.6 L446.2,129.8 L453.3,126.3 L454.9,132.0 L458.5,134.5 L459.0,141.3 L463.8,146.7 L467.2,153.8 L467.5,158.3 L462.8,164.3 L460.6,164.5 L458.9,167.7 L457.4,174.3 L455.0,175.0 L448.1,179.4 L442.4,179.8 L440.7,181.8 L433.9,183.2 L430.2,181.6 L424.1,185.7 L422.9,187.9 L416.1,191.9 L414.1,190.5 L411.0,192.0 L408.6,195.7 L401.6,199.7 L400.6,202.6 L390.9,203.1 L386.6,202.0 L381.5,205.7 L376.0,204.3 L373.3,202.4 L373.2,196.0 L375.6,193.9 L377.7,187.6 L377.1,179.0 L379.7,176.3 L382.3,170.0 L380.2,168.3 L380.8,165.5 L387.8,156.3 L389.7,147.5 L395.6,142.9 L398.7,138.2 L398.0,136.7 L391.1,131.6 L383.3,119.7 L381.7,116.3 L384.9,113.4 L388.8,114.8 L399.2,115.3 L403.2,116.4 L407.9,115.7 L411.6,120.8 L414.6,122.9 L417.1,121.7 L421.1,122.6 L425.1,126.3 L429.7,127.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AF.BL</hasc>
+    <alt-name>Baglan|Bughlan</alt-name>
+    <woe-id>2344551</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF03</fips>
+    <postal-code>BL</postal-code>
+    <name>Baghlan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>68.98309999999999</longitude>
+    <woe-name>Baghlan</woe-name>
+    <latitude>35.8588</latitude>
+    <woe-label>Baghlan, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>af-bl</hc-key>
+    <hc-a2>BL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.KB" d="M461.0,241.1 L453.7,242.2 L453.8,244.5 L448.5,250.8 L445.2,253.1 L445.1,256.1 L443.9,257.0 L440.4,250.8 L435.0,244.0 L430.1,247.3 L426.9,247.4 L419.7,244.9 L418.5,241.1 L414.7,239.2 L413.4,236.4 L414.5,228.8 L414.9,223.9 L418.3,215.8 L420.3,212.6 L423.9,213.5 L432.3,213.9 L435.8,216.3 L438.6,221.7 L440.5,222.6 L443.1,230.6 L446.1,230.1 L448.0,227.0 L450.7,227.1 L456.3,227.0 L459.2,219.4 L464.9,214.9 L466.5,220.8 L462.9,225.1 L461.4,230.8 L462.2,234.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AF.KB</hasc>
+    <alt-name>Cabul|Kabol|Kaboul</alt-name>
+    <woe-id>2344559</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF13</fips>
+    <postal-code>KB</postal-code>
+    <name>Kabul</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>69.38460000000001</longitude>
+    <woe-name>Kabul</woe-name>
+    <latitude>34.4949</latitude>
+    <woe-label>Kabul, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>af-kb</hc-key>
+    <hc-a2>KB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.KP" d="M464.9,214.9 L459.2,219.4 L456.3,227.0 L450.7,227.1 L451.2,224.4 L448.7,219.6 L448.7,211.7 L442.1,210.2 L439.7,207.5 L435.7,205.6 L434.7,203.5 L434.9,196.9 L436.1,195.7 L442.1,197.3 L448.6,197.3 L451.9,196.4 L455.6,196.9 L459.9,201.5 L462.4,205.1 L465.8,213.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.KP</hasc>
+    <alt-name>Kapesa</alt-name>
+    <woe-id>2344560</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF14</fips>
+    <postal-code>KP</postal-code>
+    <name>Kapisa</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>69.6626</longitude>
+    <woe-name>Kapisa</woe-name>
+    <latitude>34.9748</latitude>
+    <woe-label>Kapisa, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>af-kp</hc-key>
+    <hc-a2>KP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.2030" d="M480.6,166.4 L479.9,170.7 L477.8,172.9 L478.1,175.1 L476.1,177.9 L473.3,178.0 L471.1,181.6 L466.7,184.1 L465.8,185.9 L468.4,189.1 L468.3,192.3 L465.8,196.3 L460.8,199.3 L459.9,201.5 L455.6,196.9 L451.9,196.4 L448.6,197.3 L442.1,197.3 L436.1,195.7 L434.9,196.9 L433.1,197.1 L433.9,183.2 L440.7,181.8 L442.4,179.8 L448.1,179.4 L455.0,175.0 L457.4,174.3 L458.9,167.7 L460.6,164.5 L462.8,164.3 L467.5,158.3 L468.7,159.4 L474.8,157.7 L477.8,153.3 L482.5,155.8 L481.6,158.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.PV</hasc>
+    <alt-name>Charikar</alt-name>
+    <woe-id>2344568</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF42</fips>
+    <postal-code>NULL</postal-code>
+    <name>Parwan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>69.75870000000001</longitude>
+    <woe-name>Parwan</woe-name>
+    <latitude>35.3368</latitude>
+    <woe-label>Parvan, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.72</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>af-2030</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.LA" d="M497.8,206.2 L500.1,213.4 L500.0,217.6 L496.8,219.0 L494.2,223.9 L489.9,226.4 L490.6,232.1 L489.4,234.7 L485.0,237.6 L477.1,239.4 L473.4,241.0 L470.5,240.4 L462.5,241.6 L461.0,241.1 L462.2,234.1 L461.4,230.8 L462.9,225.1 L466.5,220.8 L464.9,214.9 L465.8,213.5 L462.4,205.1 L459.9,201.5 L460.8,199.3 L465.8,196.3 L468.3,192.3 L471.5,200.2 L477.1,200.7 L482.5,209.5 L489.0,211.6 L494.6,209.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.LA</hasc>
+    <alt-name>Lagman</alt-name>
+    <woe-id>2344562</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF35</fips>
+    <postal-code>LA</postal-code>
+    <name>Laghman</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>70.2085</longitude>
+    <woe-name>Laghman</woe-name>
+    <latitude>34.7273</latitude>
+    <woe-label>Laghman, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>af-la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.LW" d="M445.1,256.1 L457.3,250.6 L460.1,253.1 L465.4,262.7 L460.9,261.0 L456.5,264.9 L452.5,262.4 L447.9,262.5 L445.4,266.2 L435.9,275.7 L431.0,278.0 L424.9,282.7 L422.6,287.6 L420.4,288.9 L409.9,288.4 L408.9,279.3 L407.0,278.0 L409.5,272.7 L410.0,268.7 L415.7,266.0 L411.7,260.3 L413.4,253.9 L416.0,251.3 L419.7,244.9 L426.9,247.4 L430.1,247.3 L435.0,244.0 L440.4,250.8 L443.9,257.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.LW</hasc>
+    <alt-name>Lawghar|Loghar</alt-name>
+    <woe-id>2344563</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF17</fips>
+    <postal-code>LW</postal-code>
+    <name>Logar</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>69.3047</longitude>
+    <woe-name>Logar</woe-name>
+    <latitude>34.0857</latitude>
+    <woe-label>Lowgar, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>af-lw</hc-key>
+    <hc-a2>LW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.PV" d="M433.9,183.2 L433.1,197.1 L434.9,196.9 L434.7,203.5 L435.7,205.6 L439.7,207.5 L442.1,210.2 L448.7,211.7 L448.7,219.6 L451.2,224.4 L450.7,227.1 L448.0,227.0 L446.1,230.1 L443.1,230.6 L440.5,222.6 L438.6,221.7 L435.8,216.3 L432.3,213.9 L423.9,213.5 L420.3,212.6 L418.3,215.8 L414.9,223.9 L414.5,228.8 L406.0,227.0 L399.5,224.6 L391.8,228.5 L390.3,227.8 L389.5,224.1 L387.0,221.6 L386.2,218.1 L384.5,216.6 L384.0,208.5 L381.5,205.7 L386.6,202.0 L390.9,203.1 L400.6,202.6 L401.6,199.7 L408.6,195.7 L411.0,192.0 L414.1,190.5 L416.1,191.9 L422.9,187.9 L424.1,185.7 L430.2,181.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.PV</hasc>
+    <alt-name>Charikar</alt-name>
+    <woe-id>56000467</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF40</fips>
+    <postal-code>PV</postal-code>
+    <name>Parwan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>68.8995</longitude>
+    <woe-name>Parwan</woe-name>
+    <latitude>34.9984</latitude>
+    <woe-label>Panjshir, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>af-pv</hc-key>
+    <hc-a2>PV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.SM" d="M382.5,112.1 L383.4,112.9 L384.9,113.4 L381.7,116.3 L383.3,119.7 L391.1,131.6 L398.0,136.7 L398.7,138.2 L395.6,142.9 L389.7,147.5 L387.8,156.3 L380.8,165.5 L380.2,168.3 L382.3,170.0 L379.7,176.3 L377.1,179.0 L366.1,180.4 L364.4,179.0 L359.8,179.8 L353.4,178.2 L349.2,178.8 L343.9,180.8 L339.2,179.9 L325.1,184.6 L320.2,184.5 L316.3,183.1 L321.0,180.2 L324.1,176.2 L325.2,170.4 L323.9,168.9 L325.9,167.2 L324.7,165.1 L320.1,162.9 L322.1,158.4 L325.0,156.9 L330.5,150.9 L331.0,147.6 L328.4,142.6 L334.0,138.3 L338.1,137.5 L341.4,134.1 L343.3,129.5 L343.8,124.7 L345.7,118.8 L343.7,113.1 L347.8,111.2 L349.7,108.9 L355.1,109.5 L358.7,108.6 L365.5,112.1 L377.3,113.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.SM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344577</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF32</fips>
+    <postal-code>SM</postal-code>
+    <name>Samangan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>67.68300000000001</longitude>
+    <woe-name>Samangan</woe-name>
+    <latitude>36.0506</latitude>
+    <woe-label>Samangan, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>af-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.VR" d="M414.5,228.8 L413.4,236.4 L414.7,239.2 L418.5,241.1 L419.7,244.9 L416.0,251.3 L413.4,253.9 L411.7,260.3 L415.7,266.0 L410.0,268.7 L409.5,272.7 L407.0,278.0 L403.3,281.9 L397.4,284.6 L394.1,283.3 L394.3,278.1 L391.4,277.8 L383.3,269.7 L379.1,268.0 L378.0,259.3 L376.9,255.5 L373.6,253.3 L366.9,256.6 L363.2,256.5 L356.0,252.8 L351.4,253.5 L348.7,256.6 L344.1,256.8 L344.0,252.8 L348.0,251.3 L349.9,248.6 L341.9,244.4 L343.8,243.4 L343.2,240.8 L336.7,240.3 L336.2,236.2 L340.0,234.3 L340.0,231.8 L337.6,228.2 L338.9,226.9 L348.3,224.7 L351.1,226.3 L359.1,227.0 L371.0,230.1 L374.2,224.8 L376.5,224.9 L380.6,221.0 L386.2,218.1 L387.0,221.6 L389.5,224.1 L390.3,227.8 L391.8,228.5 L399.5,224.6 L406.0,227.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.VR</hasc>
+    <alt-name>Verdak|Wardag|Maiden</alt-name>
+    <woe-id>2344572</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF27</fips>
+    <postal-code>VR</postal-code>
+    <name>Wardak</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>68.1087</longitude>
+    <woe-name>Wardak</woe-name>
+    <latitude>34.4269</latitude>
+    <woe-label>Vardak, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>af-vr</hc-key>
+    <hc-a2>VR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.PT" d="M465.4,262.7 L465.7,263.2 L464.1,264.4 L462.6,268.8 L464.4,271.1 L468.5,280.0 L470.4,280.6 L470.0,282.3 L459.5,288.4 L453.1,289.7 L450.1,291.8 L448.2,300.9 L443.6,305.1 L441.1,310.2 L434.6,310.4 L432.3,308.6 L429.2,311.2 L422.0,315.6 L421.1,315.2 L420.2,303.3 L418.9,301.2 L414.6,299.9 L409.7,301.4 L411.2,297.7 L410.1,294.5 L409.9,288.4 L420.4,288.9 L422.6,287.6 L424.9,282.7 L431.0,278.0 L435.9,275.7 L445.4,266.2 L447.9,262.5 L452.5,262.4 L456.5,264.9 L460.9,261.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.PT</hasc>
+    <alt-name>Paktiya|Southern Province</alt-name>
+    <woe-id>2344567</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF18</fips>
+    <postal-code>PT</postal-code>
+    <name>Paktya</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>69.3826</longitude>
+    <woe-name>Paktya</woe-name>
+    <latitude>33.575</latitude>
+    <woe-label>Paktia, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>af-pt</hc-key>
+    <hc-a2>PT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.BG" d="M121.7,177.7 L126.5,174.4 L134.5,172.0 L135.8,166.8 L135.0,160.9 L140.2,158.7 L142.0,156.8 L137.3,152.4 L136.1,149.0 L138.2,147.1 L148.7,147.9 L157.0,145.7 L161.6,142.3 L169.5,141.9 L176.4,139.0 L178.2,141.7 L177.8,146.6 L174.6,157.9 L177.3,159.3 L179.7,164.3 L179.4,170.6 L180.6,171.6 L191.2,173.2 L191.2,176.1 L193.8,177.5 L199.2,176.6 L198.7,187.3 L208.2,189.9 L213.9,189.4 L217.5,193.6 L219.9,194.0 L225.9,200.2 L228.7,206.2 L227.5,212.9 L224.3,216.4 L215.5,218.4 L212.2,219.9 L202.8,218.7 L200.1,220.9 L194.7,221.0 L187.2,219.7 L177.1,226.3 L166.8,228.8 L159.4,225.7 L154.5,225.5 L145.4,220.3 L139.8,219.4 L136.2,221.2 L129.4,218.5 L128.0,214.1 L124.8,213.7 L119.5,210.4 L116.6,207.6 L112.5,206.1 L111.7,202.9 L113.2,194.2 L114.9,190.1 L119.4,183.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.BG</hasc>
+    <alt-name>Badghes|Badghisat|Badgis</alt-name>
+    <woe-id>2344550</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF02</fips>
+    <postal-code>BG</postal-code>
+    <name>Badghis</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>63.8495</longitude>
+    <woe-name>Badghis</woe-name>
+    <latitude>35.2699</latitude>
+    <woe-label>Badghis, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>af-bg</hc-key>
+    <hc-a2>BG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.HR" d="M20.5,278.7 L18.7,276.4 L7.6,274.9 L3.8,272.9 L0.9,269.6 L0.0,265.2 L2.7,257.6 L1.9,242.4 L4.0,237.1 L10.7,230.5 L22.9,230.7 L17.5,221.6 L14.5,218.3 L16.6,216.5 L21.5,215.6 L25.3,212.1 L27.2,212.0 L28.2,207.0 L33.8,202.0 L37.5,187.7 L39.2,185.3 L37.1,179.7 L38.1,174.7 L42.5,172.7 L42.5,169.6 L48.2,159.4 L47.6,155.1 L51.2,154.7 L53.2,159.4 L54.9,160.2 L59.8,166.0 L62.9,167.5 L72.3,169.0 L78.3,167.4 L83.7,169.4 L88.4,174.7 L92.2,177.0 L93.4,183.3 L95.6,186.7 L100.8,180.6 L103.8,179.3 L106.8,182.4 L111.4,183.3 L115.8,181.6 L121.7,177.7 L119.4,183.5 L114.9,190.1 L113.2,194.2 L111.7,202.9 L112.5,206.1 L116.6,207.6 L119.5,210.4 L124.8,213.7 L128.0,214.1 L129.4,218.5 L136.2,221.2 L139.8,219.4 L145.4,220.3 L154.5,225.5 L159.4,225.7 L166.8,228.8 L177.1,226.3 L187.2,219.7 L194.7,221.0 L200.1,220.9 L199.0,227.5 L199.3,231.8 L196.2,229.7 L191.0,232.0 L185.7,232.5 L185.6,243.9 L181.3,246.5 L176.0,245.0 L174.4,246.6 L168.1,246.2 L162.9,243.0 L150.7,242.4 L149.7,245.7 L144.9,253.6 L147.5,259.6 L151.1,264.3 L153.4,270.6 L149.9,271.8 L150.0,276.2 L146.6,278.7 L136.2,280.2 L127.6,284.8 L129.9,293.1 L130.2,297.6 L127.7,298.9 L124.8,305.8 L118.9,308.4 L118.7,307.0 L109.6,308.2 L106.7,311.3 L102.0,312.2 L99.2,311.0 L92.0,314.5 L89.2,323.4 L80.5,323.6 L75.0,326.1 L73.0,325.8 L71.8,319.4 L70.0,319.3 L63.8,323.3 L60.6,319.3 L55.4,317.8 L56.6,310.6 L65.1,302.6 L61.1,295.5 L64.7,292.1 L66.5,284.3 L50.8,281.0 L46.7,283.9 L43.1,283.0 L32.5,282.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AF.HR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344558</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF11</fips>
+    <postal-code>HR</postal-code>
+    <name>Hirat</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>62.4845</longitude>
+    <woe-name>Hirat</woe-name>
+    <latitude>34.1551</latitude>
+    <woe-label>Herat, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>af-hr</hc-key>
+    <hc-a2>HR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.BK" d="M291.4,65.0 L293.4,66.7 L297.9,65.9 L301.3,67.4 L305.0,64.8 L312.3,66.5 L314.2,65.4 L327.1,64.4 L331.3,67.1 L332.5,70.6 L336.4,73.0 L337.7,76.0 L339.9,76.3 L345.1,74.5 L349.4,71.2 L352.4,73.9 L356.6,72.7 L362.7,74.7 L363.6,82.1 L368.0,84.0 L374.9,92.3 L375.4,98.8 L379.2,107.3 L382.5,112.1 L377.3,113.8 L365.5,112.1 L358.7,108.6 L355.1,109.5 L349.7,108.9 L347.8,111.2 L343.7,113.1 L345.7,118.8 L343.8,124.7 L343.3,129.5 L341.4,134.1 L338.1,137.5 L334.0,138.3 L328.4,142.6 L331.0,147.6 L330.5,150.9 L325.0,156.9 L322.1,158.4 L320.1,162.9 L315.0,165.3 L309.7,165.7 L308.4,164.2 L301.5,165.3 L301.8,161.9 L304.9,158.8 L307.0,154.0 L305.8,135.8 L303.1,135.3 L299.5,132.4 L303.0,127.2 L305.1,121.7 L309.6,115.9 L310.5,113.7 L308.4,112.2 L303.2,111.0 L301.0,108.9 L299.1,100.6 L305.3,99.5 L304.5,93.8 L301.0,88.2 L302.9,80.0 L299.7,75.4 L298.7,71.7 L291.2,68.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.BK</hasc>
+    <alt-name>Balh|Mazar-i-Sharif|Mazar</alt-name>
+    <woe-id>2344575</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF30</fips>
+    <postal-code>BK</postal-code>
+    <name>Balkh</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>67.21850000000001</longitude>
+    <woe-name>Balkh</woe-name>
+    <latitude>36.6851</latitude>
+    <woe-label>Balkh, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>af-bk</hc-key>
+    <hc-a2>BK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.JW" d="M255.1,70.8 L257.4,70.0 L261.7,64.9 L261.8,59.8 L264.2,54.6 L268.2,53.7 L268.7,51.3 L270.7,52.2 L273.0,55.6 L283.4,59.9 L287.2,63.9 L291.4,65.0 L291.2,68.0 L298.7,71.7 L299.7,75.4 L302.9,80.0 L301.0,88.2 L304.5,93.8 L305.3,99.5 L299.1,100.6 L301.0,108.9 L303.2,111.0 L301.4,111.9 L289.2,113.7 L280.2,113.8 L276.3,116.9 L271.9,117.7 L262.8,123.8 L255.0,124.2 L252.7,138.5 L254.4,140.6 L254.5,145.9 L261.9,144.6 L260.8,146.6 L256.5,148.7 L254.5,146.7 L252.4,148.9 L246.4,149.1 L241.5,147.0 L235.7,147.4 L233.9,144.2 L237.9,140.6 L237.4,137.8 L239.6,135.1 L239.6,129.3 L241.3,123.7 L243.1,122.5 L251.8,122.5 L253.1,121.4 L250.8,114.1 L251.7,110.4 L249.2,107.4 L251.9,99.9 L249.7,93.6 L247.3,90.3 L247.5,85.0 L249.0,80.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.JW</hasc>
+    <alt-name>Jaozjan|Jozjan|Juzjan|Jouzjan|Shibarghan</alt-name>
+    <woe-id>2344576</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF31</fips>
+    <postal-code>JW</postal-code>
+    <name>Jawzjan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>65.96169999999999</longitude>
+    <woe-name>Jawzjan</woe-name>
+    <latitude>36.8971</latitude>
+    <woe-label>Jowzjan, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>af-jw</hc-key>
+    <hc-a2>JW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.BM" d="M316.3,183.1 L320.2,184.5 L325.1,184.6 L339.2,179.9 L343.9,180.8 L349.2,178.8 L353.4,178.2 L359.8,179.8 L364.4,179.0 L366.1,180.4 L377.1,179.0 L377.7,187.6 L375.6,193.9 L373.2,196.0 L373.3,202.4 L376.0,204.3 L381.5,205.7 L384.0,208.5 L384.5,216.6 L386.2,218.1 L380.6,221.0 L376.5,224.9 L374.2,224.8 L371.0,230.1 L359.1,227.0 L351.1,226.3 L348.3,224.7 L338.9,226.9 L337.6,228.2 L340.0,231.8 L340.0,234.3 L336.2,236.2 L336.7,240.3 L343.2,240.8 L343.8,243.4 L341.9,244.4 L349.9,248.6 L348.0,251.3 L344.0,252.8 L344.1,256.8 L341.4,259.0 L339.8,262.7 L338.2,264.2 L332.5,265.2 L324.6,268.2 L320.7,266.1 L312.0,264.1 L306.2,265.9 L302.4,264.2 L298.9,260.5 L300.6,253.7 L300.2,248.0 L302.1,245.3 L297.8,244.0 L298.0,241.0 L301.1,239.0 L306.2,238.6 L310.3,235.5 L309.1,232.8 L311.9,228.8 L312.0,226.2 L308.9,223.9 L305.7,223.1 L303.0,217.3 L296.3,211.0 L292.8,209.8 L291.2,207.2 L292.6,200.0 L292.0,196.4 L294.6,193.8 L302.5,194.7 L308.7,192.4 L312.0,186.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AF.BM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344552</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF05</fips>
+    <postal-code>BM</postal-code>
+    <name>Bamyan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>67.23650000000001</longitude>
+    <woe-name>Bamyan</woe-name>
+    <latitude>34.9693</latitude>
+    <woe-label>Bamian, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>af-bm</hc-key>
+    <hc-a2>BM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.GR" d="M292.8,209.8 L296.3,211.0 L303.0,217.3 L305.7,223.1 L308.9,223.9 L312.0,226.2 L311.9,228.8 L309.1,232.8 L310.3,235.5 L306.2,238.6 L301.1,239.0 L298.0,241.0 L289.5,241.4 L284.1,239.8 L281.7,242.4 L274.6,242.2 L271.9,244.2 L255.6,242.0 L250.6,242.2 L248.5,250.0 L247.4,258.1 L249.5,260.6 L249.8,264.2 L247.1,268.2 L244.1,269.3 L244.1,272.5 L248.0,276.6 L248.6,281.7 L251.7,286.4 L248.7,288.1 L241.1,294.5 L241.2,296.4 L233.6,299.8 L230.6,299.7 L220.1,306.0 L217.0,305.6 L213.6,308.4 L211.6,305.8 L208.7,306.9 L206.7,304.0 L203.3,303.4 L200.3,300.9 L196.3,306.3 L191.4,308.7 L192.5,311.2 L188.6,312.2 L183.9,309.9 L180.2,303.5 L178.3,302.7 L177.9,298.3 L174.0,289.9 L171.4,288.1 L167.9,289.1 L162.8,293.4 L157.4,294.0 L152.7,296.6 L148.1,297.6 L138.0,297.5 L134.1,298.5 L130.2,297.6 L129.9,293.1 L127.6,284.8 L136.2,280.2 L146.6,278.7 L150.0,276.2 L149.9,271.8 L153.4,270.6 L151.1,264.3 L147.5,259.6 L144.9,253.6 L149.7,245.7 L150.7,242.4 L162.9,243.0 L168.1,246.2 L174.4,246.6 L176.0,245.0 L181.3,246.5 L185.6,243.9 L185.7,232.5 L191.0,232.0 L196.2,229.7 L199.3,231.8 L199.0,227.5 L200.1,220.9 L202.8,218.7 L212.2,219.9 L215.5,218.4 L224.3,216.4 L227.5,212.9 L228.7,206.2 L225.9,200.2 L219.9,194.0 L217.5,193.6 L213.9,189.4 L220.0,188.1 L223.1,189.7 L227.7,189.6 L233.9,187.7 L236.9,189.7 L238.9,188.9 L239.5,191.6 L243.1,192.0 L249.0,188.3 L252.8,189.5 L258.3,187.7 L260.3,191.7 L263.7,192.8 L265.9,197.7 L270.9,199.6 L277.1,200.6 L277.6,206.1 L280.2,214.5 L279.6,216.8 L286.6,211.5 L287.3,209.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.GR</hasc>
+    <alt-name>Gawr|Ghore|Ghour|Ghur</alt-name>
+    <woe-id>2344556</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF09</fips>
+    <postal-code>GR</postal-code>
+    <name>Ghor</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>64.9224</longitude>
+    <woe-name>Ghor</woe-name>
+    <latitude>34.002</latitude>
+    <woe-label>Ghowr, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>af-gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.FB" d="M249.0,188.3 L243.1,192.0 L239.5,191.6 L238.9,188.9 L236.9,189.7 L233.9,187.7 L227.7,189.6 L223.1,189.7 L220.0,188.1 L213.9,189.4 L208.2,189.9 L198.7,187.3 L199.2,176.6 L193.8,177.5 L191.2,176.1 L191.2,173.2 L180.6,171.6 L179.4,170.6 L179.7,164.3 L177.3,159.3 L174.6,157.9 L177.8,146.6 L178.2,141.7 L176.4,139.0 L183.0,141.3 L182.8,136.7 L187.2,132.8 L190.7,131.8 L194.1,132.7 L197.7,128.6 L202.9,127.4 L205.6,125.0 L209.6,119.4 L211.2,115.2 L211.0,105.7 L212.6,101.6 L220.0,89.3 L220.7,87.4 L220.2,78.2 L222.6,75.8 L231.4,71.5 L234.9,70.5 L255.1,70.8 L249.0,80.7 L247.5,85.0 L247.3,90.3 L249.7,93.6 L251.9,99.9 L249.2,107.4 L251.7,110.4 L250.8,114.1 L253.1,121.4 L251.8,122.5 L243.1,122.5 L241.3,123.7 L239.6,129.3 L239.6,135.1 L237.4,137.8 L237.9,140.6 L233.9,144.2 L235.7,147.4 L241.5,147.0 L246.4,149.1 L252.4,148.9 L254.5,146.7 L256.5,148.7 L260.8,146.6 L261.9,144.6 L264.5,143.5 L264.4,147.0 L266.8,150.8 L266.7,156.9 L261.2,157.2 L261.1,159.6 L258.2,163.7 L253.3,163.4 L250.7,167.2 L251.4,170.2 L247.5,176.8 L247.2,184.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.FB</hasc>
+    <alt-name>Fariab|Maimana|Meymaneh</alt-name>
+    <woe-id>2344554</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF07</fips>
+    <postal-code>FB</postal-code>
+    <name>Faryab</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>64.76779999999999</longitude>
+    <woe-name>Faryab</woe-name>
+    <latitude>35.8043</latitude>
+    <woe-label>Faryab, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>af-fb</hc-key>
+    <hc-a2>FB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.SP" d="M316.3,183.1 L312.0,186.7 L308.7,192.4 L302.5,194.7 L294.6,193.8 L292.0,196.4 L292.6,200.0 L291.2,207.2 L292.8,209.8 L287.3,209.3 L286.6,211.5 L279.6,216.8 L280.2,214.5 L277.6,206.1 L277.1,200.6 L270.9,199.6 L265.9,197.7 L263.7,192.8 L260.3,191.7 L258.3,187.7 L252.8,189.5 L249.0,188.3 L247.2,184.3 L247.5,176.8 L251.4,170.2 L250.7,167.2 L253.3,163.4 L258.2,163.7 L261.1,159.6 L261.2,157.2 L266.7,156.9 L266.8,150.8 L264.4,147.0 L264.5,143.5 L261.9,144.6 L254.5,145.9 L254.4,140.6 L252.7,138.5 L255.0,124.2 L262.8,123.8 L271.9,117.7 L276.3,116.9 L280.2,113.8 L289.2,113.7 L301.4,111.9 L303.2,111.0 L308.4,112.2 L310.5,113.7 L309.6,115.9 L305.1,121.7 L303.0,127.2 L299.5,132.4 L303.1,135.3 L305.8,135.8 L307.0,154.0 L304.9,158.8 L301.8,161.9 L301.5,165.3 L308.4,164.2 L309.7,165.7 L315.0,165.3 L320.1,162.9 L324.7,165.1 L325.9,167.2 L323.9,168.9 L325.2,170.4 L324.1,176.2 L321.0,180.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.SP</hasc>
+    <alt-name>Sar-e Pul|Saripol</alt-name>
+    <woe-id>2344578</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF33</fips>
+    <postal-code>SP</postal-code>
+    <name>Sari Pul</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>66.2158</longitude>
+    <woe-name>Sari Pul</woe-name>
+    <latitude>35.7062</latitude>
+    <woe-label>Sare Pol, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>af-sp</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.FH" d="M130.2,297.6 L134.1,298.5 L138.0,297.5 L148.1,297.6 L152.7,296.6 L157.4,294.0 L162.8,293.4 L167.9,289.1 L171.4,288.1 L174.0,289.9 L177.9,298.3 L178.3,302.7 L180.2,303.5 L183.9,309.9 L188.6,312.2 L192.5,311.2 L191.4,308.7 L196.3,306.3 L200.3,300.9 L203.3,303.4 L206.7,304.0 L208.7,306.9 L208.0,312.4 L200.4,318.8 L198.9,323.2 L200.1,325.7 L190.8,329.0 L183.9,337.5 L185.7,341.3 L179.7,344.5 L170.6,345.1 L171.5,351.3 L167.7,354.2 L166.2,353.8 L160.7,358.5 L155.9,358.6 L152.9,361.4 L146.1,364.9 L135.6,362.2 L126.6,361.3 L123.9,365.8 L122.2,372.8 L117.8,375.9 L111.7,376.4 L105.6,378.8 L98.8,371.0 L94.1,369.7 L88.3,371.0 L67.3,371.0 L67.3,375.0 L63.0,378.0 L62.1,383.5 L57.1,388.5 L52.7,394.7 L49.7,395.0 L49.6,399.9 L47.9,400.8 L45.9,407.2 L8.1,398.9 L6.4,398.1 L5.7,388.2 L6.7,383.8 L6.5,375.4 L7.1,371.8 L6.4,366.3 L8.4,363.8 L10.3,353.4 L7.4,338.5 L1.0,308.1 L1.3,298.8 L11.8,286.8 L15.0,284.7 L16.1,280.0 L20.5,278.7 L32.5,282.7 L43.1,283.0 L46.7,283.9 L50.8,281.0 L66.5,284.3 L64.7,292.1 L61.1,295.5 L65.1,302.6 L56.6,310.6 L55.4,317.8 L60.6,319.3 L63.8,323.3 L70.0,319.3 L71.8,319.4 L73.0,325.8 L75.0,326.1 L80.5,323.6 L89.2,323.4 L92.0,314.5 L99.2,311.0 L102.0,312.2 L106.7,311.3 L109.6,308.2 L118.7,307.0 L118.9,308.4 L124.8,305.8 L127.7,298.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AF.FH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344553</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF06</fips>
+    <postal-code>FH</postal-code>
+    <name>Farah</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>62.6498</longitude>
+    <woe-name>Farah</woe-name>
+    <latitude>32.5314</latitude>
+    <woe-label>Farah, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>af-fh</hc-key>
+    <hc-a2>FH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.HM" d="M146.1,364.9 L152.9,361.4 L155.9,358.6 L160.7,358.5 L166.2,353.8 L167.7,354.2 L171.5,351.3 L170.6,345.1 L179.7,344.5 L185.7,341.3 L183.9,337.5 L190.8,329.0 L200.1,325.7 L198.9,323.2 L200.4,318.8 L208.0,312.4 L208.7,306.9 L211.6,305.8 L213.6,308.4 L217.0,305.6 L220.1,306.0 L230.6,299.7 L233.6,299.8 L237.1,301.8 L240.4,308.5 L239.4,316.0 L236.3,318.0 L230.9,327.1 L232.0,328.8 L231.8,334.8 L230.1,339.8 L234.6,342.3 L235.5,348.0 L232.2,361.3 L231.1,364.8 L228.5,366.7 L225.6,376.2 L220.3,375.7 L217.0,377.3 L215.0,383.7 L210.1,388.5 L208.7,394.2 L210.0,396.5 L205.0,413.6 L200.3,454.1 L198.8,473.2 L196.9,484.5 L188.6,522.8 L173.4,526.4 L171.5,527.2 L166.8,532.8 L161.0,530.0 L140.3,525.1 L89.9,527.2 L97.7,498.6 L97.8,493.2 L100.1,488.8 L100.8,481.7 L105.4,479.1 L109.2,475.3 L114.4,466.8 L118.7,463.4 L117.4,458.9 L118.7,456.2 L117.4,453.6 L122.6,448.8 L122.6,438.8 L127.0,436.1 L130.3,430.4 L133.4,428.1 L134.1,421.4 L132.6,416.7 L134.6,413.3 L135.1,407.1 L138.7,388.0 L140.0,384.8 L143.6,381.5 L147.5,372.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.HM</hasc>
+    <alt-name>Girishk|Hilmend</alt-name>
+    <woe-id>2344557</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF10</fips>
+    <postal-code>HM</postal-code>
+    <name>Hilmand</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>63.9824</longitude>
+    <woe-name>Hilmand</woe-name>
+    <latitude>30.9278</latitude>
+    <woe-label>Helmand, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>af-hm</hc-key>
+    <hc-a2>HM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.NM" d="M146.1,364.9 L147.5,372.6 L143.6,381.5 L140.0,384.8 L138.7,388.0 L135.1,407.1 L134.6,413.3 L132.6,416.7 L134.1,421.4 L133.4,428.1 L130.3,430.4 L127.0,436.1 L122.6,438.8 L122.6,448.8 L117.4,453.6 L118.7,456.2 L117.4,458.9 L118.7,463.4 L114.4,466.8 L109.2,475.3 L105.4,479.1 L100.8,481.7 L100.1,488.8 L97.8,493.2 L97.7,498.6 L89.9,527.2 L83.4,527.5 L78.1,526.2 L2.1,496.2 L0.5,495.4 L8.0,487.8 L52.8,440.9 L54.2,438.0 L54.1,433.2 L55.7,429.0 L53.9,420.1 L52.2,416.6 L52.8,412.9 L50.9,409.3 L45.9,407.2 L47.9,400.8 L49.6,399.9 L49.7,395.0 L52.7,394.7 L57.1,388.5 L62.1,383.5 L63.0,378.0 L67.3,375.0 L67.3,371.0 L88.3,371.0 L94.1,369.7 L98.8,371.0 L105.6,378.8 L111.7,376.4 L117.8,375.9 L122.2,372.8 L123.9,365.8 L126.6,361.3 L135.6,362.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.NM</hasc>
+    <alt-name>Neemroze|Nimrod|Nimrooz|Nimroze|Chakhansur</alt-name>
+    <woe-id>2344565</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF19</fips>
+    <postal-code>NM</postal-code>
+    <name>Nimroz</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>62.2069</longitude>
+    <woe-name>Nimroz</woe-name>
+    <latitude>30.7528</latitude>
+    <woe-label>Nimruz, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>af-nm</hc-key>
+    <hc-a2>NM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.2014" d="M232.2,361.3 L235.5,348.0 L234.6,342.3 L230.1,339.8 L231.8,334.8 L232.0,328.8 L230.9,327.1 L236.3,318.0 L239.4,316.0 L243.1,317.7 L246.6,317.0 L245.7,313.2 L250.3,313.2 L254.6,315.7 L260.2,315.6 L262.3,313.8 L265.8,317.0 L273.5,319.0 L275.1,317.6 L276.2,312.1 L280.8,309.7 L286.9,305.3 L290.7,305.5 L295.8,304.3 L298.4,308.9 L299.8,309.2 L306.6,306.8 L308.7,304.8 L309.8,307.0 L313.4,306.9 L314.1,308.8 L321.3,309.2 L321.9,311.7 L317.8,315.4 L316.9,321.7 L317.6,325.9 L322.0,328.0 L320.7,333.7 L311.6,334.7 L307.4,337.3 L304.8,341.6 L301.5,343.1 L302.3,337.4 L299.4,337.5 L297.0,341.0 L292.1,342.4 L287.4,348.0 L287.2,353.0 L285.2,354.3 L279.5,354.9 L279.0,356.8 L272.6,356.4 L270.8,354.1 L260.8,352.5 L256.4,355.2 L256.8,347.9 L251.3,347.1 L248.1,349.8 L246.0,354.2 L243.8,355.3 L243.8,359.3 L241.1,364.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.OZ</hasc>
+    <alt-name>Urozgan</alt-name>
+    <woe-id>2344566</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF39</fips>
+    <postal-code>NULL</postal-code>
+    <name>Uruzgan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>66.0947</longitude>
+    <woe-name>Uruzgan</woe-name>
+    <latitude>32.807</latitude>
+    <woe-label>Oruzgan, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>af-2014</hc-key>
+    <hc-a2>UR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.OZ" d="M298.0,241.0 L297.8,244.0 L302.1,245.3 L300.2,248.0 L300.6,253.7 L298.9,260.5 L302.4,264.2 L306.2,265.9 L312.0,264.1 L320.7,266.1 L324.6,268.2 L332.5,265.2 L338.2,264.2 L339.8,262.7 L340.8,264.2 L338.8,267.7 L341.4,272.5 L333.5,280.3 L331.3,283.5 L324.5,286.0 L320.2,286.5 L314.5,289.3 L313.7,292.4 L315.1,296.8 L313.4,306.9 L309.8,307.0 L308.7,304.8 L306.6,306.8 L299.8,309.2 L298.4,308.9 L295.8,304.3 L290.7,305.5 L286.9,305.3 L280.8,309.7 L276.2,312.1 L275.1,317.6 L273.5,319.0 L265.8,317.0 L262.3,313.8 L260.2,315.6 L254.6,315.7 L250.3,313.2 L245.7,313.2 L246.6,317.0 L243.1,317.7 L239.4,316.0 L240.4,308.5 L237.1,301.8 L233.6,299.8 L241.2,296.4 L241.1,294.5 L248.7,288.1 L251.7,286.4 L248.6,281.7 L248.0,276.6 L244.1,272.5 L244.1,269.3 L247.1,268.2 L249.8,264.2 L249.5,260.6 L247.4,258.1 L248.5,250.0 L250.6,242.2 L255.6,242.0 L271.9,244.2 L274.6,242.2 L281.7,242.4 L284.1,239.8 L289.5,241.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.OZ</hasc>
+    <alt-name>Urozgan</alt-name>
+    <woe-id>56000466</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF41</fips>
+    <postal-code>OZ</postal-code>
+    <name>Uruzgan</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>66.30110000000001</longitude>
+    <woe-name>Daykundi</woe-name>
+    <latitude>33.8446</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>af-oz</hc-key>
+    <hc-a2>OZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.KD" d="M232.2,361.3 L241.1,364.6 L243.8,359.3 L243.8,355.3 L246.0,354.2 L248.1,349.8 L251.3,347.1 L256.8,347.9 L256.4,355.2 L260.8,352.5 L270.8,354.1 L272.6,356.4 L279.0,356.8 L279.5,354.9 L285.2,354.3 L287.2,353.0 L290.6,353.4 L292.8,349.6 L294.9,349.5 L297.9,352.7 L295.7,360.3 L292.3,362.4 L286.6,370.7 L287.4,376.6 L285.8,380.0 L287.3,384.4 L284.5,388.5 L279.0,391.7 L279.7,394.7 L285.8,400.2 L290.7,396.5 L297.4,395.7 L305.0,389.9 L308.6,393.4 L317.0,398.3 L321.8,399.6 L329.7,397.1 L331.6,401.2 L334.9,404.3 L337.0,403.5 L340.1,405.1 L340.8,409.9 L347.5,410.0 L351.8,408.7 L357.8,410.3 L353.6,411.8 L348.7,411.1 L350.1,417.3 L352.8,419.1 L358.8,419.2 L357.7,423.1 L354.9,423.3 L350.2,426.4 L337.2,430.0 L331.3,429.7 L327.6,428.1 L320.8,427.8 L320.6,423.7 L316.8,423.3 L311.5,425.4 L307.4,429.0 L304.2,430.1 L302.3,436.7 L296.4,442.9 L288.3,444.6 L287.0,445.8 L281.5,464.7 L281.3,467.3 L284.0,474.5 L282.7,487.0 L279.2,493.6 L278.5,497.6 L284.3,502.9 L280.9,507.1 L276.7,509.9 L216.3,525.6 L205.2,523.6 L188.6,522.8 L196.9,484.5 L198.8,473.2 L200.3,454.1 L205.0,413.6 L210.0,396.5 L208.7,394.2 L210.1,388.5 L215.0,383.7 L217.0,377.3 L220.3,375.7 L225.6,376.2 L228.5,366.7 L231.1,364.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>AF.KD</hasc>
+    <alt-name>Qandahar</alt-name>
+    <woe-id>2344569</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF23</fips>
+    <postal-code>KD</postal-code>
+    <name>Kandahar</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>65.7163</longitude>
+    <woe-name>Kandahar</woe-name>
+    <latitude>31.135</latitude>
+    <woe-label>Kandahar, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>af-kd</hc-key>
+    <hc-a2>KD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF.ZB" d="M287.2,353.0 L287.4,348.0 L292.1,342.4 L297.0,341.0 L299.4,337.5 L302.3,337.4 L301.5,343.1 L304.8,341.6 L307.4,337.3 L311.6,334.7 L320.7,333.7 L322.0,328.0 L324.2,327.7 L326.4,323.8 L325.3,320.6 L329.9,320.7 L331.7,324.8 L334.0,324.6 L336.2,327.1 L339.3,326.7 L341.4,323.9 L343.3,326.9 L340.2,330.0 L343.4,332.8 L341.6,336.0 L344.5,340.1 L352.0,347.8 L354.2,349.2 L350.8,353.0 L354.0,355.3 L355.4,358.6 L360.0,361.1 L358.1,363.8 L352.9,365.6 L353.1,368.6 L355.5,368.3 L356.6,373.5 L363.1,376.1 L366.9,379.0 L371.1,379.2 L373.5,377.8 L374.7,383.4 L371.5,389.9 L372.2,395.2 L375.7,397.8 L373.0,402.0 L368.4,405.2 L362.7,405.7 L357.8,410.3 L351.8,408.7 L347.5,410.0 L340.8,409.9 L340.1,405.1 L337.0,403.5 L334.9,404.3 L331.6,401.2 L329.7,397.1 L321.8,399.6 L317.0,398.3 L308.6,393.4 L305.0,389.9 L297.4,395.7 L290.7,396.5 L285.8,400.2 L279.7,394.7 L279.0,391.7 L284.5,388.5 L287.3,384.4 L285.8,380.0 L287.4,376.6 L286.6,370.7 L292.3,362.4 L295.7,360.3 L297.9,352.7 L294.9,349.5 L292.8,349.6 L290.6,353.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>AF.ZB</hasc>
+    <alt-name>Zubul|Zaboul</alt-name>
+    <woe-id>2344573</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AF28</fips>
+    <postal-code>ZB</postal-code>
+    <name>Zabul</name>
+    <country>Afghanistan</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>67.1401</longitude>
+    <woe-name>Zabul</woe-name>
+    <latitude>32.4033</latitude>
+    <woe-label>Zabol, AF, Afghanistan</woe-label>
+    <type>Velayat</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>af-zb</hc-key>
+    <hc-a2>ZB</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Sudan</title>
+<g id="admin1">
+
+<g id="SD">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Sudan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Sudan</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SDN</iso-a3>
+    <iso-a2>SD</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Africa</continent>
+    <hc-key>sd</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.RS" d="M467.2,8.0 L617.9,0.0 L619.0,15.0 L623.4,22.8 L629.3,30.6 L637.7,39.0 L636.0,40.2 L633.9,36.3 L629.7,33.0 L628.8,40.3 L631.6,45.2 L633.0,53.7 L635.9,61.4 L634.3,71.0 L637.0,80.8 L636.2,87.0 L639.2,93.8 L638.8,101.0 L641.3,108.8 L644.1,122.4 L645.3,123.7 L649.0,135.2 L654.3,141.5 L659.3,139.8 L665.4,145.0 L670.2,146.0 L675.2,151.1 L678.8,153.0 L677.1,156.0 L680.5,160.1 L684.4,160.1 L697.2,164.8 L700.0,169.6 L694.4,175.0 L690.1,185.5 L684.9,191.7 L682.7,190.3 L679.4,193.9 L676.7,191.4 L670.9,196.3 L667.8,194.7 L664.7,199.0 L655.9,202.3 L656.0,207.7 L652.3,215.2 L648.3,214.3 L641.0,216.4 L634.1,214.7 L596.0,219.8 L578.8,212.4 L557.6,199.4 L550.9,190.9 L545.0,180.6 L537.5,173.4 L527.7,168.1 L512.7,162.7 L491.4,116.6 L493.1,109.2 L492.1,100.2 L489.8,93.7 L489.4,87.9 L491.4,79.4 L490.0,70.6 L485.2,61.9 L480.0,59.5 L473.6,53.2 L473.9,43.3 L475.9,39.7 L475.1,31.9 L472.7,29.3 L483.7,19.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.RS</hasc>
+    <alt-name>Ba?r al A?mar|Mar Rojo|Mar Rosso|Mar Vermelho|Mer Rouge|Röda havet|Rødehavet|Rotes Meer</alt-name>
+    <woe-id>20069904</woe-id>
+    <subregion>Ash Sharq?| Ash Sharq?yah| Eastern</subregion>
+    <fips>EG02</fips>
+    <postal-code>RS</postal-code>
+    <name>Red Sea</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Kassala</region>
+    <longitude>35.8873</longitude>
+    <woe-name>Red Sea</woe-name>
+    <latitude>19.5289</latitude>
+    <woe-label>Al Bahr al Ahmar, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>sd-rs</hc-key>
+    <hc-a2>RS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.711" d="M170.0,511.1 L154.7,514.3 L137.8,516.4 L134.9,521.8 L135.4,524.5 L133.1,530.4 L125.3,537.6 L124.9,550.6 L120.3,555.9 L119.5,564.1 L115.3,571.3 L115.0,576.8 L107.3,578.6 L95.9,585.5 L87.7,584.1 L79.1,584.5 L74.4,583.1 L69.8,584.0 L68.8,580.9 L71.9,576.6 L72.3,571.7 L69.9,573.2 L66.9,570.7 L68.7,564.2 L71.9,563.6 L75.5,559.7 L76.1,553.6 L74.5,548.5 L77.4,541.9 L75.4,532.5 L61.4,509.4 L53.8,501.8 L49.4,498.6 L62.0,480.6 L82.1,467.8 L91.0,439.4 L93.0,423.5 L96.4,417.3 L118.9,395.4 L131.8,397.4 L145.4,397.2 L147.7,413.7 L146.8,425.6 L142.5,431.5 L142.7,460.8 L153.2,472.3 L160.2,478.3 L166.4,494.5 L170.2,506.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.SD</hasc>
+    <alt-name>D?rf?r al Jan?b?yah| Jan?b D?rf?r| Darfur méridional| Southern Darfur</alt-name>
+    <woe-id>20069893</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU49</fips>
+    <postal-code>NULL</postal-code>
+    <name>Southern Darfur</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Darfur</region>
+    <longitude>24.5964</longitude>
+    <woe-name>South Darfur</woe-name>
+    <latitude>11.3694</latitude>
+    <woe-label>Janub Darfur, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>sd-711</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.7281" d="M118.9,395.4 L96.4,417.3 L93.0,423.5 L91.0,439.4 L82.1,467.8 L62.0,480.6 L49.4,498.6 L43.4,489.7 L47.6,476.1 L45.9,468.0 L40.3,467.8 L38.7,464.9 L33.8,462.9 L30.0,455.5 L33.5,438.6 L36.6,429.9 L34.5,414.4 L46.4,401.5 L59.9,382.3 L68.1,380.4 L73.0,375.2 L77.7,375.6 L83.9,379.7 L91.5,382.7 L96.4,382.1 L103.2,378.3 L110.1,375.7 L117.2,376.3 L118.0,379.1 L115.3,383.1 L109.4,388.7 L107.9,392.6 L111.1,394.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.WD</hasc>
+    <alt-name>D?rf?r al Gharb?yah|Gharb D?rf?r</alt-name>
+    <woe-id>20069894</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU47</fips>
+    <postal-code>NULL</postal-code>
+    <name>Central Darfur</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Darfur</region>
+    <longitude>23.3467</longitude>
+    <woe-name>West Darfur</woe-name>
+    <latitude>12.1983</latitude>
+    <woe-label>Gharb Darfur, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>sd-7281</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.WD" d="M73.0,375.2 L68.1,380.4 L59.9,382.3 L46.4,401.5 L34.5,414.4 L36.6,429.9 L33.5,438.6 L26.9,440.3 L28.0,434.0 L23.6,421.6 L26.8,415.3 L16.7,409.4 L10.4,413.8 L5.2,413.6 L0.0,406.9 L5.6,395.5 L9.0,392.1 L14.3,389.9 L19.9,383.9 L17.0,373.2 L14.4,370.7 L12.0,364.9 L19.4,356.2 L31.6,350.1 L31.7,345.9 L27.9,344.5 L27.4,335.0 L24.9,331.8 L29.3,328.2 L37.8,326.1 L37.2,320.3 L41.1,313.3 L48.1,307.7 L50.8,302.9 L50.9,295.1 L48.5,291.8 L49.4,288.2 L56.5,282.3 L66.0,283.5 L77.4,280.7 L87.2,281.7 L92.1,283.4 L93.7,282.2 L94.3,283.2 L91.5,297.5 L92.3,311.0 L96.9,316.8 L99.2,321.9 L100.0,329.4 L99.0,332.5 L89.9,347.2 L76.2,361.8 L73.2,367.2 L71.6,373.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.WD</hasc>
+    <alt-name>D?rf?r al Gharb?yah|Gharb D?rf?r</alt-name>
+    <woe-id>20069894</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU47</fips>
+    <postal-code>WD</postal-code>
+    <name>Western Darfur</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Darfur</region>
+    <longitude>23.0863</longitude>
+    <woe-name>West Darfur</woe-name>
+    <latitude>14.2109</latitude>
+    <woe-label>Gharb Darfur, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>sd-wd</hc-key>
+    <hc-a2>WD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.KH" d="M493.2,291.4 L479.7,293.3 L475.0,296.8 L464.7,297.7 L455.8,300.6 L454.4,302.8 L445.4,303.6 L441.5,302.4 L437.7,292.5 L428.3,277.2 L421.6,268.9 L410.7,245.7 L419.4,240.1 L421.0,239.8 L422.4,242.9 L428.1,248.7 L432.2,251.1 L454.2,254.1 L469.6,261.6 L490.5,266.5 L499.4,270.1 L506.6,269.4 L513.5,266.3 L519.7,265.1 L521.2,271.4 L527.3,283.9 L512.8,282.1 L503.3,279.1 L498.6,281.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>SD.KH</hasc>
+    <alt-name>Al Khar??m|Al Khur??m|Cartum|Jartum|Khartum</alt-name>
+    <woe-id>20069819</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU29</fips>
+    <postal-code>KH</postal-code>
+    <name>Khartoum</name>
+    <country>Sudan</country>
+    <type-en>Region</type-en>
+    <region>Khartum</region>
+    <longitude>32.9823</longitude>
+    <woe-name>Khartoum</woe-name>
+    <latitude>15.7338</latitude>
+    <woe-label>Al Khartum, SD, Sudan</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>sd-kh</hc-key>
+    <hc-a2>KH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.GZ" d="M454.4,302.8 L455.8,300.6 L464.7,297.7 L475.0,296.8 L479.7,293.3 L493.2,291.4 L498.4,296.2 L506.6,298.7 L513.6,302.0 L517.0,308.5 L523.3,316.9 L523.8,319.5 L510.1,345.9 L513.4,351.7 L504.0,350.9 L500.6,349.1 L496.3,350.4 L488.0,357.2 L483.3,352.4 L478.1,351.8 L475.3,354.1 L471.6,363.7 L469.4,364.9 L465.4,363.2 L464.0,369.7 L460.3,374.0 L457.2,372.8 L456.6,362.2 L448.8,348.6 L447.3,343.1 L452.2,331.8 L456.8,326.3 L457.4,323.4 L456.4,314.3 L452.7,312.6 L451.7,309.6 L455.6,308.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.GZ</hasc>
+    <alt-name>Al Jazirah</alt-name>
+    <woe-id>20069916</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU38</fips>
+    <postal-code>GZ</postal-code>
+    <name>Gezira</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Blue Nile</region>
+    <longitude>33.3362</longitude>
+    <woe-name>Gezira</woe-name>
+    <latitude>14.6771</latitude>
+    <woe-label>Al Jazirah, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>sd-gz</hc-key>
+    <hc-a2>GZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.GD" d="M617.2,314.6 L620.9,337.5 L617.6,349.6 L618.8,357.0 L616.0,368.0 L610.0,377.3 L605.6,396.1 L607.0,400.5 L605.3,406.5 L602.3,405.7 L588.4,408.4 L574.0,405.7 L568.2,403.1 L565.0,400.3 L555.8,395.4 L547.6,387.5 L541.3,385.0 L533.0,380.0 L525.9,369.4 L527.4,364.1 L520.4,363.0 L513.4,351.7 L510.1,345.9 L523.8,319.5 L523.3,316.9 L517.0,308.5 L513.6,302.0 L506.6,298.7 L498.4,296.2 L493.2,291.4 L498.6,281.9 L503.3,279.1 L512.8,282.1 L527.3,283.9 L538.5,286.8 L547.7,291.6 L554.5,298.8 L560.7,312.7 L570.8,323.1 L577.2,324.1 L596.7,316.1 L600.1,315.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.GD</hasc>
+    <alt-name>Al Qadarif|Gadarif| Gedaref| Gederaf</alt-name>
+    <woe-id>20069906</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU39</fips>
+    <postal-code>GD</postal-code>
+    <name>Gedarif</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Kassala</region>
+    <longitude>35.0351</longitude>
+    <woe-name>Gedarif</woe-name>
+    <latitude>14.0283</latitude>
+    <woe-label>Al Qadarif, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>sd-gd</hc-key>
+    <hc-a2>GD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.RN" d="M441.6,9.0 L463.1,8.1 L467.2,8.0 L483.7,19.6 L472.7,29.3 L475.1,31.9 L475.9,39.7 L473.9,43.3 L473.6,53.2 L480.0,59.5 L485.2,61.9 L490.0,70.6 L491.4,79.4 L489.4,87.9 L489.8,93.7 L492.1,100.2 L493.1,109.2 L491.4,116.6 L512.7,162.7 L527.7,168.1 L537.5,173.4 L545.0,180.6 L550.9,190.9 L557.6,199.4 L578.8,212.4 L580.1,226.5 L578.3,236.1 L569.7,243.3 L563.2,245.1 L534.7,246.3 L531.2,247.3 L519.7,265.1 L513.5,266.3 L506.6,269.4 L499.4,270.1 L490.5,266.5 L469.6,261.6 L454.2,254.1 L432.2,251.1 L428.1,248.7 L422.4,242.9 L421.0,239.8 L449.9,195.9 L454.1,187.2 L453.2,181.7 L448.6,170.2 L448.8,151.9 L431.7,143.0 L431.4,142.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.RN</hasc>
+    <alt-name>an N?l, Nahr an N?l| Nil| Nile| Nile River|Nilen|Nilo</alt-name>
+    <woe-id>20069903</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU53</fips>
+    <postal-code>RN</postal-code>
+    <name>River Nile</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Northern</region>
+    <longitude>33.7623</longitude>
+    <woe-name>River Nile</woe-name>
+    <latitude>17.558</latitude>
+    <woe-label>Nahr an Nil, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.75</hc-middle-y>
+    <hc-key>sd-rn</hc-key>
+    <hc-a2>RN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.NO" d="M441.6,9.0 L431.4,142.3 L431.7,143.0 L448.8,151.9 L448.6,170.2 L453.2,181.7 L454.1,187.2 L449.9,195.9 L421.0,239.8 L419.4,240.1 L410.7,245.7 L402.6,243.5 L388.2,245.2 L240.1,241.9 L239.1,98.9 L138.1,98.4 L137.3,98.0 L138.4,12.4 L390.2,10.6 L396.2,0.6 L399.8,3.7 L397.7,10.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.NO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069999</woe-id>
+    <subregion>Ash Sham?l?|Ash Sham?l?yah|Nord</subregion>
+    <fips>SU43</fips>
+    <postal-code>NO</postal-code>
+    <name>Northern</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Northern</region>
+    <longitude>28.8329</longitude>
+    <woe-name>Northern</woe-name>
+    <latitude>19.3151</latitude>
+    <woe-label>Ash Shamaliyah, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>sd-no</hc-key>
+    <hc-a2>NO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.KN" d="M240.1,241.9 L388.2,245.2 L402.6,243.5 L410.7,245.7 L421.6,268.9 L428.3,277.2 L437.7,292.5 L441.5,302.4 L428.2,308.4 L427.4,312.0 L422.3,315.8 L418.1,325.7 L410.8,331.8 L409.2,340.5 L410.1,350.2 L412.4,356.1 L417.6,359.5 L423.9,370.7 L427.7,374.5 L432.3,376.3 L432.5,386.1 L420.8,394.6 L415.6,399.9 L417.8,415.9 L409.5,411.6 L406.1,411.7 L401.4,414.7 L393.5,415.5 L389.2,421.8 L382.1,426.0 L377.4,430.3 L372.7,429.6 L366.1,422.1 L360.8,420.4 L349.8,421.0 L347.0,418.9 L345.4,411.5 L339.6,411.2 L336.5,413.1 L325.3,430.6 L314.5,430.0 L303.0,421.9 L299.0,422.4 L291.1,431.1 L288.2,441.3 L288.5,444.0 L284.5,445.8 L275.3,447.0 L271.8,445.4 L263.1,445.5 L257.3,458.4 L246.8,468.8 L239.7,471.6 L235.2,471.6 L229.0,468.1 L229.0,457.7 L227.6,450.6 L221.8,438.8 L220.4,425.1 L224.1,416.5 L224.2,405.4 L225.6,402.2 L234.7,389.4 L235.0,385.6 L240.8,377.7 L241.5,374.1 L238.1,366.9 L239.8,357.1 L233.5,339.3 L229.0,325.0 L224.9,319.5 L216.0,243.2 L216.8,242.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.KN</hasc>
+    <alt-name>Kordofan septentrional| Kurduf?n ash Sham?l?yah| Sham?l Kurduf?n| North Kordofan</alt-name>
+    <woe-id>20069912</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU56</fips>
+    <postal-code>KN</postal-code>
+    <name>North Kordufan</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Kordofan</region>
+    <longitude>29.6122</longitude>
+    <woe-name>North Kordufan</woe-name>
+    <latitude>14.5295</latitude>
+    <woe-label>Shamal Kurdufan, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>sd-kn</hc-key>
+    <hc-a2>KN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.WN" d="M454.4,302.8 L455.6,308.7 L451.7,309.6 L452.7,312.6 L456.4,314.3 L457.4,323.4 L456.8,326.3 L452.2,331.8 L447.3,343.1 L448.8,348.6 L456.6,362.2 L457.2,372.8 L460.3,374.0 L464.0,369.7 L466.7,372.7 L469.1,388.5 L476.9,400.5 L476.6,411.7 L482.7,431.1 L462.4,431.3 L463.2,440.6 L435.0,441.2 L428.3,434.0 L420.8,431.9 L417.8,415.9 L415.6,399.9 L420.8,394.6 L432.5,386.1 L432.3,376.3 L427.7,374.5 L423.9,370.7 L417.6,359.5 L412.4,356.1 L410.1,350.2 L409.2,340.5 L410.8,331.8 L418.1,325.7 L422.3,315.8 L427.4,312.0 L428.2,308.4 L441.5,302.4 L445.4,303.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.WN</hasc>
+    <alt-name>An Ba?r al Abyad|An N?l al-Abyad|Nil Blanc|Nilo Branco</alt-name>
+    <woe-id>20069914</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU41</fips>
+    <postal-code>WN</postal-code>
+    <name>White Nile</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Blue Nile</region>
+    <longitude>32.3633</longitude>
+    <woe-name>White Nile</woe-name>
+    <latitude>13.5951</latitude>
+    <woe-label>An Nil al Abyad, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>sd-wn</hc-key>
+    <hc-a2>WN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.SI" d="M588.4,408.4 L584.9,412.5 L574.3,431.5 L572.9,436.8 L568.7,442.5 L565.8,443.7 L563.8,439.8 L554.7,432.3 L549.3,426.1 L539.5,411.6 L535.9,408.3 L531.2,407.4 L525.8,409.9 L495.5,429.8 L488.6,429.0 L482.7,431.1 L476.6,411.7 L476.9,400.5 L469.1,388.5 L466.7,372.7 L464.0,369.7 L465.4,363.2 L469.4,364.9 L471.6,363.7 L475.3,354.1 L478.1,351.8 L483.3,352.4 L488.0,357.2 L496.3,350.4 L500.6,349.1 L504.0,350.9 L513.4,351.7 L520.4,363.0 L527.4,364.1 L525.9,369.4 L533.0,380.0 L541.3,385.0 L547.6,387.5 L555.8,395.4 L565.0,400.3 L568.2,403.1 L574.0,405.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.SI</hasc>
+    <alt-name>Al Wus?á, Al Awsat |An Nil al Azraq| Central</alt-name>
+    <woe-id>20069915</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU58</fips>
+    <postal-code>SI</postal-code>
+    <name>Sennar</name>
+    <country>Sudan</country>
+    <type-en>Region</type-en>
+    <region>Blue Nile</region>
+    <longitude>34.252</longitude>
+    <woe-name>Sennar</woe-name>
+    <latitude>13.21</latitude>
+    <woe-label>Sinnar, SD, Sudan</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>sd-si</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.ND" d="M145.4,397.2 L131.8,397.4 L118.9,395.4 L111.1,394.8 L107.9,392.6 L109.4,388.7 L115.3,383.1 L118.0,379.1 L117.2,376.3 L110.1,375.7 L103.2,378.3 L96.4,382.1 L91.5,382.7 L83.9,379.7 L77.7,375.6 L73.0,375.2 L71.6,373.5 L73.2,367.2 L76.2,361.8 L89.9,347.2 L99.0,332.5 L100.0,329.4 L99.2,321.9 L96.9,316.8 L92.3,311.0 L91.5,297.5 L94.3,283.2 L93.7,282.2 L96.5,98.0 L136.7,98.6 L137.3,98.0 L138.1,98.4 L239.1,98.9 L240.1,241.9 L216.8,242.1 L216.0,243.2 L224.9,319.5 L229.0,325.0 L233.5,339.3 L239.8,357.1 L238.1,366.9 L241.5,374.1 L240.8,377.7 L235.0,385.6 L234.7,389.4 L225.6,402.2 L224.2,405.4 L224.1,416.5 L220.4,425.1 L221.8,438.8 L227.6,450.6 L221.6,449.5 L205.0,449.7 L201.5,448.4 L195.2,443.2 L186.7,442.4 L183.0,439.6 L178.8,433.1 L171.0,424.9 L177.8,420.8 L176.5,418.3 L167.3,410.8 L159.6,406.4 L151.7,399.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.ND</hasc>
+    <alt-name>North Darfur|Darfur ash Shamaliyah|Shamal Darfur|Darfur septentrional</alt-name>
+    <woe-id>20069895</woe-id>
+    <subregion>Darfour|D?rf?r</subregion>
+    <fips>SU55</fips>
+    <postal-code>ND</postal-code>
+    <name>North Darfur</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Darfur</region>
+    <longitude>25.506</longitude>
+    <woe-name>North Darfur</woe-name>
+    <latitude>16.4602</latitude>
+    <woe-label>Shamal Darfur, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>sd-nd</hc-key>
+    <hc-a2>ND</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.KS" d="M417.8,415.9 L420.8,431.9 L428.3,434.0 L435.0,441.2 L446.4,453.6 L446.7,466.4 L447.6,473.8 L450.7,479.5 L449.9,482.0 L430.0,499.4 L426.8,507.3 L418.5,518.6 L400.3,537.1 L397.3,538.3 L379.6,539.7 L368.2,529.7 L347.9,517.0 L331.0,526.3 L331.0,532.5 L325.5,539.1 L315.6,541.4 L305.3,546.1 L297.6,553.7 L298.3,558.1 L264.1,558.0 L257.7,546.6 L248.3,526.6 L247.5,523.1 L232.5,486.2 L229.7,474.9 L229.0,468.1 L235.2,471.6 L239.7,471.6 L246.8,468.8 L257.3,458.4 L263.1,445.5 L271.8,445.4 L275.3,447.0 L284.5,445.8 L288.5,444.0 L288.2,441.3 L291.1,431.1 L299.0,422.4 L303.0,421.9 L314.5,430.0 L325.3,430.6 L336.5,413.1 L339.6,411.2 L345.4,411.5 L347.0,418.9 L349.8,421.0 L360.8,420.4 L366.1,422.1 L372.7,429.6 L377.4,430.3 L382.1,426.0 L389.2,421.8 L393.5,415.5 L401.4,414.7 L406.1,411.7 L409.5,411.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.KS</hasc>
+    <alt-name>Southern Kordofan|South Kordufan|Jan?b Kurduf?n|Janub Kurdufun|Kurduf?n al Jan?b?yah|Kordofan méridional</alt-name>
+    <woe-id>20069910</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU50</fips>
+    <postal-code>KS</postal-code>
+    <name>South Kordufan</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Kordofan</region>
+    <longitude>29.83</longitude>
+    <woe-name>South Kordufan</woe-name>
+    <latitude>11.4504</latitude>
+    <woe-label>Janub Kurdufan, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>sd-ks</hc-key>
+    <hc-a2>KS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.SD" d="M229.0,468.1 L229.7,474.9 L232.5,486.2 L247.5,523.1 L248.3,526.6 L257.7,546.6 L233.9,545.9 L222.9,546.2 L206.4,551.8 L200.5,549.9 L184.5,531.0 L181.2,529.7 L177.5,524.3 L172.6,521.0 L172.4,514.3 L170.0,511.1 L170.2,506.4 L166.4,494.5 L160.2,478.3 L153.2,472.3 L142.7,460.8 L142.5,431.5 L146.8,425.6 L147.7,413.7 L145.4,397.2 L151.7,399.1 L159.6,406.4 L167.3,410.8 L176.5,418.3 L177.8,420.8 L171.0,424.9 L178.8,433.1 L183.0,439.6 L186.7,442.4 L195.2,443.2 L201.5,448.4 L205.0,449.7 L221.6,449.5 L227.6,450.6 L229.0,457.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.SD</hasc>
+    <alt-name>D?rf?r al Jan?b?yah| Jan?b D?rf?r| Darfur méridional| Southern Darfur</alt-name>
+    <woe-id>20069893</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU49</fips>
+    <postal-code>SD</postal-code>
+    <name>Eastern Darfur</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Darfur</region>
+    <longitude>26.5295</longitude>
+    <woe-name>South Darfur</woe-name>
+    <latitude>11.0263</latitude>
+    <woe-label>Janub Darfur, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>sd-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.KA" d="M634.1,214.7 L635.1,218.2 L635.3,227.6 L632.0,232.6 L631.3,238.2 L633.9,242.9 L634.7,250.0 L632.4,253.1 L627.8,268.5 L624.3,273.7 L622.4,282.1 L623.0,285.9 L620.9,288.2 L619.0,294.7 L615.0,300.8 L617.2,314.6 L600.1,315.3 L596.7,316.1 L577.2,324.1 L570.8,323.1 L560.7,312.7 L554.5,298.8 L547.7,291.6 L538.5,286.8 L527.3,283.9 L521.2,271.4 L519.7,265.1 L531.2,247.3 L534.7,246.3 L563.2,245.1 L569.7,243.3 L578.3,236.1 L580.1,226.5 L578.8,212.4 L596.0,219.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.KA</hasc>
+    <alt-name>Cassala|Kessala</alt-name>
+    <woe-id>20069905</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU52</fips>
+    <postal-code>KA</postal-code>
+    <name>Kassala</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Kassala</region>
+    <longitude>35.5979</longitude>
+    <woe-name>Kassala</woe-name>
+    <latitude>15.6265</latitude>
+    <woe-label>Kassala, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>sd-ka</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD.BN" d="M565.8,443.7 L561.7,448.1 L563.0,457.8 L558.0,469.8 L559.5,475.0 L556.9,483.3 L558.6,487.4 L553.9,493.6 L550.4,495.7 L550.1,493.1 L543.0,487.4 L536.6,491.2 L530.1,501.3 L532.4,514.1 L531.6,520.9 L528.2,524.7 L523.2,539.9 L522.2,549.6 L514.9,549.8 L513.8,546.0 L514.8,538.7 L517.5,533.1 L517.2,524.1 L514.3,517.8 L495.4,503.0 L491.1,498.5 L481.1,494.8 L482.9,490.3 L477.9,458.3 L480.0,453.9 L480.3,443.1 L482.7,431.1 L488.6,429.0 L495.5,429.8 L525.8,409.9 L531.2,407.4 L535.9,408.3 L539.5,411.6 L549.3,426.1 L554.7,432.3 L563.8,439.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.BN</hasc>
+    <alt-name>An N?l al Azraq|Nil Bleu|Nilo Azul</alt-name>
+    <woe-id>20069913</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU42</fips>
+    <postal-code>BN</postal-code>
+    <name>Blue Nile</name>
+    <country>Sudan</country>
+    <type-en>State</type-en>
+    <region>Blue Nile</region>
+    <longitude>34.1155</longitude>
+    <woe-name>Blue Nile</woe-name>
+    <latitude>11.1657</latitude>
+    <woe-label>An Nil al Azraq, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>sd-bn</hc-key>
+    <hc-a2>BN</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

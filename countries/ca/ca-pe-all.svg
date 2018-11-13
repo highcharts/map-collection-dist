@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.
+</desc>
+<title>Prince Edward Island</title>
+<g id="admin2">
+
+<g id="CA">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Canada</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Can.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>CAN</iso-a3>
+    <iso-a2>CA</iso-a2>
+    <woe-id>23424775</woe-id>
+    <continent>North America</continent>
+    <hc-key>ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</g>
+
+<g id="CA.PE">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>2</labelrank>
+    <hasc>CA.PE</hasc>
+    <alt-name>Île de Saint-Jean|Île du Prince-Édouard</alt-name>
+    <woe-id>2344923</woe-id>
+    <subregion>Atlantic Canada</subregion>
+    <fips>CA09</fips>
+    <postal-code>PE</postal-code>
+    <name>Prince Edward Island</name>
+    <country>Canada</country>
+    <type-en>Province</type-en>
+    <region>Eastern Canada</region>
+    <longitude>-63.3862</longitude>
+    <woe-name>Prince Edward Island</woe-name>
+    <latitude>46.3417</latitude>
+    <woe-label>Prince Edward Island, CA, Canada</woe-label>
+    <type>Province</type>
+    <hc-key>ca-pe</hc-key>
+    <hc-a2>PE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.PE.1103" d="M162.2,183.7 L165.5,187.7 L158.6,192.8 L154.7,188.6 Z M157.9,171.0 L194.8,197.8 L184.0,192.6 L176.8,196.2 L179.3,189.9 Z M260.6,354.6 L252.3,358.1 L247.5,352.0 L246.0,357.3 L240.3,352.8 L235.1,356.0 L228.2,350.9 L216.1,350.3 L215.6,344.9 L200.2,338.2 L203.0,329.0 L196.8,327.0 L187.8,314.8 L175.2,308.8 L171.1,311.0 L168.9,303.9 L177.4,298.5 L170.8,287.2 L188.4,298.1 L195.3,294.9 L183.1,287.5 L191.1,279.1 L176.7,279.9 L172.7,277.1 L162.4,279.0 L155.4,274.3 L148.2,277.4 L144.3,271.2 L134.5,267.5 L133.4,274.9 L115.6,281.1 L102.1,276.5 L77.8,273.6 L76.5,261.5 L87.6,245.7 L85.2,222.2 L101.4,201.3 L92.6,197.3 L96.1,193.8 L93.4,177.7 L86.8,190.2 L80.9,196.2 L55.6,178.3 L42.7,180.0 L31.5,177.7 L8.2,183.8 L0.0,165.8 L0.9,145.2 L11.2,128.9 L37.4,103.8 L50.6,80.6 L54.5,68.0 L72.2,45.5 L85.3,38.3 L106.2,22.4 L113.6,13.8 L121.2,0.0 L123.4,6.4 L121.1,40.1 L121.7,51.3 L126.3,62.8 L126.4,75.0 L116.5,85.5 L111.1,95.9 L110.3,105.2 L103.1,106.5 L97.6,117.8 L96.2,127.8 L109.7,138.6 L113.2,133.2 L122.6,138.0 L122.8,142.3 L138.1,157.8 L144.0,168.1 L152.3,175.9 L152.6,189.5 L165.4,200.7 L159.5,203.4 L155.5,213.5 L155.3,223.4 L150.9,228.2 L154.2,232.5 L161.7,232.1 L165.6,227.6 L173.2,239.1 L170.9,247.5 L163.6,250.8 L174.7,254.5 L176.4,258.6 L186.0,255.7 L188.1,261.0 L200.4,258.4 L204.4,251.1 L202.8,245.1 L189.3,239.3 L189.6,235.0 L201.9,226.7 L203.9,222.5 L193.7,219.9 L201.2,208.5 L209.5,215.0 L207.3,220.3 L215.9,216.7 L212.4,206.1 L225.4,209.8 L244.8,284.4 L243.5,284.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Prince</name>
+    <type>CTY</type>
+    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>ca-pe-1103</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.PE.1101" d="M572.4,358.2 L578.0,367.8 L568.4,363.5 L567.8,360.7 Z M443.2,262.5 L450.9,262.7 L445.6,271.8 L444.3,266.7 Z M446.2,274.1 L456.6,271.6 L452.2,263.0 L471.1,259.1 L480.9,260.7 L504.5,270.0 L523.9,268.6 L516.3,263.7 L503.1,262.8 L495.8,258.7 L482.5,257.5 L510.8,248.4 L515.3,249.3 L555.2,245.1 L573.2,247.9 L616.9,244.2 L630.3,241.1 L649.3,240.4 L671.8,246.7 L694.4,248.1 L700.0,253.3 L690.1,262.5 L685.1,262.9 L660.8,284.6 L646.7,289.3 L639.4,297.2 L623.3,299.5 L616.2,293.8 L607.7,303.3 L600.5,296.7 L586.6,296.9 L594.6,300.0 L592.0,307.4 L586.3,309.8 L596.1,314.6 L584.5,316.0 L589.4,327.3 L584.1,328.3 L582.6,337.0 L578.5,332.8 L570.4,334.6 L574.5,354.1 L556.9,356.4 L551.1,353.0 L543.7,361.0 L549.6,368.7 L544.3,370.8 L534.1,364.9 L530.7,367.9 L541.4,376.4 L535.3,383.8 L540.2,387.3 L537.1,393.2 L557.7,391.7 L557.0,386.5 L548.3,387.7 L548.7,381.3 L558.0,382.0 L558.4,391.2 L563.7,399.2 L562.5,408.5 L554.2,423.7 L550.1,422.0 L538.7,426.3 L538.5,433.6 L548.3,437.7 L555.4,433.2 L561.9,434.8 L561.3,441.0 L547.0,452.9 L530.7,456.9 L500.2,459.8 L488.4,416.4 L463.5,329.0 L461.0,329.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Kings</name>
+    <type>CTY</type>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.30</hc-middle-y>
+    <hc-key>ca-pe-1101</hc-key>
+    <hc-a2>KI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.PE.1102" d="M445.6,271.8 L442.4,272.8 L446.2,274.1 L461.0,329.7 L463.5,329.0 L488.4,416.4 L500.2,459.8 L483.6,457.7 L477.9,460.4 L455.1,457.5 L447.6,453.7 L436.6,441.8 L435.5,435.6 L414.1,418.1 L394.2,422.6 L399.4,414.4 L408.4,414.3 L428.3,405.2 L437.0,397.7 L439.1,383.7 L429.2,386.6 L425.1,391.5 L414.9,392.0 L414.8,381.0 L420.8,365.4 L412.5,360.1 L408.5,362.0 L408.0,370.8 L397.5,370.3 L397.3,362.9 L369.8,362.2 L369.5,354.0 L364.4,348.5 L357.6,352.7 L367.0,363.5 L359.2,372.5 L345.8,379.0 L340.7,378.5 L338.2,386.0 L332.5,389.4 L319.2,382.2 L312.6,381.4 L299.6,374.0 L289.2,372.7 L278.8,364.2 L274.1,365.3 L264.0,354.8 L260.6,354.6 L243.5,284.8 L244.8,284.4 L225.4,209.8 L244.7,217.6 L259.2,220.1 L264.8,227.4 L261.2,234.1 L271.7,247.6 L277.3,246.3 L276.9,240.2 L283.5,233.5 L307.0,236.2 L314.4,239.1 L327.2,266.9 L335.5,268.2 L331.2,275.7 L343.9,271.4 L341.1,263.2 L365.8,264.1 L391.9,271.1 L403.1,279.1 L406.5,291.5 L409.2,289.2 L412.5,271.5 L406.8,269.6 L431.1,263.7 L443.2,262.5 L444.3,266.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Queens</name>
+    <type>CTY</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>ca-pe-1102</hc-key>
+    <hc-a2>QU</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.</text>
+
+</svg>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Cameroon</title>
+<g id="admin1">
+
+<g id="CM">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cameroon</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Cam.</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>CMR</iso-a3>
+    <iso-a2>CM</iso-a2>
+    <woe-id>23424785</woe-id>
+    <continent>Africa</continent>
+    <hc-key>cm</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.ES" d="M365.0,429.0 L362.9,432.7 L368.0,439.4 L374.3,438.5 L376.3,442.1 L377.2,449.9 L374.8,456.9 L376.4,462.9 L375.1,469.9 L370.3,477.3 L371.5,479.1 L376.7,481.4 L379.1,486.4 L378.9,495.3 L380.6,500.7 L381.4,506.5 L380.8,509.7 L382.4,518.3 L386.2,523.0 L396.0,529.7 L399.8,531.7 L404.3,540.1 L405.4,548.9 L408.0,549.7 L411.6,553.2 L405.4,555.4 L401.4,554.8 L405.0,563.3 L410.3,571.1 L448.2,611.0 L456.1,611.6 L458.3,613.8 L460.3,619.0 L463.0,618.9 L467.1,625.9 L465.1,630.7 L465.2,635.8 L468.2,635.9 L467.0,638.3 L468.3,642.9 L467.0,647.6 L469.6,656.5 L474.2,665.2 L471.2,667.7 L467.8,667.0 L465.4,680.1 L467.7,683.0 L469.7,688.3 L471.2,695.1 L468.5,696.0 L465.7,700.0 L462.8,695.8 L463.0,694.0 L454.6,691.5 L454.2,690.1 L449.3,687.4 L446.9,684.4 L443.3,683.0 L437.5,682.4 L429.5,680.3 L426.9,680.7 L421.3,683.6 L418.9,682.8 L417.5,679.6 L414.2,676.9 L409.1,676.3 L405.4,679.8 L401.5,679.1 L398.6,676.8 L397.5,678.2 L393.2,678.5 L394.1,675.3 L391.0,671.8 L389.1,674.4 L385.3,674.8 L385.1,672.8 L382.6,672.8 L377.4,670.4 L374.4,666.5 L372.8,666.1 L371.3,668.8 L364.8,670.8 L361.8,668.9 L357.9,668.4 L354.6,669.5 L317.3,669.2 L315.4,627.1 L314.8,623.3 L307.6,627.1 L307.7,630.4 L303.2,630.7 L299.2,628.1 L296.9,628.8 L294.0,626.6 L294.7,630.3 L288.4,626.1 L284.1,625.6 L282.7,626.8 L273.6,625.2 L266.4,623.4 L264.1,622.0 L262.1,618.6 L261.9,611.7 L260.3,606.0 L256.5,600.1 L252.2,596.0 L249.0,590.6 L250.2,583.2 L252.6,577.6 L252.8,571.4 L248.3,568.6 L246.2,565.7 L246.5,563.5 L249.7,560.8 L255.6,559.1 L264.2,552.1 L262.5,547.8 L265.2,538.2 L264.5,534.7 L267.3,531.6 L269.3,525.0 L270.8,522.9 L275.0,520.8 L283.1,521.7 L288.0,521.5 L289.8,520.2 L291.5,506.4 L288.4,499.7 L279.7,495.8 L279.8,491.3 L277.9,488.1 L271.0,480.9 L266.2,476.5 L273.2,475.9 L275.4,474.8 L278.3,469.9 L281.0,463.3 L281.2,460.8 L276.8,451.8 L269.5,439.3 L269.9,433.6 L299.7,433.7 L323.8,433.6 L329.5,432.9 L335.9,430.5 L342.0,431.7 L350.2,430.6 L360.0,428.6 L362.5,427.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.ES</hasc>
+    <alt-name>East</alt-name>
+    <woe-id>2345033</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM04</fips>
+    <postal-code>ES</postal-code>
+    <name>Est</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>14.1674</longitude>
+    <woe-name>Est</woe-name>
+    <latitude>3.78379</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>cm-es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.AD" d="M414.9,356.2 L413.5,357.4 L411.1,363.0 L411.4,366.5 L408.8,368.8 L402.4,385.4 L395.6,390.3 L388.0,407.6 L386.4,409.7 L386.4,413.2 L382.6,418.0 L373.8,422.2 L371.3,422.2 L365.0,429.0 L362.5,427.0 L360.0,428.6 L350.2,430.6 L342.0,431.7 L335.9,430.5 L329.5,432.9 L323.8,433.6 L299.7,433.7 L269.9,433.6 L247.8,433.4 L246.4,432.8 L242.8,427.2 L235.0,421.4 L230.4,420.8 L224.6,423.0 L219.8,422.4 L214.3,417.5 L212.0,417.8 L206.5,421.2 L202.8,421.4 L195.1,427.4 L192.2,428.9 L172.2,433.5 L173.5,429.8 L171.8,422.3 L172.6,417.5 L165.9,415.2 L167.2,411.1 L166.9,406.2 L174.1,406.2 L178.4,404.0 L180.1,398.0 L185.9,395.6 L189.1,389.5 L189.7,386.2 L187.7,382.6 L189.2,379.4 L197.0,372.7 L200.2,372.0 L204.4,367.5 L207.7,367.3 L208.9,365.7 L202.7,357.1 L200.1,355.7 L202.9,353.2 L206.7,347.6 L214.2,340.4 L217.9,335.4 L216.9,330.5 L219.8,323.9 L228.6,312.3 L227.7,307.4 L228.1,303.5 L230.9,299.2 L234.1,303.4 L245.7,314.1 L254.2,316.0 L256.0,318.7 L255.1,321.7 L256.4,326.6 L262.6,329.6 L267.5,331.0 L277.3,332.5 L283.4,335.6 L292.9,335.1 L293.9,330.7 L295.6,329.0 L299.9,329.9 L303.2,332.9 L308.8,336.1 L317.9,332.2 L321.7,332.8 L328.7,331.2 L331.6,332.0 L331.6,334.7 L334.4,336.2 L345.0,337.4 L347.5,341.9 L350.0,343.9 L352.3,348.0 L358.3,353.5 L359.2,355.5 L359.7,362.0 L367.1,362.1 L370.4,363.9 L372.8,367.8 L376.6,368.6 L378.8,370.9 L383.1,370.2 L387.7,367.4 L400.4,361.8 L406.5,360.4 L410.3,357.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.AD</hasc>
+    <alt-name>Adamoua|Adamaua|Adamawa</alt-name>
+    <woe-id>2345038</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM10</fips>
+    <postal-code>AD</postal-code>
+    <name>Adamaoua</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>13.217</longitude>
+    <woe-name>Adamaoua</woe-name>
+    <latitude>6.80472</latitude>
+    <woe-label>Adamaoua, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>cm-ad</hc-key>
+    <hc-a2>AD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.NW" d="M74.3,399.4 L79.1,384.7 L80.2,383.4 L85.5,383.9 L100.7,371.4 L103.5,371.8 L104.3,376.3 L107.9,379.0 L123.8,379.0 L124.1,376.6 L126.4,374.2 L126.8,369.5 L129.0,363.3 L130.4,367.8 L144.4,374.8 L147.1,382.8 L149.1,384.7 L154.8,385.8 L158.0,390.0 L158.3,397.7 L160.5,405.4 L163.1,406.6 L166.9,406.2 L167.2,411.1 L165.9,415.2 L163.6,417.5 L160.0,418.5 L155.1,417.9 L154.1,426.2 L152.4,428.4 L145.4,431.0 L144.3,432.4 L137.3,430.9 L135.4,431.3 L132.3,438.2 L129.8,442.3 L123.5,442.8 L112.6,444.7 L110.3,449.6 L107.3,446.9 L103.5,445.9 L98.5,449.2 L91.2,447.0 L87.7,448.8 L78.4,444.9 L75.7,441.6 L72.6,441.5 L68.4,436.7 L69.1,433.6 L67.6,431.6 L68.7,429.8 L74.8,426.1 L76.3,424.3 L79.5,424.2 L81.0,416.0 L76.7,402.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.NW</hasc>
+    <alt-name>North-West</alt-name>
+    <woe-id>2345035</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM07</fips>
+    <postal-code>NW</postal-code>
+    <name>Nord-Ouest</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>10.4002</longitude>
+    <woe-name>Nord-Ouest</woe-name>
+    <latitude>6.34548</latitude>
+    <woe-label>Nord-Ouest, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>cm-nw</hc-key>
+    <hc-a2>NW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.NO" d="M414.9,356.2 L410.3,357.1 L406.5,360.4 L400.4,361.8 L387.7,367.4 L383.1,370.2 L378.8,370.9 L376.6,368.6 L372.8,367.8 L370.4,363.9 L367.1,362.1 L359.7,362.0 L359.2,355.5 L358.3,353.5 L352.3,348.0 L350.0,343.9 L347.5,341.9 L345.0,337.4 L334.4,336.2 L331.6,334.7 L331.6,332.0 L328.7,331.2 L321.7,332.8 L317.9,332.2 L308.8,336.1 L303.2,332.9 L299.9,329.9 L295.6,329.0 L293.9,330.7 L292.9,335.1 L283.4,335.6 L277.3,332.5 L267.5,331.0 L262.6,329.6 L256.4,326.6 L255.1,321.7 L256.0,318.7 L254.2,316.0 L245.7,314.1 L234.1,303.4 L230.9,299.2 L230.2,292.5 L230.6,287.1 L232.0,285.1 L237.7,284.3 L241.4,280.4 L239.3,273.4 L242.7,274.1 L246.2,272.6 L250.8,273.7 L257.1,270.5 L260.8,264.6 L264.0,264.4 L266.0,260.0 L267.5,248.4 L267.1,243.7 L271.2,235.8 L271.9,231.2 L269.7,226.2 L273.3,224.5 L277.0,220.6 L281.3,218.8 L286.1,218.1 L290.0,216.6 L291.8,212.2 L292.9,204.1 L294.2,200.7 L291.2,196.5 L293.3,190.1 L292.3,185.7 L293.4,183.6 L302.2,181.4 L305.7,184.7 L312.0,184.0 L319.3,180.7 L317.8,178.1 L319.7,175.1 L334.7,176.3 L337.5,177.5 L342.4,183.0 L350.8,185.1 L351.0,190.0 L349.3,191.9 L344.4,200.4 L339.4,204.7 L335.8,210.9 L341.2,215.1 L358.5,235.1 L360.2,239.7 L387.2,261.5 L390.4,261.6 L396.1,266.6 L397.0,269.9 L401.7,271.0 L406.5,277.3 L411.0,282.0 L420.9,303.0 L424.6,316.1 L426.7,321.1 L429.6,323.3 L434.2,324.0 L434.1,330.3 L431.7,337.3 L425.4,345.8 L426.3,348.7 L424.4,348.9 L420.5,352.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.NO</hasc>
+    <alt-name>North</alt-name>
+    <woe-id>2345041</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM13</fips>
+    <postal-code>NO</postal-code>
+    <name>Nord</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>13.8908</longitude>
+    <woe-name>Nord</woe-name>
+    <latitude>8.90981</latitude>
+    <woe-label>Nord, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>cm-no</hc-key>
+    <hc-a2>NO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.CE" d="M172.2,433.5 L192.2,428.9 L195.1,427.4 L202.8,421.4 L206.5,421.2 L212.0,417.8 L214.3,417.5 L219.8,422.4 L224.6,423.0 L230.4,420.8 L235.0,421.4 L242.8,427.2 L246.4,432.8 L247.8,433.4 L269.9,433.6 L269.5,439.3 L276.8,451.8 L281.2,460.8 L281.0,463.3 L278.3,469.9 L275.4,474.8 L273.2,475.9 L266.2,476.5 L271.0,480.9 L277.9,488.1 L279.8,491.3 L279.7,495.8 L288.4,499.7 L291.5,506.4 L289.8,520.2 L288.0,521.5 L283.1,521.7 L275.0,520.8 L270.8,522.9 L269.3,525.0 L267.3,531.6 L264.5,534.7 L265.2,538.2 L262.5,547.8 L264.2,552.1 L255.6,559.1 L249.7,560.8 L246.5,563.5 L246.2,565.7 L248.3,568.6 L252.8,571.4 L252.6,577.6 L250.2,583.2 L245.2,576.6 L233.8,585.8 L230.9,589.4 L228.8,597.2 L222.8,598.7 L222.3,595.5 L208.8,589.0 L206.4,593.4 L199.6,597.1 L196.2,604.6 L190.9,607.3 L186.5,608.3 L170.7,608.4 L166.7,609.0 L163.0,605.1 L162.5,602.7 L159.9,600.6 L158.3,594.5 L155.7,591.7 L149.5,591.0 L144.0,591.6 L142.3,587.7 L135.8,588.4 L114.7,594.4 L109.4,595.0 L106.4,584.9 L107.0,582.9 L109.6,583.1 L112.3,580.8 L112.6,577.9 L115.6,568.4 L120.4,565.4 L125.3,568.1 L128.5,571.3 L130.4,570.9 L132.1,567.6 L132.1,559.8 L136.4,552.0 L142.1,550.4 L156.7,545.4 L161.1,542.3 L153.9,535.4 L150.9,530.3 L148.9,525.1 L149.1,517.6 L142.8,517.5 L141.5,518.4 L139.8,524.1 L137.9,525.9 L135.6,523.6 L130.1,528.4 L126.0,528.6 L120.1,525.4 L116.8,525.2 L117.0,521.7 L122.1,515.0 L123.1,512.0 L122.1,509.4 L115.6,512.4 L115.0,508.6 L122.1,502.5 L123.3,499.8 L129.7,500.4 L138.2,496.4 L141.4,493.3 L145.6,496.6 L150.5,496.2 L154.1,485.5 L159.0,482.4 L158.8,475.7 L165.3,469.7 L165.0,466.8 L167.0,462.9 L165.8,456.2 L167.1,452.5 L170.9,449.5 L173.3,445.1 L171.4,444.9 L170.2,437.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.CE</hasc>
+    <alt-name>Central</alt-name>
+    <woe-id>2345039</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM11</fips>
+    <postal-code>CE</postal-code>
+    <name>Centre</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>11.7383</longitude>
+    <woe-name>Centre</woe-name>
+    <latitude>4.73268</latitude>
+    <woe-label>Centre, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>cm-ce</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.OU" d="M172.2,433.5 L170.2,437.7 L171.4,444.9 L173.3,445.1 L170.9,449.5 L167.1,452.5 L165.8,456.2 L167.0,462.9 L165.0,466.8 L165.3,469.7 L158.8,475.7 L159.0,482.4 L154.1,485.5 L150.5,496.2 L145.6,496.6 L141.4,493.3 L138.2,496.4 L129.7,500.4 L123.3,499.8 L118.9,496.9 L115.4,488.6 L108.3,489.2 L107.0,491.8 L103.9,494.1 L101.6,498.4 L99.6,498.5 L96.7,493.9 L95.8,490.8 L93.5,489.5 L92.0,486.0 L92.6,482.1 L90.9,478.5 L87.4,476.8 L84.9,477.8 L84.0,476.4 L84.4,471.9 L86.8,470.2 L89.4,463.8 L90.0,460.0 L96.5,453.7 L99.2,452.7 L98.5,449.2 L103.5,445.9 L107.3,446.9 L110.3,449.6 L112.6,444.7 L123.5,442.8 L129.8,442.3 L132.3,438.2 L135.4,431.3 L137.3,430.9 L144.3,432.4 L145.4,431.0 L152.4,428.4 L154.1,426.2 L155.1,417.9 L160.0,418.5 L163.6,417.5 L165.9,415.2 L172.6,417.5 L171.8,422.3 L173.5,429.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.OU</hasc>
+    <alt-name>West</alt-name>
+    <woe-id>2345036</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM08</fips>
+    <postal-code>OU</postal-code>
+    <name>Ouest</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>10.5889</longitude>
+    <woe-name>Ouest</woe-name>
+    <latitude>5.36694</latitude>
+    <woe-label>Ouest, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>cm-ou</hc-key>
+    <hc-a2>OU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.EN" d="M351.0,190.0 L350.8,185.1 L342.4,183.0 L337.5,177.5 L334.7,176.3 L319.7,175.1 L317.8,178.1 L319.3,180.7 L312.0,184.0 L305.7,184.7 L302.2,181.4 L304.8,179.2 L305.9,176.3 L305.4,173.5 L306.8,169.7 L308.9,158.2 L311.2,150.5 L312.9,147.0 L323.8,131.6 L324.4,126.3 L328.4,123.1 L331.6,117.2 L338.2,110.5 L342.5,111.2 L346.7,113.0 L349.3,112.9 L353.3,109.7 L356.2,109.0 L361.6,104.0 L366.3,102.3 L371.1,98.8 L375.2,97.1 L377.3,91.7 L376.9,88.9 L372.4,83.5 L375.1,79.5 L377.1,71.4 L377.2,68.2 L375.9,64.4 L377.9,58.6 L379.9,56.0 L378.8,54.4 L376.7,55.3 L372.6,51.4 L370.5,46.4 L365.0,44.6 L352.6,44.2 L350.4,42.5 L350.3,32.7 L343.6,0.1 L358.7,0.0 L359.2,1.4 L356.2,1.3 L357.4,3.7 L354.6,5.0 L357.3,8.2 L355.8,11.8 L358.8,12.9 L364.1,12.2 L365.7,8.8 L368.1,8.8 L369.9,6.5 L369.2,11.9 L372.7,16.1 L372.7,18.4 L374.8,20.5 L376.8,19.7 L379.6,22.4 L382.7,23.2 L382.6,26.3 L384.3,24.7 L385.9,27.4 L388.9,27.1 L391.6,35.9 L390.7,38.2 L392.4,38.9 L394.3,46.2 L393.6,52.8 L393.9,57.3 L397.7,60.6 L400.5,59.6 L402.8,61.1 L402.8,65.5 L404.7,68.0 L403.0,68.3 L402.3,72.2 L406.5,79.6 L404.8,81.7 L404.0,87.0 L408.0,95.0 L403.5,102.0 L403.2,109.5 L401.5,112.5 L401.1,116.3 L401.9,127.9 L404.6,133.8 L403.8,140.2 L408.9,150.6 L408.2,156.8 L413.0,158.9 L416.7,164.6 L418.1,169.7 L426.4,177.4 L428.7,180.6 L432.3,183.8 L438.5,186.9 L441.2,189.3 L426.5,193.0 L423.1,193.1 L412.8,189.8 L406.4,189.9 L403.5,191.9 L399.9,192.2 L393.6,191.2 L386.0,193.6 L383.5,193.5 L365.8,189.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.EN</hasc>
+    <alt-name>Extreme-North</alt-name>
+    <woe-id>2345040</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM12</fips>
+    <postal-code>EN</postal-code>
+    <name>Extrême-Nord</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>14.5367</longitude>
+    <woe-name>Extrême-Nord</woe-name>
+    <latitude>10.7227</latitude>
+    <woe-label>Extreme-Nord, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.76</hc-middle-y>
+    <hc-key>cm-en</hc-key>
+    <hc-a2>EN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.SW" d="M98.5,449.2 L99.2,452.7 L96.5,453.7 L90.0,460.0 L89.4,463.8 L86.8,470.2 L84.4,471.9 L82.3,472.4 L77.2,476.7 L78.7,481.5 L83.0,488.5 L82.6,490.3 L79.4,492.0 L77.9,496.2 L79.5,499.2 L74.7,504.7 L74.3,507.9 L70.2,513.1 L69.8,515.2 L66.0,515.8 L62.6,521.0 L61.8,526.2 L62.1,530.2 L57.8,536.9 L57.3,540.2 L62.9,541.8 L64.8,545.1 L61.2,548.9 L59.7,548.4 L58.1,550.5 L54.3,557.3 L50.5,560.0 L48.7,557.3 L50.2,553.2 L48.7,553.5 L45.5,557.5 L43.0,557.3 L43.1,554.6 L37.7,554.0 L28.3,548.8 L29.6,541.6 L25.2,535.4 L23.7,526.6 L26.3,520.9 L24.1,522.8 L24.4,519.6 L20.4,515.3 L22.1,521.4 L17.9,517.9 L17.6,521.7 L13.3,519.1 L12.2,515.8 L8.0,510.9 L10.9,520.3 L12.8,521.7 L11.8,524.0 L4.1,524.5 L5.2,522.0 L2.8,523.2 L0.0,522.3 L2.6,516.9 L0.4,517.0 L0.7,514.3 L3.6,511.9 L4.4,505.2 L6.5,503.5 L5.9,500.5 L12.5,490.9 L15.7,485.0 L18.2,483.5 L19.9,475.1 L19.3,472.1 L21.5,466.7 L21.6,461.7 L24.7,458.2 L24.4,455.1 L19.8,450.0 L22.5,447.0 L22.2,441.1 L26.3,437.7 L30.0,438.2 L30.4,435.7 L39.6,426.2 L48.1,419.5 L51.5,413.7 L57.4,411.2 L59.3,407.6 L65.3,404.9 L68.6,400.5 L74.3,399.4 L76.7,402.6 L81.0,416.0 L79.5,424.2 L76.3,424.3 L74.8,426.1 L68.7,429.8 L67.6,431.6 L69.1,433.6 L68.4,436.7 L72.6,441.5 L75.7,441.6 L78.4,444.9 L87.7,448.8 L91.2,447.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.SW</hasc>
+    <alt-name>South-West</alt-name>
+    <woe-id>2345037</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM09</fips>
+    <postal-code>SW</postal-code>
+    <name>Sud-Ouest</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>9.244809999999999</longitude>
+    <woe-name>Sud-Ouest</woe-name>
+    <latitude>5.12818</latitude>
+    <woe-label>Sud-Ouest, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>cm-sw</hc-key>
+    <hc-a2>SW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.LT" d="M84.4,471.9 L84.0,476.4 L84.9,477.8 L87.4,476.8 L90.9,478.5 L92.6,482.1 L92.0,486.0 L93.5,489.5 L95.8,490.8 L96.7,493.9 L99.6,498.5 L101.6,498.4 L103.9,494.1 L107.0,491.8 L108.3,489.2 L115.4,488.6 L118.9,496.9 L123.3,499.8 L122.1,502.5 L115.0,508.6 L115.6,512.4 L122.1,509.4 L123.1,512.0 L122.1,515.0 L117.0,521.7 L116.8,525.2 L120.1,525.4 L126.0,528.6 L130.1,528.4 L135.6,523.6 L137.9,525.9 L139.8,524.1 L141.5,518.4 L142.8,517.5 L149.1,517.6 L148.9,525.1 L150.9,530.3 L153.9,535.4 L161.1,542.3 L156.7,545.4 L142.1,550.4 L136.4,552.0 L132.1,559.8 L132.1,567.6 L130.4,570.9 L128.5,571.3 L125.3,568.1 L120.4,565.4 L115.6,568.4 L112.6,577.9 L112.3,580.8 L109.6,583.1 L107.0,582.9 L103.5,579.8 L100.0,581.1 L95.7,586.1 L95.7,590.4 L93.1,595.8 L87.2,600.3 L84.3,598.8 L82.7,595.7 L78.1,590.0 L69.5,583.6 L72.4,582.6 L78.6,577.7 L73.6,579.9 L69.3,580.2 L69.6,577.8 L67.8,573.4 L63.7,566.3 L66.7,570.1 L66.4,567.0 L68.4,563.0 L72.0,565.4 L72.6,563.9 L76.0,566.4 L75.6,563.9 L71.8,560.9 L77.3,559.2 L77.3,557.9 L71.1,559.0 L68.3,557.7 L69.6,554.7 L71.8,553.2 L74.5,549.2 L72.0,549.1 L68.9,553.3 L65.9,554.5 L61.5,551.9 L61.2,548.9 L64.8,545.1 L62.9,541.8 L57.3,540.2 L57.8,536.9 L62.1,530.2 L61.8,526.2 L62.6,521.0 L66.0,515.8 L69.8,515.2 L70.2,513.1 L74.3,507.9 L74.7,504.7 L79.5,499.2 L77.9,496.2 L79.4,492.0 L82.6,490.3 L83.0,488.5 L78.7,481.5 L77.2,476.7 L82.3,472.4 Z M58.1,550.5 L60.0,551.5 L62.9,555.9 L59.5,555.8 L57.9,553.2 L56.1,554.7 L58.4,556.9 L59.5,560.4 L54.3,561.1 L50.5,560.0 L54.3,557.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.LT</hasc>
+    <alt-name>Litoral</alt-name>
+    <woe-id>2345034</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM05</fips>
+    <postal-code>LT</postal-code>
+    <name>Littoral</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>10.0932</longitude>
+    <woe-name>Littoral</woe-name>
+    <latitude>4.1938</latitude>
+    <woe-label>Littoral, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>cm-lt</hc-key>
+    <hc-a2>LT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM.SU" d="M250.2,583.2 L249.0,590.6 L252.2,596.0 L256.5,600.1 L260.3,606.0 L261.9,611.7 L262.1,618.6 L264.1,622.0 L266.4,623.4 L273.6,625.2 L282.7,626.8 L284.1,625.6 L288.4,626.1 L294.7,630.3 L294.0,626.6 L296.9,628.8 L299.2,628.1 L303.2,630.7 L307.7,630.4 L307.6,627.1 L314.8,623.3 L315.4,627.1 L317.3,669.2 L294.7,668.9 L294.9,665.6 L291.5,662.2 L284.8,661.4 L281.7,663.5 L271.9,662.6 L268.4,663.8 L264.7,662.6 L261.1,664.3 L252.8,663.0 L244.4,660.6 L238.6,661.2 L235.5,659.7 L227.4,661.6 L221.1,661.0 L199.6,661.4 L194.6,659.0 L191.3,659.6 L174.8,660.2 L175.1,662.3 L173.0,668.4 L90.7,668.2 L83.4,665.4 L79.6,662.1 L78.9,657.3 L80.2,655.2 L80.4,643.7 L83.7,632.0 L83.9,624.2 L85.5,618.8 L88.0,615.5 L88.9,611.8 L86.6,602.9 L87.2,600.3 L93.1,595.8 L95.7,590.4 L95.7,586.1 L100.0,581.1 L103.5,579.8 L107.0,582.9 L106.4,584.9 L109.4,595.0 L114.7,594.4 L135.8,588.4 L142.3,587.7 L144.0,591.6 L149.5,591.0 L155.7,591.7 L158.3,594.5 L159.9,600.6 L162.5,602.7 L163.0,605.1 L166.7,609.0 L170.7,608.4 L186.5,608.3 L190.9,607.3 L196.2,604.6 L199.6,597.1 L206.4,593.4 L208.8,589.0 L222.3,595.5 L222.8,598.7 L228.8,597.2 L230.9,589.4 L233.8,585.8 L245.2,576.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>CM.SU</hasc>
+    <alt-name>South</alt-name>
+    <woe-id>2345042</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CM14</fips>
+    <postal-code>SU</postal-code>
+    <name>Sud</name>
+    <country>Cameroon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>11.731</longitude>
+    <woe-name>Sud</woe-name>
+    <latitude>2.79256</latitude>
+    <woe-label>Sud, CM, Cameroon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>cm-su</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

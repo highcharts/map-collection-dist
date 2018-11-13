@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>West Virginia</title>
+<g id="admin2">
+
+<g id="US.WV">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.WV</hasc>
+    <alt-name>WV|W.Va.</alt-name>
+    <woe-id>2347607</woe-id>
+    <subregion>South Atlantic</subregion>
+    <fips>US54</fips>
+    <postal-code>WV</postal-code>
+    <name>West Virginia</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>South</region>
+    <longitude>-80.7128</longitude>
+    <woe-name>West Virginia</woe-name>
+    <latitude>38.6422</latitude>
+    <woe-label>West Virginia, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-wv</hc-key>
+    <hc-a2>WV</hc-a2>
+  </desc>
+</g>
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.103" d="M244.2,188.1 L253.1,185.6 L255.1,173.6 L259.6,167.4 L284.4,167.2 L303.8,167.1 L307.2,167.1 L317.6,167.1 L321.3,174.4 L321.3,182.3 L316.0,182.0 L313.6,189.9 L309.7,189.7 L307.0,195.9 L310.8,209.9 L307.6,212.9 L304.6,218.7 L300.5,220.3 L295.1,216.3 L290.1,216.5 L273.8,209.1 L272.8,205.2 L266.6,200.8 L257.1,189.0 L252.3,193.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54103</fips>
+    <name>Wetzel</name>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>us-wv-103</hc-key>
+    <hc-a2>WE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.067" d="M248.9,405.1 L262.4,393.5 L261.2,390.6 L253.2,388.3 L266.9,379.1 L271.9,384.9 L273.8,383.7 L286.2,384.7 L282.2,388.9 L287.7,403.3 L284.7,405.4 L289.9,416.0 L292.2,415.2 L317.1,431.7 L303.4,444.3 L277.7,466.1 L253.2,461.8 L243.5,450.0 L244.3,445.3 L238.6,440.1 L235.2,443.2 L228.0,440.0 L226.8,444.2 L214.3,439.4 L203.0,432.6 L203.0,432.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54067</fips>
+    <name>Nicholas</name>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>us-wv-067</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.015" d="M248.9,405.1 L203.0,432.6 L203.0,432.6 L199.8,412.3 L195.6,394.6 L208.5,384.6 L217.6,377.6 L224.3,369.2 L226.0,366.8 L231.7,359.1 L239.7,366.8 L240.5,372.6 L246.8,375.2 L248.0,381.4 L251.7,382.9 L253.2,388.3 L261.2,390.6 L262.4,393.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54015</fips>
+    <name>Clay</name>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-wv-015</hc-key>
+    <hc-a2>CL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.003" d="M656.0,243.7 L637.9,229.9 L627.7,221.5 L631.4,212.3 L634.9,197.0 L639.2,184.3 L645.5,186.2 L655.5,179.1 L657.8,182.3 L664.5,180.7 L666.7,185.1 L668.0,178.9 L674.3,182.5 L674.6,179.4 L681.1,180.6 L682.1,187.8 L674.9,189.3 L678.8,197.5 L683.9,201.1 L681.2,209.7 L669.8,222.0 L664.8,224.8 L662.0,233.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54003</fips>
+    <name>Berkeley</name>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>us-wv-003</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.095" d="M219.1,215.3 L223.2,208.3 L230.8,200.3 L244.2,188.1 L252.3,193.0 L257.1,189.0 L266.6,200.8 L272.8,205.2 L273.8,209.1 L290.1,216.5 L284.4,219.7 L276.5,220.4 L273.8,226.6 L260.3,236.1 L252.0,245.0 L252.7,232.9 L245.8,227.8 L241.5,236.8 L235.1,234.7 L232.1,213.5 L227.6,211.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54095</fips>
+    <name>Tyler</name>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>us-wv-095</hc-key>
+    <hc-a2>TY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.019" d="M203.0,432.6 L214.3,439.4 L226.8,444.2 L228.0,440.0 L235.2,443.2 L238.6,440.1 L244.3,445.3 L243.5,450.0 L253.2,461.8 L251.5,466.1 L256.1,470.2 L265.0,469.4 L260.8,472.7 L265.4,476.0 L269.4,483.2 L263.5,489.8 L272.5,505.1 L264.2,504.4 L254.6,508.7 L244.2,513.5 L239.4,511.0 L228.0,510.5 L225.7,503.2 L193.7,500.7 L193.5,490.7 L186.2,484.7 L181.4,486.1 L188.6,450.0 L203.0,432.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54019</fips>
+    <name>Fayette</name>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-wv-019</hc-key>
+    <hc-a2>FA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.039" d="M203.0,432.6 L188.6,450.0 L181.4,486.1 L173.1,486.3 L170.5,482.7 L170.0,475.5 L165.7,468.2 L158.9,466.5 L162.1,459.9 L154.4,455.4 L149.7,448.6 L143.1,446.6 L143.8,440.2 L132.1,439.9 L130.4,444.1 L126.5,438.8 L116.6,441.9 L120.1,440.0 L120.6,426.6 L118.9,422.4 L109.2,422.7 L105.0,420.7 L107.3,407.4 L116.7,401.9 L132.4,395.3 L128.4,384.8 L129.0,372.6 L136.8,366.2 L145.8,379.4 L153.6,375.3 L161.7,368.9 L163.7,374.4 L169.7,380.4 L192.9,383.2 L197.0,385.6 L208.5,384.6 L195.6,394.6 L199.8,412.3 L203.0,432.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54039</fips>
+    <name>Kanawha</name>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>us-wv-039</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.009" d="M303.4,43.6 L303.3,52.7 L303.4,87.3 L292.8,84.2 L280.7,82.7 L283.5,74.6 L288.9,68.8 L292.0,58.6 L290.9,49.1 L287.8,44.5 L295.6,43.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54009</fips>
+    <name>Brooke</name>
+    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-wv-009</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.069" d="M273.5,110.4 L272.7,102.8 L276.4,98.8 L277.7,87.8 L280.7,82.7 L292.8,84.2 L303.4,87.3 L303.5,94.9 L303.6,113.4 L280.0,111.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54069</fips>
+    <name>Ohio</name>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-wv-069</hc-key>
+    <hc-a2>OH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.043" d="M105.0,420.7 L109.2,422.7 L118.9,422.4 L120.6,426.6 L120.1,440.0 L116.6,441.9 L114.0,448.5 L108.9,449.4 L109.9,455.0 L103.0,452.2 L99.2,458.3 L96.4,470.7 L105.9,474.6 L102.0,475.3 L85.9,477.1 L64.7,484.1 L56.2,486.9 L48.0,489.5 L57.2,479.2 L63.0,475.2 L64.6,470.2 L58.5,465.6 L51.8,453.5 L52.8,441.9 L54.7,437.7 L58.2,430.0 L61.9,428.3 L67.6,417.7 L76.1,417.0 L79.0,412.8 L86.2,411.6 L85.8,426.9 L94.0,430.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54043</fips>
+    <name>Lincoln</name>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>us-wv-043</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.061" d="M321.3,182.3 L321.3,174.4 L317.6,167.1 L366.2,166.6 L410.1,166.2 L406.7,183.9 L391.5,210.0 L392.3,218.4 L387.1,215.9 L386.0,215.4 L381.9,213.5 L355.4,186.9 L328.1,186.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54061</fips>
+    <name>Monongalia</name>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>us-wv-061</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.033" d="M300.5,220.3 L304.6,218.7 L307.6,212.9 L336.0,219.2 L349.6,226.5 L349.1,247.5 L354.2,254.0 L346.1,267.0 L345.8,277.6 L342.8,279.8 L335.5,279.3 L314.0,273.2 L304.6,271.9 L293.5,268.1 L301.2,263.9 L303.4,260.3 L297.7,258.3 L300.4,255.7 L295.2,251.7 L296.0,247.1 L292.3,245.5 L302.4,232.9 L300.7,231.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54033</fips>
+    <name>Harrison</name>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-wv-033</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.027" d="M566.5,197.0 L571.7,196.1 L579.4,199.6 L584.8,198.4 L593.2,199.7 L597.8,202.7 L610.6,208.4 L609.0,218.8 L611.5,222.5 L608.3,227.9 L612.3,229.8 L601.4,246.7 L604.3,249.1 L599.0,257.5 L604.1,263.0 L596.4,273.0 L589.7,277.7 L581.9,270.1 L576.1,268.7 L573.2,272.7 L563.4,267.8 L557.5,267.4 L533.7,259.0 L522.2,252.2 L529.6,244.6 L534.9,236.0 L540.1,234.8 L545.5,226.4 L551.3,213.4 L556.6,210.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54027</fips>
+    <name>Hampshire</name>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>us-wv-027</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.071" d="M488.5,318.8 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L507.9,334.9 L513.1,339.1 L508.2,350.0 L508.4,357.6 L502.9,359.0 L499.3,370.0 L492.7,382.7 L490.2,391.2 L484.4,398.3 L477.9,403.4 L454.2,395.6 L445.3,378.7 L429.2,371.5 L433.4,365.8 L432.2,358.3 L436.9,358.0 L436.3,354.0 L441.4,348.5 L448.5,336.8 L448.7,333.1 L444.2,325.8 L447.9,316.2 L452.0,317.5 L457.5,315.2 L455.7,309.6 L467.3,311.0 L470.7,304.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54071</fips>
+    <name>Pendleton</name>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-wv-071</hc-key>
+    <hc-a2>PE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.023" d="M501.9,329.9 L488.5,318.8 L470.7,304.3 L470.8,304.1 L469.6,303.0 L471.7,302.3 L476.1,290.9 L477.7,283.1 L469.5,280.8 L472.8,274.8 L472.7,269.6 L478.6,261.8 L472.3,257.4 L463.9,261.5 L453.4,264.3 L450.5,261.4 L450.5,261.4 L450.5,261.0 L450.5,259.4 L459.3,255.4 L470.2,243.0 L478.1,241.8 L480.6,236.6 L500.0,239.1 L522.2,252.2 L514.6,268.4 L514.6,273.9 L510.6,279.9 L507.4,288.9 L508.7,295.8 L514.0,308.7 L508.5,315.1 L509.3,318.2 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54023</fips>
+    <name>Grant</name>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>us-wv-023</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.031" d="M501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 L501.9,329.9 Z M501.9,329.9 L501.9,329.9 L509.3,318.2 L508.5,315.1 L514.0,308.7 L508.7,295.8 L507.4,288.9 L510.6,279.9 L514.6,273.9 L514.6,268.4 L522.2,252.2 L533.7,259.0 L557.5,267.4 L563.4,267.8 L573.2,272.7 L576.1,268.7 L581.9,270.1 L589.7,277.7 L587.2,281.5 L580.9,288.3 L584.0,290.7 L577.0,300.6 L574.3,297.4 L566.0,308.1 L560.5,311.7 L560.2,307.0 L550.9,315.8 L539.8,338.3 L521.8,322.8 L513.1,339.1 L507.9,334.9 L501.9,329.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54031</fips>
+    <name>Hardy</name>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>us-wv-031</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.089" d="M256.8,584.6 L256.7,584.5 L256.6,584.4 L240.8,571.0 L222.5,555.4 L227.0,551.3 L226.3,546.1 L243.9,532.4 L253.3,538.7 L250.9,529.8 L247.3,527.5 L251.5,523.0 L244.2,513.5 L254.6,508.7 L264.2,504.4 L272.0,510.3 L284.2,523.6 L284.9,529.3 L285.3,532.4 L272.7,555.6 L265.5,567.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54089</fips>
+    <name>Summers</name>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>us-wv-089</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.011" d="M62.1,371.8 L79.9,388.4 L85.3,393.4 L85.8,406.3 L86.2,411.6 L79.0,412.8 L76.1,417.0 L67.6,417.7 L61.9,428.3 L58.2,430.0 L54.7,437.7 L49.7,435.6 L49.0,425.6 L53.2,424.0 L50.2,419.7 L43.5,423.7 L20.3,404.0 L35.2,399.1 L46.8,397.5 L49.8,388.5 L52.4,373.3 L58.1,370.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54011</fips>
+    <name>Cabell</name>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-wv-011</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.053" d="M85.3,393.4 L79.9,388.4 L62.1,371.8 L67.6,370.4 L68.9,365.7 L66.4,355.7 L67.6,351.1 L65.2,341.4 L62.2,336.2 L73.4,326.4 L73.6,316.2 L80.1,305.3 L86.8,298.9 L88.9,293.4 L93.4,292.5 L96.9,298.9 L103.7,300.2 L108.2,309.3 L104.4,315.9 L107.0,320.1 L107.8,322.9 L123.4,346.7 L120.2,350.0 L126.0,356.2 L99.8,360.3 L84.2,369.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54053</fips>
+    <name>Mason</name>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>us-wv-053</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.101" d="M328.1,439.2 L321.7,434.8 L317.1,431.7 L292.2,415.2 L289.9,416.0 L284.7,405.4 L287.7,403.3 L282.2,388.9 L286.2,384.7 L306.4,362.9 L313.6,345.9 L315.4,348.1 L322.8,347.9 L328.5,347.3 L333.5,355.7 L338.9,353.7 L352.9,384.5 L344.3,409.5 L332.2,419.2 L329.1,417.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54101</fips>
+    <name>Webster</name>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>us-wv-101</hc-key>
+    <hc-a2>WE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.025" d="M317.1,431.7 L321.7,434.8 L328.1,439.2 L327.8,459.5 L342.1,471.7 L355.8,473.5 L364.7,469.8 L385.9,468.2 L379.0,481.5 L360.1,501.4 L344.8,522.3 L343.5,531.0 L338.0,536.3 L325.1,536.2 L323.8,531.8 L315.7,537.9 L307.6,536.6 L284.9,529.3 L284.2,523.6 L272.0,510.3 L264.2,504.4 L272.5,505.1 L263.5,489.8 L269.4,483.2 L265.4,476.0 L260.8,472.7 L265.0,469.4 L256.1,470.2 L251.5,466.1 L253.2,461.8 L277.7,466.1 L303.4,444.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54025</fips>
+    <name>Greenbrier</name>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>us-wv-025</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.041" d="M322.8,347.9 L315.4,348.1 L313.6,345.9 L315.1,338.9 L309.5,334.8 L311.2,329.5 L304.2,323.5 L295.5,324.2 L292.3,315.9 L276.5,297.0 L274.8,281.1 L278.6,282.1 L284.9,272.8 L288.7,273.2 L293.5,268.1 L304.6,271.9 L314.0,273.2 L335.5,279.3 L333.1,295.8 L330.8,298.9 L333.2,305.8 L323.5,321.1 L320.4,340.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54041</fips>
+    <name>Lewis</name>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>us-wv-041</hc-key>
+    <hc-a2>LE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.077" d="M450.5,261.0 L450.5,261.4 L450.5,261.4 L447.6,257.6 L422.0,247.9 L404.8,255.6 L399.0,252.7 L398.5,248.0 L392.5,243.1 L392.5,243.1 L392.3,218.4 L391.5,210.0 L406.7,183.9 L410.1,166.2 L450.4,165.6 L450.7,200.1 L450.2,200.1 L450.5,259.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54077</fips>
+    <name>Preston</name>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>us-wv-077</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.017" d="M290.1,216.5 L295.1,216.3 L300.5,220.3 L300.7,231.7 L302.4,232.9 L292.3,245.5 L296.0,247.1 L295.2,251.7 L300.4,255.7 L297.7,258.3 L303.4,260.3 L301.2,263.9 L293.5,268.1 L288.7,273.2 L284.9,272.8 L278.6,282.1 L274.8,281.1 L271.8,280.4 L262.8,278.7 L248.4,248.9 L252.0,245.0 L260.3,236.1 L273.8,226.6 L276.5,220.4 L284.4,219.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54017</fips>
+    <name>Doddridge</name>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>us-wv-017</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.021" d="M262.8,278.7 L271.8,280.4 L274.8,281.1 L276.5,297.0 L292.3,315.9 L287.3,319.5 L283.2,318.0 L278.7,320.6 L238.4,350.0 L236.6,344.6 L231.8,342.3 L228.2,336.2 L234.5,331.0 L235.8,326.6 L234.3,312.6 L235.7,305.7 L231.5,296.9 L235.9,296.9 L241.1,292.2 L248.8,290.2 L253.5,285.3 L259.6,283.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54021</fips>
+    <name>Gilmer</name>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>us-wv-021</hc-key>
+    <hc-a2>GI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.087" d="M224.3,369.2 L217.6,377.6 L208.5,384.6 L197.0,385.6 L192.9,383.2 L169.7,380.4 L163.7,374.4 L161.7,368.9 L158.3,358.0 L160.8,344.2 L162.0,330.3 L160.8,317.5 L164.8,313.4 L172.5,309.1 L177.2,312.9 L187.3,317.5 L196.7,314.0 L202.3,320.3 L201.2,325.3 L204.8,327.0 L205.2,335.3 L212.2,347.6 L213.6,363.3 L220.9,364.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54087</fips>
+    <name>Roane</name>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>us-wv-087</hc-key>
+    <hc-a2>RO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.001" d="M392.5,243.1 L398.5,248.0 L399.0,252.7 L404.8,255.6 L401.2,274.4 L402.8,276.5 L397.5,284.4 L393.1,302.5 L366.3,307.6 L370.8,302.4 L370.3,291.2 L360.0,291.1 L354.3,282.1 L345.8,277.6 L346.1,267.0 L354.2,254.0 L356.6,254.7 L374.5,252.8 L383.2,248.9 L386.6,243.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54001</fips>
+    <name>Barbour</name>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>us-wv-001</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.055" d="M183.6,601.0 L186.8,594.2 L191.1,585.2 L195.2,585.9 L191.7,578.9 L198.8,571.7 L204.0,569.6 L207.3,563.8 L207.4,558.0 L216.6,553.7 L222.5,555.4 L240.8,571.0 L256.6,584.4 L253.2,592.7 L258.1,599.4 L251.1,604.9 L239.1,609.3 L238.1,607.7 L221.1,611.5 L211.9,614.7 L203.5,619.8 L189.7,608.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54055</fips>
+    <name>Mercer</name>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>us-wv-055</hc-key>
+    <hc-a2>ME</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.047" d="M191.1,585.2 L186.8,594.2 L183.6,601.0 L178.9,604.9 L175.6,612.7 L163.8,615.4 L162.5,619.6 L154.6,624.7 L137.5,625.5 L128.6,618.9 L127.7,614.2 L121.5,610.3 L112.1,609.6 L109.1,602.3 L102.9,598.4 L100.3,593.0 L100.5,582.1 L93.3,579.1 L91.7,575.0 L101.8,568.7 L104.5,566.0 L112.2,562.1 L116.5,564.6 L116.1,568.5 L130.5,572.1 L141.4,567.0 L147.5,568.3 L148.7,572.1 L156.0,572.8 L159.8,575.8 L168.7,574.2 L173.6,580.8 L178.5,577.9 L181.9,581.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54047</fips>
+    <name>McDowell</name>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>us-wv-047</hc-key>
+    <hc-a2>MC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.109" d="M112.2,562.1 L116.1,553.4 L119.9,550.7 L120.1,541.9 L134.8,534.5 L125.8,525.3 L136.0,521.3 L148.5,518.8 L153.0,523.4 L162.0,518.4 L169.2,519.4 L174.4,526.1 L189.7,553.7 L192.2,563.0 L204.0,569.6 L198.8,571.7 L191.7,578.9 L195.2,585.9 L191.1,585.2 L181.9,581.8 L178.5,577.9 L173.6,580.8 L168.7,574.2 L159.8,575.8 L156.0,572.8 L148.7,572.1 L147.5,568.3 L141.4,567.0 L130.5,572.1 L116.1,568.5 L116.5,564.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54109</fips>
+    <name>Wyoming</name>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>us-wv-109</hc-key>
+    <hc-a2>WY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.059" d="M120.1,541.9 L119.9,550.7 L116.1,553.4 L112.2,562.1 L104.5,566.0 L101.8,568.7 L96.0,563.9 L81.9,563.9 L80.4,560.5 L71.9,560.8 L72.3,553.6 L68.8,553.7 L67.7,548.8 L60.5,547.6 L56.7,541.0 L47.6,537.8 L48.8,533.8 L43.6,526.4 L46.6,522.0 L37.6,515.1 L32.1,505.3 L33.7,504.0 L48.0,489.5 L56.2,486.9 L64.7,484.1 L63.8,486.0 L68.5,495.5 L74.0,497.9 L75.7,506.2 L70.9,508.8 L72.8,514.2 L76.6,515.8 L76.4,525.1 L79.7,534.0 L85.7,534.1 L92.7,544.8 L94.5,540.3 L101.7,537.8 L105.1,541.3 L110.3,538.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54059</fips>
+    <name>Mingo</name>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>us-wv-059</hc-key>
+    <hc-a2>MI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.073" d="M199.3,245.3 L190.4,244.2 L190.4,240.9 L184.8,240.2 L183.8,236.3 L187.5,235.4 L198.3,228.2 L205.5,228.0 L210.1,220.0 L219.1,215.3 L227.6,211.9 L232.1,213.5 L235.1,234.7 L230.0,238.8 L224.8,238.3 L212.2,242.9 L204.9,242.5 L202.4,249.7 L202.4,249.7 Z M202.4,249.7 L202.4,249.7 L202.4,249.7 L202.4,249.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54073</fips>
+    <name>Pleasants</name>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>us-wv-073</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.085" d="M202.3,249.7 L204.9,242.5 L212.2,242.9 L224.8,238.3 L230.0,238.8 L235.1,234.7 L241.5,236.8 L245.8,227.8 L252.7,232.9 L252.0,245.0 L248.4,248.9 L262.8,278.7 L259.6,283.6 L253.5,285.3 L248.8,290.2 L241.1,292.2 L235.9,296.9 L231.5,296.9 L222.9,295.8 L219.4,290.8 L213.2,293.0 L210.7,291.0 L200.7,292.2 L199.6,281.3 L195.4,274.4 L189.6,270.8 L194.0,264.8 L193.5,261.6 L198.3,251.2 L202.4,249.7 L202.4,249.7 L202.4,249.7 L202.4,249.7 L202.4,249.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54085</fips>
+    <name>Ritchie</name>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>us-wv-085</hc-key>
+    <hc-a2>RI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.107" d="M183.8,236.3 L184.8,240.2 L190.4,240.9 L190.4,244.2 L199.3,245.3 L202.3,249.7 L202.4,249.7 L202.4,249.7 L202.4,249.7 L202.4,249.7 L202.4,249.7 L202.4,249.7 L202.4,249.7 L198.3,251.2 L193.5,261.6 L194.0,264.8 L180.6,272.7 L176.0,273.8 L153.7,293.6 L140.5,286.5 L130.2,280.8 L131.0,276.9 L129.1,265.3 L131.4,263.6 L133.5,258.9 L138.4,256.8 L137.6,251.6 L141.4,248.0 L156.3,248.1 L157.4,236.7 L171.8,223.9 L178.8,227.8 L180.3,233.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54107</fips>
+    <name>Wood</name>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-wv-107</hc-key>
+    <hc-a2>WO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.099" d="M48.0,489.5 L33.7,504.0 L32.1,505.3 L31.4,499.9 L19.7,491.0 L20.4,488.8 L24.2,486.1 L21.9,479.1 L17.5,478.4 L13.4,466.4 L8.3,459.2 L1.0,453.3 L0.0,448.2 L4.7,447.4 L6.8,439.1 L6.0,433.5 L10.3,430.5 L10.9,421.7 L7.2,415.7 L8.1,401.9 L11.2,405.0 L20.3,404.0 L43.5,423.7 L50.2,419.7 L53.2,424.0 L49.0,425.6 L49.7,435.6 L54.7,437.7 L52.8,441.9 L51.8,453.5 L58.5,465.6 L64.6,470.2 L63.0,475.2 L57.2,479.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54099</fips>
+    <name>Wayne</name>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>us-wv-099</hc-key>
+    <hc-a2>WA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.093" d="M402.8,276.5 L401.2,274.4 L404.8,255.6 L422.0,247.9 L447.6,257.6 L450.5,261.4 L450.5,261.4 L453.4,264.3 L463.9,261.5 L472.3,257.4 L478.6,261.8 L472.7,269.6 L472.8,274.8 L469.5,280.8 L477.7,283.1 L476.1,290.9 L471.7,302.3 L469.6,303.0 L448.1,301.4 L408.6,290.7 L410.0,283.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54093</fips>
+    <name>Tucker</name>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>us-wv-093</hc-key>
+    <hc-a2>TU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.105" d="M213.2,293.0 L197.5,310.1 L196.7,314.0 L187.3,317.5 L177.2,312.9 L172.5,309.1 L164.8,313.4 L158.2,304.3 L160.7,297.3 L153.7,293.6 L176.0,273.8 L180.6,272.7 L194.0,264.8 L189.6,270.8 L195.4,274.4 L199.6,281.3 L200.7,292.2 L210.7,291.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54105</fips>
+    <name>Wirt</name>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>us-wv-105</hc-key>
+    <hc-a2>WI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.013" d="M196.7,314.0 L197.5,310.1 L213.2,293.0 L219.4,290.8 L222.9,295.8 L231.5,296.9 L235.7,305.7 L234.3,312.6 L235.8,326.6 L234.5,331.0 L228.2,336.2 L231.8,342.3 L236.6,344.6 L238.4,350.0 L236.3,352.8 L231.7,359.1 L226.0,366.8 L224.3,369.2 L220.9,364.2 L213.6,363.3 L212.2,347.6 L205.2,335.3 L204.8,327.0 L201.2,325.3 L202.3,320.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54013</fips>
+    <name>Calhoun</name>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>us-wv-013</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.091" d="M386.0,215.4 L387.1,215.9 L392.3,218.4 L392.5,243.1 L392.5,243.1 L386.6,243.6 L383.2,248.9 L374.5,252.8 L356.6,254.7 L354.2,254.0 L349.1,247.5 L349.6,226.5 L360.2,225.0 L365.2,227.6 L373.9,224.8 L375.9,221.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54091</fips>
+    <name>Taylor</name>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>us-wv-091</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.083" d="M469.6,303.0 L470.8,304.1 L470.7,304.3 L467.3,311.0 L455.7,309.6 L457.5,315.2 L452.0,317.5 L447.9,316.2 L444.2,325.8 L448.7,333.1 L448.5,336.8 L441.4,348.5 L436.3,354.0 L436.9,358.0 L432.2,358.3 L427.2,353.6 L424.8,358.3 L419.2,354.6 L416.1,355.7 L416.5,349.8 L409.9,345.4 L403.3,363.5 L398.7,379.4 L375.1,396.3 L362.6,393.7 L344.3,409.5 L352.9,384.5 L338.9,353.7 L345.0,344.8 L360.8,344.3 L364.6,327.0 L363.0,316.8 L366.3,307.6 L393.1,302.5 L397.5,284.4 L402.8,276.5 L410.0,283.5 L408.6,290.7 L448.1,301.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54083</fips>
+    <name>Randolph</name>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>us-wv-083</hc-key>
+    <hc-a2>RA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.079" d="M86.2,411.6 L85.8,406.3 L85.3,393.4 L84.2,369.1 L99.8,360.3 L126.0,356.2 L129.6,355.7 L136.8,366.2 L129.0,372.6 L128.4,384.8 L132.4,395.3 L116.7,401.9 L107.3,407.4 L105.0,420.7 L94.0,430.9 L85.8,426.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54079</fips>
+    <name>Putnam</name>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>us-wv-079</hc-key>
+    <hc-a2>PU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.081" d="M222.5,555.4 L216.6,553.7 L207.4,558.0 L207.3,563.8 L204.0,569.6 L192.2,563.0 L189.7,553.7 L174.4,526.1 L169.2,519.4 L162.0,518.4 L161.6,513.4 L155.3,509.2 L153.9,493.4 L158.6,485.6 L163.2,482.5 L170.5,482.7 L173.1,486.3 L181.4,486.1 L186.2,484.7 L193.5,490.7 L193.7,500.7 L225.7,503.2 L228.0,510.5 L239.4,511.0 L244.2,513.5 L251.5,523.0 L247.3,527.5 L250.9,529.8 L253.3,538.7 L243.9,532.4 L226.3,546.1 L227.0,551.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54081</fips>
+    <name>Raleigh</name>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>us-wv-081</hc-key>
+    <hc-a2>RA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.029" d="M287.8,44.5 L292.6,30.6 L288.0,18.8 L282.4,10.4 L288.1,3.5 L294.0,4.2 L303.0,0.0 L303.4,43.6 L295.6,43.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54029</fips>
+    <name>Hancock</name>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>us-wv-029</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.057" d="M480.6,236.6 L482.6,231.6 L488.6,230.0 L490.8,225.4 L495.4,225.6 L496.0,220.3 L500.6,219.8 L504.3,209.0 L508.8,208.5 L524.8,215.0 L524.4,211.0 L530.1,206.8 L540.9,191.8 L542.5,187.8 L549.0,181.5 L555.4,183.0 L549.1,185.3 L552.4,189.1 L566.5,197.0 L556.6,210.4 L551.3,213.4 L545.5,226.4 L540.1,234.8 L534.9,236.0 L529.6,244.6 L522.2,252.2 L500.0,239.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54057</fips>
+    <name>Mineral</name>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>us-wv-057</hc-key>
+    <hc-a2>MI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.075" d="M429.2,371.5 L422.3,392.9 L423.8,400.8 L416.4,415.1 L406.9,424.1 L409.0,431.2 L404.0,434.1 L394.6,444.5 L387.8,455.7 L390.6,460.2 L385.9,468.2 L364.7,469.8 L355.8,473.5 L342.1,471.7 L327.8,459.5 L328.1,439.2 L329.1,417.4 L332.2,419.2 L344.3,409.5 L362.6,393.7 L375.1,396.3 L398.7,379.4 L403.3,363.5 L409.9,345.4 L416.5,349.8 L416.1,355.7 L419.2,354.6 L424.8,358.3 L427.2,353.6 L432.2,358.3 L433.4,365.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54075</fips>
+    <name>Pocahontas</name>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>us-wv-075</hc-key>
+    <hc-a2>PO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.007" d="M313.6,345.9 L306.4,362.9 L286.2,384.7 L273.8,383.7 L271.9,384.9 L266.9,379.1 L253.2,388.3 L251.7,382.9 L248.0,381.4 L246.8,375.2 L240.5,372.6 L239.7,366.8 L231.7,359.1 L236.3,352.8 L238.4,350.0 L278.7,320.6 L283.2,318.0 L287.3,319.5 L292.3,315.9 L295.5,324.2 L304.2,323.5 L311.2,329.5 L309.5,334.8 L315.1,338.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54007</fips>
+    <name>Braxton</name>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>us-wv-007</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.037" d="M683.9,201.1 L692.2,201.2 L688.0,203.6 L690.5,206.1 L687.4,211.1 L694.5,213.4 L697.2,219.3 L694.9,221.6 L694.8,229.8 L700.0,231.9 L696.2,236.9 L693.2,247.6 L689.6,254.2 L685.8,266.8 L656.0,243.7 L662.0,233.4 L664.8,224.8 L669.8,222.0 L681.2,209.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54037</fips>
+    <name>Jefferson</name>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>us-wv-037</hc-key>
+    <hc-a2>JE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.049" d="M321.3,182.3 L328.1,186.9 L355.4,186.9 L381.9,213.5 L386.0,215.4 L375.9,221.8 L373.9,224.8 L365.2,227.6 L360.2,225.0 L349.6,226.5 L336.0,219.2 L307.6,212.9 L310.8,209.9 L307.0,195.9 L309.7,189.7 L313.6,189.9 L316.0,182.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54049</fips>
+    <name>Marion</name>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>us-wv-049</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.063" d="M338.0,536.3 L342.2,544.6 L349.0,547.9 L343.5,553.8 L333.5,559.5 L333.3,564.6 L340.2,565.1 L337.7,569.7 L312.3,585.4 L307.1,574.7 L301.2,576.2 L279.0,590.7 L269.6,594.8 L267.6,590.7 L256.8,584.6 L265.5,567.5 L272.7,555.6 L285.3,532.4 L284.9,529.3 L307.6,536.6 L315.7,537.9 L323.8,531.8 L325.1,536.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54063</fips>
+    <name>Monroe</name>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>us-wv-063</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.051" d="M303.8,167.1 L284.4,167.2 L259.6,167.4 L254.5,159.7 L260.7,153.2 L261.3,143.8 L265.3,141.3 L262.9,133.7 L264.9,131.1 L269.9,133.1 L269.5,124.9 L272.7,121.8 L273.5,110.4 L280.0,111.0 L303.6,113.4 L303.7,136.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54051</fips>
+    <name>Marshall</name>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-wv-051</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.035" d="M107.0,320.1 L114.1,318.0 L116.2,311.0 L120.5,307.9 L126.2,312.2 L128.7,310.3 L125.1,304.5 L127.7,295.2 L122.2,289.4 L120.8,283.6 L126.0,283.9 L130.2,280.8 L140.5,286.5 L153.7,293.6 L160.7,297.3 L158.2,304.3 L164.8,313.4 L160.8,317.5 L162.0,330.3 L160.8,344.2 L158.3,358.0 L161.7,368.9 L153.6,375.3 L145.8,379.4 L136.8,366.2 L129.6,355.7 L126.0,356.2 L120.2,350.0 L123.4,346.7 L107.8,322.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54035</fips>
+    <name>Jackson</name>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>us-wv-035</hc-key>
+    <hc-a2>JA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.065" d="M593.2,199.7 L598.9,191.8 L596.0,186.0 L602.9,186.0 L598.8,179.9 L605.4,182.7 L605.0,178.9 L611.5,177.3 L621.1,180.3 L622.7,176.4 L632.6,166.0 L643.6,168.2 L647.7,170.5 L655.5,179.1 L645.5,186.2 L639.2,184.3 L634.9,197.0 L631.4,212.3 L627.7,221.5 L622.7,217.5 L610.6,208.4 L597.8,202.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54065</fips>
+    <name>Morgan</name>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-wv-065</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.097" d="M322.8,347.9 L320.4,340.5 L323.5,321.1 L333.2,305.8 L330.8,298.9 L333.1,295.8 L335.5,279.3 L342.8,279.8 L345.8,277.6 L354.3,282.1 L360.0,291.1 L370.3,291.2 L370.8,302.4 L366.3,307.6 L363.0,316.8 L364.6,327.0 L360.8,344.3 L345.0,344.8 L338.9,353.7 L333.5,355.7 L328.5,347.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54097</fips>
+    <name>Upshur</name>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>us-wv-097</hc-key>
+    <hc-a2>UP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.045" d="M120.1,541.9 L110.3,538.2 L105.1,541.3 L101.7,537.8 L94.5,540.3 L92.7,544.8 L85.7,534.1 L79.7,534.0 L76.4,525.1 L76.6,515.8 L72.8,514.2 L70.9,508.8 L75.7,506.2 L74.0,497.9 L68.5,495.5 L63.8,486.0 L64.7,484.1 L85.9,477.1 L102.0,475.3 L95.2,481.4 L99.3,485.0 L104.8,484.4 L112.2,489.4 L123.0,491.7 L126.8,500.9 L123.4,504.0 L128.5,508.5 L132.0,514.9 L141.2,510.4 L148.5,518.8 L136.0,521.3 L125.8,525.3 L134.8,534.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54045</fips>
+    <name>Logan</name>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>us-wv-045</hc-key>
+    <hc-a2>LO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WV.005" d="M162.0,518.4 L153.0,523.4 L148.5,518.8 L141.2,510.4 L132.0,514.9 L128.5,508.5 L123.4,504.0 L126.8,500.9 L123.0,491.7 L112.2,489.4 L104.8,484.4 L99.3,485.0 L95.2,481.4 L102.0,475.3 L105.9,474.6 L96.4,470.7 L99.2,458.3 L103.0,452.2 L109.9,455.0 L108.9,449.4 L114.0,448.5 L116.6,441.9 L126.5,438.8 L130.4,444.1 L132.1,439.9 L143.8,440.2 L143.1,446.6 L149.7,448.6 L154.4,455.4 L162.1,459.9 L158.9,466.5 L165.7,468.2 L170.0,475.5 L170.5,482.7 L163.2,482.5 L158.6,485.6 L153.9,493.4 L155.3,509.2 L161.6,513.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>54005</fips>
+    <name>Boone</name>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>us-wv-005</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

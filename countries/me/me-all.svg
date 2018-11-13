@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Montenegro</title>
+<g id="admin1">
+
+<g id="ME">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Montenegro</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mont.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>MNE</iso-a3>
+    <iso-a2>ME</iso-a2>
+    <woe-id>20069817</woe-id>
+    <continent>Europe</continent>
+    <hc-key>me</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.AN" d="M399.4,398.9 L399.2,394.8 L396.8,384.3 L392.2,375.3 L385.3,371.6 L378.2,374.9 L372.7,379.7 L371.7,377.3 L363.8,367.1 L368.1,362.7 L375.0,352.0 L375.4,341.3 L373.9,318.8 L365.1,310.2 L369.6,302.5 L379.3,301.4 L382.8,301.0 L396.3,308.5 L409.4,318.4 L429.7,324.8 L440.1,327.8 L434.4,333.3 L434.3,340.3 L449.3,358.3 L447.8,358.6 L434.0,369.0 L422.7,383.5 L404.5,396.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389233</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>AN</postal-code>
+    <name>Andrijevica</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.7688</longitude>
+    <woe-name>Andrijevica</woe-name>
+    <latitude>42.6933</latitude>
+    <woe-label>Andrijevica, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>me-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.BE" d="M494.1,328.2 L487.6,333.2 L485.1,336.6 L484.5,344.7 L488.1,351.4 L476.6,352.8 L449.3,358.3 L434.3,340.3 L434.4,333.3 L440.1,327.8 L429.7,324.8 L409.4,318.4 L396.3,308.5 L382.8,301.0 L379.3,301.4 L378.2,283.0 L380.6,278.2 L385.8,268.0 L386.8,267.6 L400.4,262.9 L410.1,260.1 L417.7,253.8 L427.3,251.3 L438.9,255.0 L446.1,255.1 L457.5,249.7 L466.4,246.3 L469.2,244.2 L478.6,240.6 L486.4,237.0 L495.5,222.5 L513.6,240.8 L517.3,242.1 L510.8,262.4 L505.9,271.1 L503.1,279.1 L500.1,290.1 L494.6,297.7 L491.7,317.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.BE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389228</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>BE</postal-code>
+    <name>Berane</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.9003</longitude>
+    <woe-name>Berane</woe-name>
+    <latitude>42.8198</latitude>
+    <woe-label>Berane, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>me-be</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.BP" d="M343.3,138.8 L353.1,151.7 L358.2,156.6 L364.3,160.0 L377.6,164.2 L384.1,165.0 L388.0,163.7 L390.5,161.2 L392.9,161.5 L401.4,177.7 L406.9,185.1 L413.0,190.3 L420.0,193.1 L430.0,193.9 L440.2,193.2 L443.8,191.0 L450.9,183.9 L453.8,182.4 L457.5,183.7 L463.6,195.3 L466.6,198.4 L484.6,211.4 L495.5,222.5 L486.4,237.0 L478.6,240.6 L469.2,244.2 L466.4,246.3 L457.5,249.7 L446.1,255.1 L438.9,255.0 L427.3,251.3 L417.7,253.8 L410.1,260.1 L400.4,262.9 L386.8,267.6 L379.9,258.8 L374.7,254.0 L376.7,248.5 L376.5,238.1 L372.2,229.8 L364.1,223.6 L350.4,220.1 L341.1,217.3 L338.9,215.2 L332.0,211.5 L320.5,208.4 L315.5,207.9 L315.8,199.7 L319.8,188.5 L328.1,183.6 L333.5,177.2 L336.9,170.1 L338.9,160.8 L340.0,150.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.BP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389227</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>BP</postal-code>
+    <name>Bijelo Polje</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.7579</longitude>
+    <woe-name>Bijelo Polje</woe-name>
+    <latitude>43.0174</latitude>
+    <woe-label>Bijelo Polje, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>me-bp</hc-key>
+    <hc-a2>BP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.KL" d="M380.6,278.2 L378.2,283.0 L379.3,301.4 L369.6,302.5 L365.1,310.2 L373.9,318.8 L375.4,341.3 L375.0,352.0 L368.1,362.7 L363.8,367.1 L357.8,359.2 L350.6,355.1 L348.6,346.3 L347.4,337.6 L336.1,336.1 L324.9,340.6 L323.8,348.6 L316.5,357.0 L308.8,362.0 L296.9,365.1 L284.0,366.9 L267.3,362.4 L264.5,360.4 L252.8,351.8 L252.3,340.9 L248.1,329.4 L237.9,325.8 L236.6,312.4 L239.8,302.5 L241.0,292.9 L238.1,284.9 L236.2,279.8 L235.7,273.1 L239.2,267.1 L244.4,263.8 L263.9,267.6 L279.1,268.5 L288.2,254.8 L301.3,262.6 L311.2,269.8 L350.3,269.5 L369.4,274.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.KL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389235</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>KL</postal-code>
+    <name>Kola?in</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.4394</longitude>
+    <woe-name>Kola?in</woe-name>
+    <latitude>42.7889</latitude>
+    <woe-label>Kola?in, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>me-kl</hc-key>
+    <hc-a2>KL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.DA" d="M237.9,325.8 L248.1,329.4 L252.3,340.9 L252.8,351.8 L264.5,360.4 L251.7,374.3 L252.1,382.6 L248.8,392.8 L239.2,403.5 L236.8,412.3 L235.1,425.4 L232.9,435.8 L231.9,437.7 L216.8,437.3 L193.8,437.0 L183.9,435.6 L173.3,430.6 L167.0,428.5 L167.5,419.7 L172.4,410.8 L173.8,407.0 L169.9,403.1 L166.6,398.0 L160.1,392.8 L153.5,388.6 L153.5,381.3 L167.1,380.7 L171.3,375.6 L172.2,363.6 L177.7,354.2 L188.6,347.7 L195.4,345.8 L200.6,347.9 L211.5,350.3 L227.3,352.2 L238.1,347.0 L237.0,338.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.DA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389236</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>DA</postal-code>
+    <name>Danilovgrad</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.1191</longitude>
+    <woe-name>Danilovgrad</woe-name>
+    <latitude>42.5936</latitude>
+    <woe-label>Danilovgrad, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>me-da</hc-key>
+    <hc-a2>DA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.MK" d="M315.5,207.9 L320.5,208.4 L332.0,211.5 L338.9,215.2 L341.1,217.3 L350.4,220.1 L364.1,223.6 L372.2,229.8 L376.5,238.1 L376.7,248.5 L374.7,254.0 L379.9,258.8 L386.8,267.6 L385.8,268.0 L380.6,278.2 L369.4,274.5 L350.3,269.5 L311.2,269.8 L301.3,262.6 L288.2,254.8 L279.2,246.8 L276.4,231.7 L277.7,223.0 L282.0,218.8 L291.6,216.6 L300.9,209.5 L305.3,207.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.MK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389232</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>MK</postal-code>
+    <name>Mojkovac</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.515</longitude>
+    <woe-name>Mojkovac</woe-name>
+    <latitude>42.971</latitude>
+    <woe-label>Mojkovac, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>me-mk</hc-key>
+    <hc-a2>MK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.NK" d="M238.1,284.9 L241.0,292.9 L239.8,302.5 L236.6,312.4 L237.9,325.8 L237.0,338.8 L238.1,347.0 L227.3,352.2 L211.5,350.3 L200.6,347.9 L195.4,345.8 L188.6,347.7 L177.7,354.2 L172.2,363.6 L171.3,375.6 L167.1,380.7 L153.5,381.3 L152.3,372.8 L147.0,365.7 L139.5,360.8 L133.8,355.9 L130.8,351.6 L119.9,349.2 L111.8,349.3 L103.0,343.3 L90.9,339.3 L88.2,346.5 L85.2,351.0 L81.0,352.7 L79.0,356.9 L79.0,363.5 L76.8,370.3 L72.3,374.7 L65.9,375.2 L51.5,376.8 L33.8,375.5 L36.0,370.4 L36.5,358.4 L33.6,347.1 L28.6,340.2 L22.6,333.6 L12.6,316.1 L8.8,306.1 L6.3,296.2 L6.2,289.0 L9.3,284.5 L13.2,281.7 L15.6,277.7 L14.1,269.8 L7.4,255.1 L4.6,246.8 L4.7,239.6 L11.0,223.7 L20.4,215.2 L37.4,211.9 L55.3,212.2 L67.5,214.3 L63.0,182.8 L63.4,171.2 L88.1,178.1 L98.1,184.3 L104.9,195.8 L111.5,215.5 L120.6,232.5 L130.6,242.8 L146.2,247.7 L163.3,250.0 L169.1,252.7 L179.3,257.6 L192.8,267.1 L202.3,274.5 L219.1,282.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.NK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389238</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>NK</postal-code>
+    <name>Nik?ic</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>18.8259</longitude>
+    <woe-name>Nik?ic</woe-name>
+    <latitude>42.8341</latitude>
+    <woe-label>Nik?iÄ?, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>me-nk</hc-key>
+    <hc-a2>NK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.PU" d="M169.1,252.7 L163.3,250.0 L146.2,247.7 L130.6,242.8 L120.6,232.5 L111.5,215.5 L104.9,195.8 L98.1,184.3 L88.1,178.1 L63.4,171.2 L66.1,158.8 L71.3,148.5 L84.8,130.7 L77.6,126.9 L82.4,120.3 L121.5,93.1 L129.5,90.8 L126.0,83.6 L131.6,81.1 L149.5,79.9 L156.7,82.2 L164.7,88.0 L166.7,91.1 L167.1,100.3 L169.8,105.0 L175.8,113.4 L176.1,158.2 L178.8,168.6 L185.0,179.9 L184.7,186.9 L181.6,185.3 L170.4,186.6 L162.2,195.8 L155.8,212.6 L157.2,224.0 L171.2,233.8 L172.2,250.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.PU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389230</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>PU</postal-code>
+    <name>Plu?ine</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>18.8229</longitude>
+    <woe-name>Plu?ine</woe-name>
+    <latitude>43.1483</latitude>
+    <woe-label>Plu?ine, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>me-pu</hc-key>
+    <hc-a2>PU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.PL" d="M315.5,207.9 L305.3,207.1 L300.9,209.5 L293.9,198.3 L285.1,187.9 L274.3,178.0 L259.7,167.0 L245.5,157.4 L234.6,149.0 L221.2,143.3 L210.3,144.6 L199.9,144.6 L192.9,137.1 L190.4,126.2 L187.1,107.2 L186.0,103.6 L190.2,100.9 L198.1,100.6 L200.3,98.9 L191.7,81.4 L183.4,56.4 L173.3,42.5 L171.2,40.8 L164.6,42.4 L166.3,34.2 L162.4,27.9 L155.7,25.1 L152.9,22.9 L152.8,19.4 L154.7,16.1 L163.2,11.5 L170.5,3.7 L175.0,0.5 L181.8,0.0 L185.9,4.3 L189.0,10.4 L192.8,15.4 L197.8,17.3 L204.2,17.3 L210.1,15.1 L218.4,5.8 L225.8,5.0 L240.1,7.5 L233.8,17.0 L233.8,28.8 L238.4,39.7 L246.1,46.6 L286.9,66.0 L291.8,69.8 L304.0,88.9 L321.4,107.8 L324.9,113.3 L329.9,124.9 L332.8,129.6 L343.3,138.8 L340.0,150.2 L338.9,160.8 L336.9,170.1 L333.5,177.2 L328.1,183.6 L319.8,188.5 L315.8,199.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.PL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389226</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>PL</postal-code>
+    <name>Pljevlja</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.2264</longitude>
+    <woe-name>Pljevlja</woe-name>
+    <latitude>43.3019</latitude>
+    <woe-label>Pljevlja, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>me-pl</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.PG" d="M363.8,367.1 L371.7,377.3 L372.7,379.7 L369.6,382.5 L361.5,391.7 L356.2,400.0 L354.4,405.6 L352.5,416.4 L350.7,421.3 L346.9,425.5 L338.8,431.0 L337.0,437.3 L333.1,444.9 L328.8,451.7 L323.7,457.3 L317.6,461.2 L313.5,467.8 L297.5,485.7 L292.9,494.7 L292.0,505.2 L285.5,511.7 L282.6,519.4 L279.5,524.2 L275.7,524.6 L266.4,522.0 L268.4,530.5 L274.6,527.7 L272.2,534.1 L267.1,534.4 L238.7,527.1 L230.8,526.6 L224.5,529.6 L222.8,525.8 L220.0,523.8 L216.7,524.0 L213.8,526.5 L205.1,518.6 L203.0,514.1 L211.1,499.7 L213.7,485.3 L204.9,475.6 L194.6,465.8 L181.5,451.0 L170.3,442.8 L159.1,433.2 L158.1,429.0 L162.6,426.9 L167.0,428.5 L173.3,430.6 L183.9,435.6 L193.8,437.0 L216.8,437.3 L231.9,437.7 L232.9,435.8 L235.1,425.4 L236.8,412.3 L239.2,403.5 L248.8,392.8 L252.1,382.6 L251.7,374.3 L264.5,360.4 L267.3,362.4 L284.0,366.9 L296.9,365.1 L308.8,362.0 L316.5,357.0 L323.8,348.6 L324.9,340.6 L336.1,336.1 L347.4,337.6 L348.6,346.3 L350.6,355.1 L357.8,359.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.PG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389237</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>PG</postal-code>
+    <name>Podgorica</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.3069</longitude>
+    <woe-name>Podgorica</woe-name>
+    <latitude>42.4462</latitude>
+    <woe-label>Podgorica, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>me-pg</hc-key>
+    <hc-a2>PG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.TI" d="M76.6,487.4 L77.4,480.8 L72.3,475.6 L66.7,475.2 L64.7,469.1 L62.4,462.0 L65.9,463.3 L74.6,468.2 L79.1,472.9 L81.6,466.6 L81.2,461.4 L74.7,445.7 L75.5,438.3 L82.5,444.1 L89.9,458.7 L83.2,479.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.TI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389245</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>TI</postal-code>
+    <name>Tivat</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>18.6898</longitude>
+    <woe-name>Tivat</woe-name>
+    <latitude>42.3897</latitude>
+    <woe-label>Tivat, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.29</hc-middle-x>
+    <hc-middle-y>0.74</hc-middle-y>
+    <hc-key>me-ti</hc-key>
+    <hc-a2>TI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.SA" d="M276.4,231.7 L279.2,246.8 L288.2,254.8 L279.1,268.5 L263.9,267.6 L244.4,263.8 L239.2,267.1 L235.7,273.1 L236.2,279.8 L238.1,284.9 L219.1,282.0 L202.3,274.5 L192.8,267.1 L179.3,257.6 L169.1,252.7 L172.2,250.5 L171.2,233.8 L157.2,224.0 L155.8,212.6 L162.2,195.8 L170.4,186.6 L181.6,185.3 L184.7,186.9 L192.2,190.7 L197.0,196.3 L203.4,196.4 L213.6,195.3 L220.6,202.3 L224.5,209.7 L231.1,207.0 L240.6,207.2 L248.9,215.6 L252.7,221.1 L258.1,223.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.SA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389234</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>SA</postal-code>
+    <name>?avnik</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.1516</longitude>
+    <woe-name>?avnik</woe-name>
+    <latitude>42.9571</latitude>
+    <woe-label>?avnik, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>me-sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.ZA" d="M300.9,209.5 L291.6,216.6 L282.0,218.8 L277.7,223.0 L276.4,231.7 L258.1,223.9 L252.7,221.1 L248.9,215.6 L240.6,207.2 L231.1,207.0 L224.5,209.7 L220.6,202.3 L213.6,195.3 L203.4,196.4 L197.0,196.3 L192.2,190.7 L184.7,186.9 L185.0,179.9 L178.8,168.6 L176.1,158.2 L175.8,113.4 L176.7,115.5 L179.9,112.7 L186.0,103.6 L187.1,107.2 L190.4,126.2 L192.9,137.1 L199.9,144.6 L210.3,144.6 L221.2,143.3 L234.6,149.0 L245.5,157.4 L259.7,167.0 L274.3,178.0 L285.1,187.9 L293.9,198.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.ZA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389231</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>ZA</postal-code>
+    <name>?abljak</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.2003</longitude>
+    <woe-name>?abljak</woe-name>
+    <latitude>43.1148</latitude>
+    <woe-label>?abljak, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>me-za</hc-key>
+    <hc-a2>ZA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.BA" d="M205.1,518.6 L201.3,515.2 L198.9,511.7 L203.0,514.1 L203.0,514.1 Z M210.1,629.7 L209.7,620.4 L192.7,604.1 L190.4,598.1 L193.4,592.2 L187.4,587.9 L182.9,579.5 L171.2,579.5 L168.7,575.1 L168.1,570.6 L162.6,568.0 L159.6,561.3 L168.9,551.1 L167.5,545.7 L152.6,527.4 L147.6,517.4 L145.9,512.0 L146.0,512.0 L157.4,514.8 L169.8,520.2 L176.9,520.3 L178.4,511.5 L184.1,504.8 L196.0,510.3 L193.4,511.6 L201.7,520.6 L202.3,532.8 L205.5,537.6 L201.3,540.6 L220.1,541.8 L227.4,546.3 L232.1,565.6 L237.1,573.3 L243.9,579.3 L273.4,598.0 L258.5,602.4 L252.6,600.9 L241.7,596.6 L233.3,596.5 L235.4,605.5 L243.7,623.5 L240.9,633.8 L212.0,629.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.BA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389244</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL49</fips>
+    <postal-code>BA</postal-code>
+    <name>Bar</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.1463</longitude>
+    <woe-name>Bar</woe-name>
+    <latitude>42.1416</latitude>
+    <woe-label>Bar, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>me-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.CE" d="M198.9,511.7 L197.5,509.6 L196.0,510.3 L184.1,504.8 L178.4,511.5 L176.9,520.3 L169.8,520.2 L157.4,514.8 L146.0,512.0 L145.9,512.0 L143.5,504.6 L134.7,496.4 L125.0,494.2 L118.0,490.9 L108.2,487.2 L107.0,489.6 L102.9,479.2 L99.1,466.2 L98.2,460.1 L100.8,454.4 L101.8,439.0 L98.6,426.3 L80.0,412.2 L79.2,405.7 L76.1,397.3 L70.9,390.1 L65.9,375.2 L72.3,374.7 L76.8,370.3 L79.0,363.5 L79.0,356.9 L81.0,352.7 L85.2,351.0 L88.2,346.5 L90.9,339.3 L103.0,343.3 L111.8,349.3 L119.9,349.2 L130.8,351.6 L133.8,355.9 L139.5,360.8 L147.0,365.7 L152.3,372.8 L153.5,381.3 L153.5,388.6 L160.1,392.8 L166.6,398.0 L169.9,403.1 L173.8,407.0 L172.4,410.8 L167.5,419.7 L167.0,428.5 L162.6,426.9 L158.1,429.0 L159.1,433.2 L170.3,442.8 L181.5,451.0 L194.6,465.8 L204.9,475.6 L213.7,485.3 L211.1,499.7 L203.0,514.1 L203.0,514.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.CE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389242</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>CE</postal-code>
+    <name>Cetinje</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>18.8954</longitude>
+    <woe-name>Cetinje</woe-name>
+    <latitude>42.4993</latitude>
+    <woe-label>Cetinje, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>me-ce</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.BU" d="M147.6,517.4 L152.6,527.4 L167.5,545.7 L168.9,551.1 L159.6,561.3 L154.3,554.3 L142.3,544.8 L138.9,538.5 L137.1,524.8 L134.5,519.0 L130.2,516.4 L124.8,516.3 L120.2,518.1 L117.8,521.4 L113.7,515.7 L108.7,518.4 L104.7,521.7 L104.3,508.2 L104.3,495.4 L107.0,489.6 L108.2,487.2 L118.0,490.9 L125.0,494.2 L134.7,496.4 L143.5,504.6 L145.9,512.0 L146.0,512.0 L146.0,512.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.BU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389243</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MJ00</fips>
+    <postal-code>BU</postal-code>
+    <name>Budva</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>18.8929</longitude>
+    <woe-name>Budva</woe-name>
+    <latitude>42.3039</latitude>
+    <woe-label>Budva, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.23</hc-middle-x>
+    <hc-middle-y>0.23</hc-middle-y>
+    <hc-key>me-bu</hc-key>
+    <hc-a2>BU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.UL" d="M273.4,598.0 L281.2,602.9 L276.6,612.6 L274.9,619.6 L274.4,627.7 L275.4,635.6 L278.1,641.9 L280.4,644.8 L278.6,651.7 L272.6,655.0 L274.4,664.5 L272.0,671.6 L271.9,676.0 L277.7,684.9 L277.5,700.0 L272.0,695.1 L261.0,682.3 L255.8,679.6 L233.5,671.8 L228.3,668.3 L220.8,665.3 L218.3,663.6 L216.0,659.4 L216.4,654.9 L215.5,650.7 L211.0,647.1 L208.8,643.9 L210.6,640.7 L210.1,629.7 L212.0,629.4 L240.9,633.8 L243.7,623.5 L235.4,605.5 L233.3,596.5 L241.7,596.6 L252.6,600.9 L258.5,602.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.UL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389241</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL49</fips>
+    <postal-code>UL</postal-code>
+    <name>Ulcinj</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.2564</longitude>
+    <woe-name>Ulcinj</woe-name>
+    <latitude>42.0039</latitude>
+    <woe-label>Ulcinj, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>me-ul</hc-key>
+    <hc-a2>UL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.RO" d="M494.1,328.2 L491.7,317.5 L494.6,297.7 L500.1,290.1 L503.1,279.1 L505.9,271.1 L510.8,262.4 L517.3,242.1 L520.8,243.3 L537.0,245.1 L545.6,249.0 L561.3,260.5 L579.8,270.1 L584.8,276.7 L585.2,287.0 L582.1,302.9 L557.5,306.9 L545.9,311.1 L543.3,312.7 L540.7,317.2 L540.4,328.9 L532.7,337.4 L522.4,334.3 L511.2,327.3 L500.4,324.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.RO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389229</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL47</fips>
+    <postal-code>RO</postal-code>
+    <name>Ro?aje</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>20.2013</longitude>
+    <woe-name>Ro?aje</woe-name>
+    <latitude>42.8615</latitude>
+    <woe-label>Ro?aje, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>me-ro</hc-key>
+    <hc-a2>RO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.PV" d="M399.4,398.9 L404.5,396.6 L422.7,383.5 L434.0,369.0 L447.8,358.6 L449.3,358.3 L476.6,352.8 L488.1,351.4 L505.3,368.2 L508.2,373.9 L504.0,384.5 L499.4,394.4 L499.2,401.0 L500.0,406.8 L499.6,412.2 L495.9,417.5 L488.1,412.9 L481.5,417.6 L470.4,432.1 L462.6,434.2 L447.8,433.6 L440.2,438.7 L437.3,441.5 L425.7,448.2 L420.8,449.6 L415.3,448.9 L410.1,446.2 L400.2,438.3 L395.2,425.4 L394.0,418.8 L395.3,409.7 L399.1,402.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.PV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389239</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL49</fips>
+    <postal-code>PV</postal-code>
+    <name>Plav</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>19.9168</longitude>
+    <woe-name>Plav</woe-name>
+    <latitude>42.5985</latitude>
+    <woe-label>Plav, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>me-pv</hc-key>
+    <hc-a2>PV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.HN" d="M66.7,475.2 L64.3,483.5 L59.9,481.7 L53.2,482.4 L46.8,475.8 L39.5,471.8 L41.8,468.8 L34.3,463.1 L32.1,459.0 L33.7,454.3 L37.6,453.0 L62.4,462.0 L62.4,462.0 Z M65.4,448.3 L51.7,450.6 L19.4,445.4 L19.3,448.5 L24.9,452.8 L22.1,464.7 L27.1,468.4 L21.2,466.2 L17.1,461.5 L17.7,455.4 L16.3,450.8 L8.8,446.0 L5.1,441.2 L2.0,435.7 L0.0,429.3 L0.0,422.1 L2.1,408.9 L0.9,402.2 L4.1,399.4 L7.6,398.1 L11.1,398.5 L14.5,400.8 L17.6,400.4 L18.8,397.9 L16.3,390.1 L22.5,386.7 L27.3,393.3 L37.2,407.7 L44.9,412.8 L53.3,419.1 L59.6,430.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.HN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389246</woe-id>
+    <subregion>NULL</subregion>
+    <fips>HR03</fips>
+    <postal-code>HN</postal-code>
+    <name>Herceg Novi</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>18.6027</longitude>
+    <woe-name>Herceg Novi</woe-name>
+    <latitude>42.4041</latitude>
+    <woe-label>Herceg Novi, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>me-hn</hc-key>
+    <hc-a2>HN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME.KT" d="M107.0,489.6 L104.3,495.4 L104.3,508.2 L104.7,521.7 L101.6,523.5 L99.6,521.2 L96.9,515.3 L87.0,506.6 L82.6,500.9 L82.6,495.2 L76.5,489.2 L76.6,487.4 L83.2,479.6 L89.9,458.7 L82.5,444.1 L75.5,438.3 L76.1,435.8 L65.4,448.3 L59.6,430.0 L53.3,419.1 L44.9,412.8 L37.2,407.7 L27.3,393.3 L22.5,386.7 L25.7,384.9 L32.3,378.8 L33.8,375.5 L51.5,376.8 L65.9,375.2 L70.9,390.1 L76.1,397.3 L79.2,405.7 L80.0,412.2 L98.6,426.3 L101.8,439.0 L100.8,454.4 L98.2,460.1 L99.1,466.2 L102.9,479.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>ME.KT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389240</woe-id>
+    <subregion>NULL</subregion>
+    <fips>HR03</fips>
+    <postal-code>KT</postal-code>
+    <name>Kotor</name>
+    <country>Montenegro</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>18.65</longitude>
+    <woe-name>Kotor</woe-name>
+    <latitude>42.5415</latitude>
+    <woe-label>Kotor, ME, Montenegro</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.24</hc-middle-y>
+    <hc-key>me-kt</hc-key>
+    <hc-a2>KT</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

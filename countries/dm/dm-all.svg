@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Dominica</title>
+<g id="admin1">
+
+<g id="DM">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Dominica</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>D'inca</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>DMA</iso-a3>
+    <iso-a2>DM</iso-a2>
+    <woe-id>23424798</woe-id>
+    <continent>North America</continent>
+    <hc-key>dm</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.LU" d="M183.8,644.8 L184.0,642.7 L183.3,605.1 L183.4,605.2 L209.4,615.7 L211.0,631.9 L184.0,644.7 L183.8,644.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.LU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345166</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO07</fips>
+    <postal-code>LU</postal-code>
+    <name>Saint Luke</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.3644</longitude>
+    <woe-name>Saint Luke</woe-name>
+    <latitude>15.2483</latitude>
+    <woe-label>Saint Luke, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>dm-lu</hc-key>
+    <hc-a2>LU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.MA" d="M225.7,683.9 L225.7,683.9 L218.9,694.5 L199.8,700.0 L182.1,695.2 L178.9,682.2 L183.8,644.8 L183.8,644.8 L184.0,644.7 L211.0,631.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345167</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO08</fips>
+    <postal-code>MA</postal-code>
+    <name>Saint Mark</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.3612</longitude>
+    <woe-name>Saint Mark</woe-name>
+    <latitude>15.2217</latitude>
+    <woe-label>Saint Mark, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>dm-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.PK" d="M211.0,631.9 L209.4,615.7 L231.3,582.3 L246.9,569.7 L261.4,562.0 L267.7,557.6 L272.2,553.2 L291.4,521.0 L291.7,518.6 L290.9,517.7 L285.3,513.5 L297.9,502.3 L303.9,499.1 L370.4,487.3 L370.4,487.3 L371.0,500.2 L366.6,564.0 L334.4,621.1 L323.1,629.9 L315.4,631.9 L309.3,631.5 L293.3,633.6 L279.9,630.5 L270.0,632.4 L261.5,640.2 L253.5,661.3 L231.5,670.9 L226.4,682.8 L225.7,683.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.PK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345168</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO09</fips>
+    <postal-code>PK</postal-code>
+    <name>Saint Patrick</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.3052</longitude>
+    <woe-name>Saint Patrick</woe-name>
+    <latitude>15.2768</latitude>
+    <woe-label>Saint Patrick, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>dm-pk</hc-key>
+    <hc-a2>PK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.DA" d="M303.9,499.1 L297.9,502.3 L285.3,513.5 L287.7,504.1 L287.8,502.3 L287.4,499.2 L286.7,496.6 L285.4,493.3 L285.1,492.1 L285.0,491.0 L285.7,488.3 L280.4,483.5 L254.7,466.8 L254.7,398.3 L243.4,370.5 L270.2,305.7 L299.9,277.4 L307.1,272.3 L307.7,272.7 L308.4,273.0 L308.9,273.2 L309.4,273.1 L310.5,272.8 L311.1,272.9 L312.2,273.1 L312.7,273.1 L313.8,272.4 L315.1,271.3 L317.8,268.3 L321.8,264.9 L322.4,264.7 L322.9,264.5 L325.5,264.5 L326.2,264.4 L327.1,264.1 L327.9,263.6 L329.6,262.3 L335.2,256.4 L336.2,255.7 L336.8,255.4 L337.2,252.3 L336.0,219.3 L335.3,217.0 L337.9,211.0 L346.5,200.0 L348.8,203.4 L363.9,260.4 L366.8,319.9 L356.0,365.4 L363.2,367.9 L369.8,373.3 L377.6,376.4 L367.9,435.6 L370.4,487.3 L370.4,487.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.DA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345162</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO03</fips>
+    <postal-code>DA</postal-code>
+    <name>Saint David</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.2919</longitude>
+    <woe-name>Saint David</woe-name>
+    <latitude>15.3956</latitude>
+    <woe-label>Saint David, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>dm-da</hc-key>
+    <hc-a2>DA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.PL" d="M150.9,519.0 L148.6,487.3 L141.4,458.1 L119.0,410.4 L115.9,399.0 L115.4,394.9 L115.4,394.9 L132.8,389.2 L152.2,388.7 L179.1,395.1 L185.9,396.0 L190.8,395.4 L243.4,370.5 L254.7,398.3 L254.7,466.8 L189.9,500.5 L189.4,501.6 L189.2,502.2 L188.9,502.9 L185.4,514.3 L184.0,516.9 L181.7,518.9 L180.4,519.3 L179.3,519.5 L178.7,519.4 L178.0,519.2 L177.3,519.2 L176.5,519.2 L173.5,520.0 L172.6,520.1 L169.8,520.0 L169.3,520.0 L151.0,519.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.PL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345169</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO10</fips>
+    <postal-code>PL</postal-code>
+    <name>Saint Paul</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.3717</longitude>
+    <woe-name>Saint Paul</woe-name>
+    <latitude>15.3529</latitude>
+    <woe-label>Saint Paul, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>dm-pl</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.PR" d="M53.2,271.5 L45.8,260.9 L37.1,255.7 L26.8,247.2 L23.3,227.6 L21.7,188.2 L15.2,175.8 L7.9,169.1 L7.9,169.1 L13.0,162.9 L13.7,162.4 L14.9,161.7 L18.4,162.5 L19.4,162.5 L20.8,162.2 L22.1,162.4 L30.3,164.5 L31.0,164.5 L37.7,165.8 L38.9,165.8 L40.0,165.7 L40.5,165.5 L127.9,211.9 L131.1,225.7 L102.6,229.7 L91.9,234.9 L89.6,237.7 L88.1,240.4 L78.6,250.1 L53.2,271.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.PR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345170</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO11</fips>
+    <postal-code>PR</postal-code>
+    <name>Saint Peter</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.4448</longitude>
+    <woe-name>Saint Peter</woe-name>
+    <latitude>15.4986</latitude>
+    <woe-label>Saint Peter, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>dm-pr</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.AN" d="M62.1,1.2 L62.1,1.2 L80.9,1.9 L98.7,8.5 L117.9,22.9 L143.4,60.1 L163.8,73.4 L187.1,61.1 L206.6,57.2 L284.7,87.8 L287.6,98.8 L297.6,123.5 L313.3,149.8 L322.2,165.3 L346.5,200.0 L337.9,211.0 L335.3,217.0 L336.0,219.3 L337.2,252.3 L336.8,255.4 L336.2,255.7 L335.2,256.4 L329.6,262.3 L327.9,263.6 L327.1,264.1 L326.2,264.4 L325.5,264.5 L322.9,264.5 L322.4,264.7 L321.8,264.9 L317.8,268.3 L315.1,271.3 L313.8,272.4 L312.7,273.1 L312.2,273.1 L311.1,272.9 L310.5,272.8 L309.4,273.1 L308.9,273.2 L308.4,273.0 L307.7,272.7 L307.1,272.3 L299.9,277.4 L270.2,305.7 L261.5,283.9 L237.5,264.7 L228.2,259.6 L222.1,257.1 L217.4,256.6 L212.4,255.5 L206.6,253.6 L190.3,246.4 L188.3,246.0 L186.6,246.4 L180.1,249.6 L173.8,251.7 L164.6,252.7 L157.0,249.3 L151.3,245.7 L131.1,225.7 L127.9,211.9 L124.0,180.1 L121.9,172.1 L111.6,163.6 L110.2,154.1 L111.0,107.1 L109.5,89.6 L108.7,89.3 L107.6,87.5 L107.1,87.2 L106.6,87.0 L106.1,86.9 L105.5,87.0 L105.0,87.1 L104.3,87.2 L102.9,87.2 L102.0,87.0 L99.2,85.8 L98.6,85.4 L98.0,84.8 L97.2,83.3 L96.8,82.7 L91.1,80.4 L80.5,69.9 L76.3,62.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345161</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO02</fips>
+    <postal-code>AN</postal-code>
+    <name>Saint Andrew</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.3589</longitude>
+    <woe-name>Saint Andrew</woe-name>
+    <latitude>15.5378</latitude>
+    <woe-label>Saint Andrew, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>dm-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.GO" d="M183.3,605.1 L183.1,595.3 L183.9,588.4 L175.2,570.0 L155.2,546.9 L151.6,527.5 L150.9,519.0 L151.0,519.0 L169.3,520.0 L169.8,520.0 L172.6,520.1 L173.5,520.0 L176.5,519.2 L177.3,519.2 L178.0,519.2 L178.7,519.4 L179.3,519.5 L180.4,519.3 L181.7,518.9 L184.0,516.9 L185.4,514.3 L188.9,502.9 L189.2,502.2 L189.4,501.6 L189.9,500.5 L254.7,466.8 L280.4,483.5 L285.7,488.3 L285.0,491.0 L285.1,492.1 L285.4,493.3 L286.7,496.6 L287.4,499.2 L287.8,502.3 L287.7,504.1 L285.3,513.5 L290.9,517.7 L291.7,518.6 L291.4,521.0 L272.2,553.2 L267.7,557.6 L261.4,562.0 L246.9,569.7 L231.3,582.3 L209.4,615.7 L183.4,605.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.GO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345163</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO04</fips>
+    <postal-code>GO</postal-code>
+    <name>Saint George</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.3489</longitude>
+    <woe-name>Saint George</woe-name>
+    <latitude>15.3</latitude>
+    <woe-label>Saint George, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>dm-go</hc-key>
+    <hc-a2>GO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.JN" d="M127.9,211.9 L40.5,165.5 L40.0,165.7 L38.9,165.8 L37.7,165.8 L31.0,164.5 L30.3,164.5 L22.1,162.4 L20.8,162.2 L19.4,162.5 L18.4,162.5 L14.9,161.7 L13.7,162.4 L13.0,162.9 L7.9,169.1 L7.9,169.1 L6.5,167.9 L0.1,159.2 L0.1,144.0 L7.8,133.4 L34.0,114.9 L42.0,98.7 L31.2,96.6 L12.1,89.7 L0.0,88.6 L12.9,69.5 L31.0,0.0 L62.1,1.2 L76.3,62.7 L80.5,69.9 L91.1,80.4 L96.8,82.7 L97.2,83.3 L98.0,84.8 L98.6,85.4 L99.2,85.8 L102.0,87.0 L102.9,87.2 L104.3,87.2 L105.0,87.1 L105.5,87.0 L106.1,86.9 L106.6,87.0 L107.1,87.2 L107.6,87.5 L108.7,89.3 L109.5,89.6 L111.0,107.1 L110.2,154.1 L111.6,163.6 L121.9,172.1 L124.0,180.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.JN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345164</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO05</fips>
+    <postal-code>JN</postal-code>
+    <name>Saint John</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.4483</longitude>
+    <woe-name>Saint John</woe-name>
+    <latitude>15.5767</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>dm-jn</hc-key>
+    <hc-a2>JN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM.JH" d="M270.2,305.7 L243.4,370.5 L190.8,395.4 L185.9,396.0 L179.1,395.1 L152.2,388.7 L132.8,389.2 L115.4,394.9 L115.4,394.9 L112.0,369.3 L107.1,355.0 L70.8,319.3 L65.0,305.9 L62.0,290.4 L54.9,274.0 L53.2,271.5 L53.2,271.5 L78.6,250.1 L88.1,240.4 L89.6,237.7 L91.9,234.9 L102.6,229.7 L131.1,225.7 L151.3,245.7 L157.0,249.3 L164.6,252.7 L173.8,251.7 L180.1,249.6 L186.6,246.4 L188.3,246.0 L190.3,246.4 L206.6,253.6 L212.4,255.5 L217.4,256.6 L222.1,257.1 L228.2,259.6 L237.5,264.7 L261.5,283.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>DM.JH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345165</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DO06</fips>
+    <postal-code>JH</postal-code>
+    <name>Saint Joseph</name>
+    <country>Dominica</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.3863</longitude>
+    <woe-name>Saint Joseph</woe-name>
+    <latitude>15.4355</latitude>
+    <woe-label>Saint Joseph, DM, Dominica</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>dm-jh</hc-key>
+    <hc-a2>JH</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

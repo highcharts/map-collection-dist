@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Vermont congressional districts</title>
+<g id="special">
+
+<g id="US.VT">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.VT</hasc>
+    <alt-name>VT</alt-name>
+    <woe-id>2347604</woe-id>
+    <subregion>New England</subregion>
+    <fips>US50</fips>
+    <postal-code>VT</postal-code>
+    <name>Vermont</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>Northeast</region>
+    <longitude>-72.7317</longitude>
+    <woe-name>Vermont</woe-name>
+    <latitude>44.0886</latitude>
+    <woe-label>Vermont, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-vt</hc-key>
+    <hc-a2>VE</hc-a2>
+  </desc>
+</g>
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.VT.00" d="M226.1,700.0 L147.7,699.2 L43.4,698.8 L39.8,682.0 L42.4,672.4 L42.6,639.0 L44.6,543.1 L45.1,465.2 L44.5,454.1 L33.6,446.5 L32.2,432.6 L16.9,433.3 L16.9,438.9 L11.5,450.5 L4.7,445.8 L6.7,433.8 L4.5,430.5 L9.7,412.8 L16.6,402.7 L20.6,389.2 L11.6,374.6 L15.5,366.4 L14.9,357.3 L7.0,339.6 L6.1,311.7 L0.0,306.2 L5.4,285.3 L9.5,261.8 L15.3,256.6 L19.5,247.3 L24.6,243.7 L26.3,236.3 L23.2,225.5 L20.8,206.7 L24.7,201.7 L28.6,189.5 L25.8,167.8 L17.6,152.3 L9.0,141.2 L7.1,132.8 L11.0,119.0 L11.9,93.9 L18.3,80.3 L17.8,75.9 L8.0,65.9 L12.6,45.6 L16.3,41.0 L16.1,27.3 L12.4,20.5 L14.8,13.4 L70.0,10.7 L95.3,10.5 L121.6,9.1 L176.6,8.6 L245.2,9.1 L281.2,7.5 L346.5,3.4 L410.4,0.0 L402.2,8.9 L408.2,16.7 L412.4,31.0 L410.0,37.4 L400.9,50.1 L402.0,53.9 L396.7,61.3 L396.7,69.7 L385.9,80.0 L397.5,104.0 L401.8,109.9 L404.8,125.3 L408.0,131.0 L395.5,139.8 L401.4,144.5 L396.9,149.4 L400.7,155.6 L396.3,160.3 L386.0,164.7 L383.6,174.3 L372.0,184.8 L355.4,188.3 L350.6,194.1 L351.3,202.0 L338.5,208.2 L330.9,204.9 L326.2,208.4 L314.9,208.8 L306.8,214.3 L296.7,229.0 L301.5,239.3 L298.1,254.4 L303.5,262.4 L305.0,273.6 L301.6,275.1 L306.9,286.8 L297.3,298.3 L295.8,305.5 L289.0,313.7 L289.8,321.3 L294.8,321.9 L289.6,328.0 L288.8,336.8 L278.0,348.8 L275.1,356.5 L276.6,370.0 L272.0,382.1 L266.5,389.3 L257.8,393.9 L250.8,405.7 L251.4,414.0 L245.1,430.0 L246.6,434.5 L237.5,441.0 L235.8,453.0 L232.1,462.2 L236.3,468.9 L233.8,476.0 L230.2,507.2 L235.2,509.4 L231.2,516.2 L234.6,522.2 L232.2,531.3 L226.5,538.8 L226.0,556.3 L223.6,559.0 L223.5,575.0 L226.4,575.9 L228.2,591.8 L221.1,601.0 L223.4,617.1 L220.5,625.8 L207.6,631.5 L209.7,642.7 L203.7,652.8 L202.9,662.3 L207.3,677.0 L212.1,681.1 L213.6,689.2 L218.3,686.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>5000</geoid>
+    <name>Congressional District (at Large)</name>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>us-vt-00</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Lebanon</title>
+<g id="admin1">
+
+<g id="LB">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Lebanon</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Leb.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>LBN</iso-a3>
+    <iso-a2>LB</iso-a2>
+    <woe-id>23424873</woe-id>
+    <continent>Asia</continent>
+    <hc-key>lb</hc-key>
+    <hc-a2>LE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LB.BI" d="M419.0,79.7 L423.0,81.8 L430.6,79.2 L440.9,78.4 L450.5,78.8 L455.4,80.3 L457.9,87.4 L461.5,92.7 L466.4,96.5 L472.4,98.9 L477.7,105.0 L480.3,106.6 L482.8,105.6 L488.6,109.4 L490.6,113.1 L490.5,117.8 L488.6,127.7 L486.4,132.0 L486.2,135.5 L489.1,142.1 L497.1,152.5 L501.0,156.4 L508.4,157.6 L510.3,160.8 L509.8,166.4 L506.6,171.2 L504.1,176.7 L506.1,184.6 L508.6,190.6 L517.4,198.8 L519.6,203.2 L510.1,214.5 L502.4,228.5 L487.1,242.5 L480.5,251.4 L478.7,257.5 L478.2,262.5 L476.4,266.4 L470.7,269.5 L465.9,269.9 L458.2,267.3 L454.2,267.1 L446.9,271.2 L435.6,286.4 L422.0,299.2 L416.7,306.2 L412.1,313.9 L405.0,329.4 L410.4,337.4 L421.0,345.2 L435.0,347.1 L441.2,350.6 L442.2,359.3 L438.1,365.1 L431.3,366.4 L417.9,363.6 L399.5,355.3 L393.3,354.3 L388.0,356.5 L383.2,360.7 L377.6,364.3 L370.3,364.7 L367.3,362.9 L362.7,357.4 L360.3,356.1 L347.9,364.3 L341.8,367.1 L335.3,369.0 L329.7,371.5 L326.3,376.2 L321.9,385.4 L310.5,395.7 L305.8,403.1 L303.8,408.0 L297.5,414.1 L295.0,418.0 L294.6,421.5 L295.8,429.2 L295.0,433.3 L287.4,438.3 L286.3,447.4 L291.1,450.2 L298.9,451.4 L307.3,455.8 L312.4,457.1 L319.0,460.1 L325.1,464.4 L328.3,469.0 L327.4,476.9 L322.2,483.5 L315.0,488.5 L308.4,491.8 L300.1,492.0 L291.8,494.9 L287.9,500.6 L293.0,509.1 L287.7,522.7 L277.0,532.3 L261.8,541.9 L255.8,540.5 L239.4,538.8 L236.6,536.0 L231.8,525.7 L229.7,523.1 L222.4,519.0 L215.4,516.9 L211.3,519.4 L202.8,529.3 L196.6,538.7 L193.9,539.9 L187.1,537.7 L185.6,528.7 L181.5,521.1 L179.9,515.6 L178.7,505.6 L183.2,501.3 L187.5,492.9 L191.8,472.5 L195.6,461.5 L197.9,457.0 L217.5,425.6 L222.2,422.6 L226.8,416.7 L227.0,414.6 L221.3,409.2 L230.7,394.8 L240.5,394.4 L244.3,389.0 L242.7,385.9 L230.8,377.9 L253.0,350.0 L258.7,339.4 L260.4,334.9 L264.2,329.9 L279.7,315.0 L283.8,313.0 L293.2,297.8 L308.1,265.7 L308.6,240.0 L311.7,229.8 L319.8,228.9 L322.9,226.6 L329.9,214.0 L330.9,210.2 L331.7,199.2 L344.3,182.3 L354.7,170.8 L358.2,156.9 L363.0,150.4 L370.0,144.5 L374.5,139.4 L383.5,119.3 L382.2,113.1 L388.6,104.2 L389.5,98.9 L391.2,96.3 L406.4,83.8 L411.5,80.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LB.BI</hasc>
+    <alt-name>Bekaa|El Begaa|Béqaa|La Bekaa</alt-name>
+    <woe-id>2346013</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LE11</fips>
+    <postal-code>BI</postal-code>
+    <name>Beqaa</name>
+    <country>Lebanon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>36.1086</longitude>
+    <woe-name>Beqaa</woe-name>
+    <latitude>34.0494</latitude>
+    <woe-label>Al Biqa', LB, Lebanon</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>lb-bi</hc-key>
+    <hc-a2>BI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LB.AS" d="M182.1,205.7 L183.0,203.8 L182.9,190.5 L184.2,177.2 L188.2,165.9 L196.2,158.5 L202.4,163.3 L207.9,154.3 L212.8,140.7 L217.3,131.9 L236.5,120.7 L242.3,112.3 L235.7,102.2 L235.6,99.6 L242.2,101.1 L269.8,93.1 L288.0,74.7 L293.5,70.4 L297.0,66.6 L298.8,60.6 L298.5,40.7 L297.3,31.8 L294.9,24.4 L291.0,19.7 L295.4,19.4 L301.1,21.2 L307.4,26.0 L315.0,28.0 L323.0,28.0 L332.3,26.4 L356.3,27.4 L364.1,23.6 L372.2,27.9 L393.3,26.1 L396.7,24.4 L399.8,20.8 L401.0,16.9 L400.9,8.6 L401.9,5.3 L409.0,0.0 L414.4,3.2 L423.1,17.9 L430.4,24.0 L438.7,26.6 L447.4,26.1 L455.8,23.1 L454.9,36.5 L452.4,38.5 L448.6,35.6 L443.4,34.3 L438.3,37.7 L437.8,42.8 L438.4,49.0 L437.0,55.7 L430.4,61.4 L420.9,66.9 L415.3,73.3 L419.0,79.7 L411.5,80.9 L406.4,83.8 L391.2,96.3 L389.5,98.9 L388.6,104.2 L382.2,113.1 L383.5,119.3 L374.5,139.4 L370.0,144.5 L363.0,150.4 L358.2,156.9 L354.7,170.8 L344.3,182.3 L331.7,199.2 L330.9,210.2 L329.9,214.0 L322.9,226.6 L319.8,228.9 L311.7,229.8 L308.3,228.2 L301.4,228.5 L289.5,223.1 L287.5,221.3 L283.1,220.5 L281.5,223.9 L278.1,225.4 L273.3,223.7 L268.8,223.3 L258.9,218.0 L254.4,214.7 L249.8,214.1 L245.1,214.7 L236.7,217.2 L228.0,217.1 L221.7,218.5 L215.3,217.7 L191.6,206.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LB.AS</hasc>
+    <alt-name>Ash Shamal|Liban-Nord</alt-name>
+    <woe-id>2346015</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LE09</fips>
+    <postal-code>AS</postal-code>
+    <name>North Lebanon</name>
+    <country>Lebanon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>36.0424</longitude>
+    <woe-name>North Lebanon</woe-name>
+    <latitude>34.3933</latitude>
+    <woe-label>Ash Shamal, LB, Lebanon</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>lb-as</hc-key>
+    <hc-a2>AS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LB.BA" d="M128.8,356.3 L127.5,348.3 L124.0,340.8 L125.8,337.4 L129.6,336.1 L134.2,336.7 L140.5,340.2 L142.9,340.2 L146.3,338.2 L151.3,338.4 L151.3,340.3 L147.5,353.0 L143.7,353.4 L140.2,357.3 L135.5,357.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LB.BA</hasc>
+    <alt-name>Bayrut|Beirute|Beyrouth</alt-name>
+    <woe-id>2346016</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LE04</fips>
+    <postal-code>BA</postal-code>
+    <name>Beirut</name>
+    <country>Lebanon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>35.5093</longitude>
+    <woe-name>Beirut</woe-name>
+    <latitude>33.8849</latitude>
+    <woe-label>Bayrut, LB, Lebanon</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.24</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>lb-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LB.JL" d="M311.7,229.8 L308.6,240.0 L308.1,265.7 L293.2,297.8 L283.8,313.0 L279.7,315.0 L264.2,329.9 L260.4,334.9 L258.7,339.4 L253.0,350.0 L230.8,377.9 L242.7,385.9 L244.3,389.0 L240.5,394.4 L230.7,394.8 L221.3,409.2 L227.0,414.6 L226.8,416.7 L222.2,422.6 L217.5,425.6 L197.9,457.0 L195.6,461.5 L191.8,472.5 L187.5,492.9 L183.2,501.3 L178.7,505.6 L180.5,493.5 L179.8,490.9 L176.6,489.7 L173.2,486.1 L174.2,478.8 L174.2,470.2 L171.6,464.9 L168.8,465.0 L166.1,466.9 L158.1,468.5 L151.5,474.5 L144.0,475.6 L135.4,478.8 L131.0,478.9 L129.6,480.5 L124.3,480.7 L115.5,479.3 L106.3,474.8 L95.9,474.5 L94.1,473.8 L101.9,451.0 L99.6,448.1 L105.0,443.2 L108.7,425.7 L114.6,421.8 L114.3,416.7 L127.4,382.3 L128.6,373.9 L128.8,356.3 L135.5,357.6 L140.2,357.3 L143.7,353.4 L147.5,353.0 L151.3,340.3 L151.3,338.4 L154.6,338.5 L159.7,336.6 L161.9,333.7 L166.8,321.7 L166.3,319.3 L164.1,319.1 L167.0,315.5 L171.0,305.3 L173.5,301.0 L181.6,299.9 L183.1,298.1 L182.8,294.3 L178.0,289.6 L177.7,279.3 L182.9,260.6 L184.2,247.4 L182.9,242.5 L177.7,233.3 L176.4,227.4 L176.0,212.9 L177.1,209.8 L182.1,205.7 L191.6,206.6 L215.3,217.7 L221.7,218.5 L228.0,217.1 L236.7,217.2 L245.1,214.7 L249.8,214.1 L254.4,214.7 L258.9,218.0 L268.8,223.3 L273.3,223.7 L278.1,225.4 L281.5,223.9 L283.1,220.5 L287.5,221.3 L289.5,223.1 L301.4,228.5 L308.3,228.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LB.JL</hasc>
+    <alt-name>Jabal Lubnan|Mont-Liban</alt-name>
+    <woe-id>2346017</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LE05</fips>
+    <postal-code>JL</postal-code>
+    <name>Mount Lebanon</name>
+    <country>Lebanon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>35.6942</longitude>
+    <woe-name>Mount Lebanon</woe-name>
+    <latitude>33.9291</latitude>
+    <woe-label>Jabal Lubnan, LB, Lebanon</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>lb-jl</hc-key>
+    <hc-a2>JL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LB.NA" d="M187.1,537.7 L193.9,539.9 L196.6,538.7 L202.8,529.3 L211.3,519.4 L215.4,516.9 L222.4,519.0 L229.7,523.1 L231.8,525.7 L236.6,536.0 L239.4,538.8 L255.8,540.5 L261.8,541.9 L253.4,547.2 L248.1,553.9 L241.4,568.2 L235.8,574.8 L226.8,579.9 L217.1,582.1 L210.9,584.0 L197.7,598.4 L190.8,604.3 L180.1,606.9 L177.0,610.2 L178.1,619.8 L171.3,614.8 L164.6,604.8 L162.5,602.3 L158.3,602.9 L156.1,607.0 L154.1,612.8 L151.0,618.7 L148.5,628.1 L148.1,648.9 L146.5,659.8 L143.6,666.9 L137.3,679.0 L135.6,685.4 L124.7,686.6 L107.9,694.3 L87.9,700.0 L83.1,699.4 L79.7,695.2 L77.1,690.2 L73.5,686.0 L67.4,682.0 L68.0,674.1 L67.6,670.7 L68.3,664.9 L72.4,653.2 L73.4,651.7 L78.9,651.9 L81.8,649.5 L83.2,646.5 L83.7,641.1 L88.5,640.6 L94.0,637.6 L94.0,635.5 L89.7,632.7 L90.5,630.7 L96.1,627.9 L99.7,624.4 L109.3,611.8 L112.6,605.8 L112.3,594.8 L115.6,590.0 L104.8,592.6 L95.4,591.1 L88.5,589.0 L82.8,583.2 L84.2,576.5 L83.3,573.8 L77.6,570.3 L71.7,570.2 L68.4,567.7 L71.7,567.5 L74.0,565.6 L75.5,561.4 L75.9,556.8 L78.5,554.7 L82.0,553.6 L85.1,554.4 L86.9,558.0 L91.2,562.7 L93.4,561.8 L93.3,556.1 L99.5,544.4 L99.7,541.5 L96.5,541.3 L96.1,539.1 L100.5,531.3 L107.7,529.7 L109.4,528.3 L109.3,525.1 L107.0,523.3 L110.4,521.2 L125.6,517.4 L130.6,517.8 L137.6,514.5 L143.7,513.1 L146.0,510.4 L148.8,510.5 L147.1,525.7 L148.9,553.2 L148.3,558.9 L149.5,562.3 L155.3,574.4 L159.0,563.0 L160.7,560.1 L165.5,558.2 L171.0,558.8 L173.3,556.1 L174.8,551.5 L180.8,545.6 L184.2,543.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LB.NA</hasc>
+    <alt-name>Nabatîyé</alt-name>
+    <woe-id>56049597</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LE07</fips>
+    <postal-code>NA</postal-code>
+    <name>An Nabatiyah</name>
+    <country>Lebanon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>35.5666</longitude>
+    <woe-name>An Nabatiyah</woe-name>
+    <latitude>33.3303</latitude>
+    <woe-label>An Nabatiyah, LB, Lebanon</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>lb-na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LB.JA" d="M178.7,505.6 L179.9,515.6 L181.5,521.1 L185.6,528.7 L187.1,537.7 L184.2,543.3 L180.8,545.6 L174.8,551.5 L173.3,556.1 L171.0,558.8 L165.5,558.2 L160.7,560.1 L159.0,563.0 L155.3,574.4 L149.5,562.3 L148.3,558.9 L148.9,553.2 L147.1,525.7 L148.8,510.5 L146.0,510.4 L143.7,513.1 L137.6,514.5 L130.6,517.8 L125.6,517.4 L110.4,521.2 L107.0,523.3 L109.3,525.1 L109.4,528.3 L107.7,529.7 L100.5,531.3 L96.1,539.1 L96.5,541.3 L99.7,541.5 L99.5,544.4 L93.3,556.1 L93.4,561.8 L91.2,562.7 L86.9,558.0 L85.1,554.4 L82.0,553.6 L78.5,554.7 L75.9,556.8 L75.5,561.4 L74.0,565.6 L71.7,567.5 L68.4,567.7 L71.7,570.2 L77.6,570.3 L83.3,573.8 L84.2,576.5 L82.8,583.2 L88.5,589.0 L95.4,591.1 L104.8,592.6 L115.6,590.0 L112.3,594.8 L112.6,605.8 L109.3,611.8 L99.7,624.4 L96.1,627.9 L90.5,630.7 L89.7,632.7 L94.0,635.5 L94.0,637.6 L88.5,640.6 L83.7,641.1 L83.2,646.5 L81.8,649.5 L78.9,651.9 L73.4,651.7 L72.4,653.2 L68.3,664.9 L67.6,670.7 L68.0,674.1 L67.4,682.0 L61.2,681.3 L48.1,685.9 L38.4,684.5 L30.7,689.2 L2.1,687.7 L2.5,685.1 L0.3,684.9 L0.0,682.5 L2.1,677.7 L5.2,672.9 L8.9,669.1 L16.8,665.7 L21.3,656.5 L23.7,652.9 L21.5,650.1 L24.8,650.1 L26.1,652.8 L36.3,629.5 L37.6,616.8 L30.0,606.3 L37.5,600.4 L42.7,592.4 L49.0,573.8 L49.7,568.2 L49.7,556.8 L50.9,550.9 L57.2,541.1 L59.3,535.8 L57.7,530.5 L75.9,516.0 L84.9,506.1 L88.6,493.5 L89.2,488.0 L94.1,473.8 L95.9,474.5 L106.3,474.8 L115.5,479.3 L124.3,480.7 L129.6,480.5 L131.0,478.9 L135.4,478.8 L144.0,475.6 L151.5,474.5 L158.1,468.5 L166.1,466.9 L168.8,465.0 L171.6,464.9 L174.2,470.2 L174.2,478.8 L173.2,486.1 L176.6,489.7 L179.8,490.9 L180.5,493.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LB.JA</hasc>
+    <alt-name>Al Janub|Liban-Sud|Sayda</alt-name>
+    <woe-id>2346014</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LE06</fips>
+    <postal-code>JA</postal-code>
+    <name>South Lebanon</name>
+    <country>Lebanon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>35.2966</longitude>
+    <woe-name>South Lebanon</woe-name>
+    <latitude>33.2661</latitude>
+    <woe-label>Al Janub, LB, Lebanon</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>lb-ja</hc-key>
+    <hc-a2>JA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

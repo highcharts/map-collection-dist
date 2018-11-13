@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Lesotho</title>
+<g id="admin1">
+
+<g id="LS">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Lesotho</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Les.</country-abbrev>
+    <subregion>Southern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>LSO</iso-a3>
+    <iso-a2>LS</iso-a2>
+    <woe-id>23424880</woe-id>
+    <continent>Africa</continent>
+    <hc-key>ls</hc-key>
+    <hc-a2>LE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.BE" d="M146.3,226.8 L151.6,223.6 L149.4,212.2 L151.5,206.1 L159.4,202.2 L176.0,182.0 L182.6,169.8 L182.3,168.0 L184.8,168.0 L192.4,164.6 L197.2,164.6 L204.4,166.8 L207.7,166.0 L218.6,158.7 L226.6,155.8 L237.4,148.8 L239.7,148.7 L246.6,153.3 L252.1,155.4 L257.0,155.7 L263.2,151.1 L271.5,138.5 L277.9,133.3 L282.2,123.8 L288.2,118.3 L294.4,120.1 L301.5,125.6 L314.0,138.2 L320.0,149.2 L322.7,151.1 L331.8,153.2 L337.5,155.5 L343.7,161.0 L348.6,167.2 L354.2,176.0 L363.8,178.7 L359.1,189.9 L360.0,194.7 L364.2,201.9 L369.5,216.6 L369.5,221.7 L365.8,227.7 L353.1,237.0 L345.5,248.5 L337.2,235.1 L334.4,234.2 L331.6,237.1 L321.2,241.8 L317.9,245.9 L308.5,253.1 L298.9,261.5 L294.9,259.0 L293.9,253.6 L294.4,239.9 L292.3,230.5 L290.2,225.8 L286.8,227.5 L278.9,238.4 L272.9,243.0 L264.3,247.1 L255.7,248.8 L249.7,247.3 L232.3,236.8 L227.7,235.2 L221.5,234.8 L212.5,238.3 L210.3,244.3 L204.5,246.6 L191.4,243.0 L186.9,240.9 L179.8,235.7 L175.5,236.0 L172.1,240.6 L165.8,244.6 L159.3,245.6 L153.4,244.0 L151.3,240.1 L152.9,233.9 L147.8,229.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LS.BE</hasc>
+    <alt-name>Teyateyaneng</alt-name>
+    <woe-id>20069865</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT10</fips>
+    <postal-code>BE</postal-code>
+    <name>Berea</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.8982</longitude>
+    <woe-name>Berea</woe-name>
+    <latitude>-29.1918</latitude>
+    <woe-label>Berea, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ls-be</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.MS" d="M85.6,308.5 L88.1,304.9 L90.1,297.7 L91.7,296.5 L98.4,296.8 L101.2,289.5 L104.4,284.4 L119.4,268.0 L119.9,263.8 L116.2,257.3 L119.5,252.9 L124.8,250.6 L127.6,246.8 L129.8,233.6 L134.6,230.6 L146.3,226.8 L147.8,229.9 L152.9,233.9 L151.3,240.1 L153.4,244.0 L159.3,245.6 L165.8,244.6 L172.1,240.6 L175.5,236.0 L179.8,235.7 L186.9,240.9 L191.4,243.0 L204.5,246.6 L210.3,244.3 L212.5,238.3 L221.5,234.8 L227.7,235.2 L232.3,236.8 L249.7,247.3 L255.7,248.8 L264.3,247.1 L272.9,243.0 L278.9,238.4 L286.8,227.5 L290.2,225.8 L292.3,230.5 L294.4,239.9 L293.9,253.6 L294.9,259.0 L298.9,261.5 L308.5,253.1 L317.9,245.9 L321.2,241.8 L331.6,237.1 L334.4,234.2 L337.2,235.1 L345.5,248.5 L329.8,262.8 L321.0,266.0 L318.0,270.5 L316.3,276.4 L315.4,287.5 L316.8,292.5 L321.8,297.4 L323.5,301.7 L327.6,306.7 L334.6,349.3 L334.5,355.6 L338.7,372.3 L327.1,370.3 L311.7,369.6 L304.7,371.7 L302.3,374.9 L307.9,378.1 L312.0,385.6 L314.7,398.0 L314.7,401.2 L322.6,401.8 L328.6,400.2 L331.9,401.3 L329.0,407.7 L332.6,421.1 L326.6,421.1 L321.4,423.7 L322.2,436.0 L317.5,441.3 L310.1,443.4 L307.7,436.1 L301.8,428.8 L298.3,426.9 L285.4,425.0 L280.9,423.6 L274.7,418.8 L268.3,415.7 L231.4,408.3 L225.3,406.2 L214.1,406.0 L190.1,409.3 L186.5,405.4 L191.5,399.9 L192.8,391.4 L179.0,368.5 L173.1,365.6 L164.0,365.8 L157.3,364.1 L152.8,357.6 L152.3,347.5 L149.2,348.2 L144.3,354.4 L141.4,356.4 L133.8,358.5 L124.5,356.9 L121.2,353.4 L119.1,344.4 L111.9,336.1 L105.2,323.2 L102.2,312.0 L99.0,309.7 L92.4,310.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LS.MS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069870</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT14</fips>
+    <postal-code>MS</postal-code>
+    <name>Maseru</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.7516</longitude>
+    <woe-name>Maseru</woe-name>
+    <latitude>-29.5571</latitude>
+    <woe-label>Maseru, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>ls-ms</hc-key>
+    <hc-a2>MS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.MH" d="M307.7,436.1 L310.1,443.4 L317.5,441.3 L322.2,436.0 L333.9,436.6 L348.3,438.4 L355.7,442.8 L359.8,448.1 L368.1,455.2 L373.8,448.3 L371.5,441.9 L366.0,433.3 L371.7,430.1 L381.5,428.6 L383.0,418.5 L390.0,415.9 L395.6,418.6 L400.7,417.1 L415.3,408.2 L421.8,406.1 L429.3,405.1 L432.1,401.4 L440.4,395.4 L444.5,403.2 L444.3,410.2 L441.8,424.4 L443.4,434.4 L442.0,442.2 L436.6,446.0 L426.7,449.8 L420.8,454.5 L417.1,459.7 L402.2,470.7 L390.1,478.1 L384.5,468.5 L381.4,465.3 L371.1,463.0 L360.7,468.3 L353.6,473.3 L344.0,476.4 L331.6,475.1 L325.1,476.1 L320.4,484.9 L316.2,487.5 L306.3,490.4 L301.2,491.1 L286.5,487.2 L276.7,488.9 L269.0,488.8 L266.0,490.0 L261.5,494.5 L255.4,505.7 L254.2,514.8 L256.8,526.9 L255.2,530.8 L250.3,534.4 L245.3,543.8 L237.5,548.0 L231.6,554.7 L226.7,556.5 L221.6,556.7 L212.0,554.5 L209.0,550.2 L204.9,549.6 L204.3,557.4 L208.5,570.3 L208.8,576.5 L205.4,582.8 L195.8,587.2 L176.4,579.3 L166.3,581.9 L164.4,584.9 L162.4,592.0 L160.4,594.5 L155.0,594.0 L151.2,595.4 L150.1,591.7 L139.8,586.9 L135.3,583.1 L132.3,578.1 L130.2,570.1 L128.1,567.9 L123.6,567.8 L117.5,570.3 L112.6,570.2 L103.7,568.1 L104.2,563.0 L97.9,545.3 L97.4,535.9 L103.6,520.5 L107.9,516.1 L108.2,512.9 L101.1,509.4 L91.3,510.2 L88.6,509.2 L83.2,499.1 L79.4,483.5 L75.3,476.9 L61.7,465.3 L56.2,458.9 L48.4,440.1 L53.1,438.3 L72.8,428.9 L83.0,422.0 L88.3,424.1 L96.6,422.8 L102.9,417.4 L109.8,417.3 L111.0,421.2 L106.0,434.8 L104.4,443.8 L105.0,454.1 L109.4,466.8 L117.6,473.1 L123.7,479.0 L127.4,479.3 L132.0,477.2 L136.7,470.4 L148.6,458.5 L151.2,452.8 L156.5,448.3 L159.3,440.1 L164.8,444.0 L174.6,443.7 L180.7,445.7 L188.3,456.4 L193.9,458.3 L199.9,455.0 L208.9,453.8 L211.3,448.5 L216.9,445.3 L221.5,449.6 L228.0,453.4 L234.1,451.8 L238.8,446.5 L239.8,442.2 L238.4,435.3 L243.5,435.8 L251.8,447.1 L253.7,442.3 L254.7,434.3 L258.0,430.1 L263.1,433.3 L267.7,438.7 L282.1,438.8 L289.6,443.7 L301.2,447.0 L301.7,439.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LS.MH</hasc>
+    <alt-name>Mohales Hoek</alt-name>
+    <woe-id>20069868</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT15</fips>
+    <postal-code>MH</postal-code>
+    <name>Mohale's Hoek</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.8628</longitude>
+    <woe-name>Mohale's Hoek</woe-name>
+    <latitude>-30.075</latitude>
+    <woe-label>Mohale's Hoek, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>ls-mh</hc-key>
+    <hc-a2>MH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.QT" d="M386.0,525.0 L381.1,534.1 L373.9,540.5 L370.3,545.6 L365.5,548.8 L357.1,549.9 L345.9,555.5 L341.5,560.4 L340.8,566.5 L343.8,571.0 L351.3,575.9 L352.0,583.4 L349.9,590.5 L346.1,594.9 L321.7,613.7 L319.4,617.6 L323.3,625.9 L323.8,631.9 L318.8,647.1 L315.5,652.1 L308.4,657.0 L304.9,666.6 L305.6,683.6 L298.7,680.5 L265.2,677.3 L253.7,672.5 L246.4,666.1 L240.6,665.4 L232.3,668.5 L220.4,666.8 L210.6,663.6 L202.0,658.1 L186.8,640.6 L169.6,627.3 L167.8,624.5 L166.3,615.7 L159.5,606.0 L152.1,598.6 L151.2,595.4 L155.0,594.0 L160.4,594.5 L162.4,592.0 L164.4,584.9 L166.3,581.9 L176.4,579.3 L195.8,587.2 L205.4,582.8 L208.8,576.5 L208.5,570.3 L204.3,557.4 L204.9,549.6 L209.0,550.2 L212.0,554.5 L221.6,556.7 L226.7,556.5 L231.6,554.7 L237.5,548.0 L245.3,543.8 L250.3,534.4 L255.2,530.8 L256.8,526.9 L254.2,514.8 L255.4,505.7 L261.5,494.5 L266.0,490.0 L269.0,488.8 L276.7,488.9 L286.5,487.2 L301.2,491.1 L306.3,490.4 L316.2,487.5 L320.4,484.9 L325.1,476.1 L331.6,475.1 L344.0,476.4 L353.6,473.3 L360.7,468.3 L364.7,481.4 L362.5,485.2 L357.0,485.5 L348.2,490.0 L344.6,494.8 L342.8,505.5 L344.2,509.8 L349.5,513.4 L374.2,516.7 L381.1,518.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LS.QT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069867</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT18</fips>
+    <postal-code>QT</postal-code>
+    <name>Quthing</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>27.9441</longitude>
+    <woe-name>Quthing</woe-name>
+    <latitude>-30.3539</latitude>
+    <woe-label>Quthing, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ls-qt</hc-key>
+    <hc-a2>QT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.LE" d="M363.8,178.7 L354.2,176.0 L348.6,167.2 L343.7,161.0 L337.5,155.5 L331.8,153.2 L322.7,151.1 L320.0,149.2 L314.0,138.2 L301.5,125.6 L294.4,120.1 L288.2,118.3 L282.2,123.8 L277.9,133.3 L271.5,138.5 L263.2,151.1 L257.0,155.7 L252.1,155.4 L246.6,153.3 L239.7,148.7 L237.4,148.8 L226.6,155.8 L218.6,158.7 L207.7,166.0 L204.4,166.8 L197.2,164.6 L192.4,164.6 L184.8,168.0 L182.3,168.0 L181.2,161.9 L183.2,159.7 L185.2,162.0 L191.1,159.8 L185.1,152.8 L183.7,149.7 L191.9,146.9 L201.1,135.1 L204.7,135.3 L206.9,127.7 L207.3,120.5 L209.7,117.9 L217.3,113.9 L215.2,108.3 L248.1,110.8 L255.8,107.4 L262.8,93.0 L267.0,90.6 L272.4,91.3 L278.5,98.0 L281.8,99.7 L292.2,99.0 L293.7,91.9 L304.8,77.5 L317.7,63.9 L326.8,50.4 L333.6,41.6 L336.2,42.6 L351.9,41.2 L360.0,46.8 L361.3,51.3 L361.2,62.8 L362.4,70.0 L365.4,74.4 L372.8,76.0 L381.0,75.5 L384.8,76.8 L394.9,84.2 L405.5,89.1 L410.8,95.2 L415.5,98.1 L425.6,99.3 L429.5,101.3 L433.4,120.4 L433.6,127.2 L427.2,148.4 L427.8,156.4 L430.3,161.9 L434.9,164.3 L440.9,154.6 L443.5,151.8 L447.9,151.8 L460.7,156.9 L467.0,157.7 L473.7,156.7 L480.4,154.1 L485.5,150.3 L488.9,145.5 L491.5,132.4 L494.2,125.6 L502.2,113.6 L509.1,107.1 L516.8,105.2 L515.3,111.8 L511.8,121.1 L509.1,153.2 L504.7,164.8 L500.4,169.6 L476.2,191.2 L470.3,194.5 L464.7,195.8 L458.2,200.5 L453.7,205.5 L450.3,213.8 L449.0,225.6 L450.9,232.6 L458.9,243.4 L464.0,247.8 L465.5,250.6 L460.7,253.7 L452.1,254.3 L444.9,252.4 L430.7,244.3 L421.3,240.7 L407.2,237.2 L404.4,234.6 L397.5,220.0 L389.9,197.6 L385.6,187.5 L385.6,179.1 L380.5,175.4 L373.1,174.4 L366.9,175.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LS.LE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069863</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT12</fips>
+    <postal-code>LE</postal-code>
+    <name>Leribe</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.2108</longitude>
+    <woe-name>Leribe</woe-name>
+    <latitude>-28.8926</latitude>
+    <woe-label>Leribe, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>ls-le</hc-key>
+    <hc-a2>LE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.BB" d="M516.8,105.2 L509.1,107.1 L502.2,113.6 L494.2,125.6 L491.5,132.4 L488.9,145.5 L485.5,150.3 L480.4,154.1 L473.7,156.7 L467.0,157.7 L460.7,156.9 L447.9,151.8 L443.5,151.8 L440.9,154.6 L434.9,164.3 L430.3,161.9 L427.8,156.4 L427.2,148.4 L433.6,127.2 L433.4,120.4 L429.5,101.3 L425.6,99.3 L415.5,98.1 L410.8,95.2 L405.5,89.1 L394.9,84.2 L384.8,76.8 L381.0,75.5 L372.8,76.0 L365.4,74.4 L362.4,70.0 L361.2,62.8 L361.3,51.3 L360.0,46.8 L351.9,41.2 L355.5,40.9 L361.3,43.5 L368.0,44.3 L374.7,43.5 L380.6,41.3 L386.2,36.3 L394.2,22.9 L399.9,17.4 L405.8,15.0 L446.2,12.8 L451.9,11.5 L468.6,0.5 L472.9,0.0 L478.3,4.1 L482.1,8.8 L486.4,20.7 L488.3,34.2 L491.2,38.9 L504.1,39.4 L508.3,43.1 L516.5,59.1 L518.8,60.9 L528.1,62.8 L524.9,82.9 L525.0,90.0 L528.2,95.4 L528.1,98.0 L524.8,101.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LS.BB</hasc>
+    <alt-name>Butha Buthe</alt-name>
+    <woe-id>20069862</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT11</fips>
+    <postal-code>BB</postal-code>
+    <name>Butha-Buthe</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.5244</longitude>
+    <woe-name>Butha-Buthe</woe-name>
+    <latitude>-28.8328</latitude>
+    <woe-label>Butha-Buthe, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>ls-bb</hc-key>
+    <hc-a2>BB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.MK" d="M449.0,225.6 L450.3,213.8 L453.7,205.5 L458.2,200.5 L464.7,195.8 L470.3,194.5 L476.2,191.2 L500.4,169.6 L504.7,164.8 L509.1,153.2 L511.8,121.1 L515.3,111.8 L516.8,105.2 L524.8,101.8 L528.1,98.0 L528.2,95.4 L525.0,90.0 L524.9,82.9 L528.1,62.8 L536.9,67.3 L544.6,75.4 L555.9,96.1 L571.5,112.6 L575.7,112.4 L582.5,114.4 L588.6,117.4 L591.2,120.8 L591.2,127.2 L592.8,131.4 L596.6,134.1 L603.1,136.0 L612.9,140.7 L636.2,166.2 L645.7,169.3 L657.2,169.8 L665.9,173.7 L667.0,192.6 L678.5,204.6 L683.5,221.9 L691.3,232.9 L694.0,240.1 L694.2,249.5 L700.0,257.3 L698.8,262.1 L693.4,269.6 L692.8,279.5 L691.4,283.1 L685.6,288.4 L678.0,291.5 L669.4,294.0 L661.2,297.4 L655.0,303.5 L652.8,310.3 L652.6,317.4 L645.2,317.3 L636.5,323.4 L625.6,327.0 L620.1,332.0 L616.0,331.8 L610.1,326.3 L604.8,316.0 L597.2,310.3 L588.7,306.7 L579.7,303.9 L574.8,304.3 L567.9,307.1 L543.7,307.0 L530.7,302.7 L526.1,302.0 L513.3,302.7 L511.3,302.2 L509.6,296.7 L515.8,289.4 L518.1,277.8 L517.6,264.2 L518.2,257.4 L513.3,254.6 L502.2,253.1 L497.0,257.2 L490.9,250.5 L482.0,245.6 L481.0,243.1 L493.2,217.0 L494.3,209.2 L490.1,202.3 L484.9,205.0 L468.1,219.0 L460.5,223.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>LS.MK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069861</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT16</fips>
+    <postal-code>MK</postal-code>
+    <name>Mokhotlong</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.9988</longitude>
+    <woe-name>Mokhotlong</woe-name>
+    <latitude>-29.202</latitude>
+    <woe-label>Mokhotlong, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>ls-mk</hc-key>
+    <hc-a2>MK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.QN" d="M360.7,468.3 L371.1,463.0 L381.4,465.3 L384.5,468.5 L390.1,478.1 L402.2,470.7 L417.1,459.7 L420.8,454.5 L426.7,449.8 L436.6,446.0 L442.0,442.2 L443.4,434.4 L441.8,424.4 L444.3,410.2 L444.5,403.2 L440.4,395.4 L445.2,393.6 L451.8,393.7 L465.6,398.3 L476.3,405.6 L479.8,409.8 L480.7,415.2 L480.9,426.2 L485.0,429.9 L488.6,428.3 L494.7,421.8 L497.4,420.6 L505.6,422.0 L508.5,420.5 L510.8,416.5 L508.3,408.3 L517.3,407.6 L525.3,410.3 L540.6,423.1 L549.3,425.6 L555.2,425.0 L564.1,421.4 L568.7,416.6 L572.0,409.3 L574.6,389.2 L579.0,385.2 L584.9,386.7 L594.5,390.6 L600.4,391.3 L604.8,390.3 L604.3,397.6 L602.4,406.3 L602.1,414.1 L606.2,420.1 L609.8,423.0 L610.8,432.9 L614.5,442.5 L612.6,445.2 L598.1,450.4 L564.1,470.7 L530.5,492.0 L512.0,499.3 L493.0,503.0 L467.3,512.4 L457.6,512.2 L443.8,506.6 L439.1,506.0 L434.4,507.1 L421.9,514.4 L414.8,516.8 L401.1,514.6 L394.2,515.6 L388.5,520.5 L386.0,525.0 L381.1,518.0 L374.2,516.7 L349.5,513.4 L344.2,509.8 L342.8,505.5 L344.6,494.8 L348.2,490.0 L357.0,485.5 L362.5,485.2 L364.7,481.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LS.QN</hasc>
+    <alt-name>Quacha's Nek|Quachas Nek</alt-name>
+    <woe-id>20069866</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT17</fips>
+    <postal-code>QN</postal-code>
+    <name>Qacha's Nek</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.6768</longitude>
+    <woe-name>Qacha's Nek</woe-name>
+    <latitude>-29.9679</latitude>
+    <woe-label>Qacha's Nek, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>ls-qn</hc-key>
+    <hc-a2>QN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.TT" d="M449.0,225.6 L460.5,223.1 L468.1,219.0 L484.9,205.0 L490.1,202.3 L494.3,209.2 L493.2,217.0 L481.0,243.1 L482.0,245.6 L490.9,250.5 L497.0,257.2 L502.2,253.1 L513.3,254.6 L518.2,257.4 L517.6,264.2 L518.1,277.8 L515.8,289.4 L509.6,296.7 L511.3,302.2 L513.3,302.7 L526.1,302.0 L530.7,302.7 L543.7,307.0 L567.9,307.1 L574.8,304.3 L579.7,303.9 L588.7,306.7 L597.2,310.3 L604.8,316.0 L610.1,326.3 L616.0,331.8 L620.1,332.0 L625.6,327.0 L636.5,323.4 L645.2,317.3 L652.6,317.4 L654.3,326.6 L658.3,331.8 L653.6,334.9 L653.0,345.5 L649.7,349.5 L627.5,355.9 L619.0,362.3 L614.2,370.4 L610.4,379.7 L604.8,390.3 L600.4,391.3 L594.5,390.6 L584.9,386.7 L579.0,385.2 L574.6,389.2 L572.0,409.3 L568.7,416.6 L564.1,421.4 L555.2,425.0 L549.3,425.6 L540.6,423.1 L525.3,410.3 L517.3,407.6 L508.3,408.3 L510.8,416.5 L508.5,420.5 L505.6,422.0 L497.4,420.6 L494.7,421.8 L488.6,428.3 L485.0,429.9 L480.9,426.2 L480.7,415.2 L479.8,409.8 L476.3,405.6 L465.6,398.3 L451.8,393.7 L445.2,393.6 L440.4,395.4 L432.1,401.4 L429.3,405.1 L421.8,406.1 L415.3,408.2 L400.7,417.1 L395.6,418.6 L390.0,415.9 L383.0,418.5 L381.5,428.6 L371.7,430.1 L366.0,433.3 L361.0,423.6 L353.1,419.7 L348.6,397.2 L344.4,389.4 L351.7,380.7 L344.8,373.1 L338.7,372.3 L334.5,355.6 L334.6,349.3 L327.6,306.7 L323.5,301.7 L321.8,297.4 L316.8,292.5 L315.4,287.5 L316.3,276.4 L318.0,270.5 L321.0,266.0 L329.8,262.8 L345.5,248.5 L353.1,237.0 L365.8,227.7 L369.5,221.7 L369.5,216.6 L364.2,201.9 L360.0,194.7 L359.1,189.9 L363.8,178.7 L366.9,175.8 L373.1,174.4 L380.5,175.4 L385.6,179.1 L385.6,187.5 L389.9,197.6 L397.5,220.0 L404.4,234.6 L407.2,237.2 L421.3,240.7 L430.7,244.3 L444.9,252.4 L452.1,254.3 L460.7,253.7 L465.5,250.6 L464.0,247.8 L458.9,243.4 L450.9,232.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LS.TT</hasc>
+    <alt-name>Thaba Tseka</alt-name>
+    <woe-id>20069864</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT19</fips>
+    <postal-code>TT</postal-code>
+    <name>Thaba-Tseka</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.6979</longitude>
+    <woe-name>Thaba-Tseka</woe-name>
+    <latitude>-29.6029</latitude>
+    <woe-label>Thaba-Tseka, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>ls-tt</hc-key>
+    <hc-a2>TT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS.MF" d="M338.7,372.3 L344.8,373.1 L351.7,380.7 L344.4,389.4 L348.6,397.2 L353.1,419.7 L361.0,423.6 L366.0,433.3 L371.5,441.9 L373.8,448.3 L368.1,455.2 L359.8,448.1 L355.7,442.8 L348.3,438.4 L333.9,436.6 L322.2,436.0 L321.4,423.7 L326.6,421.1 L332.6,421.1 L329.0,407.7 L331.9,401.3 L328.6,400.2 L322.6,401.8 L314.7,401.2 L314.7,398.0 L312.0,385.6 L307.9,378.1 L302.3,374.9 L304.7,371.7 L311.7,369.6 L327.1,370.3 Z M307.7,436.1 L301.7,439.5 L301.2,447.0 L289.6,443.7 L282.1,438.8 L267.7,438.7 L263.1,433.3 L258.0,430.1 L254.7,434.3 L253.7,442.3 L251.8,447.1 L243.5,435.8 L238.4,435.3 L239.8,442.2 L238.8,446.5 L234.1,451.8 L228.0,453.4 L221.5,449.6 L216.9,445.3 L211.3,448.5 L208.9,453.8 L199.9,455.0 L193.9,458.3 L188.3,456.4 L180.7,445.7 L174.6,443.7 L164.8,444.0 L159.3,440.1 L156.5,448.3 L151.2,452.8 L148.6,458.5 L136.7,470.4 L132.0,477.2 L127.4,479.3 L123.7,479.0 L117.6,473.1 L109.4,466.8 L105.0,454.1 L104.4,443.8 L106.0,434.8 L111.0,421.2 L109.8,417.3 L102.9,417.4 L96.6,422.8 L88.3,424.1 L83.0,422.0 L72.8,428.9 L53.1,438.3 L48.4,440.1 L24.8,383.9 L22.3,378.9 L14.0,366.3 L10.2,363.0 L0.0,356.4 L3.5,348.3 L3.6,343.0 L5.8,339.9 L8.8,339.9 L11.5,343.8 L15.7,336.0 L20.0,334.6 L21.7,338.3 L25.3,338.4 L34.6,328.6 L44.2,324.3 L52.7,323.4 L60.7,319.5 L68.8,317.9 L74.9,315.3 L85.6,308.5 L92.4,310.1 L99.0,309.7 L102.2,312.0 L105.2,323.2 L111.9,336.1 L119.1,344.4 L121.2,353.4 L124.5,356.9 L133.8,358.5 L141.4,356.4 L144.3,354.4 L149.2,348.2 L152.3,347.5 L152.8,357.6 L157.3,364.1 L164.0,365.8 L173.1,365.6 L179.0,368.5 L192.8,391.4 L191.5,399.9 L186.5,405.4 L190.1,409.3 L214.1,406.0 L225.3,406.2 L231.4,408.3 L268.3,415.7 L274.7,418.8 L280.9,423.6 L285.4,425.0 L298.3,426.9 L301.8,428.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LS.MF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069869</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LT13</fips>
+    <postal-code>MF</postal-code>
+    <name>Mafeteng</name>
+    <country>Lesotho</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>28.1834</longitude>
+    <woe-name>Mafeteng</woe-name>
+    <latitude>-29.8081</latitude>
+    <woe-label>Mafeteng, LS, Lesotho</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>ls-mf</hc-key>
+    <hc-a2>MF</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

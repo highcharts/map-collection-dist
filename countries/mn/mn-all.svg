@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Mongolia</title>
+<g id="admin1">
+
+<g id="MN">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mongolia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mong.</country-abbrev>
+    <subregion>Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>MNG</iso-a3>
+    <iso-a2>MN</iso-a2>
+    <woe-id>23424887</woe-id>
+    <continent>Asia</continent>
+    <hc-key>mn</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.DA" d="M404.5,74.6 L406.2,74.5 L408.3,72.4 L413.0,74.1 L414.7,76.2 L414.2,82.0 L414.6,85.8 L410.3,87.0 L405.0,84.2 L402.0,84.8 L398.7,86.7 L393.1,85.8 L393.9,83.0 L395.0,75.6 L393.6,71.6 L398.4,66.7 L400.2,66.2 L400.3,68.5 L398.1,72.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.DA</hasc>
+    <alt-name>Darchan|Darhan|Darkhan|Darkhan-Uul|Darchan-Uul</alt-name>
+    <woe-id>20070014</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG05</fips>
+    <postal-code>DA</postal-code>
+    <name>Darhan-Uul</name>
+    <country>Mongolia</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>106.306</longitude>
+    <woe-name>Darhan-Uul</woe-name>
+    <latitude>49.3586</latitude>
+    <woe-label>Darhan, MN, Mongolia</woe-label>
+    <type>Hot</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>mn-da</hc-key>
+    <hc-a2>DA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.UB" d="M415.9,112.5 L421.2,111.3 L426.7,118.0 L431.5,119.8 L430.1,127.0 L425.0,127.3 L421.4,125.2 L417.5,124.7 L411.7,125.4 L408.6,124.4 L408.1,121.1 L406.6,118.3 L406.4,114.6 L405.0,110.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MN.UB</hasc>
+    <alt-name>Oulan-Bator|Ulan Bator|Ulan Bator Choto</alt-name>
+    <woe-id>20070016</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG20</fips>
+    <postal-code>UB</postal-code>
+    <name>Ulaanbaatar</name>
+    <country>Mongolia</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>106.967</longitude>
+    <woe-name>Ulaanbaatar</woe-name>
+    <latitude>47.9597</latitude>
+    <woe-label>Ulaanbaatar, MN, Mongolia</woe-label>
+    <type>Hot</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>mn-ub</hc-key>
+    <hc-a2>UB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.HG" d="M203.1,66.7 L204.6,68.3 L207.8,69.0 L213.8,65.6 L213.6,63.6 L217.2,62.4 L219.3,63.4 L225.3,59.4 L228.8,53.2 L229.4,46.5 L223.5,42.9 L221.8,39.1 L222.8,37.4 L219.5,34.4 L218.8,32.6 L221.5,26.5 L221.2,24.0 L224.1,19.2 L227.8,19.0 L228.0,15.8 L230.3,11.9 L236.5,10.1 L238.5,8.2 L242.3,0.0 L244.7,2.0 L249.9,3.9 L251.9,5.7 L259.6,7.0 L264.8,11.0 L266.7,11.5 L277.7,11.7 L296.8,19.7 L298.9,19.0 L304.5,19.8 L311.3,21.6 L314.1,23.3 L313.1,25.7 L313.3,29.9 L315.1,33.3 L314.9,38.4 L317.3,40.7 L316.1,42.7 L317.3,45.7 L320.4,46.3 L323.6,49.9 L319.2,52.7 L318.0,56.0 L312.4,62.3 L313.1,63.9 L322.3,67.2 L327.2,70.0 L324.7,71.5 L321.9,71.4 L319.5,75.2 L316.3,77.3 L309.7,79.0 L305.9,82.4 L303.1,84.0 L302.6,89.5 L295.8,90.1 L290.0,86.7 L282.7,83.3 L279.4,87.3 L276.0,89.1 L278.7,91.6 L275.6,93.1 L273.8,98.3 L276.5,101.8 L271.6,103.3 L270.7,105.9 L268.0,106.0 L263.9,104.0 L260.9,104.4 L260.0,108.3 L254.4,109.1 L252.5,108.4 L250.6,110.0 L246.9,108.0 L245.2,99.7 L248.2,93.5 L246.0,85.1 L239.2,85.7 L237.0,89.0 L234.4,89.9 L230.1,88.1 L225.0,87.9 L220.7,88.4 L212.9,83.8 L206.5,83.5 L203.6,82.5 L198.5,78.2 L198.1,76.0 L200.2,72.6 L204.5,69.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.HG</hasc>
+    <alt-name>Chövsgöl|Chuwsgul|Hobsgol|Höbsögöl|Hubsugul|Khubsugal|Khubsugud|Khubsugul|Kossogol</alt-name>
+    <woe-id>2346167</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG13</fips>
+    <postal-code>HG</postal-code>
+    <name>Hövsgöl</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>99.8205</longitude>
+    <woe-name>Hövsgöl</woe-name>
+    <latitude>50.1456</latitude>
+    <woe-label>Hovsgol, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mn-hg</hc-key>
+    <hc-a2>HG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.UV" d="M48.8,61.1 L50.0,58.8 L53.7,58.0 L59.2,55.1 L63.7,55.1 L64.5,53.2 L67.1,52.1 L70.9,49.1 L76.3,47.9 L79.7,48.1 L81.0,46.0 L83.2,45.2 L86.9,41.7 L90.2,41.1 L95.9,41.6 L97.7,40.7 L99.0,37.2 L100.8,36.5 L102.0,38.8 L106.5,42.0 L108.9,39.2 L113.3,39.0 L114.4,43.5 L116.5,44.2 L123.3,43.9 L125.8,44.6 L141.1,45.1 L143.1,49.7 L143.4,54.1 L146.6,56.9 L149.5,60.8 L156.0,59.9 L159.4,62.8 L165.4,62.7 L168.1,64.2 L167.5,70.8 L169.4,76.0 L171.9,77.4 L172.7,80.8 L170.8,84.0 L170.2,91.0 L169.1,93.4 L165.7,93.9 L159.8,97.2 L153.2,98.2 L145.9,97.1 L138.8,95.0 L129.7,99.0 L125.4,103.3 L124.1,106.3 L119.7,103.5 L118.3,100.2 L115.8,98.9 L113.2,99.0 L109.1,101.8 L98.8,99.7 L96.9,100.5 L94.2,96.2 L91.9,96.1 L90.4,91.3 L86.7,90.5 L83.9,92.2 L80.4,96.6 L78.2,97.8 L77.4,93.6 L74.9,90.8 L72.5,89.8 L68.7,83.4 L68.3,81.0 L63.7,80.3 L62.7,77.4 L55.4,73.2 L52.6,68.0 L51.0,62.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.UV</hasc>
+    <alt-name>Ubs|Ubsa Nor|Ubsa Nur|Ubsu Hur|Upsanol|Uws</alt-name>
+    <woe-id>2346173</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG19</fips>
+    <postal-code>UV</postal-code>
+    <name>Uvs</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>92.84310000000001</longitude>
+    <woe-name>Uvs</woe-name>
+    <latitude>49.6911</latitude>
+    <woe-label>Uvs, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>mn-uv</hc-key>
+    <hc-a2>UV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.DG" d="M527.6,196.9 L522.2,200.1 L518.1,207.5 L518.0,209.9 L515.0,214.9 L514.7,216.7 L516.8,218.4 L517.4,220.9 L519.9,224.2 L524.4,227.6 L526.7,231.6 L526.4,234.0 L522.5,234.9 L519.1,238.6 L508.2,242.8 L504.7,244.8 L499.1,250.9 L497.6,253.9 L494.1,256.7 L493.2,258.5 L486.0,261.8 L482.4,262.2 L477.1,264.3 L473.1,266.9 L468.1,267.5 L462.4,266.9 L458.1,268.2 L452.5,267.3 L441.9,267.2 L441.2,254.6 L441.9,250.4 L440.8,243.3 L440.3,233.7 L435.7,221.5 L433.8,218.0 L434.4,212.3 L436.2,210.3 L437.2,204.9 L438.1,204.2 L447.5,203.2 L449.6,202.1 L451.3,199.4 L454.2,198.6 L452.3,187.6 L451.8,182.1 L452.5,177.3 L453.7,174.1 L449.9,174.9 L447.2,171.2 L447.9,164.5 L447.1,161.8 L442.4,156.6 L445.4,153.9 L441.2,153.4 L439.8,151.1 L443.3,150.1 L451.2,151.0 L456.3,148.8 L458.8,144.6 L461.5,145.7 L462.6,149.9 L464.1,148.4 L465.2,151.2 L462.6,158.2 L467.9,165.4 L471.1,167.4 L478.7,167.1 L484.1,163.8 L485.9,158.7 L485.5,155.0 L487.7,155.0 L494.2,161.7 L496.4,165.7 L502.8,169.7 L505.5,170.2 L511.1,166.0 L519.2,169.2 L522.1,174.9 L522.9,177.5 L522.5,185.6 L524.3,187.0 L524.8,189.3 L527.3,191.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.DG</hasc>
+    <alt-name>Dornogobi|Dornogov'|Dorono Gobi|East Gobi|Dornogow'|Ostgobi|G¢bi Oriental</alt-name>
+    <woe-id>2346161</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG07</fips>
+    <postal-code>DG</postal-code>
+    <name>Dornogovi</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>109.825</longitude>
+    <woe-name>Dornogovi</woe-name>
+    <latitude>44.4088</latitude>
+    <woe-label>Dornogovi, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>mn-dg</hc-key>
+    <hc-a2>DG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.OG" d="M434.4,212.3 L433.8,218.0 L435.7,221.5 L440.3,233.7 L440.8,243.3 L441.9,250.4 L441.2,254.6 L441.9,267.2 L414.0,271.1 L394.4,278.8 L379.8,285.3 L375.8,289.1 L373.1,287.9 L366.8,287.9 L364.5,287.3 L364.6,282.0 L347.6,285.0 L333.5,278.5 L310.9,273.8 L307.7,271.4 L304.4,266.6 L302.2,265.2 L297.3,264.4 L293.1,264.8 L267.0,260.9 L258.4,263.0 L256.1,247.1 L255.1,225.1 L255.4,222.9 L262.0,221.4 L266.6,224.6 L272.2,230.4 L292.4,230.7 L294.0,230.3 L304.8,224.5 L312.8,222.0 L323.8,221.3 L331.9,221.9 L330.4,217.5 L337.6,203.5 L345.8,198.9 L348.7,194.2 L355.9,194.3 L356.4,195.1 L356.1,201.2 L358.1,203.8 L369.4,205.6 L384.6,207.0 L386.3,207.5 L390.5,213.7 L392.1,217.8 L397.8,220.7 L406.6,219.5 L412.6,216.5 L425.1,212.8 L428.3,213.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.OG</hasc>
+    <alt-name>Góbi do Sul|Ömnögov'|Ömönö Gobi|South Gobi|Umnu|Ömnögow'|Südgobi</alt-name>
+    <woe-id>2346168</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG14</fips>
+    <postal-code>OG</postal-code>
+    <name>Ömnögovi</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>103.762</longitude>
+    <woe-name>Ömnögovi</woe-name>
+    <latitude>43.4636</latitude>
+    <woe-label>Omnogov, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mn-og</hc-key>
+    <hc-a2>OG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.HN" d="M511.1,166.0 L505.5,170.2 L502.8,169.7 L496.4,165.7 L494.2,161.7 L487.7,155.0 L485.5,155.0 L485.9,158.7 L484.1,163.8 L478.7,167.1 L471.1,167.4 L467.9,165.4 L462.6,158.2 L465.2,151.2 L464.1,148.4 L462.6,149.9 L461.5,145.7 L458.8,144.6 L455.9,142.3 L452.6,135.1 L449.5,131.3 L450.1,129.6 L449.8,127.6 L451.5,124.0 L451.3,119.8 L454.4,119.0 L459.8,115.4 L463.3,109.1 L463.3,107.7 L459.4,94.6 L456.9,90.2 L452.1,86.0 L452.5,83.1 L453.2,80.3 L461.1,79.6 L466.1,79.7 L472.6,81.0 L473.8,82.3 L478.4,82.0 L480.4,83.1 L488.3,84.9 L492.4,82.7 L497.5,85.4 L500.3,85.6 L505.4,83.6 L513.5,79.2 L517.1,79.7 L520.5,78.3 L528.5,77.9 L530.6,77.1 L532.4,79.4 L531.6,80.4 L533.3,88.9 L532.5,90.9 L538.0,100.3 L540.0,105.8 L539.1,110.5 L539.6,115.2 L541.9,119.1 L542.9,122.6 L532.5,125.6 L530.4,127.1 L529.3,130.7 L529.9,134.4 L524.5,133.8 L521.2,135.3 L517.6,140.1 L516.3,147.1 L512.8,152.8 L511.8,157.0 L513.0,161.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.HN</hasc>
+    <alt-name>Chentii|Chentij|Hentey|Hentii|Kentai|Kentei|Khentei|Khenti</alt-name>
+    <woe-id>2346165</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG11</fips>
+    <postal-code>HN</postal-code>
+    <name>Hentiy</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>110.542</longitude>
+    <woe-name>Hentiy</woe-name>
+    <latitude>47.7116</latitude>
+    <woe-label>Hentiy, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mn-hn</hc-key>
+    <hc-a2>HN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.BH" d="M258.4,263.0 L255.1,263.9 L219.8,259.7 L218.6,245.9 L221.6,237.4 L221.6,233.4 L222.6,226.1 L221.8,218.5 L222.3,215.1 L226.9,212.4 L228.3,208.8 L227.9,202.5 L228.5,199.6 L230.6,197.1 L233.1,189.6 L233.5,187.1 L232.2,179.5 L231.3,176.7 L226.3,170.8 L223.1,169.8 L216.7,163.7 L215.2,159.9 L215.2,155.8 L216.2,151.7 L220.3,139.6 L226.4,138.4 L229.1,134.2 L228.8,132.5 L231.5,128.5 L231.6,127.0 L233.8,125.5 L237.8,124.7 L239.5,125.6 L240.7,129.5 L245.1,131.8 L250.2,131.5 L252.8,129.6 L259.0,126.7 L259.5,130.4 L262.7,133.1 L262.9,138.1 L264.6,142.3 L274.2,139.9 L277.7,145.3 L279.5,145.8 L282.1,149.3 L292.3,148.6 L294.1,149.9 L299.7,156.0 L300.5,160.4 L298.2,163.3 L299.2,165.1 L298.7,168.9 L296.3,170.0 L294.7,172.7 L295.1,178.4 L293.4,185.1 L290.8,188.1 L291.4,195.2 L292.4,198.5 L296.1,200.0 L300.7,203.2 L299.3,206.6 L301.2,211.9 L304.8,224.5 L294.0,230.3 L292.4,230.7 L272.2,230.4 L266.6,224.6 L262.0,221.4 L255.4,222.9 L255.1,225.1 L256.1,247.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>MN.BH</hasc>
+    <alt-name>Bajan-Chongor|Bayan Khangor|Bayan Khongor</alt-name>
+    <woe-id>2346158</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG02</fips>
+    <postal-code>BH</postal-code>
+    <name>Bayanhongor</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>99.6955</longitude>
+    <woe-name>Bayanhongor</woe-name>
+    <latitude>45.8317</latitude>
+    <woe-label>Bayanhongor, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>mn-bh</hc-key>
+    <hc-a2>BH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.AR" d="M246.9,108.0 L250.6,110.0 L252.5,108.4 L254.4,109.1 L260.0,108.3 L260.9,104.4 L263.9,104.0 L268.0,106.0 L270.7,105.9 L271.6,103.3 L276.5,101.8 L273.8,98.3 L275.6,93.1 L278.7,91.6 L276.0,89.1 L279.4,87.3 L282.7,83.3 L290.0,86.7 L295.8,90.1 L302.6,89.5 L304.9,92.6 L307.5,93.4 L309.3,95.5 L313.0,94.8 L314.5,98.5 L315.3,104.0 L317.9,106.6 L318.2,108.1 L320.6,110.0 L323.9,110.4 L327.7,115.2 L328.5,119.3 L332.2,121.7 L333.9,125.0 L335.9,125.3 L340.6,131.3 L346.3,135.7 L346.7,138.1 L343.3,139.6 L336.1,139.3 L332.6,135.3 L324.4,133.1 L324.0,134.3 L326.1,137.1 L323.9,140.9 L322.2,141.8 L321.3,145.7 L320.1,146.1 L316.0,143.4 L308.9,145.5 L305.8,147.7 L294.1,149.9 L292.3,148.6 L282.1,149.3 L279.5,145.8 L277.7,145.3 L274.2,139.9 L264.6,142.3 L262.9,138.1 L262.7,133.1 L259.5,130.4 L259.0,126.7 L252.8,129.6 L250.2,131.5 L245.1,131.8 L240.7,129.5 L239.5,125.6 L237.8,124.7 L233.8,125.5 L231.6,127.0 L227.1,126.2 L227.8,120.6 L226.6,117.3 L227.8,115.1 L233.6,114.6 L237.6,111.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.AR</hasc>
+    <alt-name>Alahangai|Ara Hangay|Ara-Khangai|Archangaj|Arkhangai|North Hangay|North Khangai|Archangai</alt-name>
+    <woe-id>2346157</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG01</fips>
+    <postal-code>AR</postal-code>
+    <name>Arhangay</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>100.92</longitude>
+    <woe-name>Arhangay</woe-name>
+    <latitude>48.0061</latitude>
+    <woe-label>Arhangay, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>mn-ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.DZ" d="M246.9,108.0 L237.6,111.6 L233.6,114.6 L227.8,115.1 L226.6,117.3 L227.8,120.6 L227.1,126.2 L231.6,127.0 L231.5,128.5 L228.8,132.5 L229.1,134.2 L226.4,138.4 L220.3,139.6 L216.2,151.7 L215.2,155.8 L210.8,153.9 L206.8,156.2 L201.0,155.6 L200.6,153.6 L198.5,151.2 L197.7,147.9 L194.3,146.6 L188.6,148.1 L186.4,142.8 L183.7,138.3 L168.0,129.2 L162.4,128.9 L160.1,129.5 L157.7,126.6 L155.2,125.8 L149.9,126.3 L143.0,125.1 L137.7,123.6 L130.1,127.0 L124.8,127.6 L120.2,121.6 L118.3,114.9 L121.0,113.2 L124.7,109.4 L124.1,106.3 L125.4,103.3 L129.7,99.0 L138.8,95.0 L145.9,97.1 L153.2,98.2 L159.8,97.2 L165.7,93.9 L169.1,93.4 L170.2,91.0 L170.8,84.0 L172.7,80.8 L171.9,77.4 L169.4,76.0 L167.5,70.8 L168.1,64.2 L176.6,60.8 L178.3,63.0 L180.4,61.3 L184.6,62.7 L187.6,64.5 L189.8,63.5 L191.9,65.1 L194.8,63.7 L200.6,64.4 L203.1,66.7 L204.5,69.3 L200.2,72.6 L198.1,76.0 L198.5,78.2 L203.6,82.5 L206.5,83.5 L212.9,83.8 L220.7,88.4 L225.0,87.9 L230.1,88.1 L234.4,89.9 L237.0,89.0 L239.2,85.7 L246.0,85.1 L248.2,93.5 L245.2,99.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.DZ</hasc>
+    <alt-name>Dsawchan|Dzabhan|Dzabkhan|Dzavchan|Psapchyn|Zavhan|Zavkhan</alt-name>
+    <woe-id>2346163</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG09</fips>
+    <postal-code>DZ</postal-code>
+    <name>Dzavhan</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>96.1728</longitude>
+    <woe-name>Dzavhan</woe-name>
+    <latitude>48.615</latitude>
+    <woe-label>Dzavhan, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>mn-dz</hc-key>
+    <hc-a2>DZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.GA" d="M219.8,259.7 L205.5,258.0 L189.8,259.5 L187.1,259.2 L185.9,254.2 L177.5,246.8 L175.9,241.6 L172.8,235.8 L170.5,229.4 L168.8,226.5 L164.8,225.8 L164.7,222.0 L166.0,218.3 L158.5,219.2 L151.1,216.8 L148.7,214.3 L143.3,212.3 L140.2,208.5 L134.4,208.0 L129.7,202.6 L125.6,200.6 L115.8,199.1 L117.1,187.2 L116.6,181.2 L117.7,179.2 L120.2,177.9 L123.1,174.3 L123.0,171.9 L128.0,161.9 L126.1,156.4 L131.2,156.3 L133.6,154.3 L140.0,151.5 L141.7,148.7 L137.8,142.8 L136.7,138.3 L132.2,136.0 L125.9,131.1 L124.8,127.6 L130.1,127.0 L137.7,123.6 L143.0,125.1 L149.9,126.3 L155.2,125.8 L157.7,126.6 L160.1,129.5 L162.4,128.9 L168.0,129.2 L183.7,138.3 L186.4,142.8 L188.6,148.1 L194.3,146.6 L197.7,147.9 L198.5,151.2 L200.6,153.6 L201.0,155.6 L206.8,156.2 L210.8,153.9 L215.2,155.8 L215.2,159.9 L216.7,163.7 L223.1,169.8 L226.3,170.8 L231.3,176.7 L232.2,179.5 L233.5,187.1 L233.1,189.6 L230.6,197.1 L228.5,199.6 L227.9,202.5 L228.3,208.8 L226.9,212.4 L222.3,215.1 L221.8,218.5 L222.6,226.1 L221.6,233.4 L221.6,237.4 L218.6,245.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.GA</hasc>
+    <alt-name>Gobi-Altai|Gobi Altay|Gov'altaj|Gov'altay|Govyaltaj|Gow'altai</alt-name>
+    <woe-id>2346164</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG10</fips>
+    <postal-code>GA</postal-code>
+    <name>Govi-Altay</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>95.77760000000001</longitude>
+    <woe-name>Govi-Altay</woe-name>
+    <latitude>45.4627</latitude>
+    <woe-label>Govi-Altay, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>mn-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.HD" d="M124.1,106.3 L124.7,109.4 L121.0,113.2 L118.3,114.9 L120.2,121.6 L124.8,127.6 L125.9,131.1 L132.2,136.0 L136.7,138.3 L137.8,142.8 L141.7,148.7 L140.0,151.5 L133.6,154.3 L131.2,156.3 L126.1,156.4 L128.0,161.9 L123.0,171.9 L123.1,174.3 L120.2,177.9 L117.7,179.2 L116.6,181.2 L117.1,187.2 L115.8,199.1 L108.8,198.2 L102.7,199.3 L96.6,198.9 L92.6,197.2 L85.1,197.6 L82.0,197.2 L80.5,195.5 L76.0,195.8 L73.6,193.9 L70.1,193.5 L67.9,194.2 L64.9,187.3 L63.0,186.0 L64.3,179.0 L70.7,171.6 L70.5,169.2 L68.4,164.0 L71.7,156.8 L70.9,153.4 L76.5,154.3 L79.7,157.0 L81.3,155.0 L88.9,155.3 L90.0,153.5 L84.5,148.8 L80.2,146.4 L79.5,144.4 L80.8,140.1 L76.4,135.1 L76.1,130.7 L72.8,124.2 L69.8,116.5 L67.2,114.2 L66.1,108.7 L67.2,106.3 L66.4,103.2 L63.9,100.8 L66.2,100.4 L72.7,97.8 L78.2,97.8 L80.4,96.6 L83.9,92.2 L86.7,90.5 L90.4,91.3 L91.9,96.1 L94.2,96.2 L96.9,100.5 L98.8,99.7 L109.1,101.8 L113.2,99.0 L115.8,98.9 L118.3,100.2 L119.7,103.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.HD</hasc>
+    <alt-name>Chovd|Hobdo|Khobdo|Khovd|Kobdo|Chowd</alt-name>
+    <woe-id>2346166</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG00</fips>
+    <postal-code>HD</postal-code>
+    <name>Hovd</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>92.4584</longitude>
+    <woe-name>Hovd</woe-name>
+    <latitude>46.8037</latitude>
+    <woe-label>Hovd, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>mn-hd</hc-key>
+    <hc-a2>HD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.BO" d="M78.2,97.8 L72.7,97.8 L66.2,100.4 L63.9,100.8 L66.4,103.2 L67.2,106.3 L66.1,108.7 L67.2,114.2 L69.8,116.5 L72.8,124.2 L76.1,130.7 L76.4,135.1 L80.8,140.1 L79.5,144.4 L80.2,146.4 L84.5,148.8 L90.0,153.5 L88.9,155.3 L81.3,155.0 L79.7,157.0 L76.5,154.3 L70.9,153.4 L69.0,150.1 L69.2,148.4 L66.9,145.4 L64.3,144.5 L59.0,136.5 L58.5,131.4 L56.0,127.8 L56.4,126.8 L50.6,124.1 L49.8,120.7 L48.0,120.4 L46.4,122.2 L43.4,122.2 L38.9,116.5 L34.3,116.5 L32.4,117.9 L28.1,117.6 L25.6,114.7 L22.8,114.4 L17.9,111.5 L17.6,107.8 L14.4,106.4 L10.4,103.6 L5.7,102.3 L4.0,100.7 L6.7,98.3 L4.8,96.3 L1.1,95.0 L0.0,91.7 L2.5,90.4 L1.4,88.6 L1.3,84.8 L4.4,84.7 L8.4,81.8 L7.8,79.4 L9.1,77.0 L19.1,75.6 L20.4,76.9 L24.3,77.2 L24.0,74.6 L26.3,76.5 L30.6,75.3 L31.8,71.6 L35.2,73.1 L36.7,71.3 L41.9,69.5 L40.7,67.2 L40.7,64.0 L45.9,62.9 L48.8,61.1 L51.0,62.5 L52.6,68.0 L55.4,73.2 L62.7,77.4 L63.7,80.3 L68.3,81.0 L68.7,83.4 L72.5,89.8 L74.9,90.8 L77.4,93.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>MN.BO</hasc>
+    <alt-name>Bajan-Ölgij|Bayan Ölögey|Bayan-Ulegei|Bayanulgee|Bayan-Ulgii|Bajan-Ulegei</alt-name>
+    <woe-id>2346159</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG03</fips>
+    <postal-code>BO</postal-code>
+    <name>Bayan-Ölgiy</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>89.81270000000001</longitude>
+    <woe-name>Bayan-Ölgiy</woe-name>
+    <latitude>48.8811</latitude>
+    <woe-label>Bayan-Olgiy, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>mn-bo</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.BU" d="M346.7,138.1 L346.3,135.7 L340.6,131.3 L335.9,125.3 L333.9,125.0 L332.2,121.7 L328.5,119.3 L327.7,115.2 L323.9,110.4 L320.6,110.0 L318.2,108.1 L317.9,106.6 L315.3,104.0 L314.5,98.5 L313.0,94.8 L309.3,95.5 L307.5,93.4 L304.9,92.6 L302.6,89.5 L303.1,84.0 L305.9,82.4 L309.7,79.0 L316.3,77.3 L319.5,75.2 L321.9,71.4 L324.7,71.5 L327.2,70.0 L322.3,67.2 L313.1,63.9 L312.4,62.3 L318.0,56.0 L319.2,52.7 L323.6,49.9 L326.7,50.6 L331.4,52.8 L336.3,52.8 L337.4,55.1 L340.8,55.6 L346.5,57.5 L349.0,55.9 L353.1,57.0 L358.0,56.4 L361.3,53.5 L365.1,57.0 L367.1,61.0 L364.9,61.7 L365.3,65.3 L369.7,70.1 L368.3,71.3 L367.7,77.3 L366.6,79.2 L365.0,86.5 L361.1,86.1 L359.9,87.2 L355.9,86.0 L353.7,88.3 L353.7,89.8 L359.0,91.0 L361.9,92.3 L365.5,95.3 L365.2,99.9 L365.3,105.7 L362.4,109.1 L360.0,113.4 L361.9,115.6 L362.3,117.7 L364.5,118.6 L369.0,118.9 L368.9,122.4 L370.2,126.7 L365.2,127.0 L364.3,128.4 L360.9,128.6 L355.2,132.1 L357.2,134.8 L356.9,136.8 L352.6,137.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.BU</hasc>
+    <alt-name>Bulagan</alt-name>
+    <woe-id>2346174</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG21</fips>
+    <postal-code>BU</postal-code>
+    <name>Bulgan</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>103.196</longitude>
+    <woe-name>Bulgan</woe-name>
+    <latitude>49.0014</latitude>
+    <woe-label>Bulgan, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>mn-bu</hc-key>
+    <hc-a2>BU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.ER" d="M361.9,92.3 L359.0,91.0 L353.7,89.8 L353.7,88.3 L355.9,86.0 L359.9,87.2 L361.1,86.1 L365.0,86.5 L366.0,89.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.ER</hasc>
+    <alt-name>Erdenet|Orkhon</alt-name>
+    <woe-id>20070015</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG22</fips>
+    <postal-code>ER</postal-code>
+    <name>Orhon</name>
+    <country>Mongolia</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>104.286</longitude>
+    <woe-name>Orhon</woe-name>
+    <latitude>49.0077</latitude>
+    <woe-label>Erdenet, MN, Mongolia</woe-label>
+    <type>Hot</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>mn-er</hc-key>
+    <hc-a2>ER</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.SL" d="M365.2,99.9 L365.5,95.3 L361.9,92.3 L366.0,89.5 L365.0,86.5 L366.6,79.2 L367.7,77.3 L368.3,71.3 L369.7,70.1 L365.3,65.3 L364.9,61.7 L367.1,61.0 L365.1,57.0 L361.3,53.5 L364.0,52.3 L367.0,52.3 L374.0,50.0 L378.3,49.9 L382.6,47.7 L389.4,49.2 L392.4,49.0 L396.9,49.8 L398.5,51.7 L402.6,53.0 L406.8,51.9 L411.5,51.9 L414.4,52.9 L418.4,55.6 L420.1,58.8 L423.9,61.3 L426.9,61.9 L434.9,62.0 L439.6,63.1 L439.5,70.8 L441.5,72.9 L446.2,74.7 L448.1,77.2 L453.2,80.3 L452.5,83.1 L452.1,86.0 L448.1,86.2 L442.7,89.2 L438.8,87.4 L433.7,87.9 L430.6,90.1 L435.0,95.2 L432.9,99.7 L430.9,99.8 L424.5,101.8 L420.7,100.2 L416.3,100.7 L412.4,103.0 L409.7,102.6 L401.0,98.2 L398.7,99.3 L397.0,98.2 L397.7,94.9 L393.6,93.2 L387.7,94.7 L385.2,96.3 L386.2,99.4 L380.9,101.8 L375.8,103.3 Z M404.5,74.6 L398.1,72.1 L400.3,68.5 L400.2,66.2 L398.4,66.7 L393.6,71.6 L395.0,75.6 L393.9,83.0 L393.1,85.8 L398.7,86.7 L402.0,84.8 L405.0,84.2 L410.3,87.0 L414.6,85.8 L414.2,82.0 L414.7,76.2 L413.0,74.1 L408.3,72.4 L406.2,74.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.SL</hasc>
+    <alt-name>Selenga</alt-name>
+    <woe-id>2346170</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG16</fips>
+    <postal-code>SL</postal-code>
+    <name>Selenge</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>106.46</longitude>
+    <woe-name>Selenge</woe-name>
+    <latitude>48.8536</latitude>
+    <woe-label>Selenge, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.22</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>mn-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.OH" d="M346.7,138.1 L352.6,137.7 L356.9,136.8 L357.8,141.2 L360.8,143.8 L361.2,147.5 L358.8,149.0 L362.2,154.4 L363.1,158.4 L366.8,160.8 L365.2,164.9 L362.8,167.9 L357.3,169.5 L356.0,177.6 L355.0,179.2 L348.7,179.9 L345.5,182.5 L345.4,185.3 L349.6,190.3 L348.7,194.2 L345.8,198.9 L337.6,203.5 L330.4,217.5 L331.9,221.9 L323.8,221.3 L312.8,222.0 L304.8,224.5 L301.2,211.9 L299.3,206.6 L300.7,203.2 L296.1,200.0 L292.4,198.5 L291.4,195.2 L290.8,188.1 L293.4,185.1 L295.1,178.4 L294.7,172.7 L296.3,170.0 L298.7,168.9 L299.2,165.1 L298.2,163.3 L300.5,160.4 L299.7,156.0 L294.1,149.9 L305.8,147.7 L308.9,145.5 L316.0,143.4 L320.1,146.1 L321.3,145.7 L322.2,141.8 L323.9,140.9 L326.1,137.1 L324.0,134.3 L324.4,133.1 L332.6,135.3 L336.1,139.3 L343.3,139.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.OH</hasc>
+    <alt-name>Öbör Hangay|Övörchangaj|South Hangay|South Khangai|Ublhangai|Ubur-Khangai|Ovorkhangai|Öwörchangai|Uwurchangaj</alt-name>
+    <woe-id>2346169</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG00</fips>
+    <postal-code>OH</postal-code>
+    <name>Övörhangay</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>102.857</longitude>
+    <woe-name>Övörhangay</woe-name>
+    <latitude>45.7785</latitude>
+    <woe-label>Ovorhangay, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>mn-oh</hc-key>
+    <hc-a2>OH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.DU" d="M348.7,194.2 L349.6,190.3 L345.4,185.3 L345.5,182.5 L348.7,179.9 L355.0,179.2 L356.0,177.6 L357.3,169.5 L362.8,167.9 L365.2,164.9 L366.8,160.8 L367.9,161.9 L372.8,158.3 L374.7,156.2 L380.4,157.9 L384.1,160.3 L389.8,152.9 L392.1,152.3 L399.5,155.3 L400.8,156.6 L412.5,156.7 L416.8,157.9 L421.2,161.3 L426.4,161.0 L430.3,159.9 L432.1,157.9 L437.1,155.7 L437.7,151.5 L439.8,151.1 L441.2,153.4 L445.4,153.9 L442.4,156.6 L447.1,161.8 L447.9,164.5 L447.2,171.2 L449.9,174.9 L453.7,174.1 L452.5,177.3 L451.8,182.1 L452.3,187.6 L454.2,198.6 L451.3,199.4 L449.6,202.1 L447.5,203.2 L438.1,204.2 L437.2,204.9 L436.2,210.3 L434.4,212.3 L428.3,213.6 L425.1,212.8 L412.6,216.5 L406.6,219.5 L397.8,220.7 L392.1,217.8 L390.5,213.7 L386.3,207.5 L384.6,207.0 L369.4,205.6 L358.1,203.8 L356.1,201.2 L356.4,195.1 L355.9,194.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.DU</hasc>
+    <alt-name>Central Gobi|Dunda Gobi|Dundgobi|Dundgov'|Middle Gobi|Dundgow'|Mittelgobi|G¢bi Central</alt-name>
+    <woe-id>2346162</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG00</fips>
+    <postal-code>DU</postal-code>
+    <name>Dundgovi</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>106.116</longitude>
+    <woe-name>Dundgovi</woe-name>
+    <latitude>45.4132</latitude>
+    <woe-label>Dundgovi, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mn-du</hc-key>
+    <hc-a2>DU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.TO" d="M452.1,86.0 L456.9,90.2 L459.4,94.6 L463.3,107.7 L463.3,109.1 L459.8,115.4 L454.4,119.0 L451.3,119.8 L448.5,119.6 L445.9,122.2 L445.2,124.3 L445.8,127.8 L450.1,129.6 L449.5,131.3 L452.6,135.1 L455.9,142.3 L458.8,144.6 L456.3,148.8 L451.2,151.0 L443.3,150.1 L439.8,151.1 L437.7,151.5 L437.1,155.7 L432.1,157.9 L430.3,159.9 L426.4,161.0 L421.2,161.3 L416.8,157.9 L412.5,156.7 L400.8,156.6 L399.5,155.3 L392.1,152.3 L389.8,152.9 L384.1,160.3 L380.4,157.9 L374.7,156.2 L372.8,158.3 L367.9,161.9 L366.8,160.8 L363.1,158.4 L362.2,154.4 L358.8,149.0 L361.2,147.5 L360.8,143.8 L357.8,141.2 L356.9,136.8 L357.2,134.8 L355.2,132.1 L360.9,128.6 L364.3,128.4 L365.2,127.0 L370.2,126.7 L368.9,122.4 L369.0,118.9 L364.5,118.6 L362.3,117.7 L361.9,115.6 L360.0,113.4 L362.4,109.1 L365.3,105.7 L365.2,99.9 L375.8,103.3 L380.9,101.8 L386.2,99.4 L385.2,96.3 L387.7,94.7 L393.6,93.2 L397.7,94.9 L397.0,98.2 L398.7,99.3 L401.0,98.2 L409.7,102.6 L412.4,103.0 L416.3,100.7 L420.7,100.2 L424.5,101.8 L430.9,99.8 L432.9,99.7 L435.0,95.2 L430.6,90.1 L433.7,87.9 L438.8,87.4 L442.7,89.2 L448.1,86.2 Z M415.9,112.5 L405.0,110.2 L406.4,114.6 L406.6,118.3 L408.1,121.1 L408.6,124.4 L411.7,125.4 L417.5,124.7 L421.4,125.2 L425.0,127.3 L430.1,127.0 L431.5,119.8 L426.7,118.0 L421.2,111.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.TO</hasc>
+    <alt-name>Central|Töb|Tub|Tuvaimag|Töw|Tuw</alt-name>
+    <woe-id>2346172</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG18</fips>
+    <postal-code>TO</postal-code>
+    <name>Töv</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>106.554</longitude>
+    <woe-name>Töv</woe-name>
+    <latitude>47.1533</latitude>
+    <woe-label>Tov, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.26</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>mn-to</hc-key>
+    <hc-a2>TO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.GS" d="M451.3,119.8 L451.5,124.0 L449.8,127.6 L450.1,129.6 L445.8,127.8 L445.2,124.3 L445.9,122.2 L448.5,119.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.GS</hasc>
+    <alt-name>Gobisumber</alt-name>
+    <woe-id>-2346172</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG20</fips>
+    <postal-code>GS</postal-code>
+    <name>Gov?-Sümber</name>
+    <country>Mongolia</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>108.346</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>47.74</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Hot</type>
+    <hc-middle-x>0.09</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>mn-gs</hc-key>
+    <hc-a2>GS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.DD" d="M542.9,122.6 L541.9,119.1 L539.6,115.2 L539.1,110.5 L540.0,105.8 L538.0,100.3 L532.5,90.9 L533.3,88.9 L531.6,80.4 L532.4,79.4 L530.6,77.1 L537.3,74.6 L543.9,75.6 L550.6,72.9 L551.3,70.6 L554.3,66.3 L562.3,60.7 L568.2,58.9 L570.9,56.7 L577.7,53.4 L581.7,54.6 L587.9,54.5 L593.2,57.1 L597.8,62.0 L601.2,64.2 L609.6,64.5 L616.2,61.3 L619.7,60.8 L627.5,63.4 L629.9,66.2 L615.8,93.1 L615.6,96.0 L610.6,102.6 L610.8,109.7 L610.0,111.1 L604.4,114.0 L605.4,119.2 L611.8,125.5 L614.4,125.4 L616.8,122.7 L620.3,121.2 L625.9,121.9 L633.6,120.9 L638.3,122.6 L643.7,126.9 L644.6,127.0 L647.9,123.5 L649.2,126.9 L654.2,124.4 L656.0,122.0 L654.5,117.2 L657.9,117.4 L662.5,116.6 L670.3,118.3 L675.2,124.1 L682.1,126.7 L683.7,130.7 L687.1,131.9 L686.4,133.5 L695.6,140.6 L697.1,145.1 L699.8,147.5 L700.0,152.9 L695.1,156.1 L690.2,155.1 L687.2,155.6 L681.7,154.2 L679.6,152.1 L676.3,151.6 L674.2,153.8 L671.8,153.0 L668.0,153.4 L663.7,152.7 L655.9,156.0 L654.6,157.9 L651.9,158.3 L648.9,155.9 L645.3,156.7 L644.5,161.9 L643.3,162.7 L632.5,161.8 L627.7,164.1 L621.4,156.0 L620.3,155.3 L611.1,155.7 L607.0,156.4 L596.9,156.7 L591.3,158.8 L588.7,154.6 L586.1,151.8 L581.6,149.8 L581.0,148.1 L581.9,140.9 L580.9,139.5 L577.1,137.7 L567.2,130.9 L553.9,128.4 L549.7,126.7 L546.6,126.7 L542.8,128.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.DD</hasc>
+    <alt-name>Choibalsan|Choybalsan|Doronad|Doronod|Eastern</alt-name>
+    <woe-id>2346160</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG06</fips>
+    <postal-code>DD</postal-code>
+    <name>Dornod</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>114.261</longitude>
+    <woe-name>Dornod</woe-name>
+    <latitude>48.7766</latitude>
+    <woe-label>Dornod, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.29</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>mn-dd</hc-key>
+    <hc-a2>DD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN.SB" d="M511.1,166.0 L513.0,161.6 L511.8,157.0 L512.8,152.8 L516.3,147.1 L517.6,140.1 L521.2,135.3 L524.5,133.8 L529.9,134.4 L529.3,130.7 L530.4,127.1 L532.5,125.6 L542.9,122.6 L542.8,128.5 L546.6,126.7 L549.7,126.7 L553.9,128.4 L567.2,130.9 L577.1,137.7 L580.9,139.5 L581.9,140.9 L581.0,148.1 L581.6,149.8 L586.1,151.8 L588.7,154.6 L591.3,158.8 L596.9,156.7 L607.0,156.4 L611.1,155.7 L620.3,155.3 L621.4,156.0 L627.7,164.1 L622.8,169.4 L619.6,174.7 L620.5,177.6 L618.7,180.1 L615.2,181.0 L607.1,187.3 L600.6,188.6 L591.9,189.2 L587.5,187.8 L583.1,188.9 L580.6,193.8 L575.0,198.2 L572.6,200.8 L569.0,201.7 L563.5,206.0 L551.9,204.8 L544.2,202.9 L540.6,201.3 L537.5,197.8 L527.6,196.9 L527.3,191.6 L524.8,189.3 L524.3,187.0 L522.5,185.6 L522.9,177.5 L522.1,174.9 L519.2,169.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MN.SB</hasc>
+    <alt-name>Sühe Baatar|Suhe-Bator|Sükhbaatar|Sukh-Batar|Sukhe-Bator|Süchbaatar</alt-name>
+    <woe-id>2346171</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MG17</fips>
+    <postal-code>SB</postal-code>
+    <name>Sühbaatar</name>
+    <country>Mongolia</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>113.904</longitude>
+    <woe-name>Sühbaatar</woe-name>
+    <latitude>46.1847</latitude>
+    <woe-label>Suhbaatar, MN, Mongolia</woe-label>
+    <type>Aimag|aymag</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mn-sb</hc-key>
+    <hc-a2>SB</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

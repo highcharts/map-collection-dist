@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Somalia</title>
+<g id="admin1">
+
+<g id="SO">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Somalia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Som.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SOM</iso-a3>
+    <iso-a2>SO</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Africa</continent>
+    <hc-key>so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.BR" d="M406.0,125.5 L405.0,39.4 L406.9,39.3 L420.1,36.6 L423.2,34.2 L428.1,34.4 L434.2,31.6 L436.9,28.2 L442.5,27.4 L448.4,28.1 L450.8,27.7 L454.9,25.2 L461.9,25.3 L466.3,22.4 L471.7,21.0 L476.8,16.8 L480.1,15.6 L483.8,11.4 L484.6,6.9 L486.8,3.7 L497.9,0.0 L501.5,2.3 L506.7,2.7 L509.7,5.1 L514.7,5.3 L517.4,6.4 L523.1,7.4 L521.0,12.8 L521.0,16.7 L514.8,24.4 L514.7,28.5 L512.9,32.8 L512.6,38.4 L513.3,40.7 L517.8,42.1 L515.4,48.3 L515.0,50.6 L516.5,66.8 L517.7,70.8 L515.1,72.0 L514.9,76.2 L511.5,77.6 L510.3,79.4 L511.7,80.3 L519.4,78.6 L518.6,72.6 L524.5,76.7 L529.7,76.7 L530.9,78.3 L528.9,82.4 L523.6,82.0 L522.0,79.6 L514.4,80.7 L510.7,82.0 L506.2,84.9 L505.0,89.7 L505.6,92.6 L504.2,96.5 L505.1,100.5 L502.2,115.0 L501.6,119.6 L500.7,121.0 L501.1,125.2 L502.6,129.6 L502.1,131.5 L499.0,136.6 L494.4,139.8 L492.6,143.0 L493.1,147.4 L490.9,151.2 L485.4,155.6 L481.8,160.6 L480.2,166.9 L477.1,171.7 L476.9,175.8 L475.3,179.6 L473.6,180.3 L472.3,183.2 L469.1,187.5 L463.1,182.1 L457.0,181.2 L452.5,187.9 L449.3,177.7 L444.2,175.2 L432.5,174.9 L424.3,169.8 L418.7,165.8 L415.1,159.2 L413.4,147.0 L412.1,125.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.BR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347008</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO03</fips>
+    <postal-code>BR</postal-code>
+    <name>Bari</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>50.1777</longitude>
+    <woe-name>Bari</woe-name>
+    <latitude>9.955830000000001</latitude>
+    <woe-label>Bari, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>so-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.BY" d="M73.6,514.1 L80.8,473.9 L83.9,457.1 L100.8,458.6 L109.5,457.6 L109.5,449.0 L110.6,426.6 L125.4,431.7 L134.1,429.7 L139.3,424.1 L142.9,417.4 L149.5,413.9 L153.1,413.9 L164.9,417.5 L171.5,431.7 L171.5,440.9 L169.9,443.4 L176.6,447.5 L186.8,447.0 L189.4,448.0 L190.9,458.2 L188.4,470.4 L189.4,473.5 L187.3,487.2 L188.9,500.5 L149.4,517.8 L134.0,523.9 L103.3,539.1 L99.2,536.1 L79.7,517.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.BY</hasc>
+    <alt-name>Baay</alt-name>
+    <woe-id>2347009</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO04</fips>
+    <postal-code>BY</postal-code>
+    <name>Bay</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>43.545</longitude>
+    <woe-name>Bay</woe-name>
+    <latitude>2.67209</latitude>
+    <woe-label>Bay, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>so-by</hc-key>
+    <hc-a2>BY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.GE" d="M110.6,426.6 L109.5,449.0 L109.5,457.6 L100.8,458.6 L83.9,457.1 L80.8,473.9 L73.6,514.1 L34.6,514.6 L23.2,549.2 L0.0,550.7 L0.2,486.0 L0.1,469.9 L0.8,468.5 L19.5,450.2 L48.1,409.7 L49.4,406.0 L56.9,400.7 L60.3,399.4 L68.6,399.3 L93.8,395.2 L97.9,393.0 L109.6,413.3 L111.7,417.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.GE</hasc>
+    <alt-name>Gado</alt-name>
+    <woe-id>2347011</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO06</fips>
+    <postal-code>GE</postal-code>
+    <name>Gedo</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>42.0524</longitude>
+    <woe-name>Gedo</woe-name>
+    <latitude>3.05384</latitude>
+    <woe-label>Gedo, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>so-ge</hc-key>
+    <hc-a2>GE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.BK" d="M110.6,426.6 L111.7,417.4 L109.6,413.3 L97.9,393.0 L100.2,389.7 L102.6,383.4 L110.7,376.8 L131.6,366.9 L147.8,363.3 L154.1,361.2 L186.3,363.1 L186.2,363.1 L190.4,389.0 L194.0,406.3 L196.6,417.0 L195.0,425.1 L195.5,447.0 L189.4,448.0 L186.8,447.0 L176.6,447.5 L169.9,443.4 L171.5,440.9 L171.5,431.7 L164.9,417.5 L153.1,413.9 L149.5,413.9 L142.9,417.4 L139.3,424.1 L134.1,429.7 L125.4,431.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.BK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347006</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO01</fips>
+    <postal-code>BK</postal-code>
+    <name>Bakool</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>43.835</longitude>
+    <woe-name>Bakool</woe-name>
+    <latitude>4.40611</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>so-bk</hc-key>
+    <hc-a2>BK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.JD" d="M131.0,579.3 L128.2,581.9 L118.9,592.4 L113.7,597.4 L90.4,597.7 L85.3,576.8 L75.1,546.2 L63.3,546.7 L23.2,549.2 L34.6,514.6 L73.6,514.1 L79.7,517.7 L99.2,536.1 L103.3,539.1 L118.1,561.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.JD</hasc>
+    <alt-name>J. Dhexe| Central Juba| Middle Juba</alt-name>
+    <woe-id>2347013</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO08</fips>
+    <postal-code>JD</postal-code>
+    <name>Jubbada Dhexe</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>42.4706</longitude>
+    <woe-name>Jubbada Dhexe</woe-name>
+    <latitude>1.55342</latitude>
+    <woe-label>Jubbada Dhexe, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>so-jd</hc-key>
+    <hc-a2>JD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.SH" d="M220.4,512.3 L206.9,518.5 L190.2,530.1 L183.7,534.1 L172.6,542.7 L166.9,548.5 L163.0,550.9 L161.4,553.3 L157.2,557.6 L154.5,559.1 L152.1,562.1 L144.4,566.6 L141.9,570.0 L138.1,572.5 L131.0,579.3 L118.1,561.0 L103.3,539.1 L134.0,523.9 L149.4,517.8 L188.9,500.5 L187.3,487.2 L189.4,473.5 L188.4,470.4 L190.9,458.2 L189.4,448.0 L195.5,447.0 L210.4,448.0 L212.9,458.7 L224.2,475.0 L223.7,502.5 L226.8,504.0 L220.4,512.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.SH</hasc>
+    <alt-name>Sh. Hoose| Lower Shabele</alt-name>
+    <woe-id>2347019</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO02</fips>
+    <postal-code>SH</postal-code>
+    <name>Shabeellaha Hoose</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>44.185</longitude>
+    <woe-name>Shabeellaha Hoose</woe-name>
+    <latitude>1.63602</latitude>
+    <woe-label>Shabeellaha Hoose, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>so-sh</hc-key>
+    <hc-a2>SH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.BN" d="M230.3,503.0 L237.8,502.3 L220.4,512.3 L220.4,512.3 L226.8,504.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.BN</hasc>
+    <alt-name>Benadir</alt-name>
+    <woe-id>2347007</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO02</fips>
+    <postal-code>BN</postal-code>
+    <name>Banaadir</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>45.436</longitude>
+    <woe-name>Banaadir</woe-name>
+    <latitude>2.12409</latitude>
+    <woe-label>Banaadir, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>so-bn</hc-key>
+    <hc-a2>BN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.GA" d="M352.0,392.2 L338.6,406.6 L334.1,412.9 L311.2,436.8 L311.0,436.6 L277.9,415.4 L278.4,398.1 L265.6,387.9 L263.5,372.1 L268.6,361.9 L269.6,354.8 L259.9,357.4 L243.0,353.3 L241.0,349.3 L233.2,331.4 L254.5,308.2 L279.3,282.6 L281.5,280.5 L339.3,293.5 L326.7,320.5 L332.8,329.7 L340.0,349.0 L334.6,384.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.GA</hasc>
+    <alt-name>Galgudug</alt-name>
+    <woe-id>2347010</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO05</fips>
+    <postal-code>GA</postal-code>
+    <name>Galguduud</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>46.6795</longitude>
+    <woe-name>Galguduud</woe-name>
+    <latitude>5.09616</latitude>
+    <woe-label>Galguduud, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>so-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.HI" d="M210.4,448.0 L195.5,447.0 L195.0,425.1 L196.6,417.0 L194.0,406.3 L190.4,389.0 L186.2,363.1 L186.3,363.1 L202.3,364.1 L203.8,363.5 L233.2,331.4 L241.0,349.3 L243.0,353.3 L259.9,357.4 L269.6,354.8 L268.6,361.9 L263.5,372.1 L265.6,387.9 L278.4,398.1 L277.9,415.4 L259.5,434.3 L254.9,448.0 L220.6,450.6 L214.5,450.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.HI</hasc>
+    <alt-name>Hiiran</alt-name>
+    <woe-id>2347012</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO07</fips>
+    <postal-code>HI</postal-code>
+    <name>Hiiraan</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>45.4984</longitude>
+    <woe-name>Hiiraan</woe-name>
+    <latitude>4.36813</latitude>
+    <woe-label>Hiiraan, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>so-hi</hc-key>
+    <hc-a2>HI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.SD" d="M311.2,436.8 L300.7,448.8 L293.8,454.9 L290.0,459.5 L282.9,465.4 L279.2,469.2 L274.2,473.4 L272.8,476.2 L270.1,477.7 L265.3,482.7 L263.4,485.7 L259.4,489.3 L249.1,495.9 L237.8,502.3 L230.3,503.0 L226.8,504.0 L223.7,502.5 L224.2,475.0 L212.9,458.7 L210.4,448.0 L214.5,450.1 L220.6,450.6 L254.9,448.0 L259.5,434.3 L277.9,415.4 L311.0,436.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.SD</hasc>
+    <alt-name>Sh. Dhexe| Central Shabele</alt-name>
+    <woe-id>2347018</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO13</fips>
+    <postal-code>SD</postal-code>
+    <name>Shabeellaha Dhexe</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>46.0549</longitude>
+    <woe-name>Shabeellaha Dhexe</woe-name>
+    <latitude>3.00561</latitude>
+    <woe-label>Shabeellaha Dhexe, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>so-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.MU" d="M442.9,235.1 L440.2,239.9 L436.9,243.8 L429.1,254.8 L425.4,262.2 L423.1,265.8 L420.7,272.8 L414.5,286.1 L415.1,291.6 L414.4,296.0 L412.6,299.9 L403.2,316.3 L395.4,328.5 L393.0,333.9 L387.9,339.3 L382.9,347.8 L376.8,354.5 L370.4,363.2 L363.0,378.3 L357.5,386.3 L352.0,392.2 L334.6,384.7 L340.0,349.0 L332.8,329.7 L326.7,320.5 L339.3,293.5 L281.5,280.5 L323.7,239.5 L335.5,227.9 L384.8,235.5 L411.6,220.0 L419.8,220.4 L432.6,226.4 L435.6,226.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.MU</hasc>
+    <alt-name>Madugh| Mudugh</alt-name>
+    <woe-id>2347015</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO10</fips>
+    <postal-code>MU</postal-code>
+    <name>Mudug</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>48.1009</longitude>
+    <woe-name>Mudug</woe-name>
+    <latitude>5.51036</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>so-mu</hc-key>
+    <hc-a2>MU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.NU" d="M469.1,187.5 L466.5,194.4 L463.8,198.0 L457.2,202.1 L452.9,206.7 L451.4,210.0 L451.0,213.6 L452.2,215.9 L451.8,218.1 L448.5,222.7 L448.1,225.8 L442.9,235.1 L435.6,226.9 L432.6,226.4 L419.8,220.4 L411.6,220.0 L384.8,235.5 L335.5,227.9 L358.1,205.8 L406.1,131.2 L406.0,125.5 L412.1,125.1 L413.4,147.0 L415.1,159.2 L418.7,165.8 L424.3,169.8 L432.5,174.9 L444.2,175.2 L449.3,177.7 L452.5,187.9 L457.0,181.2 L463.1,182.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.NU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347016</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO18</fips>
+    <postal-code>NU</postal-code>
+    <name>Nugaal</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>48.849</longitude>
+    <woe-name>Nugaal</woe-name>
+    <latitude>8.46102</latitude>
+    <woe-label>Nugaal, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>so-nu</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO.JH" d="M113.7,597.4 L108.9,602.1 L92.5,620.1 L86.2,625.2 L82.7,628.6 L81.2,631.7 L79.6,632.3 L76.9,636.4 L74.1,638.5 L65.8,648.4 L62.8,653.0 L59.9,655.4 L56.7,655.7 L57.1,657.5 L53.8,662.8 L51.3,664.1 L50.9,659.1 L50.2,661.6 L51.5,665.7 L50.6,668.0 L46.5,673.4 L47.1,675.2 L44.3,674.1 L44.6,677.8 L35.2,693.3 L33.0,694.7 L29.2,700.0 L29.4,695.8 L28.5,693.7 L0.6,657.9 L0.0,613.6 L0.0,550.7 L23.2,549.2 L63.3,546.7 L75.1,546.2 L85.3,576.8 L90.4,597.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>SO.JH</hasc>
+    <alt-name>J. Hoose| Lower Juba</alt-name>
+    <woe-id>2347014</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SO09</fips>
+    <postal-code>JH</postal-code>
+    <name>Jubbada Hoose</name>
+    <country>Somalia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>41.8088</longitude>
+    <woe-name>Jubbada Hoose</woe-name>
+    <latitude>0.007898000000000001</latitude>
+    <woe-label>Jubbada Hoose, SO, Somalia</woe-label>
+    <type>Gobolka</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>so-jh</hc-key>
+    <hc-a2>JH</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

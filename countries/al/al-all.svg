@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Albania</title>
+<g id="admin1">
+
+<g id="AL">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Albania</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Alb.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>ALB</iso-a3>
+    <iso-a2>AL</iso-a2>
+    <woe-id>23424742</woe-id>
+    <continent>Europe</continent>
+    <hc-key>al</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.VR" d="M4.3,503.7 L2.9,503.6 L0.0,496.5 L1.7,494.7 L5.4,499.2 Z M8.3,462.6 L15.6,461.3 L20.7,462.2 L27.1,465.6 L33.1,463.5 L34.4,465.7 L38.8,469.6 L39.1,472.4 L43.3,473.6 L49.1,477.3 L49.5,480.1 L54.5,480.3 L55.7,484.6 L62.5,486.4 L65.7,486.5 L70.7,490.1 L74.0,490.8 L77.3,492.8 L79.6,493.1 L81.3,495.7 L80.9,500.9 L84.6,502.6 L84.0,507.1 L84.6,510.4 L84.3,515.4 L86.7,516.8 L90.8,517.2 L93.5,521.8 L93.8,527.0 L91.3,531.2 L87.4,534.9 L88.2,536.8 L93.3,542.2 L96.4,546.8 L100.0,548.8 L97.8,551.5 L100.8,557.6 L101.5,560.5 L100.1,563.6 L100.9,565.3 L106.7,570.6 L109.8,578.5 L110.0,580.8 L113.4,586.4 L118.7,600.4 L121.1,602.9 L129.2,601.8 L136.8,604.2 L150.6,618.2 L153.6,620.5 L157.6,622.1 L165.7,630.2 L167.4,636.7 L170.7,641.0 L171.7,646.7 L176.4,647.1 L179.1,648.4 L180.6,651.5 L180.0,657.2 L182.3,661.3 L178.8,661.5 L177.5,663.2 L179.6,667.0 L177.9,671.6 L182.1,679.1 L181.6,681.6 L179.1,684.5 L173.0,689.0 L172.4,694.1 L169.3,692.6 L166.4,693.1 L164.9,694.6 L164.1,699.3 L161.3,700.0 L157.7,698.3 L152.6,693.6 L144.4,689.2 L131.4,684.8 L126.5,688.1 L125.6,684.7 L126.2,680.9 L129.1,673.9 L125.2,671.8 L128.0,665.9 L131.4,654.3 L131.8,651.5 L130.7,646.7 L128.8,645.4 L122.1,643.7 L120.9,640.3 L116.7,638.2 L113.7,638.0 L112.4,635.6 L115.0,632.4 L118.6,629.4 L115.6,626.4 L107.4,610.2 L105.1,604.8 L103.6,603.8 L98.0,603.5 L93.2,601.9 L94.7,600.5 L89.9,597.1 L88.6,600.4 L88.1,598.3 L84.9,595.5 L82.0,589.5 L79.6,588.1 L68.0,584.1 L58.2,578.1 L52.6,572.9 L42.6,569.4 L36.8,564.8 L20.3,545.6 L17.6,540.4 L15.3,530.1 L14.1,527.2 L8.0,520.9 L4.6,516.3 L4.7,514.7 L9.4,512.4 L12.3,512.2 L15.0,514.2 L21.2,522.0 L25.1,530.1 L26.3,536.7 L28.0,537.7 L31.7,536.9 L37.2,533.6 L38.7,512.6 L38.2,509.2 L33.8,506.5 L27.8,500.2 L23.1,493.2 L22.3,488.2 L24.3,493.4 L27.1,493.0 L30.5,497.0 L32.7,495.8 L33.9,491.5 L34.4,486.0 L32.3,481.5 L27.6,479.0 L23.4,480.1 L22.3,486.5 L21.1,482.9 L9.2,464.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>AL.VR</hasc>
+    <alt-name>Vlona|Vlora|Vlonë|Valona</alt-name>
+    <woe-id>29389565</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL51</fips>
+    <postal-code>VR</postal-code>
+    <name>Vlorë</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>19.7946</longitude>
+    <woe-name>Vlorë</woe-name>
+    <latitude>40.1908</latitude>
+    <woe-label>Vlorë, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>al-vr</hc-key>
+    <hc-a2>VR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.KE" d="M300.2,410.9 L298.7,411.7 L297.1,406.8 L299.8,409.4 Z M236.8,364.9 L242.8,365.7 L243.7,368.0 L246.8,369.2 L246.1,372.4 L243.5,377.0 L243.0,381.1 L245.0,391.2 L246.0,403.3 L247.5,405.7 L250.8,406.6 L259.0,406.1 L261.8,408.6 L266.3,409.6 L269.4,408.4 L275.2,403.5 L278.8,402.6 L288.1,403.9 L296.8,406.5 L294.5,410.1 L296.0,413.4 L301.2,417.3 L301.2,418.4 L296.9,421.8 L297.0,427.4 L292.3,433.6 L291.1,436.9 L293.4,440.0 L297.7,434.7 L301.2,432.5 L300.5,435.8 L297.4,439.4 L299.2,440.8 L300.9,446.2 L306.0,450.9 L310.0,455.9 L306.7,457.3 L306.7,459.1 L311.1,457.5 L313.6,463.9 L313.8,468.5 L311.3,480.8 L310.7,487.2 L309.8,489.5 L305.3,493.1 L304.1,495.4 L299.9,497.4 L299.0,502.3 L296.2,507.2 L291.8,510.2 L283.8,507.3 L279.1,507.4 L276.7,508.9 L273.6,515.5 L268.4,517.2 L266.5,521.0 L267.3,529.7 L266.7,532.6 L264.0,538.1 L260.7,546.2 L255.4,549.8 L254.0,552.1 L253.2,557.3 L253.5,566.7 L251.5,572.2 L247.9,573.8 L246.9,576.5 L248.4,584.5 L244.7,594.7 L238.9,597.7 L232.8,590.4 L223.3,579.8 L222.4,575.3 L217.9,564.1 L217.6,560.0 L220.9,554.7 L215.5,553.2 L212.0,541.2 L213.6,534.7 L213.5,531.2 L212.0,527.6 L209.0,524.0 L208.5,520.3 L211.9,515.1 L208.7,514.5 L206.5,509.7 L207.3,499.0 L206.3,495.0 L204.6,493.2 L204.7,488.5 L207.0,483.6 L205.4,479.7 L198.3,478.3 L196.1,476.1 L193.8,470.6 L191.1,465.9 L189.6,461.3 L185.9,452.3 L182.8,448.0 L184.2,445.4 L191.1,443.6 L204.5,442.1 L209.6,439.0 L213.8,431.1 L209.1,420.8 L201.7,410.4 L198.7,402.1 L203.0,399.9 L206.1,387.4 L208.4,385.4 L217.0,382.6 L224.1,378.4 L227.2,378.0 L235.5,380.6 L237.0,378.5 L237.6,374.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>AL.KE</hasc>
+    <alt-name>Coriza|Corizza|Koritsa|Koritza|Korça|Kortscha</alt-name>
+    <woe-id>29389560</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL46</fips>
+    <postal-code>KE</postal-code>
+    <name>Korçë</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>20.6648</longitude>
+    <woe-name>Korçë</woe-name>
+    <latitude>40.6138</latitude>
+    <woe-label>Korcë, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>al-ke</hc-key>
+    <hc-a2>KE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.DU" d="M48.0,322.5 L47.6,318.7 L45.9,314.6 L43.3,311.7 L40.5,310.6 L33.5,309.9 L31.3,307.8 L30.6,303.4 L30.7,293.8 L30.2,291.8 L27.6,289.3 L27.2,286.7 L29.4,289.7 L33.3,289.6 L36.3,286.4 L35.6,280.5 L39.8,278.2 L44.2,274.8 L47.6,270.0 L49.1,263.9 L48.8,260.1 L47.6,258.6 L43.3,256.7 L40.8,254.3 L36.2,247.0 L51.4,249.3 L56.3,247.9 L62.3,251.4 L63.9,249.4 L70.4,247.6 L74.3,249.6 L78.7,254.0 L83.6,254.0 L89.1,252.4 L91.3,250.8 L94.1,246.9 L95.9,247.6 L100.4,252.0 L104.9,252.4 L111.0,260.2 L117.8,265.8 L117.3,269.5 L114.5,275.1 L110.0,279.8 L107.1,280.2 L104.7,278.4 L102.9,281.4 L95.6,284.3 L90.5,287.8 L87.2,289.1 L84.0,288.4 L80.4,281.7 L79.9,277.8 L78.7,275.9 L75.3,279.8 L71.8,278.8 L67.2,279.8 L66.7,292.9 L67.7,297.9 L70.3,299.7 L70.7,302.5 L70.2,312.0 L68.6,316.3 L64.0,320.2 L60.4,326.5 L57.2,324.1 L52.4,322.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AL.DU</hasc>
+    <alt-name>Durresi|Durrsi|Durazzo</alt-name>
+    <woe-id>29389556</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL42</fips>
+    <postal-code>DU</postal-code>
+    <name>Durrës</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>19.6522</longitude>
+    <woe-name>Durrës</woe-name>
+    <latitude>41.5152</latitude>
+    <woe-label>Durrës, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>al-du</hc-key>
+    <hc-a2>DU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.FI" d="M8.3,462.6 L9.2,459.7 L16.8,453.1 L19.2,445.7 L19.7,431.9 L20.3,428.2 L21.9,425.7 L27.0,424.0 L24.8,418.4 L28.6,412.9 L22.9,403.6 L27.1,401.4 L30.7,396.5 L32.5,402.6 L31.0,407.2 L30.9,412.1 L32.2,412.2 L32.8,408.9 L33.3,412.2 L35.6,409.1 L44.9,404.8 L48.0,401.2 L48.4,395.5 L44.4,386.7 L43.4,382.1 L42.7,388.1 L40.4,393.4 L35.8,400.2 L34.7,397.8 L38.7,392.7 L40.1,388.5 L39.8,383.7 L35.0,380.4 L37.1,375.6 L39.4,374.5 L38.7,371.8 L41.4,372.2 L44.5,374.4 L46.2,372.0 L53.9,371.9 L61.5,367.0 L68.8,369.5 L72.8,367.3 L74.8,367.4 L74.4,370.1 L75.2,376.1 L79.1,379.5 L83.4,380.8 L89.7,380.4 L94.5,383.0 L98.9,383.7 L98.6,388.2 L97.1,391.7 L97.4,398.4 L96.6,402.5 L97.0,406.4 L98.6,409.7 L101.1,412.1 L108.2,414.2 L109.5,416.8 L108.5,418.4 L101.0,418.6 L98.5,415.9 L91.8,418.9 L90.5,421.6 L90.0,426.9 L84.2,427.0 L83.9,429.4 L85.2,434.1 L89.1,440.2 L88.0,444.6 L88.2,449.1 L95.0,453.6 L96.1,458.5 L100.8,464.1 L101.3,467.9 L97.1,471.6 L99.7,473.9 L102.2,481.0 L104.1,483.6 L112.9,489.2 L113.9,493.3 L109.6,495.2 L106.1,500.2 L99.5,505.9 L93.3,517.7 L90.8,517.2 L86.7,516.8 L84.3,515.4 L84.6,510.4 L84.0,507.1 L84.6,502.6 L80.9,500.9 L81.3,495.7 L79.6,493.1 L77.3,492.8 L74.0,490.8 L70.7,490.1 L65.7,486.5 L62.5,486.4 L55.7,484.6 L54.5,480.3 L49.5,480.1 L49.1,477.3 L43.3,473.6 L39.1,472.4 L38.8,469.6 L34.4,465.7 L33.1,463.5 L27.1,465.6 L20.7,462.2 L15.6,461.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AL.FI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389558</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL44</fips>
+    <postal-code>FI</postal-code>
+    <name>Fier</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>19.6047</longitude>
+    <woe-name>Fier</woe-name>
+    <latitude>40.8112</latitude>
+    <woe-label>Fier, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>al-fi</hc-key>
+    <hc-a2>FI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.SD" d="M52.6,189.3 L41.6,184.5 L36.0,181.4 L24.2,184.9 L24.4,176.4 L21.1,171.4 L22.5,164.9 L21.5,159.6 L24.9,157.7 L25.8,153.8 L23.0,148.7 L22.5,144.2 L23.7,135.7 L26.3,130.2 L35.3,134.3 L45.4,135.9 L44.2,134.4 L45.3,124.9 L45.1,118.3 L42.8,115.4 L40.0,114.7 L37.7,108.9 L36.3,107.5 L31.6,105.7 L26.0,97.2 L28.4,88.6 L34.0,80.3 L38.3,72.4 L32.4,75.2 L32.9,69.3 L35.5,64.2 L44.5,54.2 L46.8,50.4 L50.2,48.3 L53.1,45.1 L57.7,37.0 L58.7,33.5 L63.3,30.3 L65.5,27.9 L68.6,16.0 L71.5,11.3 L76.1,6.1 L80.9,1.8 L84.9,0.0 L88.8,2.1 L91.4,7.1 L92.7,13.1 L92.7,17.5 L90.5,21.5 L89.8,26.6 L90.5,30.3 L93.3,37.5 L98.9,42.0 L101.8,43.5 L106.5,43.4 L103.0,48.9 L99.5,56.0 L102.2,59.4 L103.0,62.8 L102.9,73.2 L105.6,84.8 L106.2,90.0 L104.6,96.7 L108.5,99.9 L112.8,100.5 L122.2,93.9 L132.4,94.5 L135.4,91.7 L141.6,93.0 L161.1,102.7 L166.4,102.8 L169.0,105.6 L175.7,108.3 L176.9,112.2 L175.1,115.6 L168.3,120.6 L162.3,128.5 L161.8,130.3 L162.9,133.8 L161.9,136.8 L159.4,140.3 L161.3,140.6 L164.8,139.3 L171.4,146.2 L164.3,152.7 L153.3,158.2 L149.7,161.1 L148.2,165.8 L146.6,168.1 L142.3,171.0 L138.4,174.8 L135.1,180.2 L132.8,181.3 L126.1,181.0 L123.0,178.5 L124.6,175.3 L124.5,172.8 L120.5,167.3 L118.5,160.4 L117.5,159.4 L112.5,161.0 L107.0,166.6 L104.2,166.9 L99.1,164.3 L94.7,166.0 L89.3,166.2 L91.3,172.3 L86.3,176.0 L79.7,171.6 L71.9,172.3 L68.3,170.9 L69.6,166.9 L63.7,164.5 L58.3,165.5 L60.0,169.1 L60.4,173.9 L58.4,176.0 L55.9,176.8 L47.1,171.7 L43.2,171.0 L41.2,175.4 L41.9,178.2 L52.2,186.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AL.SD</hasc>
+    <alt-name>Escútari|Shkodra|Skodë|Scutari</alt-name>
+    <woe-id>29389563</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL49</fips>
+    <postal-code>SD</postal-code>
+    <name>Shkodër</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>19.7573</longitude>
+    <woe-name>Shkodër</woe-name>
+    <latitude>42.2144</latitude>
+    <woe-label>Shkodër, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>al-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.KK" d="M171.4,146.2 L164.8,139.3 L161.3,140.6 L159.4,140.3 L161.9,136.8 L162.9,133.8 L161.8,130.3 L162.3,128.5 L168.3,120.6 L175.1,115.6 L176.9,112.2 L175.7,108.3 L169.0,105.6 L166.4,102.8 L161.1,102.7 L141.6,93.0 L135.4,91.7 L132.4,94.5 L122.2,93.9 L112.8,100.5 L108.5,99.9 L104.6,96.7 L106.2,90.0 L105.6,84.8 L102.9,73.2 L103.0,62.8 L102.2,59.4 L99.5,56.0 L103.0,48.9 L106.5,43.4 L114.2,39.3 L120.1,34.9 L128.5,35.2 L132.8,34.0 L139.1,25.9 L142.8,23.3 L147.2,25.9 L150.7,29.8 L159.2,34.6 L162.1,38.4 L166.8,50.1 L170.0,53.7 L170.8,57.4 L169.0,60.1 L169.5,63.0 L172.2,65.3 L173.6,68.5 L173.5,73.3 L174.9,77.1 L178.4,79.0 L190.1,78.8 L192.8,79.3 L213.9,95.1 L218.1,99.7 L221.4,104.2 L227.8,118.4 L229.7,124.6 L230.1,136.1 L231.1,140.4 L236.5,154.7 L238.1,162.4 L238.1,165.3 L236.2,169.5 L232.5,173.6 L231.7,176.4 L232.4,182.6 L228.0,185.3 L227.8,189.1 L220.4,190.4 L209.7,188.4 L204.2,188.9 L204.5,192.0 L200.3,194.0 L196.1,194.5 L195.3,189.4 L190.5,182.1 L189.7,176.9 L186.2,176.5 L183.7,177.6 L180.2,181.9 L178.3,183.1 L173.3,183.5 L171.5,181.2 L171.4,177.8 L170.2,176.1 L172.5,172.0 L179.1,165.9 L179.8,164.0 L179.9,158.3 L180.7,154.5 L178.5,148.8 L176.5,147.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>AL.KK</hasc>
+    <alt-name>Kosova|Kossovo</alt-name>
+    <woe-id>29389561</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL47</fips>
+    <postal-code>KK</postal-code>
+    <name>Kukës</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>20.1933</longitude>
+    <woe-name>Kukës</woe-name>
+    <latitude>42.0902</latitude>
+    <woe-label>Kukes, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>al-kk</hc-key>
+    <hc-a2>KK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.BE" d="M182.8,448.0 L185.9,452.3 L189.6,461.3 L191.1,465.9 L193.8,470.6 L196.1,476.1 L198.3,478.3 L205.4,479.7 L207.0,483.6 L204.7,488.5 L204.6,493.2 L206.3,495.0 L207.3,499.0 L206.5,509.7 L208.7,514.5 L196.3,515.9 L195.9,523.8 L192.7,525.8 L187.6,526.9 L184.6,529.0 L183.0,533.8 L177.9,532.7 L174.3,529.8 L156.7,506.4 L152.6,506.0 L149.7,504.4 L146.8,500.4 L143.4,499.2 L142.6,502.5 L137.9,500.7 L134.1,501.4 L127.2,497.7 L119.5,496.9 L113.9,493.3 L112.9,489.2 L104.1,483.6 L102.2,481.0 L99.7,473.9 L97.1,471.6 L101.3,467.9 L100.8,464.1 L96.1,458.5 L95.0,453.6 L88.2,449.1 L88.0,444.6 L89.1,440.2 L85.2,434.1 L83.9,429.4 L84.2,427.0 L90.0,426.9 L90.5,421.6 L91.8,418.9 L98.5,415.9 L101.0,418.6 L108.5,418.4 L109.5,416.8 L108.2,414.2 L112.0,412.9 L126.1,414.7 L132.0,411.4 L134.5,413.3 L133.8,416.4 L134.4,420.6 L133.7,423.8 L139.8,425.7 L143.5,427.9 L147.7,435.1 L151.2,437.9 L155.2,439.0 L158.4,441.1 L156.8,443.7 L162.3,446.0 L166.5,446.4 L170.3,450.3 L175.9,450.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AL.BE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389554</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL40</fips>
+    <postal-code>BE</postal-code>
+    <name>Berat</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>20.0865</longitude>
+    <woe-name>Berat</woe-name>
+    <latitude>40.6441</latitude>
+    <woe-label>Berat, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>al-be</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.EB" d="M182.8,448.0 L175.9,450.2 L170.3,450.3 L166.5,446.4 L162.3,446.0 L156.8,443.7 L158.4,441.1 L155.2,439.0 L151.2,437.9 L147.7,435.1 L143.5,427.9 L139.8,425.7 L133.7,423.8 L134.4,420.6 L133.8,416.4 L134.5,413.3 L132.0,411.4 L126.1,414.7 L112.0,412.9 L108.2,414.2 L101.1,412.1 L98.6,409.7 L97.0,406.4 L96.6,402.5 L97.4,398.4 L97.1,391.7 L98.6,388.2 L98.9,383.7 L94.5,383.0 L89.7,380.4 L83.4,380.8 L79.1,379.5 L75.2,376.1 L74.4,370.1 L78.0,370.9 L79.2,369.3 L80.1,363.1 L85.7,359.7 L87.8,355.2 L93.4,354.9 L98.8,355.4 L104.5,353.9 L105.4,352.5 L103.2,350.5 L107.4,346.9 L115.8,343.6 L119.6,342.8 L127.4,338.8 L134.0,331.7 L138.8,325.2 L141.3,324.2 L144.7,325.8 L150.7,321.2 L153.6,321.0 L156.5,315.5 L162.2,311.3 L171.6,308.8 L174.0,304.7 L181.7,299.2 L184.4,297.8 L192.0,298.9 L194.7,298.1 L197.5,295.0 L200.0,295.8 L202.9,294.6 L207.2,295.8 L211.3,294.8 L211.4,302.2 L212.3,304.5 L216.2,310.3 L217.1,317.7 L220.0,330.2 L222.1,336.1 L228.6,345.3 L231.3,350.7 L232.2,355.9 L232.0,360.0 L233.2,363.2 L236.8,364.9 L237.6,374.3 L237.0,378.5 L235.5,380.6 L227.2,378.0 L224.1,378.4 L217.0,382.6 L208.4,385.4 L206.1,387.4 L203.0,399.9 L198.7,402.1 L201.7,410.4 L209.1,420.8 L213.8,431.1 L209.6,439.0 L204.5,442.1 L191.1,443.6 L184.2,445.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AL.EB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389557</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL43</fips>
+    <postal-code>EB</postal-code>
+    <name>Elbasan</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>20.1358</longitude>
+    <woe-name>Elbasan</woe-name>
+    <latitude>41.0299</latitude>
+    <woe-label>Elbasan, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>al-eb</hc-key>
+    <hc-a2>EB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.GK" d="M208.7,514.5 L211.9,515.1 L208.5,520.3 L209.0,524.0 L212.0,527.6 L213.5,531.2 L213.6,534.7 L212.0,541.2 L215.5,553.2 L220.9,554.7 L217.6,560.0 L217.9,564.1 L222.4,575.3 L223.3,579.8 L232.8,590.4 L238.9,597.7 L232.2,600.9 L227.8,601.3 L218.4,599.8 L212.3,602.2 L206.4,601.5 L203.1,603.0 L200.7,605.8 L197.1,613.5 L196.3,617.7 L193.4,618.3 L184.5,618.5 L182.3,619.1 L183.2,621.0 L185.8,635.0 L190.9,640.7 L199.0,654.3 L199.7,658.4 L198.2,663.0 L195.1,666.2 L192.1,665.8 L188.9,663.9 L182.3,661.3 L180.0,657.2 L180.6,651.5 L179.1,648.4 L176.4,647.1 L171.7,646.7 L170.7,641.0 L167.4,636.7 L165.7,630.2 L157.6,622.1 L153.6,620.5 L150.6,618.2 L136.8,604.2 L129.2,601.8 L121.1,602.9 L118.7,600.4 L113.4,586.4 L110.0,580.8 L109.8,578.5 L106.7,570.6 L100.9,565.3 L100.1,563.6 L101.5,560.5 L100.8,557.6 L97.8,551.5 L100.0,548.8 L96.4,546.8 L93.3,542.2 L88.2,536.8 L87.4,534.9 L91.3,531.2 L93.8,527.0 L93.5,521.8 L90.8,517.2 L93.3,517.7 L99.5,505.9 L106.1,500.2 L109.6,495.2 L113.9,493.3 L119.5,496.9 L127.2,497.7 L134.1,501.4 L137.9,500.7 L142.6,502.5 L143.4,499.2 L146.8,500.4 L149.7,504.4 L152.6,506.0 L156.7,506.4 L174.3,529.8 L177.9,532.7 L183.0,533.8 L184.6,529.0 L187.6,526.9 L192.7,525.8 L195.9,523.8 L196.3,515.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>AL.GK</hasc>
+    <alt-name>Gjinokastër|Argirocastro|Argyrocastro|Argyrokastron</alt-name>
+    <woe-id>29389559</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL45</fips>
+    <postal-code>GK</postal-code>
+    <name>Gjirokastër</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>20.1868</longitude>
+    <woe-name>Gjirokastër</woe-name>
+    <latitude>40.1927</latitude>
+    <woe-label>Gjirokaster, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>al-gk</hc-key>
+    <hc-a2>GK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.DB" d="M117.8,265.8 L111.0,260.2 L104.9,252.4 L102.4,241.8 L99.5,237.9 L101.0,233.6 L100.6,223.7 L101.4,219.9 L105.4,222.2 L109.2,223.2 L114.8,222.0 L117.5,220.6 L120.9,224.5 L124.4,225.7 L129.1,220.9 L132.0,220.7 L138.1,221.8 L141.5,219.2 L142.2,216.4 L144.2,214.5 L160.9,207.9 L162.3,205.8 L162.4,201.2 L161.6,199.6 L154.2,193.1 L154.3,191.7 L161.5,189.9 L167.2,184.2 L170.2,179.4 L170.2,176.1 L171.4,177.8 L171.5,181.2 L173.3,183.5 L178.3,183.1 L180.2,181.9 L183.7,177.6 L186.2,176.5 L189.7,176.9 L190.5,182.1 L195.3,189.4 L196.1,194.5 L200.3,194.0 L204.5,192.0 L204.2,188.9 L209.7,188.4 L220.4,190.4 L227.8,189.1 L229.5,201.0 L228.4,203.1 L222.6,209.2 L220.7,214.7 L222.0,231.5 L222.8,236.5 L226.4,247.2 L225.5,251.7 L224.0,253.2 L219.1,255.6 L210.7,257.4 L211.3,260.7 L210.7,266.9 L211.9,270.4 L215.2,272.7 L218.0,278.7 L218.6,283.8 L224.1,286.2 L227.2,292.0 L227.1,295.1 L225.9,299.0 L221.9,305.0 L219.4,306.5 L216.9,305.7 L216.2,310.3 L212.3,304.5 L211.4,302.2 L211.3,294.8 L207.2,295.8 L202.9,294.6 L200.0,295.8 L197.5,295.0 L194.7,298.1 L192.0,298.9 L184.4,297.8 L181.7,299.2 L174.0,304.7 L160.8,299.9 L158.4,298.1 L151.9,290.9 L147.0,290.8 L144.1,294.0 L141.9,293.6 L139.1,289.7 L133.0,285.1 L130.2,277.8 L126.6,272.3 L123.3,268.5 L119.8,265.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>AL.DB</hasc>
+    <alt-name>Dibra| Dibrë</alt-name>
+    <woe-id>29389555</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL41</fips>
+    <postal-code>DB</postal-code>
+    <name>Dibër</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>20.1772</longitude>
+    <woe-name>Dibër</woe-name>
+    <latitude>41.608</latitude>
+    <woe-label>Diber, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>al-db</hc-key>
+    <hc-a2>DB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.LZ" d="M170.2,176.1 L170.2,179.4 L167.2,184.2 L161.5,189.9 L154.3,191.7 L154.2,193.1 L161.6,199.6 L162.4,201.2 L162.3,205.8 L160.9,207.9 L144.2,214.5 L142.2,216.4 L141.5,219.2 L138.1,221.8 L132.0,220.7 L129.1,220.9 L124.4,225.7 L120.9,224.5 L117.5,220.6 L114.8,222.0 L109.2,223.2 L105.4,222.2 L101.4,219.9 L100.6,223.7 L101.0,233.6 L99.5,237.9 L102.4,241.8 L104.9,252.4 L100.4,252.0 L95.9,247.6 L94.1,246.9 L91.3,250.8 L89.1,252.4 L83.6,254.0 L78.7,254.0 L74.3,249.6 L70.4,247.6 L63.9,249.4 L62.3,251.4 L56.3,247.9 L57.8,247.4 L61.4,239.5 L62.6,239.5 L63.3,243.4 L66.2,242.9 L64.1,235.0 L62.6,236.5 L61.9,234.6 L56.8,229.9 L60.5,223.7 L60.3,216.5 L59.5,208.7 L59.6,204.5 L62.8,205.7 L64.4,202.7 L64.7,197.8 L63.3,193.4 L62.2,193.4 L52.6,189.3 L52.2,186.7 L41.9,178.2 L41.2,175.4 L43.2,171.0 L47.1,171.7 L55.9,176.8 L58.4,176.0 L60.4,173.9 L60.0,169.1 L58.3,165.5 L63.7,164.5 L69.6,166.9 L68.3,170.9 L71.9,172.3 L79.7,171.6 L86.3,176.0 L91.3,172.3 L89.3,166.2 L94.7,166.0 L99.1,164.3 L104.2,166.9 L107.0,166.6 L112.5,161.0 L117.5,159.4 L118.5,160.4 L120.5,167.3 L124.5,172.8 L124.6,175.3 L123.0,178.5 L126.1,181.0 L132.8,181.3 L135.1,180.2 L138.4,174.8 L142.3,171.0 L146.6,168.1 L148.2,165.8 L149.7,161.1 L153.3,158.2 L164.3,152.7 L171.4,146.2 L176.5,147.2 L178.5,148.8 L180.7,154.5 L179.9,158.3 L179.8,164.0 L179.1,165.9 L172.5,172.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AL.LZ</hasc>
+    <alt-name>Alessio|Lezha</alt-name>
+    <woe-id>29389562</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL48</fips>
+    <postal-code>LZ</postal-code>
+    <name>Lezhë</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>19.8649</longitude>
+    <woe-name>Lezhë</woe-name>
+    <latitude>41.824</latitude>
+    <woe-label>Lezhe, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>al-lz</hc-key>
+    <hc-a2>LZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL.TI" d="M174.0,304.7 L171.6,308.8 L162.2,311.3 L156.5,315.5 L153.6,321.0 L150.7,321.2 L144.7,325.8 L141.3,324.2 L138.8,325.2 L134.0,331.7 L127.4,338.8 L119.6,342.8 L115.8,343.6 L107.4,346.9 L103.2,350.5 L105.4,352.5 L104.5,353.9 L98.8,355.4 L93.4,354.9 L87.8,355.2 L85.7,359.7 L80.1,363.1 L79.2,369.3 L78.0,370.9 L74.4,370.1 L74.8,367.4 L72.8,367.3 L68.8,369.5 L61.5,367.0 L53.9,371.9 L46.2,372.0 L44.5,374.4 L41.4,372.2 L38.7,371.8 L39.4,374.5 L37.1,375.6 L35.0,380.4 L33.8,377.8 L34.7,375.5 L37.0,357.9 L34.6,349.3 L38.4,347.6 L39.4,339.2 L46.8,327.8 L48.0,322.5 L52.4,322.0 L57.2,324.1 L60.4,326.5 L64.0,320.2 L68.6,316.3 L70.2,312.0 L70.7,302.5 L70.3,299.7 L67.7,297.9 L66.7,292.9 L67.2,279.8 L71.8,278.8 L75.3,279.8 L78.7,275.9 L79.9,277.8 L80.4,281.7 L84.0,288.4 L87.2,289.1 L90.5,287.8 L95.6,284.3 L102.9,281.4 L104.7,278.4 L107.1,280.2 L110.0,279.8 L114.5,275.1 L117.3,269.5 L117.8,265.8 L119.8,265.9 L123.3,268.5 L126.6,272.3 L130.2,277.8 L133.0,285.1 L139.1,289.7 L141.9,293.6 L144.1,294.0 L147.0,290.8 L151.9,290.9 L158.4,298.1 L160.8,299.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>AL.TI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389564</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AL50</fips>
+    <postal-code>TI</postal-code>
+    <name>Tirana</name>
+    <country>Albania</country>
+    <type-en>County</type-en>
+    <region>NULL</region>
+    <longitude>19.8383</longitude>
+    <woe-name>Tirana</woe-name>
+    <latitude>41.1326</latitude>
+    <woe-label>Tiranë, AL, Albania</woe-label>
+    <type>Qark|Region</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>al-ti</hc-key>
+    <hc-a2>TI</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Antigua and Barbuda</title>
+<g id="admin1">
+
+<g id="AG">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Antigua and Barbuda</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Ant.B.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>ATG</iso-a3>
+    <iso-a2>AG</iso-a2>
+    <woe-id>23424737</woe-id>
+    <continent>North America</continent>
+    <hc-key>ag</hc-key>
+    <hc-a2>AA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG.6313" d="M432.3,27.5 L443.4,31.3 L461.0,25.1 L471.9,27.2 L485.5,37.4 L497.3,51.2 L506.7,66.5 L513.0,80.8 L519.2,107.1 L520.1,121.6 L518.6,135.3 L513.0,151.8 L507.3,154.8 L498.6,154.1 L484.2,159.4 L478.8,143.8 L463.8,132.7 L426.5,117.9 L415.7,123.9 L411.0,111.3 L409.1,75.5 L405.2,59.4 L400.2,46.0 L396.6,32.2 L397.2,15.1 L400.3,18.0 L401.6,20.9 L403.0,27.6 L408.2,38.2 L421.7,54.2 L426.2,63.4 L426.0,75.7 L422.8,86.1 L422.8,94.3 L432.7,99.8 L436.8,83.5 L437.9,61.1 L432.6,41.4 L417.4,33.0 L411.2,23.4 L415.1,6.6 L426.8,0.0 L443.7,21.4 L438.0,24.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AG.BB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344541</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AC01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Barbuda</name>
+    <country>Antigua and Barbuda</country>
+    <type-en>Dependency</type-en>
+    <region>NULL</region>
+    <longitude>-61.792</longitude>
+    <woe-name>Barbuda</woe-name>
+    <latitude>17.6155</latitude>
+    <woe-label>Barbuda, AG, Antigua and Barbuda</woe-label>
+    <type>Dependency</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>ag-6313</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG.6598" d="M3.2,699.5 L1.0,700.0 L0.0,698.5 L0.8,695.3 L2.2,693.7 L3.1,692.6 L4.4,692.2 L4.5,694.4 L4.4,697.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AG.RD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AC09</fips>
+    <postal-code>NULL</postal-code>
+    <name>Redonda</name>
+    <country>Antigua and Barbuda</country>
+    <type-en>Dependency</type-en>
+    <region>NULL</region>
+    <longitude>-62.3467</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>16.9335</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Dependency</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ag-6598</hc-key>
+    <hc-a2>RE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG.6599" d="M467.2,493.4 L478.0,509.0 L484.6,527.0 L498.7,537.8 L494.0,543.1 L498.4,550.2 L499.3,559.1 L489.9,562.8 L483.9,575.4 L477.9,572.7 L465.8,564.7 L467.4,554.9 L464.7,536.1 L457.8,529.9 L456.8,512.0 L468.9,511.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AG.GE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344542</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AC03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint George</name>
+    <country>Antigua and Barbuda</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.7804</longitude>
+    <woe-name>Saint George</woe-name>
+    <latitude>17.1084</latitude>
+    <woe-label>Saint George, AG, Antigua and Barbuda</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>ag-6599</hc-key>
+    <hc-a2>SG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG.6600" d="M483.9,575.4 L489.9,562.8 L499.3,559.1 L498.4,550.2 L494.0,543.1 L498.7,537.8 L499.4,530.0 L501.7,524.8 L509.6,513.7 L514.4,521.2 L521.0,525.5 L529.3,526.9 L538.9,525.5 L534.8,530.2 L532.5,533.5 L528.9,535.9 L521.3,537.6 L525.2,550.2 L533.9,556.0 L522.6,564.4 L518.4,581.4 L505.5,585.1 L484.0,585.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AG.PE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344546</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AC07</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Peter</name>
+    <country>Antigua and Barbuda</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.7404</longitude>
+    <woe-name>Saint Peter</woe-name>
+    <latitude>17.0935</latitude>
+    <woe-label>Saint Peter, AG, Antigua and Barbuda</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>ag-6600</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG.6601" d="M518.4,581.4 L522.6,564.4 L533.9,556.0 L545.0,555.6 L556.4,549.4 L562.7,549.3 L567.0,553.6 L569.9,557.9 L573.8,567.8 L568.1,567.4 L556.5,568.3 L550.7,567.9 L558.6,577.6 L565.9,582.3 L570.1,587.0 L568.2,597.2 L558.8,612.5 L549.3,613.2 L538.3,607.7 L524.6,604.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AG.PH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344547</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AC08</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Philip</name>
+    <country>Antigua and Barbuda</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.7021</longitude>
+    <woe-name>Saint Philip</woe-name>
+    <latitude>17.0601</latitude>
+    <woe-label>Saint Philip, AG, Antigua and Barbuda</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>ag-6601</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG.6602" d="M524.6,604.0 L518.0,607.2 L517.8,615.2 L521.9,636.8 L515.7,647.3 L501.8,640.7 L488.0,628.4 L482.0,621.8 L476.3,623.2 L459.1,631.8 L453.2,617.6 L455.7,607.8 L449.6,596.2 L456.4,589.0 L475.3,583.5 L484.0,585.2 L505.5,585.1 L518.4,581.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AG.PA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344545</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AC06</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Paul</name>
+    <country>Antigua and Barbuda</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.7671</longitude>
+    <woe-name>Saint Paul</woe-name>
+    <latitude>17.0352</latitude>
+    <woe-label>Saint Paul, AG, Antigua and Barbuda</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>ag-6602</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG.6603" d="M449.6,596.2 L455.7,607.8 L453.2,617.6 L459.1,631.8 L447.4,633.9 L429.8,634.1 L418.8,631.7 L391.8,615.5 L386.1,607.6 L391.7,595.6 L395.4,585.5 L392.3,577.0 L392.6,569.4 L406.2,562.3 L416.6,555.2 L424.4,562.3 L439.1,565.8 L440.0,568.5 L435.7,578.3 L432.4,600.7 L445.2,586.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AG.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344544</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AC05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Mary</name>
+    <country>Antigua and Barbuda</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.857</longitude>
+    <woe-name>Saint Mary</woe-name>
+    <latitude>17.0368</latitude>
+    <woe-label>Saint Mary, AG, Antigua and Barbuda</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>ag-6603</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG.6604" d="M483.9,575.4 L484.0,585.2 L475.3,583.5 L456.4,589.0 L449.6,596.2 L445.2,586.3 L432.4,600.7 L435.7,578.3 L440.0,568.5 L439.1,565.8 L424.4,562.3 L416.6,555.2 L406.2,562.3 L400.2,560.0 L382.6,550.4 L391.8,541.6 L406.7,535.1 L426.1,529.2 L419.2,517.7 L420.6,507.3 L428.2,498.1 L440.3,490.2 L467.2,493.4 L468.9,511.0 L456.8,512.0 L457.8,529.9 L464.7,536.1 L467.4,554.9 L465.8,564.7 L477.9,572.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AG.JO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344543</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AC04</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint John</name>
+    <country>Antigua and Barbuda</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-61.8237</longitude>
+    <woe-name>Saint John</woe-name>
+    <latitude>17.1101</latitude>
+    <woe-label>Saint John, AG, Antigua and Barbuda</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ag-6604</hc-key>
+    <hc-a2>SJ</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

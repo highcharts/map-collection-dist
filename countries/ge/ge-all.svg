@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Georgia</title>
+<g id="admin1">
+
+<g id="GE">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Georgia</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Geo.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>GEO</iso-a3>
+    <iso-a2>GE</iso-a2>
+    <woe-id>23424823</woe-id>
+    <continent>Asia</continent>
+    <hc-key>ge</hc-key>
+    <hc-a2>GE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.AB" d="M156.2,173.0 L152.2,139.6 L150.6,133.9 L148.2,129.0 L144.9,125.2 L140.7,122.5 L132.8,120.7 L129.5,118.0 L124.5,115.4 L122.4,115.0 L119.0,116.5 L116.6,116.0 L112.2,108.6 L110.2,99.7 L106.2,92.0 L104.6,87.8 L102.0,87.8 L97.8,89.4 L95.3,88.4 L87.7,76.6 L80.3,73.2 L69.9,71.3 L59.2,71.5 L54.2,66.5 L49.0,64.5 L40.9,60.0 L37.1,59.4 L34.2,62.7 L31.0,55.7 L27.8,51.6 L28.5,47.2 L27.2,42.9 L23.5,36.8 L14.9,33.0 L11.7,29.5 L0.0,25.4 L0.7,23.0 L8.8,5.1 L12.9,1.5 L20.0,0.0 L27.1,0.4 L52.0,11.4 L56.1,12.1 L59.4,11.4 L66.2,8.3 L70.0,8.0 L72.9,9.7 L78.8,14.7 L89.2,18.9 L92.4,21.0 L106.0,33.1 L109.2,34.0 L120.0,33.1 L123.5,34.0 L129.9,38.6 L133.4,40.3 L140.9,39.2 L144.0,40.6 L146.2,45.4 L148.5,48.1 L153.8,50.0 L156.5,51.8 L160.9,56.7 L163.6,58.4 L167.4,58.9 L175.1,58.2 L178.8,58.7 L185.5,60.9 L188.8,61.4 L196.0,60.8 L202.0,62.0 L208.5,64.9 L215.1,64.6 L223.5,60.3 L220.7,67.3 L220.8,75.3 L219.2,79.3 L212.4,88.4 L206.9,90.6 L196.7,92.1 L194.2,95.2 L195.9,97.6 L198.5,110.1 L194.3,114.2 L195.7,123.6 L195.8,130.8 L198.5,135.9 L199.0,142.1 L198.0,144.6 L193.8,147.4 L191.9,149.9 L183.4,157.6 L173.8,162.7 L168.5,164.3 L164.6,168.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.AB</hasc>
+    <alt-name>Sokhumi</alt-name>
+    <woe-id>20070401</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG02</fips>
+    <postal-code>AB</postal-code>
+    <name>Abkhazia</name>
+    <country>Georgia</country>
+    <type-en>Autonomous Republic</type-en>
+    <region>NULL</region>
+    <longitude>41.0701</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>43.1479</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Avtonomiuri Respublika</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>ge-ab</hc-key>
+    <hc-a2>AB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.AJ" d="M261.7,294.1 L259.4,295.7 L258.3,298.1 L257.1,303.8 L250.2,313.2 L248.0,314.6 L245.3,314.7 L226.8,306.8 L219.0,306.6 L215.8,303.9 L210.8,304.7 L207.8,303.7 L200.9,305.6 L193.4,302.4 L187.5,305.0 L184.0,309.7 L178.5,313.7 L173.2,309.0 L168.7,308.0 L167.0,306.5 L167.1,303.8 L163.6,304.8 L159.0,304.7 L147.9,299.4 L155.4,287.2 L158.7,283.0 L165.2,279.1 L167.2,274.9 L172.5,266.9 L173.1,262.9 L176.5,256.9 L176.9,245.4 L190.8,246.6 L195.1,249.4 L195.5,252.4 L200.7,254.7 L207.1,259.4 L211.3,258.3 L216.5,257.9 L221.7,260.9 L224.8,261.8 L232.5,260.8 L238.3,257.5 L241.2,256.7 L243.6,257.3 L247.5,261.6 L251.5,262.7 L252.9,267.1 L252.6,272.0 L251.0,276.5 L252.7,280.3 L257.8,286.0 L260.8,291.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.AJ</hasc>
+    <alt-name>Batumi</alt-name>
+    <woe-id>20070400</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG04</fips>
+    <postal-code>AJ</postal-code>
+    <name>Ajaria</name>
+    <country>Georgia</country>
+    <type-en>Autonomous Republic</type-en>
+    <region>NULL</region>
+    <longitude>42.0537</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>41.6552</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Avtonomiuri Respublika</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ge-aj</hc-key>
+    <hc-a2>AJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.GU" d="M251.5,262.7 L247.5,261.6 L243.6,257.3 L241.2,256.7 L238.3,257.5 L232.5,260.8 L224.8,261.8 L221.7,260.9 L216.5,257.9 L211.3,258.3 L207.1,259.4 L200.7,254.7 L195.5,252.4 L195.1,249.4 L190.8,246.6 L176.9,245.4 L175.6,230.6 L171.6,222.9 L174.0,219.3 L176.2,212.7 L182.9,211.7 L189.6,211.7 L202.8,210.0 L208.6,211.6 L213.8,215.4 L220.5,216.5 L226.0,219.5 L223.5,223.1 L225.9,227.0 L233.1,228.7 L238.1,226.2 L241.9,227.2 L243.8,230.7 L245.1,234.9 L248.1,236.8 L251.8,238.0 L254.5,240.1 L261.4,244.0 L264.8,243.9 L268.0,244.8 L269.4,251.0 L269.4,258.2 L266.7,258.2 L264.3,259.8 L261.5,263.7 L256.7,262.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.GU</hasc>
+    <alt-name>Ozurgeti</alt-name>
+    <woe-id>-20070376</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG65</fips>
+    <postal-code>GU</postal-code>
+    <name>Guria</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>42.1824</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>41.9634</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ge-gu</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.SZ" d="M226.0,219.5 L220.5,216.5 L213.8,215.4 L208.6,211.6 L202.8,210.0 L189.6,211.7 L182.9,211.7 L176.2,212.7 L174.0,219.3 L171.6,222.9 L168.6,217.2 L166.5,215.0 L165.4,201.0 L160.6,181.3 L156.8,176.4 L156.2,173.0 L164.6,168.8 L168.5,164.3 L173.8,162.7 L183.4,157.6 L191.9,149.9 L193.8,147.4 L198.0,144.6 L199.0,142.1 L198.5,135.9 L195.8,130.8 L195.7,123.6 L194.3,114.2 L198.5,110.1 L195.9,97.6 L194.2,95.2 L196.7,92.1 L206.9,90.6 L212.4,88.4 L219.2,79.3 L220.8,75.3 L220.7,67.3 L223.5,60.3 L226.8,59.3 L244.4,58.4 L251.4,59.6 L257.2,63.8 L262.8,69.0 L269.0,72.8 L272.5,72.7 L277.2,69.3 L280.4,69.3 L285.3,68.0 L289.4,68.2 L293.4,69.3 L302.1,76.2 L310.8,79.7 L309.6,86.2 L310.5,87.7 L315.6,91.4 L326.5,102.3 L328.5,103.4 L325.1,104.7 L321.4,109.6 L319.1,111.8 L318.7,116.2 L316.7,119.1 L313.8,118.5 L307.4,115.9 L299.8,116.7 L288.6,111.3 L283.1,114.2 L277.0,113.8 L257.1,108.3 L254.6,113.2 L252.2,114.3 L248.3,114.5 L244.9,116.3 L242.2,121.1 L247.8,126.2 L259.3,133.2 L263.9,138.2 L260.9,144.1 L268.4,160.2 L259.2,160.9 L255.9,164.1 L254.2,168.9 L251.4,172.5 L251.2,176.6 L249.7,179.9 L242.1,188.2 L237.3,195.6 L235.9,199.2 L233.9,201.5 L232.7,207.4 L232.6,214.8 L230.2,219.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.SZ</hasc>
+    <alt-name>Zugdidi</alt-name>
+    <woe-id>-20070392</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG71</fips>
+    <postal-code>SZ</postal-code>
+    <name>Samegrelo-Zemo Svaneti</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>42.3632</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>42.5492</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ge-sz</hc-key>
+    <hc-a2>SZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.IM" d="M269.4,258.2 L269.4,251.0 L268.0,244.8 L264.8,243.9 L261.4,244.0 L254.5,240.1 L251.8,238.0 L248.1,236.8 L245.1,234.9 L243.8,230.7 L241.9,227.2 L238.1,226.2 L233.1,228.7 L225.9,227.0 L223.5,223.1 L226.0,219.5 L230.2,219.1 L232.6,214.8 L232.7,207.4 L233.9,201.5 L235.9,199.2 L237.3,195.6 L242.1,188.2 L249.7,179.9 L251.2,176.6 L251.4,172.5 L254.2,168.9 L255.9,164.1 L259.2,160.9 L268.4,160.2 L269.3,163.5 L269.9,172.8 L281.3,169.3 L286.6,170.8 L289.0,168.5 L291.6,168.5 L297.3,172.3 L302.6,177.4 L303.8,181.9 L306.4,184.1 L308.6,184.6 L313.5,187.5 L321.1,187.0 L325.6,185.3 L329.3,181.6 L339.4,176.6 L350.6,178.0 L361.3,177.3 L370.2,180.8 L373.9,183.1 L378.0,183.8 L384.0,181.6 L387.3,181.2 L389.7,184.1 L388.3,188.6 L388.2,193.2 L380.1,195.3 L372.9,200.3 L372.0,204.5 L372.5,209.0 L371.9,212.7 L368.9,215.3 L365.5,223.1 L359.0,228.5 L358.5,234.5 L356.8,239.5 L352.9,242.8 L352.0,248.3 L320.1,260.6 L316.5,259.6 L305.6,260.3 L301.0,262.1 L296.2,261.9 L287.2,259.7 L275.9,262.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.IM</hasc>
+    <alt-name>Kutaisi</alt-name>
+    <woe-id>-20070391</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG66</fips>
+    <postal-code>IM</postal-code>
+    <name>Imereti</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>42.9894</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>42.093</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>ge-im</hc-key>
+    <hc-a2>IM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.KA" d="M550.3,158.6 L552.5,162.8 L556.0,164.2 L560.5,163.6 L569.0,161.0 L575.0,161.1 L583.8,162.6 L592.0,165.7 L596.3,170.8 L596.0,174.2 L584.2,205.9 L585.3,209.2 L592.7,213.2 L604.4,221.2 L611.8,223.1 L613.2,224.5 L616.3,231.9 L618.9,234.2 L623.9,232.7 L627.3,235.0 L630.6,234.4 L632.4,238.2 L635.0,239.4 L638.2,239.4 L645.4,237.8 L648.2,238.0 L651.0,240.2 L655.7,245.7 L658.8,247.0 L665.1,247.4 L667.7,248.8 L670.3,252.3 L666.4,260.7 L664.2,264.4 L659.7,270.0 L656.5,272.3 L649.3,271.5 L647.0,271.8 L645.0,274.0 L644.0,278.9 L644.2,286.1 L645.6,292.4 L648.5,294.8 L650.6,291.6 L652.1,291.5 L654.8,296.8 L656.9,306.4 L658.8,308.7 L664.4,312.5 L667.8,313.6 L672.9,318.1 L683.4,322.3 L688.7,325.4 L690.4,329.3 L692.1,328.6 L695.8,332.7 L700.0,339.8 L697.9,341.0 L697.6,344.6 L694.8,348.7 L693.8,352.5 L692.5,361.9 L690.5,364.9 L684.3,364.6 L682.0,366.0 L679.4,372.1 L675.1,371.1 L670.2,365.6 L663.8,363.6 L661.6,362.3 L655.2,356.6 L650.3,351.2 L648.3,350.5 L640.3,350.7 L637.9,351.2 L632.4,354.9 L627.7,355.9 L622.5,355.4 L606.6,349.8 L599.1,345.3 L594.6,341.5 L592.0,337.5 L594.4,334.5 L598.4,332.8 L595.7,330.9 L588.7,329.6 L573.3,323.7 L568.3,318.7 L563.2,319.5 L559.4,319.4 L554.2,316.7 L551.5,307.2 L549.5,304.4 L542.8,303.3 L540.9,302.0 L539.5,295.4 L543.1,287.0 L540.3,274.8 L538.4,271.0 L534.3,270.6 L530.8,268.1 L525.7,261.1 L524.3,256.9 L521.0,254.9 L523.8,251.8 L526.9,249.9 L532.7,253.6 L541.2,252.4 L537.5,247.8 L527.3,245.4 L526.3,241.0 L528.0,237.1 L526.1,232.7 L524.5,223.2 L526.0,219.9 L527.6,211.8 L529.6,208.6 L531.7,201.4 L537.0,195.7 L541.3,194.6 L542.2,189.1 L540.9,183.4 L541.9,180.1 L544.2,178.0 L545.8,174.4 L545.5,170.1 L546.9,163.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.KA</hasc>
+    <alt-name>Telavi</alt-name>
+    <woe-id>-20070369</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG67</fips>
+    <postal-code>KA</postal-code>
+    <name>Kakheti</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>45.8579</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>41.6527</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ge-ka</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.MM" d="M433.4,148.8 L438.1,144.9 L440.1,141.0 L442.5,138.1 L451.8,138.0 L456.1,136.6 L464.3,132.3 L472.5,131.1 L477.0,131.7 L481.3,133.1 L485.2,135.3 L491.1,141.9 L493.7,150.2 L495.9,150.5 L497.6,142.7 L501.3,133.9 L504.0,130.3 L508.6,131.2 L520.0,139.4 L523.7,140.7 L531.6,138.4 L535.0,139.7 L538.0,142.3 L548.3,154.8 L550.3,158.6 L546.9,163.6 L545.5,170.1 L545.8,174.4 L544.2,178.0 L541.9,180.1 L540.9,183.4 L542.2,189.1 L541.3,194.6 L537.0,195.7 L531.7,201.4 L529.6,208.6 L527.6,211.8 L526.0,219.9 L524.5,223.2 L526.1,232.7 L528.0,237.1 L526.3,241.0 L527.3,245.4 L537.5,247.8 L541.2,252.4 L532.7,253.6 L526.9,249.9 L523.8,251.8 L521.0,254.9 L524.3,256.9 L525.7,261.1 L520.4,261.4 L515.1,260.1 L512.8,261.0 L511.0,263.6 L509.8,267.6 L507.3,270.7 L500.7,267.3 L498.0,267.0 L496.4,270.0 L493.4,271.9 L490.3,271.8 L488.2,276.6 L486.1,277.5 L484.8,279.7 L479.2,282.5 L474.2,278.0 L469.3,274.4 L463.4,273.6 L463.4,270.0 L465.5,267.5 L465.1,262.1 L468.1,259.2 L472.0,259.1 L473.5,255.1 L470.6,250.6 L467.2,246.5 L465.1,237.0 L461.5,234.9 L453.9,233.2 L450.3,233.0 L444.1,238.1 L443.6,234.5 L440.7,232.9 L440.2,230.5 L441.2,227.7 L441.5,220.4 L443.2,213.5 L445.8,211.5 L447.5,207.9 L451.5,203.8 L450.7,199.3 L449.0,195.5 L449.2,186.8 L446.3,183.5 L445.7,179.0 L443.8,176.8 L445.4,171.8 L448.8,167.6 L445.4,163.6 L442.0,157.4 L437.0,156.0 L434.9,153.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.MM</hasc>
+    <alt-name>Mtskheta</alt-name>
+    <woe-id>-20070363</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG69</fips>
+    <postal-code>MM</postal-code>
+    <name>Mtskheta-Mtianeti</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>44.7435</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>42.2106</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>ge-mm</hc-key>
+    <hc-a2>MM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.RK" d="M370.2,180.8 L361.3,177.3 L350.6,178.0 L339.4,176.6 L329.3,181.6 L325.6,185.3 L321.1,187.0 L313.5,187.5 L308.6,184.6 L306.4,184.1 L303.8,181.9 L302.6,177.4 L297.3,172.3 L291.6,168.5 L289.0,168.5 L286.6,170.8 L281.3,169.3 L269.9,172.8 L269.3,163.5 L268.4,160.2 L260.9,144.1 L263.9,138.2 L259.3,133.2 L247.8,126.2 L242.2,121.1 L244.9,116.3 L248.3,114.5 L252.2,114.3 L254.6,113.2 L257.1,108.3 L277.0,113.8 L283.1,114.2 L288.6,111.3 L299.8,116.7 L307.4,115.9 L313.8,118.5 L316.7,119.1 L318.7,116.2 L319.1,111.8 L321.4,109.6 L325.1,104.7 L328.5,103.4 L330.5,104.6 L360.1,113.6 L364.0,114.6 L371.1,118.3 L377.1,125.0 L379.0,126.3 L388.7,128.8 L393.3,131.3 L394.4,135.4 L392.0,138.8 L385.3,144.2 L384.9,148.4 L387.8,152.1 L392.5,153.5 L397.7,153.9 L401.9,155.1 L404.2,157.0 L403.5,164.1 L397.9,168.1 L395.5,172.2 L393.5,173.1 L378.9,174.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.RK</hasc>
+    <alt-name>Ambrolauri</alt-name>
+    <woe-id>-20070380</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG70</fips>
+    <postal-code>RK</postal-code>
+    <name>Racha-Lechkhumi-Kvemo Svaneti</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>43.1304</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>42.6296</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>ge-rk</hc-key>
+    <hc-a2>RK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.TB" d="M484.8,279.7 L486.1,277.5 L488.2,276.6 L490.3,271.8 L493.4,271.9 L496.4,270.0 L498.0,267.0 L500.7,267.3 L507.3,270.7 L504.1,273.6 L503.9,276.1 L505.9,277.9 L507.1,282.9 L508.8,284.3 L513.1,285.9 L515.5,285.3 L518.7,281.9 L519.7,285.4 L516.7,289.9 L512.7,291.2 L508.6,290.9 L505.5,289.4 L500.3,288.5 L491.6,284.1 L488.5,284.2 L486.7,280.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>GE.TB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070358</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG51</fips>
+    <postal-code>TB</postal-code>
+    <name>Tbilisi</name>
+    <country>Georgia</country>
+    <type-en>Independent City</type-en>
+    <region>NULL</region>
+    <longitude>44.845</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>41.7153</latitude>
+    <woe-label>NULL</woe-label>
+    <type>K'alak'i</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>ge-tb</hc-key>
+    <hc-a2>TB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.KK" d="M525.7,261.1 L530.8,268.1 L534.3,270.6 L538.4,271.0 L540.3,274.8 L543.1,287.0 L539.5,295.4 L540.9,302.0 L542.8,303.3 L549.5,304.4 L551.5,307.2 L554.2,316.7 L548.7,315.5 L545.3,316.7 L519.0,338.6 L513.9,342.6 L509.8,342.7 L499.5,341.0 L497.4,343.1 L498.3,345.1 L502.3,347.1 L502.4,350.2 L499.6,350.5 L483.9,350.2 L477.3,348.1 L474.9,349.1 L470.7,354.6 L468.5,353.9 L466.9,350.3 L462.9,353.3 L460.3,354.0 L455.6,353.0 L449.9,349.5 L447.3,349.7 L444.6,352.0 L440.1,351.7 L435.0,348.0 L432.1,346.8 L429.7,347.7 L428.7,351.3 L424.9,354.1 L422.7,354.5 L418.1,353.2 L416.0,353.4 L409.2,355.8 L408.2,348.4 L405.7,344.1 L405.0,337.8 L406.6,331.6 L405.2,325.8 L403.0,324.4 L402.2,321.1 L401.5,313.0 L398.6,308.0 L395.9,305.0 L390.8,304.6 L385.7,305.9 L381.0,306.0 L377.3,305.2 L379.5,301.8 L380.7,298.3 L381.6,284.2 L384.1,279.7 L388.7,280.6 L395.1,280.4 L400.4,274.9 L424.9,277.6 L431.6,276.1 L436.6,277.3 L441.8,276.5 L448.2,273.4 L451.8,276.5 L454.2,277.5 L461.7,277.3 L463.4,273.6 L469.3,274.4 L474.2,278.0 L479.2,282.5 L484.8,279.7 L486.7,280.2 L488.5,284.2 L491.6,284.1 L500.3,288.5 L505.5,289.4 L508.6,290.9 L512.7,291.2 L516.7,289.9 L519.7,285.4 L518.7,281.9 L515.5,285.3 L513.1,285.9 L508.8,284.3 L507.1,282.9 L505.9,277.9 L503.9,276.1 L504.1,273.6 L507.3,270.7 L509.8,267.6 L511.0,263.6 L512.8,261.0 L515.1,260.1 L520.4,261.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.KK</hasc>
+    <alt-name>Rustavi</alt-name>
+    <woe-id>-20070355</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG68</fips>
+    <postal-code>KK</postal-code>
+    <name>Kvemo Kartli</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>44.5029</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>41.4755</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>ge-kk</hc-key>
+    <hc-a2>KK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.SJ" d="M400.4,274.9 L395.1,280.4 L388.7,280.6 L384.1,279.7 L381.6,284.2 L380.7,298.3 L379.5,301.8 L377.3,305.2 L381.0,306.0 L385.7,305.9 L390.8,304.6 L395.9,305.0 L398.6,308.0 L401.5,313.0 L402.2,321.1 L403.0,324.4 L405.2,325.8 L406.6,331.6 L405.0,337.8 L405.7,344.1 L408.2,348.4 L409.2,355.8 L406.8,356.4 L396.9,356.5 L392.3,358.3 L387.2,362.6 L382.5,363.7 L365.0,361.0 L360.5,361.1 L354.6,363.3 L351.4,363.2 L352.7,359.5 L351.3,356.2 L345.5,351.7 L342.2,350.7 L339.0,350.8 L329.1,353.4 L327.6,352.3 L325.2,345.9 L323.1,343.4 L318.6,343.3 L315.7,342.3 L321.6,339.5 L324.6,336.1 L318.1,333.3 L313.1,328.6 L305.3,323.1 L303.8,321.4 L300.8,315.3 L297.5,312.1 L293.6,310.4 L291.4,306.1 L287.3,309.9 L285.3,309.2 L280.6,305.2 L284.6,301.1 L286.6,295.7 L284.6,294.7 L269.7,293.0 L261.7,294.1 L260.8,291.1 L257.8,286.0 L252.7,280.3 L251.0,276.5 L252.6,272.0 L252.9,267.1 L251.5,262.7 L256.7,262.2 L261.5,263.7 L264.3,259.8 L266.7,258.2 L269.4,258.2 L275.9,262.3 L287.2,259.7 L296.2,261.9 L301.0,262.1 L305.6,260.3 L316.5,259.6 L320.1,260.6 L352.0,248.3 L355.0,248.2 L361.8,250.0 L365.5,251.8 L367.0,256.1 L373.0,262.1 L376.3,262.7 L377.8,266.5 L384.8,270.0 L388.8,269.5 L396.0,269.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.SJ</hasc>
+    <alt-name>Akhaltsikhe</alt-name>
+    <woe-id>-20070348</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG72</fips>
+    <postal-code>SJ</postal-code>
+    <name>Samtskhe-Javakheti</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>43.2296</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>41.5149</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ge-sj</hc-key>
+    <hc-a2>SJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE.SD" d="M463.4,273.6 L461.7,277.3 L454.2,277.5 L451.8,276.5 L448.2,273.4 L441.8,276.5 L436.6,277.3 L431.6,276.1 L424.9,277.6 L400.4,274.9 L396.0,269.5 L388.8,269.5 L384.8,270.0 L377.8,266.5 L376.3,262.7 L373.0,262.1 L367.0,256.1 L365.5,251.8 L361.8,250.0 L355.0,248.2 L352.0,248.3 L352.9,242.8 L356.8,239.5 L358.5,234.5 L359.0,228.5 L365.5,223.1 L368.9,215.3 L371.9,212.7 L372.5,209.0 L372.0,204.5 L372.9,200.3 L380.1,195.3 L388.2,193.2 L388.3,188.6 L389.7,184.1 L387.3,181.2 L384.0,181.6 L378.0,183.8 L373.9,183.1 L370.2,180.8 L378.9,174.1 L393.5,173.1 L395.5,172.2 L397.9,168.1 L403.5,164.1 L404.2,157.0 L407.5,159.0 L411.1,157.4 L415.1,152.3 L419.7,150.2 L429.8,149.8 L433.4,148.8 L434.9,153.0 L437.0,156.0 L442.0,157.4 L445.4,163.6 L448.8,167.6 L445.4,171.8 L443.8,176.8 L445.7,179.0 L446.3,183.5 L449.2,186.8 L449.0,195.5 L450.7,199.3 L451.5,203.8 L447.5,207.9 L445.8,211.5 L443.2,213.5 L441.5,220.4 L441.2,227.7 L440.2,230.5 L440.7,232.9 L443.6,234.5 L444.1,238.1 L450.3,233.0 L453.9,233.2 L461.5,234.9 L465.1,237.0 L467.2,246.5 L470.6,250.6 L473.5,255.1 L472.0,259.1 L468.1,259.2 L465.1,262.1 L465.5,267.5 L463.4,270.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>GE.SD</hasc>
+    <alt-name>Gori</alt-name>
+    <woe-id>-20070403</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GG73</fips>
+    <postal-code>SD</postal-code>
+    <name>Shida Kartli</name>
+    <country>Georgia</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>43.9997</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>42.1586</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>ge-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

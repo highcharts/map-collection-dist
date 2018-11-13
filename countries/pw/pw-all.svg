@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Palau</title>
+<g id="admin1">
+
+<g id="PW">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Palau</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Palau</country-abbrev>
+    <subregion>Micronesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>PLW</iso-a3>
+    <iso-a2>PW</iso-a2>
+    <woe-id>23424927</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>pw</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</g>
+
+<path d="M21.1,694.7 L13.2,700.0 L4.9,691.5 L0.0,680.0 L1.7,671.2 L13.4,670.8 L21.1,676.7 L23.7,685.7 Z" fill="#CEE3F5" id="PW.6740" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549824</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Angaur</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.158</longitude>
+    <woe-name>Angaur</woe-name>
+    <latitude>6.91388</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>pw-6740</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path d="M336.1,21.9 L326.4,26.8 L321.4,20.7 L321.6,12.2 L331.3,0.0 L338.5,0.1 L341.4,7.9 Z" fill="#CEE3F5" id="PW.6753" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.KA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549826</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Kayangel</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.711</longitude>
+    <woe-name>Kayangel</woe-name>
+    <latitude>8.070499999999999</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>pw-6753</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path d="M161.8,490.2 L148.2,503.7 L139.5,506.8 L132.0,505.4 L126.4,501.7 L122.9,496.0 L121.8,489.0 L122.2,478.7 L123.9,476.7 L142.2,496.0 L145.9,495.4 L153.2,491.0 L173.6,472.9 L177.6,467.4 L178.0,460.6 L176.2,454.2 L176.0,450.5 L180.9,451.6 L184.0,453.5 L186.3,455.7 L188.2,458.9 L189.2,463.5 L180.7,465.9 L181.7,470.8 L186.3,476.4 L189.1,481.2 L185.9,485.1 L178.9,486.8 L167.2,487.1 Z M216.9,432.8 L225.8,442.0 L222.8,453.6 L216.9,455.2 L211.9,449.0 L208.1,440.6 L205.0,435.5 L197.2,433.1 L191.6,434.8 L180.9,443.8 L179.9,435.2 L180.9,428.1 L185.2,423.9 L193.5,424.1 L203.5,426.7 Z" fill="#CEE3F5" id="PW.6742" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.KO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549822</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Koror</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.446</longitude>
+    <woe-name>Koror</woe-name>
+    <latitude>7.26579</latitude>
+    <woe-label>Koror, PW, Palau</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.10</hc-middle-x>
+    <hc-middle-y>0.86</hc-middle-y>
+    <hc-key>pw-6742</hc-key>
+    <hc-a2>KO</hc-a2>
+  </desc>
+</path>
+
+<path d="M61.6,637.5 L56.5,642.4 L54.2,639.5 L57.2,628.4 L78.0,590.3 L82.5,591.3 L84.7,593.6 L85.4,597.2 L85.7,601.8 L83.4,604.7 L77.9,613.9 L82.8,621.5 L80.5,623.6 L75.0,623.9 L70.0,625.8 Z" fill="#CEE3F5" id="PW.6741" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.PE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549823</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Peleliu</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.259</longitude>
+    <woe-name>Peleliu</woe-name>
+    <latitude>7.02649</latitude>
+    <woe-label>Peleliu, PW, Palau</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>pw-6741</hc-key>
+    <hc-a2>PE</hc-a2>
+  </desc>
+</path>
+
+<path d="M216.1,400.0 L213.5,388.5 L209.7,380.3 L205.0,376.6 L201.7,376.9 L200.2,375.9 L201.1,368.5 L202.9,362.0 L223.2,361.8 L234.5,367.2 L238.8,378.5 L248.0,384.0 L240.4,395.3 L227.5,403.9 Z" fill="#CEE3F5" id="PW.6743" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.AM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549821</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Aimeliik</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.533</longitude>
+    <woe-name>Aimeliik</woe-name>
+    <latitude>7.43236</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>pw-6743</hc-key>
+    <hc-a2>AI</hc-a2>
+  </desc>
+</path>
+
+<path d="M264.4,390.2 L268.4,411.9 L265.5,419.8 L262.9,421.6 L260.0,420.6 L253.3,420.0 L247.9,416.7 L244.3,416.2 L241.6,418.3 L235.5,426.4 L232.4,428.0 L226.2,426.9 L223.7,424.9 L222.9,421.5 L217.8,407.2 L216.1,400.0 L227.5,403.9 L240.4,395.3 L248.0,384.0 Z" fill="#CEE3F5" id="PW.6747" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.AR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549819</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Airai</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.571</longitude>
+    <woe-name>Airai</woe-name>
+    <latitude>7.39952</latitude>
+    <woe-label>Airai, PW, Palau</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>pw-6747</hc-key>
+    <hc-a2>AI</hc-a2>
+  </desc>
+</path>
+
+<path d="M282.7,327.1 L282.1,330.9 L288.6,339.2 L288.6,342.9 L285.9,345.5 L284.0,351.0 L278.7,349.4 L273.3,351.6 L270.7,345.7 L264.7,337.6 L272.3,320.3 Z" fill="#CEE3F5" id="PW.6749" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.ME</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549818</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Melekeok</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.613</longitude>
+    <woe-name>Melekeok</woe-name>
+    <latitude>7.51682</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.72</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>pw-6749</hc-key>
+    <hc-a2>ME</hc-a2>
+  </desc>
+</path>
+
+<path d="M281.1,271.9 L288.0,270.0 L291.5,260.4 L288.1,238.3 L302.6,237.2 L304.4,264.6 L301.4,292.1 L281.5,286.8 Z" fill="#CEE3F5" id="PW.6751" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.ND</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549814</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ngaraard</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.65</longitude>
+    <woe-name>Ngaraard</woe-name>
+    <latitude>7.65055</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.72</hc-middle-y>
+    <hc-key>pw-6751</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path d="M288.1,238.3 L286.9,230.2 L281.6,218.8 L280.3,212.0 L282.5,209.4 L287.7,210.6 L292.9,213.8 L295.7,217.9 L302.6,237.2 Z" fill="#CEE3F5" id="PW.6752" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.NC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549813</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ngarchelong</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.641</longitude>
+    <woe-name>Ngarchelong</woe-name>
+    <latitude>7.70686</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>pw-6752</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path d="M237.4,298.2 L236.9,297.5 L243.0,286.2 L250.0,279.0 L259.8,275.0 L274.3,273.9 L281.1,271.9 L281.5,286.8 L279.3,302.5 L274.5,301.9 L266.9,292.8 L259.4,300.9 Z" fill="#CEE3F5" id="PW.6746" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.NM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549816</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ngardmau</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.597</longitude>
+    <woe-name>Ngardmau</woe-name>
+    <latitude>7.60128</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>pw-6746</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path d="M248.0,384.0 L238.8,378.5 L234.5,367.2 L223.2,361.8 L202.9,362.0 L206.3,356.1 L210.9,351.4 L216.8,348.4 L219.0,355.9 L224.2,356.9 L229.6,352.7 L232.5,344.8 L231.0,340.0 L226.5,335.3 L235.7,331.1 L256.6,359.7 Z" fill="#CEE3F5" id="PW.6744" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.NP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549820</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ngatpang</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.552</longitude>
+    <woe-name>Ngatpang</woe-name>
+    <latitude>7.47929</latitude>
+    <woe-label>Ngatpang, PW, Palau</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>pw-6744</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path d="M284.0,351.0 L281.0,360.4 L267.5,377.9 L264.4,390.2 L248.0,384.0 L256.6,359.7 L264.7,337.6 L270.7,345.7 L273.3,351.6 L278.7,349.4 Z" fill="#CEE3F5" id="PW.6748" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.NS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549827</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ngchesar</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.597</longitude>
+    <woe-name>Ngchesar</woe-name>
+    <latitude>7.46286</latitude>
+    <woe-label>Ngchesar, PW, Palau</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>pw-6748</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path d="M272.3,320.3 L264.7,337.6 L256.6,359.7 L235.7,331.1 L226.5,335.3 L216.8,328.6 L221.3,324.5 L229.0,313.6 L236.0,308.9 L236.9,309.3 L237.4,306.1 L237.4,298.2 L259.4,300.9 L266.9,292.8 L274.5,301.9 L279.3,302.5 Z" fill="#CEE3F5" id="PW.6745" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.NL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549817</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ngeremlengui</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.575</longitude>
+    <woe-name>Ngeremlengui</woe-name>
+    <latitude>7.53794</latitude>
+    <woe-label>Ngeremlengui, PW, Palau</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>pw-6745</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path d="M301.4,292.1 L294.0,311.5 L282.7,327.1 L272.3,320.3 L279.3,302.5 L281.5,286.8 Z" fill="#CEE3F5" id="PW.6750" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.NW</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549815</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ngiwal</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>134.636</longitude>
+    <woe-name>Ngiwal</woe-name>
+    <latitude>7.57313</latitude>
+    <woe-label>Ngiwal, PW, Palau</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.75</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>pw-6750</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+<g id="PW">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Palau</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Palau</country-abbrev>
+    <subregion>Micronesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>PLW</iso-a3>
+    <iso-a2>PW</iso-a2>
+    <woe-id>23424927</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>pw</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</g>
+
+<path d="M63.572,43.157 L49.332,70.000 L35.000,36.889 L49.150,30.000 Z" fill="#CEE3F5" id="PW.6739" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.SO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549825</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Sonsorol</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>132.204</longitude>
+    <woe-name>Sonsorol</woe-name>
+    <latitude>5.28876</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>pw-6739</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+<g id="PW">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Palau</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Palau</country-abbrev>
+    <subregion>Micronesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>PLW</iso-a3>
+    <iso-a2>PW</iso-a2>
+    <woe-id>23424927</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>pw</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</g>
+
+<path d="M90.000,139.481 L87.912,140.816 L85.992,140.379 L85.588,139.070 L86.711,137.899 L87.474,137.469 L89.222,137.869 Z M13.447,132.382 L10.861,132.833 L10.000,131.605 L11.284,129.524 L13.486,128.181 L16.148,128.000 L17.143,129.336 L15.782,131.152 Z" fill="#CEE3F5" id="PW.3596" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>PW.HA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549812</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Hatobohei</name>
+    <country>Palau</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>131.794</longitude>
+    <woe-name>Hatohobei</woe-name>
+    <latitude>2.96318</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.04</hc-middle-x>
+    <hc-middle-y>0.18</hc-middle-y>
+    <hc-key>pw-3596</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+<g id="__separator_lines__"><path d="M106,12 L106,161 L0,161 M5,99 L101,99" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

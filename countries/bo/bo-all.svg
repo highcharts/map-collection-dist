@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Bolivia</title>
+<g id="admin1">
+
+<g id="BO">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bolivia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Bolivia</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>BOL</iso-a3>
+    <iso-a2>BO</iso-a2>
+    <woe-id>23424762</woe-id>
+    <continent>South America</continent>
+    <hc-key>bo</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.LP" d="M39.1,348.9 L30.2,347.6 L32.8,343.7 L29.8,340.6 L36.2,343.1 L38.2,346.0 L45.2,350.1 L43.2,351.0 Z M139.7,143.4 L139.8,151.0 L137.8,154.0 L138.8,158.7 L136.1,170.9 L133.7,177.0 L131.1,177.4 L128.3,182.0 L119.2,192.5 L116.3,197.8 L117.8,207.7 L112.6,214.1 L112.2,220.8 L109.6,229.4 L111.3,244.0 L108.5,246.0 L108.7,249.0 L112.6,256.5 L110.2,261.1 L115.5,268.4 L116.7,280.6 L123.2,282.9 L129.2,290.7 L132.6,297.3 L132.5,302.0 L149.9,318.6 L142.4,326.4 L142.0,338.6 L145.9,343.6 L146.0,345.9 L149.7,349.5 L149.1,360.0 L151.7,365.6 L152.1,374.5 L150.3,376.5 L143.5,378.8 L141.3,383.0 L139.5,390.0 L145.7,396.7 L146.4,402.8 L148.8,412.1 L141.4,416.7 L136.5,410.3 L133.0,408.9 L125.4,411.4 L119.5,415.1 L102.8,427.5 L104.0,431.5 L100.2,434.0 L90.1,426.8 L81.6,423.4 L67.6,423.9 L62.8,425.9 L55.2,434.6 L46.7,441.2 L36.0,445.4 L24.7,442.4 L22.8,433.4 L15.3,425.5 L13.6,422.0 L13.0,412.1 L8.5,407.1 L4.9,406.6 L7.0,401.0 L12.6,396.9 L16.7,395.5 L17.7,391.7 L26.6,380.9 L28.2,376.8 L36.0,372.7 L37.4,370.8 L35.7,366.4 L44.7,368.8 L44.4,361.9 L41.3,359.5 L48.5,359.2 L53.8,353.2 L58.7,353.9 L58.9,350.0 L56.7,347.9 L52.8,348.3 L47.3,346.6 L45.5,348.6 L41.5,340.6 L44.6,339.9 L48.5,336.6 L47.1,334.1 L35.7,333.1 L35.6,327.4 L31.1,322.9 L26.5,321.7 L27.7,319.9 L22.4,320.1 L21.1,314.8 L17.1,312.3 L20.6,304.1 L24.9,298.4 L28.0,296.8 L20.6,290.0 L15.1,282.9 L16.4,273.5 L21.2,271.3 L22.0,263.0 L25.9,262.0 L26.1,258.1 L35.0,251.3 L33.7,244.2 L40.2,242.2 L40.9,239.3 L38.3,232.4 L34.8,229.7 L32.8,218.1 L28.2,213.6 L32.2,211.9 L34.1,207.3 L34.9,193.2 L33.9,186.9 L33.5,171.2 L39.8,164.3 L44.1,163.1 L45.6,160.2 L42.9,157.8 L48.2,151.0 L51.0,151.0 L54.9,146.0 L59.2,146.7 L63.5,137.4 L70.9,132.5 L71.6,126.9 L73.9,124.6 L82.9,122.6 L85.8,119.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>BO.LP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344804</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL04</fips>
+    <postal-code>LP</postal-code>
+    <name>La Paz</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-68.2128</longitude>
+    <woe-name>La Paz</woe-name>
+    <latitude>-14.8335</latitude>
+    <woe-label>La Paz, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>bo-lp</hc-key>
+    <hc-a2>LP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.CB" d="M276.0,473.1 L272.3,470.7 L268.9,473.5 L263.8,473.5 L257.7,466.5 L250.8,464.4 L244.5,466.8 L240.0,472.8 L231.1,471.4 L230.1,466.9 L225.3,461.3 L220.6,458.5 L216.8,453.2 L212.5,449.9 L210.1,446.0 L199.8,437.7 L195.4,438.6 L190.9,432.2 L182.9,432.6 L174.9,438.8 L164.9,438.7 L160.3,439.6 L157.4,432.9 L149.8,422.9 L141.4,416.7 L148.8,412.1 L146.4,402.8 L145.7,396.7 L139.5,390.0 L141.3,383.0 L143.5,378.8 L150.3,376.5 L152.1,374.5 L151.7,365.6 L149.1,360.0 L149.7,349.5 L146.0,345.9 L145.9,343.6 L142.0,338.6 L142.4,326.4 L149.9,318.6 L164.5,332.8 L166.8,338.1 L178.3,350.8 L184.5,354.9 L191.1,357.3 L200.6,358.3 L218.3,352.9 L223.2,350.5 L224.6,348.1 L227.4,337.2 L231.4,329.5 L232.9,328.4 L258.8,325.2 L255.1,329.0 L257.6,333.3 L258.7,339.3 L257.6,353.6 L255.7,359.0 L253.6,360.9 L254.2,365.7 L251.5,371.0 L254.2,379.2 L259.8,385.6 L266.4,390.6 L273.6,394.9 L280.9,402.5 L281.4,407.6 L275.6,407.9 L273.1,409.4 L272.3,413.2 L264.3,425.1 L257.3,432.5 L263.2,444.6 L265.0,446.2 L270.6,455.4 L271.5,460.1 L277.9,464.8 L278.4,469.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>BO.CB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344802</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL02</fips>
+    <postal-code>CB</postal-code>
+    <name>Cochabamba</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-65.61369999999999</longitude>
+    <woe-name>Cochabamba</woe-name>
+    <latitude>-17.2884</latitude>
+    <woe-label>Cochabamba, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>bo-cb</hc-key>
+    <hc-a2>CB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.CQ" d="M225.3,461.3 L230.1,466.9 L231.1,471.4 L240.0,472.8 L244.5,466.8 L250.8,464.4 L257.7,466.5 L263.8,473.5 L268.9,473.5 L272.3,470.7 L276.0,473.1 L278.6,481.4 L282.1,484.1 L283.2,487.4 L290.0,491.1 L292.4,499.6 L296.3,500.1 L299.6,492.5 L306.2,493.4 L304.9,505.4 L307.2,541.9 L308.1,544.0 L310.3,565.3 L311.0,567.6 L318.7,567.9 L325.1,562.6 L329.2,568.8 L382.7,568.7 L379.3,574.4 L379.5,596.7 L300.3,596.6 L294.7,596.5 L293.8,593.7 L285.1,591.0 L283.8,603.1 L277.0,604.1 L271.8,601.2 L267.6,601.6 L261.6,593.9 L258.2,593.6 L255.1,601.2 L252.8,602.2 L248.4,598.4 L242.5,597.2 L241.0,595.3 L236.2,594.5 L233.0,625.6 L228.9,622.6 L221.8,615.2 L220.8,611.6 L221.0,602.8 L223.0,595.5 L223.2,588.8 L229.2,572.7 L225.6,558.8 L225.4,555.3 L228.0,550.3 L227.9,547.1 L231.1,544.5 L240.8,542.7 L250.1,537.3 L256.1,530.1 L250.3,521.4 L249.9,515.5 L245.0,510.0 L239.7,511.5 L235.5,511.3 L228.5,508.1 L224.5,505.2 L217.7,496.8 L215.9,492.9 L219.3,486.8 L217.6,481.6 L221.4,477.8 L219.8,475.1 L211.2,478.9 L212.2,474.8 L211.0,463.4 L207.6,458.5 L217.3,459.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BO.CQ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344801</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL01</fips>
+    <postal-code>CQ</postal-code>
+    <name>Chuquisaca</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-63.9529</longitude>
+    <woe-name>Chuquisaca</woe-name>
+    <latitude>-20.0848</latitude>
+    <woe-label>Chuquisaca, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>bo-cq</hc-key>
+    <hc-a2>CQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.EB" d="M218.4,37.5 L215.5,41.5 L216.3,49.8 L219.2,53.6 L218.3,59.7 L222.5,62.4 L223.4,69.0 L221.5,75.2 L218.7,77.7 L219.0,82.9 L222.3,86.8 L221.0,90.2 L224.2,96.1 L227.8,96.8 L229.5,102.4 L229.3,108.6 L232.3,107.2 L236.1,109.2 L239.7,122.0 L250.4,123.8 L254.3,129.8 L260.7,133.4 L267.2,135.8 L266.2,141.7 L271.1,146.1 L280.4,146.9 L284.1,149.4 L289.3,148.7 L295.7,150.6 L298.7,146.9 L301.9,145.8 L309.3,146.9 L317.7,151.0 L323.0,156.8 L326.9,158.8 L331.2,158.6 L336.3,155.2 L339.5,156.2 L340.9,161.2 L344.7,166.8 L347.1,166.4 L353.4,173.9 L359.6,172.7 L361.9,176.1 L371.4,178.7 L373.0,181.1 L380.1,182.1 L386.2,180.8 L389.2,182.5 L389.3,186.8 L394.9,193.6 L401.8,199.1 L402.8,202.6 L408.7,203.1 L416.0,201.4 L314.1,259.9 L294.0,266.2 L295.2,271.2 L295.5,281.6 L294.7,284.6 L299.2,295.8 L304.6,304.1 L307.6,305.9 L311.5,313.1 L317.9,316.5 L321.5,324.5 L326.0,328.4 L258.8,325.2 L232.9,328.4 L231.4,329.5 L227.4,337.2 L224.6,348.1 L223.2,350.5 L218.3,352.9 L200.6,358.3 L191.1,357.3 L184.5,354.9 L178.3,350.8 L166.8,338.1 L164.5,332.8 L149.9,318.6 L132.5,302.0 L132.6,297.3 L129.2,290.7 L123.2,282.9 L116.7,280.6 L115.5,268.4 L110.2,261.1 L112.6,256.5 L108.7,249.0 L108.5,246.0 L111.3,244.0 L109.6,229.4 L112.2,220.8 L112.6,214.1 L117.8,207.7 L116.3,197.8 L119.2,192.5 L128.3,182.0 L131.1,177.4 L133.7,177.0 L136.1,170.9 L138.8,158.7 L137.8,154.0 L139.8,151.0 L139.7,143.4 L141.5,135.0 L142.0,126.6 L140.9,121.4 L137.0,115.3 L141.9,112.4 L141.0,108.8 L144.0,108.8 L150.2,104.9 L149.8,101.1 L153.1,93.5 L161.4,93.5 L170.8,90.4 L174.6,86.5 L173.3,84.6 L176.1,79.2 L175.8,75.1 L179.4,74.2 L180.7,68.2 L183.0,67.3 L184.6,62.9 L181.3,61.5 L186.3,58.7 L192.4,59.8 L189.9,55.0 L191.6,52.6 L194.4,55.1 L199.8,52.1 L199.3,46.7 L203.9,47.1 L211.5,42.5 L214.7,38.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BO.EB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344803</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL03</fips>
+    <postal-code>EB</postal-code>
+    <name>El Beni</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-64.5806</longitude>
+    <woe-name>El Beni</woe-name>
+    <latitude>-14.0358</latitude>
+    <woe-label>El Beni, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>bo-eb</hc-key>
+    <hc-a2>EB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.OR" d="M141.4,416.7 L149.8,422.9 L157.4,432.9 L160.3,439.6 L154.8,443.0 L154.9,451.1 L157.6,452.6 L165.8,453.3 L158.6,458.1 L157.5,466.2 L160.8,472.2 L167.2,476.8 L177.5,479.6 L179.1,481.3 L183.6,492.2 L190.0,499.8 L190.6,502.4 L188.1,503.4 L171.4,505.0 L168.2,506.7 L162.2,512.3 L156.7,516.3 L115.9,535.3 L109.1,537.8 L101.9,537.1 L78.7,530.1 L64.1,525.3 L67.3,520.3 L70.4,518.3 L68.0,515.3 L59.3,510.1 L57.4,507.1 L51.3,501.8 L46.0,498.9 L42.3,493.3 L43.9,488.5 L40.9,482.7 L39.0,475.0 L39.2,468.6 L36.8,464.4 L35.4,455.7 L32.4,450.8 L36.0,445.4 L46.7,441.2 L55.2,434.6 L62.8,425.9 L67.6,423.9 L81.6,423.4 L90.1,426.8 L100.2,434.0 L104.0,431.5 L102.8,427.5 L119.5,415.1 L125.4,411.4 L133.0,408.9 L136.5,410.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>BO.OR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344805</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL05</fips>
+    <postal-code>OR</postal-code>
+    <name>Oruro</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-67.5984</longitude>
+    <woe-name>Oruro</woe-name>
+    <latitude>-18.7151</latitude>
+    <woe-label>Oruro, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>bo-or</hc-key>
+    <hc-a2>OR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.PO" d="M160.3,439.6 L164.9,438.7 L174.9,438.8 L182.9,432.6 L190.9,432.2 L195.4,438.6 L199.8,437.7 L210.1,446.0 L212.5,449.9 L216.8,453.2 L220.6,458.5 L225.3,461.3 L217.3,459.6 L207.6,458.5 L211.0,463.4 L212.2,474.8 L211.2,478.9 L219.8,475.1 L221.4,477.8 L217.6,481.6 L219.3,486.8 L215.9,492.9 L217.7,496.8 L224.5,505.2 L228.5,508.1 L235.5,511.3 L239.7,511.5 L245.0,510.0 L249.9,515.5 L250.3,521.4 L256.1,530.1 L250.1,537.3 L240.8,542.7 L231.1,544.5 L227.9,547.1 L228.0,550.3 L225.4,555.3 L225.6,558.8 L229.2,572.7 L223.2,588.8 L223.0,595.5 L221.0,602.8 L220.8,611.6 L221.8,615.2 L228.9,622.6 L233.0,625.6 L228.6,639.8 L234.5,647.3 L235.6,655.3 L222.5,655.6 L216.5,654.9 L208.4,656.5 L205.4,655.1 L199.0,647.8 L193.3,646.5 L190.9,642.0 L183.6,640.0 L181.1,653.7 L177.2,657.9 L159.7,663.5 L157.6,674.2 L145.5,679.7 L145.5,686.5 L141.9,689.6 L138.1,695.6 L120.9,699.9 L109.9,700.0 L104.6,697.3 L103.7,691.0 L105.0,683.1 L100.4,672.0 L100.7,666.6 L98.5,661.8 L97.7,656.4 L92.2,651.1 L91.4,642.4 L86.5,631.0 L86.3,618.1 L85.6,615.8 L74.6,599.0 L69.9,598.1 L66.7,594.6 L66.4,587.7 L70.8,581.3 L60.4,576.0 L56.0,569.4 L60.4,566.0 L57.7,560.8 L57.7,556.7 L55.1,553.5 L64.4,551.4 L66.5,544.1 L65.8,540.8 L58.3,535.2 L58.7,532.5 L64.1,525.3 L78.7,530.1 L101.9,537.1 L109.1,537.8 L115.9,535.3 L156.7,516.3 L162.2,512.3 L168.2,506.7 L171.4,505.0 L188.1,503.4 L190.6,502.4 L190.0,499.8 L183.6,492.2 L179.1,481.3 L177.5,479.6 L167.2,476.8 L160.8,472.2 L157.5,466.2 L158.6,458.1 L165.8,453.3 L157.6,452.6 L154.9,451.1 L154.8,443.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BO.PO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344807</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL07</fips>
+    <postal-code>PO</postal-code>
+    <name>Potosí</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-66.7701</longitude>
+    <woe-name>Potosí</woe-name>
+    <latitude>-20.9033</latitude>
+    <woe-label>Potosí, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>bo-po</hc-key>
+    <hc-a2>PO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.SC" d="M276.0,473.1 L278.4,469.3 L277.9,464.8 L271.5,460.1 L270.6,455.4 L265.0,446.2 L263.2,444.6 L257.3,432.5 L264.3,425.1 L272.3,413.2 L273.1,409.4 L275.6,407.9 L281.4,407.6 L280.9,402.5 L273.6,394.9 L266.4,390.6 L259.8,385.6 L254.2,379.2 L251.5,371.0 L254.2,365.7 L253.6,360.9 L255.7,359.0 L257.6,353.6 L258.7,339.3 L257.6,333.3 L255.1,329.0 L258.8,325.2 L326.0,328.4 L321.5,324.5 L317.9,316.5 L311.5,313.1 L307.6,305.9 L304.6,304.1 L299.2,295.8 L294.7,284.6 L295.5,281.6 L295.2,271.2 L294.0,266.2 L314.1,259.9 L416.0,201.4 L422.9,203.4 L428.7,200.8 L438.9,202.3 L444.2,199.4 L445.5,203.2 L451.9,204.1 L456.8,206.9 L468.9,215.8 L473.7,217.3 L475.4,223.7 L478.0,227.4 L476.3,232.0 L473.8,233.4 L473.9,242.6 L477.1,246.0 L479.9,253.9 L478.6,256.7 L482.5,261.3 L483.1,285.9 L467.3,285.9 L470.0,288.3 L483.6,304.9 L484.7,307.4 L487.2,345.4 L489.7,348.2 L574.6,352.8 L578.3,350.1 L581.0,350.7 L579.9,362.3 L574.7,368.0 L573.4,371.4 L574.6,379.8 L573.9,382.2 L576.6,394.0 L577.7,402.4 L585.2,405.9 L596.3,415.0 L604.2,415.8 L607.3,418.4 L607.8,425.8 L610.4,428.1 L611.7,432.8 L610.0,433.9 L614.5,442.2 L618.5,452.0 L622.7,455.1 L617.6,455.8 L605.7,490.1 L608.4,491.9 L608.8,497.3 L605.1,498.0 L587.2,533.0 L587.6,534.5 L600.1,546.7 L595.0,548.9 L584.9,556.0 L585.8,545.7 L584.6,537.8 L539.4,508.3 L493.4,508.0 L405.3,525.9 L398.6,544.0 L396.0,549.4 L382.7,568.7 L329.2,568.8 L325.1,562.6 L318.7,567.9 L311.0,567.6 L310.3,565.3 L308.1,544.0 L307.2,541.9 L304.9,505.4 L306.2,493.4 L299.6,492.5 L296.3,500.1 L292.4,499.6 L290.0,491.1 L283.2,487.4 L282.1,484.1 L278.6,481.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>BO.SC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344808</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL08</fips>
+    <postal-code>SC</postal-code>
+    <name>Santa Cruz</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-61.137</longitude>
+    <woe-name>Santa Cruz</woe-name>
+    <latitude>-16.5168</latitude>
+    <woe-label>Santa Cruz, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>bo-sc</hc-key>
+    <hc-a2>SC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.TR" d="M235.6,655.3 L234.5,647.3 L228.6,639.8 L233.0,625.6 L236.2,594.5 L241.0,595.3 L242.5,597.2 L248.4,598.4 L252.8,602.2 L255.1,601.2 L258.2,593.6 L261.6,593.9 L267.6,601.6 L271.8,601.2 L277.0,604.1 L283.8,603.1 L285.1,591.0 L293.8,593.7 L294.7,596.5 L300.3,596.6 L379.5,596.7 L379.3,600.1 L372.4,623.0 L360.6,661.7 L353.7,655.3 L353.0,649.5 L311.9,649.2 L307.0,652.1 L303.4,649.6 L296.8,649.9 L294.4,653.8 L291.8,661.6 L290.0,663.1 L286.5,672.7 L282.1,678.1 L280.0,686.0 L280.0,689.8 L277.7,695.2 L276.4,688.1 L272.2,683.6 L273.4,678.3 L270.6,675.6 L266.2,667.8 L267.6,665.1 L265.4,660.9 L261.9,659.2 L256.8,659.0 L253.3,657.1 L244.0,655.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BO.TR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344809</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL09</fips>
+    <postal-code>TR</postal-code>
+    <name>Tarija</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-63.8005</longitude>
+    <woe-name>Tarija</woe-name>
+    <latitude>-21.5039</latitude>
+    <woe-label>Tarija, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>bo-tr</hc-key>
+    <hc-a2>TR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO.PA" d="M218.4,37.5 L214.7,38.3 L211.5,42.5 L203.9,47.1 L199.3,46.7 L199.8,52.1 L194.4,55.1 L191.6,52.6 L189.9,55.0 L192.4,59.8 L186.3,58.7 L181.3,61.5 L184.6,62.9 L183.0,67.3 L180.7,68.2 L179.4,74.2 L175.8,75.1 L176.1,79.2 L173.3,84.6 L174.6,86.5 L170.8,90.4 L161.4,93.5 L153.1,93.5 L149.8,101.1 L150.2,104.9 L144.0,108.8 L141.0,108.8 L141.9,112.4 L137.0,115.3 L140.9,121.4 L142.0,126.6 L141.5,135.0 L139.7,143.4 L85.8,119.3 L82.9,122.6 L73.9,124.6 L71.6,126.9 L70.9,132.5 L63.5,137.4 L59.2,146.7 L54.9,146.0 L51.0,151.0 L48.2,151.0 L0.0,70.3 L9.5,69.2 L14.9,70.1 L26.5,70.7 L30.5,72.3 L43.0,72.6 L41.6,78.7 L43.1,79.4 L50.5,77.8 L54.7,75.0 L60.3,73.9 L67.3,70.4 L77.2,55.3 L80.1,53.6 L89.5,53.1 L95.2,55.9 L96.9,55.4 L98.8,50.4 L103.9,44.5 L109.0,42.5 L113.0,37.9 L116.5,37.5 L116.7,35.1 L123.9,35.0 L131.0,31.2 L139.4,22.5 L146.2,17.1 L151.5,14.8 L153.4,12.3 L162.8,11.4 L176.5,6.6 L181.9,5.7 L184.9,6.9 L188.2,5.2 L196.1,5.7 L201.6,4.0 L208.3,8.3 L215.1,0.0 L219.4,1.5 L222.9,7.6 L221.4,12.9 L221.9,19.2 L223.9,28.2 L221.8,33.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>BO.PA</hasc>
+    <alt-name>colonial territories|madre de dios|territorio nacional de colonias</alt-name>
+    <woe-id>2344806</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BL06</fips>
+    <postal-code>PA</postal-code>
+    <name>Pando</name>
+    <country>Bolivia</country>
+    <type-en>Department</type-en>
+    <region>NULL</region>
+    <longitude>-67.4319</longitude>
+    <woe-name>Pando</woe-name>
+    <latitude>-11.273</latitude>
+    <woe-label>Pando, BO, Bolivia</woe-label>
+    <type>Departamento</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>bo-pa</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

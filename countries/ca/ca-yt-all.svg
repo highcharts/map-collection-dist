@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.
+</desc>
+<title>Yukon</title>
+<g id="admin2">
+
+<g id="CA.YT">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>2</labelrank>
+    <hasc>CA.YT</hasc>
+    <alt-name>Yukon Territory|Territoire du Yukon|Yukon|Yuk¢n</alt-name>
+    <woe-id>2344926</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CA12</fips>
+    <postal-code>YT</postal-code>
+    <name>Yukon</name>
+    <country>Canada</country>
+    <type-en>Territory</type-en>
+    <region>Northern Canada</region>
+    <longitude>-135.7</longitude>
+    <woe-name>Yukon</woe-name>
+    <latitude>63.6088</latitude>
+    <woe-label>Yukon Territory, CA, Canada</woe-label>
+    <type>Territoire</type>
+    <hc-key>ca-yt</hc-key>
+    <hc-a2>YU</hc-a2>
+  </desc>
+</g>
+
+<g id="CA">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Canada</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Can.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>CAN</iso-a3>
+    <iso-a2>CA</iso-a2>
+    <woe-id>23424775</woe-id>
+    <continent>North America</continent>
+    <hc-key>ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.YT.6001" d="M112.6,5.1 L116.6,7.6 L117.3,9.9 L114.4,9.3 L111.1,13.1 L107.4,9.2 L110.8,4.6 Z M173.9,61.2 L176.4,61.8 L174.8,139.6 L174.8,151.4 L179.2,152.6 L182.3,162.1 L180.7,169.2 L184.3,176.8 L180.0,186.0 L181.8,198.5 L247.8,198.5 L239.7,201.7 L244.7,205.4 L250.0,212.8 L247.7,218.5 L250.5,221.7 L249.3,223.8 L255.5,230.0 L252.4,232.5 L254.9,239.1 L251.3,238.9 L248.5,247.8 L254.6,249.1 L256.8,252.0 L257.1,258.3 L254.0,261.9 L253.4,266.4 L255.8,266.5 L254.2,273.6 L261.7,274.9 L269.7,268.0 L275.8,268.6 L273.1,276.0 L276.5,278.4 L283.6,268.7 L286.2,268.0 L288.5,271.6 L291.9,270.3 L292.8,272.9 L287.6,276.4 L285.8,280.1 L294.5,288.2 L295.1,292.0 L299.3,297.9 L296.2,305.4 L296.5,308.5 L289.0,316.6 L288.3,321.4 L285.6,321.9 L282.3,328.9 L285.9,331.8 L290.3,329.3 L289.5,335.4 L295.9,337.2 L291.5,344.5 L292.5,348.9 L287.7,354.3 L290.3,358.5 L296.1,357.3 L303.6,362.7 L306.2,363.1 L309.7,370.6 L314.0,374.5 L317.8,375.2 L318.2,377.8 L313.8,382.4 L312.9,385.6 L320.4,387.2 L325.6,384.2 L326.0,380.8 L330.2,379.9 L335.0,382.8 L339.2,389.7 L342.4,398.1 L344.7,398.0 L342.4,403.3 L345.4,409.1 L350.1,409.1 L348.7,412.9 L359.7,418.3 L363.4,423.7 L366.9,419.3 L370.5,421.2 L371.3,427.3 L364.0,432.5 L366.5,435.6 L372.6,432.4 L372.7,437.8 L376.5,437.4 L383.2,448.8 L380.2,448.2 L381.0,454.6 L372.4,461.0 L372.3,464.4 L375.8,463.4 L380.6,467.4 L386.9,476.4 L391.0,475.2 L392.0,477.3 L388.1,492.4 L390.8,494.0 L394.9,503.3 L397.7,504.4 L398.5,512.4 L401.5,510.7 L403.9,513.8 L409.7,516.7 L406.0,522.7 L409.5,525.2 L407.4,527.8 L407.4,532.9 L411.4,536.5 L409.2,540.5 L413.2,543.9 L419.3,541.9 L427.0,546.7 L428.7,541.7 L432.6,540.8 L444.1,552.7 L447.0,560.3 L452.7,560.0 L452.5,566.9 L458.7,570.7 L463.2,575.6 L466.7,576.0 L468.6,579.4 L474.3,582.2 L482.1,580.2 L487.1,582.7 L488.3,589.1 L490.5,589.3 L494.6,602.9 L491.6,610.7 L492.9,614.1 L495.5,611.4 L500.4,619.4 L500.4,625.5 L502.1,630.6 L507.6,630.4 L509.8,632.9 L514.5,627.2 L522.0,629.2 L524.8,627.2 L523.8,623.5 L528.8,621.6 L529.6,625.5 L532.8,625.5 L536.6,618.3 L543.1,623.1 L547.8,621.7 L553.8,624.2 L557.7,623.5 L561.1,618.3 L567.2,616.1 L572.3,616.2 L571.2,611.8 L573.0,607.2 L578.0,608.7 L581.1,607.4 L585.2,622.1 L581.9,625.6 L588.6,633.0 L592.0,640.9 L598.9,640.7 L599.2,646.6 L604.3,657.4 L609.9,663.6 L618.8,670.1 L68.2,700.0 L64.1,693.7 L69.8,676.5 L69.8,674.5 L47.3,674.3 L36.0,684.5 L19.7,674.2 L16.7,680.3 L0.0,672.5 L27.8,372.0 L31.8,328.0 L44.2,200.9 L50.9,128.5 L57.9,57.0 L62.4,10.4 L63.6,0.0 L68.3,3.0 L78.8,5.7 L91.6,4.9 L99.2,10.6 L102.3,10.4 L106.7,14.2 L109.6,14.2 L115.6,23.1 L119.8,26.7 L122.6,33.6 L126.8,36.5 L129.1,31.5 L132.3,39.8 L138.7,45.6 L148.1,52.1 L150.9,53.0 L157.3,58.3 L162.5,57.9 L168.4,63.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Yukon</name>
+    <type>TER</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
+    <hc-key>ca-yt-6001</hc-key>
+    <hc-a2>YU</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.</text>
+
+</svg>

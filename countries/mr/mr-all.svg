@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Mauritania</title>
+<g id="admin1">
+
+<g id="MR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mauritania</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mrt.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>MRT</iso-a3>
+    <iso-a2>MR</iso-a2>
+    <woe-id>23424896</woe-id>
+    <continent>Africa</continent>
+    <hc-key>mr</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.4965" d="M27.3,403.1 L26.2,403.3 L26.2,402.0 L27.3,401.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Mauritania</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-16.528</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>19.9222</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mr-4965</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.DN" d="M36.8,406.7 L34.8,414.2 L31.1,420.8 L29.6,416.0 L33.0,408.5 Z M153.9,338.8 L66.3,335.1 L79.1,358.9 L38.8,427.1 L36.4,429.2 L37.6,424.3 L32.9,428.6 L35.3,424.0 L28.9,428.4 L42.1,410.4 L40.7,403.6 L39.0,403.0 L43.7,397.0 L41.5,391.1 L44.9,386.8 L43.1,382.5 L40.2,380.1 L33.8,362.2 L28.8,356.6 L27.7,366.6 L21.5,360.1 L16.4,344.8 L11.5,337.4 L9.4,332.0 L3.9,338.9 L4.2,344.5 L1.0,353.7 L0.0,347.5 L2.2,339.0 L4.8,332.7 L7.8,322.1 L147.9,328.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>MR.DN</hasc>
+    <alt-name>Dakhlet Nouâdhibou|Baie du Lévrier|Lévrier Bay</alt-name>
+    <woe-id>2346248</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR08</fips>
+    <postal-code>DN</postal-code>
+    <name>Dakhlet Nouadhibou</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-16.1354</longitude>
+    <woe-name>Dakhlet Nouadhibou</woe-name>
+    <latitude>20.8429</latitude>
+    <woe-label>Dakhlet Nouadhibou, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>mr-dn</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.IN" d="M41.5,455.3 L37.9,447.6 L33.6,442.3 L28.4,439.9 L25.8,432.1 L31.9,432.8 L36.4,429.2 L38.8,427.1 L79.1,358.9 L66.3,335.1 L153.9,338.8 L154.9,340.3 L148.5,434.8 L147.6,458.8 L145.5,458.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.IN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346252</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR12</fips>
+    <postal-code>IN</postal-code>
+    <name>Inchiri</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-15.345</longitude>
+    <woe-name>Inchiri</woe-name>
+    <latitude>20.0734</latitude>
+    <woe-label>Inchiri, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mr-in</hc-key>
+    <hc-a2>IN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.NO" d="M48.6,518.0 L49.1,513.9 L48.2,489.6 L63.1,490.1 L62.0,518.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>MR.NO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550716</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR06</fips>
+    <postal-code>NO</postal-code>
+    <name>Nouakchott</name>
+    <country>Mauritania</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>-15.92</longitude>
+    <woe-name>Nouakchott</woe-name>
+    <latitude>18.139</latitude>
+    <woe-label>Nouakchott, MR, Mauritania</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.04</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>mr-no</hc-key>
+    <hc-a2>NO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.BR" d="M170.5,618.7 L169.0,617.3 L165.4,620.6 L160.3,615.6 L157.3,614.4 L156.7,608.3 L154.7,607.3 L137.4,591.1 L134.0,589.6 L129.8,591.0 L123.6,591.1 L105.6,589.8 L104.7,588.3 L111.0,583.9 L122.7,578.4 L125.6,575.5 L139.3,565.8 L159.5,537.5 L171.9,526.8 L229.8,485.7 L239.6,501.7 L237.9,517.2 L235.3,545.4 L242.4,553.2 L247.7,557.7 L245.6,560.4 L237.8,563.6 L236.3,566.2 L225.0,570.1 L221.0,574.5 L219.6,580.6 L213.5,594.0 L203.9,596.1 L201.2,599.1 L199.8,605.0 L177.6,610.5 L175.3,611.5 L174.3,616.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.BR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346245</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR05</fips>
+    <postal-code>BR</postal-code>
+    <name>Brakna</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-13.6298</longitude>
+    <woe-name>Brakna</woe-name>
+    <latitude>17.0824</latitude>
+    <woe-label>Brakna, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>mr-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.TR" d="M229.8,485.7 L171.9,526.8 L159.5,537.5 L139.3,565.8 L125.6,575.5 L122.7,578.4 L111.0,583.9 L104.6,588.2 L103.3,587.0 L96.8,592.0 L89.2,593.6 L78.6,594.0 L77.5,592.5 L71.8,596.0 L68.7,595.5 L65.2,597.6 L57.6,595.6 L44.5,596.1 L40.4,592.7 L33.9,594.0 L29.7,596.8 L26.3,609.5 L21.5,613.4 L18.9,622.5 L18.6,628.6 L16.6,633.8 L17.8,624.3 L17.7,608.0 L22.1,595.5 L22.9,587.0 L29.8,570.5 L33.5,565.1 L39.7,552.8 L45.3,537.1 L47.2,530.3 L48.6,518.0 L62.0,518.5 L63.1,490.1 L48.2,489.6 L47.9,484.4 L44.8,476.1 L43.0,466.8 L43.5,463.9 L41.5,455.3 L145.5,458.8 L147.6,458.8 L199.7,460.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.TR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346246</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR06</fips>
+    <postal-code>TR</postal-code>
+    <name>Trarza</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-14.6057</longitude>
+    <woe-name>Trarza</woe-name>
+    <latitude>17.9339</latitude>
+    <woe-label>Trarza, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>mr-tr</hc-key>
+    <hc-a2>TR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.AS" d="M339.5,662.1 L331.3,662.3 L330.7,666.9 L326.3,669.8 L321.4,680.1 L314.4,670.7 L300.8,660.5 L294.9,652.0 L288.6,649.6 L288.7,652.0 L282.2,656.0 L279.0,655.4 L281.9,644.9 L284.0,642.6 L286.9,635.0 L290.2,631.4 L284.5,630.4 L280.7,627.8 L273.0,627.2 L274.2,631.0 L272.1,634.5 L266.6,634.9 L262.9,632.7 L262.7,626.4 L258.0,623.3 L251.3,622.3 L250.5,616.8 L246.6,614.7 L240.3,617.5 L241.2,612.0 L240.4,604.2 L228.2,601.6 L222.5,603.0 L224.0,597.7 L221.8,592.7 L219.0,590.9 L220.8,582.6 L219.6,580.6 L221.0,574.5 L225.0,570.1 L236.3,566.2 L237.8,563.6 L245.6,560.4 L247.7,557.7 L252.8,562.8 L269.0,568.7 L277.5,565.8 L287.3,566.8 L289.6,563.9 L290.8,546.2 L293.0,545.3 L290.6,542.7 L295.6,540.2 L295.5,536.1 L290.0,528.1 L291.2,528.2 L286.6,520.3 L289.2,515.1 L292.5,513.6 L301.2,514.4 L307.1,512.7 L309.5,509.1 L308.2,507.8 L313.0,503.5 L320.2,500.9 L314.0,533.7 L313.2,537.3 L315.0,544.8 L318.5,552.2 L319.1,558.3 L317.4,565.1 L319.0,568.5 L318.1,575.3 L318.3,584.4 L323.2,588.7 L326.3,595.7 L333.5,596.4 L330.1,601.6 L324.4,604.1 L327.8,606.4 L325.8,613.2 L326.2,616.2 L330.4,619.7 L329.3,627.6 L335.3,633.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.AS</hasc>
+    <alt-name>Açaba|el-`Açâba</alt-name>
+    <woe-id>2346243</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR03</fips>
+    <postal-code>AS</postal-code>
+    <name>Assaba</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-11.7106</longitude>
+    <woe-name>Assaba</woe-name>
+    <latitude>16.5835</latitude>
+    <woe-label>Assaba, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>mr-as</hc-key>
+    <hc-a2>AS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.GD" d="M262.9,632.7 L266.6,634.9 L272.1,634.5 L274.2,631.0 L273.0,627.2 L280.7,627.8 L284.5,630.4 L290.2,631.4 L286.9,635.0 L284.0,642.6 L281.9,644.9 L279.0,655.4 L277.7,655.2 L271.0,675.3 L270.1,682.6 L272.6,683.7 L272.2,690.9 L263.7,697.5 L258.4,700.0 L254.8,697.1 L250.1,698.3 L241.6,693.5 L238.0,689.4 L236.8,684.9 L228.2,678.8 L225.0,679.5 L222.0,677.3 L224.4,669.5 L231.0,658.2 L236.1,653.0 L237.9,648.0 L247.3,639.8 L250.3,635.8 L255.5,635.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.GD</hasc>
+    <alt-name>Guidimagha|Guidimakha</alt-name>
+    <woe-id>2346250</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR10</fips>
+    <postal-code>GD</postal-code>
+    <name>Guidimaka</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-12.1235</longitude>
+    <woe-name>Guidimaka</woe-name>
+    <latitude>15.3352</latitude>
+    <woe-label>Guidimaka, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>mr-gd</hc-key>
+    <hc-a2>GD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.GO" d="M262.9,632.7 L255.5,635.6 L250.3,635.8 L247.3,639.8 L237.9,648.0 L236.1,653.0 L231.0,658.2 L224.4,669.5 L222.0,677.3 L220.2,673.0 L216.1,672.1 L217.4,669.4 L213.5,664.7 L210.6,655.9 L203.8,656.4 L202.1,650.5 L195.9,649.2 L196.4,645.1 L193.3,640.5 L192.1,632.4 L185.5,622.2 L182.7,622.9 L183.1,619.2 L172.7,621.6 L170.5,618.7 L174.3,616.2 L175.3,611.5 L177.6,610.5 L199.8,605.0 L201.2,599.1 L203.9,596.1 L213.5,594.0 L219.6,580.6 L220.8,582.6 L219.0,590.9 L221.8,592.7 L224.0,597.7 L222.5,603.0 L228.2,601.6 L240.4,604.2 L241.2,612.0 L240.3,617.5 L246.6,614.7 L250.5,616.8 L251.3,622.3 L258.0,623.3 L262.7,626.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.GO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346244</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR04</fips>
+    <postal-code>GO</postal-code>
+    <name>Gorgol</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-12.8565</longitude>
+    <woe-name>Gorgol</woe-name>
+    <latitude>16.0296</latitude>
+    <woe-label>Gorgol, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mr-go</hc-key>
+    <hc-a2>GO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.AD" d="M147.6,458.8 L148.5,434.8 L154.9,340.3 L153.9,338.8 L147.9,328.0 L215.0,330.0 L214.5,316.0 L248.5,329.7 L331.9,321.7 L553.1,167.1 L553.1,167.1 L553.1,167.1 L553.1,167.1 L553.1,167.1 L553.1,167.4 L557.6,203.0 L561.2,231.4 L560.8,232.3 L478.9,422.3 L317.7,422.6 L296.9,439.2 L295.3,450.7 L283.3,444.0 L271.9,451.7 L247.6,466.9 L229.8,485.7 L199.7,460.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>MR.AD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346247</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR07</fips>
+    <postal-code>AD</postal-code>
+    <name>Adrar</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-10.3339</longitude>
+    <woe-name>Adrar</woe-name>
+    <latitude>20.7634</latitude>
+    <woe-label>Adrar, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>mr-ad</hc-key>
+    <hc-a2>AD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.HC" d="M478.9,422.3 L560.8,232.3 L561.2,231.4 L579.9,378.1 L587.0,433.9 L607.3,599.5 L608.2,601.3 L621.4,610.0 L622.0,611.3 L614.3,657.2 L425.1,658.6 L427.5,656.2 L427.0,638.5 L421.7,627.0 L432.4,612.5 L431.0,608.6 L438.8,600.8 L463.5,573.3 L446.9,555.1 L417.3,558.9 L417.4,558.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.HC</hasc>
+    <alt-name>Eastern Hodh|Hodh Charghi|Hodh Oriental</alt-name>
+    <woe-id>2346241</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR01</fips>
+    <postal-code>HC</postal-code>
+    <name>Hodh ech Chargui</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-7.19158</longitude>
+    <woe-name>Hodh ech Chargui</woe-name>
+    <latitude>18.0225</latitude>
+    <woe-label>Hodh Ech Chargui, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.74</hc-middle-y>
+    <hc-key>mr-hc</hc-key>
+    <hc-a2>HC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.HG" d="M417.3,558.9 L446.9,555.1 L463.5,573.3 L438.8,600.8 L431.0,608.6 L432.4,612.5 L421.7,627.0 L427.0,638.5 L427.5,656.2 L425.1,658.6 L406.4,658.6 L407.3,647.9 L405.0,648.0 L400.9,655.1 L402.4,661.7 L388.9,662.2 L380.1,665.5 L373.8,664.9 L364.0,665.3 L354.4,661.8 L342.2,661.4 L339.5,662.1 L335.3,633.6 L329.3,627.6 L330.4,619.7 L326.2,616.2 L325.8,613.2 L327.8,606.4 L324.4,604.1 L330.1,601.6 L333.5,596.4 L326.3,595.7 L323.2,588.7 L318.3,584.4 L318.1,575.3 L319.0,568.5 L317.4,565.1 L319.1,558.3 L318.5,552.2 L315.0,544.8 L313.2,537.3 L314.0,533.7 L353.9,545.5 L386.6,543.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.HG</hasc>
+    <alt-name>Hodh Occidental|Western Hodh</alt-name>
+    <woe-id>2346242</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR02</fips>
+    <postal-code>HG</postal-code>
+    <name>Hodh el Gharbi</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-9.69143</longitude>
+    <woe-name>Hodh el Gharbi</woe-name>
+    <latitude>16.4832</latitude>
+    <woe-label>Hodh El Gharbi, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>mr-hg</hc-key>
+    <hc-a2>HG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.TG" d="M417.3,558.9 L386.6,543.5 L353.9,545.5 L314.0,533.7 L320.2,500.9 L313.0,503.5 L308.2,507.8 L309.5,509.1 L307.1,512.7 L301.2,514.4 L292.5,513.6 L289.2,515.1 L286.6,520.3 L291.2,528.2 L290.0,528.1 L295.5,536.1 L295.6,540.2 L290.6,542.7 L293.0,545.3 L290.8,546.2 L289.6,563.9 L287.3,566.8 L277.5,565.8 L269.0,568.7 L252.8,562.8 L247.7,557.7 L242.4,553.2 L235.3,545.4 L237.9,517.2 L239.6,501.7 L229.8,485.7 L247.6,466.9 L271.9,451.7 L283.3,444.0 L295.3,450.7 L296.9,439.2 L317.7,422.6 L478.9,422.3 L417.4,558.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.TG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346249</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR09</fips>
+    <postal-code>TG</postal-code>
+    <name>Tagant</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-10.3284</longitude>
+    <woe-name>Tagant</woe-name>
+    <latitude>18.6165</latitude>
+    <woe-label>Tagant, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>mr-tg</hc-key>
+    <hc-a2>TG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR.TZ" d="M214.5,316.0 L212.7,264.8 L209.3,250.3 L211.9,243.0 L217.5,235.7 L238.4,222.1 L252.2,219.5 L263.6,214.3 L268.9,213.0 L269.9,210.2 L273.0,70.4 L440.1,72.1 L441.4,71.1 L441.2,0.0 L602.2,101.8 L638.3,124.8 L547.9,127.0 L553.1,167.1 L553.1,167.1 L553.1,167.1 L331.9,321.7 L248.5,329.7 Z M553.1,167.4 L553.1,167.1 L553.1,167.1 L553.1,167.1 L553.1,167.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>MR.TZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346251</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MR11</fips>
+    <postal-code>TZ</postal-code>
+    <name>Tiris Zemmour</name>
+    <country>Mauritania</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-8.99419</longitude>
+    <woe-name>Tiris Zemmour</woe-name>
+    <latitude>24.3349</latitude>
+    <woe-label>Tiris Zemmour, MR, Mauritania</woe-label>
+    <type>Wilayat|Région</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>mr-tz</hc-key>
+    <hc-a2>TZ</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Guam congressional districts</title>
+<g id="special">
+
+<g id="GU">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Guam</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Guam</country-abbrev>
+    <subregion>Micronesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>GUM</iso-a3>
+    <iso-a2>GU</iso-a2>
+    <woe-id>23424832</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>gu</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</g>
+
+<g id="GU.3605">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>GU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>23424832</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Guam</name>
+    <country>Guam</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>144.789</longitude>
+    <woe-name>Guam</woe-name>
+    <latitude>13.4733</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-key>gu-3605</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GU.3605.98" d="M306.8,353.3 L265.1,396.0 L241.0,466.1 L224.1,625.1 L182.7,686.7 L153.3,698.9 L119.1,700.0 L91.1,690.0 L74.3,659.1 L51.8,629.6 L46.6,621.1 L37.0,556.5 L31.9,545.1 L24.0,535.0 L14.3,527.0 L2.1,521.4 L19.4,504.5 L30.4,487.0 L36.3,465.4 L38.2,435.2 L35.1,421.1 L26.8,403.5 L17.5,388.5 L0.0,375.3 L7.6,362.5 L20.7,355.3 L27.5,364.3 L50.5,362.3 L151.6,304.9 L175.0,284.4 L266.5,232.4 L284.4,214.8 L299.8,194.5 L313.3,170.0 L349.2,56.2 L360.1,35.7 L379.9,17.2 L407.1,1.7 L430.3,0.0 L439.7,23.8 L456.4,61.7 L485.6,83.3 L519.0,93.1 L548.1,95.5 L548.3,115.4 L523.9,160.0 L472.2,234.2 L413.2,287.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>6698</geoid>
+    <name>Delegate District (at Large)</name>
+    <hc-middle-x>0.24</hc-middle-x>
+    <hc-middle-y>0.72</hc-middle-y>
+    <hc-key>gu-3605-98</hc-key>
+    <hc-a2>DD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Bosnia and Herzegovina</title>
+<g id="admin1">
+
+<g id="BA">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bosnia and Herzegovina</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>B.H.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>BIH</iso-a3>
+    <iso-a2>BA</iso-a2>
+    <woe-id>23424761</woe-id>
+    <continent>Europe</continent>
+    <hc-key>ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.3177" d="M545.4,132.2 L535.8,139.0 L534.0,141.9 L534.0,147.6 L536.0,152.5 L543.1,158.9 L553.3,169.8 L556.2,172.2 L559.7,172.0 L563.7,169.7 L568.4,160.6 L573.4,148.6 L579.6,146.9 L586.0,148.0 L587.5,151.8 L588.3,164.2 L588.8,183.4 L587.5,187.1 L570.8,200.1 L563.7,200.8 L555.9,203.3 L553.9,209.5 L550.8,214.2 L545.6,217.7 L541.5,218.6 L540.2,222.9 L542.0,233.1 L547.9,246.0 L550.1,253.7 L549.4,262.3 L545.6,270.3 L545.6,270.4 L545.6,270.3 L541.1,264.5 L518.9,266.1 L515.2,264.8 L513.2,259.8 L508.2,260.0 L503.4,258.1 L503.1,250.9 L500.1,242.3 L498.2,233.7 L494.7,230.8 L484.2,227.3 L479.4,222.4 L477.1,217.4 L475.4,208.2 L472.7,206.5 L463.9,207.1 L461.1,205.1 L459.1,200.1 L458.3,183.9 L456.6,179.8 L456.3,168.2 L456.4,168.2 L464.5,168.2 L473.5,165.7 L474.3,160.0 L473.0,153.7 L468.0,148.2 L443.6,141.0 L428.2,135.2 L420.7,131.6 L417.8,128.5 L417.5,121.4 L418.6,117.1 L433.2,114.7 L447.1,114.2 L454.1,112.1 L458.1,105.2 L463.7,87.6 L472.3,82.2 L483.5,82.3 L489.6,83.8 L490.0,92.3 L492.1,94.7 L496.9,94.9 L507.3,90.5 L517.2,90.8 L527.9,93.1 L535.0,97.8 L538.0,108.0 L539.4,117.9 L540.9,122.1 L546.0,122.2 L546.0,122.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>Tuzlanski</alt-name>
+    <woe-id>24551278</woe-id>
+    <subregion>Federation of Bosnia and Herzegovina</subregion>
+    <fips>BK00</fips>
+    <postal-code>NULL</postal-code>
+    <name>Tuzla</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>18.5549</longitude>
+    <woe-name>Tuzlanski Kanton</woe-name>
+    <latitude>44.5325</latitude>
+    <woe-label>NULL</woe-label>
+    <type>?upanija|kanton</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ba-3177</hc-key>
+    <hc-a2>TU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.6333" d="M545.4,132.2 L546.0,122.2 L546.0,122.2 L551.5,116.0 L560.2,114.8 L564.2,111.6 L566.1,104.8 L568.6,100.4 L575.1,96.2 L574.8,91.5 L580.1,91.1 L593.9,86.5 L609.2,74.2 L611.3,73.5 L614.2,78.1 L620.8,76.1 L628.7,77.4 L633.3,76.2 L637.0,79.3 L641.0,79.1 L643.9,81.9 L645.7,87.8 L643.5,90.0 L638.8,120.2 L635.7,127.6 L630.5,132.9 L627.1,142.8 L619.5,157.5 L615.8,162.4 L615.0,170.2 L608.8,161.3 L600.1,157.0 L595.8,158.8 L588.3,164.2 L587.5,151.8 L586.0,148.0 L579.6,146.9 L573.4,148.6 L568.4,160.6 L563.7,169.7 L559.7,172.0 L556.2,172.2 L553.3,169.8 L543.1,158.9 L536.0,152.5 L534.0,147.6 L534.0,141.9 L535.8,139.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389652</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Bijeljina</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>NULL</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>19.1471</longitude>
+    <woe-name>Bijeljina</woe-name>
+    <latitude>44.7513</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>ba-6333</hc-key>
+    <hc-a2>BI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.3178" d="M543.3,272.9 L541.2,277.6 L528.0,291.7 L521.7,295.9 L515.2,296.5 L515.2,296.5 L514.1,294.6 L506.6,291.9 L501.7,284.6 L498.8,282.3 L488.4,282.2 L483.8,290.2 L480.8,292.7 L472.8,293.0 L470.7,294.9 L471.2,306.6 L469.2,309.4 L464.3,312.3 L451.1,312.8 L445.7,314.8 L444.6,319.7 L444.9,326.3 L443.4,328.7 L436.9,332.3 L437.8,335.1 L433.5,335.7 L425.7,323.4 L422.0,323.5 L419.8,318.5 L419.6,312.5 L418.0,311.1 L410.0,311.7 L407.4,298.8 L405.2,296.5 L400.2,296.7 L396.7,294.7 L393.7,285.2 L393.6,281.6 L385.4,282.2 L374.4,272.4 L372.1,266.4 L371.2,253.6 L371.7,243.0 L370.9,238.6 L363.5,230.7 L359.7,221.4 L359.7,221.4 L365.3,216.9 L381.3,207.1 L387.5,201.9 L391.6,196.8 L391.9,184.7 L390.7,178.0 L379.9,168.1 L375.9,161.1 L375.7,155.4 L384.3,135.0 L390.3,133.1 L406.9,134.2 L413.1,139.7 L419.3,149.4 L425.9,162.3 L429.7,168.2 L442.7,168.8 L456.3,168.2 L456.4,168.2 L456.4,168.2 L456.5,171.4 L456.6,179.8 L458.3,183.9 L459.1,200.1 L461.1,205.1 L463.9,207.1 L472.7,206.5 L475.4,208.2 L477.1,217.4 L479.4,222.4 L484.2,227.3 L494.7,230.8 L498.2,233.7 L500.1,242.3 L503.1,250.9 L503.4,258.1 L508.2,260.0 L513.2,259.8 L515.2,264.8 L518.9,266.1 L541.1,264.5 L545.6,270.3 L545.6,270.3 L545.6,270.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>Federation of Bosnia and Herzegovina</alt-name>
+    <woe-id>24551279</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>BK00</fips>
+    <postal-code>NULL</postal-code>
+    <name>Zenica-Doboj</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>18.2479</longitude>
+    <woe-name>Zeni?ko-dobojski Kanton</woe-name>
+    <latitude>44.2843</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Canton</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>ba-3178</hc-key>
+    <hc-a2>ZD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.6334" d="M543.3,272.9 L545.6,270.3 L545.6,270.4 L545.6,270.3 L549.4,262.3 L550.1,253.7 L547.9,246.0 L542.0,233.1 L540.2,222.9 L541.5,218.6 L545.6,217.7 L550.8,214.2 L553.9,209.5 L555.9,203.3 L563.7,200.8 L570.8,200.1 L587.5,187.1 L588.8,183.4 L588.3,164.2 L595.8,158.8 L600.1,157.0 L608.8,161.3 L615.0,170.2 L612.6,173.2 L606.5,175.5 L606.2,179.5 L609.6,190.3 L609.6,197.1 L605.4,204.1 L604.1,209.4 L606.3,219.0 L610.7,227.3 L614.1,231.1 L617.8,232.5 L633.4,235.9 L639.1,234.2 L644.3,236.9 L650.1,246.4 L652.0,254.5 L655.6,257.9 L667.0,265.7 L669.9,263.2 L672.6,265.0 L673.3,269.4 L682.0,279.3 L688.0,282.4 L692.9,287.1 L696.1,284.1 L698.4,286.0 L700.0,290.6 L695.8,298.3 L688.8,304.2 L680.3,306.6 L670.0,306.2 L655.3,308.6 L648.1,303.2 L641.0,299.4 L634.7,301.1 L632.4,305.0 L633.5,309.8 L631.3,313.7 L633.5,314.9 L631.0,322.7 L621.7,313.1 L612.5,304.4 L590.1,293.5 L572.2,283.2 L556.8,279.9 L541.2,277.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389654</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Vlasenica</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>NULL</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>19.0758</longitude>
+    <woe-name>Vlasenica</woe-name>
+    <latitude>44.1968</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>ba-6334</hc-key>
+    <hc-a2>VL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.3179" d="M506.7,393.8 L496.8,386.4 L487.8,386.8 L486.0,392.9 L484.7,410.9 L483.3,412.3 L483.3,412.3 L483.3,412.3 L476.6,412.2 L468.8,409.5 L466.7,416.5 L461.6,415.8 L449.8,409.6 L449.4,404.2 L446.5,397.4 L440.4,392.0 L436.3,391.5 L430.9,392.9 L424.1,391.6 L419.5,385.5 L415.5,370.9 L413.9,368.7 L413.9,368.7 L413.9,368.6 L416.7,362.8 L423.6,361.9 L429.2,359.6 L434.7,355.2 L438.5,353.6 L441.6,348.6 L439.4,336.7 L437.8,335.1 L436.9,332.3 L443.4,328.7 L444.9,326.3 L444.6,319.7 L445.7,314.8 L451.1,312.8 L464.3,312.3 L469.2,309.4 L471.2,306.6 L470.7,294.9 L472.8,293.0 L480.8,292.7 L483.8,290.2 L488.4,282.2 L498.8,282.3 L501.7,284.6 L506.6,291.9 L514.1,294.6 L515.2,296.5 L515.2,296.5 L515.2,296.5 L513.3,296.6 L512.3,301.8 L501.9,311.2 L500.2,314.8 L500.2,320.8 L502.5,337.1 L502.8,344.9 L498.7,350.8 L493.3,351.7 L480.9,350.4 L478.7,352.0 L480.1,362.6 L487.8,375.0 L500.5,375.2 L513.9,380.7 L523.1,387.0 L519.2,393.7 L518.9,398.8 L518.9,398.8 L518.9,398.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>Sarajevski</alt-name>
+    <woe-id>29389657</woe-id>
+    <subregion>Federation of Bosnia and Herzegovina</subregion>
+    <fips>BK00</fips>
+    <postal-code>NULL</postal-code>
+    <name>Sarajevo</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>18.3077</longitude>
+    <woe-name>Sarajevski Kanton</woe-name>
+    <latitude>43.7991</latitude>
+    <woe-label>NULL</woe-label>
+    <type>?upanija|kanton</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>ba-3179</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.6335" d="M506.7,393.8 L518.9,398.8 L518.9,398.8 L518.9,398.8 L513.7,403.9 L498.5,405.3 L491.8,412.1 L484.7,410.9 L486.0,392.9 L487.8,386.8 L496.8,386.4 Z M534.8,388.0 L523.1,387.0 L513.9,380.7 L500.5,375.2 L487.8,375.0 L480.1,362.6 L478.7,352.0 L480.9,350.4 L493.3,351.7 L498.7,350.8 L502.8,344.9 L502.5,337.1 L500.2,320.8 L500.2,314.8 L501.9,311.2 L512.3,301.8 L513.3,296.6 L515.2,296.5 L515.2,296.5 L515.2,296.5 L521.7,295.9 L528.0,291.7 L541.2,277.6 L556.8,279.9 L572.2,283.2 L590.1,293.5 L612.5,304.4 L621.7,313.1 L631.0,322.7 L629.7,326.8 L631.8,339.8 L631.5,348.9 L635.7,358.7 L632.4,365.0 L624.3,364.4 L618.2,360.6 L605.0,358.3 L592.8,362.9 L583.7,369.7 L579.1,364.6 L570.6,363.6 L553.6,364.0 L545.7,365.4 L542.3,370.2 L540.8,378.4 L538.0,384.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24551281</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Sarajevo-romanija</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>NULL</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>18.751</longitude>
+    <woe-name>Sarajevo-romanija</woe-name>
+    <latitude>43.9275</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>ba-6335</hc-key>
+    <hc-a2>SR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.3180" d="M518.9,398.8 L519.2,393.7 L523.1,387.0 L523.1,387.0 L534.8,388.0 L538.0,384.6 L540.8,378.4 L542.3,370.2 L545.7,365.4 L553.6,364.0 L570.6,363.6 L579.1,364.6 L583.7,369.7 L588.1,373.8 L598.2,375.1 L601.5,378.8 L603.9,385.8 L603.0,389.4 L597.4,390.7 L587.5,400.5 L573.9,407.5 L557.3,410.8 L551.7,412.4 L539.5,411.2 L531.3,407.7 L518.9,398.8 L518.9,398.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>Bosansko-podrinjski|Gora?dansko-podrinjski</alt-name>
+    <woe-id>24551280</woe-id>
+    <subregion>Federation of Bosnia and Herzegovina</subregion>
+    <fips>BK00</fips>
+    <postal-code>NULL</postal-code>
+    <name>Bosnian Podrinje</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>18.8198</longitude>
+    <woe-name>Bosansko-podrinjski Kanton</woe-name>
+    <latitude>43.6774</latitude>
+    <woe-label>NULL</woe-label>
+    <type>?upanija|kanton</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ba-3180</hc-key>
+    <hc-a2>BP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.6336" d="M518.9,398.8 L518.9,398.8 L531.3,407.7 L539.5,411.2 L551.7,412.4 L557.3,410.8 L573.9,407.5 L587.5,400.5 L597.4,390.7 L603.0,389.4 L603.9,385.8 L601.5,378.8 L598.2,375.1 L588.1,373.8 L583.7,369.7 L592.8,362.9 L605.0,358.3 L618.2,360.6 L624.3,364.4 L632.4,365.0 L635.7,358.7 L631.5,348.9 L631.8,339.8 L629.7,326.8 L631.0,322.7 L633.5,314.9 L639.9,319.3 L645.7,326.1 L656.1,341.1 L675.5,360.0 L679.6,368.0 L684.7,381.5 L685.3,388.1 L680.9,392.9 L680.2,399.5 L681.6,405.5 L683.6,407.7 L681.8,409.8 L672.7,407.7 L669.3,415.4 L663.3,404.6 L656.8,399.1 L648.9,404.7 L640.2,405.0 L637.9,409.3 L634.5,419.2 L621.9,418.5 L617.4,419.3 L612.9,425.2 L609.4,426.8 L602.4,426.2 L595.2,417.4 L591.1,418.0 L584.4,425.1 L579.5,428.2 L578.8,432.4 L584.7,435.0 L587.3,438.7 L586.6,443.6 L590.6,442.4 L598.5,451.3 L604.6,466.0 L610.6,476.1 L602.6,479.0 L597.1,487.1 L590.7,478.4 L590.0,472.8 L583.6,467.9 L579.2,466.9 L568.5,468.4 L565.2,470.1 L567.6,474.3 L562.9,476.0 L540.6,494.1 L538.0,498.3 L523.8,490.0 L508.5,477.6 L498.3,480.0 L490.8,475.3 L485.0,478.5 L479.6,472.7 L482.1,461.5 L480.0,449.8 L486.3,449.5 L486.9,446.0 L482.9,429.8 L481.5,420.3 L482.0,413.8 L483.3,412.3 L483.3,412.3 L483.3,412.3 L483.3,412.3 L483.3,412.3 L483.3,412.3 L484.7,410.9 L491.8,412.1 L498.5,405.3 L513.7,403.9 L518.9,398.8 L518.9,398.8 Z M483.3,412.3 L483.3,412.3 L483.3,412.3 L483.3,412.3 L483.3,412.3 L483.3,412.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389655</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Fo?a</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>NULL</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>18.7352</longitude>
+    <woe-name>Fo?a</woe-name>
+    <latitude>43.4443</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>ba-6336</hc-key>
+    <hc-a2>FO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.6337" d="M480.0,449.8 L482.1,461.5 L479.6,472.7 L485.0,478.5 L490.8,475.3 L498.3,480.0 L508.5,477.6 L523.8,490.0 L538.0,498.3 L542.4,500.2 L535.1,511.5 L532.4,517.9 L531.2,526.0 L531.6,532.5 L535.7,551.3 L528.3,550.5 L517.4,551.1 L507.4,553.9 L502.1,559.4 L499.0,569.2 L499.2,573.5 L505.9,586.9 L507.2,591.6 L502.0,598.8 L502.4,603.1 L507.0,614.8 L513.8,624.9 L521.0,632.6 L523.2,639.3 L523.4,646.5 L521.6,651.7 L517.9,655.7 L512.4,659.2 L514.3,663.8 L511.8,665.7 L507.5,664.4 L503.7,667.1 L494.0,665.7 L491.1,663.9 L491.1,646.8 L486.1,645.5 L471.4,632.2 L461.3,622.4 L458.7,617.5 L449.0,608.6 L437.1,598.7 L431.6,595.1 L427.9,589.1 L424.7,580.0 L422.5,569.1 L422.3,557.7 L427.0,550.1 L428.6,542.9 L428.7,533.5 L425.8,530.8 L416.9,528.9 L416.6,522.2 L419.3,517.9 L423.4,515.6 L428.1,509.0 L425.7,470.7 L424.6,462.6 L419.9,455.7 L421.0,450.3 L433.5,450.5 L446.4,450.1 L462.1,448.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389656</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Trebinje</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>NULL</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>18.3391</longitude>
+    <woe-name>Trebinje</woe-name>
+    <latitude>43.1037</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>ba-6337</hc-key>
+    <hc-a2>TR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.6331" d="M254.1,297.1 L251.5,294.0 L249.8,279.8 L241.5,276.1 L238.6,270.9 L233.2,268.9 L215.3,259.4 L203.9,250.4 L194.2,248.1 L186.2,234.4 L179.1,233.9 L163.1,222.9 L144.6,207.2 L144.6,207.2 L140.5,200.9 L141.2,195.9 L151.6,195.4 L162.3,198.4 L185.1,206.4 L202.6,205.0 L207.4,191.4 L207.0,164.7 L206.0,154.5 L204.5,151.7 L199.9,152.1 L198.8,149.3 L198.5,135.1 L196.6,128.8 L189.6,119.3 L181.6,111.7 L174.1,107.2 L158.2,103.7 L148.5,102.4 L108.6,100.0 L103.0,98.3 L97.9,92.3 L96.0,84.2 L98.7,79.5 L111.0,74.7 L112.0,70.2 L110.4,67.7 L112.2,60.5 L115.6,53.8 L116.3,45.8 L119.2,42.4 L125.6,39.4 L127.9,35.6 L133.4,22.7 L141.6,16.9 L151.8,17.1 L186.9,26.8 L193.5,24.1 L194.5,17.1 L199.9,13.2 L200.8,10.4 L205.8,4.2 L210.5,0.0 L212.0,1.4 L214.9,12.0 L218.5,11.5 L217.2,8.2 L223.9,12.9 L225.5,9.7 L225.7,16.6 L230.5,12.9 L234.1,20.3 L241.7,25.7 L257.5,32.6 L267.7,30.6 L271.6,22.0 L281.8,27.6 L291.8,33.8 L300.8,31.3 L302.3,27.9 L305.1,31.8 L303.3,34.8 L307.7,35.0 L311.8,32.7 L310.8,39.0 L325.3,37.5 L328.9,35.1 L335.1,28.1 L338.9,25.9 L344.7,26.1 L350.0,28.9 L359.4,38.8 L355.1,48.5 L356.0,60.5 L360.0,71.5 L360.4,83.9 L355.3,89.0 L353.7,97.5 L354.4,112.2 L360.7,127.5 L365.2,135.8 L371.9,138.9 L384.3,135.0 L375.7,155.4 L375.9,161.1 L379.9,168.1 L390.7,178.0 L391.9,184.7 L391.6,196.8 L387.5,201.9 L381.3,207.1 L365.3,216.9 L359.7,221.4 L359.7,221.4 L351.7,221.6 L336.3,224.9 L318.7,225.1 L311.9,218.2 L307.1,210.6 L301.4,206.8 L276.4,206.7 L269.2,203.0 L260.0,202.8 L255.7,204.0 L254.7,211.2 L256.9,237.0 L263.2,253.5 L267.7,260.2 L277.5,272.0 L279.5,281.5 L278.7,288.6 L275.7,300.3 L275.7,300.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389653</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Banja Luka</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>NULL</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>17.2619</longitude>
+    <woe-name>Banja Luka</woe-name>
+    <latitude>44.8146</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>ba-6331</hc-key>
+    <hc-a2>BL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.2216" d="M254.1,297.1 L275.7,300.3 L275.7,300.3 L278.4,305.6 L280.2,309.1 L283.6,312.6 L285.2,318.5 L289.6,325.3 L290.7,330.5 L299.0,338.8 L308.5,339.2 L313.8,346.9 L314.9,350.7 L314.9,350.7 L314.9,350.7 L316.1,355.0 L307.5,351.4 L303.0,351.8 L301.4,355.8 L301.4,370.6 L303.4,374.2 L303.5,379.7 L313.1,380.8 L329.2,402.4 L328.8,410.2 L324.0,418.2 L313.8,421.2 L304.7,422.1 L288.3,431.4 L283.5,431.6 L280.0,426.4 L275.7,425.2 L272.9,427.6 L264.8,430.1 L255.5,430.3 L245.7,435.2 L239.8,430.1 L230.8,420.1 L201.7,391.6 L181.3,376.1 L178.7,372.1 L174.9,359.1 L167.3,352.4 L161.3,344.4 L152.4,335.5 L145.1,325.2 L139.1,319.6 L131.2,316.9 L126.5,306.6 L118.1,306.2 L110.8,300.3 L108.1,296.0 L101.3,281.8 L93.4,273.6 L90.4,269.4 L85.1,251.1 L85.4,244.6 L87.7,238.5 L88.1,234.1 L91.1,232.6 L97.7,232.2 L101.4,226.3 L112.0,226.1 L122.1,223.9 L127.9,221.5 L136.6,219.4 L143.2,208.1 L144.6,207.2 L144.6,207.2 L163.1,222.9 L179.1,233.9 L186.2,234.4 L194.2,248.1 L203.9,250.4 L215.3,259.4 L233.2,268.9 L238.6,270.9 L241.5,276.1 L249.8,279.8 L251.5,294.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>Hercegbosanski|Hercegova?ko-bosanski</alt-name>
+    <woe-id>24551287</woe-id>
+    <subregion>Federation of Bosnia and Herzegovina</subregion>
+    <fips>BK01</fips>
+    <postal-code>NULL</postal-code>
+    <name>West Bosnia</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>16.8584</longitude>
+    <woe-name>Livanjski Kanton</woe-name>
+    <latitude>43.9773</latitude>
+    <woe-label>NULL</woe-label>
+    <type>?upanija|kanton</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>ba-2216</hc-key>
+    <hc-a2>WB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.2217" d="M143.2,208.1 L136.6,219.4 L127.9,221.5 L122.1,223.9 L112.0,226.1 L101.4,226.3 L97.7,232.2 L91.1,232.6 L88.1,234.1 L87.6,231.8 L81.9,227.6 L76.1,225.6 L79.8,221.8 L78.4,213.3 L73.9,201.1 L71.7,191.9 L69.6,189.3 L65.8,188.7 L59.4,191.7 L55.7,191.2 L52.0,187.4 L53.4,183.4 L58.7,175.3 L55.7,166.5 L45.1,163.1 L42.7,159.6 L41.3,153.5 L39.4,150.8 L35.1,152.0 L31.9,143.5 L28.5,142.0 L25.0,147.3 L16.1,149.1 L12.0,142.7 L7.8,139.9 L0.3,127.0 L0.0,122.9 L2.5,119.4 L9.2,116.8 L10.0,112.4 L8.3,107.7 L3.0,98.3 L2.3,92.1 L3.7,87.7 L8.0,80.0 L8.6,75.6 L6.5,68.1 L6.5,63.5 L10.5,52.8 L11.2,48.9 L10.4,34.2 L12.5,26.8 L18.2,21.5 L27.6,19.9 L44.4,20.1 L48.4,19.3 L54.0,22.6 L53.3,27.7 L60.9,31.3 L63.6,35.7 L67.5,45.4 L70.6,49.4 L86.9,65.2 L98.7,71.0 L105.2,72.4 L109.5,71.2 L110.4,67.7 L112.0,70.2 L111.0,74.7 L98.7,79.5 L96.0,84.2 L97.9,92.3 L103.0,98.3 L108.6,100.0 L148.5,102.4 L158.2,103.7 L174.1,107.2 L181.6,111.7 L189.6,119.3 L196.6,128.8 L198.5,135.1 L198.8,149.3 L199.9,152.1 L204.5,151.7 L206.0,154.5 L207.0,164.7 L207.4,191.4 L202.6,205.0 L185.1,206.4 L162.3,198.4 L151.6,195.4 L141.2,195.9 L140.5,200.9 L144.6,207.2 L144.6,207.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24551286</woe-id>
+    <subregion>Federation of Bosnia and Herzegovina</subregion>
+    <fips>HR19</fips>
+    <postal-code>NULL</postal-code>
+    <name>Una-Sana</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>16.299</longitude>
+    <woe-name>Unsko-sanski Kanton</woe-name>
+    <latitude>44.6409</latitude>
+    <woe-label>NULL</woe-label>
+    <type>?upanija|kanton</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ba-2217</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.2218" d="M313.8,346.9 L308.5,339.2 L299.0,338.8 L290.7,330.5 L289.6,325.3 L285.2,318.5 L283.6,312.6 L278.4,305.6 L276.9,303.6 L275.7,300.4 L275.7,300.3 L275.7,300.3 L278.7,288.6 L279.5,281.5 L277.5,272.0 L267.7,260.2 L263.2,253.5 L256.9,237.0 L254.7,211.2 L255.7,204.0 L260.0,202.8 L269.2,203.0 L276.4,206.7 L301.4,206.8 L307.1,210.6 L311.9,218.2 L318.7,225.1 L336.3,224.9 L351.7,221.6 L359.7,221.4 L359.7,221.4 L363.5,230.7 L370.9,238.6 L371.7,243.0 L371.2,253.6 L372.1,266.4 L374.4,272.4 L385.4,282.2 L393.6,281.6 L393.7,285.2 L396.7,294.7 L400.2,296.7 L405.2,296.5 L407.4,298.8 L410.0,311.7 L418.0,311.1 L419.6,312.5 L419.8,318.5 L422.0,323.5 L425.7,323.4 L433.5,335.7 L437.8,335.1 L439.4,336.7 L441.6,348.6 L438.5,353.6 L434.7,355.2 L429.2,359.6 L423.6,361.9 L416.7,362.8 L413.9,368.7 L408.9,370.0 L402.5,368.7 L397.3,363.5 L392.5,354.0 L378.3,353.9 L372.7,355.6 L368.3,359.7 L361.4,360.8 L355.2,358.9 L347.9,354.9 L339.6,353.1 L326.8,356.2 L318.0,351.3 L314.9,350.7 L314.9,350.7 L314.9,350.7 Z M314.9,350.7 L314.9,350.7 L314.9,350.7 L314.9,350.7 L314.9,350.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>Centralnobosanski|Srednjobosanski</alt-name>
+    <woe-id>24551285</woe-id>
+    <subregion>Federation of Bosnia and Herzegovina</subregion>
+    <fips>BK01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Central Bosnia</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>17.6547</longitude>
+    <woe-name>Srednjebosanski Kanton</woe-name>
+    <latitude>44.1028</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Canton</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>ba-2218</hc-key>
+    <hc-a2>CB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.2220" d="M413.9,368.7 L415.5,370.9 L419.5,385.5 L424.1,391.6 L430.9,392.9 L436.3,391.5 L440.4,392.0 L446.5,397.4 L449.4,404.2 L449.8,409.6 L461.6,415.8 L466.7,416.5 L468.8,409.5 L476.6,412.2 L483.3,412.3 L483.3,412.3 L483.3,412.3 L483.3,412.3 L482.0,413.8 L481.5,420.3 L482.9,429.8 L486.9,446.0 L486.3,449.5 L480.0,449.8 L462.1,448.8 L446.4,450.1 L433.5,450.5 L421.0,450.3 L419.9,455.7 L424.6,462.6 L425.7,470.7 L428.1,509.0 L423.4,515.6 L419.3,517.9 L416.6,522.2 L416.9,528.9 L425.8,530.8 L428.7,533.5 L428.6,542.9 L427.0,550.1 L422.3,557.7 L422.5,569.1 L424.7,580.0 L427.9,589.1 L431.6,595.1 L437.1,598.7 L449.0,608.6 L458.7,617.5 L461.3,622.4 L471.4,632.2 L486.1,645.5 L491.1,646.8 L491.1,663.9 L485.1,657.1 L480.2,657.6 L470.1,654.6 L463.9,651.6 L431.1,631.3 L421.0,625.3 L416.6,621.8 L408.4,613.2 L403.9,610.0 L395.4,607.2 L389.4,598.4 L388.9,589.6 L386.1,584.4 L381.6,586.7 L365.9,582.7 L361.9,583.8 L357.3,590.1 L339.4,579.7 L342.5,579.8 L350.6,582.6 L343.7,577.8 L353.4,575.4 L358.5,571.5 L357.6,564.5 L351.6,551.6 L345.9,545.2 L351.3,537.0 L355.4,526.3 L357.0,516.4 L354.3,509.3 L348.6,503.2 L344.0,502.4 L341.4,495.2 L343.6,488.9 L361.0,491.7 L371.8,492.0 L371.7,487.0 L364.7,471.5 L362.5,457.1 L354.8,456.0 L351.4,454.2 L348.3,446.7 L344.1,444.2 L337.9,434.2 L331.4,433.4 L331.5,428.5 L333.1,427.5 L341.7,427.2 L342.9,425.9 L342.6,417.0 L339.6,412.8 L339.4,405.9 L336.6,401.7 L329.2,402.4 L313.1,380.8 L303.5,379.7 L303.4,374.2 L301.4,370.6 L301.4,355.8 L303.0,351.8 L307.5,351.4 L316.1,355.0 L314.9,350.7 L314.9,350.7 L314.9,350.7 L314.9,350.7 L314.9,350.7 L314.9,350.7 L318.0,351.3 L326.8,356.2 L339.6,353.1 L347.9,354.9 L355.2,358.9 L361.4,360.8 L368.3,359.7 L372.7,355.6 L378.3,353.9 L392.5,354.0 L397.3,363.5 L402.5,368.7 L408.9,370.0 L413.9,368.6 L413.9,368.7 Z M483.3,412.3 L483.3,412.3 L483.3,412.3 L483.3,412.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>Hercegovackoneretvanski</alt-name>
+    <woe-id>24551284</woe-id>
+    <subregion>Federation of Bosnia and Herzegovina</subregion>
+    <fips>HR03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Herzegovina-Neretva</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>17.8878</longitude>
+    <woe-name>Hercegovacko-neretvanski Kanton</woe-name>
+    <latitude>43.3226</latitude>
+    <woe-label>NULL</woe-label>
+    <type>?upanija|kanton</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>ba-2220</hc-key>
+    <hc-a2>HN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.2219" d="M345.9,545.2 L343.9,543.0 L316.9,526.4 L314.1,523.2 L308.9,510.8 L303.2,506.9 L295.6,500.2 L288.3,489.7 L283.9,477.4 L286.7,456.5 L283.7,450.2 L278.0,446.6 L260.4,444.3 L249.8,438.6 L245.7,435.2 L255.5,430.3 L264.8,430.1 L272.9,427.6 L275.7,425.2 L280.0,426.4 L283.5,431.6 L288.3,431.4 L304.7,422.1 L313.8,421.2 L324.0,418.2 L328.8,410.2 L329.2,402.4 L336.6,401.7 L339.4,405.9 L339.6,412.8 L342.6,417.0 L342.9,425.9 L341.7,427.2 L333.1,427.5 L331.5,428.5 L331.4,433.4 L337.9,434.2 L344.1,444.2 L348.3,446.7 L351.4,454.2 L354.8,456.0 L362.5,457.1 L364.7,471.5 L371.7,487.0 L371.8,492.0 L361.0,491.7 L343.6,488.9 L341.4,495.2 L344.0,502.4 L348.6,503.2 L354.3,509.3 L357.0,516.4 L355.4,526.3 L351.3,537.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.BF</hasc>
+    <alt-name>Zapadnohercegova?ki</alt-name>
+    <woe-id>24551283</woe-id>
+    <subregion>Federation of Bosnia and Herzegovina</subregion>
+    <fips>HR03</fips>
+    <postal-code>NULL</postal-code>
+    <name>West Herzegovina</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Federacija Bosna i Hercegovina</region>
+    <longitude>17.4063</longitude>
+    <woe-name>Zapadno-hercegovacki Kanton</woe-name>
+    <latitude>43.3908</latitude>
+    <woe-label>NULL</woe-label>
+    <type>?upanija|kanton</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ba-2219</hc-key>
+    <hc-a2>WH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.3181" d="M460.0,65.7 L463.1,56.7 L478.0,49.6 L480.2,40.6 L482.8,43.2 L485.6,44.8 L486.4,55.8 L494.6,64.6 L501.9,69.6 L509.0,71.9 L516.6,71.6 L524.4,75.5 L529.2,79.8 L530.0,85.1 L538.1,85.9 L535.0,97.8 L535.0,97.8 L527.9,93.1 L517.2,90.8 L507.3,90.5 L496.9,94.9 L492.1,94.7 L490.0,92.3 L489.6,83.8 L483.5,82.3 L472.3,82.2 L463.7,87.6 L458.1,105.2 L454.1,112.1 L447.1,114.2 L433.2,114.7 L418.6,117.1 L417.5,121.4 L417.8,128.5 L420.7,131.6 L428.2,135.2 L443.6,141.0 L468.0,148.2 L473.0,153.7 L474.3,160.0 L473.5,165.7 L464.5,168.2 L456.4,168.2 L456.3,168.2 L442.7,168.8 L429.7,168.2 L425.9,162.3 L419.3,149.4 L413.1,139.7 L406.9,134.2 L390.3,133.1 L384.3,135.0 L371.9,138.9 L365.2,135.8 L360.7,127.5 L354.4,112.2 L353.7,97.5 L355.3,89.0 L360.4,83.9 L360.0,71.5 L356.0,60.5 L355.1,48.5 L359.4,38.8 L365.2,45.8 L372.1,49.9 L383.7,46.2 L388.0,42.5 L398.2,29.2 L403.5,27.6 L406.4,29.0 L416.4,37.4 L425.9,39.6 L429.2,47.8 L431.5,51.1 L434.8,51.4 L442.1,58.0 L446.7,65.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389650</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Doboj</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>NULL</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>18.0675</longitude>
+    <woe-name>Doboj</woe-name>
+    <latitude>44.9307</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.29</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>ba-3181</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.SR" d="M460.0,65.7 L450.5,66.0 L446.7,65.4 L442.1,58.0 L434.8,51.4 L431.5,51.1 L429.2,47.8 L425.9,39.6 L431.3,38.7 L435.4,34.0 L435.7,27.7 L437.6,25.2 L441.8,24.2 L446.1,25.7 L457.0,32.1 L469.4,32.7 L472.9,34.1 L480.2,40.6 L478.0,49.6 L463.1,56.7 Z M485.6,44.8 L491.9,47.3 L496.2,47.3 L494.7,38.6 L497.2,37.4 L502.9,38.0 L509.0,36.2 L513.5,44.0 L516.6,43.6 L517.8,39.4 L521.9,39.9 L529.1,53.0 L533.4,56.3 L540.3,57.6 L543.4,65.4 L543.0,67.8 L538.2,73.4 L540.4,80.4 L546.8,86.7 L551.2,89.3 L550.2,93.3 L545.2,98.2 L540.9,98.4 L541.1,90.7 L538.1,85.9 L530.0,85.1 L529.2,79.8 L524.4,75.5 L516.6,71.6 L509.0,71.9 L501.9,69.6 L494.6,64.6 L486.4,55.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.SR</hasc>
+    <alt-name>Bosanskoposavski|Posavski</alt-name>
+    <woe-id>24551282</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>BK00</fips>
+    <postal-code>SR</postal-code>
+    <name>Posavina</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>Canton</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>18.2977</longitude>
+    <woe-name>Posavski Kanton</woe-name>
+    <latitude>45.06</latitude>
+    <woe-label>NULL</woe-label>
+    <type>?upanija|kanton</type>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>ba-sr</hc-key>
+    <hc-a2>SR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA.6332" d="M538.1,85.9 L541.1,90.7 L540.9,98.4 L545.2,98.2 L550.2,93.3 L551.2,89.3 L559.8,92.6 L574.8,91.5 L575.1,96.2 L568.6,100.4 L566.1,104.8 L564.2,111.6 L560.2,114.8 L551.5,116.0 L546.0,122.2 L546.0,122.2 L540.9,122.1 L539.4,117.9 L538.0,108.0 L535.0,97.8 L535.0,97.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BA.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389649</woe-id>
+    <subregion>Serbian Republic</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Br?ko Distrikt</name>
+    <country>Bosnia and Herzegovina</country>
+    <type-en>NULL</type-en>
+    <region>Repuplika Srpska</region>
+    <longitude>18.854</longitude>
+    <woe-name>Br?ko Distrikt</woe-name>
+    <latitude>44.8305</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Condominium</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ba-6332</hc-key>
+    <hc-a2>BD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

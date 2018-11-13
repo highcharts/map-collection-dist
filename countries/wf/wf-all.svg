@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" height="510pt" version="1.1" width="815pt" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Wallis and Futuna</title>
+<g id="admin1">
+
+<g id="FR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>France</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Fr.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FRA</iso-a3>
+    <iso-a2>FR</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-key>fr</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</g>
+
+<path d="M591.62,373.85 L561.71,380.00 L528.49,370.42 L505.26,352.61 L502.72,314.31 L476.52,271.91 L465.00,231.97 L505.76,200.66 L488.07,148.82 L503.12,101.51 L536.33,60.91 L572.66,30.00 L602.68,84.11 L632.74,126.13 L644.64,166.88 L620.18,217.98 L628.54,227.28 L632.37,233.94 L638.13,251.49 L598.53,257.80 L590.75,281.56 L604.65,344.48 Z" fill="#CEE3F5" id="FR.6510" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WF.UV</hasc>
+    <alt-name>Wallis</alt-name>
+    <woe-id>24549911</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>`Uvea</name>
+    <country>Wallis and Futuna</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-176.169</longitude>
+    <woe-name>Hahake</woe-name>
+    <latitude>-13.2768</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>fr-6510</hc-key>
+    <hc-a2>`U</hc-a2>
+  </desc>
+</path>
+<g id="FR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>France</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Fr.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FRA</iso-a3>
+    <iso-a2>FR</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-key>fr</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</g>
+
+<path d="M341.37,326.05 L358.36,328.85 L365.66,328.07 L381.11,335.42 L390.00,342.95 L376.47,353.75 L341.56,369.34 L315.97,387.47 L304.14,400.23 L288.36,400.91 L240.97,380.24 L225.12,367.14 L228.15,351.99 L240.49,339.82 L301.31,311.09 L320.30,315.55 Z M109.79,172.26 L151.05,215.66 L156.64,227.29 L179.56,234.14 L262.71,277.66 L262.77,290.37 L166.07,284.46 L150.16,290.90 L127.23,280.71 L117.97,279.36 L111.72,258.44 L98.64,234.58 L102.40,206.64 Z" fill="#CEE3F5" id="FR.6512" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WF.AL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549913</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Alo</name>
+    <country>Wallis and Futuna</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-178.094</longitude>
+    <woe-name>Alo</woe-name>
+    <latitude>-14.3029</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.80</hc-middle-y>
+    <hc-key>fr-6512</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+
+<path d="M117.97,279.36 L81.00,273.98 L63.38,264.68 L29.32,212.62 L10.00,159.13 L23.81,130.00 L88.73,150.11 L109.79,172.26 L102.40,206.64 L98.64,234.58 L111.72,258.44 Z" fill="#CEE3F5" id="FR.3648" stroke="#6E6E6E" stroke-width="0.4">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>WF.SI</hasc>
+    <alt-name>Singave</alt-name>
+    <woe-id>24549914</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Sigave</name>
+    <country>Wallis and Futuna</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-178.161</longitude>
+    <woe-name>Singave</woe-name>
+    <latitude>-14.2659</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>fr-3648</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="407" y="394">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+<g id="__separator_lines__"><path d="M428,414 L428,40" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

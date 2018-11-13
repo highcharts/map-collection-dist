@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>United Arab Emirates</title>
+<g id="admin1">
+
+<g id="AE">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United Arab Emirates</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>U.A.E.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>ARE</iso-a3>
+    <iso-a2>AE</iso-a2>
+    <woe-id>23424738</woe-id>
+    <continent>Asia</continent>
+    <hc-key>ae</hc-key>
+    <hc-a2>UA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.AZ" d="M65.3,280.9 L61.8,281.0 L63.5,275.7 L66.5,276.9 Z M333.5,286.4 L337.7,289.2 L346.7,292.1 L348.1,296.6 L346.0,300.2 L341.5,301.6 L336.3,301.3 L332.0,299.5 L331.3,296.0 L329.6,295.4 L329.1,299.4 L325.0,301.9 L320.3,302.7 L315.5,302.1 L307.2,298.2 L300.7,297.4 L299.1,295.6 L303.3,292.3 L308.4,290.3 L313.1,286.7 L316.8,286.1 L320.0,287.3 L324.5,284.2 L330.2,281.7 Z M382.3,284.6 L381.1,288.6 L379.7,285.8 L369.8,281.4 L368.3,277.2 L370.4,273.9 L373.6,272.7 L380.9,280.7 Z M389.5,279.9 L386.7,280.2 L380.2,274.7 L380.5,271.2 L383.4,268.6 L387.5,268.1 L390.1,273.1 L393.3,276.9 Z M151.4,276.2 L148.9,278.5 L147.1,276.4 L144.0,269.8 L144.4,266.7 L148.8,261.5 L152.3,259.6 L155.7,260.7 L157.2,263.3 L157.5,269.8 Z M402.5,267.4 L400.9,274.1 L398.5,275.2 L394.3,267.2 L399.0,268.7 L396.2,264.0 L398.1,263.8 Z M270.6,270.0 L262.1,274.2 L256.5,276.0 L255.1,280.1 L253.2,277.5 L248.5,275.8 L247.0,278.1 L239.4,276.8 L235.4,277.4 L236.7,273.2 L242.1,274.5 L256.4,268.5 L259.1,271.1 L261.8,271.3 L261.1,266.3 L266.8,258.4 L269.4,256.6 L270.3,260.0 L273.7,262.0 L272.5,268.1 Z M422.3,258.1 L416.4,257.9 L402.7,253.3 L402.7,250.8 L411.8,242.4 L410.7,245.8 L411.7,248.6 L419.6,253.6 Z M111.5,241.2 L109.7,241.9 L105.4,238.4 L105.3,236.2 L109.4,231.8 L112.7,234.1 L113.5,237.9 Z M26.5,219.2 L27.0,220.6 L25.5,224.6 L24.5,219.9 Z M223.1,182.3 L222.5,185.5 L220.2,182.3 L220.0,179.1 L222.6,179.5 Z M390.2,127.8 L391.3,133.4 L387.7,132.4 L385.4,129.5 L387.3,126.8 Z M615.3,218.2 L617.8,226.2 L613.8,229.8 L612.8,235.1 L609.3,239.5 L611.2,249.5 L611.2,260.5 L616.4,266.4 L615.9,274.0 L609.2,286.3 L608.2,291.4 L621.5,294.5 L629.6,291.3 L633.9,293.2 L637.9,305.6 L643.2,315.3 L641.5,317.8 L632.3,320.0 L615.4,326.8 L612.7,326.4 L608.9,323.4 L603.9,324.7 L592.1,323.8 L584.0,326.1 L576.8,329.9 L570.6,332.2 L564.4,333.3 L565.0,338.4 L572.7,343.9 L575.0,347.4 L575.9,364.0 L575.3,366.1 L567.0,378.7 L562.0,398.3 L551.6,411.3 L549.9,416.5 L546.7,432.3 L543.4,441.9 L529.1,466.1 L524.4,481.3 L523.8,486.0 L524.5,509.1 L522.6,532.1 L512.7,544.7 L510.5,545.1 L141.1,488.0 L134.7,484.1 L2.7,301.1 L0.0,293.2 L0.9,278.9 L0.2,272.8 L3.5,268.4 L3.9,261.4 L1.6,255.6 L4.6,252.5 L8.7,259.9 L8.8,272.2 L9.5,277.8 L11.6,279.2 L13.7,277.0 L15.4,269.9 L18.5,278.5 L21.7,278.9 L25.2,270.3 L28.0,268.4 L30.8,273.0 L31.1,276.5 L29.2,286.6 L30.8,298.2 L30.5,305.2 L33.7,314.6 L44.2,316.1 L50.8,321.0 L51.4,317.3 L64.8,317.8 L71.0,321.9 L78.4,321.0 L83.9,321.8 L86.2,320.8 L94.0,321.0 L102.1,316.9 L111.2,316.3 L116.7,311.6 L121.2,310.6 L126.5,308.0 L128.4,304.6 L132.9,302.8 L137.1,299.3 L145.9,294.4 L147.0,287.0 L149.9,285.5 L154.7,288.7 L159.7,296.0 L167.0,295.2 L176.1,297.6 L184.4,295.6 L187.7,296.9 L200.0,298.3 L206.6,296.3 L207.8,294.2 L217.4,301.4 L223.3,299.0 L228.9,301.8 L228.5,294.7 L231.9,294.1 L239.1,298.9 L244.4,305.8 L252.5,306.5 L271.2,303.1 L277.1,307.4 L283.0,307.1 L289.1,311.1 L291.9,315.0 L298.9,313.8 L302.9,315.2 L309.6,311.9 L313.8,313.2 L331.5,313.7 L336.8,312.1 L345.8,307.4 L355.1,306.1 L364.9,302.4 L370.9,301.5 L375.5,298.3 L380.4,292.4 L390.0,289.8 L400.4,282.1 L409.0,284.8 L415.6,279.0 L418.4,275.3 L424.3,263.9 L424.1,258.1 L426.4,257.0 L424.5,254.7 L432.4,257.1 L428.6,250.4 L437.4,254.9 L437.0,250.7 L434.3,249.3 L426.6,248.2 L414.9,240.5 L424.8,235.2 L425.9,239.6 L428.6,243.9 L432.2,246.6 L435.6,246.2 L432.6,243.9 L438.6,245.2 L441.1,242.0 L446.8,231.2 L443.9,227.4 L447.9,226.0 L449.2,221.6 L451.9,220.4 L447.7,209.8 L449.5,205.8 L455.2,202.1 L457.5,198.7 L462.2,201.0 L466.4,199.2 L465.3,194.6 L481.1,185.7 L495.6,174.8 L499.2,173.7 L502.3,174.7 L519.4,226.1 L522.6,231.5 L528.4,232.8 L559.1,232.0 L567.5,229.6 L577.3,224.1 L593.3,217.7 L596.6,215.6 L607.9,218.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>AE.AZ</hasc>
+    <alt-name>Aboû Dabî|Abu Dabi|Ab? ?ab?|Ab? ?aby</alt-name>
+    <woe-id>2347109</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AE01</fips>
+    <postal-code>AZ</postal-code>
+    <name>Abu Dhabi</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>54.0817</longitude>
+    <woe-name>Abu Dhabi</woe-name>
+    <latitude>23.5238</latitude>
+    <woe-label>Abu Dhabi, AE, United Arab Emirates</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.69</hc-middle-y>
+    <hc-key>ae-az</hc-key>
+    <hc-a2>AZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.DU" d="M520.3,150.2 L523.4,152.9 L522.7,153.3 L519.9,150.5 Z M669.1,197.9 L666.7,203.8 L663.5,207.6 L661.3,211.9 L655.2,212.7 L655.2,209.3 L659.6,198.5 L669.0,197.9 Z M499.2,173.7 L495.0,171.3 L494.3,167.9 L496.0,164.7 L494.8,170.4 L499.7,173.3 L501.4,172.8 L499.0,168.4 L497.0,167.0 L500.7,165.8 L499.2,167.4 L501.8,172.6 L503.9,168.2 L503.2,171.9 L507.5,169.5 L506.8,166.2 L512.2,165.8 L523.2,153.3 L538.1,134.8 L538.8,130.1 L541.6,127.6 L543.9,128.0 L546.7,133.3 L544.1,138.3 L548.1,137.1 L549.0,134.3 L544.7,124.1 L547.8,120.4 L555.4,122.7 L559.5,122.5 L565.6,120.6 L569.2,124.8 L573.8,127.5 L577.1,130.7 L587.3,137.7 L591.3,143.4 L595.3,160.8 L595.0,162.8 L589.7,169.6 L593.2,178.4 L595.5,186.1 L595.9,194.5 L598.2,206.1 L598.0,210.8 L596.6,215.6 L593.3,217.7 L577.3,224.1 L567.5,229.6 L559.1,232.0 L528.4,232.8 L522.6,231.5 L519.4,226.1 L502.3,174.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AE.DU</hasc>
+    <alt-name>Dibay|Doubaï|Dubai, Dubayy</alt-name>
+    <woe-id>2347111</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AE03</fips>
+    <postal-code>DU</postal-code>
+    <name>Dubay</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>55.3436</longitude>
+    <woe-name>Dubay</woe-name>
+    <latitude>24.9508</latitude>
+    <woe-label>Dubai, AE, United Arab Emirates</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>ae-du</hc-key>
+    <hc-a2>DU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.SH" d="M685.6,129.8 L682.7,130.7 L682.2,126.5 L684.3,125.7 L686.3,127.2 Z M684.2,183.8 L681.9,183.6 L680.9,186.8 L673.9,185.9 L670.6,182.4 L671.8,176.7 L669.3,169.0 L666.5,164.4 L668.2,161.6 L670.9,162.8 L681.1,173.8 L683.5,179.8 L683.7,181.3 Z M685.2,177.9 L686.4,173.5 L688.0,171.5 L688.7,167.0 L687.7,165.5 L685.8,157.8 L688.4,157.5 L696.8,159.4 L696.8,161.2 L699.8,173.7 L692.0,174.5 L690.6,176.1 L690.1,181.3 L687.3,180.5 Z M697.5,103.3 L697.9,107.5 L696.8,112.1 L700.0,119.4 L696.1,122.3 L695.1,123.7 L689.4,122.5 L686.7,118.4 L682.4,117.8 L684.1,113.3 L691.0,108.9 Z M634.6,114.8 L636.9,118.3 L638.9,114.1 L640.1,109.0 L642.1,108.3 L645.2,109.7 L642.5,117.4 L640.2,119.4 L639.8,121.4 L641.6,125.3 L643.2,130.0 L642.8,134.3 L639.1,138.1 L638.0,141.8 L641.6,146.9 L637.5,156.6 L637.4,163.0 L640.3,169.4 L641.0,174.3 L635.2,173.4 L629.6,174.8 L624.6,177.9 L619.8,182.2 L615.4,187.7 L613.9,192.6 L615.0,204.8 L614.3,213.6 L615.3,218.2 L607.9,218.6 L596.6,215.6 L598.0,210.8 L598.2,206.1 L595.9,194.5 L595.5,186.1 L593.2,178.4 L589.7,169.6 L595.0,162.8 L595.3,160.8 L591.3,143.4 L587.3,137.7 L577.1,130.7 L573.8,127.5 L569.2,124.8 L565.6,120.6 L559.5,122.5 L555.4,122.7 L547.8,120.4 L549.9,118.1 L553.3,117.8 L552.8,113.9 L555.4,111.3 L556.8,112.6 L562.3,106.7 L565.6,108.9 L574.9,111.7 L587.1,112.5 L588.9,111.7 L592.2,104.1 L590.1,102.7 L581.4,101.0 L572.1,96.4 L574.2,94.1 L572.4,93.2 L575.5,88.1 L585.3,94.2 L591.3,99.1 L601.4,103.3 L610.7,111.3 L613.6,115.2 L614.5,119.4 L617.1,124.4 L619.4,125.8 L625.2,125.4 L631.1,123.1 L632.5,120.4 L631.3,115.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>AE.SH</hasc>
+    <alt-name>Ach Chârdjah|Ch?rdja|Ash Sh?riqah|Ash Sh?rjah|Sharjah and Dependencies|Sharjah and Kalba</alt-name>
+    <woe-id>2347114</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AE06</fips>
+    <postal-code>SH</postal-code>
+    <name>Sharjah</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>55.7788</longitude>
+    <woe-name>Sharjah</woe-name>
+    <latitude>25.172</latitude>
+    <woe-label>Sharjah, AE, United Arab Emirates</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ae-sh</hc-key>
+    <hc-a2>SH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.RK" d="M608.9,64.8 L612.4,60.9 L615.6,60.2 L618.5,57.9 L622.8,56.8 L627.9,52.7 L635.8,42.9 L639.7,39.5 L636.5,47.0 L638.6,47.7 L641.6,36.5 L647.6,30.9 L650.0,27.4 L651.5,22.2 L646.7,26.4 L650.5,20.2 L653.6,13.5 L656.9,2.1 L660.2,1.8 L667.4,0.0 L669.1,0.2 L672.0,9.6 L670.7,17.2 L670.0,31.3 L666.2,37.5 L666.1,42.5 L669.4,47.0 L669.1,51.1 L665.6,54.1 L666.1,63.9 L667.2,66.0 L665.2,67.3 L659.2,68.9 L655.2,68.4 L652.0,70.5 L648.4,74.3 L645.6,75.5 L642.1,75.5 L640.3,78.6 L642.6,91.5 L646.8,93.2 L654.3,92.9 L657.9,90.9 L660.1,90.8 L663.5,96.4 L662.2,99.1 L658.2,104.0 L659.3,106.1 L662.7,106.4 L664.4,107.9 L664.2,112.4 L660.0,115.1 L656.1,115.7 L649.0,113.6 L645.2,109.7 L642.1,108.3 L640.1,109.0 L638.9,114.1 L636.9,118.3 L634.6,114.8 L627.8,107.5 L629.0,103.8 L628.1,100.7 L622.8,94.8 L621.3,90.8 L620.6,83.4 L616.9,70.6 L612.5,68.2 Z M684.0,190.4 L679.2,195.1 L676.6,196.3 L669.1,197.9 L669.0,197.9 L659.6,198.5 L651.7,191.2 L648.0,188.5 L646.9,181.6 L645.3,176.9 L641.0,174.3 L640.3,169.4 L637.4,163.0 L637.5,156.6 L641.6,146.9 L638.0,141.8 L639.1,138.1 L642.8,134.3 L652.1,135.4 L654.8,134.6 L660.5,135.5 L664.9,132.7 L665.9,128.2 L670.0,124.9 L670.4,123.1 L667.1,122.8 L663.5,120.3 L668.3,117.1 L672.9,118.4 L674.5,121.4 L678.5,120.7 L680.1,126.2 L674.8,129.7 L674.6,134.3 L668.7,135.3 L667.7,137.0 L668.5,143.8 L666.8,153.9 L666.8,157.1 L668.2,161.6 L666.5,164.4 L669.3,169.0 L671.8,176.7 L670.6,182.4 L673.9,185.9 L680.9,186.8 L683.4,188.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AE.RK</hasc>
+    <alt-name>Ras al Khaima|Râs al Khaïmah|R?'s al Khayma|R?'s al Khaymah</alt-name>
+    <woe-id>2347113</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AE05</fips>
+    <postal-code>RK</postal-code>
+    <name>Ras Al Khaymah</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>55.9791</longitude>
+    <woe-name>Ras Al Khaymah</woe-name>
+    <latitude>25.6964</latitude>
+    <woe-label>Ras Al Khaimah, AE, United Arab Emirates</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
+    <hc-key>ae-rk</hc-key>
+    <hc-a2>RK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.UQ" d="M575.5,88.1 L576.9,83.4 L580.8,77.8 L583.2,76.8 L579.5,83.5 L582.5,86.5 L591.5,84.6 L596.0,74.9 L602.2,69.1 L607.1,67.3 L608.9,64.8 L612.5,68.2 L616.9,70.6 L620.6,83.4 L621.3,90.8 L622.8,94.8 L628.1,100.7 L629.0,103.8 L627.8,107.5 L634.6,114.8 L631.3,115.7 L632.5,120.4 L631.1,123.1 L625.2,125.4 L619.4,125.8 L617.1,124.4 L614.5,119.4 L613.6,115.2 L610.7,111.3 L601.4,103.3 L591.3,99.1 L585.3,94.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AE.UQ</hasc>
+    <alt-name>Oumm al Qaïwaïn|Umm al Qi`?wayn|Qaiwan|Umm al Qaiwain|Umm al Qayqayn|Umm al Qaywayn|Umm el Quwain|Um al Qaiuan</alt-name>
+    <woe-id>2347115</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AE07</fips>
+    <postal-code>UQ</postal-code>
+    <name>Umm Al Qaywayn</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>55.7217</longitude>
+    <woe-name>Umm Al Qaywayn</woe-name>
+    <latitude>25.5218</latitude>
+    <woe-label>Umm Al Quwain, AE, United Arab Emirates</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>ae-uq</hc-key>
+    <hc-a2>UQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.FU" d="M689.8,184.1 L688.9,186.8 L684.0,190.4 L683.4,188.7 L680.9,186.8 L681.9,183.6 L684.2,183.8 L688.7,184.7 Z M668.2,161.6 L666.8,157.1 L666.8,153.9 L668.5,143.8 L667.7,137.0 L668.7,135.3 L674.6,134.3 L678.7,136.7 L681.1,135.7 L687.0,131.3 L694.4,128.1 L695.1,123.7 L696.1,122.3 L700.0,119.4 L698.8,130.3 L697.5,137.1 L696.8,159.4 L688.4,157.5 L685.8,157.8 L687.7,165.5 L688.7,167.0 L688.0,171.5 L686.4,173.5 L685.2,177.9 L683.5,179.8 L681.1,173.8 L670.9,162.8 Z M682.4,117.8 L678.5,120.7 L674.5,121.4 L672.9,118.4 L668.3,117.1 L663.5,120.3 L667.1,122.8 L670.4,123.1 L670.0,124.9 L665.9,128.2 L664.9,132.7 L660.5,135.5 L654.8,134.6 L652.1,135.4 L642.8,134.3 L643.2,130.0 L641.6,125.3 L645.3,122.3 L645.9,120.6 L642.5,117.4 L645.2,109.7 L649.0,113.6 L656.1,115.7 L660.0,115.1 L664.2,112.4 L664.4,107.9 L662.7,106.4 L659.3,106.1 L658.2,104.0 L662.2,99.1 L663.5,96.4 L660.1,90.8 L657.9,90.9 L654.3,92.9 L646.8,93.2 L642.6,91.5 L640.3,78.6 L642.1,75.5 L645.6,75.5 L648.4,74.3 L652.0,70.5 L655.2,68.4 L659.2,68.9 L665.2,67.3 L667.2,66.0 L672.4,68.0 L674.8,72.4 L677.0,73.0 L685.3,70.9 L688.4,72.7 L694.0,74.6 L695.2,76.4 L698.3,87.1 L697.5,103.3 L691.0,108.9 L684.1,113.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AE.FU</hasc>
+    <alt-name>Al Foudjaïrah, Fudjayra|Al Fujayrah, Fujaira, Fujairah, Fujeira</alt-name>
+    <woe-id>2347112</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AE04</fips>
+    <postal-code>FU</postal-code>
+    <name>Fujayrah</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>56.2221</longitude>
+    <woe-name>Fujayrah</woe-name>
+    <latitude>25.4752</latitude>
+    <woe-label>Fujairah, AE, United Arab Emirates</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.18</hc-middle-y>
+    <hc-key>ae-fu</hc-key>
+    <hc-a2>FU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.740" d="M683.5,179.8 L685.2,177.9 L687.3,180.5 L690.1,181.3 L689.8,184.1 L688.7,184.7 L684.2,183.8 L683.7,181.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AE.</hasc>
+    <alt-name>Al Foudjaïrah, Fudjayra|Al Fujayrah, Fujaira, Fujairah, Fujeira</alt-name>
+    <woe-id>-2347114</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Neutral Zone</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>56.2932</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>24.925</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>ae-740</hc-key>
+    <hc-a2>NZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.AJ" d="M562.3,106.7 L564.4,103.8 L566.7,105.9 L568.2,102.8 L569.2,103.9 L572.1,96.4 L581.4,101.0 L590.1,102.7 L592.2,104.1 L588.9,111.7 L587.1,112.5 L574.9,111.7 L565.6,108.9 Z M642.5,117.4 L645.9,120.6 L645.3,122.3 L641.6,125.3 L639.8,121.4 L640.2,119.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AE.AJ</hasc>
+    <alt-name>`Adjmân|Ajmã|`Ajm?n</alt-name>
+    <woe-id>2347110</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AE02</fips>
+    <postal-code>AJ</postal-code>
+    <name>Ajman</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>55.5411</longitude>
+    <woe-name>Ajman</woe-name>
+    <latitude>25.3971</latitude>
+    <woe-label>Ajman, AE, United Arab Emirates</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.18</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>ae-aj</hc-key>
+    <hc-a2>AJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE.742" d="M659.6,198.5 L655.2,209.3 L655.2,212.7 L653.2,212.4 L648.8,208.9 L644.6,197.9 L639.3,193.0 L638.8,188.7 L641.3,187.9 L645.2,189.4 L648.6,191.9 L648.0,188.5 L651.7,191.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>AE.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2347110</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Neutral Zone</name>
+    <country>United Arab Emirates</country>
+    <type-en>Emirate</type-en>
+    <region>NULL</region>
+    <longitude>56.0315</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>24.8164</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Emirate</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>ae-742</hc-key>
+    <hc-a2>NZ</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

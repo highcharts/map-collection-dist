@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Iraq</title>
+<g id="admin1">
+
+<g id="IQ">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Iraq</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Iraq</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>IRQ</iso-a3>
+    <iso-a2>IQ</iso-a2>
+    <woe-id>23424855</woe-id>
+    <continent>Asia</continent>
+    <hc-key>iq</hc-key>
+    <hc-a2>IR</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.NA" d="M352.5,637.0 L282.9,578.7 L277.5,573.9 L284.9,559.9 L288.2,551.8 L289.2,544.4 L296.8,532.5 L298.7,524.4 L301.7,517.0 L302.5,508.1 L310.5,491.8 L312.2,483.7 L324.6,465.5 L329.3,461.8 L338.9,459.2 L349.6,453.1 L352.1,450.5 L352.6,446.3 L345.1,439.1 L387.1,427.6 L388.5,428.8 L390.2,424.8 L391.8,431.5 L389.5,433.3 L393.9,441.5 L403.0,435.5 L412.3,440.4 L409.0,445.9 L411.0,448.5 L404.0,453.0 L402.9,457.7 L405.2,469.6 L404.8,477.6 L405.8,483.9 L404.4,485.9 L401.2,484.4 L398.0,486.6 L399.2,491.4 L405.2,497.8 L419.0,503.6 L413.5,533.2 L408.3,543.3 L402.0,549.6 L398.5,555.1 L390.0,559.8 L385.8,564.8 L383.2,569.9 L369.8,607.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.NA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345849</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ17</fips>
+    <postal-code>NA</postal-code>
+    <name>An-Najaf</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>43.7551</longitude>
+    <woe-name>An-Najaf</woe-name>
+    <latitude>30.9322</latitude>
+    <woe-label>An Najaf, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>iq-na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.KA" d="M390.2,424.8 L388.5,428.8 L387.1,427.6 L345.1,439.1 L330.1,427.1 L313.6,409.9 L311.4,404.8 L318.6,401.6 L328.8,400.3 L331.6,398.9 L345.0,387.3 L350.7,384.7 L364.8,384.1 L376.9,387.9 L383.2,388.4 L386.2,390.6 L383.3,402.6 L384.6,408.6 L388.5,414.4 L388.0,419.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.KA</hasc>
+    <alt-name>Kerbela</alt-name>
+    <woe-id>2345844</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ12</fips>
+    <postal-code>KA</postal-code>
+    <name>Karbala'</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>43.7651</longitude>
+    <woe-name>Karbala'</woe-name>
+    <latitude>32.502</latitude>
+    <woe-label>Karbala', IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>iq-ka</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.BA" d="M631.9,515.5 L632.2,535.8 L655.9,535.2 L657.0,536.7 L658.1,579.8 L665.8,580.6 L668.7,582.6 L672.0,591.1 L677.2,591.0 L686.6,599.3 L687.5,602.7 L685.8,604.8 L691.3,617.6 L694.3,620.0 L698.9,621.2 L696.4,623.6 L688.5,623.0 L682.8,621.3 L673.4,616.3 L666.8,614.7 L660.9,615.6 L655.9,618.5 L654.4,611.4 L654.4,619.4 L638.4,611.9 L634.1,611.2 L615.3,611.6 L611.1,612.2 L599.4,617.3 L593.2,623.6 L587.3,639.6 L584.7,644.7 L582.5,652.4 L577.2,661.6 L575.1,667.4 L569.4,674.3 L564.9,682.1 L554.0,694.7 L555.8,675.5 L559.8,666.7 L560.0,653.7 L560.8,645.2 L566.2,613.3 L564.8,605.5 L557.5,595.2 L555.9,590.7 L553.3,577.8 L576.9,570.9 L588.4,572.6 L590.6,572.1 L590.5,561.8 L592.6,549.8 L593.1,532.3 L592.4,525.4 L593.1,520.2 L598.3,515.6 L611.5,512.4 L621.8,513.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.BA</hasc>
+    <alt-name>Basra|Bassora</alt-name>
+    <woe-id>2345834</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ02</fips>
+    <postal-code>BA</postal-code>
+    <name>Al-Basrah</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>47.5605</longitude>
+    <woe-name>Al-Basrah</woe-name>
+    <latitude>30.6802</latitude>
+    <woe-label>Al Basrah, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>iq-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.MU" d="M553.3,577.8 L555.9,590.7 L557.5,595.2 L564.8,605.5 L566.2,613.3 L560.8,645.2 L560.0,653.7 L559.8,666.7 L555.8,675.5 L554.0,694.7 L551.9,697.1 L539.0,700.0 L417.9,689.7 L416.0,688.9 L352.5,637.0 L369.8,607.5 L383.2,569.9 L385.8,564.8 L390.0,559.8 L398.5,555.1 L402.0,549.6 L408.3,543.3 L413.5,533.2 L419.0,503.6 L431.3,512.6 L437.1,515.8 L438.7,507.0 L446.6,486.0 L440.5,480.8 L459.7,476.7 L477.2,480.0 L490.0,484.1 L495.2,482.9 L497.9,486.7 L497.7,490.4 L494.4,492.3 L496.6,499.9 L491.7,506.2 L491.1,508.9 L497.1,509.4 L493.0,519.2 L492.4,522.8 L496.0,524.8 L495.2,530.6 L491.8,530.4 L489.8,539.6 L490.9,551.3 L526.5,555.6 L538.3,559.6 L549.9,578.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.MU</hasc>
+    <alt-name>Al-Muthanna</alt-name>
+    <woe-id>2345835</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ03</fips>
+    <postal-code>MU</postal-code>
+    <name>Al-Muthannia</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>45.2843</longitude>
+    <woe-name>Al-Muthannia</woe-name>
+    <latitude>30.4381</latitude>
+    <woe-label>Al Muthanna, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>iq-mu</hc-key>
+    <hc-a2>MU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.QA" d="M495.2,482.9 L490.0,484.1 L477.2,480.0 L459.7,476.7 L440.5,480.8 L446.6,486.0 L438.7,507.0 L437.1,515.8 L431.3,512.6 L419.0,503.6 L405.2,497.8 L399.2,491.4 L398.0,486.6 L401.2,484.4 L404.4,485.9 L405.8,483.9 L404.8,477.6 L405.2,469.6 L402.9,457.7 L404.0,453.0 L411.0,448.5 L409.0,445.9 L412.3,440.4 L418.4,443.5 L421.4,443.2 L425.5,439.4 L425.7,434.6 L428.8,435.6 L434.1,431.2 L438.7,429.3 L450.2,421.2 L452.9,420.7 L457.0,421.2 L459.2,423.3 L464.3,423.9 L466.7,425.6 L466.1,431.8 L474.3,439.7 L477.2,444.1 L487.8,447.9 L487.3,450.2 L490.7,458.0 L490.2,463.0 L493.1,471.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.QA</hasc>
+    <alt-name>Diwaniyah</alt-name>
+    <woe-id>2345836</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ04</fips>
+    <postal-code>QA</postal-code>
+    <name>Al-Qadisiyah</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>45.1075</longitude>
+    <woe-name>Al-Qadisiyah</woe-name>
+    <latitude>31.6081</latitude>
+    <woe-label>Al Qadisiyah, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>iq-qa</hc-key>
+    <hc-a2>QA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.DQ" d="M553.3,577.8 L549.9,578.4 L538.3,559.6 L526.5,555.6 L490.9,551.3 L489.8,539.6 L491.8,530.4 L495.2,530.6 L496.0,524.8 L492.4,522.8 L493.0,519.2 L497.1,509.4 L491.1,508.9 L491.7,506.2 L496.6,499.9 L494.4,492.3 L497.7,490.4 L497.9,486.7 L495.2,482.9 L493.1,471.8 L490.2,463.0 L490.7,458.0 L497.9,458.4 L507.6,454.8 L514.4,453.0 L533.0,452.8 L535.7,456.2 L532.6,458.7 L540.2,471.7 L541.6,479.1 L547.2,483.9 L553.8,491.5 L553.2,498.3 L554.4,503.7 L560.9,507.6 L564.2,511.8 L565.1,520.1 L572.1,525.0 L579.7,524.7 L592.4,525.4 L593.1,532.3 L592.6,549.8 L590.5,561.8 L590.6,572.1 L588.4,572.6 L576.9,570.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.DQ</hasc>
+    <alt-name>Dhi Qar|Muntafiq|Nasiriyah|Thi-Qar</alt-name>
+    <woe-id>2345841</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ09</fips>
+    <postal-code>DQ</postal-code>
+    <name>Dhi-Qar</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>46.4203</longitude>
+    <woe-name>Dhi-Qar</woe-name>
+    <latitude>31.191</latitude>
+    <woe-label>Dhi Qar, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>iq-dq</hc-key>
+    <hc-a2>DQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.MA" d="M631.9,515.5 L621.8,513.2 L611.5,512.4 L598.3,515.6 L593.1,520.2 L592.4,525.4 L579.7,524.7 L572.1,525.0 L565.1,520.1 L564.2,511.8 L560.9,507.6 L554.4,503.7 L553.2,498.3 L553.8,491.5 L547.2,483.9 L541.6,479.1 L540.2,471.7 L532.6,458.7 L535.7,456.2 L533.0,452.8 L541.9,452.3 L551.6,454.3 L553.4,441.7 L551.0,438.1 L542.3,434.5 L541.1,430.6 L544.0,422.0 L541.6,418.5 L543.8,411.8 L544.0,402.6 L548.5,388.6 L552.3,383.8 L560.5,389.3 L563.5,392.6 L585.3,410.8 L589.8,413.6 L594.5,413.7 L599.0,411.3 L605.6,413.4 L611.1,420.2 L609.6,423.6 L616.1,431.6 L617.8,434.9 L616.8,439.2 L623.0,442.7 L626.0,448.0 L629.7,450.4 L637.0,462.6 L642.0,467.4 L641.9,471.1 L631.7,501.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.MA</hasc>
+    <alt-name>`Amara</alt-name>
+    <woe-id>2345846</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ14</fips>
+    <postal-code>MA</postal-code>
+    <name>Maysan</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>47.0739</longitude>
+    <woe-name>Maysan</woe-name>
+    <latitude>31.8089</latitude>
+    <woe-label>Maysan, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>iq-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.WA" d="M533.0,452.8 L514.4,453.0 L507.6,454.8 L497.9,458.4 L490.7,458.0 L487.3,450.2 L487.8,447.9 L477.2,444.1 L474.3,439.7 L466.1,431.8 L466.7,425.6 L464.3,423.9 L459.2,423.3 L457.0,421.2 L452.9,420.7 L452.5,416.3 L447.4,416.1 L442.4,412.0 L439.6,405.7 L436.6,395.7 L434.2,392.9 L429.0,390.0 L422.9,388.7 L417.9,385.9 L407.8,385.2 L405.7,380.9 L406.1,369.2 L408.2,369.4 L411.3,363.3 L415.1,368.4 L418.5,367.6 L417.5,365.0 L427.0,355.1 L437.3,357.2 L446.6,356.7 L472.9,364.2 L479.5,358.3 L483.9,352.2 L485.9,347.3 L497.6,337.8 L503.3,334.6 L506.6,327.8 L509.7,331.2 L511.8,338.5 L520.3,347.5 L521.2,355.2 L516.9,359.4 L511.6,360.6 L512.5,362.4 L518.0,364.2 L517.9,366.8 L514.9,369.9 L516.4,373.2 L520.6,373.7 L528.9,372.7 L536.5,374.9 L543.6,378.2 L552.3,383.8 L548.5,388.6 L544.0,402.6 L543.8,411.8 L541.6,418.5 L544.0,422.0 L541.1,430.6 L542.3,434.5 L551.0,438.1 L553.4,441.7 L551.6,454.3 L541.9,452.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.WA</hasc>
+    <alt-name>Kut|Kut-al-Imara</alt-name>
+    <woe-id>2345848</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ16</fips>
+    <postal-code>WA</postal-code>
+    <name>Wasit</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>45.5635</longitude>
+    <woe-name>Wasit</woe-name>
+    <latitude>32.6139</latitude>
+    <woe-label>Wasit, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>iq-wa</hc-key>
+    <hc-a2>WA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.SD" d="M408.4,190.7 L415.4,198.1 L429.4,199.4 L436.5,205.3 L436.4,212.8 L429.0,217.7 L426.6,223.3 L419.0,228.3 L418.8,234.9 L413.0,241.6 L405.5,237.1 L405.1,242.6 L403.5,246.7 L404.0,252.5 L402.4,257.9 L405.3,261.0 L403.2,266.3 L399.3,267.0 L397.2,270.7 L393.4,271.6 L393.5,274.5 L389.0,284.0 L389.5,285.4 L395.4,285.8 L400.0,291.1 L399.7,295.7 L397.3,299.5 L396.0,305.3 L398.4,308.8 L396.0,315.5 L396.0,321.7 L390.3,326.5 L385.5,333.2 L380.3,332.8 L375.3,330.4 L377.7,328.5 L372.1,317.2 L366.4,313.0 L354.6,313.2 L339.7,307.5 L328.5,304.7 L319.0,296.1 L307.9,284.6 L303.2,278.2 L299.7,269.2 L298.1,260.2 L296.4,257.6 L294.5,242.7 L286.1,247.2 L280.9,245.1 L267.6,233.7 L265.1,221.5 L265.5,203.1 L265.0,201.9 L266.9,193.8 L274.9,192.2 L299.6,192.5 L303.0,191.2 L302.6,186.8 L298.7,182.8 L299.3,178.1 L297.0,173.4 L293.6,169.5 L293.0,166.1 L294.0,158.3 L302.4,154.8 L310.9,149.3 L319.1,145.5 L324.4,139.9 L323.4,143.0 L327.0,151.3 L327.2,157.8 L325.7,162.2 L323.2,164.8 L319.9,161.4 L319.5,166.1 L326.4,172.8 L324.9,177.2 L329.8,178.5 L327.2,182.1 L334.6,191.6 L363.4,209.2 L374.1,213.8 L378.3,216.4 L389.3,226.3 L392.9,224.0 L392.1,219.2 L396.6,213.1 L397.3,209.6 L401.9,203.7 L405.8,201.3 L405.4,193.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.SD</hasc>
+    <alt-name>Salah ad-Din|Salaheddin</alt-name>
+    <woe-id>2345850</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ18</fips>
+    <postal-code>SD</postal-code>
+    <name>Sala ad-Din</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>43.7294</longitude>
+    <woe-name>Sala ad-Din</woe-name>
+    <latitude>34.3421</latitude>
+    <woe-label>S-Alah Ad Din, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>iq-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.SU" d="M436.4,212.8 L436.5,205.3 L429.4,199.4 L415.4,198.1 L408.4,190.7 L411.5,188.2 L416.9,186.5 L417.3,182.6 L420.3,179.7 L422.0,174.6 L421.1,170.6 L425.1,162.0 L421.7,156.9 L423.4,142.3 L416.9,135.4 L413.2,127.1 L423.0,128.0 L427.1,129.8 L428.8,126.7 L436.3,127.5 L436.6,125.0 L428.1,119.5 L423.1,113.4 L413.2,106.8 L412.6,104.9 L418.1,100.1 L414.1,94.6 L411.6,95.1 L407.7,89.1 L407.4,86.3 L411.7,81.7 L415.2,79.7 L418.3,80.4 L430.8,77.0 L436.1,77.9 L439.4,74.0 L441.3,75.9 L443.6,81.8 L446.3,83.6 L452.1,81.9 L455.0,83.5 L456.4,95.4 L459.0,98.3 L459.5,105.6 L462.5,110.1 L460.2,116.6 L463.3,119.4 L469.7,116.4 L475.7,117.9 L483.0,123.0 L488.0,131.8 L490.1,133.2 L496.0,133.2 L498.9,131.1 L507.6,130.8 L511.4,129.1 L515.5,130.3 L517.1,133.5 L520.0,134.0 L526.6,131.4 L529.2,132.3 L528.8,136.2 L523.7,140.9 L519.6,141.0 L514.7,143.2 L509.9,143.1 L507.1,145.9 L507.4,153.2 L504.7,152.7 L506.5,156.6 L505.1,159.8 L510.5,169.2 L516.0,174.4 L514.6,180.2 L519.5,183.0 L516.8,190.2 L517.8,192.9 L512.5,193.8 L508.5,196.2 L501.9,194.0 L498.0,199.6 L498.9,204.1 L496.6,210.7 L493.9,209.6 L492.7,200.9 L495.7,200.1 L488.5,192.2 L481.1,203.8 L482.5,204.2 L479.8,209.5 L477.2,211.3 L471.8,222.5 L469.9,229.2 L463.7,232.1 L456.1,241.3 L453.8,242.6 L451.7,239.5 L451.9,234.4 L453.6,231.4 L451.8,220.6 L448.0,216.8 L442.6,217.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.SU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345837</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ05</fips>
+    <postal-code>SU</postal-code>
+    <name>As-Sulaymaniyah</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Kurdistan</region>
+    <longitude>45.4331</longitude>
+    <woe-name>As-Sulaymaniyah</woe-name>
+    <latitude>35.332</latitude>
+    <woe-label>As Sulaymaniyah, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>iq-su</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.DI" d="M493.9,209.6 L491.0,209.0 L490.4,214.8 L485.6,216.8 L484.7,221.4 L482.3,225.0 L485.0,227.6 L488.0,236.9 L487.1,239.3 L480.8,238.4 L473.5,235.9 L473.8,244.1 L467.8,248.3 L469.9,255.2 L472.1,258.0 L475.1,256.9 L477.6,259.4 L477.9,263.4 L475.5,270.6 L476.1,274.9 L470.5,279.8 L468.1,286.2 L465.4,287.9 L468.4,290.8 L472.7,290.8 L479.0,302.1 L482.0,305.1 L485.0,312.4 L489.4,315.8 L490.4,320.6 L496.1,317.0 L501.0,316.5 L500.7,319.1 L503.5,321.4 L503.2,324.5 L498.7,328.0 L502.1,329.5 L506.6,327.8 L503.3,334.6 L497.6,337.8 L485.9,347.3 L483.9,352.2 L479.5,358.3 L472.9,364.2 L446.6,356.7 L437.3,357.2 L427.0,355.1 L417.5,365.0 L418.5,367.6 L415.1,368.4 L411.3,363.3 L408.2,369.4 L406.1,369.2 L406.6,364.8 L403.7,354.9 L403.7,354.9 L403.8,351.3 L406.1,346.1 L406.5,338.7 L405.3,335.2 L403.1,336.9 L398.3,333.6 L393.3,333.4 L391.5,336.8 L387.8,337.8 L387.6,337.9 L385.5,333.2 L390.3,326.5 L396.0,321.7 L396.0,315.5 L398.4,308.8 L396.0,305.3 L397.3,299.5 L399.7,295.7 L400.0,291.1 L395.4,285.8 L389.5,285.4 L389.0,284.0 L393.5,274.5 L393.4,271.6 L397.2,270.7 L399.3,267.0 L403.2,266.3 L405.3,261.0 L402.4,257.9 L404.0,252.5 L403.5,246.7 L405.1,242.6 L405.5,237.1 L413.0,241.6 L418.8,234.9 L419.0,228.3 L426.6,223.3 L429.0,217.7 L436.4,212.8 L442.6,217.9 L448.0,216.8 L451.8,220.6 L453.6,231.4 L451.9,234.4 L451.7,239.5 L453.8,242.6 L456.1,241.3 L463.7,232.1 L469.9,229.2 L471.8,222.5 L477.2,211.3 L479.8,209.5 L482.5,204.2 L481.1,203.8 L488.5,192.2 L495.7,200.1 L492.7,200.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.DI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345842</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ10</fips>
+    <postal-code>DI</postal-code>
+    <name>Diyala</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>45.1046</longitude>
+    <woe-name>Diyala</woe-name>
+    <latitude>33.9882</latitude>
+    <woe-label>Diyala, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>iq-di</hc-key>
+    <hc-a2>DI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.BB" d="M406.6,364.8 L406.1,369.2 L405.7,380.9 L407.8,385.2 L417.9,385.9 L422.9,388.7 L429.0,390.0 L434.2,392.9 L436.6,395.7 L439.6,405.7 L442.4,412.0 L447.4,416.1 L452.5,416.3 L452.9,420.7 L450.2,421.2 L438.7,429.3 L434.1,431.2 L428.8,435.6 L425.7,434.6 L425.5,439.4 L421.4,443.2 L418.4,443.5 L412.3,440.4 L403.0,435.5 L393.9,441.5 L389.5,433.3 L391.8,431.5 L390.2,424.8 L388.0,419.2 L388.5,414.4 L384.6,408.6 L383.3,402.6 L386.2,390.6 L383.2,388.4 L376.9,387.9 L377.8,379.9 L371.9,373.3 L369.1,362.0 L367.0,359.8 L356.6,355.3 L355.4,352.4 L377.4,355.1 L384.9,357.9 L388.4,353.7 L392.0,354.3 L403.7,354.9 L403.7,354.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.BB</hasc>
+    <alt-name>Babylon|Hilla</alt-name>
+    <woe-id>2345838</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ06</fips>
+    <postal-code>BB</postal-code>
+    <name>Babil</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>44.5099</longitude>
+    <woe-name>Babil</woe-name>
+    <latitude>32.6833</latitude>
+    <woe-label>Babil, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>iq-bb</hc-key>
+    <hc-a2>BB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.BG" d="M387.8,337.8 L391.5,336.8 L393.3,333.4 L398.3,333.6 L403.1,336.9 L405.3,335.2 L406.5,338.7 L406.1,346.1 L403.8,351.3 L403.7,354.9 L403.7,354.9 L392.0,354.3 L388.4,353.7 L384.8,350.8 L384.1,344.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>IQ.BG</hasc>
+    <alt-name>Bagd |Bagdad</alt-name>
+    <woe-id>2345839</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ07</fips>
+    <postal-code>BG</postal-code>
+    <name>Baghdad</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>44.3827</longitude>
+    <woe-name>Baghdad</woe-name>
+    <latitude>33.306</latitude>
+    <woe-label>Baghdad, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>iq-bg</hc-key>
+    <hc-a2>BG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.AN" d="M385.5,333.2 L387.6,337.9 L387.8,337.8 L384.1,344.3 L384.8,350.8 L388.4,353.7 L384.9,357.9 L377.4,355.1 L355.4,352.4 L356.6,355.3 L367.0,359.8 L369.1,362.0 L371.9,373.3 L377.8,379.9 L376.9,387.9 L364.8,384.1 L350.7,384.7 L345.0,387.3 L331.6,398.9 L328.8,400.3 L318.6,401.6 L311.4,404.8 L313.6,409.9 L330.1,427.1 L345.1,439.1 L352.6,446.3 L352.1,450.5 L349.6,453.1 L338.9,459.2 L329.3,461.8 L324.6,465.5 L312.2,483.7 L310.5,491.8 L302.5,508.1 L301.7,517.0 L298.7,524.4 L296.8,532.5 L289.2,544.4 L288.2,551.8 L284.9,559.9 L277.5,573.9 L227.2,528.2 L114.8,455.9 L107.1,451.8 L83.0,446.0 L21.2,432.2 L20.4,431.7 L29.4,424.9 L31.4,422.4 L29.3,414.0 L27.8,413.1 L14.1,416.0 L13.0,414.3 L10.1,401.7 L15.8,400.3 L0.0,325.7 L138.2,251.8 L155.5,247.9 L159.2,244.5 L174.7,216.4 L175.6,212.2 L175.7,183.6 L186.0,184.8 L202.2,189.5 L229.9,201.7 L244.1,201.1 L249.9,203.6 L265.0,201.9 L265.5,203.1 L265.1,221.5 L267.6,233.7 L280.9,245.1 L286.1,247.2 L294.5,242.7 L296.4,257.6 L298.1,260.2 L299.7,269.2 L303.2,278.2 L307.9,284.6 L319.0,296.1 L328.5,304.7 L339.7,307.5 L354.6,313.2 L366.4,313.0 L372.1,317.2 L377.7,328.5 L375.3,330.4 L380.3,332.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.AN</hasc>
+    <alt-name>Dulaim|Ramadi</alt-name>
+    <woe-id>2345833</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ01</fips>
+    <postal-code>AN</postal-code>
+    <name>Al-Anbar</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>41.5307</longitude>
+    <woe-name>Al-Anbar</woe-name>
+    <latitude>33.2317</latitude>
+    <woe-label>Al Anbar, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>iq-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.AR" d="M439.4,74.0 L436.1,77.9 L430.8,77.0 L418.3,80.4 L415.2,79.7 L411.7,81.7 L407.4,86.3 L407.7,89.1 L411.6,95.1 L414.1,94.6 L418.1,100.1 L412.6,104.9 L413.2,106.8 L423.1,113.4 L428.1,119.5 L436.6,125.0 L436.3,127.5 L428.8,126.7 L427.1,129.8 L423.0,128.0 L413.2,127.1 L412.3,125.2 L407.5,130.0 L402.5,128.4 L396.2,131.4 L392.9,130.5 L390.5,132.0 L382.9,130.3 L380.2,131.1 L378.6,135.0 L373.9,135.7 L366.7,130.5 L363.4,131.9 L354.2,140.7 L356.3,146.6 L353.8,149.4 L352.2,155.0 L347.0,157.6 L343.2,157.7 L340.1,162.5 L332.3,164.9 L325.7,162.2 L327.2,157.8 L327.0,151.3 L323.4,143.0 L324.4,139.9 L323.4,135.0 L328.0,128.6 L328.5,120.6 L326.5,120.4 L326.0,116.7 L334.9,113.1 L339.5,102.4 L347.7,92.8 L353.1,89.0 L357.7,82.0 L357.3,78.9 L360.7,77.8 L361.0,74.0 L363.8,74.0 L370.7,66.5 L374.8,65.6 L379.9,66.6 L385.5,62.7 L391.0,56.2 L388.7,50.7 L380.3,46.3 L374.9,44.6 L371.1,38.4 L366.4,34.8 L359.5,31.8 L363.4,27.6 L367.5,25.6 L374.6,19.8 L377.9,15.4 L376.0,6.5 L383.7,9.4 L386.3,11.6 L388.0,16.8 L387.4,19.7 L383.9,22.1 L383.3,25.6 L386.9,34.4 L391.8,35.0 L394.3,29.5 L400.1,27.6 L410.2,19.1 L413.7,18.1 L420.7,19.1 L422.9,21.2 L422.9,26.5 L425.9,29.6 L430.6,31.1 L429.9,35.9 L430.8,42.7 L427.5,47.2 L427.3,50.7 L433.5,52.1 L438.5,55.0 L441.7,62.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.AR</hasc>
+    <alt-name>Arbela|Erbil|Irbil</alt-name>
+    <woe-id>2345843</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ11</fips>
+    <postal-code>AR</postal-code>
+    <name>Arbil</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Kurdistan</region>
+    <longitude>44.1806</longitude>
+    <woe-name>Arbil</woe-name>
+    <latitude>36.2371</latitude>
+    <woe-label>Arbil, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>iq-ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.TS" d="M325.7,162.2 L332.3,164.9 L340.1,162.5 L343.2,157.7 L347.0,157.6 L352.2,155.0 L353.8,149.4 L356.3,146.6 L354.2,140.7 L363.4,131.9 L366.7,130.5 L373.9,135.7 L378.6,135.0 L380.2,131.1 L382.9,130.3 L390.5,132.0 L392.9,130.5 L396.2,131.4 L402.5,128.4 L407.5,130.0 L412.3,125.2 L413.2,127.1 L416.9,135.4 L423.4,142.3 L421.7,156.9 L425.1,162.0 L421.1,170.6 L422.0,174.6 L420.3,179.7 L417.3,182.6 L416.9,186.5 L411.5,188.2 L408.4,190.7 L405.4,193.0 L405.8,201.3 L401.9,203.7 L397.3,209.6 L396.6,213.1 L392.1,219.2 L392.9,224.0 L389.3,226.3 L378.3,216.4 L374.1,213.8 L363.4,209.2 L334.6,191.6 L327.2,182.1 L329.8,178.5 L324.9,177.2 L326.4,172.8 L319.5,166.1 L319.9,161.4 L323.2,164.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.TS</hasc>
+    <alt-name>Kirkuk|Tamin</alt-name>
+    <woe-id>2345845</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ13</fips>
+    <postal-code>TS</postal-code>
+    <name>At-Ta'mim</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>44.0354</longitude>
+    <woe-name>At-Ta'mim</woe-name>
+    <latitude>35.3281</latitude>
+    <woe-label>At Ta'mim, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>iq-ts</hc-key>
+    <hc-a2>TS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.DA" d="M261.4,25.8 L260.2,21.7 L274.0,18.9 L275.2,16.2 L283.9,4.1 L285.3,1.3 L288.6,0.0 L291.5,2.4 L299.7,4.8 L309.6,0.9 L312.9,1.1 L321.7,6.0 L326.6,5.3 L336.2,11.9 L340.4,11.2 L345.5,13.4 L355.8,13.7 L358.4,15.9 L364.1,13.8 L370.7,6.5 L376.0,6.5 L377.9,15.4 L374.6,19.8 L367.5,25.6 L363.4,27.6 L359.5,31.8 L347.7,28.8 L346.7,34.6 L352.1,36.5 L350.5,45.4 L347.1,47.2 L335.9,44.3 L327.6,38.2 L323.9,38.2 L318.3,45.5 L316.7,50.2 L313.4,52.0 L301.8,53.2 L292.3,57.6 L282.1,48.4 L275.7,48.6 L271.7,42.8 L269.7,37.8 L270.1,33.5 L267.5,35.0 L263.8,31.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.DA</hasc>
+    <alt-name>Dahuk|D'hok</alt-name>
+    <woe-id>2345840</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ08</fips>
+    <postal-code>DA</postal-code>
+    <name>Dihok</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Kurdistan</region>
+    <longitude>43.2281</longitude>
+    <woe-name>Dihok</woe-name>
+    <latitude>37.0875</latitude>
+    <woe-label>Dahuk, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>iq-da</hc-key>
+    <hc-a2>DA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ.NI" d="M359.5,31.8 L366.4,34.8 L371.1,38.4 L374.9,44.6 L380.3,46.3 L388.7,50.7 L391.0,56.2 L385.5,62.7 L379.9,66.6 L374.8,65.6 L370.7,66.5 L363.8,74.0 L361.0,74.0 L360.7,77.8 L357.3,78.9 L357.7,82.0 L353.1,89.0 L347.7,92.8 L339.5,102.4 L334.9,113.1 L326.0,116.7 L326.5,120.4 L328.5,120.6 L328.0,128.6 L323.4,135.0 L324.4,139.9 L319.1,145.5 L310.9,149.3 L302.4,154.8 L294.0,158.3 L293.0,166.1 L293.6,169.5 L297.0,173.4 L299.3,178.1 L298.7,182.8 L302.6,186.8 L303.0,191.2 L299.6,192.5 L274.9,192.2 L266.9,193.8 L265.0,201.9 L249.9,203.6 L244.1,201.1 L229.9,201.7 L202.2,189.5 L186.0,184.8 L175.7,183.6 L176.5,176.5 L179.8,166.2 L181.4,155.5 L187.3,147.4 L188.9,142.2 L189.0,130.7 L188.1,125.2 L181.6,109.3 L181.4,106.4 L185.0,83.2 L191.4,71.7 L194.9,68.9 L220.6,64.5 L224.3,62.2 L254.8,31.4 L261.4,25.8 L263.8,31.5 L267.5,35.0 L270.1,33.5 L269.7,37.8 L271.7,42.8 L275.7,48.6 L282.1,48.4 L292.3,57.6 L301.8,53.2 L313.4,52.0 L316.7,50.2 L318.3,45.5 L323.9,38.2 L327.6,38.2 L335.9,44.3 L347.1,47.2 L350.5,45.4 L352.1,36.5 L346.7,34.6 L347.7,28.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>IQ.NI</hasc>
+    <alt-name>Al-Mawsil|Mosul|Ninive|N¡nive|Nineveh|Niniveh</alt-name>
+    <woe-id>2345847</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IZ15</fips>
+    <postal-code>NI</postal-code>
+    <name>Ninawa</name>
+    <country>Iraq</country>
+    <type-en>Province</type-en>
+    <region>Iraq</region>
+    <longitude>42.7469</longitude>
+    <woe-name>Ninawa</woe-name>
+    <latitude>35.9228</latitude>
+    <woe-label>Ninawa, IQ, Iraq</woe-label>
+    <type>Muhafazah</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>iq-ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

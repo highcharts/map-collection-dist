@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Israel</title>
+<g id="admin1">
+
+<g id="IL">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Israel</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Isr.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>ISR</iso-a3>
+    <iso-a2>IL</iso-a2>
+    <woe-id>23424852</woe-id>
+    <continent>Asia</continent>
+    <hc-key>il</hc-key>
+    <hc-a2>IS</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IL.HD" d="M108.4,321.6 L106.0,326.3 L105.3,331.1 L105.2,336.1 L104.3,341.9 L97.4,353.4 L95.1,359.4 L96.9,365.4 L100.3,368.0 L104.3,368.6 L108.5,368.0 L112.5,366.6 L121.6,365.4 L140.8,365.6 L149.7,362.2 L166.4,348.3 L175.2,343.3 L176.4,343.2 L176.9,345.9 L175.8,352.4 L177.1,359.7 L177.7,368.7 L179.1,371.9 L180.5,372.3 L180.2,376.2 L176.2,384.3 L176.9,389.1 L172.2,388.2 L170.5,392.7 L171.3,398.9 L175.1,405.0 L175.8,410.2 L177.0,412.3 L181.7,413.9 L175.6,426.0 L174.6,431.2 L174.6,436.9 L172.9,440.1 L166.9,445.9 L165.0,450.0 L164.6,458.0 L164.1,462.0 L163.2,463.7 L159.4,467.4 L157.9,471.6 L157.2,476.1 L156.0,480.4 L146.9,498.7 L140.3,520.6 L139.5,524.8 L136.8,532.1 L136.8,536.4 L139.8,541.9 L139.9,546.9 L137.1,552.9 L135.6,562.2 L134.5,565.2 L134.5,570.3 L137.6,581.3 L137.6,586.9 L135.1,592.9 L128.4,602.9 L126.6,609.9 L126.5,612.1 L124.6,616.6 L123.4,622.6 L123.3,633.5 L122.6,637.1 L115.3,656.6 L114.2,661.1 L113.3,671.1 L111.8,675.5 L109.7,678.9 L108.6,682.8 L107.3,690.1 L102.3,696.9 L100.9,700.0 L97.2,700.0 L92.3,690.0 L91.2,685.7 L91.5,673.4 L87.6,655.0 L74.8,619.5 L73.8,607.6 L53.1,547.2 L51.4,544.6 L43.0,537.2 L41.9,535.5 L41.9,530.3 L43.4,524.9 L43.4,522.5 L39.5,516.9 L38.6,513.9 L38.3,506.5 L35.0,492.3 L12.2,430.8 L0.0,391.9 L2.5,389.6 L10.4,383.9 L15.9,378.1 L16.3,375.1 L15.1,368.9 L15.2,365.9 L18.5,359.6 L36.0,343.2 L38.3,341.6 L43.3,337.1 L43.7,333.3 L40.8,329.6 L36.2,325.8 L37.5,322.7 L41.2,317.9 L55.0,294.7 L56.0,293.3 L64.7,274.0 L67.6,273.3 L70.9,273.9 L70.5,281.3 L66.2,281.5 L65.9,283.3 L68.3,285.5 L66.1,287.8 L65.8,289.6 L70.7,290.8 L74.0,288.5 L71.8,286.2 L75.7,284.7 L79.5,286.6 L80.5,287.7 L83.0,293.4 L89.3,288.7 L93.4,294.0 L96.2,295.9 L95.8,298.9 L96.4,301.1 L95.9,304.9 L96.2,312.5 L97.5,313.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>IL.HD</hasc>
+    <alt-name>Southern District</alt-name>
+    <woe-id>2345791</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IS01</fips>
+    <postal-code>HD</postal-code>
+    <name>HaDarom</name>
+    <country>Israel</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>34.8419</longitude>
+    <woe-name>HaDarom</woe-name>
+    <latitude>30.935</latitude>
+    <woe-label>HaDarom, IL, Israel</woe-label>
+    <type>Mehoz</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>il-hd</hc-key>
+    <hc-a2>HD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IL.HA" d="M95.8,178.8 L101.4,151.4 L102.2,149.7 L103.2,141.7 L103.9,139.3 L103.7,136.7 L107.2,122.1 L108.0,106.1 L109.3,102.5 L111.5,101.3 L113.4,101.7 L116.5,103.8 L120.1,103.9 L125.4,98.3 L127.4,92.1 L129.5,93.3 L131.4,96.7 L131.4,99.6 L133.9,101.6 L136.7,102.5 L137.7,103.9 L137.2,106.5 L139.3,111.4 L138.8,115.2 L136.9,118.7 L137.1,121.2 L135.8,123.3 L135.9,125.0 L133.9,126.6 L132.6,125.1 L131.6,127.5 L132.2,131.8 L130.1,133.0 L127.3,137.5 L124.7,136.7 L122.7,136.7 L121.3,139.4 L123.4,142.7 L121.1,142.1 L119.7,143.0 L121.1,147.1 L124.1,149.7 L123.7,152.6 L125.7,154.6 L128.3,156.1 L133.3,157.2 L135.4,156.1 L137.6,154.0 L138.2,152.5 L140.0,151.4 L141.9,149.2 L143.1,150.0 L147.3,154.0 L147.7,154.8 L144.7,154.9 L142.6,156.5 L138.8,160.9 L134.1,163.9 L129.6,166.0 L125.6,168.9 L122.6,174.1 L120.8,183.3 L118.0,183.3 L114.3,179.7 L113.2,179.2 L105.6,178.5 L102.1,178.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>IL.HA</hasc>
+    <alt-name>Hefa</alt-name>
+    <woe-id>2345794</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IS04</fips>
+    <postal-code>HA</postal-code>
+    <name>Haifa</name>
+    <country>Israel</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>34.9727</longitude>
+    <woe-name>Haifa</woe-name>
+    <latitude>32.5523</latitude>
+    <woe-label>H'efa, IL, Israel</woe-label>
+    <type>Mehoz</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
+    <hc-key>il-ha</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IL.HM" d="M89.3,288.7 L83.0,293.4 L80.5,287.7 L79.5,286.6 L75.7,284.7 L71.8,286.2 L74.0,288.5 L70.7,290.8 L65.8,289.6 L66.1,287.8 L68.3,285.5 L65.9,283.3 L66.2,281.5 L70.5,281.3 L70.9,273.9 L67.6,273.3 L64.7,274.0 L68.9,264.6 L71.8,260.1 L75.2,249.1 L77.3,251.1 L82.2,251.8 L86.5,251.5 L89.2,248.6 L91.6,247.6 L93.3,249.1 L97.1,248.0 L98.1,247.0 L95.6,245.0 L94.8,240.2 L92.2,237.4 L91.9,236.2 L92.6,232.0 L93.9,230.2 L95.4,226.7 L95.3,221.5 L91.6,218.2 L90.2,217.5 L86.0,217.1 L91.1,201.4 L95.8,178.8 L102.1,178.9 L105.6,178.5 L113.2,179.2 L114.3,179.7 L118.0,183.3 L120.8,183.3 L119.1,190.1 L115.9,191.6 L115.3,193.9 L114.2,201.9 L116.1,202.5 L117.5,205.7 L115.8,210.2 L109.9,215.6 L107.9,218.2 L107.6,219.9 L110.0,225.5 L110.8,228.5 L112.6,245.3 L112.4,252.6 L112.9,254.3 L112.0,260.9 L115.0,267.9 L116.8,273.8 L112.6,276.2 L108.5,277.6 L107.6,280.0 L105.1,281.3 L102.7,281.3 L101.7,282.1 L100.5,284.7 L98.6,286.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>IL.HM</hasc>
+    <alt-name>Central District</alt-name>
+    <woe-id>2345792</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IS02</fips>
+    <postal-code>HM</postal-code>
+    <name>HaMerkaz</name>
+    <country>Israel</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>34.8491</longitude>
+    <woe-name>HaMerkaz</woe-name>
+    <latitude>31.9068</latitude>
+    <woe-label>HaMerkaz, IL, Israel</woe-label>
+    <type>Mehoz</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.74</hc-middle-y>
+    <hc-key>il-hm</hc-key>
+    <hc-a2>HM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IL.HZ" d="M127.4,92.1 L128.0,89.8 L127.7,87.6 L125.9,86.7 L126.8,84.0 L127.8,73.2 L129.9,67.4 L130.5,64.0 L129.9,60.9 L132.1,58.5 L131.9,57.0 L143.9,58.0 L147.2,56.0 L151.3,56.7 L156.9,54.9 L158.7,54.9 L162.1,57.0 L166.0,62.7 L168.0,63.0 L176.5,60.8 L183.7,57.7 L188.3,57.3 L189.0,54.6 L191.8,49.6 L193.1,46.5 L193.9,42.0 L194.2,33.2 L195.4,29.2 L198.6,22.7 L200.4,22.4 L204.0,27.8 L206.8,29.9 L206.4,25.9 L207.8,24.5 L212.3,23.5 L215.3,21.1 L220.9,15.1 L227.7,13.6 L231.6,11.5 L234.0,8.8 L237.0,2.8 L239.2,0.0 L237.6,8.4 L234.0,11.4 L230.7,13.0 L236.5,16.9 L231.5,24.0 L232.6,25.4 L236.8,28.3 L237.4,36.6 L240.8,38.7 L241.4,43.9 L238.1,50.0 L238.1,52.7 L243.8,55.0 L243.3,57.4 L245.4,74.4 L246.3,76.6 L249.8,82.5 L247.7,86.5 L246.7,86.8 L244.1,91.3 L242.4,96.6 L243.0,98.8 L241.8,103.4 L234.3,112.4 L230.3,118.4 L227.7,119.1 L219.4,124.4 L214.4,128.9 L212.0,130.2 L208.4,129.7 L205.7,131.8 L203.4,134.8 L201.0,136.4 L200.6,138.5 L202.5,140.5 L201.4,141.7 L202.3,144.6 L202.8,149.2 L203.6,151.4 L202.5,151.4 L201.5,154.0 L200.5,152.8 L201.5,157.6 L199.4,157.7 L200.9,158.8 L203.7,162.6 L203.7,163.7 L201.4,165.1 L200.6,167.5 L202.6,168.6 L202.6,169.9 L200.6,171.1 L201.5,172.3 L199.5,173.6 L200.4,176.9 L198.5,178.4 L200.9,182.8 L185.0,178.8 L181.4,178.7 L177.5,177.5 L176.7,173.0 L176.7,167.5 L175.4,163.3 L170.8,160.5 L166.3,160.0 L156.8,160.4 L154.0,159.5 L149.7,155.9 L147.7,154.8 L147.3,154.0 L143.1,150.0 L141.9,149.2 L140.0,151.4 L138.2,152.5 L137.6,154.0 L135.4,156.1 L133.3,157.2 L128.3,156.1 L125.7,154.6 L123.7,152.6 L124.1,149.7 L121.1,147.1 L119.7,143.0 L121.1,142.1 L123.4,142.7 L121.3,139.4 L122.7,136.7 L124.7,136.7 L127.3,137.5 L130.1,133.0 L132.2,131.8 L131.6,127.5 L132.6,125.1 L133.9,126.6 L135.9,125.0 L135.8,123.3 L137.1,121.2 L136.9,118.7 L138.8,115.2 L139.3,111.4 L137.2,106.5 L137.7,103.9 L136.7,102.5 L133.9,101.6 L131.4,99.6 L131.4,96.7 L129.5,93.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>IL.HZ</hasc>
+    <alt-name>Northern</alt-name>
+    <woe-id>2345793</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IS03</fips>
+    <postal-code>HZ</postal-code>
+    <name>HaZafon</name>
+    <country>Israel</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>35.4202</longitude>
+    <woe-name>HaZafon</woe-name>
+    <latitude>32.8235</latitude>
+    <woe-label>Hazafon, IL, Israel</woe-label>
+    <type>Mehoz</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>il-hz</hc-key>
+    <hc-a2>HZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IL.TA" d="M75.2,249.1 L76.6,244.4 L76.6,240.7 L78.7,239.6 L86.0,217.1 L90.2,217.5 L91.6,218.2 L95.3,221.5 L95.4,226.7 L93.9,230.2 L92.6,232.0 L91.9,236.2 L92.2,237.4 L94.8,240.2 L95.6,245.0 L98.1,247.0 L97.1,248.0 L93.3,249.1 L91.6,247.6 L89.2,248.6 L86.5,251.5 L82.2,251.8 L77.3,251.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>IL.TA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345795</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IS05</fips>
+    <postal-code>TA</postal-code>
+    <name>Tel Aviv</name>
+    <country>Israel</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>34.8091</longitude>
+    <woe-name>Tel Aviv</woe-name>
+    <latitude>32.0966</latitude>
+    <woe-label>Tel Aviv, IL, Israel</woe-label>
+    <type>Mehoz</type>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>il-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IL.JM" d="M89.3,288.7 L98.6,286.2 L100.5,284.7 L101.7,282.1 L102.7,281.3 L105.1,281.3 L107.6,280.0 L107.3,280.8 L108.7,283.8 L113.8,284.7 L117.2,284.5 L118.7,283.6 L122.6,280.0 L124.7,280.3 L132.7,284.2 L143.3,286.7 L145.9,288.3 L147.1,290.5 L147.4,293.4 L147.1,297.3 L145.9,298.5 L144.2,297.3 L134.8,299.3 L131.9,300.8 L129.2,303.0 L123.8,308.4 L111.5,317.7 L108.4,321.6 L97.5,313.7 L96.2,312.5 L95.9,304.9 L96.4,301.1 L95.8,298.9 L96.2,295.9 L93.4,294.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>IL.JM</hasc>
+    <alt-name>Al-Quds|Yerushalayim</alt-name>
+    <woe-id>2345796</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IS06</fips>
+    <postal-code>JM</postal-code>
+    <name>Jerusalem</name>
+    <country>Israel</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>35.0176</longitude>
+    <woe-name>Jerusalem</woe-name>
+    <latitude>31.7397</latitude>
+    <woe-label>Yerushalayim, IL, Israel</woe-label>
+    <type>Mehoz</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>il-jm</hc-key>
+    <hc-a2>JM</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

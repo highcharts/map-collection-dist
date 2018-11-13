@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Wyoming congressional districts</title>
+<g id="special">
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<g id="US.WY">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.WY</hasc>
+    <alt-name>WY|Wyo.</alt-name>
+    <woe-id>2347609</woe-id>
+    <subregion>Mountain</subregion>
+    <fips>US56</fips>
+    <postal-code>WY</postal-code>
+    <name>Wyoming</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>West</region>
+    <longitude>-107.552</longitude>
+    <woe-name>Wyoming</woe-name>
+    <latitude>42.9999</latitude>
+    <woe-label>Wyoming, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-wy</hc-key>
+    <hc-a2>WY</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.WY.00" d="M700.0,549.3 L642.7,549.7 L610.9,550.2 L486.1,549.5 L461.2,548.5 L404.8,547.2 L300.4,544.4 L280.0,543.9 L179.8,539.5 L54.7,533.3 L0.0,529.2 L5.3,454.2 L13.7,334.1 L16.4,301.7 L32.8,69.7 L33.7,49.8 L37.4,0.0 L62.8,1.6 L70.2,3.6 L117.6,6.3 L126.1,5.8 L159.8,8.1 L220.5,10.9 L222.5,11.9 L370.8,17.6 L409.7,19.4 L518.2,21.8 L519.6,20.8 L603.5,21.4 L693.6,21.3 L694.0,37.4 L695.6,172.4 L697.1,285.1 L699.5,496.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>5600</geoid>
+    <name>Congressional District (at Large)</name>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>us-wy-00</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

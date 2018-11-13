@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Kansas congressional districts</title>
+<g id="special">
+
+<g id="US.KS">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.KS</hasc>
+    <alt-name>KS|Kans.</alt-name>
+    <woe-id>2347575</woe-id>
+    <subregion>West North Central</subregion>
+    <fips>US20</fips>
+    <postal-code>KS</postal-code>
+    <name>Kansas</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>Midwest</region>
+    <longitude>-98.3309</longitude>
+    <woe-name>Kansas</woe-name>
+    <latitude>38.5</latitude>
+    <woe-label>Kansas, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-ks</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</g>
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.KS.02" d="M536.5,2.9 L620.7,0.0 L626.2,5.8 L630.3,6.7 L630.7,10.7 L635.9,10.6 L636.6,13.4 L641.6,15.4 L646.1,14.7 L647.8,10.7 L653.2,10.2 L655.7,11.9 L654.8,16.0 L659.3,17.8 L660.8,20.9 L655.7,25.2 L658.5,26.7 L661.6,25.0 L662.7,27.1 L658.9,30.8 L654.7,28.5 L652.6,30.9 L653.0,35.1 L648.1,37.9 L645.6,43.5 L645.6,48.4 L641.1,49.4 L641.2,53.3 L646.6,58.1 L648.4,62.3 L652.4,63.9 L657.1,70.4 L661.9,69.8 L662.9,71.7 L660.2,74.7 L661.6,80.9 L668.3,86.3 L668.1,90.3 L673.3,91.9 L661.9,92.1 L661.6,100.9 L662.2,117.1 L658.7,118.1 L651.9,116.5 L648.8,118.8 L650.0,147.4 L663.6,146.8 L663.8,150.2 L666.4,151.4 L670.6,149.9 L670.9,155.1 L673.2,155.1 L673.6,161.9 L682.8,161.5 L683.5,168.3 L692.0,168.0 L695.0,235.5 L695.8,258.8 L700.0,350.2 L648.4,352.3 L573.0,355.1 L571.5,309.6 L570.5,258.4 L569.1,217.3 L568.8,206.9 L569.5,206.9 L567.9,155.6 L568.2,155.6 L566.6,108.2 L558.3,104.8 L556.6,53.5 L486.4,55.5 L485.7,24.8 L510.0,24.2 L511.6,20.7 L516.7,20.6 L516.6,17.2 L519.8,13.7 L536.8,13.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>2002</geoid>
+    <name>Congressional District 2</name>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>us-ks-02</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.KS.01" d="M536.5,2.9 L536.8,13.1 L519.8,13.7 L516.6,17.2 L516.7,20.6 L511.6,20.7 L510.0,24.2 L485.7,24.8 L486.4,55.5 L556.6,53.5 L558.3,104.8 L566.6,108.2 L568.2,155.6 L567.9,155.6 L569.5,206.9 L568.8,206.9 L569.1,217.3 L532.1,218.3 L532.3,228.5 L479.2,229.8 L458.4,230.0 L458.2,219.8 L407.3,220.8 L407.8,261.8 L408.3,272.3 L336.8,273.3 L336.0,262.5 L335.7,211.3 L294.9,211.4 L294.9,242.0 L264.4,242.0 L264.5,221.5 L254.3,221.4 L254.3,219.7 L233.9,219.6 L233.6,262.4 L234.6,262.4 L234.7,314.6 L235.9,314.6 L235.8,359.5 L163.6,358.5 L0.0,355.8 L2.7,273.1 L3.5,239.2 L6.9,136.6 L8.6,75.8 L10.8,1.8 L213.3,6.4 L325.2,6.5 L456.4,4.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>2001</geoid>
+    <name>Congressional District 1</name>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>us-ks-01</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.KS.04" d="M573.0,355.1 L500.2,357.1 L386.2,359.2 L352.8,359.6 L306.0,359.6 L235.8,359.5 L235.9,314.6 L234.7,314.6 L234.6,262.4 L233.6,262.4 L233.9,219.6 L254.3,219.7 L254.3,221.4 L264.5,221.5 L264.4,242.0 L294.9,242.0 L294.9,211.4 L335.7,211.3 L336.0,262.5 L336.8,273.3 L408.3,272.3 L407.8,261.8 L407.3,220.8 L458.2,219.8 L458.4,230.0 L479.2,229.8 L532.3,228.5 L532.1,218.3 L569.1,217.3 L570.5,258.4 L571.5,309.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>2004</geoid>
+    <name>Congressional District 4</name>
+    <hc-middle-x>0.71</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>us-ks-04</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.KS.03" d="M692.0,168.0 L683.5,168.3 L682.8,161.5 L673.6,161.9 L673.2,155.1 L670.9,155.1 L670.6,149.9 L666.4,151.4 L663.8,150.2 L663.6,146.8 L650.0,147.4 L648.8,118.8 L651.9,116.5 L658.7,118.1 L662.2,117.1 L661.6,100.9 L661.9,92.1 L673.3,91.9 L675.6,95.0 L681.4,93.6 L685.0,96.8 L690.7,96.9 L689.2,101.4 L690.7,132.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>2003</geoid>
+    <name>Congressional District 3</name>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>us-ks-03</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

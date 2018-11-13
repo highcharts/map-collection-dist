@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>United States Virgin Islands</title>
+<g id="admin1">
+
+<g id="VI">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States Virgin Islands</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>V.I. (U.S.)</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>VIR</iso-a3>
+    <iso-a2>VI</iso-a2>
+    <woe-id>23424985</woe-id>
+    <continent>North America</continent>
+    <hc-key>vi</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VI.3617" d="M92.7,82.4 L88.8,84.2 L86.2,83.8 L82.8,89.2 L76.5,97.2 L74.7,94.6 L74.8,90.7 L76.9,85.0 L83.7,77.0 L87.0,74.5 L91.5,77.9 Z M104.2,25.3 L138.6,44.7 L172.4,63.6 L186.4,85.4 L175.9,87.2 L167.7,84.5 L157.3,88.5 L150.7,98.4 L121.3,87.7 L110.8,81.2 L102.4,64.8 L98.6,73.6 L89.7,67.6 L69.8,71.7 L55.4,69.0 L44.3,57.1 L15.1,66.1 L0.0,52.0 L27.3,37.3 L50.5,31.1 L84.4,32.0 L98.3,41.8 L106.6,39.0 L91.5,27.6 L84.3,19.4 Z M127.2,16.0 L123.7,19.7 L119.0,13.6 L116.7,6.4 L113.0,2.1 L120.0,0.0 L126.8,4.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>VI.ST</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549909</woe-id>
+    <subregion>NULL</subregion>
+    <fips>010</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Thomas</name>
+    <country>United States Virgin Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-64.9263</longitude>
+    <woe-name>Saint Thomas Island</woe-name>
+    <latitude>18.3543</latitude>
+    <woe-label>Saint Thomas Island, VI, US Virgin Islands</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>vi-3617</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VI.6398" d="M348.3,55.5 L352.3,65.3 L339.6,67.6 L314.7,59.6 L308.1,62.4 L318.1,75.5 L312.3,98.0 L282.3,82.4 L236.1,87.2 L222.2,74.7 L235.8,53.8 L251.1,47.0 L267.6,41.9 L263.7,34.8 L272.0,30.4 L302.9,38.3 L317.8,40.9 L331.7,46.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>VI.SJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549908</woe-id>
+    <subregion>NULL</subregion>
+    <fips>020</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint John</name>
+    <country>United States Virgin Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-64.7461</longitude>
+    <woe-name>Saint John Island</woe-name>
+    <latitude>18.3422</latitude>
+    <woe-label>Saint John Island, VI, US Virgin Islands</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>vi-6398</hc-key>
+    <hc-a2>SJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VI.6399" d="M292.4,618.8 L312.0,625.5 L321.9,630.6 L330.6,638.3 L351.6,620.6 L384.9,613.0 L421.2,614.6 L451.3,623.9 L451.4,630.5 L427.5,633.3 L407.6,640.0 L368.8,658.3 L348.7,664.8 L158.0,693.7 L140.6,700.0 L147.3,683.4 L148.3,669.3 L147.0,629.8 L149.7,617.6 L157.2,609.8 L192.3,620.1 L211.9,611.0 L232.2,597.8 L254.3,592.7 L256.6,595.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>VI.SC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24549907</woe-id>
+    <subregion>NULL</subregion>
+    <fips>030</fips>
+    <postal-code>NULL</postal-code>
+    <name>Saint Croix</name>
+    <country>United States Virgin Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>-64.77979999999999</longitude>
+    <woe-name>Saint Croix Island</woe-name>
+    <latitude>17.735</latitude>
+    <woe-label>Saint Croix Island, VI, US Virgin Islands</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>vi-6399</hc-key>
+    <hc-a2>SC</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

@@ -1,0 +1,3651 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>World, Eckert III projection, low resolution</title>
+<g id="admin0">
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FO" d="M311.3,45.3 L311.8,45.2 L311.5,45.8 L310.6,45.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Faroe Islands</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Faeroe Is.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FRO</iso-a3>
+    <iso-a2>FO</iso-a2>
+    <woe-id>23424816</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>fo</hc-key>
+    <hc-a2>FO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US" d="M8.6,62.3 L6.9,63.5 L1.4,64.9 L0.0,64.7 L5.3,63.7 Z M72.4,58.5 L73.0,57.5 L74.5,58.8 L74.0,61.0 L71.6,59.7 Z M38.7,54.0 L41.2,52.7 L40.1,54.9 L35.0,56.4 L34.7,55.4 Z M159.0,78.6 L159.9,79.5 L156.1,79.2 L156.0,80.8 L157.8,79.8 L159.6,80.7 L159.4,82.9 L160.5,85.7 L160.1,86.5 L159.8,86.6 L159.5,86.4 L158.9,87.2 L158.8,87.2 L158.8,87.2 L157.8,88.4 L161.2,88.8 L166.8,86.6 L167.4,85.9 L167.2,85.7 L167.2,85.5 L167.3,85.3 L167.3,85.1 L172.0,85.0 L173.5,83.1 L174.2,82.8 L174.4,82.6 L175.6,81.8 L176.8,81.5 L176.8,81.5 L183.1,81.5 L185.9,79.6 L188.7,76.3 L191.3,77.1 L190.7,79.9 L190.9,80.2 L191.3,80.2 L191.1,80.9 L191.7,81.1 L191.9,81.9 L188.4,83.4 L187.8,82.9 L184.1,85.1 L183.7,88.6 L177.3,90.0 L179.9,89.9 L175.5,91.0 L175.5,92.6 L173.1,94.6 L172.2,96.5 L170.5,95.3 L170.6,101.2 L168.6,103.4 L167.4,103.3 L158.1,109.5 L157.1,111.6 L158.8,119.9 L157.7,123.2 L156.1,123.4 L154.3,120.6 L153.4,117.6 L154.1,115.5 L151.7,112.9 L149.6,113.9 L147.3,112.1 L142.7,112.7 L140.7,115.2 L139.2,114.3 L137.6,115.1 L135.9,113.7 L130.8,113.8 L123.8,117.2 L123.2,121.6 L121.1,121.4 L119.3,120.4 L119.3,119.6 L118.8,119.3 L117.6,116.8 L116.5,114.3 L116.3,114.1 L116.1,113.9 L114.1,113.4 L112.0,115.3 L109.5,113.8 L109.1,112.0 L106.3,109.4 L102.9,109.4 L102.7,110.3 L96.8,110.3 L89.8,107.9 L90.1,107.4 L85.1,107.8 L85.0,106.6 L81.2,103.8 L79.4,103.8 L77.1,98.0 L77.3,96.6 L75.6,94.3 L75.4,91.1 L76.8,89.0 L76.9,86.1 L80.4,80.3 L81.6,74.4 L85.0,75.0 L85.7,73.1 L139.2,73.1 L143.8,74.0 L145.8,75.1 L149.4,75.2 L150.6,75.3 L151.3,77.4 L152.8,78.3 L157.7,77.7 L158.4,78.4 L159.1,78.3 Z M85.2,73.1 L85.1,73.1 L85.1,73.1 Z M71.7,53.6 L72.7,54.0 L70.9,55.2 L71.9,55.6 L70.7,57.8 L70.3,54.9 L71.4,53.6 L69.7,53.6 L67.9,51.8 L65.1,50.5 L61.1,49.6 L58.9,49.9 L55.6,48.8 L56.2,48.1 L52.4,48.2 L51.9,49.9 L48.8,49.9 L46.2,51.1 L43.0,51.3 L46.4,47.8 L42.5,50.0 L39.1,51.2 L39.9,52.1 L36.7,53.9 L32.8,55.0 L30.9,56.2 L31.2,58.5 L28.2,56.8 L26.7,57.7 L20.9,59.4 L19.3,59.1 L17.0,60.7 L11.5,61.7 L12.7,60.6 L15.4,60.1 L19.4,58.5 L21.8,58.3 L29.5,55.0 L32.8,52.2 L30.4,52.8 L27.1,51.8 L25.3,52.9 L24.0,52.5 L25.2,49.6 L22.3,50.3 L20.7,49.1 L17.5,50.4 L15.9,49.4 L19.3,49.2 L22.4,48.0 L20.7,46.7 L27.5,43.0 L29.1,43.4 L34.5,41.9 L36.0,39.4 L31.6,40.5 L26.5,40.2 L26.2,39.0 L28.0,38.7 L25.2,37.9 L33.1,36.0 L34.0,37.0 L37.4,37.0 L41.0,36.1 L38.8,36.1 L39.3,35.0 L36.1,34.9 L36.4,33.8 L33.7,32.2 L35.6,31.1 L39.0,31.0 L42.2,30.0 L46.5,28.0 L51.4,27.1 L54.3,27.0 L57.5,26.0 L60.2,27.0 L64.1,27.0 L63.8,27.8 L68.2,27.7 L74.2,28.8 L77.9,28.5 L80.9,29.5 L74.5,36.6 L70.5,41.5 L64.7,49.2 L67.7,49.7 L69.3,52.2 L74.1,50.3 L76.1,53.2 L77.2,57.0 L79.2,58.5 L77.4,60.6 L75.5,60.7 L74.7,57.7 L72.1,56.5 L74.8,55.3 L72.6,55.5 L73.6,53.6 L73.5,51.3 L72.7,53.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="JP" d="M597.1,104.1 L596.8,106.3 L595.7,105.7 L594.3,107.3 L592.8,105.8 L596.0,103.9 Z M587.1,106.4 L586.1,104.5 L588.2,105.9 L588.9,105.0 L591.4,105.4 L592.6,106.9 L592.1,110.2 L589.9,110.5 L588.9,107.2 Z M607.2,95.5 L607.7,99.9 L608.6,101.0 L607.4,102.8 L606.7,101.4 L604.0,103.2 L601.7,103.5 L600.2,105.5 L598.2,104.9 L598.4,103.3 L593.4,104.0 L592.5,105.1 L590.3,104.8 L592.6,101.5 L595.9,101.2 L598.5,101.5 L599.5,99.1 L602.4,98.0 L602.1,96.6 L603.8,96.2 L604.2,93.1 L602.9,90.8 L603.3,89.4 L605.5,89.6 L608.2,93.2 Z M608.5,88.0 L605.1,86.6 L602.4,87.3 L604.6,88.2 L602.4,88.7 L601.2,86.4 L601.7,84.9 L603.7,84.9 L603.2,82.2 L601.7,81.1 L602.6,80.4 L606.7,82.9 L610.5,84.1 L611.5,85.3 L609.4,85.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Japan</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Japan</country-abbrev>
+    <subregion>Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>JPN</iso-a3>
+    <iso-a2>JP</iso-a2>
+    <woe-id>23424856</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.75</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>jp</hc-key>
+    <hc-a2>JP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR" d="M342.5,86.5 L342.8,87.6 L342.1,89.2 L340.8,87.3 Z M670.1,220.2 L669.5,222.1 L670.1,223.7 L667.3,221.9 L665.8,220.2 L665.7,218.7 L668.7,221.5 Z M192.0,138.3 L192.2,138.2 L192.2,138.4 Z M338.6,84.0 L338.6,84.1 L338.5,84.1 L338.4,84.1 L338.3,84.2 L336.3,85.5 L331.6,84.6 L329.8,85.8 L330.1,86.9 L328.8,87.1 L327.7,86.9 L327.7,86.9 L327.7,86.9 L327.2,86.8 L327.2,86.5 L326.6,86.6 L323.7,86.4 L320.2,84.9 L320.9,84.5 L321.7,79.3 L318.3,76.2 L314.7,75.0 L314.6,74.0 L317.7,73.3 L318.6,74.1 L320.8,73.6 L320.0,71.5 L323.4,72.5 L326.1,71.0 L326.8,69.1 L328.6,68.6 L331.8,71.0 L335.0,71.9 L335.3,72.1 L336.1,72.1 L339.7,73.1 L338.6,76.0 L335.8,78.1 L336.0,78.8 L336.1,78.6 L336.3,78.6 L337.1,78.5 L337.1,79.1 L337.6,79.5 L336.8,81.3 Z M209.6,165.1 L210.1,164.3 L212.2,164.9 L214.8,167.2 L214.8,167.9 L212.1,171.8 L208.6,171.5 L209.9,169.1 L208.9,166.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>France</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Fr.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FRA</iso-a3>
+    <iso-a2>FR</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.06</hc-middle-y>
+    <hc-key>fr</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CN" d="M553.1,137.6 L550.6,137.4 L550.2,135.7 L552.3,134.2 L554.3,133.9 L555.1,134.9 Z M506.9,118.8 L506.5,117.4 L505.1,117.6 L501.8,117.1 L500.7,117.6 L496.3,114.7 L495.2,114.8 L491.9,112.4 L489.7,112.7 L484.7,110.3 L483.5,107.8 L485.7,107.3 L484.0,105.8 L483.9,103.9 L481.2,101.5 L480.4,101.6 L479.1,101.2 L477.2,99.5 L474.1,98.3 L473.7,98.1 L474.7,97.9 L473.9,95.2 L472.0,95.0 L471.2,93.2 L471.7,91.9 L476.8,90.0 L479.4,89.8 L483.1,87.4 L483.8,85.4 L481.4,81.4 L485.4,80.4 L485.9,76.8 L489.5,77.7 L490.8,77.2 L490.5,74.3 L493.1,72.9 L493.4,72.8 L494.0,72.7 L494.7,74.0 L499.9,75.9 L502.0,78.2 L502.5,81.1 L507.9,81.6 L512.0,83.0 L514.8,86.3 L525.4,86.7 L530.0,88.3 L533.0,88.4 L535.8,87.2 L541.1,86.9 L545.0,84.2 L543.5,82.7 L544.2,81.3 L547.6,82.0 L548.9,80.7 L551.1,80.5 L552.2,78.7 L558.1,77.5 L554.6,75.2 L553.0,75.2 L552.9,75.3 L552.7,75.6 L549.6,75.8 L548.5,74.9 L549.3,71.3 L551.7,72.0 L553.6,70.2 L555.0,66.5 L552.9,65.1 L554.0,64.0 L558.2,63.4 L563.6,64.7 L566.0,66.4 L567.9,68.7 L571.6,71.9 L574.3,72.2 L578.2,74.5 L579.2,75.8 L582.1,75.8 L585.0,74.4 L586.4,75.7 L586.1,78.8 L585.1,81.4 L584.4,80.8 L583.3,81.0 L581.6,81.9 L582.9,83.5 L582.8,86.7 L578.2,87.8 L578.9,89.1 L575.7,88.5 L575.1,90.1 L572.4,91.8 L566.9,94.7 L566.5,93.0 L567.9,91.0 L565.4,90.1 L562.9,92.3 L562.3,93.7 L559.8,93.9 L561.1,96.0 L562.6,95.9 L564.5,98.1 L566.7,96.6 L570.9,97.5 L567.6,99.5 L565.3,102.5 L567.9,104.0 L570.0,107.5 L572.4,109.0 L573.2,111.2 L571.4,112.0 L573.1,113.1 L573.9,116.6 L572.4,117.4 L570.9,120.2 L570.8,122.2 L569.3,124.6 L566.3,126.7 L565.4,128.0 L561.9,128.3 L561.2,129.9 L559.5,127.8 L559.6,129.6 L554.0,131.4 L552.6,133.7 L551.9,131.1 L549.1,130.3 L548.3,131.1 L545.5,130.0 L544.7,128.0 L542.1,127.1 L539.6,128.9 L536.4,128.4 L535.8,129.2 L534.6,129.5 L535.3,131.8 L534.0,130.9 L532.1,131.2 L531.4,129.9 L529.7,129.7 L530.1,127.8 L528.8,127.5 L527.9,125.6 L526.0,126.1 L525.8,123.5 L527.5,121.8 L526.9,118.3 L524.2,116.2 L523.9,116.9 L521.0,114.5 L517.9,114.6 L514.3,117.5 L512.3,117.9 L509.2,116.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>China</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>China</country-abbrev>
+    <subregion>Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>CHN</iso-a3>
+    <iso-a2>CN</iso-a2>
+    <woe-id>23424781</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>cn</hc-key>
+    <hc-a2>CN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SW" d="M159.2,142.9 L159.2,142.9 L159.2,142.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Serranilla Bank</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>S.B.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>SW</iso-a2>
+    <woe-id>-99</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>sw</hc-key>
+    <hc-a2>SW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SH" d="M570.4,144.4 L570.4,144.4 L570.4,144.4 L570.4,144.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Scarborough Reef</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>S.R.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>SH</iso-a2>
+    <woe-id>-99</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>sh</hc-key>
+    <hc-a2>SH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PH" d="M583.3,155.2 L584.2,153.3 L584.1,155.8 L582.6,157.3 L581.2,155.6 L582.7,153.2 Z M579.9,150.8 L582.5,152.2 L581.4,153.8 L580.1,154.4 Z M585.2,152.2 L586.4,151.6 L584.6,149.9 L587.3,150.6 L587.9,153.0 L586.5,152.7 L585.0,154.0 Z M575.8,151.8 L575.4,154.2 L570.7,158.5 L574.6,153.8 Z M585.4,160.8 L583.7,159.9 L581.4,160.7 L581.2,159.6 L583.4,158.0 L584.5,159.2 L586.3,157.3 L587.9,157.4 L587.7,155.2 L589.6,157.7 L590.4,161.1 L589.7,162.2 L588.7,160.9 L587.9,162.3 L588.0,164.6 L585.5,163.4 Z M582.8,147.7 L584.1,149.0 L582.9,150.7 L582.1,148.0 L580.7,147.0 L581.0,148.6 L579.0,146.9 L578.3,150.6 L575.6,147.3 L576.7,147.3 L575.3,145.2 L574.4,141.9 L575.7,142.3 L575.4,137.4 L578.7,137.3 L577.2,135.7 L579.1,137.6 L579.9,140.4 L577.9,144.0 L578.9,146.5 L580.5,146.1 L584.0,147.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Philippines</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Phil.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>PHL</iso-a3>
+    <iso-a2>PH</iso-a2>
+    <woe-id>23424934</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.08</hc-middle-y>
+    <hc-key>ph</hc-key>
+    <hc-a2>PH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ES" d="M293.9,117.2 L292.1,117.7 L290.0,117.0 L287.0,117.8 L287.3,115.6 L288.2,116.9 L290.7,116.1 L292.2,117.3 Z M312.9,100.6 L313.0,100.7 L313.0,100.8 L312.9,100.7 Z M313.0,100.2 L311.3,99.8 L310.7,98.4 L308.8,98.0 L309.8,94.1 L309.9,89.9 L311.4,88.7 L310.7,87.9 L306.4,87.9 L305.5,85.4 L308.2,84.1 L309.4,84.5 L320.2,84.9 L323.7,86.4 L326.6,86.6 L326.8,86.9 L327.2,86.8 L327.7,86.9 L327.6,86.8 L327.7,86.8 L327.8,86.9 L327.7,86.9 L328.8,87.1 L330.1,86.9 L330.2,87.9 L327.9,89.3 L325.8,89.8 L323.1,93.1 L324.1,94.5 L326.8,93.9 L329.4,92.3 L331.4,91.9 L329.8,93.9 L328.6,93.0 L326.6,94.4 L322.8,95.5 L322.4,97.1 L320.4,97.6 L319.6,98.8 L314.8,99.0 L313.0,100.2 Z M317.8,102.0 L317.8,101.9 L317.8,101.9 L317.8,101.9 L317.8,101.9 L317.9,102.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Spain</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Sp.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>ESP</iso-a3>
+    <iso-a2>ES</iso-a2>
+    <woe-id>23424950</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.73</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BU" d="M156.4,143.1 L156.4,143.1 L156.4,143.1 L156.4,143.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bajo Nuevo Bank (Petrel Is.)</name>
+    <labelrank>8</labelrank>
+    <country-abbrev>NULL</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>BU</iso-a2>
+    <woe-id>-99</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
+    <hc-key>bu</hc-key>
+    <hc-a2>BU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MV" d="M478.9,165.3 L478.3,165.1 L478.6,164.7 L478.9,165.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Maldives</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Mald.</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>MDV</iso-a3>
+    <iso-a2>MV</iso-a2>
+    <woe-id>23424899</woe-id>
+    <continent>Seven seas (open ocean)</continent>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>mv</hc-key>
+    <hc-a2>MV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SP" d="M567.2,153.6 L567.2,153.6 L567.2,153.6 L567.2,153.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Spratly Islands</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Spratly Is.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>SP</iso-a2>
+    <woe-id>23424921</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sp</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GB" d="M210.3,284.8 L213.1,285.4 L209.5,286.8 L207.8,286.6 L207.7,285.1 Z M392.5,102.7 L392.4,102.7 L392.3,102.6 L392.2,102.6 L392.2,102.6 L392.2,102.6 L392.1,102.6 L392.1,102.6 L392.1,102.6 L392.0,102.5 L392.2,102.5 L392.5,102.4 L392.5,102.5 L392.3,102.5 Z M392.2,102.6 L392.2,102.6 L392.1,102.6 L392.1,102.6 Z M313.0,100.2 L313.0,100.2 L313.0,100.2 Z M390.7,103.4 L390.5,103.3 L390.2,103.3 L390.4,103.2 Z M310.1,60.2 L312.1,59.8 L313.3,61.1 L311.9,62.3 L308.3,61.5 Z M320.7,59.2 L321.5,61.2 L323.6,62.3 L324.4,64.4 L326.9,65.1 L325.6,67.6 L326.4,68.6 L321.3,69.7 L317.2,69.6 L316.5,70.5 L313.2,70.7 L315.8,68.4 L317.9,68.4 L313.6,67.0 L315.8,66.1 L315.9,64.1 L317.7,63.8 L318.4,62.1 L317.4,60.6 L314.0,60.7 L315.1,59.4 L313.2,57.4 L311.5,56.9 L310.6,53.7 L313.0,54.3 L314.5,52.7 L317.5,52.7 L318.1,51.3 L321.2,50.0 L318.0,51.9 L317.8,53.4 L316.2,54.2 L320.2,54.7 L319.7,56.4 L317.8,58.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United Kingdom</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.K.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>GBR</iso-a3>
+    <iso-a2>GB</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.06</hc-middle-y>
+    <hc-key>gb</hc-key>
+    <hc-a2>GB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GR" d="M378.3,101.7 L376.8,102.6 L373.9,102.7 L371.4,102.0 L372.8,101.4 Z M365.7,90.6 L365.9,90.4 L365.7,90.6 L365.6,90.4 L365.6,90.4 L365.7,90.3 L365.9,90.2 L367.4,89.7 L369.4,89.2 L372.6,88.7 L374.1,89.4 L376.2,88.4 L376.8,89.1 L375.7,90.5 L374.2,92.0 L374.7,90.2 L371.1,90.6 L372.5,91.7 L368.9,91.0 L368.9,91.9 L374.9,97.5 L372.8,96.3 L373.7,98.5 L376.3,97.0 L375.7,95.0 L376.5,93.5 L376.6,93.3 L376.6,93.5 L376.2,98.6 L373.3,99.0 L372.7,97.0 L370.5,96.3 L369.5,97.2 L370.6,99.6 L368.4,98.3 L367.9,98.9 L366.7,95.8 L363.8,92.7 L364.6,92.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Greece</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Greece</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>GRC</iso-a3>
+    <iso-a2>GR</iso-a2>
+    <woe-id>23424833</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DK" d="M346.7,60.6 L344.7,59.0 L346.8,58.0 L347.7,59.1 Z M340.2,60.6 L339.0,57.1 L343.4,54.6 L343.1,57.0 L344.1,60.9 L341.6,60.8 L340.5,60.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Denmark</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Den.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>DNK</iso-a3>
+    <iso-a2>DK</iso-a2>
+    <woe-id>23424796</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>dk</hc-key>
+    <hc-a2>DK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GL" d="M285.1,22.8 L286.3,24.3 L282.9,23.3 L282.2,21.7 L287.1,22.6 Z M229.7,28.0 L232.5,28.3 L234.1,29.8 L231.2,30.4 L229.4,29.6 Z M262.5,0.8 L267.1,1.2 L267.7,0.4 L276.9,0.0 L286.5,0.7 L279.0,1.0 L287.0,1.0 L287.9,1.5 L292.4,2.1 L290.6,2.7 L279.4,3.2 L274.8,3.8 L282.5,3.3 L287.1,3.5 L284.1,4.7 L292.0,3.3 L290.5,5.5 L295.3,3.8 L297.9,4.5 L300.2,3.8 L306.7,4.6 L302.1,6.0 L297.8,6.3 L299.7,6.8 L292.4,7.9 L294.1,8.3 L293.4,10.4 L291.0,10.2 L289.9,12.1 L293.1,12.1 L291.2,13.2 L294.5,13.6 L293.4,14.5 L290.9,14.1 L288.7,15.6 L291.6,15.6 L292.2,17.4 L295.4,18.1 L291.8,19.8 L288.6,20.1 L289.6,21.5 L286.6,21.9 L283.9,21.2 L280.2,21.9 L282.5,23.6 L285.8,24.7 L287.1,27.6 L283.8,27.8 L280.6,25.8 L280.6,27.3 L275.9,28.6 L280.5,27.9 L285.4,28.5 L278.2,31.5 L272.6,32.6 L268.0,32.9 L262.6,36.4 L258.0,38.1 L255.4,37.9 L251.4,39.7 L250.9,42.0 L247.4,44.4 L245.7,48.0 L242.5,50.3 L239.5,48.4 L235.4,48.1 L233.1,43.7 L231.1,42.5 L232.0,40.6 L230.3,41.1 L231.0,39.3 L228.8,36.9 L231.8,35.2 L228.9,34.9 L232.8,31.6 L234.9,31.8 L236.2,29.5 L235.4,28.8 L230.6,27.3 L234.2,27.3 L236.0,25.9 L233.7,26.3 L230.0,25.8 L229.2,25.2 L230.9,23.8 L230.0,22.9 L231.8,21.6 L230.5,21.2 L231.2,19.5 L228.6,18.1 L228.8,16.7 L221.4,15.3 L220.2,15.8 L216.9,15.5 L216.0,16.2 L213.1,15.9 L209.6,14.0 L211.0,13.0 L208.8,11.6 L209.8,10.8 L217.8,9.6 L221.0,9.6 L223.3,8.7 L223.8,7.6 L220.6,6.9 L228.8,5.1 L230.7,5.4 L231.9,4.0 L236.7,3.2 L243.2,2.7 L244.8,3.7 L245.2,2.7 L247.5,3.4 L248.4,2.4 L251.4,2.5 L255.3,3.4 L257.3,3.2 L254.4,2.7 L254.0,1.8 L259.7,2.9 L256.6,1.8 L258.7,1.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Greenland</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Grlnd.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>GRL</iso-a3>
+    <iso-a2>GL</iso-a2>
+    <woe-id>23424828</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>gl</hc-key>
+    <hc-a2>GL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PR" d="M183.9,137.4 L186.8,137.6 L186.3,138.4 L183.7,138.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Puerto Rico</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>P.R.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>PRI</iso-a3>
+    <iso-a2>PR</iso-a2>
+    <woe-id>23424935</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>pr</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UM" d="M167.2,137.6 L167.2,137.6 L167.3,137.6 L167.2,137.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States Minor Outlying Islands</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>U.S. MOI</country-abbrev>
+    <subregion>Seven seas (open ocean)</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>UMI</iso-a3>
+    <iso-a2>UM</iso-a2>
+    <woe-id>28289407</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>um</hc-key>
+    <hc-a2>UM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VI" d="M188.6,138.9 L189.0,138.9 L188.2,139.1 L188.3,138.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States Virgin Islands</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>V.I. (U.S.)</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>VIR</iso-a3>
+    <iso-a2>VI</iso-a2>
+    <woe-id>23424985</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.16</hc-middle-y>
+    <hc-key>vi</hc-key>
+    <hc-a2>VI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA" d="M199.9,71.0 L203.9,72.3 L203.1,72.9 L200.7,72.2 Z M175.3,43.6 L172.7,45.3 L171.6,44.6 L173.2,43.7 Z M192.2,32.3 L192.3,33.9 L188.6,34.6 L188.9,33.2 Z M149.5,21.8 L147.6,22.7 L146.9,20.9 L149.3,20.8 Z M169.9,16.5 L171.1,17.6 L169.9,18.9 L166.8,19.3 L166.1,17.8 Z M148.3,11.3 L145.8,11.0 L151.0,10.3 L151.5,11.2 Z M204.6,79.9 L203.9,80.5 L203.1,79.3 L205.4,77.2 Z M72.1,64.3 L72.4,66.3 L71.0,63.6 L71.5,62.1 L74.0,62.2 Z M158.2,29.8 L155.9,32.0 L149.7,30.8 L153.9,30.1 L155.5,29.0 Z M196.4,22.8 L190.0,22.8 L189.6,20.8 L195.4,21.4 Z M143.8,12.3 L150.6,11.7 L148.4,12.9 L145.1,13.3 Z M176.8,81.5 L175.6,81.8 L174.4,82.6 L173.3,83.0 L173.5,83.1 L167.5,84.0 L167.3,85.1 L167.3,85.3 L167.2,85.5 L167.2,85.7 L167.4,85.9 L162.4,86.4 L159.6,87.7 L158.8,87.2 L158.8,87.2 L158.9,87.2 L160.1,87.1 L159.8,86.6 L160.1,86.5 L160.5,85.7 L162.1,84.9 L163.6,82.3 L163.3,81.0 L165.9,82.6 L166.8,81.9 L165.4,79.5 L163.1,80.4 L160.0,79.6 L163.6,79.2 L159.0,78.6 L159.1,78.3 L158.4,78.4 L158.6,75.3 L157.0,75.7 L156.0,73.5 L152.3,73.7 L149.4,75.2 L145.8,75.1 L143.8,74.0 L139.2,73.1 L85.7,73.1 L85.5,72.9 L85.2,73.1 L85.1,73.1 L82.7,71.5 L82.2,69.8 L80.3,69.8 L81.0,70.1 L82.2,70.0 L82.5,72.2 L84.0,72.7 L84.2,74.2 L81.6,74.0 L79.3,72.5 L76.5,69.7 L77.8,69.0 L79.5,69.6 L77.9,67.8 L78.6,64.8 L77.6,66.2 L75.7,63.8 L75.8,62.1 L78.6,59.8 L79.2,58.5 L77.2,57.0 L76.1,53.2 L74.1,50.3 L69.3,52.2 L67.7,49.7 L64.7,49.2 L70.5,41.5 L74.5,36.6 L80.9,29.5 L84.5,29.6 L84.2,30.4 L88.3,31.1 L92.6,29.3 L93.8,30.0 L101.6,28.2 L97.6,29.6 L105.9,28.2 L107.1,30.2 L109.5,28.7 L109.0,30.1 L112.3,29.1 L125.4,31.8 L122.5,33.4 L126.0,33.7 L130.0,33.4 L132.8,32.5 L134.2,34.2 L136.2,32.6 L135.7,31.7 L140.4,31.1 L141.5,32.9 L146.1,33.7 L151.8,33.4 L152.0,32.2 L156.8,32.4 L154.7,34.1 L156.1,34.4 L157.2,32.8 L161.2,31.8 L160.9,30.6 L162.6,30.1 L158.4,29.0 L160.0,26.0 L164.2,24.5 L165.9,25.9 L165.2,26.9 L167.0,31.1 L166.5,32.5 L170.1,30.4 L171.2,31.4 L169.8,32.4 L170.0,34.8 L172.1,34.3 L176.2,30.5 L176.6,29.2 L181.5,29.5 L183.1,30.7 L180.5,32.2 L181.4,34.1 L176.9,36.8 L175.4,35.1 L175.7,38.0 L173.0,36.0 L168.2,38.6 L164.8,37.3 L165.6,38.6 L168.7,38.8 L166.0,41.0 L162.4,41.1 L160.0,43.4 L156.5,43.9 L155.0,45.8 L152.3,46.8 L149.2,50.0 L148.7,52.5 L151.1,52.5 L151.2,55.2 L150.4,56.3 L153.7,55.6 L157.4,56.5 L159.2,58.2 L164.1,59.9 L168.3,60.2 L167.5,62.0 L167.8,64.2 L169.7,64.8 L173.2,64.6 L173.6,62.2 L173.2,58.5 L174.9,56.8 L176.2,57.4 L175.0,58.6 L175.7,60.3 L178.3,59.1 L180.2,57.4 L180.3,54.1 L177.8,52.8 L176.2,50.2 L178.3,52.2 L181.6,49.9 L181.6,48.2 L179.5,48.3 L177.7,46.1 L178.9,44.8 L181.7,45.6 L182.2,44.4 L187.9,45.3 L189.8,44.7 L193.1,46.4 L192.6,46.8 L196.7,48.2 L195.0,50.9 L198.4,53.5 L203.0,51.4 L204.8,48.8 L205.5,50.5 L209.0,56.0 L207.8,56.8 L210.9,60.2 L215.1,61.1 L212.5,62.4 L209.6,63.0 L209.5,63.9 L213.7,62.0 L217.7,63.6 L217.4,66.3 L214.4,67.9 L210.4,68.8 L208.4,70.3 L205.5,70.5 L195.6,70.4 L193.3,72.3 L189.7,73.5 L187.5,75.6 L184.2,77.8 L180.7,78.9 L180.4,79.2 L186.0,77.2 L189.5,74.7 L195.5,72.6 L197.9,72.6 L198.8,74.3 L196.7,75.1 L197.4,78.7 L198.4,77.7 L199.9,78.5 L202.4,78.4 L201.1,79.3 L203.9,80.8 L196.9,83.0 L194.0,84.8 L193.7,82.4 L196.2,81.2 L197.2,79.6 L194.2,81.0 L191.7,81.1 L191.1,80.9 L191.3,80.2 L190.9,80.1 L190.7,79.9 L191.3,77.1 L188.7,76.3 L185.9,79.6 L183.1,81.5 L176.8,81.5 L179.3,80.6 L180.1,79.6 L179.2,80.6 Z M183.8,42.2 L183.0,43.3 L182.2,42.7 L183.8,42.2 L183.8,42.2 Z M183.8,42.2 L184.5,41.4 L184.5,41.4 L184.6,42.0 L183.8,42.2 L183.8,42.2 Z M184.5,41.4 L184.3,39.4 L186.1,38.3 L189.9,38.8 L193.1,38.3 L192.0,36.9 L196.5,34.9 L196.6,32.5 L193.7,33.4 L193.1,30.8 L190.8,31.5 L190.6,28.4 L188.5,28.1 L188.7,30.2 L187.1,31.1 L188.2,29.0 L185.8,29.6 L183.7,28.8 L181.2,29.2 L172.1,27.8 L171.3,26.0 L172.5,23.8 L175.5,21.8 L180.3,20.6 L182.7,21.0 L178.7,22.8 L178.0,24.5 L182.6,21.6 L188.5,20.9 L189.5,23.6 L191.0,24.1 L193.8,22.9 L197.5,23.5 L198.4,25.5 L200.1,25.5 L202.5,25.6 L203.6,26.8 L207.0,27.5 L208.3,30.6 L205.0,31.7 L208.4,32.5 L208.5,33.4 L210.8,33.0 L212.3,35.3 L214.2,34.7 L215.7,35.8 L213.2,36.7 L213.5,37.9 L208.7,39.1 L207.9,37.2 L204.9,36.0 L204.4,39.1 L207.1,40.1 L206.5,40.8 L208.4,42.3 L206.5,42.4 L207.1,44.6 L203.0,43.7 L203.7,45.9 L199.3,45.1 L194.3,43.1 L195.4,42.3 L193.3,42.1 L192.1,40.0 L190.0,40.6 L188.2,40.1 L184.5,41.4 L184.5,41.4 Z M220.8,75.0 L220.3,77.7 L217.9,77.4 L218.8,76.4 L214.4,77.4 L215.1,76.0 L208.1,75.4 L209.7,74.0 L214.8,68.2 L217.5,67.6 L216.8,69.1 L215.4,70.6 L216.8,72.5 L219.2,71.5 L220.2,72.5 L219.1,74.0 L220.9,73.9 L218.8,75.8 Z M131.1,15.9 L125.4,16.2 L126.5,15.2 L134.4,13.2 L138.7,12.8 L137.6,14.6 L133.7,15.9 L131.5,16.9 L129.5,16.9 L133.5,15.8 L134.8,14.5 Z M169.3,43.2 L169.3,42.0 L167.0,42.4 L169.0,41.2 L171.3,37.7 L172.7,37.7 L179.6,41.8 L177.8,42.6 L173.8,41.2 L173.3,41.9 Z M149.2,29.8 L148.1,29.0 L146.2,30.1 L148.3,30.5 L144.4,31.3 L139.8,30.5 L134.6,31.4 L127.2,31.9 L127.2,30.5 L123.4,30.2 L122.0,29.3 L123.1,28.5 L127.6,28.1 L130.8,28.3 L132.0,27.7 L129.2,27.2 L124.6,27.7 L122.2,26.6 L127.5,25.5 L123.3,25.8 L122.6,24.8 L127.4,22.6 L133.0,21.6 L133.5,23.1 L134.9,22.4 L137.4,23.0 L139.8,22.4 L141.4,23.3 L140.7,25.0 L142.6,24.7 L142.7,22.9 L144.2,21.3 L147.3,22.9 L146.3,27.2 L149.6,28.5 L152.3,27.8 Z M154.0,24.1 L151.7,23.1 L153.4,22.3 L155.8,22.8 L154.8,21.5 L156.5,20.7 L161.2,20.6 L162.7,21.1 L159.1,22.4 L161.6,22.6 L160.6,24.9 L156.1,26.1 Z M164.8,21.1 L167.2,20.1 L169.7,19.9 L174.4,20.5 L170.0,22.8 L166.1,22.9 L166.8,23.6 L163.2,24.6 Z M123.9,23.2 L121.4,24.0 L119.3,25.6 L114.3,26.5 L113.9,25.2 L111.3,24.6 L118.5,20.8 L118.1,19.6 L121.8,19.3 L130.6,20.1 L131.9,21.4 Z M163.3,18.2 L159.5,18.2 L159.6,17.3 L156.6,17.2 L154.9,15.9 L156.3,13.8 L158.8,15.6 L161.7,14.6 L166.5,15.1 L165.1,17.2 Z M148.1,16.0 L152.5,16.1 L153.1,18.2 L151.7,17.2 L150.3,18.1 L146.0,18.1 L137.5,19.5 L135.7,18.9 L142.6,17.7 L134.2,18.3 L131.6,17.7 L139.4,14.5 L139.6,15.7 L141.4,15.5 L142.6,17.1 L146.2,17.2 L145.6,15.5 L149.4,14.3 Z M179.4,19.4 L172.7,18.7 L174.4,16.4 L173.6,15.3 L169.7,15.6 L168.8,14.0 L176.9,14.6 L179.3,15.7 L177.8,16.0 L180.2,17.1 L183.5,17.1 L187.9,16.5 L192.1,16.6 L194.0,17.2 L192.1,18.1 L193.7,18.5 L189.1,19.4 L186.4,19.1 Z M170.3,10.2 L170.5,8.2 L171.4,10.2 L174.3,10.9 L173.3,12.3 L175.0,13.0 L171.0,13.0 L170.9,11.6 L169.2,10.9 Z M167.0,12.1 L161.7,11.4 L159.2,11.3 L161.6,10.0 L159.2,9.7 L162.8,9.0 L167.7,10.7 Z M191.8,9.2 L189.0,9.6 L183.3,11.5 L178.0,11.2 L176.7,9.8 L180.1,9.0 L175.8,9.2 L175.1,7.5 L177.4,6.3 L185.1,5.2 L187.3,7.3 L189.8,6.8 L188.9,8.6 Z M198.8,14.7 L193.4,15.8 L193.6,15.2 L187.3,15.1 L186.2,15.5 L178.6,15.0 L179.0,12.7 L180.4,12.7 L180.2,14.3 L184.0,13.2 L184.0,12.3 L188.8,12.3 L188.9,11.6 L185.7,11.6 L188.3,10.2 L192.2,9.9 L192.3,8.5 L190.3,8.2 L191.4,7.0 L195.4,7.1 L197.5,8.5 L198.4,7.8 L196.4,7.0 L204.9,6.4 L204.3,5.6 L200.1,6.3 L193.9,6.6 L188.2,5.8 L186.0,4.2 L187.9,3.8 L197.3,2.8 L200.9,2.8 L206.4,1.5 L215.5,1.6 L217.8,1.1 L229.0,1.5 L232.8,3.0 L225.0,4.5 L226.9,4.6 L220.0,6.1 L213.4,8.2 L204.2,9.7 L207.0,10.2 L203.7,10.7 L205.6,11.1 L197.6,13.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Canada</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Can.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>CAN</iso-a3>
+    <iso-a2>CA</iso-a2>
+    <woe-id>23424775</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.29</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV" d="M274.1,144.1 L274.5,144.5 L274.6,144.9 L274.0,144.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cape Verde</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>C.Vd.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>CPV</iso-a3>
+    <iso-a2>CV</iso-a2>
+    <woe-id>23424794</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>cv</hc-key>
+    <hc-a2>CV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DM" d="M195.3,143.5 L195.5,143.9 L195.3,144.3 L195.1,143.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Dominica</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>D'inca</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>DMA</iso-a3>
+    <iso-a2>DM</iso-a2>
+    <woe-id>23424798</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>dm</hc-key>
+    <hc-a2>DM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SC" d="M421.5,196.1 L421.5,196.3 L421.0,196.3 L421.5,196.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Seychelles</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Syc.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SYC</iso-a3>
+    <iso-a2>SC</iso-a2>
+    <woe-id>23424941</woe-id>
+    <continent>Seven seas (open ocean)</continent>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.81</hc-middle-y>
+    <hc-key>sc</hc-key>
+    <hc-a2>SC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="JM" d="M162.2,137.4 L164.7,138.6 L161.5,138.7 L160.6,137.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Jamaica</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Jam.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>JAM</iso-a3>
+    <iso-a2>JM</iso-a2>
+    <woe-id>23424858</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>jm</hc-key>
+    <hc-a2>JM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="OM" d="M440.1,123.2 L440.0,123.1 L440.1,123.0 L440.2,123.1 Z M439.5,121.4 L440.1,120.8 L440.0,122.4 L439.7,122.3 Z M432.2,136.3 L438.3,134.2 L439.4,130.0 L438.3,128.5 L439.2,123.9 L440.4,123.7 L442.2,125.9 L445.6,126.7 L448.0,129.5 L444.0,134.8 L444.4,136.3 L442.0,137.2 L441.5,138.6 L439.6,138.8 L438.8,140.5 L434.8,141.3 L434.0,139.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Oman</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Oman</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>OMN</iso-a3>
+    <iso-a2>OM</iso-a2>
+    <woe-id>23424898</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.80</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>om</hc-key>
+    <hc-a2>OM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VC" d="M195.4,148.9 L195.2,148.5 L195.5,148.2 L195.5,148.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Saint Vincent and the Grenadines</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>St.V.G.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>VCT</iso-a3>
+    <iso-a2>VC</iso-a2>
+    <woe-id>23424981</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>vc</hc-key>
+    <hc-a2>VC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BD" d="M515.7,132.0 L513.8,128.5 L511.2,130.4 L508.8,130.1 L508.8,130.1 L508.8,130.0 L508.7,129.7 L507.3,126.5 L507.5,125.2 L505.9,124.4 L507.6,123.3 L505.6,121.8 L506.2,120.6 L509.2,121.7 L510.6,123.4 L514.0,123.3 L515.0,123.8 L512.7,126.6 L513.8,128.0 L514.7,126.3 L516.1,130.0 L516.4,131.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bangladesh</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Bang.</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>BGD</iso-a3>
+    <iso-a2>BD</iso-a2>
+    <woe-id>23424759</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.75</hc-middle-y>
+    <hc-key>bd</hc-key>
+    <hc-a2>BD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SB" d="M658.5,195.6 L662.1,195.4 L662.0,197.2 L659.9,197.1 Z M652.0,191.4 L653.4,190.3 L654.6,191.9 L654.5,193.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Solomon Islands</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>S. Is.</country-abbrev>
+    <subregion>Melanesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>SLB</iso-a3>
+    <iso-a2>SB</iso-a2>
+    <woe-id>23424766</woe-id>
+    <continent>Oceania</continent>
+    <hc-middle-x>0.83</hc-middle-x>
+    <hc-middle-y>0.88</hc-middle-y>
+    <hc-key>sb</hc-key>
+    <hc-a2>SB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LC" d="M196.0,147.5 L195.7,147.1 L196.1,146.6 L196.1,147.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Saint Lucia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>S.L.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>LCA</iso-a3>
+    <iso-a2>LC</iso-a2>
+    <woe-id>23424951</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lc</hc-key>
+    <hc-a2>LC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NO" d="M357.0,11.5 L355.5,10.8 L358.4,10.6 L359.1,11.5 L362.5,12.3 L360.9,13.4 L357.1,13.1 Z M376.8,29.2 L375.5,30.1 L373.9,30.8 L374.0,29.5 L371.7,28.6 L368.6,29.4 L367.0,31.8 L362.7,31.5 L361.2,30.3 L359.5,30.8 L358.5,32.2 L355.4,31.9 L352.1,34.2 L352.6,35.0 L349.5,36.9 L349.6,38.6 L348.2,40.2 L348.9,41.4 L346.6,41.5 L345.4,42.9 L346.8,49.6 L345.0,52.0 L343.3,51.1 L339.6,53.5 L335.9,53.8 L333.4,51.7 L332.6,48.6 L333.7,46.5 L332.5,46.0 L338.4,43.3 L346.0,38.4 L345.6,37.2 L349.5,34.6 L349.0,34.2 L351.9,32.1 L346.6,32.8 L349.5,32.1 L350.6,31.1 L352.5,30.9 L352.4,31.8 L353.9,30.7 L354.5,29.6 L356.5,29.7 L359.0,28.3 L362.2,28.1 L362.0,27.3 L365.1,26.7 L372.4,26.7 L377.0,28.2 L372.9,28.5 Z M345.2,11.8 L348.6,11.2 L343.0,11.4 L340.3,10.0 L340.4,8.6 L346.2,8.1 L349.5,9.9 L348.0,7.9 L348.8,7.5 L355.0,9.7 L357.4,10.1 L353.6,10.9 L350.8,14.9 L345.9,12.9 Z M361.2,9.4 L359.3,8.9 L354.4,9.1 L351.8,6.9 L353.5,7.5 L355.0,6.3 L355.7,7.2 L358.2,7.6 L361.0,7.1 L364.9,7.3 L365.4,10.2 L364.0,8.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Norway</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Nor.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>NOR</iso-a3>
+    <iso-a2>NO</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.16</hc-middle-x>
+    <hc-middle-y>0.88</hc-middle-y>
+    <hc-key>no</hc-key>
+    <hc-a2>NO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN" d="M193.0,140.1 L192.4,139.8 L192.5,139.7 L192.8,139.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Saint Kitts and Nevis</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>St.K.N.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>KNA</iso-a3>
+    <iso-a2>KN</iso-a2>
+    <woe-id>23424940</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>kn</hc-key>
+    <hc-a2>KN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BH" d="M427.9,121.1 L428.2,121.2 L428.2,122.0 L428.0,121.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bahrain</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Bahr.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>BHR</iso-a3>
+    <iso-a2>BH</iso-a2>
+    <woe-id>23424753</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>bh</hc-key>
+    <hc-a2>BH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ID" d="M576.2,196.1 L577.8,197.5 L577.0,198.2 L574.7,196.2 Z M615.9,193.6 L613.5,194.1 L614.3,192.5 L616.1,192.0 Z M582.0,187.9 L581.7,186.4 L582.9,185.8 L584.3,187.5 Z M550.4,182.4 L548.4,182.9 L546.9,180.9 L547.4,179.7 L548.6,182.5 Z M604.3,188.2 L607.7,188.4 L606.4,191.0 L606.4,189.1 Z M571.2,194.1 L574.2,193.9 L573.0,195.1 L570.0,195.6 L567.5,195.0 L568.8,193.7 Z M585.6,195.8 L585.9,195.7 L586.6,195.3 L586.7,195.8 L586.8,196.4 L585.4,197.8 L583.2,198.2 L584.7,196.1 L585.1,196.4 Z M572.3,167.6 L571.7,167.8 L571.9,167.6 Z M621.1,181.9 L620.8,189.8 L620.4,195.6 L618.6,193.5 L616.2,193.9 L616.6,192.4 L614.2,187.5 L610.4,185.9 L608.7,185.8 L605.6,183.8 L604.0,185.0 L603.8,183.3 L602.5,182.1 L606.4,181.4 L603.6,181.3 L599.8,179.2 L600.6,178.1 L603.7,177.2 L606.4,177.9 L606.6,180.9 L608.4,183.4 L609.5,183.5 L611.4,181.1 L614.5,179.5 L618.7,181.4 Z M592.0,193.1 L592.8,193.4 L592.8,193.4 L592.8,193.4 L592.7,193.5 L592.0,193.1 Z M547.4,183.3 L546.8,188.3 L544.4,188.9 L538.0,183.2 L536.4,181.0 L535.3,178.1 L533.3,175.9 L531.3,176.4 L533.1,180.1 L532.3,179.9 L531.1,176.4 L532.7,175.1 L531.6,172.3 L529.0,172.1 L530.4,174.3 L529.9,175.2 L528.7,172.0 L529.6,170.4 L524.9,166.2 L524.9,164.5 L527.0,165.4 L529.3,165.3 L530.9,167.6 L534.1,169.7 L536.7,172.4 L539.4,173.9 L543.3,174.3 L541.8,175.3 L542.7,176.4 L541.8,177.9 L543.9,178.6 L544.6,181.4 L546.5,181.5 Z M592.8,193.4 L594.5,191.4 L596.6,192.9 L599.4,193.6 L599.7,192.0 L600.9,192.5 L599.0,194.0 L597.0,193.4 L594.7,191.6 L593.4,193.6 L592.8,193.4 L592.8,193.4 Z M560.9,194.2 L556.8,193.7 L554.0,192.7 L551.8,192.9 L548.1,192.0 L546.0,190.8 L547.2,188.8 L552.0,189.6 L552.5,190.7 L556.5,191.0 L557.0,190.0 L560.6,190.9 L561.0,188.7 L561.2,191.5 L562.4,192.8 L567.3,194.2 L566.2,195.0 L562.1,193.9 Z M600.8,184.9 L595.5,183.2 L593.5,184.3 L592.1,184.0 L591.0,184.5 L589.5,183.1 L592.6,183.4 L593.6,182.6 L597.0,182.3 L599.1,183.0 Z M585.0,180.7 L582.6,178.7 L580.1,180.5 L582.0,183.1 L582.9,185.7 L579.9,186.2 L580.2,185.0 L577.7,183.3 L577.5,187.7 L575.3,187.8 L576.0,185.5 L574.3,182.0 L575.5,180.5 L577.0,174.9 L578.8,173.5 L580.3,174.2 L585.2,174.6 L587.7,172.6 L588.0,173.4 L586.0,175.6 L577.7,175.4 L576.9,176.9 L578.3,179.3 L580.4,177.4 L584.1,177.8 L583.6,178.8 L584.9,180.4 L586.6,179.8 L590.2,180.2 L589.2,180.8 Z M593.1,176.9 L592.5,175.1 L592.9,172.7 L594.0,171.6 L593.8,173.7 L595.3,173.1 L594.4,175.0 L596.7,176.6 L593.7,175.4 L593.8,177.9 L592.0,178.0 Z M571.6,167.6 L570.7,168.7 L572.8,171.6 L572.3,172.4 L574.8,174.2 L572.1,174.8 L571.5,177.5 L569.6,179.5 L568.3,184.0 L565.4,185.2 L564.7,183.5 L562.1,183.1 L559.5,183.9 L559.4,182.3 L556.3,182.7 L555.7,178.8 L554.0,177.5 L553.4,174.7 L555.0,172.0 L557.0,174.6 L562.1,173.1 L563.4,173.8 L565.3,173.4 L567.3,170.0 L568.0,167.1 Z M592.0,193.1 L590.8,192.8 L587.1,194.0 L578.2,195.2 L575.6,194.7 L576.8,193.9 L581.1,194.6 L582.6,193.7 L587.1,193.6 L590.4,192.4 L592.0,193.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Indonesia</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Indo.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>IDN</iso-a3>
+    <iso-a2>ID</iso-a2>
+    <woe-id>23424846</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>id</hc-key>
+    <hc-a2>ID</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MU" d="M444.0,218.8 L443.9,219.6 L443.2,219.7 L443.6,218.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mauritius</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Mus.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>MUS</iso-a3>
+    <iso-a2>MU</iso-a2>
+    <woe-id>23424894</woe-id>
+    <continent>Seven seas (open ocean)</continent>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>mu</hc-key>
+    <hc-a2>MU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RU" d="M410.6,30.9 L408.1,31.4 L407.2,30.4 L408.8,29.8 Z M21.0,25.4 L22.3,26.1 L17.3,26.7 L18.8,25.5 Z M411.3,7.3 L409.3,7.4 L410.7,6.6 L414.5,7.0 Z M410.6,4.1 L410.4,5.4 L406.9,7.3 L405.8,5.9 L408.7,5.3 Z M557.2,20.3 L562.2,21.3 L562.7,22.1 L557.5,21.4 Z M487.1,10.1 L488.7,11.2 L480.6,11.8 L481.8,9.0 Z M582.8,86.7 L582.9,83.5 L581.6,81.9 L583.3,81.0 L584.7,82.5 L585.1,81.4 L586.1,78.8 L586.4,75.7 L585.0,74.4 L582.1,75.8 L579.2,75.8 L578.2,74.5 L574.3,72.2 L571.6,71.9 L567.9,68.7 L566.0,66.4 L563.6,64.7 L558.2,63.4 L554.0,64.0 L552.9,65.1 L555.0,66.5 L553.6,70.2 L551.7,72.0 L549.3,71.3 L544.3,70.4 L542.5,71.8 L538.4,72.8 L534.0,72.4 L532.3,71.1 L526.8,69.9 L523.9,70.7 L520.8,69.6 L520.1,68.2 L513.1,66.5 L511.9,68.8 L513.2,69.8 L512.0,71.5 L506.5,70.9 L505.4,69.8 L501.5,69.1 L494.0,72.7 L493.4,72.8 L493.1,72.9 L491.3,71.8 L488.7,71.8 L484.3,68.8 L480.7,69.4 L478.8,68.2 L477.7,69.2 L472.1,64.0 L469.1,62.6 L469.0,61.6 L464.9,63.4 L463.3,62.6 L458.8,62.3 L457.4,59.8 L452.6,60.0 L452.6,60.5 L447.4,61.8 L439.6,62.8 L442.0,64.4 L439.7,65.3 L439.0,67.0 L441.8,67.9 L441.9,69.3 L439.0,69.8 L436.5,68.8 L432.5,68.7 L431.1,69.8 L426.2,67.8 L420.8,67.5 L417.6,69.7 L417.4,71.3 L415.5,70.0 L414.4,71.3 L414.1,74.3 L417.4,75.6 L420.2,78.7 L417.3,80.0 L415.8,82.2 L417.9,84.1 L417.8,85.7 L420.4,88.1 L418.9,89.5 L416.1,88.0 L412.7,86.3 L411.0,86.7 L408.6,85.4 L402.9,84.9 L400.7,83.3 L395.7,81.1 L397.5,80.7 L397.8,78.4 L400.5,77.2 L398.4,77.1 L399.4,75.5 L401.2,75.5 L401.3,72.0 L396.0,70.0 L392.6,70.2 L391.2,68.4 L389.5,68.3 L388.4,66.0 L384.6,66.5 L383.4,64.6 L386.1,63.7 L384.1,62.9 L382.0,59.1 L376.7,58.0 L375.5,56.5 L374.8,55.1 L375.1,54.5 L375.2,54.1 L375.4,53.1 L375.1,52.0 L375.3,51.6 L375.4,51.4 L375.6,51.3 L375.6,51.3 L375.5,51.3 L375.5,51.3 L375.7,51.3 L375.8,51.2 L375.7,51.0 L375.5,50.9 L378.7,49.5 L374.8,48.7 L380.4,44.6 L380.9,43.7 L377.7,42.0 L378.7,41.4 L376.6,39.3 L376.7,37.0 L375.0,35.4 L376.3,33.6 L373.7,32.5 L373.9,30.8 L375.5,30.1 L376.8,29.2 L386.0,30.5 L395.6,33.7 L396.3,35.5 L392.1,37.1 L380.9,35.3 L385.0,37.0 L386.2,39.6 L389.7,38.9 L394.6,40.3 L396.0,39.7 L394.5,38.0 L398.9,35.6 L402.1,37.5 L402.2,35.8 L400.7,34.7 L400.9,32.4 L399.0,31.7 L403.7,32.0 L405.4,33.3 L402.7,34.4 L404.4,35.3 L407.7,35.1 L407.5,33.9 L412.3,32.1 L417.9,30.8 L417.1,31.6 L419.1,32.6 L421.0,31.6 L423.4,31.8 L425.7,30.9 L427.7,32.3 L429.1,30.6 L424.3,28.6 L424.7,27.7 L427.6,28.9 L434.3,29.7 L439.9,31.1 L442.6,32.3 L443.7,30.9 L438.9,29.6 L438.7,27.2 L437.4,26.0 L439.5,24.9 L440.3,21.6 L443.3,22.0 L441.2,22.6 L445.9,23.0 L445.5,25.5 L447.3,26.4 L449.5,31.0 L451.8,31.9 L450.0,35.8 L447.3,36.3 L451.3,36.7 L454.5,33.6 L453.0,31.5 L456.1,30.9 L458.2,31.9 L458.5,33.4 L459.8,32.5 L458.3,31.1 L454.3,30.3 L451.8,30.7 L450.3,29.3 L450.9,27.7 L447.6,25.7 L450.1,24.3 L448.8,22.6 L449.2,21.4 L451.4,21.4 L450.3,23.0 L451.7,25.9 L456.2,26.4 L452.1,24.7 L455.3,24.3 L456.0,22.2 L457.3,23.7 L462.1,25.2 L464.6,25.1 L463.5,26.1 L465.9,28.1 L467.1,27.8 L465.4,25.3 L459.3,23.4 L457.6,21.2 L460.0,20.2 L463.8,20.9 L468.1,20.6 L465.5,19.0 L470.2,17.0 L477.8,15.8 L479.2,16.2 L486.4,15.0 L485.6,13.8 L487.6,12.6 L494.9,13.2 L497.1,14.5 L500.9,14.5 L506.2,15.2 L509.2,17.6 L501.2,22.0 L503.5,22.1 L507.9,21.0 L508.1,19.2 L512.5,21.4 L515.3,20.9 L520.6,21.2 L524.8,22.5 L529.8,22.6 L528.7,21.2 L530.0,20.7 L532.6,21.5 L536.8,21.4 L540.1,22.4 L541.2,24.4 L538.7,23.6 L545.5,26.7 L547.7,27.2 L547.7,24.8 L550.5,25.7 L554.0,25.3 L561.2,25.7 L558.1,23.5 L560.9,22.9 L573.5,23.9 L577.2,24.7 L575.9,25.2 L581.0,25.9 L583.2,26.9 L589.1,26.4 L595.3,27.0 L598.3,29.0 L602.8,29.7 L606.0,29.2 L611.7,29.8 L612.7,28.7 L614.8,30.4 L618.1,31.3 L619.7,30.7 L616.5,28.5 L628.2,29.4 L628.8,25.5 L629.0,29.6 L635.5,30.9 L644.8,39.2 L643.4,40.0 L638.8,39.6 L643.0,41.0 L649.1,44.1 L648.6,44.9 L644.2,44.6 L640.2,46.6 L637.0,48.9 L632.5,48.6 L629.8,50.2 L629.2,48.8 L627.6,49.7 L627.9,52.3 L626.6,54.1 L628.2,54.7 L628.7,56.7 L630.7,57.9 L628.5,58.0 L630.4,60.7 L627.4,62.1 L627.8,64.1 L626.5,64.8 L626.5,67.7 L623.4,71.7 L624.0,69.5 L625.3,68.9 L617.3,59.8 L616.1,56.7 L617.1,54.5 L619.1,53.2 L621.2,49.0 L623.3,47.0 L622.0,44.2 L619.8,44.5 L620.6,46.1 L617.6,48.6 L615.6,45.7 L610.6,46.1 L608.4,49.1 L608.2,50.9 L604.2,52.3 L602.5,51.0 L599.5,50.4 L598.8,51.5 L589.5,51.1 L587.4,51.5 L585.5,54.4 L583.2,56.2 L582.3,58.0 L579.4,60.6 L582.9,61.3 L586.1,63.4 L586.8,61.8 L588.8,61.9 L593.3,64.3 L594.5,69.8 L596.2,74.2 L595.1,75.6 L594.4,78.9 L591.8,82.8 L591.4,84.1 L587.8,86.4 L584.6,85.0 L583.3,87.2 L583.1,87.0 Z M361.2,61.6 L362.4,61.1 L361.0,61.6 L360.9,61.5 L361.5,60.5 L363.3,59.8 L363.4,59.8 L362.6,60.5 L363.9,59.9 L366.9,60.6 L366.9,61.8 L366.8,61.8 Z M470.8,7.5 L476.2,7.6 L478.2,8.3 L479.8,9.9 L476.7,10.2 L472.0,9.7 L467.8,8.6 L469.2,7.7 L468.3,7.9 L466.9,8.4 L463.8,7.6 L468.1,7.8 L463.7,6.9 L462.2,5.3 L464.4,5.8 L468.1,4.9 L472.8,6.2 L472.7,7.2 Z M612.3,82.7 L620.4,77.6 L617.6,80.2 L615.4,81.0 L613.6,82.7 Z M414.2,6.5 L416.2,4.3 L417.0,5.5 L423.0,5.7 L417.1,6.8 Z M412.8,20.9 L416.4,19.3 L415.1,18.9 L416.8,17.4 L419.7,16.1 L427.2,15.4 L431.0,14.1 L434.7,14.9 L432.4,15.9 L424.9,17.3 L421.2,19.4 L419.5,19.1 L419.5,21.1 L417.9,22.0 L417.0,23.9 L419.1,26.1 L421.6,27.6 L418.1,27.6 L414.6,26.9 L411.1,25.5 L411.8,22.7 L414.1,21.9 Z M599.2,73.3 L597.2,68.5 L595.5,67.3 L593.7,63.8 L595.2,63.1 L596.8,64.3 L598.1,67.0 L602.9,72.0 L601.2,72.3 L601.3,75.1 L604.5,78.3 L601.3,78.1 L600.6,75.3 Z M2.8,39.2 L12.0,30.9 L15.3,33.6 L17.0,34.2 L15.3,36.6 L17.6,35.2 L21.7,35.2 L23.1,37.2 L20.8,38.0 L17.7,38.2 L15.9,39.6 L13.0,40.8 L10.0,39.3 L9.4,38.0 L6.4,38.2 L6.8,37.1 Z M559.3,18.3 L556.1,18.2 L552.7,18.9 L549.9,18.5 L549.4,20.6 L547.5,20.0 L547.9,17.5 L545.5,17.3 L548.2,15.6 L552.6,16.7 L552.2,15.7 L560.5,17.1 Z M398.1,7.5 L395.2,7.0 L397.0,6.3 L392.4,6.3 L399.9,5.7 L402.5,6.2 Z M562.4,17.0 L562.1,17.0 L562.4,14.7 L562.4,17.0 L562.4,17.0 Z M562.4,17.0 L563.9,17.5 L570.1,18.0 L568.8,18.7 L562.4,17.7 L562.4,17.0 L562.4,17.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Russia</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Rus.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>RUS</iso-a3>
+    <iso-a2>RU</iso-a2>
+    <woe-id>23424936</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.85</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ru</hc-key>
+    <hc-a2>RU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT" d="M195.8,153.5 L195.5,155.0 L194.6,154.7 L194.2,153.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Trinidad and Tobago</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Tr.T.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>TTO</iso-a3>
+    <iso-a2>TT</iso-a2>
+    <woe-id>23424958</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>tt</hc-key>
+    <hc-a2>TT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BR" d="M216.4,177.9 L217.6,176.6 L221.7,177.0 L220.8,179.5 L217.1,180.1 Z M214.9,247.2 L215.6,245.6 L215.5,245.3 L210.1,241.5 L209.3,242.0 L207.4,239.9 L205.8,240.1 L209.1,236.0 L212.9,233.7 L212.4,230.5 L211.0,230.3 L211.0,230.2 L210.9,230.0 L211.6,228.5 L211.4,227.2 L209.0,226.9 L208.3,224.2 L206.6,223.0 L203.3,223.0 L203.5,220.6 L202.7,218.9 L203.6,214.8 L201.8,212.8 L201.5,210.9 L197.9,210.7 L197.0,205.5 L194.1,205.0 L191.4,203.1 L188.6,202.7 L186.4,199.9 L186.1,196.8 L183.6,197.3 L180.3,199.6 L177.6,199.5 L175.3,199.6 L175.4,196.3 L174.1,197.4 L172.0,197.5 L167.9,192.3 L169.7,189.9 L170.1,187.2 L174.6,185.2 L176.3,185.3 L177.3,179.4 L176.0,176.7 L176.5,172.8 L180.0,172.8 L181.8,172.0 L182.7,173.8 L185.5,175.0 L188.5,173.1 L190.2,171.3 L188.7,171.2 L188.4,168.8 L187.5,168.0 L194.0,167.4 L195.8,165.4 L197.4,165.7 L198.3,168.1 L197.3,170.7 L197.8,172.5 L199.7,173.9 L203.4,172.1 L204.7,172.3 L205.8,171.1 L208.6,171.5 L212.1,171.8 L214.8,167.9 L216.1,168.2 L216.9,171.9 L218.5,172.9 L218.7,176.4 L216.0,176.7 L215.3,177.6 L216.9,180.2 L220.0,180.5 L222.6,177.7 L226.4,178.3 L228.2,180.1 L229.9,180.4 L230.0,182.7 L231.7,181.2 L236.0,182.5 L239.5,182.4 L242.7,184.2 L245.4,186.8 L248.8,187.2 L250.5,191.5 L249.5,195.8 L246.2,199.1 L243.4,203.7 L242.5,203.0 L241.9,207.4 L242.5,209.8 L242.0,213.7 L241.1,214.8 L241.0,217.3 L238.4,221.8 L238.7,222.7 L236.5,224.8 L231.8,224.8 L226.6,227.6 L223.4,231.3 L224.1,234.6 L223.6,236.5 L221.6,238.5 L220.8,240.7 L218.9,240.1 L218.6,242.0 L217.2,243.4 L216.7,246.2 L215.3,247.6 L215.0,247.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Brazil</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Brazil</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>BRA</iso-a3>
+    <iso-a2>BR</iso-a2>
+    <woe-id>23424768</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BS" d="M165.7,122.9 L163.0,124.3 L162.8,126.2 L161.8,124.4 L163.9,123.5 L164.4,121.7 Z M168.3,127.7 L172.7,129.4 L168.5,128.2 L168.3,127.7 L168.3,127.7 Z M168.1,127.0 L168.3,127.7 L168.3,127.7 L168.3,127.7 L168.1,127.6 L168.1,127.0 Z M168.1,127.0 L167.5,125.5 L167.9,125.5 L167.9,125.5 L167.9,125.5 L168.1,127.0 Z M167.9,125.5 L167.9,125.5 L169.5,125.6 L167.9,125.5 L167.9,125.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>The Bahamas</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Bhs.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>BHS</iso-a3>
+    <iso-a2>BS</iso-a2>
+    <woe-id>23424758</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.16</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
+    <hc-key>bs</hc-key>
+    <hc-a2>BS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PW" d="M600.4,170.0 L600.3,170.0 L600.4,170.0 L600.4,170.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Palau</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Palau</country-abbrev>
+    <subregion>Micronesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>PLW</iso-a3>
+    <iso-a2>PW</iso-a2>
+    <woe-id>23424927</woe-id>
+    <continent>Oceania</continent>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>pw</hc-key>
+    <hc-a2>PW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CL" d="M177.6,265.8 L177.9,267.9 L176.0,268.5 L176.7,267.2 L176.6,264.9 Z M177.3,277.3 L178.0,277.2 L179.9,281.7 L178.5,283.5 L178.7,280.3 L176.7,277.8 Z M192.7,287.4 L194.0,292.0 L193.8,291.9 L194.0,292.0 L194.0,292.2 L190.6,292.4 L187.6,291.0 L189.2,290.5 L189.5,288.2 L191.1,287.0 Z M176.9,215.1 L177.7,214.9 L178.6,213.3 L179.9,216.4 L181.1,217.4 L180.6,219.5 L182.0,221.3 L182.9,224.5 L184.4,224.5 L184.3,227.0 L181.9,228.7 L183.0,233.1 L182.0,233.6 L180.6,236.3 L179.6,243.0 L181.2,245.7 L182.0,248.6 L181.2,250.6 L181.5,252.5 L180.4,253.4 L180.5,255.9 L181.6,258.0 L180.6,258.5 L180.2,262.3 L181.3,265.2 L180.9,267.1 L182.2,269.1 L181.9,270.8 L183.6,272.0 L183.4,276.0 L182.5,277.5 L182.9,279.3 L181.5,280.4 L182.9,283.4 L184.5,283.2 L184.7,285.1 L186.0,286.1 L189.8,286.1 L192.9,286.8 L191.5,286.5 L188.8,287.6 L188.8,289.9 L186.0,289.2 L185.6,290.6 L182.9,288.3 L184.3,288.4 L181.3,286.2 L182.0,284.4 L180.4,284.3 L180.4,280.8 L179.7,280.6 L178.1,277.1 L178.9,275.5 L175.7,274.8 L176.9,273.6 L177.8,271.0 L176.5,270.6 L178.5,269.4 L178.8,272.7 L179.8,272.0 L179.0,270.6 L179.8,265.1 L178.6,263.9 L177.1,264.5 L176.4,262.8 L177.1,259.7 L175.6,256.0 L176.8,251.4 L177.5,250.5 L178.2,244.7 L177.0,241.0 L177.7,239.5 L176.9,237.4 L177.8,234.7 L178.2,229.9 L177.4,225.1 L178.1,221.6 Z M196.8,292.3 L198.3,293.0 L194.2,292.7 L197.4,294.1 L196.2,294.3 L193.9,292.8 L191.7,292.5 L196.3,292.3 L196.6,292.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Chile</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Chile</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>CHL</iso-a3>
+    <iso-a2>CL</iso-a2>
+    <woe-id>23424782</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.92</hc-middle-y>
+    <hc-key>cl</hc-key>
+    <hc-a2>CL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GD" d="M194.4,151.0 L194.1,151.0 L194.2,150.7 L194.4,150.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Grenada</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Gren.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>GRD</iso-a3>
+    <iso-a2>GD</iso-a2>
+    <woe-id>23424826</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>gd</hc-key>
+    <hc-a2>GD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AG" d="M194.7,140.3 L194.8,140.5 L194.5,140.5 L194.4,140.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Antigua and Barbuda</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Ant.B.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>ATG</iso-a3>
+    <iso-a2>AG</iso-a2>
+    <woe-id>23424737</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>ag</hc-key>
+    <hc-a2>AG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TW" d="M571.7,126.7 L572.8,126.3 L574.1,123.6 L575.8,123.4 L575.5,127.6 L574.8,130.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Taiwan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Taiwan</country-abbrev>
+    <subregion>Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>TWN</iso-a3>
+    <iso-a2>TW</iso-a2>
+    <woe-id>23424971</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>tw</hc-key>
+    <hc-a2>TW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FJ" d="M696.5,211.8 L700.0,210.8 L696.2,213.2 L697.3,213.8 L695.6,215.2 L694.0,214.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Fiji</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Fiji</country-abbrev>
+    <subregion>Melanesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>FJI</iso-a3>
+    <iso-a2>FJ</iso-a2>
+    <woe-id>23424813</woe-id>
+    <continent>Oceania</continent>
+    <hc-middle-x>0.19</hc-middle-x>
+    <hc-middle-y>0.89</hc-middle-y>
+    <hc-key>fj</hc-key>
+    <hc-a2>FJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB" d="M198.9,148.9 L198.7,148.7 L198.7,148.3 L199.1,148.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Barbados</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Barb.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>BRB</iso-a3>
+    <iso-a2>BB</iso-a2>
+    <woe-id>23424754</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.26</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>bb</hc-key>
+    <hc-a2>BB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IT" d="M351.4,98.0 L348.8,96.7 L349.4,95.9 L351.5,96.3 L355.2,95.7 L354.2,99.1 Z M340.4,90.2 L342.8,89.7 L343.4,90.9 L343.0,93.8 L340.6,94.2 Z M338.6,84.0 L336.8,81.3 L337.6,79.5 L339.6,78.8 L343.3,78.6 L344.2,77.6 L347.6,77.1 L348.1,77.9 L350.6,78.3 L350.0,78.8 L350.7,80.2 L347.7,80.8 L348.2,83.1 L350.7,84.6 L351.7,86.6 L355.7,89.0 L359.7,90.7 L360.8,91.7 L357.8,90.9 L356.8,92.7 L358.1,93.3 L356.1,96.4 L356.3,94.6 L355.0,91.9 L351.1,89.4 L349.8,89.4 L344.7,85.4 L343.7,83.6 L341.1,82.7 Z M348.5,88.0 L348.5,88.0 L348.5,88.0 L348.5,88.0 Z M348.4,83.8 L348.4,83.6 L348.3,83.7 L348.2,83.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Italy</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Italy</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>ITA</iso-a3>
+    <iso-a2>IT</iso-a2>
+    <woe-id>23424853</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>it</hc-key>
+    <hc-a2>IT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MT" d="M352.6,100.4 L353.1,100.6 L353.2,100.9 L352.9,100.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Malta</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Malta</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>MLT</iso-a3>
+    <iso-a2>MT</iso-a2>
+    <woe-id>23424897</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>mt</hc-key>
+    <hc-a2>MT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SG" d="M542.8,173.4 L543.1,173.5 L542.8,173.7 L542.4,173.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Singapore</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Sing.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>SGP</iso-a3>
+    <iso-a2>SG</iso-a2>
+    <woe-id>23424948</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>sg</hc-key>
+    <hc-a2>SG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CY" d="M392.2,102.6 L392.1,102.6 L392.1,102.6 L392.2,102.6 Z M392.7,102.5 L392.9,102.7 L392.5,102.7 L392.3,102.5 L392.5,102.5 L392.7,102.5 Z M392.2,102.6 L392.2,102.6 L392.3,102.6 L392.2,102.6 Z M392.1,102.6 L391.9,103.0 L390.7,103.4 L390.4,103.2 L390.2,103.3 L389.2,102.5 L389.8,102.2 L389.9,102.3 L389.9,102.2 L390.0,102.2 L390.0,102.2 L390.1,102.2 L390.1,102.2 L390.1,102.2 L390.1,102.2 L391.5,102.2 L392.1,102.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cyprus</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Cyp.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>CYP</iso-a3>
+    <iso-a2>CY</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>cy</hc-key>
+    <hc-a2>CY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KM" d="M415.1,201.6 L414.6,201.2 L414.7,200.4 L415.0,200.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Comoros</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Com.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>COM</iso-a3>
+    <iso-a2>KM</iso-a2>
+    <woe-id>23424786</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>km</hc-key>
+    <hc-a2>KM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UG" d="M395.5,175.9 L391.1,176.7 L390.8,178.5 L388.8,178.5 L388.1,178.7 L386.9,179.5 L386.2,179.3 L386.1,178.3 L386.3,177.4 L386.9,176.7 L386.4,176.6 L386.9,174.7 L388.1,173.8 L390.0,172.4 L389.7,171.8 L388.5,171.2 L388.8,169.0 L394.4,168.5 L395.4,167.5 L397.4,171.2 L397.5,172.9 Z M390.9,178.5 L390.9,178.5 L390.9,178.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Uganda</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Uga.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>UGA</iso-a3>
+    <iso-a2>UG</iso-a2>
+    <woe-id>23424974</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.71</hc-middle-y>
+    <hc-key>ug</hc-key>
+    <hc-a2>UG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VA" d="M348.5,88.0 L348.5,88.0 L348.5,88.0 L348.5,88.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Vatican</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Vat.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>VAT</iso-a3>
+    <iso-a2>VA</iso-a2>
+    <woe-id>23424986</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>va</hc-key>
+    <hc-a2>VA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM" d="M348.4,83.8 L348.2,83.8 L348.3,83.7 L348.4,83.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>San Marino</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>S.M.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>SMR</iso-a3>
+    <iso-a2>SM</iso-a2>
+    <woe-id>23424947</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AZ" d="M413.5,89.8 L413.4,89.9 L413.4,89.8 L413.5,89.8 Z M413.9,90.0 L413.9,90.0 L413.8,89.9 Z M414.6,90.7 L414.6,90.6 L414.7,90.7 L414.6,90.8 Z M413.5,92.8 L413.4,92.7 L415.4,93.0 L416.3,94.4 L414.9,94.1 Z M416.1,88.0 L418.9,89.5 L420.4,88.1 L422.7,90.7 L421.9,95.3 L420.1,94.5 L419.7,92.7 L417.1,94.4 L415.0,92.0 L415.7,91.6 L413.4,89.3 L416.5,89.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Azerbaijan</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Aze.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>AZE</iso-a3>
+    <iso-a2>AZ</iso-a2>
+    <woe-id>23424741</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.77</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>az</hc-key>
+    <hc-a2>AZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SD" d="M373.8,135.3 L373.7,134.2 L375.8,134.2 L375.7,130.0 L388.7,130.0 L400.4,130.0 L401.4,132.5 L402.1,136.9 L404.4,138.4 L401.1,140.4 L400.1,144.5 L400.3,146.3 L399.6,149.6 L398.7,149.7 L397.0,153.8 L396.4,153.4 L395.4,156.5 L393.5,153.5 L393.5,150.6 L391.2,151.1 L391.9,153.1 L389.5,155.8 L386.9,154.7 L384.5,156.7 L382.5,156.2 L379.6,156.3 L378.1,154.4 L376.5,154.7 L375.5,157.7 L374.6,158.1 L373.2,157.9 L373.5,155.6 L371.8,153.4 L370.4,149.5 L370.1,147.3 L371.0,146.6 L372.1,143.3 L374.0,143.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Sudan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Sudan</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SDN</iso-a3>
+    <iso-a2>SD</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LY" d="M375.7,130.0 L375.8,134.2 L373.7,134.2 L373.8,135.3 L356.9,127.0 L354.9,127.9 L353.3,128.7 L351.7,127.5 L348.6,126.8 L347.7,125.2 L344.5,124.0 L343.2,121.3 L344.1,120.5 L344.0,115.0 L343.3,112.6 L344.8,111.2 L344.4,110.1 L347.1,108.1 L347.2,106.4 L354.7,108.1 L356.6,110.4 L359.3,110.8 L362.8,112.6 L364.2,112.0 L364.4,109.4 L365.7,107.7 L367.8,106.9 L370.9,107.6 L370.8,108.2 L374.8,109.0 L375.1,109.6 L374.4,112.7 L375.1,114.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Libya</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Libya</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>LBY</iso-a3>
+    <iso-a2>LY</iso-a2>
+    <woe-id>23424882</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ly</hc-key>
+    <hc-a2>LY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TJ" d="M464.6,90.0 L464.6,90.1 L464.4,89.9 L464.5,89.9 Z M465.0,92.3 L465.2,92.4 L465.0,92.5 L464.8,92.3 Z M471.2,93.2 L472.0,95.0 L473.9,95.2 L474.7,97.9 L471.4,97.4 L468.3,99.0 L467.8,96.5 L465.6,95.5 L465.0,97.2 L463.3,98.1 L460.4,98.0 L461.1,95.7 L460.3,94.2 L458.7,93.7 L460.8,93.0 L462.2,90.3 L464.2,89.9 L465.6,91.5 L463.6,91.6 L462.5,93.1 L466.8,92.9 L468.6,93.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Tajikistan</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Tjk.</country-abbrev>
+    <subregion>Central Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>TJK</iso-a3>
+    <iso-a2>TJ</iso-a2>
+    <woe-id>23424961</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>tj</hc-key>
+    <hc-a2>TJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LS" d="M379.7,238.7 L382.6,236.7 L384.2,238.3 L381.2,241.1 L379.8,240.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Lesotho</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Les.</country-abbrev>
+    <subregion>Southern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>LSO</iso-a3>
+    <iso-a2>LS</iso-a2>
+    <woe-id>23424880</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ls</hc-key>
+    <hc-a2>LS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UZ" d="M467.3,92.2 L467.2,92.2 L467.1,92.2 L467.3,92.1 Z M466.1,91.9 L466.2,92.3 L465.8,92.3 L465.6,91.8 Z M440.7,81.2 L442.0,83.1 L442.0,81.8 L446.5,84.7 L452.1,84.2 L454.2,86.0 L456.6,89.5 L459.1,89.5 L460.7,90.8 L461.2,89.1 L464.7,87.3 L463.4,88.7 L466.1,89.7 L466.6,89.0 L469.6,90.4 L467.0,91.7 L465.6,91.5 L464.2,89.9 L462.2,90.3 L460.8,93.0 L458.7,93.7 L460.3,94.2 L461.1,95.7 L460.4,98.0 L459.3,98.0 L457.8,97.6 L457.6,96.2 L455.6,95.8 L448.6,92.0 L447.3,89.9 L443.4,89.1 L442.6,87.2 L439.9,86.1 L438.3,87.5 L437.7,87.1 L437.2,88.0 L437.3,89.4 L435.3,89.2 L433.9,81.5 L438.9,80.3 L438.7,82.7 L439.2,80.5 Z M464.6,90.0 L464.5,89.9 L464.4,89.9 L464.6,90.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Uzbekistan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Uzb.</country-abbrev>
+    <subregion>Central Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>UZB</iso-a3>
+    <iso-a2>UZ</iso-a2>
+    <woe-id>23424980</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>uz</hc-key>
+    <hc-a2>UZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IN" d="M515.0,123.8 L510.6,123.4 L509.2,121.7 L506.2,120.6 L505.6,121.8 L507.6,123.3 L505.9,124.4 L507.5,125.2 L507.3,126.5 L508.8,130.1 L508.8,130.1 L508.8,130.1 L505.0,130.9 L503.7,134.3 L501.8,134.4 L499.3,137.9 L495.8,140.5 L495.9,141.4 L491.8,143.3 L491.5,144.7 L492.3,148.2 L491.5,151.0 L491.7,154.7 L490.7,154.6 L489.9,156.8 L488.4,157.5 L486.9,159.4 L484.8,157.6 L483.1,153.0 L480.8,149.3 L479.6,145.7 L477.5,142.5 L475.1,134.5 L475.5,133.1 L474.0,129.3 L473.7,131.7 L471.5,132.7 L467.5,130.0 L469.4,128.8 L466.2,127.6 L465.0,126.1 L466.3,125.3 L468.7,125.4 L470.8,124.3 L468.5,120.4 L467.0,119.9 L468.7,117.3 L471.6,117.4 L474.1,113.3 L476.2,110.8 L475.9,109.5 L477.4,108.6 L474.4,106.4 L473.5,103.9 L474.5,103.1 L477.5,103.6 L479.9,102.3 L481.2,101.5 L483.9,103.9 L484.0,105.8 L485.7,107.3 L483.5,107.8 L484.7,110.3 L489.7,112.7 L488.1,115.6 L494.2,118.4 L498.0,118.8 L500.8,120.4 L503.9,120.8 L505.6,120.0 L505.1,117.6 L506.5,117.4 L506.9,118.8 L509.0,120.1 L513.6,119.6 L512.3,117.9 L514.3,117.5 L517.9,114.6 L521.0,114.5 L523.9,116.9 L522.9,118.7 L519.8,120.6 L520.0,122.1 L518.7,126.1 L517.0,125.8 L517.2,129.2 L516.1,130.0 L514.7,126.3 L513.8,128.0 L512.7,126.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>India</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>India</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>IND</iso-a3>
+    <iso-a2>IN</iso-a2>
+    <woe-id>23424848</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>in</hc-key>
+    <hc-a2>IN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PT" d="M308.8,98.0 L305.6,98.3 L306.1,95.4 L304.7,94.8 L306.5,90.3 L306.4,87.9 L310.7,87.9 L311.4,88.7 L309.9,89.9 L309.8,94.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Portugal</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Port.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>PRT</iso-a3>
+    <iso-a2>PT</iso-a2>
+    <woe-id>23424925</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>pt</hc-key>
+    <hc-a2>PT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MX" d="M116.1,113.9 L116.1,114.2 L116.5,114.3 L117.6,116.8 L118.8,119.3 L119.2,119.9 L119.3,120.4 L121.1,121.4 L123.2,121.6 L121.7,124.7 L120.7,128.9 L121.6,132.9 L123.9,136.9 L126.6,138.1 L132.1,137.1 L134.2,136.0 L135.9,132.0 L140.6,130.8 L143.5,131.7 L142.2,133.2 L140.4,137.9 L139.5,137.4 L138.2,138.7 L137.6,138.8 L133.8,138.8 L132.7,140.0 L134.7,141.9 L131.8,142.5 L130.5,145.7 L127.3,142.5 L125.4,141.8 L121.7,143.4 L112.6,140.0 L111.2,138.7 L107.8,137.7 L104.9,135.6 L103.7,133.4 L104.8,132.9 L102.4,131.2 L104.3,130.1 L104.2,128.7 L99.9,123.1 L97.8,122.0 L98.1,120.1 L96.1,118.7 L93.5,115.2 L92.4,111.4 L92.7,110.7 L89.9,109.4 L88.9,112.7 L90.6,114.6 L93.9,122.0 L96.4,125.5 L96.9,127.4 L95.8,128.2 L95.2,126.8 L92.5,125.2 L92.1,121.5 L88.0,119.0 L86.6,117.1 L88.9,118.2 L89.4,116.4 L86.6,113.6 L86.4,111.4 L85.1,107.8 L90.1,107.4 L89.8,107.9 L96.8,110.3 L102.7,110.3 L102.9,109.4 L106.3,109.4 L109.1,112.0 L109.5,113.8 L112.0,115.3 L114.1,113.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mexico</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Mex.</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>MEX</iso-a3>
+    <iso-a2>MX</iso-a2>
+    <woe-id>23424900</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mx</hc-key>
+    <hc-a2>MX</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA" d="M317.8,102.0 L317.9,102.0 L318.0,102.3 L319.3,102.4 L320.2,103.1 L320.4,106.3 L321.2,108.7 L318.7,108.6 L316.3,109.7 L316.3,111.6 L312.0,113.9 L308.1,114.4 L305.9,115.9 L305.9,118.1 L305.7,119.2 L303.7,119.7 L300.3,119.7 L299.3,121.6 L299.3,121.6 L299.3,121.6 L299.3,121.6 L299.0,122.3 L299.0,122.3 L299.0,122.3 L299.0,122.3 L298.1,124.0 L294.7,127.0 L294.3,129.3 L292.9,131.2 L288.4,131.2 L291.4,125.7 L293.0,124.3 L293.9,121.3 L295.7,120.1 L297.1,117.5 L300.2,116.7 L302.1,115.3 L304.1,112.4 L303.7,110.2 L304.9,107.7 L306.4,106.2 L309.5,105.0 L311.8,100.9 L312.9,100.6 L312.9,100.7 L313.0,100.8 L314.9,102.3 L317.8,101.9 L317.8,101.9 L317.8,101.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Morocco</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mor.</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>MAR</iso-a3>
+    <iso-a2>MA</iso-a2>
+    <woe-id>23424893</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.30</hc-middle-y>
+    <hc-key>ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TZ" d="M397.2,200.8 L397.2,200.7 L397.1,200.5 L397.1,200.4 L396.8,200.3 L396.8,200.2 L396.8,200.2 L396.7,200.1 L396.3,197.4 L395.9,196.9 L395.7,196.7 L395.7,196.7 L395.5,196.5 L395.5,196.5 L395.5,196.5 L395.2,196.5 L395.1,196.9 L394.0,196.7 L393.0,196.2 L391.1,195.5 L389.4,194.5 L388.2,191.1 L386.4,189.2 L386.3,185.8 L388.8,183.3 L388.2,181.5 L388.8,179.8 L388.1,178.7 L388.8,178.5 L390.8,178.5 L390.8,178.6 L390.9,178.5 L390.9,178.5 L390.9,180.9 L392.4,181.8 L395.1,181.1 L394.5,179.9 L395.7,178.6 L403.2,182.8 L403.4,184.1 L406.4,186.3 L407.8,187.5 L406.6,188.5 L407.1,189.9 L406.6,194.8 L408.8,198.5 L402.5,201.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United Republic of Tanzania</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Tanz.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>TZA</iso-a3>
+    <iso-a2>TZ</iso-a2>
+    <woe-id>23424973</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>tz</hc-key>
+    <hc-a2>TZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AR" d="M194.0,292.0 L194.2,292.2 L194.0,292.2 Z M194.0,292.0 L192.7,287.4 L195.5,290.1 L201.6,292.2 L198.1,292.5 L196.8,292.3 L196.3,292.3 Z M184.4,224.5 L186.1,222.4 L189.6,223.2 L190.3,224.6 L191.0,222.8 L193.7,223.3 L197.4,226.6 L199.5,227.0 L204.9,230.1 L203.1,234.0 L209.0,234.3 L210.8,232.6 L211.0,230.3 L212.4,230.5 L212.9,233.7 L209.1,236.0 L205.8,240.1 L205.0,243.7 L205.2,244.8 L204.9,248.7 L208.2,251.2 L207.7,252.0 L209.5,254.2 L208.0,256.9 L205.3,258.0 L199.3,258.5 L199.9,261.8 L198.1,263.2 L194.3,262.3 L194.4,264.9 L195.6,265.9 L197.1,265.2 L197.6,266.6 L194.6,268.5 L195.2,270.0 L191.6,272.6 L191.2,273.8 L193.3,275.6 L194.9,275.7 L195.4,277.7 L192.8,279.8 L192.6,281.9 L190.9,282.6 L190.7,283.9 L192.9,286.8 L189.8,286.1 L186.0,286.1 L184.7,285.1 L184.5,283.2 L182.9,283.4 L181.5,280.4 L182.9,279.3 L182.5,277.5 L183.4,276.0 L183.6,272.0 L181.9,270.8 L182.2,269.1 L180.9,267.1 L181.3,265.2 L180.2,262.3 L180.6,258.5 L181.6,258.0 L180.5,255.9 L180.4,253.4 L181.5,252.5 L181.2,250.6 L182.0,248.6 L181.2,245.7 L179.6,243.0 L180.6,236.3 L182.0,233.6 L183.0,233.1 L181.9,228.7 L184.3,227.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Argentina</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Arg.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>ARG</iso-a3>
+    <iso-a2>AR</iso-a2>
+    <woe-id>23424747</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SA" d="M423.3,116.2 L424.4,118.2 L427.2,120.2 L427.3,122.1 L428.9,124.2 L429.3,124.6 L429.7,124.5 L429.9,124.5 L430.0,124.6 L430.1,124.5 L430.1,124.5 L430.1,124.5 L429.9,125.1 L430.5,125.2 L432.8,128.0 L438.3,128.5 L439.4,130.0 L438.3,134.2 L432.2,136.3 L426.3,137.1 L424.3,138.1 L422.9,140.4 L418.1,139.6 L414.0,139.9 L413.3,141.9 L412.2,139.6 L409.8,137.0 L409.1,135.3 L406.3,133.2 L405.0,131.4 L404.9,128.8 L403.4,126.2 L401.5,125.2 L400.8,123.3 L395.9,117.1 L394.9,117.1 L395.5,114.5 L397.8,114.8 L401.5,112.1 L399.3,110.0 L403.6,108.7 L406.3,109.1 L409.8,110.8 L415.5,114.8 L419.3,115.0 L421.2,115.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Saudi Arabia</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Saud.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>SAU</iso-a3>
+    <iso-a2>SA</iso-a2>
+    <woe-id>23424938</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL" d="M192.2,138.4 L192.0,138.4 L192.0,138.3 Z M330.2,68.0 L331.0,68.1 L331.9,68.1 L331.1,68.4 Z M332.0,68.1 L331.2,67.5 L334.6,63.6 L337.5,64.1 L337.2,66.2 L336.0,67.1 L335.3,69.4 L333.4,67.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Netherlands</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Neth.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>NLD</iso-a3>
+    <iso-a2>NL</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.98</hc-middle-x>
+    <hc-middle-y>0.03</hc-middle-y>
+    <hc-key>nl</hc-key>
+    <hc-a2>NL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="YE" d="M432.2,136.3 L434.0,139.9 L434.8,141.3 L433.1,143.5 L427.7,145.3 L425.9,146.8 L424.4,146.8 L421.7,148.1 L419.9,148.2 L416.0,149.8 L414.5,148.5 L413.2,143.6 L413.3,141.9 L414.0,139.9 L418.1,139.6 L422.9,140.4 L424.3,138.1 L426.3,137.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Yemen</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Yem.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>YEM</iso-a3>
+    <iso-a2>YE</iso-a2>
+    <woe-id>23425002</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>ye</hc-key>
+    <hc-a2>YE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AE" d="M440.0,122.4 L440.2,122.6 L440.4,123.7 L439.2,123.9 L438.3,128.5 L432.8,128.0 L430.5,125.2 L435.8,125.5 L439.5,121.4 L439.7,122.3 Z M440.1,123.2 L440.2,123.1 L440.1,123.0 L440.0,123.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United Arab Emirates</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>U.A.E.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>ARE</iso-a3>
+    <iso-a2>AE</iso-a2>
+    <woe-id>23424738</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.85</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ae</hc-key>
+    <hc-a2>AE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KE" d="M406.4,186.3 L403.4,184.1 L403.2,182.8 L395.7,178.6 L396.0,176.9 L395.5,175.9 L397.5,172.9 L397.4,171.2 L395.4,167.5 L398.4,165.8 L399.5,166.7 L401.4,167.1 L404.1,168.8 L407.1,169.2 L409.7,167.4 L412.1,168.0 L410.2,170.5 L410.2,178.2 L411.4,180.0 L408.5,182.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Kenya</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Ken.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>KEN</iso-a3>
+    <iso-a2>KE</iso-a2>
+    <woe-id>23424863</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ke</hc-key>
+    <hc-a2>KE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS" d="M399.5,166.7 L398.4,165.8 L395.4,167.5 L394.4,168.5 L388.8,169.0 L386.6,166.8 L383.6,167.4 L381.6,165.7 L379.5,163.6 L379.3,162.4 L377.2,160.9 L374.6,158.1 L375.5,157.7 L376.5,154.7 L378.1,154.4 L379.6,156.3 L382.5,156.2 L384.5,156.7 L386.9,154.7 L389.5,155.8 L391.9,153.1 L391.2,151.1 L393.5,150.6 L393.5,153.5 L395.4,156.5 L395.2,158.6 L393.7,158.6 L393.4,160.0 L394.8,160.3 L396.9,162.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>South Sudan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>S. Sud.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SSD</iso-a3>
+    <iso-a2>SS</iso-a2>
+    <woe-id>-99</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TR" d="M375.7,90.5 L376.8,89.1 L376.2,88.4 L377.5,87.6 L379.5,87.9 L381.8,89.4 Z M413.5,92.8 L411.9,93.4 L412.7,96.3 L414.0,98.1 L409.8,97.6 L409.2,98.1 L408.8,97.7 L404.0,98.9 L397.7,98.7 L396.4,100.6 L396.3,98.5 L393.5,98.9 L390.1,100.4 L385.7,98.6 L383.7,100.2 L382.5,99.1 L379.7,98.9 L378.6,96.3 L376.5,95.7 L378.1,94.4 L376.6,93.5 L376.5,93.5 L376.1,93.2 L377.2,91.2 L382.0,91.1 L382.0,89.4 L386.0,89.7 L390.0,87.8 L395.3,88.4 L398.6,89.8 L403.8,90.1 L406.4,88.8 L409.0,88.7 L410.4,89.7 L411.1,91.8 L413.4,92.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Turkey</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Tur.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>TUR</iso-a3>
+    <iso-a2>TR</iso-a2>
+    <woe-id>23424969</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tr</hc-key>
+    <hc-a2>TR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PG" d="M620.4,195.6 L620.8,189.8 L621.1,181.9 L628.5,184.5 L631.1,186.7 L630.9,188.0 L633.4,188.7 L633.9,187.4 L635.2,190.5 L633.3,190.6 L633.7,192.1 L635.6,193.4 L636.5,195.6 L637.7,196.4 L640.9,196.2 L641.7,197.9 L641.0,198.7 L634.9,197.8 L633.1,196.4 L631.3,193.5 L626.5,192.4 L625.5,195.3 L623.9,196.1 Z M640.0,181.6 L639.4,179.7 L640.3,181.5 L643.6,182.9 L646.6,185.4 L646.0,186.6 L644.9,183.9 Z M640.8,189.6 L639.0,189.7 L635.8,188.3 L642.0,187.8 L643.5,186.7 L643.2,185.2 L645.1,185.5 L644.4,187.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Papua New Guinea</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>P.N.G.</country-abbrev>
+    <subregion>Melanesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>PNG</iso-a3>
+    <iso-a2>PG</iso-a2>
+    <woe-id>23424926</woe-id>
+    <continent>Oceania</continent>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>pg</hc-key>
+    <hc-a2>PG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FI" d="M366.6,37.6 L365.1,33.1 L359.5,30.8 L361.2,30.3 L362.7,31.5 L367.0,31.8 L368.6,29.4 L371.7,28.6 L374.0,29.5 L373.9,30.8 L373.7,32.5 L376.3,33.6 L375.0,35.4 L376.7,37.0 L376.6,39.3 L378.7,41.4 L377.7,42.0 L380.9,43.7 L380.4,44.6 L374.8,48.7 L367.2,49.9 L363.2,48.6 L362.1,43.2 L364.1,42.8 L368.0,39.6 L368.9,38.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Finland</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Fin.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FIN</iso-a3>
+    <iso-a2>FI</iso-a2>
+    <woe-id>23424812</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>fi</hc-key>
+    <hc-a2>FI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SE" d="M359.5,30.8 L365.1,33.1 L366.6,37.6 L363.4,37.6 L361.6,40.0 L361.1,41.7 L356.1,44.6 L355.2,47.7 L358.7,50.3 L358.5,51.5 L354.9,52.8 L354.9,56.4 L355.5,55.5 L358.7,54.2 L358.2,55.9 L355.7,55.7 L354.6,57.8 L351.4,58.0 L350.5,59.6 L348.3,59.5 L347.3,57.7 L347.9,56.9 L344.6,53.3 L345.0,52.0 L346.8,49.6 L345.4,42.9 L346.6,41.5 L348.9,41.4 L348.2,40.2 L349.6,38.6 L349.5,36.9 L352.6,35.0 L352.1,34.2 L355.4,31.9 L358.5,32.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Sweden</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Swe.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>SWE</iso-a3>
+    <iso-a2>SE</iso-a2>
+    <woe-id>23424954</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>se</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MY" d="M572.3,167.6 L571.9,167.6 L572.0,167.6 L571.6,167.6 L568.0,167.1 L567.3,170.0 L565.3,173.4 L563.4,173.8 L562.1,173.1 L557.0,174.6 L555.0,172.0 L557.9,173.1 L558.5,170.5 L562.1,169.7 L564.1,166.7 L565.4,167.9 L566.1,166.1 L566.2,166.0 L566.2,166.2 L566.9,167.3 L566.5,166.1 L567.9,164.7 L569.9,161.2 L570.9,162.4 L575.1,165.4 L572.8,166.1 L573.7,167.2 L572.2,167.5 Z M534.7,162.8 L536.7,163.2 L536.9,164.5 L538.8,163.2 L541.8,166.3 L541.9,170.2 L543.7,173.5 L541.8,173.2 L537.4,170.4 L534.9,165.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Malaysia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Malay.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>MYS</iso-a3>
+    <iso-a2>MY</iso-a2>
+    <woe-id>23424901</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.92</hc-middle-x>
+    <hc-middle-y>0.22</hc-middle-y>
+    <hc-key>my</hc-key>
+    <hc-a2>MY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN" d="M535.8,129.2 L536.4,128.4 L539.6,128.9 L542.1,127.1 L544.7,128.0 L545.5,130.0 L548.3,131.1 L547.0,131.5 L544.6,134.2 L544.0,136.3 L546.6,139.6 L551.5,144.0 L553.5,149.2 L552.8,152.5 L549.3,154.5 L548.1,154.2 L547.8,156.3 L544.3,157.6 L544.1,154.9 L543.4,154.4 L546.0,153.2 L549.5,150.4 L549.0,145.4 L549.2,144.2 L546.4,140.6 L542.2,136.8 L540.3,135.7 L542.4,134.1 L540.2,132.2 L538.3,132.4 L537.8,130.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Vietnam</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Viet.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>VNM</iso-a3>
+    <iso-a2>VN</iso-a2>
+    <woe-id>23424984</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.95</hc-middle-y>
+    <hc-key>vn</hc-key>
+    <hc-a2>VN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PA" d="M150.1,156.2 L151.0,157.6 L153.2,157.8 L156.3,156.1 L158.8,156.6 L161.0,158.1 L161.3,159.7 L159.7,161.1 L158.5,158.3 L156.4,157.5 L154.4,159.4 L155.3,160.7 L153.5,161.2 L151.7,159.1 L149.3,159.5 L149.0,158.8 L149.0,158.8 L149.0,158.8 L149.0,158.8 L149.0,158.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Panama</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Pan.</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>PAN</iso-a3>
+    <iso-a2>PA</iso-a2>
+    <woe-id>23424924</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>pa</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR" d="M414.0,98.1 L412.7,96.3 L411.9,93.4 L413.5,92.8 L414.9,94.1 L416.3,94.4 L416.8,94.3 L417.1,94.4 L419.7,92.7 L420.1,94.5 L421.9,95.3 L422.4,96.8 L428.5,99.2 L432.7,98.7 L432.4,97.6 L435.2,96.1 L438.7,95.7 L442.1,96.9 L445.5,99.1 L447.3,99.3 L447.7,101.3 L447.1,106.7 L448.0,110.0 L450.2,111.3 L448.5,113.4 L451.0,116.2 L452.8,116.8 L453.9,120.2 L451.4,121.1 L451.1,123.2 L442.2,122.0 L441.3,119.8 L439.9,119.0 L436.8,120.5 L434.5,120.1 L431.8,118.1 L429.5,117.5 L426.3,112.7 L424.0,112.3 L423.2,113.2 L421.3,111.0 L420.4,108.1 L418.0,106.9 L416.0,104.7 L417.5,100.9 L415.4,100.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Iran</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Iran</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>IRN</iso-a3>
+    <iso-a2>IR</iso-a2>
+    <woe-id>23424851</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>ir</hc-key>
+    <hc-a2>IR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="HT" d="M173.7,137.4 L173.7,137.4 L173.7,137.3 L173.7,137.3 Z M173.5,137.2 L173.6,137.4 L173.7,137.4 L174.1,137.8 L173.9,138.4 L170.8,137.9 L169.5,138.4 L168.9,137.0 L172.0,137.5 L172.2,135.4 L170.8,134.7 L174.3,134.8 L174.2,136.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Haiti</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Haiti</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>HTI</iso-a3>
+    <iso-a2>HT</iso-a2>
+    <woe-id>23424839</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.23</hc-middle-x>
+    <hc-middle-y>0.87</hc-middle-y>
+    <hc-key>ht</hc-key>
+    <hc-a2>HT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DO" d="M173.7,137.3 L173.5,137.2 L174.2,136.8 L174.3,134.8 L175.9,134.4 L178.0,134.9 L178.6,136.1 L181.2,137.1 L179.9,137.6 L176.2,137.5 L174.6,139.3 L173.9,138.4 L174.1,137.8 L173.7,137.4 L173.7,137.4 L173.7,137.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Dominican Republic</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Dom. Rep.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>DOM</iso-a3>
+    <iso-a2>DO</iso-a2>
+    <woe-id>23424800</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>do</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GW" d="M292.2,153.3 L290.3,151.9 L288.7,150.4 L291.9,149.7 L295.0,149.7 L294.9,151.7 L292.9,152.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Guinea Bissau</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>GnB.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GNB</iso-a3>
+    <iso-a2>GW</iso-a2>
+    <woe-id>23424929</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>gw</hc-key>
+    <hc-a2>GW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BA" d="M360.4,86.6 L359.2,86.1 L358.8,85.9 L358.6,85.8 L358.6,85.8 L355.8,83.2 L354.8,81.2 L357.1,80.9 L361.2,81.8 L361.9,81.7 L361.7,84.6 L360.3,85.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bosnia and Herzegovina</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>B.H.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>BIH</iso-a3>
+    <iso-a2>BA</iso-a2>
+    <woe-id>23424761</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.85</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="HR" d="M358.8,85.9 L359.2,86.1 L360.4,86.6 L360.4,86.8 L360.5,86.9 L359.3,86.1 Z M358.6,85.8 L356.2,85.3 L353.6,83.6 L352.3,81.6 L350.5,80.5 L353.9,80.5 L354.4,78.9 L356.1,78.3 L357.8,79.5 L360.9,79.5 L361.2,81.2 L361.2,81.8 L357.1,80.9 L354.8,81.2 L355.8,83.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Croatia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Cro.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>HRV</iso-a3>
+    <iso-a2>HR</iso-a2>
+    <woe-id>23424843</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>hr</hc-key>
+    <hc-a2>HR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TH" d="M538.8,163.2 L536.9,164.5 L536.7,163.2 L534.7,162.8 L532.8,160.3 L530.4,158.4 L531.4,154.6 L533.0,151.5 L531.7,148.9 L531.7,147.5 L529.6,145.2 L530.6,142.4 L527.1,137.4 L528.0,134.6 L529.1,134.9 L532.2,133.5 L533.2,135.2 L534.8,135.2 L535.1,139.6 L536.9,138.0 L538.7,138.4 L540.8,137.8 L542.8,139.8 L542.9,141.5 L544.8,143.2 L544.2,146.1 L541.0,145.9 L538.4,147.8 L539.9,151.8 L537.5,149.7 L535.7,149.8 L535.5,148.0 L533.6,148.1 L533.8,150.7 L532.3,155.8 L533.9,156.9 L535.3,161.3 L537.7,162.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Thailand</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Thai.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>THA</iso-a3>
+    <iso-a2>TH</iso-a2>
+    <woe-id>23424960</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>th</hc-key>
+    <hc-a2>TH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="EE" d="M375.5,50.9 L375.7,51.0 L375.8,51.2 L375.7,51.2 L375.5,51.3 L375.6,51.3 L375.7,51.3 L375.7,51.3 L375.6,51.3 L375.4,51.3 L375.3,51.6 L375.1,52.0 L373.7,52.4 L375.2,54.1 L375.1,54.5 L374.8,55.1 L373.2,55.1 L370.8,53.9 L369.0,54.3 L369.4,53.4 L364.6,52.1 L371.1,50.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Estonia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Est.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>EST</iso-a3>
+    <iso-a2>EE</iso-a2>
+    <woe-id>23424805</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>ee</hc-key>
+    <hc-a2>EE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CD" d="M385.4,183.4 L385.1,187.1 L385.9,190.5 L388.1,193.7 L384.6,194.3 L383.4,195.6 L383.8,196.2 L384.1,197.1 L383.4,200.5 L384.7,202.5 L386.3,202.0 L386.3,204.7 L385.0,204.7 L380.9,200.8 L379.8,201.8 L377.0,201.0 L377.0,200.0 L374.8,200.4 L374.2,199.3 L370.5,200.1 L370.4,197.4 L369.6,196.2 L369.7,191.8 L364.9,191.2 L364.5,193.3 L360.8,193.5 L359.6,191.8 L358.8,188.9 L351.6,188.8 L350.0,189.2 L349.5,188.6 L350.0,187.1 L351.3,186.2 L352.0,186.7 L354.1,185.4 L355.0,186.6 L358.0,183.4 L358.0,180.9 L361.2,177.5 L361.9,171.8 L363.1,169.1 L362.9,167.3 L365.3,165.6 L367.2,167.1 L371.2,167.6 L377.7,165.1 L381.6,165.7 L383.6,167.4 L386.6,166.8 L388.8,169.0 L388.5,171.2 L389.7,171.8 L388.1,173.2 L388.1,173.8 L386.9,174.7 L386.4,176.6 L385.6,177.5 L386.3,177.4 L386.1,178.3 L386.2,179.3 L385.7,179.6 L385.4,180.0 L384.8,180.5 L384.7,181.6 L384.7,182.0 L385.0,182.1 L385.4,182.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Democratic Republic of the Congo</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>D.R.C.</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>COD</iso-a3>
+    <iso-a2>CD</iso-a2>
+    <woe-id>23424780</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>cd</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KW" d="M423.3,116.2 L421.2,115.2 L419.3,115.0 L420.3,113.2 L422.0,113.1 L422.5,114.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Kuwait</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Kwt.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>KWT</iso-a3>
+    <iso-a2>KW</iso-a2>
+    <woe-id>23424870</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>kw</hc-key>
+    <hc-a2>KW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DE" d="M340.2,60.6 L340.5,60.6 L341.6,60.8 L345.5,62.7 L347.5,61.5 L350.8,62.6 L350.7,62.7 L350.8,62.8 L350.0,62.8 L350.9,63.1 L350.7,64.9 L351.8,65.5 L352.3,69.1 L347.9,70.1 L347.7,71.5 L350.6,73.5 L348.6,74.9 L348.7,75.9 L345.2,76.4 L342.7,76.1 L341.7,75.7 L341.7,75.9 L340.3,76.0 L338.6,76.0 L339.7,73.1 L336.1,72.1 L336.4,71.4 L335.6,70.7 L336.1,70.3 L335.3,69.4 L336.0,67.1 L337.2,66.2 L337.5,64.1 L338.8,62.9 L340.8,62.7 Z M341.7,75.9 L341.7,75.9 L341.7,75.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Germany</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Ger.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>DEU</iso-a3>
+    <iso-a2>DE</iso-a2>
+    <woe-id>23424829</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>de</hc-key>
+    <hc-a2>DE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CZ" d="M350.6,73.5 L347.7,71.5 L347.9,70.1 L352.3,69.1 L356.9,70.1 L360.2,72.0 L358.9,72.9 L356.7,73.9 L352.8,73.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Czech Republic</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Cz. Rep.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>CZE</iso-a3>
+    <iso-a2>CZ</iso-a2>
+    <woe-id>23424810</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>cz</hc-key>
+    <hc-a2>CZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CH" d="M338.6,76.0 L340.3,76.0 L341.7,75.9 L341.7,75.9 L341.7,75.9 L341.7,75.9 L342.3,76.2 L342.4,76.2 L342.6,76.4 L342.4,76.7 L342.3,77.1 L342.5,77.2 L343.6,77.6 L344.2,77.6 L343.3,78.6 L339.6,78.8 L337.6,79.5 L337.1,79.1 L337.1,78.5 L336.7,78.3 L336.3,78.6 L336.0,78.8 L335.8,78.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Switzerland</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Switz.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>CHE</iso-a3>
+    <iso-a2>CH</iso-a2>
+    <woe-id>23424957</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.17</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IE" d="M310.1,60.2 L308.3,61.5 L311.9,62.3 L312.4,64.7 L311.6,66.3 L309.5,66.5 L307.1,67.6 L304.9,67.8 L303.8,66.9 L306.6,64.0 L304.4,63.7 L304.8,61.9 L307.4,62.0 L308.2,60.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ireland</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Ire.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>IRL</iso-a3>
+    <iso-a2>IE</iso-a2>
+    <woe-id>23424803</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>ie</hc-key>
+    <hc-a2>IE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MM" d="M515.7,132.0 L516.4,131.5 L516.1,130.0 L517.2,129.2 L517.0,125.8 L518.7,126.1 L520.0,122.1 L519.8,120.6 L522.9,118.7 L523.9,116.9 L524.2,116.2 L526.9,118.3 L527.5,121.8 L525.8,123.5 L526.0,126.1 L527.9,125.6 L528.8,127.5 L530.1,127.8 L529.7,129.7 L531.4,129.9 L532.1,131.2 L534.0,130.9 L533.2,131.5 L532.2,133.5 L529.1,134.9 L528.0,134.6 L527.1,137.4 L530.6,142.4 L529.6,145.2 L531.7,147.5 L531.7,148.9 L533.0,151.5 L531.4,154.6 L530.6,148.6 L529.1,147.2 L528.1,142.1 L526.9,140.5 L523.5,143.2 L520.9,142.6 L521.4,139.4 L520.2,136.7 L518.7,135.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Myanmar</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Myan.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>MMR</iso-a3>
+    <iso-a2>MM</iso-a2>
+    <woe-id>23424763</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>mm</hc-key>
+    <hc-a2>MM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GQ" d="M344.5,174.3 L343.5,173.9 L344.4,171.5 L344.9,171.8 L347.7,171.8 L347.7,174.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Equatorial Guinea</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Eq. G.</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GNQ</iso-a3>
+    <iso-a2>GQ</iso-a2>
+    <woe-id>23424804</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>gq</hc-key>
+    <hc-a2>GQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AM" d="M413.4,92.7 L411.1,91.8 L410.4,89.7 L411.8,89.4 L413.4,89.3 L415.7,91.6 L415.0,92.0 L417.1,94.4 L416.8,94.3 L416.3,94.4 L415.4,93.0 Z M413.5,89.8 L413.5,89.8 L413.4,89.8 L413.4,89.9 Z M413.9,90.0 L413.8,89.9 L413.9,90.0 Z M414.6,90.7 L414.6,90.8 L414.7,90.7 L414.6,90.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Armenia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Arm.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>ARM</iso-a3>
+    <iso-a2>AM</iso-a2>
+    <woe-id>23424743</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>am</hc-key>
+    <hc-a2>AM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN" d="M347.2,106.4 L347.1,108.1 L344.4,110.1 L344.8,111.2 L343.3,112.6 L342.2,108.8 L340.8,107.8 L339.0,104.9 L340.5,103.3 L341.1,98.5 L343.4,97.6 L346.4,102.1 L344.3,104.0 L344.8,105.3 L346.3,105.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Tunisia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Tun.</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>TUN</iso-a3>
+    <iso-a2>TN</iso-a2>
+    <woe-id>23424967</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.07</hc-middle-y>
+    <hc-key>tn</hc-key>
+    <hc-a2>TN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TL" d="M584.7,196.1 L585.1,195.9 L585.6,195.8 L585.1,196.4 Z M586.6,195.3 L587.1,194.6 L591.0,193.9 L589.9,195.3 L586.8,196.4 L586.7,195.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>East Timor</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>T.L.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>TLS</iso-a3>
+    <iso-a2>TL</iso-a2>
+    <woe-id>23424968</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>tl</hc-key>
+    <hc-a2>TL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MR" d="M305.9,118.9 L312.4,122.8 L313.8,123.7 L310.2,123.7 L312.2,143.7 L301.3,143.9 L299.2,143.6 L298.1,145.2 L293.8,141.3 L289.6,141.7 L289.2,143.1 L290.3,138.5 L289.3,135.5 L290.1,133.8 L288.3,132.6 L288.5,131.4 L296.7,131.4 L296.8,127.9 L298.9,126.9 L299.0,122.3 L299.0,122.3 L299.0,122.3 L299.0,122.3 L299.0,121.6 L299.3,121.6 L299.3,121.6 L299.3,121.6 L299.3,121.6 L305.8,121.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mauritania</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mrt.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>MRT</iso-a3>
+    <iso-a2>MR</iso-a2>
+    <woe-id>23424896</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>mr</hc-key>
+    <hc-a2>MR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ" d="M313.8,123.7 L312.4,122.8 L305.9,118.9 L305.9,118.1 L305.9,115.9 L308.1,114.4 L312.0,113.9 L316.3,111.6 L316.3,109.7 L318.7,108.6 L321.2,108.7 L320.4,106.3 L320.2,103.1 L319.3,102.4 L325.9,99.4 L333.4,98.6 L334.3,99.1 L338.7,98.2 L341.1,98.5 L340.5,103.3 L339.0,104.9 L340.8,107.8 L342.2,108.8 L343.3,112.6 L344.0,115.0 L344.1,120.5 L343.2,121.3 L344.5,124.0 L347.7,125.2 L348.6,126.8 L339.4,132.4 L335.9,135.4 L332.6,136.0 L330.3,136.0 L330.5,134.7 L327.7,133.7 L326.2,131.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Algeria</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Alg.</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>DZA</iso-a3>
+    <iso-a2>DZ</iso-a2>
+    <woe-id>23424740</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>dz</hc-key>
+    <hc-a2>DZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PE" d="M178.6,209.1 L177.3,209.8 L179.2,210.6 L179.3,210.6 L179.5,210.6 L179.3,211.2 L179.4,211.3 L178.2,212.9 L178.6,213.3 L177.7,214.9 L176.9,215.1 L174.4,212.9 L166.4,208.8 L163.9,206.1 L163.9,204.6 L160.7,200.2 L157.5,193.7 L155.4,190.7 L152.9,189.2 L152.5,185.3 L154.4,183.6 L154.0,185.0 L157.1,187.0 L158.6,183.6 L162.1,181.8 L164.4,179.6 L165.0,176.6 L168.5,179.1 L169.4,181.1 L171.1,181.6 L174.3,181.1 L176.1,182.1 L174.7,184.4 L176.3,185.3 L174.6,185.2 L170.1,187.2 L169.7,189.9 L167.9,192.3 L172.0,197.5 L174.1,197.4 L175.4,196.3 L175.3,199.6 L177.6,199.5 L179.6,202.8 L178.9,205.2 L179.4,206.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Peru</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Peru</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>PER</iso-a3>
+    <iso-a2>PE</iso-a2>
+    <woe-id>23424919</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>pe</hc-key>
+    <hc-a2>PE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AO" d="M349.5,188.6 L349.6,187.9 L349.1,187.0 L350.7,185.7 L351.3,186.2 L350.0,187.1 Z M348.4,212.8 L348.4,209.7 L349.5,207.5 L350.0,204.7 L352.4,202.2 L352.7,198.9 L351.1,195.6 L351.9,194.0 L349.6,189.3 L351.6,188.8 L358.8,188.9 L359.6,191.8 L360.8,193.5 L364.5,193.3 L364.9,191.2 L369.7,191.8 L369.6,196.2 L370.4,197.4 L370.5,200.1 L374.2,199.3 L374.1,203.8 L369.9,203.8 L369.8,210.5 L372.6,213.6 L367.2,214.4 L363.0,213.8 L362.3,213.1 L352.9,213.1 L351.3,212.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Angola</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Ang.</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>AGO</iso-a3>
+    <iso-a2>AO</iso-a2>
+    <woe-id>23424745</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>ao</hc-key>
+    <hc-a2>AO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MZ" d="M396.9,204.9 L396.6,202.1 L397.2,200.8 L402.5,201.1 L408.8,198.5 L409.3,207.6 L407.2,211.0 L401.2,214.1 L396.4,218.3 L395.9,219.5 L397.5,223.0 L396.4,228.3 L393.5,229.4 L390.9,231.1 L391.6,233.0 L390.5,233.1 L390.0,233.0 L389.9,231.8 L389.7,231.2 L390.0,227.9 L388.7,223.6 L391.2,221.3 L392.5,218.7 L392.7,211.6 L387.4,209.4 L387.1,208.0 L393.4,206.0 L394.3,207.2 L395.8,206.8 L396.2,208.7 L395.4,209.9 L397.3,211.3 L398.7,210.2 L398.9,207.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mozambique</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Moz.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>MOZ</iso-a3>
+    <iso-a2>MZ</iso-a2>
+    <woe-id>23424902</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.83</hc-middle-x>
+    <hc-middle-y>0.23</hc-middle-y>
+    <hc-key>mz</hc-key>
+    <hc-a2>MZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CR" d="M148.0,153.4 L148.3,154.3 L150.1,156.2 L149.0,158.8 L149.0,158.8 L148.8,158.2 L143.3,154.6 L143.7,153.0 L146.5,153.2 Z M149.3,159.5 L149.0,158.8 L149.0,158.8 L149.0,158.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Costa Rica</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>C.R.</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>CRI</iso-a3>
+    <iso-a2>CR</iso-a2>
+    <woe-id>23424791</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.22</hc-middle-x>
+    <hc-middle-y>0.05</hc-middle-y>
+    <hc-key>cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SV" d="M139.6,148.1 L137.5,148.5 L134.9,147.4 L134.8,147.2 L136.5,146.0 L139.9,147.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>El Salvador</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>El. S.</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>SLV</iso-a3>
+    <iso-a2>SV</iso-a2>
+    <woe-id>23424807</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>sv</hc-key>
+    <hc-a2>SV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KH" d="M549.0,145.4 L549.5,150.4 L546.0,153.2 L543.4,154.4 L540.7,153.7 L539.9,151.8 L538.4,147.8 L541.0,145.9 L544.2,146.1 L547.6,146.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cambodia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Camb.</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>KHM</iso-a3>
+    <iso-a2>KH</iso-a2>
+    <woe-id>23424776</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.26</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>kh</hc-key>
+    <hc-a2>KH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GT" d="M137.7,142.9 L138.3,143.2 L139.1,143.2 L137.0,144.6 L136.5,146.0 L134.8,147.2 L134.9,147.4 L132.3,147.0 L130.5,145.7 L131.8,142.5 L134.7,141.9 L132.7,140.0 L133.8,138.8 L137.6,138.8 L137.0,142.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Guatemala</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Guat.</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>GTM</iso-a3>
+    <iso-a2>GT</iso-a2>
+    <woe-id>23424834</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.79</hc-middle-y>
+    <hc-key>gt</hc-key>
+    <hc-a2>GT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BZ" d="M137.6,138.8 L138.2,138.7 L139.5,137.4 L139.4,140.6 L137.7,142.9 L137.0,142.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Belize</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Belize</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>BLZ</iso-a3>
+    <iso-a2>BZ</iso-a2>
+    <woe-id>23424760</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>bz</hc-key>
+    <hc-a2>BZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KP" d="M582.8,86.7 L583.1,87.0 L583.3,87.2 L581.8,88.8 L582.5,90.3 L578.9,92.6 L579.2,93.8 L581.4,94.9 L579.2,95.6 L578.6,96.6 L574.5,95.1 L575.1,93.3 L572.4,91.8 L575.1,90.1 L575.7,88.5 L578.9,89.1 L578.2,87.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>North Korea</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>N.K.</country-abbrev>
+    <subregion>Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>PRK</iso-a3>
+    <iso-a2>KP</iso-a2>
+    <woe-id>23424865</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>kp</hc-key>
+    <hc-a2>KP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KR" d="M578.6,96.6 L579.2,95.6 L581.4,94.9 L584.3,97.8 L585.8,101.5 L584.6,103.2 L583.2,102.5 L582.5,103.8 L580.7,103.9 L579.7,102.2 L579.3,98.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>South Korea</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>S.K.</country-abbrev>
+    <subregion>Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>KOR</iso-a3>
+    <iso-a2>KR</iso-a2>
+    <woe-id>23424868</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>kr</hc-key>
+    <hc-a2>KR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VE" d="M197.5,158.4 L194.5,163.9 L195.8,165.4 L194.0,167.4 L187.5,168.0 L188.4,168.8 L188.7,171.2 L190.2,171.3 L188.5,173.1 L185.5,175.0 L182.7,173.8 L182.1,171.4 L180.7,170.3 L181.9,169.2 L180.7,166.8 L181.6,163.3 L177.5,163.5 L176.1,161.7 L171.9,161.5 L171.4,158.8 L170.2,156.8 L170.5,154.4 L172.6,151.8 L174.0,151.4 L172.8,151.9 L173.3,153.8 L172.1,155.7 L173.3,157.3 L174.4,155.9 L173.3,153.6 L176.4,152.2 L179.1,152.2 L181.0,154.3 L184.5,153.9 L187.6,155.1 L189.2,153.9 L192.0,153.7 L192.7,155.9 L194.2,155.5 L195.9,156.8 L195.2,157.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Venezuela</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Ven.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>VEN</iso-a3>
+    <iso-a2>VE</iso-a2>
+    <woe-id>23424982</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ve</hc-key>
+    <hc-a2>VE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GY" d="M195.8,165.4 L194.5,163.9 L197.5,158.4 L199.4,159.5 L203.3,163.6 L203.1,164.8 L201.4,167.6 L204.7,172.3 L203.4,172.1 L199.7,173.9 L197.8,172.5 L197.3,170.7 L198.3,168.1 L197.4,165.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Guyana</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Guy.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>GUY</iso-a3>
+    <iso-a2>GY</iso-a2>
+    <woe-id>23424836</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.67</hc-middle-x>
+    <hc-middle-y>0.25</hc-middle-y>
+    <hc-key>gy</hc-key>
+    <hc-a2>GY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="HN" d="M136.5,146.0 L137.0,144.6 L139.1,143.2 L144.0,142.6 L147.4,143.1 L149.7,144.8 L145.7,145.3 L144.1,146.9 L141.9,147.4 L140.6,149.0 L140.2,148.4 L139.6,148.1 L139.9,147.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Honduras</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Hond.</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>HND</iso-a3>
+    <iso-a2>HN</iso-a2>
+    <woe-id>23424841</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.67</hc-middle-x>
+    <hc-middle-y>0.15</hc-middle-y>
+    <hc-key>hn</hc-key>
+    <hc-a2>HN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA" d="M344.5,174.3 L347.7,174.3 L347.7,171.8 L347.7,171.6 L351.8,171.8 L351.7,173.8 L353.8,173.6 L354.3,174.5 L353.0,176.8 L354.3,177.7 L353.5,181.7 L350.0,180.4 L348.2,181.3 L348.7,184.2 L347.2,184.7 L343.3,180.3 L342.1,177.6 L343.3,177.3 L343.4,175.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Gabon</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Gabon</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GAB</iso-a3>
+    <iso-a2>GA</iso-a2>
+    <woe-id>23424822</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IL" d="M393.7,110.4 L394.8,108.3 L395.2,106.6 L396.0,106.6 L396.6,105.9 L396.9,106.9 L396.6,107.3 L396.2,107.6 L396.4,109.4 L396.1,109.9 L396.2,110.3 L396.1,110.5 L396.1,110.5 L396.1,110.6 L396.2,110.8 L395.7,112.2 L395.5,114.1 L395.4,114.2 L395.3,114.2 L395.2,113.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Israel</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Isr.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>ISR</iso-a3>
+    <iso-a2>IL</iso-a2>
+    <woe-id>23424852</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.15</hc-middle-y>
+    <hc-key>il</hc-key>
+    <hc-a2>IL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="EG" d="M393.7,110.4 L395.2,113.7 L395.3,114.2 L394.3,117.9 L392.1,116.1 L390.4,113.2 L390.8,115.3 L392.9,117.8 L393.9,120.3 L397.3,125.8 L397.8,128.0 L400.4,130.0 L388.7,130.0 L375.7,130.0 L375.1,114.9 L374.4,112.7 L375.1,109.6 L379.6,110.2 L383.2,111.4 L385.8,109.9 L389.4,110.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Egypt</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Egypt</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>EGY</iso-a3>
+    <iso-a2>EG</iso-a2>
+    <woe-id>23424802</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.77</hc-middle-y>
+    <hc-key>eg</hc-key>
+    <hc-a2>EG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NI" d="M143.7,153.0 L139.9,149.3 L140.6,149.0 L141.9,147.4 L144.1,146.9 L145.7,145.3 L149.7,144.8 L147.6,152.4 L148.0,153.4 L146.5,153.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Nicaragua</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Nic.</country-abbrev>
+    <subregion>Central America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>NIC</iso-a3>
+    <iso-a2>NI</iso-a2>
+    <woe-id>23424915</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.81</hc-middle-y>
+    <hc-key>ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MW" d="M397.1,200.5 L397.1,200.5 L397.1,200.4 Z M396.8,200.2 L396.7,200.1 L396.7,200.1 L396.8,200.2 Z M395.9,196.9 L395.7,196.7 L395.7,196.7 Z M395.5,196.5 L395.5,196.5 L395.5,196.5 Z M393.0,196.2 L394.0,196.7 L395.1,196.9 L395.9,201.0 L395.3,202.5 L395.8,204.6 L396.9,204.9 L398.9,207.3 L398.7,210.2 L397.3,211.3 L395.4,209.9 L396.2,208.7 L395.8,206.8 L394.3,207.2 L393.4,206.0 L392.6,205.3 L393.8,202.8 L393.6,199.3 L394.6,198.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Malawi</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mal.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>MWI</iso-a3>
+    <iso-a2>MW</iso-a2>
+    <woe-id>23424889</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>mw</hc-key>
+    <hc-a2>MW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TM" d="M435.3,89.2 L437.3,89.4 L437.2,88.0 L438.9,88.5 L438.3,87.5 L439.9,86.1 L442.6,87.2 L443.4,89.1 L447.3,89.9 L448.6,92.0 L455.6,95.8 L457.6,96.2 L457.8,97.6 L454.9,97.9 L454.0,99.9 L449.9,102.3 L447.7,101.3 L447.3,99.3 L445.5,99.1 L442.1,96.9 L438.7,95.7 L435.2,96.1 L432.4,97.6 L432.0,94.4 L430.9,92.1 L429.2,91.9 L429.3,90.0 L431.0,90.7 L432.8,89.7 L430.9,87.7 L428.1,88.3 L431.4,87.1 L434.4,89.4 L434.6,89.4 L434.8,89.3 L435.1,89.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Turkmenistan</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Turkm.</country-abbrev>
+    <subregion>Central Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>TKM</iso-a3>
+    <iso-a2>TM</iso-a2>
+    <woe-id>23424972</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>tm</hc-key>
+    <hc-a2>TM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KZ" d="M434.4,89.4 L431.4,87.1 L428.1,88.3 L428.3,86.3 L426.7,86.1 L422.9,82.2 L424.8,80.8 L427.0,80.6 L427.9,79.4 L427.5,77.5 L423.8,77.0 L420.2,78.7 L417.4,75.6 L414.1,74.3 L414.4,71.3 L415.5,70.0 L417.4,71.3 L417.6,69.7 L420.8,67.5 L426.2,67.8 L431.1,69.8 L432.5,68.7 L436.5,68.8 L439.0,69.8 L441.9,69.3 L441.8,67.9 L439.0,67.0 L439.7,65.3 L442.0,64.4 L439.6,62.8 L447.4,61.8 L452.6,60.5 L452.6,60.0 L457.4,59.8 L458.8,62.3 L463.3,62.6 L464.9,63.4 L469.0,61.6 L469.1,62.6 L472.1,64.0 L477.7,69.2 L478.8,68.2 L480.7,69.4 L484.3,68.8 L488.7,71.8 L491.3,71.8 L493.1,72.9 L490.5,74.3 L490.8,77.2 L489.5,77.7 L485.9,76.8 L485.4,80.4 L481.4,81.4 L483.8,85.4 L483.1,87.4 L479.2,86.0 L472.8,86.0 L470.6,85.2 L469.7,87.0 L466.2,86.1 L464.7,87.3 L461.2,89.1 L460.7,90.8 L459.1,89.5 L456.6,89.5 L454.2,86.0 L452.1,84.2 L446.5,84.7 L442.0,81.8 L441.2,79.6 L439.9,80.0 L439.8,79.8 L439.5,80.1 L438.9,80.3 L433.9,81.5 L435.3,89.2 L434.8,89.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Kazakhstan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Kaz.</country-abbrev>
+    <subregion>Central Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>KAZ</iso-a3>
+    <iso-a2>KZ</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>kz</hc-key>
+    <hc-a2>KZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ZM" d="M383.8,196.2 L385.1,194.7 L384.6,194.3 L388.1,193.7 L389.1,195.0 L389.4,194.5 L391.1,195.5 L393.0,196.2 L394.6,198.7 L393.6,199.3 L393.8,202.8 L392.6,205.3 L393.4,206.0 L387.1,208.0 L387.4,209.4 L384.2,210.3 L383.9,211.3 L382.5,212.0 L381.4,212.5 L380.2,214.3 L379.5,214.5 L376.5,213.9 L374.4,213.3 L372.6,213.6 L369.8,210.5 L369.9,203.8 L374.1,203.8 L374.2,199.3 L374.8,200.4 L377.0,200.0 L377.0,201.0 L379.8,201.8 L380.9,200.8 L385.0,204.7 L386.3,204.7 L386.3,202.0 L384.7,202.5 L383.4,200.5 L384.1,197.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Zambia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Zambia</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>ZMB</iso-a3>
+    <iso-a2>ZM</iso-a2>
+    <woe-id>23425003</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>zm</hc-key>
+    <hc-a2>ZM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NC" d="M392.5,102.4 L392.2,102.5 L392.0,102.5 L391.5,102.2 L390.1,102.2 L390.1,102.2 L390.1,102.2 L390.1,102.2 L390.0,102.2 L390.0,102.2 L393.8,101.1 L392.7,102.4 Z M389.8,102.2 L389.9,102.2 L389.9,102.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Northern Cyprus</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>N. Cy.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>NC</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.72</hc-middle-y>
+    <hc-key>nc</hc-key>
+    <hc-a2>NC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ZA" d="M390.0,233.0 L390.5,233.1 L391.6,233.0 L390.3,236.6 L387.7,238.8 L385.9,241.5 L382.7,244.5 L378.9,247.1 L374.3,248.5 L369.7,248.1 L368.2,248.8 L363.6,249.7 L361.3,247.8 L360.1,245.6 L360.9,243.3 L359.2,240.4 L357.7,236.7 L358.9,235.5 L359.5,236.9 L363.0,237.5 L364.9,236.4 L365.1,228.6 L366.8,231.5 L366.4,233.1 L368.4,233.1 L370.7,231.2 L371.4,229.8 L375.1,230.9 L376.6,230.4 L377.3,228.6 L379.3,227.6 L379.8,226.3 L382.3,224.2 L384.7,223.2 L386.8,223.5 L388.7,223.6 L390.0,227.9 L389.7,231.2 L388.7,230.7 L387.3,232.1 L387.9,233.8 Z M379.7,238.7 L379.8,240.3 L381.2,241.1 L384.2,238.3 L382.6,236.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>South Africa</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>S.Af.</country-abbrev>
+    <subregion>Southern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>ZAF</iso-a3>
+    <iso-a2>ZA</iso-a2>
+    <woe-id>23424942</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>za</hc-key>
+    <hc-a2>ZA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LT" d="M363.9,59.9 L363.6,59.0 L363.4,58.1 L365.2,57.4 L372.0,58.0 L373.9,59.0 L372.0,61.9 L368.4,62.6 L368.3,62.2 L366.9,61.8 L366.9,60.6 Z M363.3,59.8 L363.5,59.3 L363.4,59.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Lithuania</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Lith.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>LTU</iso-a3>
+    <iso-a2>LT</iso-a2>
+    <woe-id>23424875</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.23</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lt</hc-key>
+    <hc-a2>LT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ET" d="M411.6,152.6 L411.4,152.8 L411.6,153.0 L411.9,153.4 L414.0,153.2 L413.4,154.0 L416.4,157.5 L422.7,159.5 L424.8,159.5 L418.5,166.0 L416.5,166.0 L412.1,168.0 L409.7,167.4 L407.1,169.2 L404.1,168.8 L401.4,167.1 L399.5,166.7 L396.9,162.4 L394.8,160.3 L393.4,160.0 L393.7,158.6 L395.2,158.6 L395.4,156.5 L396.4,153.4 L397.0,153.8 L398.7,149.7 L399.6,149.6 L400.3,146.3 L403.2,145.0 L409.4,146.7 L412.7,150.1 L411.5,152.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ethiopia</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Eth.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>ETH</iso-a3>
+    <iso-a2>ET</iso-a2>
+    <woe-id>23424808</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>et</hc-key>
+    <hc-a2>ET</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ER" d="M412.7,150.1 L409.4,146.7 L403.2,145.0 L400.3,146.3 L400.1,144.5 L401.1,140.4 L404.4,138.4 L406.9,144.5 L410.0,145.5 L414.3,149.6 L413.4,150.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Eritrea</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Erit.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>ERI</iso-a3>
+    <iso-a2>ER</iso-a2>
+    <woe-id>23424806</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.18</hc-middle-y>
+    <hc-key>er</hc-key>
+    <hc-a2>ER</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GH" d="M326.3,163.5 L319.4,166.4 L317.2,165.7 L317.2,165.6 L317.5,165.7 L317.8,165.5 L317.0,162.0 L318.5,159.1 L318.1,156.4 L318.0,153.2 L323.4,152.9 L324.5,154.8 L324.9,162.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ghana</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Ghana</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GHA</iso-a3>
+    <iso-a2>GH</iso-a2>
+    <woe-id>23424824</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.79</hc-middle-x>
+    <hc-middle-y>0.69</hc-middle-y>
+    <hc-key>gh</hc-key>
+    <hc-a2>GH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SI" d="M350.5,80.5 L350.4,80.4 L350.7,80.2 L350.0,78.8 L350.6,78.3 L352.3,78.6 L355.2,77.6 L355.6,77.6 L356.1,78.3 L354.4,78.9 L353.9,80.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Slovenia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Slo.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>SVN</iso-a3>
+    <iso-a2>SI</iso-a2>
+    <woe-id>23424945</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>si</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="JO" d="M396.2,110.8 L396.4,110.6 L396.1,110.5 L396.1,110.5 L396.2,110.3 L396.4,110.3 L396.4,109.4 L396.2,107.6 L396.6,107.3 L398.8,108.2 L402.7,106.0 L403.4,107.9 L403.6,108.7 L399.3,110.0 L401.5,112.1 L397.8,114.8 L395.5,114.5 L395.6,114.1 L395.5,114.1 L395.7,112.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Jordan</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Jord.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>JOR</iso-a3>
+    <iso-a2>JO</iso-a2>
+    <woe-id>23424860</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.15</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>jo</hc-key>
+    <hc-a2>JO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SY" d="M402.7,106.0 L398.8,108.2 L396.6,107.3 L396.9,106.9 L396.6,105.9 L398.1,104.3 L396.7,103.3 L396.5,101.7 L396.4,100.6 L397.7,98.7 L404.0,98.9 L408.8,97.7 L409.2,98.1 L407.3,99.4 L407.3,103.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Syria</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Syria</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>SYR</iso-a3>
+    <iso-a2>SY</iso-a2>
+    <woe-id>23424956</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>sy</hc-key>
+    <hc-a2>SY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MC" d="M338.5,84.1 L338.4,84.2 L338.3,84.2 L338.4,84.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Monaco</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mco.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>MCO</iso-a3>
+    <iso-a2>MC</iso-a2>
+    <woe-id>23424892</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>mc</hc-key>
+    <hc-a2>MC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AL" d="M365.6,90.2 L365.6,90.2 L365.5,90.1 Z M362.3,87.6 L362.2,87.3 L362.3,87.1 L362.9,86.4 L363.6,86.7 L364.5,87.4 L364.7,88.1 L364.6,89.2 L364.9,89.8 L365.0,90.1 L365.1,90.1 L365.3,90.1 L365.5,90.1 L365.5,90.2 L365.6,90.2 L365.6,90.2 L365.5,90.4 L365.6,90.4 L365.6,90.4 L365.7,90.6 L365.7,90.6 L365.7,90.6 L364.6,92.4 L363.8,92.7 L362.3,90.7 L362.3,88.1 L362.2,87.9 Z M362.2,87.2 L362.2,87.2 L362.2,87.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Albania</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Alb.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>ALB</iso-a3>
+    <iso-a2>AL</iso-a2>
+    <woe-id>23424742</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>al</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UY" d="M215.5,245.3 L214.6,246.2 L214.9,247.2 L215.0,247.4 L215.3,247.6 L214.7,248.9 L212.5,250.1 L210.0,250.1 L206.4,249.1 L205.2,248.0 L205.2,244.8 L205.0,243.7 L205.8,240.1 L207.4,239.9 L209.3,242.0 L210.1,241.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Uruguay</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Ury.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>URY</iso-a3>
+    <iso-a2>UY</iso-a2>
+    <woe-id>23424979</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>uy</hc-key>
+    <hc-a2>UY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CNM" d="M392.7,102.4 L392.7,102.5 L392.7,102.5 L392.5,102.5 L392.5,102.4 Z M389.8,102.2 L389.8,102.2 L389.9,102.2 L389.9,102.2 L389.9,102.2 L389.9,102.3 Z M390.0,102.2 L390.0,102.2 L390.0,102.2 L390.1,102.2 L390.1,102.2 Z M392.0,102.5 L392.1,102.6 L392.1,102.6 L391.5,102.2 L390.1,102.2 L390.1,102.2 L391.5,102.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cyprus No Mans Area</name>
+    <labelrank>9</labelrank>
+    <country-abbrev>NULL</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>NULL</iso-a2>
+    <woe-id>-99</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>cnm</hc-key>
+    <hc-a2>CN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MN" d="M552.7,75.6 L553.4,75.4 L553.0,75.2 L554.6,75.2 L558.1,77.5 L552.2,78.7 L551.1,80.5 L548.9,80.7 L547.6,82.0 L544.2,81.3 L543.5,82.7 L545.0,84.2 L541.1,86.9 L535.8,87.2 L533.0,88.4 L530.0,88.3 L525.4,86.7 L514.8,86.3 L512.0,83.0 L507.9,81.6 L502.5,81.1 L502.0,78.2 L499.9,75.9 L494.7,74.0 L494.0,72.7 L501.5,69.1 L505.4,69.8 L506.5,70.9 L512.0,71.5 L513.2,69.8 L511.9,68.8 L513.1,66.5 L520.1,68.2 L520.8,69.6 L523.9,70.7 L526.8,69.9 L532.3,71.1 L534.0,72.4 L538.4,72.8 L542.5,71.8 L544.3,70.4 L549.3,71.3 L548.5,74.9 L549.6,75.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mongolia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mong.</country-abbrev>
+    <subregion>Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>MNG</iso-a3>
+    <iso-a2>MN</iso-a2>
+    <woe-id>23424887</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mn</hc-key>
+    <hc-a2>MN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RW" d="M385.0,182.1 L384.7,182.0 L384.7,181.6 L385.7,180.7 L385.4,180.0 L385.7,179.6 L386.2,179.3 L386.9,179.5 L388.1,178.7 L388.8,179.8 L388.2,181.5 L386.8,182.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Rwanda</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Rwa.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>RWA</iso-a3>
+    <iso-a2>RW</iso-a2>
+    <woe-id>23424937</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>rw</hc-key>
+    <hc-a2>RW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SX" d="M424.8,159.5 L422.7,159.5 L416.4,157.5 L413.4,154.0 L414.0,153.2 L414.6,152.2 L416.9,154.3 L420.0,153.5 L421.4,153.9 L423.4,152.8 L426.6,152.7 L426.7,156.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Somaliland</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Solnd.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>SX</iso-a2>
+    <woe-id>-99</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>sx</hc-key>
+    <hc-a2>SX</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SO" d="M424.8,159.5 L426.7,156.5 L426.6,152.7 L431.5,151.4 L430.7,156.5 L424.9,167.0 L420.8,171.3 L415.5,175.1 L411.4,180.0 L410.2,178.2 L410.2,170.5 L412.1,168.0 L416.5,166.0 L418.5,166.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Somalia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Som.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SOM</iso-a3>
+    <iso-a2>SO</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BO" d="M179.2,210.6 L179.2,210.3 L179.5,210.6 L179.3,210.6 Z M178.6,213.3 L178.2,212.9 L179.4,211.3 L180.3,210.8 L178.6,209.1 L179.4,206.3 L178.9,205.2 L179.6,202.8 L177.6,199.5 L180.3,199.6 L183.6,197.3 L186.1,196.8 L186.4,199.9 L188.6,202.7 L191.4,203.1 L194.1,205.0 L197.0,205.5 L197.9,210.7 L201.5,210.9 L201.8,212.8 L203.6,214.8 L202.7,218.9 L200.6,217.1 L195.1,217.8 L194.2,219.8 L193.7,223.3 L191.0,222.8 L190.3,224.6 L189.6,223.2 L186.1,222.4 L184.4,224.5 L182.9,224.5 L182.0,221.3 L180.6,219.5 L181.1,217.4 L179.9,216.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bolivia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Bolivia</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>BOL</iso-a3>
+    <iso-a2>BO</iso-a2>
+    <woe-id>23424762</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>bo</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CM" d="M351.8,171.8 L347.7,171.6 L347.7,171.8 L344.9,171.8 L344.4,171.5 L344.1,168.2 L341.9,166.2 L342.4,164.1 L346.1,161.4 L347.6,162.8 L349.5,158.8 L354.6,150.7 L353.3,148.8 L353.8,148.8 L353.7,149.2 L354.2,149.0 L355.6,152.1 L355.4,153.6 L356.8,155.3 L353.6,155.4 L353.1,156.1 L355.7,158.5 L356.4,160.5 L354.1,163.7 L355.8,168.5 L357.7,170.4 L357.9,171.7 L357.9,172.7 L354.5,171.7 Z M353.9,148.8 L354.0,148.8 L353.9,148.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cameroon</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Cam.</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>CMR</iso-a3>
+    <iso-a2>CM</iso-a2>
+    <woe-id>23424785</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.75</hc-middle-y>
+    <hc-key>cm</hc-key>
+    <hc-a2>CM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CG" d="M351.3,186.2 L350.7,185.7 L349.1,187.0 L348.7,186.1 L347.2,184.7 L348.7,184.2 L348.2,181.3 L350.0,180.4 L353.5,181.7 L354.3,177.7 L353.0,176.8 L354.3,174.5 L353.8,173.6 L351.7,173.8 L351.8,171.8 L354.5,171.7 L357.9,172.7 L357.9,171.7 L358.7,169.1 L360.6,168.6 L363.1,169.1 L361.9,171.8 L361.2,177.5 L358.0,180.9 L358.0,183.4 L355.0,186.6 L354.1,185.4 L352.0,186.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Republic of Congo</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Rep. Congo</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>COG</iso-a3>
+    <iso-a2>CG</iso-a2>
+    <woe-id>23424779</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.16</hc-middle-x>
+    <hc-middle-y>0.86</hc-middle-y>
+    <hc-key>cg</hc-key>
+    <hc-a2>CG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="EH" d="M288.3,132.6 L288.2,132.4 L288.4,131.2 L292.9,131.2 L294.3,129.3 L294.7,127.0 L298.1,124.0 L299.0,122.3 L299.0,122.3 L298.9,126.9 L296.8,127.9 L296.7,131.4 L288.5,131.4 Z M305.9,118.1 L305.9,118.9 L305.8,121.6 L299.3,121.6 L299.3,121.6 L299.3,121.6 L300.3,119.7 L303.7,119.7 L305.7,119.2 Z M299.3,121.6 L299.0,122.3 L299.0,122.3 L299.0,121.6 L299.3,121.6 L299.3,121.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Western Sahara</name>
+    <labelrank>7</labelrank>
+    <country-abbrev>W. Sah.</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>ESH</iso-a3>
+    <iso-a2>EH</iso-a2>
+    <woe-id>23424990</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.76</hc-middle-y>
+    <hc-key>eh</hc-key>
+    <hc-a2>EH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ME" d="M363.6,86.7 L362.9,86.4 L362.3,87.1 L362.2,87.2 L362.2,87.2 L361.8,87.2 L362.3,87.6 L362.2,87.9 L362.3,88.1 L361.1,87.2 L360.5,86.9 L360.4,86.8 L360.4,86.6 L360.3,85.7 L361.7,84.6 L362.6,85.3 L364.1,86.1 L363.5,86.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Montenegro</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mont.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>MNE</iso-a3>
+    <iso-a2>ME</iso-a2>
+    <woe-id>20069817</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>me</hc-key>
+    <hc-a2>ME</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RS" d="M364.1,86.1 L362.6,85.3 L361.7,84.6 L361.9,81.7 L361.2,81.8 L361.2,81.2 L360.9,79.5 L362.1,79.0 L363.5,79.2 L365.8,81.8 L368.6,83.1 L367.9,84.0 L369.3,85.3 L368.1,87.2 L367.3,87.1 L366.6,87.3 L366.9,86.4 L364.9,85.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Republic of Serbia</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Serb.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>SRB</iso-a3>
+    <iso-a2>RS</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
+    <hc-key>rs</hc-key>
+    <hc-a2>RS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BJ" d="M329.5,163.0 L327.8,163.2 L327.2,163.3 L327.2,157.3 L325.7,153.2 L326.8,152.2 L328.8,151.3 L329.8,150.3 L331.3,151.7 L331.8,154.0 L329.6,157.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Benin</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Benin</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>BEN</iso-a3>
+    <iso-a2>BJ</iso-a2>
+    <woe-id>23424764</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-y>0.94</hc-middle-y>
+    <hc-key>bj</hc-key>
+    <hc-a2>BJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TG" d="M327.2,163.3 L326.8,163.4 L326.3,163.5 L324.9,162.0 L324.5,154.8 L323.4,152.9 L324.8,153.2 L325.7,153.2 L327.2,157.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Togo</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Togo</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>TGO</iso-a3>
+    <iso-a2>TG</iso-a2>
+    <woe-id>23424965</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>tg</hc-key>
+    <hc-a2>TG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AF" d="M474.7,97.9 L473.7,98.1 L474.1,98.3 L470.1,98.7 L467.6,100.4 L468.9,102.2 L468.1,104.6 L466.0,104.6 L466.8,106.1 L465.3,106.6 L465.2,109.0 L462.9,109.3 L459.5,111.2 L459.5,113.5 L455.3,114.4 L451.9,114.4 L448.5,113.4 L450.2,111.3 L448.0,110.0 L447.1,106.7 L447.7,101.3 L449.9,102.3 L454.0,99.9 L454.9,97.9 L457.8,97.6 L459.3,98.0 L460.4,98.0 L463.3,98.1 L465.0,97.2 L465.6,95.5 L467.8,96.5 L468.3,99.0 L471.4,97.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Afghanistan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Afg.</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>AFG</iso-a3>
+    <iso-a2>AF</iso-a2>
+    <woe-id>23424739</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>af</hc-key>
+    <hc-a2>AF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="UA" d="M366.8,74.3 L367.1,73.7 L367.5,72.9 L367.6,71.9 L370.2,69.8 L369.1,67.7 L373.2,66.9 L380.1,68.1 L384.6,66.5 L388.4,66.0 L389.5,68.3 L391.2,68.4 L392.6,70.2 L396.0,70.0 L401.3,72.0 L401.2,75.5 L399.4,75.5 L398.4,77.1 L394.0,78.0 L392.0,79.0 L393.8,81.2 L390.8,82.8 L388.3,80.2 L390.0,79.5 L386.0,78.9 L384.8,78.1 L381.9,80.5 L382.1,81.0 L380.4,81.0 L379.2,80.5 L380.5,78.4 L382.7,78.6 L380.7,75.4 L377.8,74.2 L375.6,74.6 L373.0,75.4 L368.3,75.3 L367.8,75.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ukraine</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Ukr.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>UKR</iso-a3>
+    <iso-a2>UA</iso-a2>
+    <woe-id>23424976</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ua</hc-key>
+    <hc-a2>UA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SK" d="M367.5,72.9 L367.1,73.7 L366.8,74.3 L363.6,74.1 L362.6,74.9 L358.5,75.7 L357.2,75.1 L356.5,74.4 L356.7,73.9 L358.9,72.9 L360.2,72.0 L366.0,72.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Slovakia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Svk.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>SVK</iso-a3>
+    <iso-a2>SK</iso-a2>
+    <woe-id>23424877</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>sk</hc-key>
+    <hc-a2>SK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="JK" d="M481.2,101.5 L479.9,102.3 L479.1,101.2 L480.4,101.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Siachen Glacier</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Siachen</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>JK</iso-a2>
+    <woe-id>23424928</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>jk</hc-key>
+    <hc-a2>JK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PK" d="M479.1,101.2 L479.9,102.3 L477.5,103.6 L474.5,103.1 L473.5,103.9 L474.4,106.4 L477.4,108.6 L475.9,109.5 L476.2,110.8 L474.1,113.3 L471.6,117.4 L468.7,117.3 L467.0,119.9 L468.5,120.4 L470.8,124.3 L468.7,125.4 L466.3,125.3 L465.0,126.1 L463.3,125.6 L460.9,122.7 L455.0,123.3 L451.1,123.2 L451.4,121.1 L453.9,120.2 L452.8,116.8 L451.0,116.2 L448.5,113.4 L451.9,114.4 L455.3,114.4 L459.5,113.5 L459.5,111.2 L462.9,109.3 L465.2,109.0 L465.3,106.6 L466.8,106.1 L466.0,104.6 L468.1,104.6 L468.9,102.2 L467.6,100.4 L470.1,98.7 L474.1,98.3 L477.2,99.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Pakistan</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Pak.</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>PAK</iso-a3>
+    <iso-a2>PK</iso-a2>
+    <woe-id>23424922</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>pk</hc-key>
+    <hc-a2>PK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BG" d="M380.3,84.1 L378.7,86.9 L379.5,87.9 L377.5,87.6 L376.2,88.4 L374.1,89.4 L372.6,88.7 L369.4,89.2 L369.5,88.4 L368.1,87.2 L369.3,85.3 L367.9,84.0 L368.6,83.1 L369.9,83.8 L373.9,84.3 L377.1,83.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bulgaria</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Bulg.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>BGR</iso-a3>
+    <iso-a2>BG</iso-a2>
+    <woe-id>23424771</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.72</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>bg</hc-key>
+    <hc-a2>BG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RO" d="M368.3,75.3 L373.0,75.4 L375.6,74.6 L376.3,74.8 L379.1,78.1 L379.2,80.5 L380.4,81.0 L382.1,81.0 L380.3,82.9 L380.3,84.1 L377.1,83.2 L373.9,84.3 L369.9,83.8 L368.6,83.1 L365.8,81.8 L363.5,79.2 L365.2,78.8 L366.7,76.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Romania</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Rom.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>ROU</iso-a3>
+    <iso-a2>RO</iso-a2>
+    <woe-id>23424933</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>ro</hc-key>
+    <hc-a2>RO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="QA" d="M428.9,124.2 L428.6,122.6 L430.3,121.8 L430.1,124.5 L430.1,124.5 L430.0,124.6 L430.0,124.4 L429.7,124.5 L429.3,124.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Qatar</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Qatar</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>QAT</iso-a3>
+    <iso-a2>QA</iso-a2>
+    <woe-id>23424930</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>qa</hc-key>
+    <hc-a2>QA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LI" d="M342.4,76.7 L342.6,77.0 L342.5,77.2 L342.3,77.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Liechtenstein</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Liech.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>LIE</iso-a3>
+    <iso-a2>LI</iso-a2>
+    <woe-id>23424879</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>li</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AT" d="M342.5,77.2 L342.6,77.0 L342.4,76.7 L342.6,76.4 L342.4,76.2 L342.7,76.2 L342.7,76.1 L345.2,76.4 L348.7,75.9 L348.6,74.9 L350.6,73.5 L352.8,73.1 L356.7,73.9 L356.5,74.4 L357.2,75.1 L356.1,75.7 L355.2,77.6 L352.3,78.6 L350.6,78.3 L348.1,77.9 L347.6,77.1 L344.2,77.6 L343.6,77.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Austria</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Aust.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>AUT</iso-a3>
+    <iso-a2>AT</iso-a2>
+    <woe-id>23424750</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>at</hc-key>
+    <hc-a2>AT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SZ" d="M389.7,231.2 L389.9,231.8 L390.0,233.0 L387.9,233.8 L387.3,232.1 L388.7,230.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Swaziland</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Swz.</country-abbrev>
+    <subregion>Southern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SWZ</iso-a3>
+    <iso-a2>SZ</iso-a2>
+    <woe-id>23424993</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>sz</hc-key>
+    <hc-a2>SZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="HU" d="M363.5,79.2 L362.1,79.0 L360.9,79.5 L357.8,79.5 L356.1,78.3 L355.6,77.6 L355.2,77.6 L356.1,75.7 L357.2,75.1 L358.5,75.7 L362.6,74.9 L363.6,74.1 L366.8,74.3 L367.8,75.0 L368.3,75.3 L366.7,76.2 L365.2,78.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Hungary</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Hun.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>HUN</iso-a3>
+    <iso-a2>HU</iso-a2>
+    <woe-id>23424844</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>hu</hc-key>
+    <hc-a2>HU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NE" d="M348.6,126.8 L351.7,127.5 L353.3,128.7 L354.9,127.9 L355.3,131.1 L357.0,133.5 L356.6,134.4 L356.1,140.7 L352.0,146.1 L352.3,147.5 L350.0,148.8 L347.8,148.2 L345.0,148.5 L344.0,149.4 L340.2,148.3 L338.3,149.0 L335.4,147.1 L332.4,148.0 L331.3,151.7 L329.8,150.3 L328.8,151.3 L328.4,149.8 L325.8,148.9 L324.2,145.0 L326.6,144.2 L331.1,144.0 L332.5,141.8 L332.6,136.0 L335.9,135.4 L339.4,132.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Niger</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Niger</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>NER</iso-a3>
+    <iso-a2>NE</iso-a2>
+    <woe-id>23424906</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ne</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LU" d="M336.1,72.1 L335.3,72.1 L335.0,71.9 L334.8,71.2 L335.6,70.7 L336.4,71.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Luxembourg</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Lux.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>LUX</iso-a3>
+    <iso-a2>LU</iso-a2>
+    <woe-id>23424881</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>lu</hc-key>
+    <hc-a2>LU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AD" d="M326.6,86.6 L327.2,86.5 L327.2,86.8 L326.8,86.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Andorra</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>And.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>AND</iso-a3>
+    <iso-a2>AD</iso-a2>
+    <woe-id>23424744</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>ad</hc-key>
+    <hc-a2>AD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CI" d="M317.2,165.7 L316.9,165.6 L317.2,165.6 Z M307.9,167.2 L308.1,164.1 L305.6,162.7 L305.9,160.5 L306.5,158.5 L307.7,158.7 L307.0,155.0 L309.1,155.0 L310.6,153.8 L312.2,154.4 L313.9,156.0 L317.0,155.5 L318.1,156.4 L318.5,159.1 L317.0,162.0 L317.8,165.5 L311.5,165.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ivory Coast</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>I.C.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>CIV</iso-a3>
+    <iso-a2>CI</iso-a2>
+    <woe-id>23424854</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ci</hc-key>
+    <hc-a2>CI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LR" d="M305.9,160.5 L305.6,162.7 L308.1,164.1 L307.9,167.2 L304.2,165.6 L299.6,161.8 L301.4,160.0 L302.1,158.5 L303.8,158.8 L304.6,161.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Liberia</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Liberia</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>LBR</iso-a3>
+    <iso-a2>LR</iso-a2>
+    <woe-id>23424876</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.88</hc-middle-x>
+    <hc-middle-y>0.71</hc-middle-y>
+    <hc-key>lr</hc-key>
+    <hc-a2>LR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SL" d="M302.1,158.5 L301.4,160.0 L299.6,161.8 L296.5,160.4 L295.8,157.3 L297.5,155.6 L300.1,155.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Sierra Leone</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>S.L.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SLE</iso-a3>
+    <iso-a2>SL</iso-a2>
+    <woe-id>23424946</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.17</hc-middle-x>
+    <hc-middle-y>0.78</hc-middle-y>
+    <hc-key>sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BN" d="M566.2,166.2 L566.4,166.2 L566.5,166.1 L566.9,167.3 Z M564.1,166.7 L565.2,166.5 L566.1,166.1 L565.4,167.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Brunei</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Brunei</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>BRN</iso-a3>
+    <iso-a2>BN</iso-a2>
+    <woe-id>23424773</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>bn</hc-key>
+    <hc-a2>BN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE" d="M335.6,70.7 L334.8,71.2 L335.0,71.9 L331.8,71.0 L328.6,68.6 L329.8,68.1 L330.2,68.0 L331.1,68.4 L331.9,68.1 L332.0,68.2 L332.0,68.1 L333.4,67.8 L335.3,69.4 L336.1,70.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Belgium</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Belg.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>BEL</iso-a3>
+    <iso-a2>BE</iso-a2>
+    <woe-id>23424757</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>be</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IQ" d="M423.2,113.2 L422.4,113.0 L422.0,113.1 L420.3,113.2 L419.3,115.0 L415.5,114.8 L409.8,110.8 L406.3,109.1 L403.6,108.7 L403.4,107.9 L402.7,106.0 L407.3,103.0 L407.3,99.4 L409.2,98.1 L409.8,97.6 L414.0,98.1 L415.4,100.5 L417.5,100.9 L416.0,104.7 L418.0,106.9 L420.4,108.1 L421.3,111.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Iraq</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Iraq</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>IRQ</iso-a3>
+    <iso-a2>IQ</iso-a2>
+    <woe-id>23424855</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>iq</hc-key>
+    <hc-a2>IQ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GE" d="M413.4,89.3 L411.8,89.4 L410.4,89.7 L409.0,88.7 L406.4,88.8 L406.1,86.5 L402.9,84.9 L408.6,85.4 L411.0,86.7 L412.7,86.3 L416.1,88.0 L416.5,89.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Georgia</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Geo.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>GEO</iso-a3>
+    <iso-a2>GE</iso-a2>
+    <woe-id>23424823</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>ge</hc-key>
+    <hc-a2>GE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GM" d="M288.6,148.8 L288.5,148.3 L289.1,147.7 L292.6,147.3 L290.6,148.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Gambia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Gambia</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GMB</iso-a3>
+    <iso-a2>GM</iso-a2>
+    <woe-id>23424821</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>gm</hc-key>
+    <hc-a2>GM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TD" d="M354.2,149.0 L354.8,148.8 L353.9,148.8 L353.9,148.8 L353.7,148.7 L353.8,148.8 L353.3,148.8 L352.3,147.5 L352.0,146.1 L356.1,140.7 L356.6,134.4 L357.0,133.5 L355.3,131.1 L354.9,127.9 L356.9,127.0 L373.8,135.3 L374.0,143.2 L372.1,143.3 L371.0,146.6 L370.1,147.3 L370.4,149.5 L371.8,153.4 L371.0,153.2 L366.8,157.1 L364.0,157.4 L362.9,159.4 L359.1,160.5 L356.4,160.5 L355.7,158.5 L353.1,156.1 L353.6,155.4 L356.8,155.3 L355.4,153.6 L355.6,152.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Chad</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Chad</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>TCD</iso-a3>
+    <iso-a2>TD</iso-a2>
+    <woe-id>23424777</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.69</hc-middle-y>
+    <hc-key>td</hc-key>
+    <hc-a2>TD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NG" d="M352.3,147.5 L353.3,148.8 L354.6,150.7 L349.5,158.8 L347.6,162.8 L346.1,161.4 L342.4,164.1 L341.9,166.2 L336.8,167.4 L335.6,166.6 L333.1,163.0 L329.5,163.0 L329.6,157.3 L331.8,154.0 L331.3,151.7 L332.4,148.0 L335.4,147.1 L338.3,149.0 L340.2,148.3 L344.0,149.4 L345.0,148.5 L347.8,148.2 L350.0,148.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Nigeria</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Nigeria</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>NGA</iso-a3>
+    <iso-a2>NG</iso-a2>
+    <woe-id>23424908</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>ng</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KV" d="M364.7,88.1 L364.5,87.4 L363.6,86.7 L363.5,86.3 L364.1,86.1 L364.9,85.2 L366.9,86.4 L366.6,87.3 L365.7,87.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Kosovo</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Kos.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>-99</iso-a3>
+    <iso-a2>KV</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>kv</hc-key>
+    <hc-a2>KV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LB" d="M395.2,106.6 L396.0,104.9 L396.7,103.3 L398.1,104.3 L396.6,105.9 L396.0,106.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Lebanon</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Leb.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>LBN</iso-a3>
+    <iso-a2>LB</iso-a2>
+    <woe-id>23424873</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>lb</hc-key>
+    <hc-a2>LB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DJ" d="M414.0,153.2 L411.9,153.4 L411.6,153.0 L411.8,152.8 L411.6,152.6 L411.5,152.1 L412.7,150.1 L413.4,150.3 L414.3,149.6 L414.8,151.1 L414.6,152.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Djibouti</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Dji.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>DJI</iso-a3>
+    <iso-a2>DJ</iso-a2>
+    <woe-id>23424797</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>dj</hc-key>
+    <hc-a2>DJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BI" d="M386.3,185.8 L385.7,184.6 L385.4,183.4 L385.4,182.8 L385.0,182.1 L386.8,182.0 L388.2,181.5 L388.8,183.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Burundi</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Bur.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>BDI</iso-a3>
+    <iso-a2>BI</iso-a2>
+    <woe-id>23424774</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>bi</hc-key>
+    <hc-a2>BI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SR" d="M204.7,172.3 L201.4,167.6 L203.1,164.8 L203.8,163.7 L210.0,164.1 L209.6,165.1 L208.9,166.1 L209.9,169.1 L208.6,171.5 L205.8,171.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Suriname</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Sur.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>SUR</iso-a3>
+    <iso-a2>SR</iso-a2>
+    <woe-id>23424913</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.82</hc-middle-x>
+    <hc-middle-y>0.19</hc-middle-y>
+    <hc-key>sr</hc-key>
+    <hc-a2>SR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SN" d="M295.0,149.7 L291.9,149.7 L288.7,150.4 L288.5,149.4 L288.6,148.8 L290.6,148.7 L292.6,147.3 L289.1,147.7 L287.7,145.4 L289.2,143.1 L289.6,141.7 L293.8,141.3 L298.1,145.2 L298.4,147.5 L299.9,150.2 L297.8,150.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Senegal</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Sen.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SEN</iso-a3>
+    <iso-a2>SN</iso-a2>
+    <woe-id>23424943</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.26</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>sn</hc-key>
+    <hc-a2>SN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GN" d="M295.0,149.7 L297.8,150.4 L299.9,150.2 L301.3,151.3 L304.5,150.1 L306.2,152.4 L307.0,155.0 L307.7,158.7 L306.5,158.5 L305.9,160.5 L304.6,161.2 L303.8,158.8 L302.1,158.5 L300.1,155.3 L297.5,155.6 L295.8,157.3 L294.7,155.6 L292.2,153.3 L292.9,152.2 L294.9,151.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Guinea</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Gin.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GIN</iso-a3>
+    <iso-a2>GN</iso-a2>
+    <woe-id>23424835</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>gn</hc-key>
+    <hc-a2>GN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ZW" d="M376.5,213.9 L379.5,214.5 L380.2,214.3 L382.5,212.0 L382.6,211.9 L383.9,211.3 L384.2,210.3 L387.4,209.4 L392.7,211.6 L392.5,218.7 L391.2,221.3 L388.7,223.6 L386.8,223.5 L384.7,223.2 L382.0,221.9 L381.4,219.7 L378.2,217.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Zimbabwe</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Zimb.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>ZWE</iso-a3>
+    <iso-a2>ZW</iso-a2>
+    <woe-id>23425004</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>zw</hc-key>
+    <hc-a2>ZW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PL" d="M361.0,61.6 L360.5,61.9 L361.2,61.6 L366.8,61.8 L366.9,61.8 L368.3,62.2 L368.4,62.6 L369.4,65.3 L368.1,66.1 L369.1,67.7 L370.2,69.8 L367.6,71.9 L367.5,72.9 L366.0,72.3 L360.2,72.0 L356.9,70.1 L352.3,69.1 L351.8,65.5 L350.7,64.9 L350.9,63.1 L351.6,62.8 L350.8,62.8 L350.7,62.7 L350.8,62.6 L358.4,60.7 L360.9,61.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Poland</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Pol.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>POL</iso-a3>
+    <iso-a2>PL</iso-a2>
+    <woe-id>23424923</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>pl</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK" d="M365.6,90.2 L365.6,90.2 L365.6,90.2 Z M368.1,87.2 L369.5,88.4 L369.4,89.2 L367.4,89.7 L365.9,90.2 L365.6,89.9 L365.6,90.2 L365.5,90.1 L365.5,90.1 L365.3,90.1 L365.1,90.1 L365.3,89.7 L364.9,89.8 L364.6,89.2 L364.7,88.1 L365.7,87.4 L366.6,87.3 L367.3,87.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Macedonia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mkd.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>MKD</iso-a3>
+    <iso-a2>MK</iso-a2>
+    <woe-id>23424890</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>mk</hc-key>
+    <hc-a2>MK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="PY" d="M211.4,227.2 L211.2,228.0 L210.9,230.0 L211.0,230.2 L211.0,230.3 L210.8,232.6 L209.0,234.3 L203.1,234.0 L204.9,230.1 L199.5,227.0 L197.4,226.6 L193.7,223.3 L194.2,219.8 L195.1,217.8 L200.6,217.1 L202.7,218.9 L203.5,220.6 L203.3,223.0 L206.6,223.0 L208.3,224.2 L209.0,226.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Paraguay</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Para.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>PRY</iso-a3>
+    <iso-a2>PY</iso-a2>
+    <woe-id>23424917</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>py</hc-key>
+    <hc-a2>PY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BY" d="M369.1,67.7 L368.1,66.1 L369.4,65.3 L368.4,62.6 L372.0,61.9 L373.9,59.0 L375.7,58.7 L376.7,58.0 L382.0,59.1 L384.1,62.9 L386.1,63.7 L383.4,64.6 L384.6,66.5 L380.1,68.1 L373.2,66.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Belarus</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Bela.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>BLR</iso-a3>
+    <iso-a2>BY</iso-a2>
+    <woe-id>23424765</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>by</hc-key>
+    <hc-a2>BY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV" d="M376.7,58.0 L375.7,58.7 L373.9,59.0 L372.0,58.0 L365.2,57.4 L363.4,58.1 L363.2,56.5 L364.3,55.0 L365.9,54.6 L368.1,56.2 L369.0,54.3 L370.8,53.9 L373.2,55.1 L374.8,55.1 L375.5,56.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Latvia</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Lat.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>LVA</iso-a3>
+    <iso-a2>LV</iso-a2>
+    <woe-id>23424874</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.10</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>lv</hc-key>
+    <hc-a2>LV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BF" d="M325.7,153.2 L324.8,153.2 L323.4,152.9 L318.0,153.2 L318.1,156.4 L317.0,155.5 L313.9,156.0 L312.2,154.4 L312.9,151.2 L314.2,150.8 L315.2,148.1 L317.0,148.4 L317.8,146.8 L319.3,146.6 L322.3,144.6 L324.2,145.0 L325.8,148.9 L328.4,149.8 L328.8,151.3 L326.8,152.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Burkina Faso</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>B.F.</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>BFA</iso-a3>
+    <iso-a2>BF</iso-a2>
+    <woe-id>23424978</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>bf</hc-key>
+    <hc-a2>BF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NA" d="M372.6,213.6 L374.4,213.3 L376.5,213.9 L373.0,215.4 L372.4,214.4 L367.6,215.0 L367.4,222.7 L365.3,222.8 L365.1,228.6 L364.9,236.4 L363.0,237.5 L359.5,236.9 L358.9,235.5 L357.7,236.7 L355.3,234.0 L354.0,228.2 L353.7,223.4 L348.5,214.7 L348.4,212.8 L351.3,212.2 L352.9,213.1 L362.3,213.1 L363.0,213.8 L367.2,214.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Namibia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Nam.</country-abbrev>
+    <subregion>Southern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>NAM</iso-a3>
+    <iso-a2>NA</iso-a2>
+    <woe-id>23424987</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LA" d="M549.0,145.4 L547.6,146.2 L544.2,146.1 L544.8,143.2 L542.9,141.5 L542.8,139.8 L540.8,137.8 L538.7,138.4 L536.9,138.0 L535.1,139.6 L534.8,135.2 L533.2,135.2 L532.2,133.5 L533.2,131.5 L534.0,130.9 L535.3,131.8 L534.6,129.5 L535.8,129.2 L537.8,130.9 L538.3,132.4 L540.2,132.2 L542.4,134.1 L540.3,135.7 L542.2,136.8 L546.4,140.6 L549.2,144.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Laos</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Laos</country-abbrev>
+    <subregion>South-Eastern Asia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>LAO</iso-a3>
+    <iso-a2>LA</iso-a2>
+    <woe-id>23424872</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="EC" d="M157.5,173.4 L160.4,175.0 L162.8,175.4 L165.0,176.6 L164.4,179.6 L162.1,181.8 L158.6,183.6 L157.1,187.0 L154.0,185.0 L154.4,183.6 L155.6,182.0 L153.1,181.3 L153.1,178.7 L154.9,176.3 L154.8,174.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Ecuador</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Ecu.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>ECU</iso-a3>
+    <iso-a2>EC</iso-a2>
+    <woe-id>23424801</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.21</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>ec</hc-key>
+    <hc-a2>EC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CO" d="M165.0,176.6 L162.8,175.4 L160.4,175.0 L157.5,173.4 L157.8,171.8 L159.6,170.7 L161.2,168.3 L160.5,163.4 L159.7,161.1 L161.3,159.7 L161.0,158.1 L161.9,158.4 L164.7,156.5 L165.1,154.1 L168.1,152.4 L169.8,152.6 L173.7,150.2 L174.0,151.4 L172.6,151.8 L170.5,154.4 L170.2,156.8 L171.4,158.8 L171.9,161.5 L176.1,161.7 L177.5,163.5 L181.6,163.3 L180.7,166.8 L181.9,169.2 L180.7,170.3 L182.1,171.4 L182.7,173.8 L181.8,172.0 L180.0,172.8 L176.5,172.8 L176.0,176.7 L177.3,179.4 L176.3,185.3 L174.7,184.4 L176.1,182.1 L174.3,181.1 L171.1,181.6 L169.4,181.1 L168.5,179.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Colombia</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Col.</country-abbrev>
+    <subregion>South America</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>COL</iso-a3>
+    <iso-a2>CO</iso-a2>
+    <woe-id>23424787</woe-id>
+    <continent>South America</continent>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>co</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML" d="M312.2,154.4 L310.6,153.8 L309.1,155.0 L307.0,155.0 L306.2,152.4 L304.5,150.1 L301.3,151.3 L299.9,150.2 L298.4,147.5 L298.1,145.2 L299.2,143.6 L301.3,143.9 L312.2,143.7 L310.2,123.7 L313.8,123.7 L326.2,131.9 L327.7,133.7 L330.5,134.7 L330.3,136.0 L332.6,136.0 L332.5,141.8 L331.1,144.0 L326.6,144.2 L324.2,145.0 L322.3,144.6 L319.3,146.6 L317.8,146.8 L317.0,148.4 L315.2,148.1 L314.2,150.8 L312.9,151.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mali</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mali</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>MLI</iso-a3>
+    <iso-a2>ML</iso-a2>
+    <woe-id>23424891</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>ml</hc-key>
+    <hc-a2>ML</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CF" d="M363.1,169.1 L360.6,168.6 L358.7,169.1 L357.9,171.7 L357.7,170.4 L355.8,168.5 L354.1,163.7 L356.4,160.5 L359.1,160.5 L362.9,159.4 L364.0,157.4 L366.8,157.1 L371.0,153.2 L371.8,153.4 L373.5,155.6 L373.2,157.9 L374.6,158.1 L377.2,160.9 L379.3,162.4 L379.5,163.6 L381.6,165.7 L377.7,165.1 L371.2,167.6 L367.2,167.1 L365.3,165.6 L362.9,167.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Central African Republic</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>C.A.R.</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>CAF</iso-a3>
+    <iso-a2>CF</iso-a2>
+    <woe-id>23424792</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>cf</hc-key>
+    <hc-a2>CF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BT" d="M512.3,117.9 L513.6,119.6 L509.0,120.1 L506.9,118.8 L509.2,116.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bhutan</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Bhutan</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>BTN</iso-a3>
+    <iso-a2>BT</iso-a2>
+    <woe-id>23424770</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>bt</hc-key>
+    <hc-a2>BT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KG" d="M471.2,93.2 L468.6,93.7 L466.8,92.9 L462.5,93.1 L463.6,91.6 L465.6,91.5 L467.0,91.7 L469.6,90.4 L466.6,89.0 L466.1,89.7 L463.4,88.7 L464.7,87.3 L466.2,86.1 L469.7,87.0 L470.6,85.2 L472.8,86.0 L479.2,86.0 L483.1,87.4 L479.4,89.8 L476.8,90.0 L471.7,91.9 Z M465.0,92.3 L464.8,92.3 L465.0,92.5 L465.2,92.4 Z M467.3,92.2 L467.3,92.1 L467.1,92.2 L467.2,92.2 Z M466.1,91.9 L465.6,91.8 L465.8,92.3 L466.2,92.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Kyrgyzstan</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Kgz.</country-abbrev>
+    <subregion>Central Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>KGZ</iso-a3>
+    <iso-a2>KG</iso-a2>
+    <woe-id>23424864</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>kg</hc-key>
+    <hc-a2>KG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AU" d="M628.0,210.9 L629.1,213.6 L629.2,216.6 L633.9,219.3 L634.4,223.3 L636.8,224.3 L636.4,225.3 L638.1,227.1 L639.3,229.5 L640.9,229.2 L639.8,230.8 L640.0,234.2 L639.2,237.3 L634.7,244.8 L632.9,245.8 L627.3,252.1 L625.8,255.5 L622.1,256.2 L617.7,258.1 L614.8,257.6 L615.4,256.3 L611.7,258.4 L609.8,257.3 L606.6,256.7 L605.4,254.8 L605.9,252.4 L605.0,251.4 L601.6,252.5 L600.0,251.8 L603.0,251.8 L604.7,249.7 L604.1,248.4 L602.6,250.6 L600.9,250.8 L604.7,246.3 L603.5,246.3 L598.6,250.1 L598.4,247.9 L597.0,246.4 L597.2,244.9 L593.6,244.0 L591.6,242.8 L587.1,243.2 L583.3,244.5 L581.1,244.4 L576.3,246.3 L574.7,248.0 L567.6,248.0 L563.7,250.0 L561.1,250.4 L558.9,249.9 L557.3,248.3 L559.1,246.6 L560.0,243.2 L559.3,240.1 L559.6,238.6 L558.5,232.5 L559.5,230.8 L558.5,228.2 L559.7,224.0 L564.9,220.8 L568.8,220.0 L575.8,217.8 L579.1,214.7 L579.1,212.8 L580.9,211.4 L581.9,213.4 L582.4,210.5 L584.0,210.8 L584.3,208.6 L585.9,207.2 L587.9,207.0 L590.0,205.4 L592.3,207.4 L595.3,208.2 L594.9,206.8 L596.8,203.7 L598.9,202.5 L597.7,200.0 L600.1,200.4 L599.7,202.3 L602.4,202.0 L602.4,199.7 L603.5,201.1 L607.4,202.3 L610.3,201.6 L611.2,202.3 L608.8,205.4 L607.5,207.9 L609.5,209.6 L614.4,212.0 L616.2,213.8 L618.0,213.2 L620.5,208.1 L621.0,202.9 L622.5,199.9 L622.6,197.9 L623.5,199.1 L624.7,205.4 L625.4,207.0 L626.6,206.3 L628.2,207.9 Z M612.7,262.0 L611.8,260.9 L612.7,261.8 L612.7,262.0 Z M612.7,262.0 L612.9,262.3 L615.8,263.2 L619.8,261.8 L618.5,265.2 L616.7,267.6 L616.1,266.8 L614.1,268.5 L612.6,268.3 L611.9,266.3 L612.7,262.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Australia</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Auz.</country-abbrev>
+    <subregion>Australia and New Zealand</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>AUS</iso-a3>
+    <iso-a2>AU</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Oceania</continent>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>au</hc-key>
+    <hc-a2>AU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ" d="M658.7,272.8 L655.8,274.6 L652.4,274.9 L652.5,273.8 L650.6,273.9 L652.2,271.6 L656.2,269.3 L659.4,268.3 L663.2,266.2 L667.0,262.6 L668.6,261.9 L668.5,263.5 L670.4,262.7 L670.1,264.7 L664.5,268.7 L661.8,269.8 Z M674.6,263.2 L672.6,264.2 L671.6,263.5 L673.3,262.2 L673.7,260.6 L671.8,259.5 L674.0,258.3 L675.6,256.1 L675.6,253.7 L674.1,249.1 L677.0,251.5 L676.4,254.1 L677.6,254.8 L678.0,252.8 L678.4,255.8 L680.6,256.5 L683.1,256.0 L680.3,258.9 L678.2,260.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>New Zealand</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>N.Z.</country-abbrev>
+    <subregion>Australia and New Zealand</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>NZL</iso-a3>
+    <iso-a2>NZ</iso-a2>
+    <woe-id>23424916</woe-id>
+    <continent>Oceania</continent>
+    <hc-middle-x>0.17</hc-middle-x>
+    <hc-middle-y>0.88</hc-middle-y>
+    <hc-key>nz</hc-key>
+    <hc-a2>NZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CU" d="M169.1,134.1 L161.9,134.6 L163.3,133.2 L160.9,132.3 L160.1,130.8 L153.9,129.6 L152.0,128.5 L148.2,130.5 L148.6,129.3 L151.2,127.9 L156.7,127.5 L158.5,128.2 L159.1,129.1 L161.2,128.9 L163.8,131.1 L168.2,132.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cuba</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Cuba</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>CUB</iso-a3>
+    <iso-a2>CU</iso-a2>
+    <woe-id>23424793</woe-id>
+    <continent>North America</continent>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>cu</hc-key>
+    <hc-a2>CU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MG" d="M428.0,211.3 L422.3,226.7 L421.2,229.1 L417.0,230.4 L414.8,229.1 L414.5,225.9 L413.5,223.3 L414.2,221.4 L416.4,218.6 L415.6,213.2 L416.8,210.6 L419.2,210.1 L423.2,208.2 L424.9,204.7 L426.2,204.6 L427.2,201.6 L428.6,203.9 L429.5,209.0 L427.7,209.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Madagascar</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mad.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>MDG</iso-a3>
+    <iso-a2>MG</iso-a2>
+    <woe-id>23424883</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>mg</hc-key>
+    <hc-a2>MG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VU" d="M675.4,214.0 L675.6,210.9 L674.0,211.4 L673.1,208.4 L674.9,206.2 L673.4,204.8 L675.0,205.3 L676.0,208.0 L675.8,213.9 L677.0,216.3 L676.9,217.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Vanuatu</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Van.</country-abbrev>
+    <subregion>Melanesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>VUT</iso-a3>
+    <iso-a2>VU</iso-a2>
+    <woe-id>23424907</woe-id>
+    <continent>Oceania</continent>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>vu</hc-key>
+    <hc-a2>VU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IS" d="M283.9,36.2 L286.0,37.2 L286.6,38.6 L288.2,36.9 L292.6,37.2 L295.3,36.1 L297.8,37.1 L299.7,38.9 L297.7,40.6 L289.9,42.7 L286.8,42.0 L282.9,41.8 L284.9,40.6 L283.7,39.7 L284.7,38.5 L280.2,38.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Iceland</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Iceland</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>ISL</iso-a3>
+    <iso-a2>IS</iso-a2>
+    <woe-id>23424845</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>is</hc-key>
+    <hc-a2>IS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LK" d="M491.7,159.4 L492.3,155.7 L493.6,156.7 L496.0,160.4 L495.8,162.8 L493.6,163.9 L492.5,163.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Sri Lanka</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Sri L.</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>LKA</iso-a3>
+    <iso-a2>LK</iso-a2>
+    <woe-id>23424778</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.81</hc-middle-y>
+    <hc-key>lk</hc-key>
+    <hc-a2>LK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BW" d="M365.1,228.6 L365.3,222.8 L367.4,222.7 L367.6,215.0 L372.4,214.4 L373.0,215.4 L376.5,213.9 L378.2,217.5 L381.4,219.7 L382.0,221.9 L384.7,223.2 L382.3,224.2 L379.8,226.3 L379.3,227.6 L377.3,228.6 L376.6,230.4 L375.1,230.9 L371.4,229.8 L370.7,231.2 L368.4,233.1 L366.4,233.1 L366.8,231.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Botswana</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Bwa.</country-abbrev>
+    <subregion>Southern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>BWA</iso-a3>
+    <iso-a2>BW</iso-a2>
+    <woe-id>23424755</woe-id>
+    <continent>Africa</continent>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>bw</hc-key>
+    <hc-a2>BW</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NP" d="M505.1,117.6 L505.6,120.0 L503.9,120.8 L500.8,120.4 L498.0,118.8 L494.2,118.4 L488.1,115.6 L489.7,112.7 L491.9,112.4 L495.2,114.8 L496.3,114.7 L500.7,117.6 L501.8,117.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Nepal</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Nepal</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>South Asia</region-wb>
+    <iso-a3>NPL</iso-a3>
+    <iso-a2>NP</iso-a2>
+    <woe-id>23424911</woe-id>
+    <continent>Asia</continent>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>np</hc-key>
+    <hc-a2>NP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MD" d="M379.2,80.5 L379.1,78.1 L376.3,74.8 L375.6,74.6 L377.8,74.2 L380.7,75.4 L382.7,78.6 L380.5,78.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Moldova</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mda.</country-abbrev>
+    <subregion>Eastern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>MDA</iso-a3>
+    <iso-a2>MD</iso-a2>
+    <woe-id>23424885</woe-id>
+    <continent>Europe</continent>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>md</hc-key>
+    <hc-a2>MD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

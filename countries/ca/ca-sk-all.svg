@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.
+</desc>
+<title>Saskatchewan</title>
+<g id="admin2">
+
+<g id="CA">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Canada</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Can.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>CAN</iso-a3>
+    <iso-a2>CA</iso-a2>
+    <woe-id>23424775</woe-id>
+    <continent>North America</continent>
+    <hc-key>ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</g>
+
+<g id="CA.SK">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>2</labelrank>
+    <hasc>CA.SK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344925</woe-id>
+    <subregion>Prairies</subregion>
+    <fips>CA11</fips>
+    <postal-code>SK</postal-code>
+    <name>Saskatchewan</name>
+    <country>Canada</country>
+    <type-en>Province</type-en>
+    <region>Western Canada</region>
+    <longitude>-105.682</longitude>
+    <woe-name>Saskatchewan</woe-name>
+    <latitude>54.4965</latitude>
+    <woe-label>Saskatchewan, CA, Canada</woe-label>
+    <type>Province</type>
+    <hc-key>ca-sk</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4711" d="M125.7,541.8 L125.1,542.4 L124.6,541.4 L125.7,541.5 Z M133.7,555.9 L130.0,552.6 L128.7,547.4 L125.7,545.9 L126.4,537.0 L131.6,530.3 L135.8,528.7 L139.7,521.8 L139.5,514.1 L135.1,511.9 L135.3,500.9 L118.7,500.4 L118.7,487.3 L123.7,487.0 L125.9,485.1 L129.2,486.2 L131.2,484.2 L142.9,484.5 L142.9,482.7 L155.7,482.9 L151.2,490.2 L152.2,490.2 L152.0,501.2 L207.4,501.8 L207.4,512.8 L208.2,512.8 L208.3,534.8 L209.1,534.8 L209.1,551.3 L214.7,551.3 L215.5,556.8 L215.5,565.1 L215.5,567.9 L182.3,567.8 L142.8,567.1 L138.4,564.4 L135.8,561.2 L133.9,555.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 11</name>
+    <type>CDR</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>ca-sk-4711</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4708" d="M4.7,621.7 L6.2,601.5 L10.1,544.6 L43.2,546.6 L67.9,548.0 L101.3,549.3 L101.6,554.8 L101.0,571.4 L95.4,571.2 L95.8,576.8 L95.2,592.0 L97.5,593.2 L99.2,601.1 L100.8,604.1 L100.1,621.0 L100.3,632.1 L83.6,631.4 L83.4,636.9 L66.7,636.2 L67.0,630.7 L50.4,629.9 L51.0,618.9 L50.4,613.3 L33.8,612.4 L34.4,618.0 L33.8,629.0 L17.2,628.0 L17.5,622.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  8</name>
+    <type>CDR</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ca-sk-4708</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4706" d="M196.1,634.0 L196.1,622.9 L195.2,622.7 L195.3,600.9 L192.2,600.0 L187.0,596.0 L183.2,591.1 L183.3,578.8 L182.2,578.8 L182.3,567.8 L215.5,567.9 L215.5,565.1 L221.1,565.1 L221.1,562.3 L226.6,562.3 L226.6,567.8 L259.5,567.5 L259.5,565.8 L276.2,565.5 L277.3,598.9 L278.0,602.5 L272.6,600.5 L272.9,616.8 L278.4,616.6 L279.2,633.1 L222.0,633.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  6</name>
+    <type>CDR</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ca-sk-4706</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4707" d="M182.3,567.8 L182.2,578.8 L183.3,578.8 L183.2,591.1 L187.0,596.0 L192.2,600.0 L195.3,600.9 L195.2,622.7 L196.1,622.9 L196.1,634.0 L163.4,633.6 L100.3,632.1 L100.1,621.0 L100.8,604.1 L99.2,601.1 L97.5,593.2 L95.2,592.0 L95.8,576.8 L95.4,571.2 L101.0,571.4 L101.6,554.8 L133.7,555.9 L133.9,555.8 L135.8,561.2 L138.4,564.4 L142.8,567.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  7</name>
+    <type>CDR</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>ca-sk-4707</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4705" d="M344.9,562.7 L345.4,574.0 L346.6,573.9 L347.6,596.3 L349.0,596.1 L350.0,618.5 L351.2,618.4 L351.8,629.5 L329.0,630.7 L329.1,631.6 L279.2,633.1 L278.4,616.6 L272.9,616.8 L272.6,600.5 L278.0,602.5 L277.3,598.9 L276.2,565.5 L312.0,564.4 L326.3,563.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  5</name>
+    <type>CDR</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ca-sk-4705</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4714" d="M328.4,400.2 L329.5,400.2 L330.7,422.0 L332.0,421.9 L333.0,444.2 L334.1,444.1 L335.2,465.8 L336.5,465.8 L337.5,487.8 L309.3,488.9 L273.6,490.0 L273.8,501.0 L257.2,501.3 L223.9,501.7 L223.8,490.7 L223.1,490.7 L223.0,468.8 L222.3,468.8 L222.2,446.7 L221.5,446.7 L221.3,433.2 L216.9,434.0 L215.8,436.8 L211.3,437.2 L208.6,433.0 L204.7,432.4 L204.7,424.7 L203.8,424.7 L203.8,402.7 L202.7,397.2 L258.2,396.7 L259.0,407.6 L266.3,406.7 L267.7,403.9 L274.6,401.0 L278.1,400.6 L280.8,397.4 L281.1,401.7 L317.2,400.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 14</name>
+    <type>CDR</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ca-sk-4714</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4704" d="M115.9,698.7 L0.0,693.2 L4.7,621.7 L17.5,622.5 L17.2,628.0 L33.8,629.0 L34.4,618.0 L33.8,612.4 L50.4,613.3 L51.0,618.9 L50.4,629.9 L67.0,630.7 L66.7,636.2 L83.4,636.9 L83.6,631.4 L100.3,632.1 L100.4,643.1 L99.6,665.1 L99.5,681.6 L116.1,682.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  4</name>
+    <type>CDR</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ca-sk-4704</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4715" d="M202.7,397.2 L203.8,402.7 L203.8,424.7 L204.7,424.7 L204.7,432.4 L208.6,433.0 L211.3,437.2 L215.8,436.8 L216.9,434.0 L221.3,433.2 L221.5,446.7 L222.2,446.7 L222.3,468.8 L223.0,468.8 L223.1,490.7 L223.8,490.7 L223.9,501.7 L215.7,501.8 L207.4,501.8 L152.0,501.2 L152.2,490.2 L151.2,490.2 L155.7,482.9 L142.9,482.7 L142.9,484.5 L131.2,484.2 L133.1,480.6 L137.1,467.6 L139.5,466.2 L147.7,455.9 L152.8,451.5 L154.9,445.3 L159.1,441.4 L161.1,437.3 L166.0,434.8 L168.8,435.1 L169.4,437.9 L169.6,425.0 L170.4,419.0 L167.9,418.9 L168.0,414.4 L169.8,413.5 L170.2,385.9 L202.7,386.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 15</name>
+    <type>CDR</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>ca-sk-4715</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4703" d="M198.8,700.0 L171.2,699.8 L115.9,698.7 L116.1,682.2 L99.5,681.6 L99.6,665.1 L100.4,643.1 L100.3,632.1 L163.4,633.6 L196.1,634.0 L196.0,645.0 L197.0,645.0 L196.9,667.0 L197.9,667.1 L197.9,675.7 L192.4,678.0 L186.8,678.0 L186.8,683.5 L197.9,683.6 L198.8,689.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  3</name>
+    <type>CDR</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ca-sk-4703</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4702" d="M281.8,699.1 L215.4,700.0 L198.8,700.0 L198.8,689.0 L197.9,683.6 L186.8,683.5 L186.8,678.0 L192.4,678.0 L197.9,675.7 L197.9,667.1 L196.9,667.0 L197.0,645.0 L196.0,645.0 L196.1,634.0 L222.0,633.9 L279.2,633.1 L280.4,666.2 L280.8,666.2 L281.2,688.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  2</name>
+    <type>CDR</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ca-sk-4702</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4716" d="M170.2,385.9 L169.8,413.5 L168.0,414.4 L167.9,418.9 L170.4,419.0 L169.6,425.0 L169.4,437.9 L168.8,435.1 L166.0,434.8 L161.1,437.3 L159.1,441.4 L154.9,445.3 L152.8,451.5 L147.7,455.9 L139.5,466.2 L137.1,467.6 L133.1,480.6 L131.2,484.2 L129.2,486.2 L125.9,485.1 L123.7,487.0 L118.7,487.3 L115.3,487.3 L109.6,483.5 L106.2,479.9 L100.5,476.1 L98.0,473.2 L90.4,471.5 L86.6,466.1 L84.1,464.3 L78.7,457.8 L79.5,454.5 L76.1,451.2 L76.2,449.1 L86.3,449.6 L86.1,439.0 L86.9,422.0 L86.4,416.7 L88.2,413.7 L85.9,411.9 L89.2,405.6 L98.0,405.9 L97.8,394.9 L103.3,395.1 L103.7,384.1 L120.3,384.7 L120.4,373.8 L120.4,373.8 L120.4,373.8 L142.7,374.5 L142.9,363.4 L170.5,363.9 Z M120.4,373.8 L120.4,373.8 L120.4,373.8 L120.4,373.8 L120.4,373.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 16</name>
+    <type>CDR</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>ca-sk-4716</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4701" d="M279.2,633.1 L329.1,631.6 L329.0,630.7 L351.8,629.5 L352.2,640.7 L353.4,640.6 L354.5,662.9 L355.5,662.9 L356.6,685.2 L357.9,685.2 L358.4,696.4 L281.8,699.1 L281.2,688.2 L280.8,666.2 L280.4,666.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  1</name>
+    <type>CDR</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>ca-sk-4701</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4717" d="M16.5,450.1 L19.3,411.0 L24.5,337.2 L27.9,337.7 L29.5,341.6 L32.2,343.5 L37.7,343.9 L38.5,346.7 L41.2,347.8 L55.1,348.7 L55.0,349.6 L67.9,350.3 L68.0,348.4 L73.6,348.7 L73.8,344.1 L75.7,344.2 L76.0,338.7 L82.4,339.1 L82.1,344.6 L98.7,345.3 L98.3,356.3 L98.9,356.3 L98.2,372.9 L120.4,373.8 L120.4,373.8 L120.3,384.7 L103.7,384.1 L103.3,395.1 L97.8,394.9 L98.0,405.9 L89.2,405.6 L85.9,411.9 L88.2,413.7 L86.4,416.7 L86.9,422.0 L86.1,439.0 L86.3,449.6 L76.2,449.1 L76.1,451.2 L68.5,445.7 L64.4,444.0 L64.0,451.5 L59.7,452.1 L55.0,448.8 L55.2,446.2 L50.5,445.9 L47.6,447.4 L47.9,442.1 L37.5,441.4 L34.8,439.7 L30.5,439.4 L25.6,440.7 L19.5,448.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 17</name>
+    <type>CDR</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ca-sk-4717</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4710" d="M207.4,501.8 L215.7,501.8 L223.9,501.7 L257.2,501.3 L273.8,501.0 L274.5,512.0 L275.5,554.3 L276.2,565.5 L259.5,565.8 L259.5,567.5 L226.6,567.8 L226.6,562.3 L221.1,562.3 L221.1,565.1 L215.5,565.1 L215.5,556.8 L214.7,551.3 L209.1,551.3 L209.1,534.8 L208.3,534.8 L208.2,512.8 L207.4,512.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 10</name>
+    <type>CDR</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ca-sk-4710</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4712" d="M133.7,555.9 L101.6,554.8 L101.3,549.3 L67.9,548.0 L68.8,531.5 L68.0,531.4 L68.8,515.0 L74.3,515.2 L73.9,509.7 L74.9,487.7 L74.5,482.1 L85.5,482.6 L84.2,478.8 L78.8,478.6 L79.2,471.3 L69.5,470.8 L69.8,465.3 L63.3,465.0 L64.0,451.5 L64.4,444.0 L68.5,445.7 L76.1,451.2 L79.5,454.5 L78.7,457.8 L84.1,464.3 L86.6,466.1 L90.4,471.5 L98.0,473.2 L100.5,476.1 L106.2,479.9 L109.6,483.5 L115.3,487.3 L118.7,487.3 L118.7,500.4 L135.3,500.9 L135.1,511.9 L139.5,514.1 L139.7,521.8 L135.8,528.7 L131.6,530.3 L126.4,537.0 L125.7,545.9 L128.7,547.4 L130.0,552.6 L133.9,555.8 Z M125.7,541.8 L125.7,541.5 L124.6,541.4 L125.1,542.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 12</name>
+    <type>CDR</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.69</hc-middle-y>
+    <hc-key>ca-sk-4712</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4713" d="M10.1,544.6 L13.0,500.6 L16.5,450.1 L19.5,448.5 L25.6,440.7 L30.5,439.4 L34.8,439.7 L37.5,441.4 L47.9,442.1 L47.6,447.4 L50.5,445.9 L55.2,446.2 L55.0,448.8 L59.7,452.1 L64.0,451.5 L63.3,465.0 L69.8,465.3 L69.5,470.8 L79.2,471.3 L78.8,478.6 L84.2,478.8 L85.5,482.6 L74.5,482.1 L74.9,487.7 L73.9,509.7 L74.3,515.2 L68.8,515.0 L68.0,531.4 L68.8,531.5 L67.9,548.0 L43.2,546.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 13</name>
+    <type>CDR</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>ca-sk-4713</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4718" d="M202.7,397.2 L202.7,386.1 L170.2,385.9 L170.5,363.9 L142.9,363.4 L142.7,374.5 L120.4,373.8 L120.4,373.8 L120.4,373.8 L120.4,373.8 L120.4,373.8 L120.4,373.8 L98.2,372.9 L98.9,356.3 L98.3,356.3 L98.7,345.3 L82.1,344.6 L82.4,339.1 L76.0,338.7 L75.7,344.2 L73.8,344.1 L73.6,348.7 L68.0,348.4 L67.9,350.3 L55.0,349.6 L55.1,348.7 L41.2,347.8 L38.5,346.7 L37.7,343.9 L32.2,343.5 L29.5,341.6 L27.9,337.7 L24.5,337.2 L27.8,294.2 L49.5,0.0 L302.4,3.8 L314.1,268.0 L315.9,267.9 L316.7,290.0 L318.2,290.0 L318.9,312.1 L320.4,312.2 L321.2,334.1 L322.8,335.2 L323.4,355.9 L324.9,355.9 L325.9,378.0 L327.5,377.9 L328.4,400.2 L317.2,400.5 L281.1,401.7 L280.8,397.4 L278.1,400.6 L274.6,401.0 L267.7,403.9 L266.3,406.7 L259.0,407.6 L258.2,396.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No. 18</name>
+    <type>CDR</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ca-sk-4718</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.SK.4709" d="M276.2,565.5 L275.5,554.3 L274.5,512.0 L273.8,501.0 L273.6,490.0 L337.5,487.8 L338.6,487.7 L339.6,509.8 L340.8,509.7 L343.1,551.7 L344.3,551.7 L344.9,562.7 L326.3,563.8 L312.0,564.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Division No.  9</name>
+    <type>CDR</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ca-sk-4709</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.</text>
+
+</svg>

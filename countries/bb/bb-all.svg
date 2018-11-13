@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Barbados</title>
+<g id="admin1">
+
+<g id="BB">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Barbados</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Barb.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>BRB</iso-a3>
+    <iso-a2>BB</iso-a2>
+    <woe-id>23424754</woe-id>
+    <continent>North America</continent>
+    <hc-key>bb</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.MI" d="M126.0,621.4 L126.0,621.4 L107.5,620.1 L76.1,597.9 L49.1,545.5 L31.7,484.2 L31.8,484.2 L38.3,483.7 L50.2,494.9 L53.1,496.6 L53.3,496.1 L58.0,493.3 L69.6,488.2 L73.8,485.0 L75.9,482.8 L100.7,463.6 L138.2,455.9 L141.5,454.5 L156.8,437.2 L195.7,564.0 L199.2,579.7 L199.5,582.9 L198.4,583.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.MI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344737</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB08</fips>
+    <postal-code>MI</postal-code>
+    <name>Saint Michael</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.6047</longitude>
+    <woe-name>Saint Michael</woe-name>
+    <latitude>13.118</latitude>
+    <woe-label>Saint Michael, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>bb-mi</hc-key>
+    <hc-a2>MI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.PE" d="M7.9,252.2 L3.0,168.6 L3.1,168.6 L12.2,166.7 L55.4,137.8 L180.8,97.1 L182.9,95.8 L183.0,95.8 L199.2,131.0 L199.2,131.0 L195.2,132.4 L181.6,132.9 L178.4,132.2 L178.1,131.9 L177.6,131.9 L173.8,135.4 L172.4,135.5 L171.3,135.4 L170.5,134.8 L169.7,134.6 L168.5,134.3 L167.3,133.6 L163.9,134.6 L158.6,137.7 L148.6,147.3 L143.1,149.5 L139.6,149.9 L138.3,148.9 L137.4,148.7 L136.8,148.8 L136.0,148.9 L135.4,148.9 L133.5,148.7 L132.5,148.8 L131.5,149.1 L130.3,149.4 L129.1,149.4 L127.2,148.8 L125.6,148.2 L124.1,147.4 L123.4,146.7 L122.7,146.5 L122.1,146.2 L121.4,146.5 L120.6,147.0 L119.2,147.4 L117.0,157.8 L113.9,164.0 L112.5,244.5 L61.8,237.7 L22.6,256.0 L8.0,252.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.PE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344738</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB09</fips>
+    <postal-code>PE</postal-code>
+    <name>Saint Peter</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.6109</longitude>
+    <woe-name>Saint Peter</woe-name>
+    <latitude>13.2679</latitude>
+    <woe-label>Saint Peter, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>bb-pe</hc-key>
+    <hc-a2>PE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.AN" d="M199.2,131.0 L244.0,227.6 L253.3,240.4 L253.2,240.4 L247.8,241.7 L218.3,255.6 L211.2,257.4 L208.3,256.1 L207.6,255.5 L206.9,254.2 L206.2,253.7 L205.6,253.4 L204.8,253.2 L203.8,253.4 L202.5,253.7 L195.2,265.5 L171.1,321.4 L160.4,307.4 L152.1,304.3 L124.2,305.9 L112.5,244.5 L113.9,164.0 L117.0,157.8 L119.2,147.4 L120.6,147.0 L121.4,146.5 L122.1,146.2 L122.7,146.5 L123.4,146.7 L124.1,147.4 L125.6,148.2 L127.2,148.8 L129.1,149.4 L130.3,149.4 L131.5,149.1 L132.5,148.8 L133.5,148.7 L135.4,148.9 L136.0,148.9 L136.8,148.8 L137.4,148.7 L138.3,148.9 L139.6,149.9 L143.1,149.5 L148.6,147.3 L158.6,137.7 L163.9,134.6 L167.3,133.6 L168.5,134.3 L169.7,134.6 L170.5,134.8 L171.3,135.4 L172.4,135.5 L173.8,135.4 L177.6,131.9 L178.1,131.9 L178.4,132.2 L181.6,132.9 L195.2,132.4 L199.2,131.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344731</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB02</fips>
+    <postal-code>AN</postal-code>
+    <name>Saint Andrew</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.5759</longitude>
+    <woe-name>Saint Andrew</woe-name>
+    <latitude>13.2551</latitude>
+    <woe-label>Saint Andrew, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>bb-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.PH" d="M436.0,377.0 L460.7,385.0 L503.9,404.8 L531.3,439.3 L524.0,521.6 L464.0,583.4 L417.1,615.7 L417.1,615.7 L405.7,599.9 L399.7,597.0 L386.4,591.8 L382.5,590.6 L380.2,588.8 L380.3,587.9 L377.3,581.2 L363.6,557.8 L362.9,555.9 L359.1,529.9 L355.1,523.5 L351.7,520.1 L329.8,513.3 L340.1,474.3 L371.3,433.2 L388.0,426.6 L403.8,416.7 L406.8,413.8 L432.4,382.7 L436.0,377.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.PH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344739</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB10</fips>
+    <postal-code>PH</postal-code>
+    <name>Saint Philip</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.47</longitude>
+    <woe-name>Saint Philip</woe-name>
+    <latitude>13.1368</latitude>
+    <woe-label>Saint Philip, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>bb-ph</hc-key>
+    <hc-a2>PH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.CC" d="M417.1,615.7 L389.6,634.6 L339.8,685.3 L321.4,687.6 L306.5,687.4 L292.0,689.9 L276.0,700.0 L253.0,660.6 L209.8,635.9 L157.2,623.6 L126.0,621.4 L198.4,583.1 L199.5,582.9 L199.2,579.7 L195.7,564.0 L329.8,513.3 L351.7,520.1 L355.1,523.5 L359.1,529.9 L362.9,555.9 L363.6,557.8 L377.3,581.2 L380.3,587.9 L380.2,588.8 L382.5,590.6 L386.4,591.8 L399.7,597.0 L405.7,599.9 L417.1,615.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.CC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344730</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB01</fips>
+    <postal-code>CC</postal-code>
+    <name>Christ Church</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.538</longitude>
+    <woe-name>Christ Church</woe-name>
+    <latitude>13.0873</latitude>
+    <woe-label>Christ Church, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>bb-cc</hc-key>
+    <hc-a2>CC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.TH" d="M156.8,437.2 L141.5,454.5 L138.2,455.9 L100.7,463.6 L87.1,404.9 L71.7,387.4 L68.6,385.6 L67.5,384.4 L68.2,383.9 L68.6,382.7 L69.5,380.5 L70.1,379.6 L70.9,379.0 L73.3,378.3 L75.8,373.6 L79.0,365.7 L85.2,338.8 L86.6,334.6 L90.9,333.0 L92.0,332.3 L92.4,332.1 L93.8,332.1 L94.2,331.9 L94.6,331.9 L95.2,331.7 L96.0,331.2 L98.5,328.9 L98.9,328.9 L99.3,328.8 L100.1,328.4 L100.4,328.2 L102.0,327.2 L102.5,326.8 L103.1,326.7 L103.9,326.7 L104.5,326.8 L104.9,326.8 L105.6,327.0 L106.0,326.8 L106.6,326.4 L107.1,325.9 L107.3,325.7 L107.8,325.9 L108.2,326.1 L111.6,322.8 L124.2,305.9 L152.1,304.3 L160.4,307.4 L171.1,321.4 L204.1,342.0 L207.3,345.0 L213.6,352.5 L233.5,392.5 L216.6,412.7 L211.9,415.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.TH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344740</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB11</fips>
+    <postal-code>TH</postal-code>
+    <name>Saint Thomas</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.5898</longitude>
+    <woe-name>Saint Thomas</woe-name>
+    <latitude>13.1877</latitude>
+    <woe-label>Saint Thomas, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>bb-th</hc-key>
+    <hc-a2>TH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.GE" d="M329.8,513.3 L195.7,564.0 L156.8,437.2 L211.9,415.5 L216.6,412.7 L233.5,392.5 L264.8,386.8 L266.4,386.7 L315.5,431.8 L320.1,437.0 L340.1,474.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.GE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344732</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB03</fips>
+    <postal-code>GE</postal-code>
+    <name>Saint George</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.5479</longitude>
+    <woe-name>Saint George</woe-name>
+    <latitude>13.1489</latitude>
+    <woe-label>Saint George, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>bb-ge</hc-key>
+    <hc-a2>GE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.JM" d="M112.5,244.5 L124.2,305.9 L111.6,322.8 L108.2,326.1 L107.8,325.9 L107.3,325.7 L107.1,325.9 L106.6,326.4 L106.0,326.8 L105.6,327.0 L104.9,326.8 L104.5,326.8 L103.9,326.7 L103.1,326.7 L102.5,326.8 L102.0,327.2 L100.4,328.2 L100.1,328.4 L99.3,328.8 L98.9,328.9 L98.5,328.9 L96.0,331.2 L95.2,331.7 L94.6,331.9 L94.2,331.9 L93.8,332.1 L92.4,332.1 L92.0,332.3 L90.9,333.0 L86.6,334.6 L85.2,338.8 L79.0,365.7 L75.8,373.6 L73.3,378.3 L70.9,379.0 L70.1,379.6 L69.5,380.5 L68.6,382.7 L68.2,383.9 L67.5,384.4 L68.6,385.6 L71.7,387.4 L87.1,404.9 L100.7,463.6 L75.9,482.8 L73.8,485.0 L69.6,488.2 L58.0,493.3 L53.3,496.1 L53.1,496.6 L50.2,494.9 L38.3,483.7 L31.8,484.2 L31.7,484.2 L18.9,439.4 L7.9,252.2 L8.0,252.2 L22.6,256.0 L61.8,237.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.JM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344733</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB04</fips>
+    <postal-code>JM</postal-code>
+    <name>Saint James</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.6259</longitude>
+    <woe-name>Saint James</woe-name>
+    <latitude>13.192</latitude>
+    <woe-label>Saint James, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.24</hc-middle-y>
+    <hc-key>bb-jm</hc-key>
+    <hc-a2>JM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.JN" d="M340.1,474.3 L320.1,437.0 L315.5,431.8 L266.4,386.7 L268.6,349.3 L269.1,346.0 L270.3,341.5 L272.3,341.5 L273.3,341.4 L274.3,341.2 L312.7,305.5 L318.2,303.1 L318.2,303.1 L379.6,349.8 L415.0,370.2 L436.0,377.0 L436.0,377.0 L432.4,382.7 L406.8,413.8 L403.8,416.7 L388.0,426.6 L371.3,433.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.JN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344734</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB05</fips>
+    <postal-code>JN</postal-code>
+    <name>Saint John</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.5039</longitude>
+    <woe-name>Saint John</woe-name>
+    <latitude>13.1795</latitude>
+    <woe-label>Saint John, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>bb-jn</hc-key>
+    <hc-a2>JN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.JS" d="M312.7,305.5 L274.3,341.2 L273.3,341.4 L272.3,341.5 L270.3,341.5 L269.1,346.0 L268.6,349.3 L266.4,386.7 L264.8,386.8 L233.5,392.5 L213.6,352.5 L207.3,345.0 L204.1,342.0 L171.1,321.4 L195.2,265.5 L202.5,253.7 L203.8,253.4 L204.8,253.2 L205.6,253.4 L206.2,253.7 L206.9,254.2 L207.6,255.5 L208.3,256.1 L211.2,257.4 L218.3,255.6 L247.8,241.7 L253.2,240.4 L253.3,240.4 L274.8,270.0 L318.2,303.1 L318.2,303.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.JS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344735</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB06</fips>
+    <postal-code>JS</postal-code>
+    <name>Saint Joseph</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.5495</longitude>
+    <woe-name>Saint Joseph</woe-name>
+    <latitude>13.2118</latitude>
+    <woe-label>Saint Joseph, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>bb-js</hc-key>
+    <hc-a2>JS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BB.LU" d="M3.0,168.6 L0.0,117.9 L4.7,80.9 L21.2,49.7 L54.4,15.7 L96.6,0.0 L139.6,23.3 L171.7,71.7 L182.9,95.8 L180.8,97.1 L55.4,137.8 L12.2,166.7 L3.1,168.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>BB.LU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344736</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BB07</fips>
+    <postal-code>LU</postal-code>
+    <name>Saint Lucy</name>
+    <country>Barbados</country>
+    <type-en>Parish</type-en>
+    <region>NULL</region>
+    <longitude>-59.615</longitude>
+    <woe-name>Saint Lucy</woe-name>
+    <latitude>13.3177</latitude>
+    <woe-label>Saint Lucy, BB, Barbados</woe-label>
+    <type>Parish</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>bb-lu</hc-key>
+    <hc-a2>LU</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

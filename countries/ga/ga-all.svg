@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Gabon</title>
+<g id="admin1">
+
+<g id="GA">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Gabon</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Gabon</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>GAB</iso-a3>
+    <iso-a2>GA</iso-a2>
+    <woe-id>23424822</woe-id>
+    <continent>Africa</continent>
+    <hc-key>ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.OM" d="M36.7,344.2 L33.5,344.9 L30.8,342.2 L31.1,337.6 L28.9,331.6 L34.9,326.0 L34.0,329.9 L38.1,330.8 L39.0,334.6 L38.7,342.9 Z M98.6,324.3 L106.0,347.7 L110.6,353.8 L116.0,356.9 L118.7,360.1 L132.0,360.6 L138.4,364.7 L139.8,367.5 L139.0,371.9 L140.8,379.8 L137.0,389.6 L144.9,397.2 L154.6,400.1 L152.4,407.8 L144.5,415.4 L143.4,417.9 L144.8,428.0 L144.1,435.1 L142.2,438.8 L137.9,439.8 L132.7,447.0 L138.7,457.5 L145.6,464.3 L152.6,464.8 L165.4,469.5 L171.6,473.6 L181.7,475.5 L188.3,473.4 L198.9,479.4 L197.8,489.3 L202.1,494.1 L204.2,501.8 L215.5,518.0 L199.5,526.0 L195.6,529.3 L192.3,535.2 L194.1,541.6 L186.8,546.7 L183.9,555.6 L180.6,556.0 L143.0,566.9 L136.3,561.9 L116.3,537.4 L113.8,533.1 L119.1,538.0 L124.2,539.5 L129.2,534.6 L130.4,542.6 L138.0,545.0 L140.1,550.0 L143.9,548.4 L144.7,553.8 L148.6,554.2 L154.8,548.5 L163.9,548.1 L165.5,546.1 L162.7,542.5 L155.5,538.4 L157.8,546.1 L152.2,541.2 L148.2,540.0 L145.5,546.2 L142.4,544.6 L142.2,541.1 L145.9,539.4 L145.0,537.4 L137.0,536.1 L134.3,530.1 L127.2,531.0 L121.9,535.4 L119.3,536.1 L116.2,531.9 L118.7,529.7 L116.1,525.9 L113.1,526.5 L114.9,530.8 L112.1,531.5 L105.4,524.6 L109.9,530.8 L101.8,522.9 L99.8,516.9 L98.3,505.1 L87.1,494.2 L84.1,492.5 L77.4,485.0 L74.4,478.7 L65.1,469.7 L66.1,467.9 L69.5,472.0 L78.2,474.1 L87.2,474.8 L88.5,479.0 L86.0,481.0 L91.8,483.7 L92.2,487.1 L95.7,491.4 L98.3,489.1 L96.3,483.3 L90.6,478.7 L92.8,475.3 L87.1,466.9 L83.6,466.4 L83.6,471.0 L78.6,464.1 L76.7,463.3 L72.9,471.0 L68.9,469.4 L70.0,466.0 L67.4,464.1 L63.3,465.1 L62.0,459.6 L62.7,450.8 L61.1,441.2 L56.7,433.0 L50.4,426.6 L36.3,407.0 L43.7,410.1 L44.8,413.6 L52.4,424.0 L60.0,430.0 L64.3,431.5 L65.4,445.4 L69.7,445.0 L74.0,441.5 L79.8,440.4 L79.0,444.0 L81.3,446.6 L81.3,439.6 L84.8,439.1 L94.1,440.3 L97.5,439.6 L92.9,437.8 L89.7,434.2 L89.0,425.8 L83.1,424.5 L83.4,428.1 L77.2,434.6 L68.2,436.2 L66.7,435.0 L65.8,428.5 L62.6,427.3 L63.3,424.4 L68.1,421.3 L66.6,418.1 L71.2,417.3 L74.4,410.8 L71.2,402.7 L71.9,410.8 L69.7,413.9 L65.8,412.0 L60.7,416.6 L55.3,417.6 L52.2,415.9 L52.3,410.4 L47.9,410.6 L37.8,405.1 L36.5,397.5 L38.1,393.3 L35.5,392.4 L33.4,395.1 L32.5,388.2 L30.6,383.3 L19.4,369.0 L24.0,372.6 L25.8,366.9 L20.5,368.7 L18.2,362.2 L16.3,362.9 L15.3,358.9 L7.6,343.9 L6.1,338.0 L2.6,333.6 L0.0,325.3 L6.2,327.6 L6.2,330.6 L10.4,333.3 L11.8,341.8 L18.6,349.8 L17.8,346.0 L19.2,340.2 L24.7,340.6 L21.7,336.0 L26.3,336.6 L29.5,344.0 L34.9,349.8 L34.2,356.0 L35.6,357.6 L37.0,346.6 L39.7,343.6 L40.2,339.2 L44.2,336.8 L44.4,333.5 L47.0,333.3 L44.8,329.7 L45.7,326.8 L52.4,320.8 L54.4,316.8 L64.5,305.8 L68.9,296.8 L68.8,290.0 L70.4,291.5 L73.9,303.1 L79.7,310.8 L93.4,318.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.OM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345456</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB08</fips>
+    <postal-code>OM</postal-code>
+    <name>Ogooué-Maritime</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>8.995660000000001</longitude>
+    <woe-name>Ogooué-Maritime</woe-name>
+    <latitude>-0.682548</latitude>
+    <woe-label>Ogooue-Martime, GA, Gabon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>ga-om</hc-key>
+    <hc-a2>OM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.MO" d="M98.6,324.3 L99.3,321.6 L97.7,307.2 L104.7,303.2 L114.9,300.9 L119.6,298.3 L126.1,300.6 L136.1,293.4 L143.6,295.8 L146.6,305.4 L149.2,305.9 L159.4,301.7 L173.1,293.1 L180.6,285.3 L192.1,278.9 L205.7,268.3 L209.2,264.7 L208.3,259.4 L216.0,252.3 L219.1,250.8 L218.2,244.5 L222.0,239.1 L222.1,236.5 L237.9,233.7 L325.3,233.9 L323.9,241.7 L318.8,245.8 L315.6,246.6 L299.8,254.8 L294.4,259.5 L291.2,268.6 L296.8,272.9 L298.9,290.9 L304.8,299.6 L305.9,308.5 L307.7,314.3 L313.4,320.0 L317.5,326.7 L319.2,335.7 L323.0,343.9 L309.6,342.9 L296.4,337.6 L279.1,324.3 L251.5,326.2 L244.7,330.4 L241.2,328.4 L235.1,332.2 L231.4,329.0 L227.3,328.4 L220.9,331.0 L222.3,335.1 L214.0,344.6 L208.3,348.0 L205.5,353.5 L205.1,360.1 L200.6,367.8 L195.0,370.9 L195.6,374.9 L191.7,381.2 L191.1,384.3 L187.3,389.5 L184.8,387.6 L173.6,386.8 L167.6,388.1 L164.2,390.2 L154.6,400.1 L144.9,397.2 L137.0,389.6 L140.8,379.8 L139.0,371.9 L139.8,367.5 L138.4,364.7 L132.0,360.6 L118.7,360.1 L116.0,356.9 L110.6,353.8 L106.0,347.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.MO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345451</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB03</fips>
+    <postal-code>MO</postal-code>
+    <name>Moyen-Ogooué</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>10.5724</longitude>
+    <woe-name>Moyen-Ogooué</woe-name>
+    <latitude>-0.374156</latitude>
+    <woe-label>Moyen-Ogooue, GA, Gabon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>ga-mo</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.ES" d="M237.9,233.7 L222.1,236.5 L222.0,239.1 L218.2,244.5 L219.1,250.8 L216.0,252.3 L208.3,259.4 L209.2,264.7 L205.7,268.3 L192.1,278.9 L180.6,285.3 L173.1,293.1 L159.4,301.7 L149.2,305.9 L146.6,305.4 L143.6,295.8 L136.1,293.4 L126.1,300.6 L119.6,298.3 L114.9,300.9 L104.7,303.2 L97.7,307.2 L99.3,321.6 L98.6,324.3 L93.4,318.1 L79.7,310.8 L73.9,303.1 L70.4,291.5 L68.8,290.0 L68.8,282.3 L72.2,275.0 L73.3,269.1 L71.9,263.9 L74.4,257.8 L69.3,231.5 L68.0,227.9 L68.9,223.9 L73.3,219.8 L75.6,220.2 L77.0,225.2 L75.7,231.6 L77.2,236.6 L82.2,236.3 L86.3,241.0 L87.7,247.4 L90.5,247.4 L90.0,240.6 L91.2,238.6 L98.2,240.9 L101.0,246.3 L105.2,242.4 L109.0,245.4 L114.6,244.5 L122.2,254.1 L125.9,257.0 L119.8,245.6 L124.9,244.7 L126.7,246.3 L131.4,241.6 L138.6,238.6 L145.4,240.0 L149.9,237.7 L144.3,237.9 L139.8,235.4 L133.8,238.3 L123.6,239.3 L118.5,237.6 L114.5,234.6 L110.9,234.7 L100.4,227.9 L98.2,224.0 L90.5,227.0 L88.9,221.8 L86.1,219.3 L80.7,207.0 L76.1,201.4 L70.3,200.4 L68.8,198.7 L69.9,189.5 L79.7,186.4 L85.6,186.9 L93.0,183.1 L96.9,185.1 L97.4,190.0 L95.5,191.0 L88.2,190.3 L86.6,192.6 L92.5,192.0 L95.9,196.4 L99.0,192.6 L100.5,197.6 L98.9,202.5 L102.9,207.1 L102.4,203.0 L106.7,192.6 L104.8,188.0 L105.2,182.6 L104.0,169.3 L97.7,151.8 L101.1,146.1 L106.8,145.2 L109.7,141.2 L118.3,141.0 L121.7,144.0 L123.7,151.2 L125.0,147.9 L132.0,150.2 L136.8,154.9 L140.8,156.1 L143.9,154.4 L144.9,148.0 L150.4,147.3 L193.8,147.5 L193.2,163.4 L188.6,175.5 L188.2,179.3 L192.6,188.0 L195.1,187.9 L253.9,167.8 L255.3,168.1 L256.7,175.0 L256.5,182.7 L254.1,191.0 L251.6,193.6 L250.3,198.1 L245.6,207.2 L242.5,219.8 L240.7,222.9 L241.6,227.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.ES</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345449</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB01</fips>
+    <postal-code>ES</postal-code>
+    <name>Estuaire</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>10.1365</longitude>
+    <woe-name>Estuaire</woe-name>
+    <latitude>0.32201</latitude>
+    <woe-label>Estuaire, GA, Gabon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ga-es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.NG" d="M422.9,472.0 L419.9,471.9 L420.8,483.9 L424.1,492.0 L428.5,494.0 L425.2,500.8 L425.8,507.1 L422.7,517.8 L423.9,520.2 L379.3,529.7 L372.4,527.0 L365.3,520.1 L350.5,525.2 L344.8,529.7 L340.9,528.5 L335.1,522.8 L327.9,520.3 L323.5,520.2 L322.6,522.4 L325.4,531.4 L324.6,537.6 L325.5,541.9 L329.4,548.9 L330.0,554.1 L328.4,559.2 L320.0,573.4 L312.1,563.2 L303.1,554.0 L294.2,546.9 L285.0,536.7 L281.5,526.8 L272.1,521.1 L268.3,513.7 L264.2,511.7 L215.5,518.0 L204.2,501.8 L202.1,494.1 L197.8,489.3 L198.9,479.4 L188.3,473.4 L181.7,475.5 L171.6,473.6 L165.4,469.5 L152.6,464.8 L145.6,464.3 L138.7,457.5 L132.7,447.0 L137.9,439.8 L142.2,438.8 L144.1,435.1 L144.8,428.0 L143.4,417.9 L144.5,415.4 L152.4,407.8 L154.6,400.1 L164.2,390.2 L167.6,388.1 L173.6,386.8 L184.8,387.6 L187.3,389.5 L191.1,384.3 L191.7,381.2 L195.6,374.9 L195.0,370.9 L200.6,367.8 L205.1,360.1 L205.5,353.5 L208.3,348.0 L214.0,344.6 L222.3,335.1 L220.9,331.0 L227.3,328.4 L231.4,329.0 L235.1,332.2 L241.2,328.4 L244.7,330.4 L251.5,326.2 L279.1,324.3 L296.4,337.6 L309.6,342.9 L323.0,343.9 L316.5,353.5 L315.7,359.9 L316.5,365.6 L320.0,371.3 L321.9,378.1 L322.3,385.1 L326.8,386.2 L333.5,384.0 L341.3,379.2 L345.0,379.0 L345.0,384.7 L346.7,389.3 L352.5,396.7 L362.0,404.5 L368.2,407.6 L375.2,415.9 L377.2,425.3 L376.9,433.3 L374.1,437.4 L375.5,442.3 L379.9,445.1 L388.8,456.8 L396.9,463.2 L410.8,467.9 L422.8,468.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.NG</hasc>
+    <alt-name>N'Gounié</alt-name>
+    <woe-id>2345452</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB04</fips>
+    <postal-code>NG</postal-code>
+    <name>Ngounié</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>11.1859</longitude>
+    <woe-name>Ngounié</woe-name>
+    <latitude>-1.48647</latitude>
+    <woe-label>Ngounie, GA, Gabon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>ga-ng</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.NY" d="M320.0,573.4 L319.5,580.3 L326.0,576.8 L331.4,576.5 L337.1,584.2 L345.7,593.2 L347.4,598.2 L339.3,600.7 L337.2,605.5 L337.1,614.3 L345.4,618.5 L352.3,623.7 L366.0,629.1 L367.2,632.7 L360.9,638.7 L352.9,656.5 L353.7,661.4 L360.9,664.8 L360.8,669.7 L356.4,673.8 L352.0,674.6 L343.3,672.5 L337.2,673.3 L332.9,670.5 L323.9,656.1 L319.8,652.9 L314.1,652.1 L311.0,654.3 L306.4,660.9 L297.5,663.3 L283.8,673.2 L281.9,676.7 L274.5,696.8 L272.7,700.0 L267.8,696.9 L262.3,691.2 L258.8,679.9 L258.2,675.2 L238.3,658.2 L220.1,645.8 L219.2,640.8 L220.4,634.6 L218.9,630.3 L209.6,624.2 L209.1,622.0 L198.3,610.2 L186.4,600.3 L166.2,584.5 L151.7,574.0 L143.0,566.9 L180.6,556.0 L183.9,555.6 L186.8,546.7 L194.1,541.6 L192.3,535.2 L195.6,529.3 L199.5,526.0 L215.5,518.0 L264.2,511.7 L268.3,513.7 L272.1,521.1 L281.5,526.8 L285.0,536.7 L294.2,546.9 L303.1,554.0 L312.1,563.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.NY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345453</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB05</fips>
+    <postal-code>NY</postal-code>
+    <name>Nyanga</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>10.9768</longitude>
+    <woe-name>Nyanga</woe-name>
+    <latitude>-2.97713</latitude>
+    <woe-label>Nyanga, GA, Gabon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>ga-ny</hc-key>
+    <hc-a2>NY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.HO" d="M584.9,269.9 L579.8,276.6 L578.5,282.6 L583.7,288.8 L588.7,286.2 L595.5,289.0 L604.2,288.6 L611.2,293.4 L614.5,301.7 L615.5,310.5 L619.3,308.9 L625.1,310.2 L630.5,308.5 L637.9,311.2 L650.1,321.5 L653.7,330.2 L653.0,333.9 L648.4,343.7 L647.8,349.2 L649.0,355.5 L644.0,362.8 L641.6,374.2 L646.4,386.7 L645.7,389.6 L650.0,396.7 L649.4,402.7 L645.8,407.4 L646.2,410.8 L651.8,415.1 L652.4,417.4 L648.9,420.8 L646.8,427.8 L649.6,433.0 L645.9,433.7 L644.0,437.1 L638.5,440.1 L641.5,442.1 L642.8,446.7 L648.0,448.4 L644.0,451.5 L642.1,466.6 L643.0,471.5 L639.2,474.7 L625.8,479.9 L623.7,485.5 L625.7,487.7 L624.2,496.9 L620.2,501.6 L620.9,504.4 L614.0,508.6 L614.4,512.5 L622.9,519.6 L623.2,522.9 L617.9,524.1 L612.6,528.1 L612.2,532.2 L606.4,539.4 L603.6,537.9 L596.6,539.6 L592.5,536.1 L584.4,538.1 L580.0,535.6 L580.2,530.8 L586.8,523.7 L582.0,519.4 L581.7,516.3 L577.5,511.0 L571.6,496.7 L568.5,494.3 L564.7,500.6 L562.9,506.4 L554.3,514.7 L551.6,520.0 L546.4,522.5 L539.1,529.0 L537.6,532.1 L534.9,531.2 L525.4,531.3 L505.8,524.1 L500.0,525.5 L490.4,521.7 L486.2,521.6 L481.0,524.3 L486.0,515.5 L478.7,503.7 L474.3,505.2 L471.9,499.8 L473.0,495.6 L470.9,495.1 L470.5,490.7 L467.6,487.5 L462.8,474.3 L455.7,471.1 L459.8,459.7 L459.7,455.3 L468.0,438.3 L472.6,431.2 L473.7,425.7 L479.1,418.2 L483.6,415.5 L489.2,414.5 L493.7,409.4 L496.8,408.0 L499.3,403.9 L502.8,401.8 L504.1,398.3 L503.6,383.7 L515.4,388.4 L533.6,366.3 L547.7,345.7 L547.1,341.2 L519.0,286.4 L513.8,283.6 L511.7,274.0 L510.0,271.5 L516.3,260.8 L516.6,255.1 L543.8,255.8 L566.3,260.7 L576.5,267.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.HO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345450</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB02</fips>
+    <postal-code>HO</postal-code>
+    <name>Haut-Ogooué</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>13.6198</longitude>
+    <woe-name>Haut-Ogooué</woe-name>
+    <latitude>-1.13187</latitude>
+    <woe-label>Haut-Ogooue, GA, Gabon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>ga-ho</hc-key>
+    <hc-a2>HO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.OL" d="M455.7,471.1 L448.2,465.7 L443.5,463.8 L437.9,463.9 L431.2,468.0 L428.5,474.1 L422.9,472.0 L422.8,468.0 L410.8,467.9 L396.9,463.2 L388.8,456.8 L379.9,445.1 L375.5,442.3 L374.1,437.4 L376.9,433.3 L377.2,425.3 L375.2,415.9 L368.2,407.6 L362.0,404.5 L352.5,396.7 L346.7,389.3 L345.0,384.7 L345.0,379.0 L341.3,379.2 L333.5,384.0 L326.8,386.2 L322.3,385.1 L321.9,378.1 L320.0,371.3 L316.5,365.6 L315.7,359.9 L316.5,353.5 L323.0,343.9 L406.1,313.5 L423.8,304.6 L440.8,229.0 L447.3,231.7 L454.6,228.1 L460.6,232.7 L474.1,235.1 L478.7,231.5 L483.5,234.4 L490.4,234.7 L494.7,238.0 L498.8,249.8 L505.5,253.1 L516.6,255.1 L516.3,260.8 L510.0,271.5 L511.7,274.0 L513.8,283.6 L519.0,286.4 L547.1,341.2 L547.7,345.7 L533.6,366.3 L515.4,388.4 L503.6,383.7 L504.1,398.3 L502.8,401.8 L499.3,403.9 L496.8,408.0 L493.7,409.4 L489.2,414.5 L483.6,415.5 L479.1,418.2 L473.7,425.7 L472.6,431.2 L468.0,438.3 L459.7,455.3 L459.8,459.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.OL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345455</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB07</fips>
+    <postal-code>OL</postal-code>
+    <name>Ogooué-Lolo</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>12.5284</longitude>
+    <woe-name>Ogooue-Lolo</woe-name>
+    <latitude>-0.972672</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>ga-ol</hc-key>
+    <hc-a2>OL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.OI" d="M584.9,269.9 L576.5,267.0 L566.3,260.7 L543.8,255.8 L516.6,255.1 L505.5,253.1 L498.8,249.8 L494.7,238.0 L490.4,234.7 L483.5,234.4 L478.7,231.5 L474.1,235.1 L460.6,232.7 L454.6,228.1 L447.3,231.7 L440.8,229.0 L423.8,304.6 L406.1,313.5 L323.0,343.9 L319.2,335.7 L317.5,326.7 L313.4,320.0 L307.7,314.3 L305.9,308.5 L304.8,299.6 L298.9,290.9 L296.8,272.9 L291.2,268.6 L294.4,259.5 L299.8,254.8 L315.6,246.6 L318.8,245.8 L323.9,241.7 L325.3,233.9 L313.9,221.9 L314.3,219.3 L395.3,164.7 L397.2,159.8 L396.9,149.6 L403.6,137.5 L409.7,128.6 L412.2,121.5 L505.7,122.8 L513.0,122.9 L519.5,119.0 L523.5,118.2 L525.1,115.4 L531.5,114.7 L538.9,116.7 L546.1,116.0 L550.1,111.5 L557.2,107.7 L570.2,105.6 L572.7,99.5 L574.3,99.1 L595.6,101.0 L603.0,105.6 L611.5,103.6 L618.2,105.0 L625.9,110.6 L628.2,118.9 L628.4,130.2 L631.1,135.4 L636.5,137.9 L642.7,151.0 L650.2,157.4 L646.8,161.6 L647.9,168.2 L638.9,177.3 L635.6,181.9 L634.6,190.1 L623.6,198.9 L611.7,198.5 L606.1,199.2 L602.7,204.0 L604.6,208.6 L602.1,213.3 L593.8,217.9 L591.4,220.4 L583.0,237.6 L585.2,246.6 L585.7,254.7 L589.1,255.8 L587.7,261.5 L588.6,265.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.OI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345454</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB06</fips>
+    <postal-code>OI</postal-code>
+    <name>Ogooué-Ivindo</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>12.8739</longitude>
+    <woe-name>Ogooué-Ivindo</woe-name>
+    <latitude>0.72338</latitude>
+    <woe-label>Ogooue-Ivindo, GA, Gabon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>ga-oi</hc-key>
+    <hc-a2>OI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="GA.WN" d="M505.7,122.8 L412.2,121.5 L409.7,128.6 L403.6,137.5 L396.9,149.6 L397.2,159.8 L395.3,164.7 L314.3,219.3 L313.9,221.9 L325.3,233.9 L237.9,233.7 L241.6,227.9 L240.7,222.9 L242.5,219.8 L245.6,207.2 L250.3,198.1 L251.6,193.6 L254.1,191.0 L256.5,182.7 L256.7,175.0 L255.3,168.1 L253.9,167.8 L195.1,187.9 L192.6,188.0 L188.2,179.3 L188.6,175.5 L193.2,163.4 L193.8,147.5 L297.6,147.8 L296.9,21.6 L296.0,17.4 L297.6,10.3 L299.8,6.2 L299.3,2.3 L329.4,1.2 L335.3,0.0 L344.5,4.4 L359.9,4.4 L368.5,3.6 L383.6,3.6 L395.1,4.6 L409.9,1.3 L415.6,3.9 L426.1,2.8 L434.3,5.4 L437.0,4.8 L441.4,7.2 L456.7,9.4 L463.2,6.3 L469.9,8.5 L476.3,6.3 L481.7,7.9 L484.5,6.8 L489.4,8.6 L494.2,8.0 L499.8,4.0 L512.1,5.5 L516.8,8.7 L518.4,11.7 L518.0,24.5 L516.5,30.8 L508.1,36.6 L508.5,40.7 L503.1,47.1 L506.5,53.2 L505.2,59.1 L501.7,63.1 L501.4,79.2 L499.4,81.5 L503.4,87.6 L506.2,89.0 L511.8,99.9 L511.2,113.2 L506.1,115.1 L501.8,119.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>GA.WN</hasc>
+    <alt-name>Woleu-Ntem</alt-name>
+    <woe-id>2345457</woe-id>
+    <subregion>NULL</subregion>
+    <fips>GB09</fips>
+    <postal-code>WN</postal-code>
+    <name>Wouleu-Ntem</name>
+    <country>Gabon</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>11.8313</longitude>
+    <woe-name>Wouleu-Ntem</woe-name>
+    <latitude>1.43947</latitude>
+    <woe-label>Woleu-Ntem, GA, Gabon</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>ga-wn</hc-key>
+    <hc-a2>WN</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

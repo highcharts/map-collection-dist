@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Monaco</title>
+<g id="admin1">
+
+<g id="MC">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Monaco</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mco.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>MCO</iso-a3>
+    <iso-a2>MC</iso-a2>
+    <woe-id>23424892</woe-id>
+    <continent>Europe</continent>
+    <hc-key>mc</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MC.3633" d="M700.0,274.8 L654.5,320.8 L508.0,437.6 L372.5,607.9 L144.2,586.1 L0.0,537.0 L17.7,385.1 L73.0,229.7 L220.3,71.3 L409.9,0.0 L594.5,111.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>MC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>23424892</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Monaco</name>
+    <country>Monaco</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>7.39979</longitude>
+    <woe-name>Monaco</woe-name>
+    <latitude>43.7461</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>mc-3633</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

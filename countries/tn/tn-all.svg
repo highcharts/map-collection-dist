@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Tunisia</title>
+<g id="admin1">
+
+<g id="TN">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Tunisia</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Tun.</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>TUN</iso-a3>
+    <iso-a2>TN</iso-a2>
+    <woe-id>23424967</woe-id>
+    <continent>Africa</continent>
+    <hc-key>tn</hc-key>
+    <hc-a2>TU</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.4431" d="M118.1,1.1 L118.2,2.3 L113.8,2.3 L117.3,0.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Tunisia</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>10.8066</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>37.1289</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tn-4431</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.SF" d="M287.2,275.6 L284.1,278.1 L276.7,274.8 L278.5,273.4 L287.6,273.3 Z M301.5,264.2 L303.5,266.1 L302.9,267.4 L295.3,270.8 L289.9,273.9 L289.2,272.3 L292.9,267.6 L293.1,264.8 L297.0,265.7 L296.5,262.5 L299.3,258.2 L302.9,259.2 L300.4,263.2 Z M280.0,233.0 L280.3,238.6 L277.7,242.0 L274.7,243.6 L272.5,246.1 L273.1,248.3 L272.6,254.2 L267.9,258.3 L269.2,261.5 L264.5,264.3 L262.0,267.2 L258.5,272.9 L255.9,275.3 L250.0,277.6 L248.6,281.4 L247.9,286.1 L244.9,288.2 L237.5,289.4 L234.8,290.9 L230.7,298.0 L226.9,299.0 L223.5,298.9 L221.1,302.3 L210.8,307.6 L208.9,309.6 L208.0,312.6 L203.5,321.1 L201.7,322.3 L198.9,321.0 L198.6,323.6 L195.4,323.7 L188.3,317.9 L183.2,318.5 L179.7,317.4 L178.1,315.2 L181.6,316.1 L181.7,313.0 L178.3,308.4 L180.5,305.6 L187.4,302.7 L193.8,298.1 L197.4,297.7 L199.7,295.4 L203.4,293.4 L205.4,288.0 L204.5,286.5 L198.1,283.3 L187.8,281.9 L186.6,279.0 L186.7,276.7 L189.3,270.6 L198.2,255.6 L204.2,241.7 L206.3,238.2 L210.3,233.4 L213.4,230.6 L218.0,228.9 L227.1,230.3 L231.0,232.6 L233.1,232.3 L241.8,228.0 L244.6,225.6 L245.5,222.5 L248.9,219.2 L255.9,221.2 L258.4,220.1 L260.4,216.3 L263.0,219.0 L265.5,227.1 L268.7,227.4 L270.0,225.7 L272.8,228.0 L275.0,231.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.SF</hasc>
+    <alt-name>Saf?qis|?af?qis|?f?qis</alt-name>
+    <woe-id>2347252</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS32</fips>
+    <postal-code>SF</postal-code>
+    <name>Sfax</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>11.0329</longitude>
+    <woe-name>Sfax</woe-name>
+    <latitude>34.6495</latitude>
+    <woe-label>Safaqis, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tn-sf</hc-key>
+    <hc-a2>SF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.ME" d="M275.4,347.7 L280.4,352.8 L285.0,355.3 L286.0,356.7 L278.6,363.5 L276.6,363.8 L275.7,366.8 L272.9,370.6 L271.1,371.0 L271.5,367.7 L270.1,365.5 L266.0,363.4 L263.9,366.4 L260.6,365.3 L259.5,358.7 L261.0,356.0 L260.0,349.1 L262.9,347.9 L269.4,349.2 L272.9,349.4 Z M194.6,427.5 L196.1,423.4 L196.0,416.2 L194.8,414.7 L187.1,413.0 L180.9,406.9 L185.9,407.1 L190.8,405.7 L195.2,406.1 L206.5,403.1 L215.6,395.3 L223.5,392.5 L231.4,379.3 L236.3,373.1 L238.2,371.6 L240.6,372.1 L246.1,371.2 L252.1,369.4 L258.7,366.1 L260.6,369.5 L260.5,376.1 L256.9,378.7 L255.5,381.6 L259.1,387.5 L264.2,387.2 L270.2,383.4 L274.4,381.9 L276.2,378.6 L274.0,374.5 L276.4,372.6 L278.4,373.4 L279.7,371.9 L286.4,375.1 L290.3,380.6 L291.1,386.3 L289.0,389.8 L290.8,395.6 L290.2,398.4 L292.5,397.6 L295.8,401.4 L305.8,405.5 L304.7,406.1 L296.7,403.7 L292.8,403.4 L291.9,406.4 L295.4,409.9 L296.7,412.9 L302.0,412.1 L305.4,412.8 L312.3,415.2 L315.9,415.1 L316.7,412.9 L312.9,410.7 L310.5,408.0 L317.9,413.1 L323.0,415.2 L323.2,419.5 L321.1,428.6 L321.0,435.5 L319.7,442.0 L320.5,451.9 L319.6,462.0 L319.8,467.3 L321.5,471.0 L327.1,476.2 L329.0,479.6 L329.4,483.6 L328.0,486.6 L325.5,489.2 L319.9,493.1 L298.8,503.7 L303.9,493.7 L309.7,488.7 L314.7,486.5 L317.6,484.3 L318.6,481.4 L313.6,481.2 L291.9,464.1 L292.4,458.4 L291.9,450.2 L293.7,442.6 L293.0,440.3 L286.5,435.4 L285.1,433.4 L284.0,428.9 L282.7,427.5 L260.2,417.4 L254.7,416.7 L251.0,413.9 L252.9,412.7 L254.1,410.0 L253.1,409.0 L246.9,409.8 L242.7,409.7 L228.6,416.2 L219.0,421.0 L212.3,420.6 L208.1,425.2 L201.6,427.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.ME</hasc>
+    <alt-name>Madan?y?n|Madan?n|Medenin</alt-name>
+    <woe-id>2347249</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS28</fips>
+    <postal-code>ME</postal-code>
+    <name>Médenine</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>10.6522</longitude>
+    <woe-name>Médenine</woe-name>
+    <latitude>33.4403</latitude>
+    <woe-label>Madanin, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>tn-me</hc-key>
+    <hc-a2>ME</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.TO" d="M17.7,395.0 L16.5,390.8 L5.5,371.1 L4.1,363.6 L1.9,359.1 L0.0,348.5 L1.8,338.9 L2.1,331.8 L3.3,329.3 L12.5,319.4 L15.6,317.9 L20.7,317.2 L23.9,313.7 L27.1,302.4 L28.6,299.0 L31.8,296.8 L38.7,293.9 L42.0,291.5 L50.2,287.6 L51.2,290.6 L50.0,296.9 L53.5,300.8 L52.8,301.7 L47.9,302.7 L45.0,306.1 L44.4,308.7 L50.2,312.7 L52.3,314.8 L55.1,319.2 L65.1,322.3 L68.4,325.7 L70.2,330.3 L87.7,329.3 L95.0,330.5 L88.5,342.0 L84.2,347.4 L34.6,386.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.TO</hasc>
+    <alt-name>Tawzar|Touzar|T?zar</alt-name>
+    <woe-id>2347255</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS35</fips>
+    <postal-code>TO</postal-code>
+    <name>Tozeur</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>8.074339999999999</longitude>
+    <woe-name>Tozeur</woe-name>
+    <latitude>33.9476</latitude>
+    <woe-label>Tawzar, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>tn-to</hc-key>
+    <hc-a2>TO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.MN" d="M214.8,39.0 L214.7,40.8 L211.5,44.1 L212.1,48.8 L215.1,53.6 L218.7,57.2 L222.4,59.1 L224.2,61.6 L213.1,65.5 L203.6,70.8 L198.2,73.4 L200.4,77.1 L202.9,79.4 L202.7,81.3 L198.9,85.2 L196.3,86.5 L193.9,85.2 L190.6,91.4 L187.5,92.8 L183.6,86.6 L180.1,78.7 L173.0,76.6 L163.9,68.2 L167.0,65.6 L173.6,62.5 L177.7,61.5 L183.4,55.9 L189.3,56.3 L193.4,58.2 L197.1,57.8 L203.2,45.0 L206.6,40.9 L210.6,40.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.MN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347247</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS38</fips>
+    <postal-code>MN</postal-code>
+    <name>Manubah</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.94514</longitude>
+    <woe-name>Manubah</woe-name>
+    <latitude>36.7903</latitude>
+    <woe-label>Aryanah, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>tn-mn</hc-key>
+    <hc-a2>MN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.BJ" d="M163.9,68.2 L173.0,76.6 L180.1,78.7 L183.6,86.6 L187.5,92.8 L182.9,96.7 L178.8,102.8 L177.9,105.1 L173.2,105.7 L165.6,108.8 L161.8,106.2 L158.3,104.8 L151.6,105.6 L149.1,108.0 L146.0,113.6 L144.4,113.5 L137.9,110.1 L130.5,112.0 L128.6,110.8 L122.3,104.7 L124.6,102.6 L124.8,99.0 L127.1,95.8 L126.5,93.0 L122.8,84.1 L123.0,76.6 L120.6,74.9 L116.2,74.1 L114.6,72.6 L116.2,67.8 L119.6,64.7 L117.8,60.9 L114.9,57.6 L115.0,55.7 L117.2,54.7 L113.4,50.2 L118.0,45.4 L120.4,40.8 L124.3,37.4 L127.4,36.0 L127.7,39.7 L127.1,44.6 L128.7,47.3 L133.4,47.2 L136.2,49.6 L137.2,52.6 L140.9,60.7 L143.5,63.1 L147.7,64.8 L149.8,67.0 L148.3,72.6 L150.1,77.3 L152.2,78.3 L154.3,77.4 L161.6,69.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.BJ</hasc>
+    <alt-name>B?jah|Béja</alt-name>
+    <woe-id>2347242</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS17</fips>
+    <postal-code>BJ</postal-code>
+    <name>Béja</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.376049999999999</longitude>
+    <woe-name>Béja</woe-name>
+    <latitude>36.5828</latitude>
+    <woe-label>Bajah, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.71</hc-middle-y>
+    <hc-key>tn-bj</hc-key>
+    <hc-a2>BJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.BA" d="M196.3,86.5 L198.9,85.2 L202.7,81.3 L207.1,81.3 L209.2,79.1 L214.7,78.0 L216.8,76.1 L217.9,71.3 L219.3,69.0 L223.1,75.3 L225.8,77.0 L230.6,77.1 L228.9,83.7 L226.0,89.6 L226.4,93.5 L225.1,102.0 L221.9,102.6 L218.7,104.6 L216.4,100.9 L207.0,92.6 L201.6,90.6 L200.1,91.1 L197.9,89.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.BA</hasc>
+    <alt-name>Bin `Ar?s|Ben Arous|Tunis Ben Arous</alt-name>
+    <woe-id>2347248</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS32</fips>
+    <postal-code>BA</postal-code>
+    <name>Ben Arous (Tunis Sud)</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>10.1941</longitude>
+    <woe-name>Ben Arous (Tunis Sud)</woe-name>
+    <latitude>36.6125</latitude>
+    <woe-label>Bin 'Arus, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>tn-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.BZ" d="M163.9,68.2 L161.6,69.6 L154.3,77.4 L152.2,78.3 L150.1,77.3 L148.3,72.6 L149.8,67.0 L147.7,64.8 L143.5,63.1 L140.9,60.7 L137.2,52.6 L136.2,49.6 L133.4,47.2 L128.7,47.3 L127.1,44.6 L127.7,39.7 L127.4,36.0 L134.5,32.9 L137.5,29.6 L147.6,29.4 L150.5,28.2 L153.4,25.5 L155.3,26.4 L159.2,25.2 L163.6,22.2 L166.6,22.8 L172.3,19.7 L178.3,18.7 L180.5,20.1 L187.0,20.2 L187.3,25.7 L182.1,28.9 L180.5,31.3 L183.3,36.9 L187.3,37.6 L190.5,35.9 L192.2,31.2 L187.3,29.3 L184.1,29.3 L188.9,26.4 L196.4,28.0 L201.8,26.0 L203.7,28.1 L209.1,28.8 L211.6,31.1 L217.4,33.0 L218.8,34.2 L214.2,36.2 L213.8,34.6 L209.2,35.1 L207.8,36.3 L210.4,38.6 L214.2,38.2 L214.8,39.0 L210.6,40.4 L206.6,40.9 L203.2,45.0 L197.1,57.8 L193.4,58.2 L189.3,56.3 L183.4,55.9 L177.7,61.5 L173.6,62.5 L167.0,65.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.BZ</hasc>
+    <alt-name>BanzartBanzart|Bensert|Binzart|Biserta|Bizerta</alt-name>
+    <woe-id>2347243</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS18</fips>
+    <postal-code>BZ</postal-code>
+    <name>Bizerte</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.67332</longitude>
+    <woe-name>Bizerte</woe-name>
+    <latitude>37.1109</latitude>
+    <woe-label>Banzart, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>tn-bz</hc-key>
+    <hc-a2>BZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.JE" d="M71.4,113.5 L71.8,108.2 L71.0,104.6 L66.9,102.7 L60.2,101.7 L57.0,100.4 L57.2,97.1 L61.3,93.5 L66.3,91.7 L75.7,86.1 L79.2,80.8 L79.9,77.5 L75.6,74.1 L78.5,71.4 L84.4,71.2 L92.4,68.6 L93.8,66.4 L91.2,62.4 L90.8,57.7 L97.7,54.9 L106.1,54.5 L113.4,50.2 L117.2,54.7 L115.0,55.7 L114.9,57.6 L117.8,60.9 L119.6,64.7 L116.2,67.8 L114.6,72.6 L116.2,74.1 L120.6,74.9 L123.0,76.6 L122.8,84.1 L126.5,93.0 L127.1,95.8 L124.8,99.0 L124.6,102.6 L122.3,104.7 L119.7,104.3 L115.0,105.8 L108.2,108.1 L89.7,109.0 L86.1,110.2 L79.1,113.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.JE</hasc>
+    <alt-name>Jendoûbah|Jenduba|Jondouba|Jund?bah|Souk-El-Arba|Dschunduba</alt-name>
+    <woe-id>2347237</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS06</fips>
+    <postal-code>JE</postal-code>
+    <name>Jendouba</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>8.62064</longitude>
+    <woe-name>Jendouba</woe-name>
+    <latitude>36.6155</latitude>
+    <woe-label>Jundubah, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>tn-je</hc-key>
+    <hc-a2>JE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.NB" d="M225.1,102.0 L226.4,93.5 L226.0,89.6 L228.9,83.7 L230.6,77.1 L232.1,77.1 L238.4,74.4 L239.9,72.9 L241.9,64.1 L244.9,62.5 L248.5,62.7 L254.7,60.8 L258.5,57.9 L262.0,53.7 L266.3,50.0 L266.7,46.8 L269.0,45.0 L272.9,44.5 L275.8,42.2 L278.7,42.6 L279.5,44.3 L278.7,48.3 L281.8,54.1 L282.4,58.0 L285.7,62.5 L284.3,65.7 L281.3,67.0 L277.1,70.6 L271.7,79.8 L266.5,90.0 L262.5,100.5 L260.6,103.2 L254.2,105.0 L246.8,109.3 L244.1,108.6 L241.5,110.7 L239.8,113.3 L238.4,111.0 L235.3,112.2 L231.9,111.1 L227.1,112.0 L225.7,111.4 L225.0,108.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.NB</hasc>
+    <alt-name>Cap Bon|Nabil|N?bol|N?bul</alt-name>
+    <woe-id>2347244</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS19</fips>
+    <postal-code>NB</postal-code>
+    <name>Nabeul</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>10.7319</longitude>
+    <woe-name>Nabeul</woe-name>
+    <latitude>36.6794</latitude>
+    <woe-label>Nabul, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>tn-nb</hc-key>
+    <hc-a2>NB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.TU" d="M202.7,81.3 L202.9,79.4 L200.4,77.1 L198.2,73.4 L203.6,70.8 L213.1,65.5 L224.2,61.6 L225.0,62.7 L222.2,67.6 L220.3,68.6 L219.1,65.9 L215.3,66.9 L212.9,70.8 L217.9,71.3 L216.8,76.1 L214.7,78.0 L209.2,79.1 L207.1,81.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.TU</hasc>
+    <alt-name>Tounis|Tunis City|T?nus|Túnez|Túnis|Tunisi|T?nis</alt-name>
+    <woe-id>2347256</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS36</fips>
+    <postal-code>TU</postal-code>
+    <name>Tunis</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>10.1724</longitude>
+    <woe-name>Tunis</woe-name>
+    <latitude>36.7791</latitude>
+    <woe-label>Tunis, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>tn-tu</hc-key>
+    <hc-a2>TU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.KF" d="M68.8,183.8 L67.2,177.7 L63.4,171.4 L62.2,164.0 L62.7,156.4 L64.7,149.3 L65.0,144.0 L66.7,137.0 L68.3,133.6 L67.2,128.2 L67.6,124.2 L71.4,113.5 L79.1,113.7 L86.1,110.2 L89.7,109.0 L108.2,108.1 L115.0,105.8 L118.5,111.3 L119.5,115.1 L118.3,119.1 L123.4,127.9 L123.5,134.0 L125.1,135.9 L129.9,138.4 L133.0,143.4 L132.5,147.7 L131.1,151.6 L128.2,155.4 L126.7,159.9 L123.9,162.2 L123.0,164.4 L122.6,172.5 L121.5,176.1 L117.7,175.9 L104.3,170.2 L97.9,168.4 L95.6,169.1 L92.6,171.7 L91.4,178.5 L90.3,181.3 L84.1,181.0 L80.7,179.1 L77.7,179.7 L73.5,183.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.KF</hasc>
+    <alt-name>Al K?f|El Kef|Kaf|Kef</alt-name>
+    <woe-id>2347239</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS14</fips>
+    <postal-code>KF</postal-code>
+    <name>Le Kef</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>8.695650000000001</longitude>
+    <woe-name>Le Kef</woe-name>
+    <latitude>36.0965</latitude>
+    <woe-label>Al Kaf, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tn-kf</hc-key>
+    <hc-a2>KF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.KS" d="M62.8,268.0 L63.6,265.9 L62.2,256.2 L62.1,252.7 L64.9,243.9 L67.4,233.4 L71.1,229.4 L76.7,220.2 L74.0,218.1 L67.8,215.6 L66.0,212.2 L65.7,204.8 L66.6,201.4 L69.4,194.6 L68.8,183.8 L73.5,183.0 L77.7,179.7 L80.7,179.1 L84.1,181.0 L90.3,181.3 L91.4,178.5 L92.6,171.7 L95.6,169.1 L97.9,168.4 L104.3,170.2 L117.7,175.9 L121.5,176.1 L127.8,184.7 L131.3,184.2 L135.6,186.6 L137.1,189.7 L140.0,190.7 L145.1,193.7 L147.0,197.4 L146.5,200.5 L143.8,203.7 L139.7,206.6 L138.2,210.3 L134.6,214.0 L133.0,219.6 L134.4,221.3 L140.3,223.1 L142.0,224.6 L141.5,230.4 L142.7,238.5 L139.7,240.6 L132.7,243.5 L130.3,243.1 L123.5,252.6 L126.1,255.6 L125.4,256.2 L106.0,267.4 L102.2,269.1 L97.9,269.9 L88.3,275.0 L87.3,278.1 L85.5,277.7 L78.9,273.7 L70.3,270.8 L66.7,268.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.KS</hasc>
+    <alt-name>Al Qa?rayn|Al Ga?r?n|Al Qasrin|Kasserim|Al Qa?rayn|Sbeitla</alt-name>
+    <woe-id>2347235</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS02</fips>
+    <postal-code>KS</postal-code>
+    <name>Kassérine</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>8.787739999999999</longitude>
+    <woe-name>Kassérine</woe-name>
+    <latitude>35.2529</latitude>
+    <woe-label>Al Qasrayn, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>tn-ks</hc-key>
+    <hc-a2>KS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.GB" d="M201.7,322.3 L202.7,331.8 L205.0,340.4 L206.8,343.9 L214.3,354.4 L216.2,355.7 L227.8,367.0 L230.8,368.7 L238.2,371.6 L236.3,373.1 L231.4,379.3 L223.5,392.5 L215.6,395.3 L206.5,403.1 L195.2,406.1 L190.8,405.7 L185.9,407.1 L180.9,406.9 L176.5,401.9 L172.2,394.4 L165.8,388.6 L165.7,385.6 L168.5,379.8 L167.4,377.7 L163.6,373.7 L160.6,373.5 L157.4,369.2 L151.4,365.9 L147.2,358.6 L145.1,354.1 L142.8,347.1 L142.1,342.8 L142.5,334.8 L143.6,332.9 L149.8,327.3 L143.9,322.4 L142.7,319.6 L149.2,317.0 L159.6,318.0 L165.7,315.0 L169.1,312.3 L173.8,311.0 L176.1,312.4 L178.1,315.2 L179.7,317.4 L183.2,318.5 L188.3,317.9 L195.4,323.7 L198.6,323.6 L198.9,321.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.GB</hasc>
+    <alt-name>Q?bis|Gab?s</alt-name>
+    <woe-id>2347250</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS29</fips>
+    <postal-code>GB</postal-code>
+    <name>Gabès</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.859870000000001</longitude>
+    <woe-name>Gabès</woe-name>
+    <latitude>33.7571</latitude>
+    <woe-label>Qabis, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>tn-gb</hc-key>
+    <hc-a2>GB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.GF" d="M165.7,315.0 L159.6,318.0 L149.2,317.0 L142.7,319.6 L132.1,321.3 L129.4,320.7 L123.8,323.0 L122.6,327.5 L120.8,329.2 L112.8,327.9 L108.7,329.3 L95.0,330.5 L87.7,329.3 L70.2,330.3 L68.4,325.7 L65.1,322.3 L55.1,319.2 L52.3,314.8 L50.2,312.7 L44.4,308.7 L45.0,306.1 L47.9,302.7 L52.8,301.7 L53.5,300.8 L50.0,296.9 L51.2,290.6 L50.2,287.6 L55.4,283.6 L57.5,279.8 L60.9,277.0 L58.9,273.8 L60.1,270.9 L62.8,268.0 L66.7,268.5 L70.3,270.8 L78.9,273.7 L85.5,277.7 L87.3,278.1 L88.3,275.0 L97.9,269.9 L102.2,269.1 L106.0,267.4 L118.8,272.4 L126.4,272.5 L134.6,274.0 L140.5,276.9 L143.9,275.7 L144.5,277.0 L142.6,281.8 L143.4,286.4 L145.9,289.4 L149.4,292.0 L154.4,293.8 L158.0,298.0 L164.4,301.8 L166.0,303.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.GF</hasc>
+    <alt-name>Gaf?ah|Qaf?ah</alt-name>
+    <woe-id>2347238</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS10</fips>
+    <postal-code>GF</postal-code>
+    <name>Gafsa</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>8.795210000000001</longitude>
+    <woe-name>Gafsa</woe-name>
+    <latitude>34.4233</latitude>
+    <woe-label>Qafash, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tn-gf</hc-key>
+    <hc-a2>GF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.SZ" d="M178.1,315.2 L176.1,312.4 L173.8,311.0 L169.1,312.3 L165.7,315.0 L166.0,303.6 L164.4,301.8 L158.0,298.0 L154.4,293.8 L149.4,292.0 L145.9,289.4 L143.4,286.4 L142.6,281.8 L144.5,277.0 L143.9,275.7 L140.5,276.9 L134.6,274.0 L126.4,272.5 L118.8,272.4 L106.0,267.4 L125.4,256.2 L126.1,255.6 L123.5,252.6 L130.3,243.1 L132.7,243.5 L139.7,240.6 L142.7,238.5 L141.5,230.4 L142.0,224.6 L140.3,223.1 L134.4,221.3 L133.0,219.6 L134.6,214.0 L138.2,210.3 L139.7,206.6 L143.8,203.7 L146.5,200.5 L147.0,197.4 L151.1,196.2 L156.9,196.7 L159.7,200.7 L158.5,208.4 L159.2,210.1 L165.2,215.6 L170.0,216.4 L174.9,221.4 L177.0,224.5 L180.6,226.2 L186.4,227.3 L193.4,229.5 L198.4,228.1 L199.4,229.1 L202.2,238.8 L204.2,241.7 L198.2,255.6 L189.3,270.6 L186.7,276.7 L186.6,279.0 L187.8,281.9 L198.1,283.3 L204.5,286.5 L205.4,288.0 L203.4,293.4 L199.7,295.4 L197.4,297.7 L193.8,298.1 L187.4,302.7 L180.5,305.6 L178.3,308.4 L181.7,313.0 L181.6,316.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.SZ</hasc>
+    <alt-name>S?d? B? Zayd|Qamudah|Sidi Boû Sa`îd|Sidi Buzid|Sidi B? Sa`?d|S?d? B? Zayd|Sidi Bu Said</alt-name>
+    <woe-id>2347253</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS33</fips>
+    <postal-code>SZ</postal-code>
+    <name>Sidi Bou Zid</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.43328</longitude>
+    <woe-name>Sidi Bou Zid</woe-name>
+    <latitude>34.9757</latitude>
+    <woe-label>Sidi Bu Zayd, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>tn-sz</hc-key>
+    <hc-a2>SZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.SL" d="M122.3,104.7 L128.6,110.8 L130.5,112.0 L137.9,110.1 L144.4,113.5 L146.0,113.6 L149.1,108.0 L151.6,105.6 L158.3,104.8 L161.8,106.2 L165.6,108.8 L173.2,105.7 L177.9,105.1 L179.3,110.2 L176.9,115.3 L173.8,118.6 L165.8,123.4 L166.1,124.7 L170.6,128.4 L177.9,130.7 L179.6,133.1 L180.2,136.9 L178.0,141.1 L161.1,155.3 L159.5,157.3 L160.1,163.2 L159.0,167.9 L160.8,170.5 L160.6,172.8 L157.2,173.8 L153.9,175.9 L150.4,176.1 L145.0,174.3 L143.1,174.9 L143.0,176.8 L153.6,189.6 L156.9,196.7 L151.1,196.2 L147.0,197.4 L145.1,193.7 L140.0,190.7 L137.1,189.7 L135.6,186.6 L131.3,184.2 L127.8,184.7 L121.5,176.1 L122.6,172.5 L123.0,164.4 L123.9,162.2 L126.7,159.9 L128.2,155.4 L131.1,151.6 L132.5,147.7 L133.0,143.4 L129.9,138.4 L125.1,135.9 L123.5,134.0 L123.4,127.9 L118.3,119.1 L119.5,115.1 L118.5,111.3 L115.0,105.8 L119.7,104.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.SL</hasc>
+    <alt-name>Sili?nah|Sily?nah</alt-name>
+    <woe-id>2347245</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS22</fips>
+    <postal-code>SL</postal-code>
+    <name>Siliana</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.337450000000001</longitude>
+    <woe-name>Siliana</woe-name>
+    <latitude>35.5597</latitude>
+    <woe-label>Silyanah, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>tn-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.MH" d="M278.9,188.0 L281.0,192.2 L284.6,193.2 L282.5,195.2 L281.7,200.2 L282.0,204.4 L281.1,206.3 L281.6,209.8 L286.4,216.2 L291.1,218.8 L291.0,220.7 L287.3,222.0 L285.8,225.1 L283.6,227.1 L281.5,231.6 L280.0,233.0 L275.0,231.7 L272.8,228.0 L270.0,225.7 L268.7,227.4 L265.5,227.1 L263.0,219.0 L260.4,216.3 L258.4,220.1 L255.9,221.2 L248.9,219.2 L245.5,222.5 L244.6,225.6 L241.8,228.0 L233.1,232.3 L231.0,232.6 L227.1,230.3 L218.0,228.9 L217.5,222.9 L215.0,218.9 L214.9,212.3 L213.5,208.6 L216.2,200.7 L219.1,196.5 L217.8,191.9 L218.6,189.9 L223.5,187.7 L223.2,192.2 L227.6,195.7 L230.1,195.0 L233.6,195.8 L236.0,200.5 L240.6,202.5 L242.0,202.3 L243.6,199.2 L245.5,198.2 L246.7,194.4 L255.9,197.3 L261.2,198.2 L265.5,198.1 L267.2,194.9 L272.5,190.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.MH</hasc>
+    <alt-name>Al Mad?yah|Al Mahdiyya|Mahdiâh</alt-name>
+    <woe-id>2347240</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS15</fips>
+    <postal-code>MH</postal-code>
+    <name>Mahdia</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>10.6621</longitude>
+    <woe-name>Mahdia</woe-name>
+    <latitude>35.3594</latitude>
+    <woe-label>Al Mahdiyah, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>tn-mh</hc-key>
+    <hc-a2>MH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.MS" d="M249.4,172.2 L253.3,166.8 L257.4,168.6 L262.1,166.9 L265.1,168.8 L263.8,172.0 L265.2,175.2 L275.5,179.3 L278.6,178.9 L282.0,183.0 L279.1,184.2 L278.9,188.0 L272.5,190.5 L267.2,194.9 L265.5,198.1 L261.2,198.2 L255.9,197.3 L246.7,194.4 L242.9,193.4 L241.8,195.9 L239.0,196.2 L237.2,194.6 L237.8,192.1 L241.5,189.7 L240.4,187.5 L242.2,185.8 L246.7,184.3 L248.6,183.0 L249.7,177.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.MS</hasc>
+    <alt-name>Al Munast?r</alt-name>
+    <woe-id>2347241</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS16</fips>
+    <postal-code>MS</postal-code>
+    <name>Monastir</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>10.7538</longitude>
+    <woe-name>Monastir</woe-name>
+    <latitude>35.6225</latitude>
+    <woe-label>Al Munastir, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>tn-ms</hc-key>
+    <hc-a2>MS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.KR" d="M223.5,187.7 L218.6,189.9 L217.8,191.9 L219.1,196.5 L216.2,200.7 L213.5,208.6 L214.9,212.3 L215.0,218.9 L217.5,222.9 L218.0,228.9 L213.4,230.6 L210.3,233.4 L206.3,238.2 L204.2,241.7 L202.2,238.8 L199.4,229.1 L198.4,228.1 L193.4,229.5 L186.4,227.3 L180.6,226.2 L177.0,224.5 L174.9,221.4 L170.0,216.4 L165.2,215.6 L159.2,210.1 L158.5,208.4 L159.7,200.7 L156.9,196.7 L153.6,189.6 L143.0,176.8 L143.1,174.9 L145.0,174.3 L150.4,176.1 L153.9,175.9 L157.2,173.8 L160.6,172.8 L160.8,170.5 L159.0,167.9 L160.1,163.2 L159.5,157.3 L161.1,155.3 L178.0,141.1 L181.9,142.0 L191.6,140.9 L194.8,142.6 L197.8,143.2 L202.5,146.4 L203.9,143.9 L204.6,139.6 L207.0,139.9 L210.5,136.0 L215.1,134.4 L212.6,139.2 L212.6,140.6 L216.9,142.8 L218.9,146.5 L217.4,154.5 L215.9,157.6 L212.3,162.3 L212.0,164.5 L221.1,182.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TN.KR</hasc>
+    <alt-name>Al Qayraw?n|Al Q?rw?n|Qairouân|Kairuã|Kairouwan</alt-name>
+    <woe-id>2347236</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS03</fips>
+    <postal-code>KR</postal-code>
+    <name>Kairouan</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.788919999999999</longitude>
+    <woe-name>Kairouan</woe-name>
+    <latitude>35.6154</latitude>
+    <woe-label>Al Qayrawan, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>tn-kr</hc-key>
+    <hc-a2>KR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.SS" d="M239.8,113.3 L239.0,114.5 L236.1,126.1 L235.9,136.1 L236.4,139.3 L239.5,148.7 L242.6,152.7 L244.6,154.2 L246.7,160.5 L253.3,166.8 L249.4,172.2 L249.7,177.4 L248.6,183.0 L246.7,184.3 L242.2,185.8 L240.4,187.5 L241.5,189.7 L237.8,192.1 L237.2,194.6 L239.0,196.2 L241.8,195.9 L242.9,193.4 L246.7,194.4 L245.5,198.2 L243.6,199.2 L242.0,202.3 L240.6,202.5 L236.0,200.5 L233.6,195.8 L230.1,195.0 L227.6,195.7 L223.2,192.2 L223.5,187.7 L221.1,182.3 L212.0,164.5 L212.3,162.3 L215.9,157.6 L217.4,154.5 L218.9,146.5 L216.9,142.8 L212.6,140.6 L212.6,139.2 L215.1,134.4 L218.5,132.6 L219.8,129.3 L219.7,125.9 L226.2,124.1 L225.4,120.8 L227.0,119.1 L227.1,112.0 L231.9,111.1 L235.3,112.2 L238.4,111.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.SS</hasc>
+    <alt-name>Sousa|Sussa|Susse|Susa|S?sah</alt-name>
+    <woe-id>2347246</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS23</fips>
+    <postal-code>SS</postal-code>
+    <name>Sousse</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>10.4255</longitude>
+    <woe-name>Sousse</woe-name>
+    <latitude>35.9323</latitude>
+    <woe-label>Susah, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>tn-ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.ZA" d="M196.3,86.5 L197.9,89.4 L200.1,91.1 L201.6,90.6 L207.0,92.6 L216.4,100.9 L218.7,104.6 L221.9,102.6 L225.1,102.0 L225.0,108.7 L225.7,111.4 L227.1,112.0 L227.0,119.1 L225.4,120.8 L226.2,124.1 L219.7,125.9 L219.8,129.3 L218.5,132.6 L215.1,134.4 L210.5,136.0 L207.0,139.9 L204.6,139.6 L203.9,143.9 L202.5,146.4 L197.8,143.2 L194.8,142.6 L191.6,140.9 L181.9,142.0 L178.0,141.1 L180.2,136.9 L179.6,133.1 L177.9,130.7 L170.6,128.4 L166.1,124.7 L165.8,123.4 L173.8,118.6 L176.9,115.3 L179.3,110.2 L177.9,105.1 L178.8,102.8 L182.9,96.7 L187.5,92.8 L190.6,91.4 L193.9,85.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.ZA</hasc>
+    <alt-name>Tunis South|Zachouan|Zaguan|Zaghw?n|Saghuan</alt-name>
+    <woe-id>2347257</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS37</fips>
+    <postal-code>ZA</postal-code>
+    <name>Zaghouan</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.969160000000001</longitude>
+    <woe-name>Zaghouan</woe-name>
+    <latitude>36.3427</latitude>
+    <woe-label>Zaghwan, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>tn-za</hc-key>
+    <hc-a2>ZA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.KB" d="M67.2,480.1 L66.2,476.8 L64.5,453.5 L63.4,450.4 L47.8,425.6 L46.0,424.5 L42.6,424.7 L39.4,423.4 L30.6,416.8 L20.8,414.5 L18.8,412.2 L17.6,407.7 L17.7,395.0 L34.6,386.7 L84.2,347.4 L88.5,342.0 L95.0,330.5 L108.7,329.3 L112.8,327.9 L120.8,329.2 L122.6,327.5 L123.8,323.0 L129.4,320.7 L132.1,321.3 L142.7,319.6 L143.9,322.4 L149.8,327.3 L143.6,332.9 L142.5,334.8 L142.1,342.8 L142.8,347.1 L145.1,354.1 L147.2,358.6 L151.4,365.9 L157.4,369.2 L160.6,373.5 L163.6,373.7 L167.4,377.7 L168.5,379.8 L165.7,385.6 L165.8,388.6 L172.2,394.4 L176.5,401.9 L180.9,406.9 L187.1,413.0 L194.8,414.7 L196.0,416.2 L196.1,423.4 L194.6,427.5 L194.3,429.8 L198.7,433.6 L201.0,436.9 L197.7,439.5 L198.2,444.3 L199.4,448.1 L196.1,452.8 L196.0,459.9 L199.3,465.6 L199.2,467.3 L195.1,465.7 L186.3,458.8 L182.0,454.3 L178.3,453.4 L171.6,454.8 L166.6,458.7 L163.8,460.2 L68.7,479.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.KB</hasc>
+    <alt-name>Kebilli|Qbili|Qibil?</alt-name>
+    <woe-id>2347251</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS31</fips>
+    <postal-code>KB</postal-code>
+    <name>Kebili</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>8.847910000000001</longitude>
+    <woe-name>Kebili</woe-name>
+    <latitude>33.3621</latitude>
+    <woe-label>Qibili, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>tn-kb</hc-key>
+    <hc-a2>KB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TN.TA" d="M298.8,503.7 L273.9,516.2 L271.7,518.7 L268.6,526.3 L265.9,529.0 L258.7,533.7 L254.2,532.1 L252.4,534.1 L251.8,541.8 L250.8,545.0 L247.4,548.3 L245.1,553.0 L242.6,555.4 L238.1,557.2 L229.0,557.2 L224.8,560.6 L219.4,570.4 L214.2,576.3 L212.9,578.6 L212.3,586.5 L218.6,602.8 L221.2,612.8 L223.9,618.3 L224.0,627.1 L226.1,633.8 L224.9,640.9 L219.9,651.5 L212.4,660.2 L203.8,674.3 L193.6,687.7 L191.5,689.0 L183.1,690.1 L164.5,700.0 L125.0,523.8 L123.0,520.6 L79.4,488.9 L69.4,482.5 L67.2,480.1 L68.7,479.6 L163.8,460.2 L166.6,458.7 L171.6,454.8 L178.3,453.4 L182.0,454.3 L186.3,458.8 L195.1,465.7 L199.2,467.3 L199.3,465.6 L196.0,459.9 L196.1,452.8 L199.4,448.1 L198.2,444.3 L197.7,439.5 L201.0,436.9 L198.7,433.6 L194.3,429.8 L194.6,427.5 L201.6,427.2 L208.1,425.2 L212.3,420.6 L219.0,421.0 L228.6,416.2 L242.7,409.7 L246.9,409.8 L253.1,409.0 L254.1,410.0 L252.9,412.7 L251.0,413.9 L254.7,416.7 L260.2,417.4 L282.7,427.5 L284.0,428.9 L285.1,433.4 L286.5,435.4 L293.0,440.3 L293.7,442.6 L291.9,450.2 L292.4,458.4 L291.9,464.1 L313.6,481.2 L318.6,481.4 L317.6,484.3 L314.7,486.5 L309.7,488.7 L303.9,493.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>TN.TA</hasc>
+    <alt-name>Foum Tataouine|Tatahouine|Tatuine|Ta??w?n</alt-name>
+    <woe-id>2347254</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TS34</fips>
+    <postal-code>TA</postal-code>
+    <name>Tataouine</name>
+    <country>Tunisia</country>
+    <type-en>Governorate</type-en>
+    <region>NULL</region>
+    <longitude>9.88514</longitude>
+    <woe-name>Tataouine</woe-name>
+    <latitude>32.154</latitude>
+    <woe-label>Tatawin, TN, Tunisia</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>tn-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

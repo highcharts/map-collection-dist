@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Rhode Island congressional districts</title>
+<g id="special">
+
+<g id="US.RI">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.RI</hasc>
+    <alt-name>State of Rhode Island and Providence Plantations|RI|R.I.</alt-name>
+    <woe-id>2347598</woe-id>
+    <subregion>New England</subregion>
+    <fips>US44</fips>
+    <postal-code>RI</postal-code>
+    <name>Rhode Island</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>Northeast</region>
+    <longitude>-71.5082</longitude>
+    <woe-name>Rhode Island</woe-name>
+    <latitude>41.6242</latitude>
+    <woe-label>Rhode Island, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-ri</hc-key>
+    <hc-a2>RI</hc-a2>
+  </desc>
+</g>
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.RI.02" d="M182.2,697.3 L165.1,700.0 L156.7,692.2 L157.6,682.3 L160.8,671.8 L167.4,666.3 L171.4,658.6 L176.8,653.4 L178.4,644.8 L179.4,636.1 L183.5,633.6 L194.7,645.4 L190.8,656.2 L186.6,662.0 L190.1,670.1 L194.8,676.7 L199.0,687.2 L196.0,695.9 Z M303.2,188.6 L303.3,209.2 L305.2,222.9 L309.0,228.5 L314.4,232.8 L319.1,238.4 L321.0,247.9 L319.1,254.7 L310.5,270.5 L307.8,278.0 L303.8,270.9 L299.7,265.3 L294.7,261.9 L287.6,261.0 L280.5,263.7 L273.5,269.1 L270.2,274.6 L284.2,282.3 L289.6,294.7 L291.3,310.9 L289.5,327.1 L282.3,341.8 L273.8,349.2 L270.3,357.3 L277.9,373.8 L280.5,386.4 L280.0,428.7 L278.0,442.9 L259.2,492.8 L249.8,504.5 L240.9,513.4 L238.0,520.9 L232.2,524.2 L226.1,522.5 L212.6,515.4 L197.1,516.3 L170.8,521.4 L75.9,547.9 L29.9,557.7 L3.7,568.5 L0.0,561.1 L11.7,553.7 L12.7,554.1 L30.3,537.2 L24.4,482.0 L51.4,477.9 L64.0,285.4 L64.8,63.7 L66.0,1.5 L86.0,0.8 L182.1,0.9 L197.1,126.2 L244.4,119.3 L258.3,145.3 L274.4,132.3 L295.0,151.0 L276.8,168.8 L281.0,187.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>4402</geoid>
+    <name>Congressional District 2</name>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>us-ri-02</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.RI.01" d="M423.6,277.0 L459.7,293.2 L453.8,337.4 L458.8,346.9 L462.4,412.7 L423.5,446.8 L416.0,427.7 L414.5,419.2 L418.1,410.6 L418.7,404.7 L412.6,374.4 L411.4,338.8 L412.3,319.6 L414.4,303.5 Z M298.1,447.8 L294.4,448.9 L293.2,443.5 L297.2,425.5 L295.3,415.8 L299.4,413.5 L304.3,404.6 L297.9,396.9 L299.9,383.9 L309.7,355.7 L315.3,357.3 L318.9,360.4 L320.7,365.3 L321.3,372.0 L321.2,389.4 L318.8,407.1 L315.2,422.5 L311.4,432.8 L303.4,443.0 Z M392.6,420.5 L395.0,429.5 L376.3,423.5 L363.2,434.5 L352.4,446.8 L340.4,444.6 L333.0,452.2 L326.1,455.5 L321.1,452.5 L319.4,441.0 L323.5,436.8 L342.7,428.8 L349.6,423.3 L342.3,412.6 L340.0,403.3 L342.2,394.9 L348.4,386.8 L350.5,382.5 L351.3,376.8 L351.2,365.0 L353.1,361.9 L362.1,356.9 L365.6,354.2 L369.5,345.1 L373.6,322.7 L377.4,313.5 L383.6,307.1 L399.0,297.8 L406.5,291.7 L406.0,308.2 L398.1,335.5 L395.9,396.0 L394.8,405.5 L393.1,413.1 Z M347.7,354.5 L338.1,358.4 L334.3,353.0 L334.5,344.7 L338.9,330.1 L336.1,317.4 L323.6,312.9 L322.2,304.4 L325.0,289.8 L332.3,281.6 L336.7,292.2 L339.7,300.7 L347.2,312.5 L355.7,317.9 L354.5,335.7 Z M182.1,0.9 L235.9,0.7 L271.2,0.0 L317.3,0.5 L314.3,101.7 L340.3,98.2 L342.4,127.4 L333.6,158.7 L343.8,193.1 L384.0,217.3 L401.1,245.7 L396.7,253.7 L395.2,261.2 L395.1,272.0 L394.6,274.7 L392.2,275.4 L382.2,298.7 L367.1,291.4 L357.4,291.2 L353.4,282.0 L354.9,270.9 L358.5,256.5 L363.4,242.5 L371.8,225.6 L370.6,219.6 L366.7,215.3 L361.3,213.5 L359.3,217.0 L357.3,234.4 L354.5,240.8 L348.9,238.4 L337.7,230.8 L326.8,220.5 L322.0,209.4 L321.5,195.0 L318.9,183.4 L314.1,172.8 L306.9,161.5 L304.4,171.9 L303.2,188.6 L281.0,187.1 L276.8,168.8 L295.0,151.0 L274.4,132.3 L258.3,145.3 L244.4,119.3 L197.1,126.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>4401</geoid>
+    <name>Congressional District 1</name>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.15</hc-middle-y>
+    <hc-key>us-ri-01</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

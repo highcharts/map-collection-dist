@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Benelux</title>
+<g id="admin1">
+
+<g id="BE">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Belgium</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Belg.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>BEL</iso-a3>
+    <iso-a2>BE</iso-a2>
+    <woe-id>23424757</woe-id>
+    <continent>Europe</continent>
+    <hc-key>be</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.NH" d="M244.2,81.7 L246.3,82.7 L244.4,87.7 L241.7,92.1 L236.9,96.2 L234.8,100.8 L231.3,101.9 L227.7,100.5 L225.6,96.2 L226.2,91.8 L228.1,86.7 L230.5,82.5 L235.2,78.2 L237.5,73.1 L239.9,68.8 L243.1,68.9 L243.2,72.4 L245.9,77.7 L245.9,80.4 Z M206.8,215.8 L207.7,214.0 L213.6,195.4 L214.4,189.4 L216.3,185.0 L219.9,152.0 L221.6,143.5 L222.6,135.6 L226.7,124.2 L227.6,118.6 L227.9,111.5 L228.6,107.9 L229.8,106.4 L237.9,107.5 L236.5,112.7 L238.9,115.8 L243.2,116.9 L247.2,116.5 L249.5,115.1 L253.7,111.2 L259.9,109.7 L263.9,107.8 L274.0,98.2 L274.3,98.9 L274.9,101.2 L269.1,106.7 L264.7,109.5 L260.5,111.4 L262.7,113.1 L268.1,123.5 L268.8,127.1 L269.3,138.0 L270.8,140.2 L274.4,142.8 L278.0,140.1 L281.1,139.9 L286.4,142.0 L287.1,142.9 L288.3,149.0 L283.5,152.3 L282.3,156.4 L280.7,158.4 L274.5,162.5 L271.5,163.4 L268.9,161.1 L266.1,160.1 L262.5,160.8 L261.0,163.7 L261.3,168.0 L262.9,173.0 L266.5,180.5 L267.4,184.6 L265.4,186.9 L266.2,189.3 L263.4,190.4 L266.1,194.3 L267.8,195.1 L266.2,198.3 L262.8,201.2 L261.2,205.6 L256.7,204.5 L255.3,207.0 L261.9,210.8 L270.4,212.2 L275.8,215.6 L280.2,216.7 L286.8,216.2 L294.3,221.3 L287.8,221.6 L286.5,222.2 L284.7,225.5 L282.5,232.8 L280.5,237.4 L278.5,238.9 L272.7,238.8 L264.3,241.2 L262.9,235.0 L263.6,231.6 L265.3,229.4 L263.1,226.7 L262.8,223.6 L265.9,222.3 L261.7,222.0 L260.0,222.8 L257.6,221.4 L255.1,222.9 L252.1,223.3 L249.9,226.7 L245.8,227.4 L240.0,231.4 L235.2,232.9 L231.9,235.2 L230.8,234.7 L229.1,230.8 L222.7,233.4 L215.7,234.8 L212.1,232.3 L213.4,230.1 L214.1,225.1 L218.3,217.7 L216.0,217.2 L213.9,218.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.NH</hasc>
+    <alt-name>Holanda do Norte|Hollande-septentrionale|North Holland</alt-name>
+    <woe-id>2346379</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL07</fips>
+    <postal-code>NULL</postal-code>
+    <name>Noord-Holland</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>4.89736</longitude>
+    <woe-name>Noord-Holland</woe-name>
+    <latitude>52.5748</latitude>
+    <woe-label>North Holland, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>nl-nh</hc-key>
+    <hc-a2>NH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.FR" d="M248.0,62.1 L245.5,64.5 L242.3,63.1 L246.4,57.5 L252.9,51.1 L259.7,46.9 L264.8,47.5 L264.9,48.6 L262.2,48.7 L258.0,50.7 L250.2,58.7 Z M297.0,30.0 L292.6,32.1 L289.0,33.2 L275.1,39.8 L272.2,39.9 L270.9,37.3 L272.0,34.4 L277.3,32.3 L279.1,30.6 L281.4,30.6 L294.9,27.3 L297.8,24.9 L312.7,21.4 L310.5,24.8 L307.7,25.9 L301.8,26.4 L302.5,28.8 Z M345.9,16.7 L350.1,18.7 L340.1,21.4 L329.7,21.9 L322.4,25.1 L319.8,24.6 L317.9,22.1 L318.4,19.6 L320.1,18.1 L321.6,18.7 Z M370.1,16.5 L368.2,19.2 L366.9,14.5 L369.4,12.2 L375.7,9.5 L385.7,8.1 L388.5,8.9 L387.2,10.1 Z M388.9,79.7 L388.8,82.0 L393.7,84.3 L395.3,90.2 L401.2,97.4 L402.6,99.9 L402.2,101.6 L399.0,107.1 L394.2,110.6 L390.7,108.5 L385.7,108.1 L380.7,113.9 L372.3,121.0 L368.0,122.9 L364.4,123.7 L362.5,126.9 L358.5,126.8 L355.7,124.0 L352.2,124.9 L349.9,128.2 L346.9,130.1 L342.7,130.0 L341.0,128.8 L337.3,130.9 L336.1,128.3 L332.4,125.1 L330.0,125.6 L329.3,124.6 L321.8,122.7 L318.5,123.6 L315.3,125.8 L312.1,125.7 L308.3,123.9 L301.8,123.9 L298.5,123.2 L294.1,119.7 L293.7,116.9 L298.4,111.8 L296.9,109.1 L298.5,107.2 L298.8,104.4 L297.3,99.8 L297.9,95.6 L294.5,89.7 L293.3,86.1 L284.9,91.8 L274.9,101.2 L274.3,98.9 L274.0,98.2 L283.9,88.7 L287.2,85.3 L291.9,84.0 L293.9,82.6 L295.9,78.3 L298.3,66.6 L300.1,61.4 L305.7,55.1 L309.4,53.3 L314.3,47.0 L321.2,45.2 L324.6,42.0 L340.6,34.8 L344.1,32.0 L346.5,31.7 L353.1,27.9 L373.9,26.2 L372.5,30.5 L373.6,34.1 L377.0,35.2 L379.5,37.3 L383.3,37.0 L383.7,42.3 L384.9,42.9 L381.7,46.7 L380.9,49.7 L378.4,54.9 L379.1,59.0 L375.6,64.2 L374.1,70.0 L374.7,73.6 L377.1,76.0 L384.2,77.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.FR</hasc>
+    <alt-name>Frise|Frisia|Frísia</alt-name>
+    <woe-id>2346374</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL02</fips>
+    <postal-code>FR</postal-code>
+    <name>Friesland</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.77345</longitude>
+    <woe-name>Friesland</woe-name>
+    <latitude>53.0792</latitude>
+    <woe-label>Friesland, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>nl-fr</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.BU" d="M203.3,456.6 L205.1,459.5 L203.4,462.9 L207.7,465.6 L209.6,470.9 L207.3,471.2 L206.4,472.7 L210.0,475.3 L201.4,480.2 L196.8,480.4 L193.7,478.4 L190.8,472.5 L188.9,473.5 L184.8,471.3 L186.0,468.7 L188.8,468.2 L189.4,465.4 L188.3,463.4 L190.2,459.4 L194.1,457.4 L198.7,458.0 L201.4,455.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>BE.BU</hasc>
+    <alt-name>Bruselas|Brussel Hoofstadt|Brusselse Hoofdstedelijke Gewest|Brüssel|Bruxelas|Région de Bruxelles-Capitale</alt-name>
+    <woe-id>55965974</woe-id>
+    <subregion>NULL</subregion>
+    <fips>BE11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Brussels</name>
+    <country>Belgium</country>
+    <type-en>Capital Region</type-en>
+    <region>Capital Region</region>
+    <longitude>4.36266</longitude>
+    <woe-name>Brussels</woe-name>
+    <latitude>50.8332</latitude>
+    <woe-label>Capital Region of Brussels, BE, Belgium</woe-label>
+    <type>Hoofdstedelijk Gewest|Région Capitale</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>be-bu</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.GR" d="M399.9,0.0 L405.6,2.2 L404.3,3.5 L398.8,1.4 Z M469.1,118.2 L466.4,115.0 L463.3,113.6 L465.1,107.8 L464.2,106.2 L453.7,94.0 L441.2,82.5 L432.7,74.2 L428.3,73.2 L421.6,75.8 L420.0,72.7 L416.3,68.2 L414.3,66.9 L410.6,61.8 L409.5,62.0 L404.2,59.9 L398.8,64.7 L396.1,68.1 L393.3,76.7 L391.8,79.8 L388.9,79.7 L384.2,77.0 L377.1,76.0 L374.7,73.6 L374.1,70.0 L375.6,64.2 L379.1,59.0 L378.4,54.9 L380.9,49.7 L381.7,46.7 L384.9,42.9 L383.7,42.3 L383.3,37.0 L379.5,37.3 L377.0,35.2 L373.6,34.1 L372.5,30.5 L373.9,26.2 L382.8,25.5 L385.7,27.3 L387.5,27.3 L390.0,25.2 L404.9,20.0 L428.5,15.1 L438.6,16.3 L442.6,18.8 L446.8,32.6 L449.9,34.5 L451.9,36.7 L455.1,37.6 L459.3,39.7 L461.1,39.0 L463.2,40.2 L465.9,38.7 L464.9,41.2 L465.9,46.0 L469.1,47.6 L477.7,49.0 L478.5,56.5 L477.8,62.2 L476.6,66.0 L476.6,69.4 L478.1,72.8 L479.7,84.8 L479.9,90.9 L479.3,96.4 L477.4,102.2 L469.8,115.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>NL.GR</hasc>
+    <alt-name>Groninga|Groningue</alt-name>
+    <woe-id>2346376</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL04</fips>
+    <postal-code>GR</postal-code>
+    <name>Groningen</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>6.73067</longitude>
+    <woe-name>Groningen</woe-name>
+    <latitude>53.279</latitude>
+    <woe-label>Groningen, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>nl-gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.FL" d="M344.4,170.2 L346.7,177.6 L346.8,181.0 L345.6,185.4 L341.9,192.2 L339.3,194.9 L333.4,196.8 L328.5,199.3 L324.7,200.8 L322.6,204.1 L318.0,205.7 L315.1,207.3 L316.1,212.5 L315.7,216.7 L313.6,219.9 L309.9,221.5 L303.1,222.0 L300.3,221.0 L293.9,216.2 L290.5,214.4 L283.3,212.0 L276.8,212.2 L274.6,211.0 L272.3,204.1 L277.0,200.0 L283.3,196.3 L287.6,191.8 L295.3,188.4 L299.8,183.9 L304.9,181.0 L307.2,174.5 L311.1,173.7 L317.2,167.7 L323.2,165.5 L325.0,164.0 L327.9,166.9 Z M337.3,130.9 L345.0,134.7 L349.9,138.4 L351.9,141.1 L353.5,145.4 L354.5,149.7 L352.7,152.7 L360.2,155.4 L362.5,158.0 L359.3,160.0 L354.4,161.9 L349.8,161.6 L344.4,164.6 L341.0,163.1 L327.3,164.4 L325.7,163.9 L322.1,158.2 L318.8,154.3 L318.4,147.7 L318.9,140.6 L319.6,136.4 L321.5,132.1 L323.9,128.7 L326.9,126.4 L330.0,125.6 L332.4,125.1 L336.1,128.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.FL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346384</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL16</fips>
+    <postal-code>FL</postal-code>
+    <name>Flevoland</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.55746</longitude>
+    <woe-name>Flevoland</woe-name>
+    <latitude>52.5508</latitude>
+    <woe-label>Flevoland, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.72</hc-middle-y>
+    <hc-key>nl-fl</hc-key>
+    <hc-a2>FL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.ZE" d="M158.0,322.5 L160.3,325.2 L164.7,326.3 L166.7,327.7 L167.0,330.5 L165.9,332.2 L162.4,334.2 L154.3,335.9 L148.5,334.4 L146.2,332.8 L144.4,328.3 L138.6,325.4 L136.3,323.2 L134.9,323.1 L131.7,326.8 L127.0,327.1 L124.8,326.5 L123.4,324.4 L123.7,319.0 L127.5,316.4 L136.3,315.1 L139.9,315.8 L150.0,315.9 L154.0,317.7 Z M89.1,385.0 L88.1,378.5 L105.2,372.9 L108.4,371.4 L115.2,375.7 L125.6,378.5 L129.0,381.5 L131.3,382.5 L135.6,382.4 L139.6,383.5 L142.2,383.1 L152.5,378.5 L153.9,376.8 L155.4,371.9 L157.7,372.0 L161.7,373.9 L164.6,378.6 L170.1,380.4 L173.8,380.6 L176.3,377.2 L180.7,378.8 L179.3,385.1 L175.3,390.9 L170.0,395.1 L157.0,402.0 L152.2,405.8 L149.8,406.6 L137.2,406.9 L134.2,404.5 L133.6,398.6 L131.6,397.3 L118.6,393.1 L113.2,392.9 L105.7,394.4 L104.6,395.6 L104.4,401.3 L99.4,402.1 L93.5,400.6 L90.1,397.5 L88.6,393.2 Z M181.2,353.0 L177.4,352.4 L173.0,350.6 L166.4,350.7 L163.9,349.2 L155.4,341.4 L161.0,338.7 L163.8,337.9 L173.2,338.2 L176.0,339.0 L178.5,341.1 L181.8,344.8 L182.4,349.7 Z M187.0,378.5 L184.9,378.5 L184.9,378.5 L183.6,376.0 L183.0,370.8 L178.4,372.5 L168.9,372.3 L164.5,370.4 L158.6,365.4 L152.4,364.3 L151.0,365.2 L146.7,373.0 L138.8,375.4 L134.7,371.9 L128.3,368.8 L124.1,364.9 L122.4,364.7 L118.1,366.4 L115.7,366.5 L109.7,365.2 L107.8,364.2 L103.4,357.1 L99.9,354.1 L98.3,349.5 L99.4,348.0 L110.2,341.2 L138.5,337.8 L140.9,338.2 L144.2,340.6 L146.8,345.1 L143.2,347.5 L143.2,348.5 L153.3,349.5 L158.5,351.5 L162.9,355.2 L166.5,363.7 L168.1,365.8 L170.7,366.5 L176.2,365.6 L178.3,366.7 L185.0,365.7 L185.4,375.3 Z M177.4,333.0 L177.4,333.2 L176.2,336.6 L172.1,336.5 L169.0,334.4 L168.2,331.6 L170.3,329.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.ZE</hasc>
+    <alt-name>Zelanda|Zélande|Zelândia</alt-name>
+    <woe-id>2346382</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL10</fips>
+    <postal-code>ZE</postal-code>
+    <name>Zeeland</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>3.78515</longitude>
+    <woe-name>Zeeland</woe-name>
+    <latitude>51.2837</latitude>
+    <woe-label>Zeeland, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.84</hc-middle-y>
+    <hc-key>nl-ze</hc-key>
+    <hc-a2>ZE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.3528" d="M268.2,481.3 L270.9,482.8 L270.9,485.8 L274.4,488.8 L277.2,488.2 L277.2,488.2 L284.4,490.1 L285.8,488.4 L284.5,485.7 L292.5,486.6 L295.9,484.3 L299.4,486.1 L299.8,484.2 L301.9,482.2 L306.8,480.4 L308.3,480.9 L309.7,484.2 L312.6,485.2 L315.0,484.9 L315.8,481.9 L318.0,484.1 L319.7,483.7 L322.5,481.0 L322.2,478.3 L331.4,475.2 L336.5,469.7 L341.2,471.6 L340.1,477.5 L342.1,478.6 L344.9,477.7 L346.8,479.6 L349.6,478.8 L354.3,484.7 L358.2,484.0 L361.7,484.8 L364.1,480.8 L362.0,478.3 L362.0,478.3 L371.0,478.6 L373.1,478.1 L374.9,480.2 L375.2,485.0 L382.6,483.9 L384.8,485.9 L391.8,495.6 L390.4,496.6 L391.7,499.0 L394.0,500.0 L401.4,499.9 L399.9,504.6 L394.3,509.1 L392.4,512.3 L394.3,514.5 L393.7,516.6 L395.9,517.0 L395.1,518.5 L397.0,521.2 L398.9,521.8 L403.0,520.2 L405.2,521.2 L411.9,522.1 L410.6,524.7 L411.6,527.9 L413.8,530.1 L413.9,532.9 L412.7,539.2 L412.9,541.2 L416.9,547.6 L417.3,550.0 L416.0,551.5 L413.1,552.1 L409.2,551.4 L406.1,555.4 L406.5,558.6 L404.6,560.5 L397.7,563.2 L393.3,568.2 L394.8,569.8 L395.5,573.6 L394.2,575.8 L391.1,576.7 L390.4,580.0 L392.0,581.9 L390.8,584.2 L389.1,583.6 L388.3,579.1 L386.9,577.8 L384.4,579.3 L380.3,579.5 L380.3,579.5 L380.3,574.3 L379.6,572.1 L381.1,570.3 L378.7,569.9 L378.1,568.1 L378.1,552.3 L374.5,550.6 L374.3,549.2 L361.0,546.8 L360.2,550.0 L362.3,551.6 L360.1,557.6 L363.9,558.0 L363.2,559.7 L356.4,560.9 L353.2,560.5 L346.7,561.7 L349.3,555.4 L346.4,554.8 L344.4,550.0 L346.1,545.7 L340.6,545.9 L341.0,543.9 L337.5,544.2 L331.4,539.0 L327.8,540.8 L325.4,540.1 L322.7,534.9 L318.4,538.0 L313.6,534.4 L311.6,535.8 L313.9,539.5 L310.4,543.1 L305.7,541.6 L299.9,545.8 L298.3,543.8 L298.3,540.7 L292.9,539.4 L291.5,537.2 L293.1,533.8 L291.0,529.4 L288.6,527.1 L285.0,528.7 L284.2,525.2 L282.1,525.6 L281.2,522.9 L278.6,522.5 L276.9,518.6 L270.9,518.4 L272.9,516.8 L269.9,508.7 L264.5,503.9 L264.7,499.8 L266.7,495.9 L266.5,490.9 L268.1,489.6 L265.4,485.9 L267.9,484.4 L268.2,481.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.</hasc>
+    <alt-name>Luik</alt-name>
+    <woe-id>7153300</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Liege</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Walloon</region>
+    <longitude>5.67651</longitude>
+    <woe-name>Liege</woe-name>
+    <latitude>50.5794</latitude>
+    <woe-label>Liege, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>be-3528</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.3529" d="M268.2,481.3 L267.9,484.4 L265.4,485.9 L268.1,489.6 L266.5,490.9 L266.7,495.9 L264.7,499.8 L261.3,499.1 L258.9,502.5 L244.5,506.7 L244.4,509.2 L243.2,507.5 L238.9,509.3 L238.1,505.9 L235.3,506.7 L234.9,508.6 L231.8,506.5 L229.6,508.6 L231.0,513.9 L228.6,514.5 L224.6,513.2 L220.9,514.9 L221.4,517.8 L214.9,520.7 L213.4,518.4 L209.9,520.4 L209.6,515.3 L204.7,515.5 L203.6,514.3 L197.4,515.1 L194.8,518.1 L195.0,513.8 L191.8,514.2 L189.1,510.0 L185.5,509.4 L186.1,505.8 L180.3,504.4 L180.8,500.9 L178.7,498.2 L177.5,498.7 L174.2,503.4 L169.8,503.0 L168.7,500.1 L168.5,493.8 L169.4,491.0 L169.4,491.0 L170.2,489.3 L172.9,489.3 L173.6,487.4 L175.7,487.4 L178.1,490.6 L181.0,490.5 L184.6,493.3 L186.7,491.7 L189.7,492.7 L191.9,491.2 L192.2,488.6 L194.5,488.6 L194.1,486.0 L196.2,488.8 L198.3,488.9 L198.8,486.3 L204.0,485.4 L207.8,482.3 L211.8,481.7 L211.9,484.5 L215.3,486.4 L215.5,484.3 L220.2,483.1 L222.7,480.3 L223.3,483.9 L226.9,483.7 L229.0,481.2 L226.9,478.6 L227.3,474.2 L232.9,475.6 L239.0,472.4 L243.5,473.9 L245.9,477.7 L248.5,477.8 L248.1,479.7 L256.2,478.6 L255.9,481.7 L258.9,482.5 L264.0,478.2 L268.2,481.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.</hasc>
+    <alt-name>Waals-Brabant|Brabant Wallon</alt-name>
+    <woe-id>22525997</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Walloon Brabant</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Walloon</region>
+    <longitude>4.55466</longitude>
+    <woe-name>Walloon Brabant</woe-name>
+    <latitude>50.6416</latitude>
+    <woe-label>Walloon Brabant, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>be-3529</hc-key>
+    <hc-a2>WB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.489" d="M168.5,493.8 L168.7,500.1 L169.8,503.0 L174.2,503.4 L177.5,498.7 L178.7,498.2 L180.8,500.9 L180.3,504.4 L186.1,505.8 L185.5,509.4 L189.1,510.0 L191.8,514.2 L195.0,513.8 L194.8,518.1 L197.4,515.1 L203.6,514.3 L204.7,515.5 L209.6,515.3 L209.9,520.4 L213.4,518.4 L214.9,520.7 L221.4,517.8 L219.6,526.2 L223.5,525.2 L222.7,526.7 L224.0,528.5 L222.3,534.0 L221.3,535.1 L226.0,537.8 L224.5,541.3 L222.8,541.9 L225.1,544.5 L222.6,548.9 L223.4,555.2 L216.1,556.6 L214.0,554.1 L211.0,554.4 L208.9,558.3 L202.8,557.6 L202.0,560.7 L200.1,560.7 L198.7,563.3 L195.1,563.6 L190.8,566.8 L192.6,569.2 L196.6,571.5 L199.4,569.1 L203.3,570.7 L202.1,576.1 L203.0,578.6 L199.1,581.7 L203.4,588.9 L202.1,591.8 L202.8,601.3 L204.6,601.9 L205.6,610.7 L209.0,617.2 L207.2,621.5 L190.8,617.3 L182.4,618.6 L175.6,615.1 L174.7,607.8 L176.0,605.6 L180.5,601.8 L183.1,600.5 L179.7,589.2 L175.3,589.8 L173.7,589.1 L173.9,586.0 L176.9,574.7 L181.6,569.7 L181.9,568.0 L177.4,564.5 L176.0,565.1 L175.4,568.1 L173.3,567.2 L170.3,560.9 L165.7,557.6 L162.0,553.7 L157.6,553.0 L150.7,556.0 L148.3,556.0 L142.2,552.7 L137.7,552.2 L131.5,553.2 L126.7,560.8 L122.9,557.3 L121.9,550.4 L121.8,542.5 L120.8,535.9 L119.0,532.7 L116.9,530.7 L112.0,529.0 L105.0,529.0 L103.7,528.1 L104.7,526.2 L104.2,523.9 L101.1,523.6 L97.5,526.5 L92.7,528.3 L88.2,528.1 L83.5,525.7 L80.3,522.4 L79.6,515.0 L76.7,505.5 L75.8,500.6 L77.3,497.8 L75.2,492.2 L72.3,491.5 L68.6,484.6 L74.7,481.6 L79.1,484.2 L83.7,483.4 L86.0,486.7 L85.8,489.0 L90.2,491.3 L90.6,490.0 L95.4,484.9 L100.3,481.3 L104.2,482.9 L108.5,481.6 L109.2,486.9 L116.3,487.0 L119.4,489.1 L123.7,480.6 L126.7,478.8 L127.9,481.1 L132.5,479.0 L134.4,484.3 L138.7,483.8 L140.1,485.2 L146.2,483.8 L147.3,486.7 L146.6,489.5 L148.7,493.4 L151.0,494.2 L157.5,494.3 L159.7,492.5 L161.7,493.2 L164.3,491.8 L165.0,492.9 L166.5,490.1 L169.4,491.0 L169.4,491.0 Z M53.6,481.5 L48.0,483.3 L43.5,486.9 L40.3,492.5 L38.9,493.6 L36.7,493.1 L34.1,484.4 L37.7,482.5 L39.2,483.9 L42.3,483.3 L42.7,481.7 L46.8,480.1 L44.7,476.7 L50.9,474.2 L52.6,475.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.</hasc>
+    <alt-name>Henegouwen</alt-name>
+    <woe-id>7153299</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Hainaut</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Walloon</region>
+    <longitude>3.88925</longitude>
+    <woe-name>Hainaut</woe-name>
+    <latitude>50.521</latitude>
+    <woe-label>Hainault, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>be-489</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LU.DI" d="M380.3,579.5 L384.4,579.3 L386.9,577.8 L388.3,579.1 L389.1,583.6 L390.8,584.2 L389.0,596.5 L391.0,598.5 L391.6,603.9 L394.1,608.0 L396.9,614.2 L398.0,611.8 L400.0,614.8 L403.9,623.3 L405.7,624.9 L411.2,627.4 L412.2,629.5 L408.8,630.9 L408.0,633.1 L409.2,635.8 L407.2,639.5 L403.7,638.1 L400.3,634.9 L396.1,634.4 L392.5,635.6 L388.8,633.9 L384.7,634.7 L380.4,642.2 L380.0,651.1 L371.9,654.5 L365.0,655.6 L359.3,653.1 L358.8,649.6 L356.0,644.6 L351.5,642.0 L350.3,640.2 L349.3,636.0 L351.0,633.5 L349.9,632.5 L350.4,630.0 L353.3,630.2 L352.2,628.7 L348.4,626.4 L348.8,624.7 L352.3,618.0 L353.3,615.2 L357.4,612.1 L358.5,609.8 L357.2,607.9 L357.2,605.6 L360.0,603.6 L361.0,601.4 L360.8,597.8 L363.5,594.3 L364.2,589.3 L366.0,587.6 L369.9,585.4 L371.5,583.7 L373.5,577.3 L377.4,575.5 L380.3,579.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LU.DI</hasc>
+    <alt-name>Dikrech|Dikkrich</alt-name>
+    <woe-id>20070542</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LU01</fips>
+    <postal-code>DI</postal-code>
+    <name>Diekirch</name>
+    <country>Luxembourg</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>6.00481</longitude>
+    <woe-name>Diekirch</woe-name>
+    <latitude>49.9763</latitude>
+    <woe-label>Diekirch, LU, Luxembourg</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lu-di</hc-key>
+    <hc-a2>DI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LU.GR" d="M407.2,639.5 L409.2,635.8 L408.0,633.1 L408.8,630.9 L412.2,629.5 L413.1,631.7 L416.5,630.7 L421.7,634.6 L425.6,636.2 L430.8,635.9 L435.0,637.6 L433.9,646.5 L434.2,649.3 L435.6,651.5 L434.9,653.5 L427.0,659.1 L425.4,661.6 L427.2,664.3 L425.2,668.7 L422.5,672.4 L420.4,677.0 L420.6,682.3 L420.0,689.5 L420.6,695.8 L415.4,694.2 L410.0,690.5 L407.8,682.0 L408.3,678.3 L411.7,674.7 L414.5,673.7 L414.5,671.8 L412.8,670.1 L415.7,666.9 L413.6,663.5 L412.4,659.0 L408.5,656.8 L400.1,656.9 L404.8,648.7 L407.0,646.9 L409.4,646.9 L410.5,642.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LU.GR</hasc>
+    <alt-name>Gréivemaacher</alt-name>
+    <woe-id>20070559</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LU02</fips>
+    <postal-code>GR</postal-code>
+    <name>Grevenmacher</name>
+    <country>Luxembourg</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>6.33835</longitude>
+    <woe-name>Grevenmacher</woe-name>
+    <latitude>49.6474</latitude>
+    <woe-label>Grevenmacher, LU, Luxembourg</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.21</hc-middle-y>
+    <hc-key>lu-gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LU.LU" d="M407.2,639.5 L410.5,642.9 L409.4,646.9 L407.0,646.9 L404.8,648.7 L400.1,656.9 L408.5,656.8 L412.4,659.0 L413.6,663.5 L415.7,666.9 L412.8,670.1 L414.5,671.8 L414.5,673.7 L411.7,674.7 L408.3,678.3 L407.8,682.0 L410.0,690.5 L406.7,689.3 L403.5,689.1 L397.2,690.1 L398.0,691.6 L394.9,692.0 L393.4,695.4 L389.5,698.3 L380.1,699.3 L378.2,700.0 L376.5,695.2 L374.4,693.2 L367.3,691.8 L362.5,688.9 L358.8,684.4 L361.4,683.0 L363.8,680.2 L364.8,677.5 L362.9,676.6 L364.1,675.4 L366.2,669.7 L368.6,666.1 L367.9,663.7 L364.9,662.9 L363.7,661.1 L365.0,655.6 L371.9,654.5 L380.0,651.1 L380.4,642.2 L384.7,634.7 L388.8,633.9 L392.5,635.6 L396.1,634.4 L400.3,634.9 L403.7,638.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LU.LU</hasc>
+    <alt-name>Lëtzebuerg|Luxemburg</alt-name>
+    <woe-id>20070560</woe-id>
+    <subregion>NULL</subregion>
+    <fips>LU03</fips>
+    <postal-code>LU</postal-code>
+    <name>Luxembourg</name>
+    <country>Luxembourg</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>6.05114</longitude>
+    <woe-name>Luxembourg</woe-name>
+    <latitude>49.6376</latitude>
+    <woe-label>Luxemburg, LU, Luxembourg</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>lu-lu</hc-key>
+    <hc-a2>LU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.NB" d="M185.0,365.7 L187.0,365.1 L188.4,361.2 L187.4,357.6 L185.2,354.9 L181.2,353.0 L182.4,349.7 L181.8,344.8 L178.5,341.1 L178.0,337.9 L176.2,336.6 L177.4,333.2 L177.4,333.0 L181.7,331.6 L186.1,331.1 L191.7,329.6 L195.8,326.7 L198.8,320.7 L209.8,322.7 L213.8,322.5 L224.2,318.4 L227.5,318.2 L232.6,311.8 L234.1,308.7 L239.2,303.8 L245.0,303.6 L247.6,302.7 L251.6,298.9 L254.3,298.8 L259.7,299.7 L262.1,299.4 L262.5,301.7 L268.2,306.4 L271.9,306.0 L275.9,308.5 L275.8,314.4 L295.0,311.6 L298.8,308.9 L300.1,306.7 L301.3,300.5 L303.3,299.3 L307.6,299.5 L313.7,296.1 L317.3,297.9 L324.0,296.6 L328.7,297.5 L330.8,301.5 L333.9,302.6 L341.4,307.4 L352.2,307.6 L354.4,308.5 L355.1,312.6 L356.8,313.6 L361.1,313.9 L362.8,315.1 L364.4,321.2 L366.2,322.9 L365.5,324.6 L368.2,327.0 L371.0,331.7 L373.2,339.5 L371.6,341.0 L367.9,339.1 L362.8,341.1 L358.8,341.7 L354.7,340.5 L350.9,340.3 L352.9,350.9 L355.7,360.5 L359.5,365.3 L362.3,370.7 L356.2,376.2 L353.0,377.2 L335.3,383.4 L330.7,391.0 L330.0,396.7 L328.7,398.8 L322.7,400.8 L322.0,400.2 L320.7,393.1 L318.6,390.6 L313.8,389.0 L307.4,393.3 L305.2,394.2 L292.6,394.1 L289.3,395.0 L286.7,394.8 L286.5,388.8 L284.5,386.5 L278.5,386.8 L276.6,385.8 L274.3,379.6 L270.5,375.6 L270.0,370.3 L271.4,364.7 L269.2,360.8 L265.7,358.4 L264.1,358.9 L262.5,363.6 L258.6,369.8 L255.9,372.5 L253.7,373.1 L247.6,370.9 L240.1,370.8 L237.9,369.9 L239.6,367.6 L244.3,369.7 L243.4,366.8 L244.4,361.7 L244.2,359.2 L241.2,356.6 L237.7,355.8 L234.3,357.7 L226.3,368.0 L223.9,369.4 L218.8,368.8 L214.4,369.3 L212.3,367.9 L213.4,361.3 L212.5,359.9 L208.1,360.2 L202.4,362.4 L197.0,365.8 L198.3,367.2 L197.4,371.4 L201.3,377.4 L200.9,380.3 L198.9,381.4 L193.9,381.2 L187.0,378.5 L185.4,375.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.NB</hasc>
+    <alt-name>Brabante del Norte|Brabante do Norte|Brabante settentrionale|Brabant-septentrional|Nord-Brabant|Nort</alt-name>
+    <woe-id>2346378</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL06</fips>
+    <postal-code>NULL</postal-code>
+    <name>Noord-Brabant</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.16122</longitude>
+    <woe-name>Noord-Brabant</woe-name>
+    <latitude>51.6008</latitude>
+    <woe-label>North Brabant, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>nl-nb</hc-key>
+    <hc-a2>NB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.UT" d="M294.3,221.3 L296.7,222.9 L301.4,224.9 L300.7,231.3 L305.1,235.2 L303.7,238.7 L304.4,239.9 L309.1,241.0 L313.2,245.0 L312.9,248.9 L311.8,248.9 L310.5,252.5 L308.9,254.3 L312.3,256.4 L316.3,253.3 L315.9,250.7 L317.6,250.2 L319.0,255.5 L319.0,259.6 L320.1,264.7 L323.8,269.3 L325.4,273.1 L325.1,276.5 L321.5,275.8 L313.3,271.2 L308.8,270.4 L304.5,272.9 L300.5,272.0 L298.2,272.6 L295.2,275.0 L293.1,275.7 L287.1,272.6 L283.7,274.5 L279.6,274.9 L276.6,273.8 L274.1,270.1 L271.3,268.8 L267.1,270.8 L263.7,274.1 L259.3,273.2 L255.8,275.5 L252.9,278.6 L249.5,279.0 L248.8,280.1 L242.0,270.8 L245.0,268.8 L244.5,266.8 L239.8,267.6 L239.3,266.5 L242.5,261.4 L246.5,259.2 L247.2,258.0 L242.5,258.1 L241.0,251.8 L238.0,250.1 L241.0,246.6 L245.7,247.2 L244.3,242.5 L245.3,241.7 L240.1,237.5 L237.8,236.6 L235.2,232.9 L240.0,231.4 L245.8,227.4 L249.9,226.7 L252.1,223.3 L255.1,222.9 L257.6,221.4 L260.0,222.8 L261.7,222.0 L265.9,222.3 L262.8,223.6 L263.1,226.7 L265.3,229.4 L263.6,231.6 L262.9,235.0 L264.3,241.2 L272.7,238.8 L278.5,238.9 L280.5,237.4 L282.5,232.8 L284.7,225.5 L286.5,222.2 L287.8,221.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>NL.UT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346381</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL09</fips>
+    <postal-code>NULL</postal-code>
+    <name>Utrecht</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.1938</longitude>
+    <woe-name>Utrecht</woe-name>
+    <latitude>52.0749</latitude>
+    <woe-label>Utrecht, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>nl-ut</hc-key>
+    <hc-a2>UT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.ZH" d="M235.2,232.9 L237.8,236.6 L240.1,237.5 L245.3,241.7 L244.3,242.5 L245.7,247.2 L241.0,246.6 L238.0,250.1 L241.0,251.8 L242.5,258.1 L247.2,258.0 L246.5,259.2 L242.5,261.4 L239.3,266.5 L239.8,267.6 L244.5,266.8 L245.0,268.8 L242.0,270.8 L248.8,280.1 L249.5,279.0 L252.9,278.6 L255.8,275.5 L259.3,273.2 L263.7,274.1 L267.1,270.8 L271.3,268.8 L274.1,270.1 L276.6,273.8 L279.6,274.9 L273.2,287.8 L273.6,290.4 L264.6,294.8 L261.5,295.1 L262.1,299.4 L259.7,299.7 L254.3,298.8 L251.6,298.9 L247.6,302.7 L245.0,303.6 L239.2,303.8 L234.1,308.7 L232.6,311.8 L227.5,318.2 L224.2,318.4 L213.8,322.5 L209.8,322.7 L198.8,320.7 L195.8,326.7 L191.7,329.6 L186.1,331.1 L181.7,331.6 L177.4,333.0 L170.3,329.7 L168.2,331.6 L168.4,327.6 L171.5,325.3 L175.1,324.9 L171.3,321.9 L163.9,319.8 L162.4,317.6 L161.6,312.0 L159.8,308.5 L154.2,304.2 L152.2,305.7 L146.9,306.6 L142.7,308.0 L141.7,303.3 L144.7,301.2 L151.3,299.1 L152.1,297.9 L157.7,298.5 L161.9,300.0 L164.2,298.4 L159.4,291.9 L160.5,287.4 L160.1,284.8 L156.8,275.3 L158.1,272.9 L163.0,273.9 L167.0,273.2 L170.5,270.8 L185.2,252.3 L197.6,233.4 L206.8,215.8 L213.9,218.3 L216.0,217.2 L218.3,217.7 L214.1,225.1 L213.4,230.1 L212.1,232.3 L215.7,234.8 L222.7,233.4 L229.1,230.8 L230.8,234.7 L231.9,235.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.ZH</hasc>
+    <alt-name>Hollande-méridionale|South Holland</alt-name>
+    <woe-id>2346383</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Zuid-Holland</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>4.52252</longitude>
+    <woe-name>Zuid-Holland</woe-name>
+    <latitude>52.0075</latitude>
+    <woe-label>South Holland, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>nl-zh</hc-key>
+    <hc-a2>ZH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.DR" d="M469.1,118.2 L468.2,121.2 L467.6,126.9 L467.7,145.2 L467.3,151.2 L465.6,155.0 L460.3,153.5 L455.3,154.5 L449.7,153.1 L439.9,153.8 L434.7,156.5 L433.6,155.9 L432.2,152.3 L424.6,149.3 L420.2,150.0 L415.4,152.9 L414.0,155.1 L414.5,160.1 L410.1,158.3 L407.5,159.3 L404.8,157.8 L400.1,159.4 L398.2,155.8 L393.8,151.5 L388.4,151.8 L382.6,148.9 L379.1,150.1 L377.1,147.9 L373.1,138.8 L374.0,137.0 L376.7,135.5 L380.2,131.7 L380.6,130.2 L372.3,121.0 L380.7,113.9 L385.7,108.1 L390.7,108.5 L394.2,110.6 L399.0,107.1 L402.2,101.6 L402.6,99.9 L401.2,97.4 L395.3,90.2 L393.7,84.3 L388.8,82.0 L388.9,79.7 L391.8,79.8 L393.3,76.7 L396.1,68.1 L398.8,64.7 L404.2,59.9 L409.5,62.0 L410.6,61.8 L414.3,66.9 L416.3,68.2 L420.0,72.7 L421.6,75.8 L428.3,73.2 L432.7,74.2 L441.2,82.5 L453.7,94.0 L464.2,106.2 L465.1,107.8 L463.3,113.6 L466.4,115.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.DR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346373</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL01</fips>
+    <postal-code>DR</postal-code>
+    <name>Drenthe</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>6.60064</longitude>
+    <woe-name>Drenthe</woe-name>
+    <latitude>52.9046</latitude>
+    <woe-label>Drenthe, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>nl-dr</hc-key>
+    <hc-a2>DR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.GE" d="M444.7,244.0 L440.9,247.1 L438.8,251.4 L435.6,252.7 L435.3,257.1 L446.4,262.2 L449.2,264.9 L450.1,268.9 L448.0,270.6 L445.9,275.1 L443.6,278.1 L440.8,279.8 L431.6,280.6 L421.3,284.7 L416.3,288.9 L412.5,289.9 L405.7,288.2 L406.7,292.0 L406.4,293.7 L402.5,294.9 L402.0,292.3 L396.2,291.0 L392.8,287.6 L389.6,288.5 L386.0,287.2 L382.5,284.6 L379.0,283.1 L375.5,285.2 L381.0,290.1 L382.5,292.3 L374.8,290.6 L370.6,292.0 L365.0,295.5 L360.8,296.4 L358.8,299.3 L361.2,301.0 L362.8,304.2 L362.7,307.7 L361.1,309.4 L357.5,307.6 L355.0,304.4 L352.2,305.3 L352.2,307.6 L341.4,307.4 L333.9,302.6 L330.8,301.5 L328.7,297.5 L324.0,296.6 L317.3,297.9 L313.7,296.1 L307.6,299.5 L303.3,299.3 L301.3,300.5 L300.1,306.7 L298.8,308.9 L295.0,311.6 L275.8,314.4 L275.9,308.5 L271.9,306.0 L268.2,306.4 L262.5,301.7 L262.1,299.4 L261.5,295.1 L264.6,294.8 L273.6,290.4 L273.2,287.8 L279.6,274.9 L283.7,274.5 L287.1,272.6 L293.1,275.7 L295.2,275.0 L298.2,272.6 L300.5,272.0 L304.5,272.9 L308.8,270.4 L313.3,271.2 L321.5,275.8 L325.1,276.5 L325.4,273.1 L323.8,269.3 L320.1,264.7 L319.0,259.6 L319.0,255.5 L317.6,250.2 L315.9,250.7 L316.3,253.3 L312.3,256.4 L308.9,254.3 L310.5,252.5 L311.8,248.9 L312.9,248.9 L313.2,245.0 L309.1,241.0 L304.4,239.9 L303.7,238.7 L305.1,235.2 L300.7,231.3 L301.4,224.9 L305.7,225.1 L314.6,222.6 L315.8,221.3 L318.9,213.2 L323.4,207.3 L326.5,204.6 L332.5,202.5 L339.2,197.9 L341.4,195.4 L347.2,185.7 L348.3,181.7 L348.3,178.3 L350.1,178.5 L353.8,184.5 L355.4,185.2 L358.4,184.1 L361.6,181.2 L364.6,179.5 L366.6,180.3 L368.2,183.0 L371.6,186.5 L373.5,191.2 L375.8,194.2 L376.1,197.1 L374.8,201.2 L370.9,203.0 L369.8,211.4 L371.8,214.0 L374.0,214.9 L376.0,219.7 L376.1,222.2 L378.2,223.4 L378.1,225.7 L379.5,227.3 L382.0,225.1 L390.4,226.2 L396.9,225.8 L403.0,222.6 L406.1,222.9 L412.2,231.1 L415.4,233.9 L421.9,233.8 L426.0,233.2 L426.5,235.2 L431.1,234.3 L433.3,235.1 L434.0,238.9 L433.1,241.5 L443.4,243.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.GE</hasc>
+    <alt-name>Geldern|Gheldria|Guelders|Gueldre</alt-name>
+    <woe-id>2346375</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL03</fips>
+    <postal-code>GE</postal-code>
+    <name>Gelderland</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.96001</longitude>
+    <woe-name>Gelderland</woe-name>
+    <latitude>52.0635</latitude>
+    <woe-label>Gelderland, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>nl-ge</hc-key>
+    <hc-a2>GE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.LI" d="M322.7,400.8 L328.7,398.8 L330.0,396.7 L330.7,391.0 L335.3,383.4 L353.0,377.2 L356.2,376.2 L362.3,370.7 L359.5,365.3 L355.7,360.5 L352.9,350.9 L350.9,340.3 L354.7,340.5 L358.8,341.7 L362.8,341.1 L367.9,339.1 L371.6,341.0 L373.2,339.5 L371.0,331.7 L368.2,327.0 L365.5,324.6 L366.2,322.9 L364.4,321.2 L362.8,315.1 L361.1,313.9 L356.8,313.6 L355.1,312.6 L354.4,308.5 L352.2,307.6 L352.2,305.3 L355.0,304.4 L357.5,307.6 L361.1,309.4 L360.5,311.9 L364.6,312.1 L369.3,315.3 L368.1,320.2 L370.7,323.2 L377.9,326.0 L376.4,332.3 L376.9,334.4 L384.4,343.8 L388.9,348.5 L390.5,357.1 L389.6,367.2 L391.3,369.1 L390.6,374.3 L389.1,378.0 L385.4,381.1 L380.4,391.4 L377.3,396.1 L376.4,403.4 L377.2,406.5 L379.8,407.7 L385.0,403.9 L387.4,404.6 L384.3,407.2 L386.6,409.2 L385.1,411.4 L379.2,415.0 L369.6,423.1 L366.4,429.2 L363.1,431.0 L358.8,427.4 L355.9,429.1 L356.6,433.0 L358.5,437.8 L358.8,442.1 L364.4,439.8 L368.7,440.7 L372.5,440.1 L371.8,443.9 L372.4,447.7 L375.9,450.0 L379.4,451.1 L378.5,453.8 L379.6,457.3 L377.9,461.9 L375.5,461.8 L373.2,464.4 L373.6,467.4 L371.6,471.0 L370.0,470.6 L370.5,472.8 L373.3,475.9 L373.1,478.1 L371.0,478.6 L362.0,478.3 L360.7,478.0 L351.4,478.6 L346.9,475.1 L344.9,477.7 L342.1,478.6 L340.1,477.5 L341.2,471.6 L336.5,469.7 L332.8,466.0 L332.4,462.2 L339.9,453.3 L342.3,452.2 L344.1,449.7 L347.0,443.6 L342.5,443.7 L346.5,436.8 L348.0,432.6 L346.5,430.7 L347.1,426.8 L349.3,427.2 L351.3,422.5 L350.5,420.1 L354.8,418.8 L352.3,416.3 L354.0,412.8 L352.6,409.9 L347.6,410.8 L343.8,406.6 L340.6,405.6 L334.4,406.7 L330.6,403.9 L324.6,402.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.LI</hasc>
+    <alt-name>Limbourg|Limburgo</alt-name>
+    <woe-id>2346377</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL05</fips>
+    <postal-code>LI</postal-code>
+    <name>Limburg</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.93161</longitude>
+    <woe-name>Limburg</woe-name>
+    <latitude>51.2248</latitude>
+    <woe-label>Limburg, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>nl-li</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.VB" d="M169.4,491.0 L166.5,490.1 L165.0,492.9 L164.3,491.8 L161.7,493.2 L159.7,492.5 L157.5,494.3 L151.0,494.2 L148.7,493.4 L146.6,489.5 L147.3,486.7 L149.9,487.6 L153.3,486.6 L151.2,482.7 L153.8,478.9 L156.6,481.0 L158.5,478.7 L160.0,480.1 L165.0,476.6 L166.5,471.8 L165.5,469.3 L162.7,468.8 L167.6,461.5 L166.1,458.3 L169.0,456.2 L168.0,452.9 L172.9,454.9 L175.3,453.1 L175.4,451.0 L173.8,446.3 L175.4,442.8 L178.8,444.0 L181.3,442.8 L183.6,434.7 L187.3,433.6 L189.9,434.0 L195.2,436.3 L195.2,437.9 L198.5,435.6 L197.5,438.2 L199.5,438.7 L200.1,441.2 L206.5,439.5 L209.0,441.9 L210.9,439.0 L214.5,441.6 L216.4,439.8 L219.9,441.7 L221.5,441.7 L222.9,438.2 L230.6,436.0 L233.5,437.5 L232.4,440.2 L236.4,435.4 L238.8,435.9 L242.2,433.1 L244.1,437.1 L245.5,437.9 L251.0,435.5 L252.4,436.1 L255.2,433.5 L261.3,431.5 L262.8,433.3 L265.5,432.5 L267.3,435.8 L269.4,434.9 L271.7,436.2 L273.5,434.9 L273.4,430.7 L276.4,430.2 L278.8,431.2 L281.8,434.9 L279.1,436.0 L277.5,435.0 L278.3,439.0 L273.9,441.2 L273.9,444.9 L269.7,448.8 L271.2,452.5 L273.7,452.2 L275.5,454.1 L279.6,452.1 L280.0,453.4 L283.8,453.3 L285.4,454.6 L284.6,459.4 L282.0,459.3 L280.3,464.3 L279.7,470.0 L282.1,470.8 L277.4,476.0 L278.4,479.1 L277.0,482.5 L279.2,483.7 L277.2,488.2 L277.2,488.2 L277.2,488.2 L274.4,488.8 L270.9,485.8 L270.9,482.8 L268.2,481.3 L268.2,481.3 L264.0,478.2 L258.9,482.5 L255.9,481.7 L256.2,478.6 L248.1,479.7 L248.5,477.8 L245.9,477.7 L243.5,473.9 L239.0,472.4 L232.9,475.6 L227.3,474.2 L226.9,478.6 L229.0,481.2 L226.9,483.7 L223.3,483.9 L222.7,480.3 L220.2,483.1 L215.5,484.3 L215.3,486.4 L211.9,484.5 L211.8,481.7 L207.8,482.3 L204.0,485.4 L198.8,486.3 L198.3,488.9 L196.2,488.8 L194.1,486.0 L194.5,488.6 L192.2,488.6 L191.9,491.2 L189.7,492.7 L186.7,491.7 L184.6,493.3 L181.0,490.5 L178.1,490.6 L175.7,487.4 L173.6,487.4 L172.9,489.3 L170.2,489.3 L169.4,491.0 Z M203.3,456.6 L201.4,455.2 L198.7,458.0 L194.1,457.4 L190.2,459.4 L188.3,463.4 L189.4,465.4 L188.8,468.2 L186.0,468.7 L184.8,471.3 L188.9,473.5 L190.8,472.5 L193.7,478.4 L196.8,480.4 L201.4,480.2 L210.0,475.3 L206.4,472.7 L207.3,471.2 L209.6,470.9 L207.7,465.6 L203.4,462.9 L205.1,459.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.VB</hasc>
+    <alt-name>Vlaams Brabant|Flamish-Brabant|Brabant flamand</alt-name>
+    <woe-id>22525998</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Flemish Brabant</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Flemish</region>
+    <longitude>4.53709</longitude>
+    <woe-name>Flemish Brabant</woe-name>
+    <latitude>50.8709</latitude>
+    <woe-label>Vlaams Brabant, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>be-vb</hc-key>
+    <hc-a2>FB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.490" d="M279.2,483.7 L277.0,482.5 L278.4,479.1 L277.4,476.0 L282.1,470.8 L279.7,470.0 L280.3,464.3 L282.0,459.3 L284.6,459.4 L285.4,454.6 L283.8,453.3 L280.0,453.4 L279.6,452.1 L275.5,454.1 L273.7,452.2 L271.2,452.5 L269.7,448.8 L273.9,444.9 L273.9,441.2 L278.3,439.0 L277.5,435.0 L279.1,436.0 L281.8,434.9 L278.8,431.2 L276.4,430.2 L273.4,430.7 L273.5,434.9 L271.7,436.2 L269.4,434.9 L267.3,435.8 L265.5,432.5 L262.8,433.3 L265.7,428.9 L265.7,426.6 L274.2,424.6 L278.3,419.0 L283.7,418.6 L286.0,415.0 L289.5,415.9 L292.1,413.4 L291.5,406.6 L287.1,402.6 L288.0,396.1 L289.3,395.0 L292.6,394.1 L305.2,394.2 L307.4,393.3 L313.8,389.0 L318.6,390.6 L320.7,393.1 L322.0,400.2 L322.7,400.8 L324.6,402.2 L330.6,403.9 L334.4,406.7 L340.6,405.6 L343.8,406.6 L347.6,410.8 L352.6,409.9 L354.0,412.8 L352.3,416.3 L354.8,418.8 L350.5,420.1 L351.3,422.5 L349.3,427.2 L347.1,426.8 L346.5,430.7 L348.0,432.6 L346.5,436.8 L342.5,443.7 L347.0,443.6 L344.1,449.7 L342.3,452.2 L339.9,453.3 L332.4,462.2 L332.8,466.0 L336.5,469.7 L331.4,475.2 L322.2,478.3 L322.5,481.0 L319.7,483.7 L318.0,484.1 L315.8,481.9 L315.0,484.9 L312.6,485.2 L309.7,484.2 L308.3,480.9 L306.8,480.4 L301.9,482.2 L299.8,484.2 L299.4,486.1 L295.9,484.3 L292.5,486.6 L284.5,485.7 L285.8,488.4 L284.4,490.1 L277.2,488.2 L277.2,488.2 L277.2,488.2 Z M344.9,477.7 L346.9,475.1 L351.4,478.6 L360.7,478.0 L362.0,478.3 L364.1,480.8 L361.7,484.8 L358.2,484.0 L354.3,484.7 L349.6,478.8 L346.8,479.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>7153301</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Limburg</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Flemish</region>
+    <longitude>5.41314</longitude>
+    <woe-name>Limburg</woe-name>
+    <latitude>50.9954</latitude>
+    <woe-label>Limburg, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>be-490</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NL.OV" d="M434.7,156.5 L433.0,157.9 L434.0,159.6 L433.5,162.6 L434.4,165.0 L437.9,167.7 L432.3,170.9 L430.6,171.2 L432.0,173.8 L433.6,182.2 L435.8,184.5 L438.5,185.7 L446.8,186.5 L452.3,188.2 L455.2,188.5 L460.5,187.3 L462.6,184.8 L469.5,194.7 L471.2,199.0 L470.6,205.2 L468.2,212.8 L468.3,215.9 L470.2,221.9 L465.7,225.0 L462.4,230.5 L460.5,232.4 L456.1,234.6 L454.2,236.9 L452.1,241.7 L450.9,243.0 L444.7,244.0 L443.4,243.1 L433.1,241.5 L434.0,238.9 L433.3,235.1 L431.1,234.3 L426.5,235.2 L426.0,233.2 L421.9,233.8 L415.4,233.9 L412.2,231.1 L406.1,222.9 L403.0,222.6 L396.9,225.8 L390.4,226.2 L382.0,225.1 L379.5,227.3 L378.1,225.7 L378.2,223.4 L376.1,222.2 L376.0,219.7 L374.0,214.9 L371.8,214.0 L369.8,211.4 L370.9,203.0 L374.8,201.2 L376.1,197.1 L375.8,194.2 L373.5,191.2 L371.6,186.5 L368.2,183.0 L366.6,180.3 L364.6,179.5 L361.6,181.2 L358.4,184.1 L355.4,185.2 L353.8,184.5 L350.1,178.5 L348.3,178.3 L345.4,166.3 L344.4,164.6 L349.8,161.6 L354.4,161.9 L359.3,160.0 L362.5,158.0 L360.2,155.4 L352.7,152.7 L354.5,149.7 L353.5,145.4 L351.9,141.1 L349.9,138.4 L345.0,134.7 L337.3,130.9 L341.0,128.8 L342.7,130.0 L346.9,130.1 L349.9,128.2 L352.2,124.9 L355.7,124.0 L358.5,126.8 L362.5,126.9 L364.4,123.7 L368.0,122.9 L372.3,121.0 L380.6,130.2 L380.2,131.7 L376.7,135.5 L374.0,137.0 L373.1,138.8 L377.1,147.9 L379.1,150.1 L382.6,148.9 L388.4,151.8 L393.8,151.5 L398.2,155.8 L400.1,159.4 L404.8,157.8 L407.5,159.3 L410.1,158.3 L414.5,160.1 L414.0,155.1 L415.4,152.9 L420.2,150.0 L424.6,149.3 L432.2,152.3 L433.6,155.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>NL.OV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346380</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NL15</fips>
+    <postal-code>OV</postal-code>
+    <name>Overijssel</name>
+    <country>Netherlands</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>6.41649</longitude>
+    <woe-name>Overijssel</woe-name>
+    <latitude>52.4311</latitude>
+    <woe-label>Overyssel, NL, Netherlands</woe-label>
+    <type>Provincie</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>nl-ov</hc-key>
+    <hc-a2>OV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.3526" d="M221.4,517.8 L220.9,514.9 L224.6,513.2 L228.6,514.5 L231.0,513.9 L229.6,508.6 L231.8,506.5 L234.9,508.6 L235.3,506.7 L238.1,505.9 L238.9,509.3 L243.2,507.5 L244.4,509.2 L244.5,506.7 L258.9,502.5 L261.3,499.1 L264.7,499.8 L264.5,503.9 L269.9,508.7 L272.9,516.8 L270.9,518.4 L276.9,518.6 L278.6,522.5 L281.2,522.9 L282.1,525.6 L284.2,525.2 L285.0,528.7 L288.6,527.1 L291.0,529.4 L293.1,533.8 L291.5,537.2 L292.9,539.4 L298.3,540.7 L298.3,543.8 L299.9,545.8 L305.7,541.6 L310.4,543.1 L311.4,545.2 L309.2,548.3 L310.8,550.3 L305.0,554.9 L309.7,553.5 L310.9,556.2 L310.9,558.7 L308.0,561.9 L300.5,567.1 L299.3,565.7 L295.7,567.6 L296.1,569.5 L292.9,569.4 L290.9,570.9 L295.2,573.1 L295.3,576.5 L299.3,580.9 L298.4,584.0 L295.3,585.1 L298.1,587.6 L297.6,589.4 L294.7,589.2 L291.8,591.4 L289.5,591.9 L279.3,592.9 L277.0,592.2 L276.2,587.5 L274.8,594.0 L275.8,595.0 L274.7,597.9 L271.2,601.7 L269.2,601.1 L268.5,603.7 L266.4,603.7 L269.1,606.2 L270.7,611.7 L271.8,612.3 L276.5,611.2 L277.5,613.5 L280.8,615.0 L280.5,618.8 L282.9,621.1 L277.5,623.5 L274.8,626.2 L276.6,627.9 L268.6,634.1 L269.2,638.8 L267.8,639.2 L267.0,643.3 L260.3,645.3 L254.9,645.4 L253.9,644.1 L253.8,637.8 L252.4,635.0 L254.7,627.6 L254.7,623.9 L252.9,620.8 L247.6,618.8 L246.1,616.5 L246.5,613.8 L250.5,603.2 L250.4,598.4 L252.4,593.9 L254.2,595.0 L255.0,585.5 L253.9,584.2 L249.3,584.5 L248.7,582.0 L245.8,583.4 L234.5,595.4 L233.6,598.5 L234.5,601.5 L233.8,606.9 L232.1,611.6 L226.4,613.2 L211.3,621.1 L207.2,621.5 L209.0,617.2 L205.6,610.7 L204.6,601.9 L202.8,601.3 L202.1,591.8 L203.4,588.9 L199.1,581.7 L203.0,578.6 L202.1,576.1 L203.3,570.7 L199.4,569.1 L196.6,571.5 L192.6,569.2 L190.8,566.8 L195.1,563.6 L198.7,563.3 L200.1,560.7 L202.0,560.7 L202.8,557.6 L208.9,558.3 L211.0,554.4 L214.0,554.1 L216.1,556.6 L223.4,555.2 L222.6,548.9 L225.1,544.5 L222.8,541.9 L224.5,541.3 L226.0,537.8 L221.3,535.1 L222.3,534.0 L224.0,528.5 L222.7,526.7 L223.5,525.2 L219.6,526.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.</hasc>
+    <alt-name>Namen</alt-name>
+    <woe-id>7153303</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Namur</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Walloon</region>
+    <longitude>4.88712</longitude>
+    <woe-name>Namur</woe-name>
+    <latitude>50.3244</latitude>
+    <woe-label>Namur, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>be-3526</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.3527" d="M380.3,579.5 L377.4,575.5 L373.5,577.3 L371.5,583.7 L369.9,585.4 L366.0,587.6 L364.2,589.3 L363.5,594.3 L360.8,597.8 L361.0,601.4 L360.0,603.6 L357.2,605.6 L357.2,607.9 L358.5,609.8 L357.4,612.1 L353.3,615.2 L352.3,618.0 L348.8,624.7 L348.4,626.4 L352.2,628.7 L353.3,630.2 L350.4,630.0 L349.9,632.5 L351.0,633.5 L349.3,636.0 L350.3,640.2 L351.5,642.0 L356.0,644.6 L358.8,649.6 L359.3,653.1 L365.0,655.6 L363.7,661.1 L364.9,662.9 L367.9,663.7 L368.6,666.1 L366.2,669.7 L364.1,675.4 L362.9,676.6 L364.8,677.5 L363.8,680.2 L361.4,683.0 L358.8,684.4 L355.1,682.7 L352.7,683.3 L350.0,685.8 L342.7,683.9 L340.0,685.4 L338.2,689.2 L335.6,689.2 L332.1,687.8 L324.6,692.8 L321.4,690.8 L321.3,684.3 L315.6,674.9 L313.5,673.1 L308.1,671.2 L306.7,673.5 L304.1,673.4 L303.5,668.8 L304.9,667.6 L304.0,665.1 L299.5,660.3 L292.2,662.0 L289.6,661.3 L285.9,658.3 L279.7,650.5 L273.5,648.3 L269.3,644.3 L267.0,643.3 L267.8,639.2 L269.2,638.8 L268.6,634.1 L276.6,627.9 L274.8,626.2 L277.5,623.5 L282.9,621.1 L280.5,618.8 L280.8,615.0 L277.5,613.5 L276.5,611.2 L271.8,612.3 L270.7,611.7 L269.1,606.2 L266.4,603.7 L268.5,603.7 L269.2,601.1 L271.2,601.7 L274.7,597.9 L275.8,595.0 L274.8,594.0 L276.2,587.5 L277.0,592.2 L279.3,592.9 L289.5,591.9 L291.8,591.4 L294.7,589.2 L297.6,589.4 L298.1,587.6 L295.3,585.1 L298.4,584.0 L299.3,580.9 L295.3,576.5 L295.2,573.1 L290.9,570.9 L292.9,569.4 L296.1,569.5 L295.7,567.6 L299.3,565.7 L300.5,567.1 L308.0,561.9 L310.9,558.7 L310.9,556.2 L309.7,553.5 L305.0,554.9 L310.8,550.3 L309.2,548.3 L311.4,545.2 L310.4,543.1 L313.9,539.5 L311.6,535.8 L313.6,534.4 L318.4,538.0 L322.7,534.9 L325.4,540.1 L327.8,540.8 L331.4,539.0 L337.5,544.2 L341.0,543.9 L340.6,545.9 L346.1,545.7 L344.4,550.0 L346.4,554.8 L349.3,555.4 L346.7,561.7 L353.2,560.5 L356.4,560.9 L363.2,559.7 L363.9,558.0 L360.1,557.6 L362.3,551.6 L360.2,550.0 L361.0,546.8 L374.3,549.2 L374.5,550.6 L378.1,552.3 L378.1,568.1 L378.7,569.9 L381.1,570.3 L379.6,572.1 L380.3,574.3 L380.3,579.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.</hasc>
+    <alt-name>Luxemburg</alt-name>
+    <woe-id>7153302</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Luxembourg</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Walloon</region>
+    <longitude>5.50117</longitude>
+    <woe-name>Luxembourg</woe-name>
+    <latitude>49.9637</latitude>
+    <woe-label>Luxemburg, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>be-3527</hc-key>
+    <hc-a2>LU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.3535" d="M187.0,378.5 L193.9,381.2 L198.9,381.4 L200.9,380.3 L201.3,377.4 L197.4,371.4 L198.3,367.2 L197.0,365.8 L202.4,362.4 L208.1,360.2 L212.5,359.9 L213.4,361.3 L212.3,367.9 L214.4,369.3 L218.8,368.8 L223.9,369.4 L226.3,368.0 L234.3,357.7 L237.7,355.8 L241.2,356.6 L244.2,359.2 L244.4,361.7 L243.4,366.8 L244.3,369.7 L239.6,367.6 L237.9,369.9 L240.1,370.8 L247.6,370.9 L253.7,373.1 L255.9,372.5 L258.6,369.8 L262.5,363.6 L264.1,358.9 L265.7,358.4 L269.2,360.8 L271.4,364.7 L270.0,370.3 L270.5,375.6 L274.3,379.6 L276.6,385.8 L278.5,386.8 L284.5,386.5 L286.5,388.8 L286.7,394.8 L289.3,395.0 L288.0,396.1 L287.1,402.6 L291.5,406.6 L292.1,413.4 L289.5,415.9 L286.0,415.0 L283.7,418.6 L278.3,419.0 L274.2,424.6 L265.7,426.6 L265.7,428.9 L262.8,433.3 L261.3,431.5 L255.2,433.5 L252.4,436.1 L251.0,435.5 L245.5,437.9 L244.1,437.1 L242.2,433.1 L238.8,435.9 L236.4,435.4 L232.4,440.2 L233.5,437.5 L230.6,436.0 L222.9,438.2 L221.5,441.7 L219.9,441.7 L216.4,439.8 L214.5,441.6 L210.9,439.0 L209.0,441.9 L206.5,439.5 L200.1,441.2 L199.5,438.7 L197.5,438.2 L198.5,435.6 L195.2,437.9 L195.2,436.3 L189.9,434.0 L187.3,433.6 L183.6,434.7 L182.7,433.6 L180.6,435.4 L178.1,433.8 L178.9,431.9 L177.2,424.3 L180.8,420.5 L187.2,420.0 L191.4,418.6 L192.7,415.9 L193.1,412.2 L192.3,408.8 L189.6,405.2 L190.5,404.5 L188.1,397.3 L189.2,395.3 L191.0,394.0 L192.5,390.7 L188.9,389.3 L187.6,387.1 L187.3,381.7 L184.9,378.5 L184.9,378.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.</hasc>
+    <alt-name>Antwerpen</alt-name>
+    <woe-id>7153308</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Antwerp</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Flemish</region>
+    <longitude>4.72122</longitude>
+    <woe-name>Antwerp</woe-name>
+    <latitude>51.2485</latitude>
+    <woe-label>Antwerp, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>be-3535</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.OV" d="M183.6,434.7 L181.3,442.8 L178.8,444.0 L175.4,442.8 L173.8,446.3 L175.4,451.0 L175.3,453.1 L172.9,454.9 L168.0,452.9 L169.0,456.2 L166.1,458.3 L167.6,461.5 L162.7,468.8 L165.5,469.3 L166.5,471.8 L165.0,476.6 L160.0,480.1 L158.5,478.7 L156.6,481.0 L153.8,478.9 L151.2,482.7 L153.3,486.6 L149.9,487.6 L147.3,486.7 L146.2,483.8 L140.1,485.2 L138.7,483.8 L134.4,484.3 L132.5,479.0 L127.9,481.1 L126.7,478.8 L123.7,480.6 L119.4,489.1 L116.3,487.0 L109.2,486.9 L108.5,481.6 L104.2,482.9 L100.3,481.3 L106.9,476.3 L107.2,475.1 L104.7,471.7 L106.1,469.9 L99.4,464.2 L101.9,461.6 L101.0,458.5 L99.3,457.8 L96.9,459.3 L96.0,457.0 L97.4,455.6 L96.6,453.6 L99.8,453.2 L98.2,451.6 L100.3,451.6 L95.2,449.1 L98.5,447.5 L96.6,445.1 L99.4,440.9 L96.2,435.4 L98.5,433.7 L86.4,425.2 L91.0,422.1 L94.8,414.8 L92.3,410.4 L89.4,409.4 L92.0,407.6 L90.1,403.2 L93.5,400.6 L99.4,402.1 L104.4,401.3 L104.6,395.6 L105.7,394.4 L113.2,392.9 L118.6,393.1 L131.6,397.3 L133.6,398.6 L134.2,404.5 L137.2,406.9 L149.8,406.6 L152.2,405.8 L157.0,402.0 L170.0,395.1 L175.3,390.9 L179.3,385.1 L180.8,378.8 L182.8,380.7 L184.5,385.4 L189.5,390.8 L190.1,392.9 L189.2,395.3 L188.1,397.3 L190.5,404.5 L189.6,405.2 L192.3,408.8 L193.1,412.2 L192.7,415.9 L191.4,418.6 L187.2,420.0 L180.8,420.5 L177.2,424.3 L178.9,431.9 L178.1,433.8 L180.6,435.4 L182.7,433.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.OV</hasc>
+    <alt-name>Oost-Vlaanderen|Ostflandern|Falndre orientale</alt-name>
+    <woe-id>7153304</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>East Flanders</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Flemish</region>
+    <longitude>3.83186</longitude>
+    <woe-name>East Flanders</woe-name>
+    <latitude>50.9749</latitude>
+    <woe-label>Oost-Vlaanderen, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>be-ov</hc-key>
+    <hc-a2>EF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BE.3534" d="M93.5,400.6 L90.1,403.2 L92.0,407.6 L89.4,409.4 L92.3,410.4 L94.8,414.8 L91.0,422.1 L86.4,425.2 L98.5,433.7 L96.2,435.4 L99.4,440.9 L96.6,445.1 L98.5,447.5 L95.2,449.1 L100.3,451.6 L98.2,451.6 L99.8,453.2 L96.6,453.6 L97.4,455.6 L96.0,457.0 L96.9,459.3 L99.3,457.8 L101.0,458.5 L101.9,461.6 L99.4,464.2 L106.1,469.9 L104.7,471.7 L107.2,475.1 L106.9,476.3 L100.3,481.3 L95.4,484.9 L90.6,490.0 L90.2,491.3 L85.8,489.0 L86.0,486.7 L83.7,483.4 L79.1,484.2 L74.7,481.6 L68.6,484.6 L64.9,479.7 L62.2,478.8 L53.6,481.5 L52.6,475.3 L50.9,474.2 L44.7,476.7 L46.8,480.1 L42.7,481.7 L42.3,483.3 L39.2,483.9 L37.7,482.5 L34.1,484.4 L36.7,493.1 L28.1,489.1 L26.1,487.4 L23.5,481.8 L19.5,478.0 L18.0,474.6 L10.3,473.2 L8.8,470.1 L7.0,468.9 L7.8,464.5 L5.7,457.1 L9.5,452.1 L9.1,448.7 L3.7,441.9 L2.6,438.6 L1.6,431.1 L0.0,427.2 L2.2,425.7 L6.2,424.3 L20.8,413.4 L42.9,400.4 L64.3,386.3 L88.1,378.5 L89.1,385.0 L88.6,393.2 L90.1,397.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>BE.</hasc>
+    <alt-name>West-Vlaanderen</alt-name>
+    <woe-id>7153305</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>West Flanders</name>
+    <country>Belgium</country>
+    <type-en>Province</type-en>
+    <region>Flemish</region>
+    <longitude>3.02202</longitude>
+    <woe-name>West Flanders</woe-name>
+    <latitude>51.0312</latitude>
+    <woe-label>West-Vlaanderen, BE, Belgium</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>be-3534</hc-key>
+    <hc-a2>WF</hc-a2>
+  </desc>
+</path>
+</g>
+
+<g id="__border_lines__">
+<path fill="none" stroke="#551111" stroke-width="0.4" id="__benelux_border_lines__" d="M244.2,81.7 L246.3,82.7 L244.4,87.7 L241.7,92.1 L236.9,96.2 L234.8,100.8 L231.3,101.9 L227.7,100.5 L225.6,96.2 L226.2,91.8 L228.1,86.7 L230.5,82.5 L235.2,78.2 L237.5,73.1 L239.9,68.8 L243.1,68.9 L243.2,72.4 L245.9,77.7 L245.9,80.4 Z M248.0,62.1 L245.5,64.5 L242.3,63.1 L246.4,57.5 L252.9,51.1 L259.7,46.9 L264.8,47.5 L264.9,48.6 L262.2,48.7 L258.0,50.7 L250.2,58.7 Z M297.0,30.0 L292.6,32.1 L289.0,33.2 L275.1,39.8 L272.2,39.9 L270.9,37.3 L272.0,34.4 L277.3,32.3 L279.1,30.6 L281.4,30.6 L294.9,27.3 L297.8,24.9 L312.7,21.4 L310.5,24.8 L307.7,25.9 L301.8,26.4 L302.5,28.8 Z M345.9,16.7 L350.1,18.7 L340.1,21.4 L329.7,21.9 L322.4,25.1 L319.8,24.6 L317.9,22.1 L318.4,19.6 L320.1,18.1 L321.6,18.7 Z M370.1,16.5 L368.2,19.2 L366.9,14.5 L369.4,12.2 L375.7,9.5 L385.7,8.1 L388.5,8.9 L387.2,10.1 Z M399.9,0.0 L405.6,2.2 L404.3,3.5 L398.8,1.4 Z M344.4,170.2 L346.7,177.6 L346.8,181.0 L345.6,185.4 L341.9,192.2 L339.3,194.9 L333.4,196.8 L328.5,199.3 L324.7,200.8 L322.6,204.1 L318.0,205.7 L315.1,207.3 L316.1,212.5 L315.7,216.7 L313.6,219.9 L309.9,221.5 L303.1,222.0 L300.3,221.0 L293.9,216.2 L290.5,214.4 L283.3,212.0 L276.8,212.2 L274.6,211.0 L272.3,204.1 L277.0,200.0 L283.3,196.3 L287.6,191.8 L295.3,188.4 L299.8,183.9 L304.9,181.0 L307.2,174.5 L311.1,173.7 L317.2,167.7 L323.2,165.5 L325.0,164.0 L327.9,166.9 Z M158.0,322.5 L160.3,325.2 L164.7,326.3 L166.7,327.7 L167.0,330.5 L165.9,332.2 L162.4,334.2 L154.3,335.9 L148.5,334.4 L146.2,332.8 L144.4,328.3 L138.6,325.4 L136.3,323.2 L134.9,323.1 L131.7,326.8 L127.0,327.1 L124.8,326.5 L123.4,324.4 L123.7,319.0 L127.5,316.4 L136.3,315.1 L139.9,315.8 L150.0,315.9 L154.0,317.7 Z M206.8,215.8 L207.7,214.0 L213.6,195.4 L214.4,189.4 L216.3,185.0 L219.9,152.0 L221.6,143.5 L222.6,135.6 L226.7,124.2 L227.6,118.6 L227.9,111.5 L228.6,107.9 L229.8,106.4 L237.9,107.5 L236.5,112.7 L238.9,115.8 L243.2,116.9 L247.2,116.5 L249.5,115.1 L253.7,111.2 L259.9,109.7 L263.9,107.8 L274.0,98.2 L283.9,88.7 L287.2,85.3 L291.9,84.0 L293.9,82.6 L295.9,78.3 L298.3,66.6 L300.1,61.4 L305.7,55.1 L309.4,53.3 L314.3,47.0 L321.2,45.2 L324.6,42.0 L340.6,34.8 L344.1,32.0 L346.5,31.7 L353.1,27.9 L373.9,26.2 L382.8,25.5 L385.7,27.3 L387.5,27.3 L390.0,25.2 L404.9,20.0 L428.5,15.1 L438.6,16.3 L442.6,18.8 L446.8,32.6 L449.9,34.5 L451.9,36.7 L455.1,37.6 L459.3,39.7 L461.1,39.0 L463.2,40.2 L465.9,38.7 L464.9,41.2 L465.9,46.0 L469.1,47.6 L477.7,49.0 L478.5,56.5 L477.8,62.2 L476.6,66.0 L476.6,69.4 L478.1,72.8 L479.7,84.8 L479.9,90.9 L479.3,96.4 L477.4,102.2 L469.8,115.9 L469.1,118.2 L468.2,121.2 L467.6,126.9 L467.7,145.2 L467.3,151.2 L465.6,155.0 L460.3,153.5 L455.3,154.5 L449.7,153.1 L439.9,153.8 L434.7,156.5 L433.0,157.9 L434.0,159.6 L433.5,162.6 L434.4,165.0 L437.9,167.7 L432.3,170.9 L430.6,171.2 L432.0,173.8 L433.6,182.2 L435.8,184.5 L438.5,185.7 L446.8,186.5 L452.3,188.2 L455.2,188.5 L460.5,187.3 L462.6,184.8 L469.5,194.7 L471.2,199.0 L470.6,205.2 L468.2,212.8 L468.3,215.9 L470.2,221.9 L465.7,225.0 L462.4,230.5 L460.5,232.4 L456.1,234.6 L454.2,236.9 L452.1,241.7 L450.9,243.0 L444.7,244.0 L440.9,247.1 L438.8,251.4 L435.6,252.7 L435.3,257.1 L446.4,262.2 L449.2,264.9 L450.1,268.9 L448.0,270.6 L445.9,275.1 L443.6,278.1 L440.8,279.8 L431.6,280.6 L421.3,284.7 L416.3,288.9 L412.5,289.9 L405.7,288.2 L406.7,292.0 L406.4,293.7 L402.5,294.9 L402.0,292.3 L396.2,291.0 L392.8,287.6 L389.6,288.5 L386.0,287.2 L382.5,284.6 L379.0,283.1 L375.5,285.2 L381.0,290.1 L382.5,292.3 L374.8,290.6 L370.6,292.0 L365.0,295.5 L360.8,296.4 L358.8,299.3 L361.2,301.0 L362.8,304.2 L362.7,307.7 L361.1,309.4 L360.5,311.9 L364.6,312.1 L369.3,315.3 L368.1,320.2 L370.7,323.2 L377.9,326.0 L376.4,332.3 L376.9,334.4 L384.4,343.8 L388.9,348.5 L390.5,357.1 L389.6,367.2 L391.3,369.1 L390.6,374.3 L389.1,378.0 L385.4,381.1 L380.4,391.4 L377.3,396.1 L376.4,403.4 L377.2,406.5 L379.8,407.7 L385.0,403.9 L387.4,404.6 L384.3,407.2 L386.6,409.2 L385.1,411.4 L379.2,415.0 L369.6,423.1 L366.4,429.2 L363.1,431.0 L358.8,427.4 L355.9,429.1 L356.6,433.0 L358.5,437.8 L358.8,442.1 L364.4,439.8 L368.7,440.7 L372.5,440.1 L371.8,443.9 L372.4,447.7 L375.9,450.0 L379.4,451.1 L378.5,453.8 L379.6,457.3 L377.9,461.9 L375.5,461.8 L373.2,464.4 L373.6,467.4 L371.6,471.0 L370.0,470.6 L370.5,472.8 L373.3,475.9 L373.1,478.1 M371.0,478.6 L362.0,478.3 M187.0,378.5 L184.9,378.5 M184.9,378.5 L183.6,376.0 L183.0,370.8 L178.4,372.5 L168.9,372.3 L164.5,370.4 L158.6,365.4 L152.4,364.3 L151.0,365.2 L146.7,373.0 L138.8,375.4 L134.7,371.9 L128.3,368.8 L124.1,364.9 L122.4,364.7 L118.1,366.4 L115.7,366.5 L109.7,365.2 L107.8,364.2 L103.4,357.1 L99.9,354.1 L98.3,349.5 L99.4,348.0 L110.2,341.2 L138.5,337.8 L140.9,338.2 L144.2,340.6 L146.8,345.1 L143.2,347.5 L143.2,348.5 L153.3,349.5 L158.5,351.5 L162.9,355.2 L166.5,363.7 L168.1,365.8 L170.7,366.5 L176.2,365.6 L178.3,366.7 L185.0,365.7 L187.0,365.1 L188.4,361.2 L187.4,357.6 L185.2,354.9 L181.2,353.0 L177.4,352.4 L173.0,350.6 L166.4,350.7 L163.9,349.2 L155.4,341.4 L161.0,338.7 L163.8,337.9 L173.2,338.2 L176.0,339.0 L178.5,341.1 L178.0,337.9 L176.2,336.6 L172.1,336.5 L169.0,334.4 L168.2,331.6 L168.4,327.6 L171.5,325.3 L175.1,324.9 L171.3,321.9 L163.9,319.8 L162.4,317.6 L161.6,312.0 L159.8,308.5 L154.2,304.2 L152.2,305.7 L146.9,306.6 L142.7,308.0 L141.7,303.3 L144.7,301.2 L151.3,299.1 L152.1,297.9 L157.7,298.5 L161.9,300.0 L164.2,298.4 L159.4,291.9 L160.5,287.4 L160.1,284.8 L156.8,275.3 L158.1,272.9 L163.0,273.9 L167.0,273.2 L170.5,270.8 L185.2,252.3 L197.6,233.4 L206.8,215.8 M362.0,478.3 L362.0,478.3 L371.0,478.6 M184.9,378.5 L187.0,378.5 M89.1,385.0 L88.1,378.5 L105.2,372.9 L108.4,371.4 L115.2,375.7 L125.6,378.5 L129.0,381.5 L131.3,382.5 L135.6,382.4 L139.6,383.5 L142.2,383.1 L152.5,378.5 L153.9,376.8 L155.4,371.9 L157.7,372.0 L161.7,373.9 L164.6,378.6 L170.1,380.4 L173.8,380.6 L176.3,377.2 L180.7,378.8 L179.3,385.1 M179.3,385.1 L180.8,378.8 L182.8,380.7 L184.5,385.4 L189.5,390.8 L190.1,392.9 L189.2,395.3 L191.0,394.0 L192.5,390.7 L188.9,389.3 L187.6,387.1 L187.3,381.7 L184.9,378.5 M380.3,579.5 L384.4,579.3 M390.8,584.2 L389.0,596.5 L391.0,598.5 L391.6,603.9 L394.1,608.0 L396.9,614.2 L398.0,611.8 L400.0,614.8 L403.9,623.3 L405.7,624.9 L411.2,627.4 L412.2,629.5 L413.1,631.7 L416.5,630.7 L421.7,634.6 L425.6,636.2 L430.8,635.9 L435.0,637.6 L433.9,646.5 L434.2,649.3 L435.6,651.5 L434.9,653.5 L427.0,659.1 L425.4,661.6 L427.2,664.3 L425.2,668.7 L422.5,672.4 L420.4,677.0 L420.6,682.3 L420.0,689.5 L420.6,695.8 L415.4,694.2 L410.0,690.5 L406.7,689.3 L403.5,689.1 L397.2,690.1 L398.0,691.6 L394.9,692.0 L393.4,695.4 L389.5,698.3 L380.1,699.3 L378.2,700.0 L376.5,695.2 L374.4,693.2 L367.3,691.8 L362.5,688.9 L358.8,684.4 M380.3,579.5 L380.3,579.5 M373.1,478.1 L374.9,480.2 L375.2,485.0 L382.6,483.9 L384.8,485.9 L391.8,495.6 L390.4,496.6 L391.7,499.0 L394.0,500.0 L401.4,499.9 L399.9,504.6 L394.3,509.1 L392.4,512.3 L394.3,514.5 L393.7,516.6 L395.9,517.0 L395.1,518.5 L397.0,521.2 L398.9,521.8 L403.0,520.2 L405.2,521.2 L411.9,522.1 L410.6,524.7 L411.6,527.9 L413.8,530.1 L413.9,532.9 L412.7,539.2 L412.9,541.2 L416.9,547.6 L417.3,550.0 L416.0,551.5 L413.1,552.1 L409.2,551.4 L406.1,555.4 L406.5,558.6 L404.6,560.5 L397.7,563.2 L393.3,568.2 L394.8,569.8 L395.5,573.6 L394.2,575.8 L391.1,576.7 L390.4,580.0 L392.0,581.9 L390.8,584.2 M384.4,579.3 L380.3,579.5 M358.8,684.4 L355.1,682.7 L352.7,683.3 L350.0,685.8 L342.7,683.9 L340.0,685.4 L338.2,689.2 L335.6,689.2 L332.1,687.8 L324.6,692.8 L321.4,690.8 L321.3,684.3 L315.6,674.9 L313.5,673.1 L308.1,671.2 L306.7,673.5 L304.1,673.4 L303.5,668.8 L304.9,667.6 L304.0,665.1 L299.5,660.3 L292.2,662.0 L289.6,661.3 L285.9,658.3 L279.7,650.5 L273.5,648.3 L269.3,644.3 L267.0,643.3 L260.3,645.3 L254.9,645.4 L253.9,644.1 L253.8,637.8 L252.4,635.0 L254.7,627.6 L254.7,623.9 L252.9,620.8 L247.6,618.8 L246.1,616.5 L246.5,613.8 L250.5,603.2 L250.4,598.4 L252.4,593.9 L254.2,595.0 L255.0,585.5 L253.9,584.2 L249.3,584.5 L248.7,582.0 L245.8,583.4 L234.5,595.4 L233.6,598.5 L234.5,601.5 L233.8,606.9 L232.1,611.6 L226.4,613.2 L211.3,621.1 L207.2,621.5 L190.8,617.3 L182.4,618.6 L175.6,615.1 L174.7,607.8 L176.0,605.6 L180.5,601.8 L183.1,600.5 L179.7,589.2 L175.3,589.8 L173.7,589.1 L173.9,586.0 L176.9,574.7 L181.6,569.7 L181.9,568.0 L177.4,564.5 L176.0,565.1 L175.4,568.1 L173.3,567.2 L170.3,560.9 L165.7,557.6 L162.0,553.7 L157.6,553.0 L150.7,556.0 L148.3,556.0 L142.2,552.7 L137.7,552.2 L131.5,553.2 L126.7,560.8 L122.9,557.3 L121.9,550.4 L121.8,542.5 L120.8,535.9 L119.0,532.7 L116.9,530.7 L112.0,529.0 L105.0,529.0 L103.7,528.1 L104.7,526.2 L104.2,523.9 L101.1,523.6 L97.5,526.5 L92.7,528.3 L88.2,528.1 L83.5,525.7 L80.3,522.4 L79.6,515.0 L76.7,505.5 L75.8,500.6 L77.3,497.8 L75.2,492.2 L72.3,491.5 L68.6,484.6 L64.9,479.7 L62.2,478.8 L53.6,481.5 L48.0,483.3 L43.5,486.9 L40.3,492.5 L38.9,493.6 L36.7,493.1 L28.1,489.1 L26.1,487.4 L23.5,481.8 L19.5,478.0 L18.0,474.6 L10.3,473.2 L8.8,470.1 L7.0,468.9 L7.8,464.5 L5.7,457.1 L9.5,452.1 L9.1,448.7 L3.7,441.9 L2.6,438.6 L1.6,431.1 L0.0,427.2 L2.2,425.7 L6.2,424.3 L20.8,413.4 L42.9,400.4 L64.3,386.3 L88.1,378.5 L89.1,385.0 M371.0,478.6 L373.1,478.1 M371.0,478.6 L373.1,478.1 M336.5,469.7 L341.2,471.6 L340.1,477.5 L342.1,478.6 L344.9,477.7 L346.9,475.1 L351.4,478.6 L360.7,478.0 L362.0,478.3 M336.5,469.7 L341.2,471.6 L340.1,477.5 L342.1,478.6 L344.9,477.7 L346.9,475.1 L351.4,478.6 L360.7,478.0 L362.0,478.3 M187.0,378.5 L193.9,381.2 L198.9,381.4 L200.9,380.3 L201.3,377.4 L197.4,371.4 L198.3,367.2 L197.0,365.8 L202.4,362.4 L208.1,360.2 L212.5,359.9 L213.4,361.3 L212.3,367.9 L214.4,369.3 L218.8,368.8 L223.9,369.4 L226.3,368.0 L234.3,357.7 L237.7,355.8 L241.2,356.6 L244.2,359.2 L244.4,361.7 L243.4,366.8 L244.3,369.7 L239.6,367.6 L237.9,369.9 L240.1,370.8 L247.6,370.9 L253.7,373.1 L255.9,372.5 L258.6,369.8 L262.5,363.6 L264.1,358.9 L265.7,358.4 L269.2,360.8 L271.4,364.7 L270.0,370.3 L270.5,375.6 L274.3,379.6 L276.6,385.8 L278.5,386.8 L284.5,386.5 L286.5,388.8 L286.7,394.8 L289.3,395.0 L292.6,394.1 L305.2,394.2 L307.4,393.3 L313.8,389.0 L318.6,390.6 L320.7,393.1 L322.0,400.2 L322.7,400.8 L324.6,402.2 L330.6,403.9 L334.4,406.7 L340.6,405.6 L343.8,406.6 L347.6,410.8 L352.6,409.9 L354.0,412.8 L352.3,416.3 L354.8,418.8 L350.5,420.1 L351.3,422.5 L349.3,427.2 L347.1,426.8 L346.5,430.7 L348.0,432.6 L346.5,436.8 L342.5,443.7 L347.0,443.6 L344.1,449.7 L342.3,452.2 L339.9,453.3 L332.4,462.2 L332.8,466.0 L336.5,469.7 M187.0,378.5 L193.9,381.2 L198.9,381.4 L200.9,380.3 L201.3,377.4 L197.4,371.4 L198.3,367.2 L197.0,365.8 L202.4,362.4 L208.1,360.2 L212.5,359.9 L213.4,361.3 L212.3,367.9 L214.4,369.3 L218.8,368.8 L223.9,369.4 L226.3,368.0 L234.3,357.7 L237.7,355.8 L241.2,356.6 L244.2,359.2 L244.4,361.7 L243.4,366.8 L244.3,369.7 L239.6,367.6 L237.9,369.9 L240.1,370.8 L247.6,370.9 L253.7,373.1 L255.9,372.5 L258.6,369.8 L262.5,363.6 L264.1,358.9 L265.7,358.4 L269.2,360.8 L271.4,364.7 L270.0,370.3 L270.5,375.6 L274.3,379.6 L276.6,385.8 L278.5,386.8 L284.5,386.5 L286.5,388.8 L286.7,394.8 L289.3,395.0 L292.6,394.1 L305.2,394.2 L307.4,393.3 L313.8,389.0 L318.6,390.6 L320.7,393.1 L322.0,400.2 L322.7,400.8 L324.6,402.2 L330.6,403.9 L334.4,406.7 L340.6,405.6 L343.8,406.6 L347.6,410.8 L352.6,409.9 L354.0,412.8 L352.3,416.3 L354.8,418.8 L350.5,420.1 L351.3,422.5 L349.3,427.2 L347.1,426.8 L346.5,430.7 L348.0,432.6 L346.5,436.8 L342.5,443.7 L347.0,443.6 L344.1,449.7 L342.3,452.2 L339.9,453.3 L332.4,462.2 L332.8,466.0 L336.5,469.7 M184.9,378.5 L184.9,378.5 M184.9,378.5 L184.9,378.5 M89.1,385.0 L88.6,393.2 L90.1,397.5 L93.5,400.6 L99.4,402.1 L104.4,401.3 L104.6,395.6 L105.7,394.4 L113.2,392.9 L118.6,393.1 L131.6,397.3 L133.6,398.6 L134.2,404.5 L137.2,406.9 L149.8,406.6 L152.2,405.8 L157.0,402.0 L170.0,395.1 L175.3,390.9 L179.3,385.1 M89.1,385.0 L88.6,393.2 L90.1,397.5 L93.5,400.6 L99.4,402.1 L104.4,401.3 L104.6,395.6 L105.7,394.4 L113.2,392.9 L118.6,393.1 L131.6,397.3 L133.6,398.6 L134.2,404.5 L137.2,406.9 L149.8,406.6 L152.2,405.8 L157.0,402.0 L170.0,395.1 L175.3,390.9 L179.3,385.1 M390.8,584.2 L389.1,583.6 L388.3,579.1 L386.9,577.8 L384.4,579.3 M390.8,584.2 L389.1,583.6 L388.3,579.1 L386.9,577.8 L384.4,579.3 M380.3,579.5 L377.4,575.5 L373.5,577.3 L371.5,583.7 L369.9,585.4 L366.0,587.6 L364.2,589.3 L363.5,594.3 L360.8,597.8 L361.0,601.4 L360.0,603.6 L357.2,605.6 L357.2,607.9 L358.5,609.8 L357.4,612.1 L353.3,615.2 L352.3,618.0 L348.8,624.7 L348.4,626.4 L352.2,628.7 L353.3,630.2 L350.4,630.0 L349.9,632.5 L351.0,633.5 L349.3,636.0 L350.3,640.2 L351.5,642.0 L356.0,644.6 L358.8,649.6 L359.3,653.1 L365.0,655.6 L363.7,661.1 L364.9,662.9 L367.9,663.7 L368.6,666.1 L366.2,669.7 L364.1,675.4 L362.9,676.6 L364.8,677.5 L363.8,680.2 L361.4,683.0 L358.8,684.4 M380.3,579.5 L377.4,575.5 L373.5,577.3 L371.5,583.7 L369.9,585.4 L366.0,587.6 L364.2,589.3 L363.5,594.3 L360.8,597.8 L361.0,601.4 L360.0,603.6 L357.2,605.6 L357.2,607.9 L358.5,609.8 L357.4,612.1 L353.3,615.2 L352.3,618.0 L348.8,624.7 L348.4,626.4 L352.2,628.7 L353.3,630.2 L350.4,630.0 L349.9,632.5 L351.0,633.5 L349.3,636.0 L350.3,640.2 L351.5,642.0 L356.0,644.6 L358.8,649.6 L359.3,653.1 L365.0,655.6 L363.7,661.1 L364.9,662.9 L367.9,663.7 L368.6,666.1 L366.2,669.7 L364.1,675.4 L362.9,676.6 L364.8,677.5 L363.8,680.2 L361.4,683.0 L358.8,684.4" />
+</g>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

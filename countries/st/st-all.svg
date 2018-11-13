@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Sao Tome and Principe</title>
+<g id="admin1">
+
+<g id="ST">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Sao Tome and Principe</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>S.T.P.</country-abbrev>
+    <subregion>Middle Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>STP</iso-a3>
+    <iso-a2>ST</iso-a2>
+    <woe-id>23424966</woe-id>
+    <continent>Africa</continent>
+    <hc-key>st</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ST.3593" d="M65.0,677.4 L51.0,677.8 L49.1,677.4 L44.6,692.5 L40.2,698.3 L34.7,691.7 L31.7,699.0 L27.3,700.0 L23.0,696.0 L20.4,688.6 L21.1,688.0 L23.1,680.8 L23.2,677.4 L21.9,673.2 L20.2,671.3 L18.5,670.4 L17.3,668.9 L2.4,621.3 L0.0,617.2 L2.0,613.5 L2.7,609.8 L2.9,601.4 L3.9,598.1 L12.0,588.5 L13.7,584.7 L14.2,582.0 L15.2,579.4 L30.0,564.6 L33.3,563.0 L49.1,557.7 L62.2,546.9 L75.8,538.4 L92.5,539.9 L101.9,546.3 L111.7,556.7 L119.7,568.8 L124.1,580.2 L125.9,591.3 L125.7,598.0 L124.1,605.6 L120.7,613.7 L117.1,618.7 L106.8,628.4 L101.6,634.7 L89.6,654.3 L87.0,655.3 L83.1,656.2 L80.6,658.0 L83.4,665.2 L80.3,666.9 L75.6,667.9 L72.4,668.9 L65.8,676.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>ST.ST</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347234</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TP02</fips>
+    <postal-code>NULL</postal-code>
+    <name>São Tomé</name>
+    <country>Sao Tome and Principe</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>6.61185</longitude>
+    <woe-name>Sao Tome</woe-name>
+    <latitude>0.234574</latitude>
+    <woe-label>Sao Tome, ST, Sao Tome and Principe</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>st-3593</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ST.6393" d="M409.5,35.3 L409.9,44.8 L407.8,53.1 L405.7,57.3 L402.6,59.0 L397.4,59.9 L395.9,62.3 L396.0,65.9 L395.5,70.4 L394.4,68.8 L393.2,65.7 L392.5,64.5 L389.7,65.7 L387.0,67.6 L383.3,60.8 L377.5,58.8 L371.3,58.4 L366.6,56.1 L365.3,43.2 L365.6,35.5 L369.5,36.2 L376.5,33.3 L379.9,29.4 L380.9,24.2 L380.9,17.4 L383.2,9.4 L388.8,3.1 L396.3,0.0 L403.9,1.7 L415.5,2.8 L420.1,4.8 L421.4,10.6 L419.1,12.5 L414.4,14.3 L409.6,17.1 L407.1,21.7 L413.3,22.7 L418.8,25.7 L421.0,28.8 L417.1,30.3 L411.1,31.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>ST.PR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347233</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TP01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Príncipe</name>
+    <country>Sao Tome and Principe</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>7.39374</longitude>
+    <woe-name>Principe</woe-name>
+    <latitude>1.60769</latitude>
+    <woe-label>Principe, ST, Sao Tome and Principe</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>st-6393</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

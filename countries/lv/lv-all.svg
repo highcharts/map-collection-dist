@@ -1,0 +1,3006 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Latvia</title>
+<g id="admin1">
+
+<g id="LV">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Latvia</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Lat.</country-abbrev>
+    <subregion>Northern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>LVA</iso-a3>
+    <iso-a2>LV</iso-a2>
+    <woe-id>23424874</woe-id>
+    <continent>Europe</continent>
+    <hc-key>lv</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AN" d="M467.2,352.2 L464.3,349.1 L458.6,345.3 L456.5,342.4 L453.8,335.1 L452.6,334.6 L456.6,323.3 L456.5,319.8 L466.8,318.4 L474.2,320.5 L476.2,323.9 L477.3,329.3 L484.3,333.0 L485.3,339.5 L487.9,339.8 L489.4,344.8 L487.6,343.5 L482.5,347.9 L481.3,348.1 L478.7,345.0 L470.3,337.8 L471.1,341.0 L473.3,344.8 L471.2,349.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>AN</postal-code>
+    <name>Aknistes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.7883</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.1592</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>lv-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.JJ" d="M390.0,274.7 L388.2,265.1 L384.4,265.1 L383.7,260.4 L392.6,258.3 L393.2,254.4 L396.1,252.7 L399.7,252.2 L401.7,253.1 L404.1,254.1 L409.1,258.2 L411.1,258.7 L416.6,257.7 L420.1,256.5 L426.5,250.6 L433.0,253.5 L435.9,253.7 L435.8,257.6 L437.3,259.4 L443.1,259.6 L446.8,261.1 L446.0,263.9 L443.9,266.0 L442.3,271.1 L446.0,278.6 L443.4,282.0 L439.2,282.6 L434.8,287.2 L432.8,288.2 L426.8,288.8 L420.8,287.1 L417.4,287.2 L417.2,289.5 L401.8,288.8 L396.1,290.7 L393.7,280.2 L391.5,280.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.JJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>JJ</postal-code>
+    <name>Jaunjelgavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.3016</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.5109</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>lv-jj</hc-key>
+    <hc-a2>JJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VC" d="M383.7,260.4 L384.4,265.1 L388.2,265.1 L390.0,274.7 L381.1,276.4 L379.3,281.0 L377.1,282.0 L376.5,284.1 L375.2,285.4 L374.7,289.1 L373.4,290.8 L370.2,290.1 L358.1,295.6 L354.3,298.7 L348.0,307.4 L343.7,305.3 L339.1,307.5 L337.9,303.8 L341.4,298.5 L336.3,297.6 L335.7,295.1 L342.3,292.3 L343.8,290.1 L342.0,282.4 L338.2,277.4 L334.8,279.0 L333.7,275.6 L329.2,269.4 L329.9,265.4 L326.1,263.2 L323.5,263.5 L322.3,255.2 L327.9,253.9 L326.7,246.5 L332.4,244.3 L338.8,238.9 L342.5,237.4 L345.8,238.5 L350.1,238.4 L353.3,243.7 L349.1,246.4 L350.1,253.4 L353.0,256.8 L355.6,257.0 L356.1,259.0 L359.5,261.1 L357.1,262.7 L355.7,266.8 L363.0,266.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>VC</postal-code>
+    <name>Vecumnieku</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>24.6268</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.4823</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lv-vc</hc-key>
+    <hc-a2>VC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.R" d="M285.9,186.7 L291.9,182.4 L296.1,175.8 L299.7,174.8 L303.4,172.4 L307.0,178.2 L308.1,178.6 L309.9,179.5 L314.0,184.0 L318.7,186.7 L321.4,189.3 L323.1,193.1 L321.1,195.5 L317.2,197.2 L315.0,199.9 L315.2,204.4 L317.3,209.8 L311.4,208.3 L307.5,204.8 L303.4,206.5 L301.1,209.3 L299.4,210.0 L299.0,207.6 L298.6,205.5 L295.2,201.8 L287.3,198.5 L291.6,194.0 L292.8,191.4 L288.4,189.3 L286.5,188.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>LV.RA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-20070121</woe-id>
+    <subregion>Riga</subregion>
+    <fips>LG</fips>
+    <postal-code>R</postal-code>
+    <name>Riga</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Riga</region>
+    <longitude>24.1235</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.9878</latitude>
+    <woe-label>Riga, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>lv-r</hc-key>
+    <hc-a2>RI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.ME" d="M201.9,118.7 L206.7,121.6 L211.1,122.9 L211.8,127.7 L213.8,132.0 L210.7,133.1 L209.4,136.3 L209.2,141.2 L206.1,145.8 L204.4,142.4 L203.8,138.0 L194.4,135.5 L191.3,129.1 L199.5,123.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.ME</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346039</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>ME</postal-code>
+    <name>Mersraga</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>23.0567</longitude>
+    <woe-name>Talsi</woe-name>
+    <latitude>57.3317</latitude>
+    <woe-label>Talsu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>lv-me</hc-key>
+    <hc-a2>ME</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.JP" d="M467.6,274.6 L470.0,276.1 L473.7,276.4 L472.9,273.0 L489.1,279.4 L490.3,280.1 L493.8,287.8 L495.7,287.9 L500.5,292.2 L501.4,298.7 L503.5,303.4 L503.6,307.6 L505.0,308.8 L504.4,317.4 L504.9,318.8 L511.8,321.3 L515.5,325.9 L518.3,329.4 L519.6,334.3 L520.3,341.4 L517.3,336.4 L516.9,331.6 L510.0,328.9 L506.4,329.6 L500.1,335.5 L501.5,339.3 L499.3,341.2 L497.3,340.7 L492.7,346.7 L489.4,344.8 L487.9,339.8 L485.3,339.5 L484.3,333.0 L477.3,329.3 L476.2,323.9 L474.2,320.5 L466.8,318.4 L456.5,319.8 L455.0,308.6 L460.1,307.3 L459.9,298.4 L465.6,296.7 L470.1,287.3 L466.7,282.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.JP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>JP</postal-code>
+    <name>Jekabpils</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.9607</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.3227</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-jp</hc-key>
+    <hc-a2>JP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.JK" d="M472.9,273.0 L473.7,276.4 L470.0,276.1 L467.6,274.6 L468.0,267.6 L472.9,266.0 L474.1,268.3 L476.8,267.0 L477.5,269.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.JB</hasc>
+    <alt-name>Jakobstadt</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>JK</postal-code>
+    <name>Jekabpils</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Zemgale</region>
+    <longitude>25.8619</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.5068</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-jk</hc-key>
+    <hc-a2>JK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SC" d="M468.0,267.6 L467.6,274.6 L466.7,282.0 L470.1,287.3 L465.6,296.7 L459.9,298.4 L459.1,295.3 L454.2,295.9 L452.4,291.3 L447.7,284.8 L448.1,282.1 L446.0,278.6 L442.3,271.1 L443.9,266.0 L446.0,263.9 L446.8,261.1 L443.1,259.6 L446.2,259.2 L450.4,256.0 L454.4,255.2 L459.7,252.2 L460.9,253.0 L460.3,261.0 L462.4,263.1 L464.2,267.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>SC</postal-code>
+    <name>Salas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.7187</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.4905</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>lv-sc</hc-key>
+    <hc-a2>SC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KO" d="M416.6,257.7 L416.3,242.9 L414.8,239.3 L416.2,234.7 L412.7,232.5 L416.3,229.3 L419.2,228.6 L422.1,229.4 L421.8,227.8 L425.4,227.9 L429.7,225.4 L436.1,218.7 L441.5,220.4 L445.6,220.3 L451.7,222.5 L454.1,225.7 L450.7,228.6 L445.3,226.8 L444.9,229.2 L446.9,231.4 L447.0,235.3 L442.6,236.2 L444.0,242.3 L439.2,248.2 L438.3,253.3 L435.9,253.7 L433.0,253.5 L426.5,250.6 L420.1,256.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>KO</postal-code>
+    <name>Kokneses</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.4447</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.7031</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lv-ko</hc-key>
+    <hc-a2>KO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AK" d="M414.8,239.3 L416.3,242.9 L416.6,257.7 L411.1,258.7 L409.1,258.2 L404.1,254.1 L401.7,253.1 L405.6,249.3 L405.7,245.8 L404.4,242.4 L405.1,238.4 L407.4,239.3 L409.0,237.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>AK</postal-code>
+    <name>Aizkraukles</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.228</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.6459</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-ak</hc-key>
+    <hc-a2>AK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SR" d="M405.1,238.4 L404.4,242.4 L405.7,245.8 L405.6,249.3 L401.7,253.1 L399.7,252.2 L396.1,252.7 L393.2,254.4 L390.3,255.2 L390.8,252.3 L389.8,249.5 L389.9,242.4 L393.5,238.9 L390.9,234.5 L397.4,232.6 L402.4,236.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>SR</postal-code>
+    <name>Skriveru</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.0971</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.6786</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>lv-sr</hc-key>
+    <hc-a2>SR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.OG" d="M405.1,238.4 L402.4,236.5 L397.4,232.6 L392.0,223.6 L384.9,222.2 L382.6,220.3 L380.7,221.8 L370.4,216.2 L369.4,220.8 L366.9,222.0 L367.4,225.5 L365.3,229.4 L361.9,233.2 L359.2,229.7 L355.7,228.6 L351.6,224.9 L348.7,220.2 L356.1,213.0 L359.4,215.5 L362.7,210.8 L359.5,209.2 L358.6,205.6 L360.7,205.3 L369.4,198.8 L372.5,200.2 L377.3,200.7 L379.9,198.6 L383.3,197.5 L391.1,198.5 L401.1,195.5 L409.8,198.2 L414.5,192.8 L418.6,190.6 L421.2,191.1 L422.9,196.7 L425.2,197.4 L428.1,195.3 L430.5,191.6 L429.9,187.8 L433.8,187.2 L435.7,191.0 L438.1,197.9 L436.8,204.0 L440.6,208.0 L433.8,209.4 L435.6,213.7 L436.1,218.7 L429.7,225.4 L425.4,227.9 L421.8,227.8 L422.1,229.4 L419.2,228.6 L416.3,229.3 L412.7,232.5 L416.2,234.7 L414.8,239.3 L409.0,237.5 L407.4,239.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.OR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346034</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>OG</postal-code>
+    <name>Ogre</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>25.1269</longitude>
+    <woe-name>Ogre</woe-name>
+    <latitude>56.8577</latitude>
+    <woe-label>Ogres Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-og</hc-key>
+    <hc-a2>OG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.PL" d="M443.1,259.6 L437.3,259.4 L435.8,257.6 L435.9,253.7 L438.3,253.3 L439.2,248.2 L444.0,242.3 L442.6,236.2 L447.0,235.3 L446.9,231.4 L444.9,229.2 L445.3,226.8 L450.7,228.6 L454.1,225.7 L457.6,223.5 L459.1,220.2 L459.0,215.9 L460.8,215.5 L468.3,222.1 L469.2,225.3 L467.0,229.0 L467.9,235.4 L474.9,237.9 L477.7,240.5 L475.8,242.8 L477.6,248.1 L473.0,250.7 L463.9,253.4 L460.9,253.0 L459.7,252.2 L454.4,255.2 L450.4,256.0 L446.2,259.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.PL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>PL</postal-code>
+    <name>Plavinu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.731</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.6868</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>lv-pl</hc-key>
+    <hc-a2>PL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VT" d="M459.9,298.4 L460.1,307.3 L455.0,308.6 L456.5,319.8 L456.6,323.3 L452.6,334.6 L446.8,335.2 L440.3,332.7 L433.7,334.0 L423.4,332.4 L425.6,329.9 L428.7,329.6 L427.8,325.0 L428.4,319.9 L425.3,315.7 L419.3,310.4 L420.5,306.5 L424.9,303.3 L424.0,302.0 L418.6,302.9 L417.2,289.5 L417.4,287.2 L420.8,287.1 L426.8,288.8 L432.8,288.2 L434.8,287.2 L439.2,282.6 L443.4,282.0 L446.0,278.6 L448.1,282.1 L447.7,284.8 L452.4,291.3 L454.2,295.9 L459.1,295.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>VT</postal-code>
+    <name>Viesites</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.5306</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.2901</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-vt</hc-key>
+    <hc-a2>VT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.JE" d="M267.0,241.5 L273.0,243.1 L274.3,247.8 L272.8,249.1 L270.7,250.9 L271.5,254.2 L267.7,255.9 L264.7,258.6 L261.2,256.9 L261.8,252.0 L257.4,248.5 L256.2,245.1 L258.7,243.7 L262.5,244.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.JE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-20070120</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>JE</postal-code>
+    <name>Jelgava</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Zemgale</region>
+    <longitude>23.7011</longitude>
+    <woe-name>Jelgava</woe-name>
+    <latitude>56.6457</latitude>
+    <woe-label>Jelgava, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>lv-je</hc-key>
+    <hc-a2>JE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.OZ" d="M272.8,249.1 L274.3,247.8 L273.0,243.1 L267.0,241.5 L265.0,238.7 L262.4,240.3 L261.3,237.1 L264.2,236.2 L264.2,233.4 L269.4,232.2 L273.7,234.8 L276.3,233.3 L284.4,232.0 L287.1,235.0 L292.3,234.6 L292.5,236.2 L293.5,238.2 L292.8,240.7 L295.9,242.0 L296.7,246.6 L293.6,247.1 L297.6,251.2 L298.2,254.0 L295.2,256.8 L298.0,259.8 L302.9,260.7 L302.8,263.5 L300.3,268.5 L300.5,269.9 L296.8,274.2 L294.4,274.3 L292.0,274.2 L289.8,271.4 L289.2,265.2 L284.3,255.8 L279.8,254.6 L276.2,252.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.OZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>OZ</postal-code>
+    <name>Ozolnieku</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>23.9479</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.6377</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
+    <hc-key>lv-oz</hc-key>
+    <hc-a2>OZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RD" d="M290.9,307.2 L280.3,303.8 L280.6,293.8 L276.9,294.1 L278.3,288.8 L277.4,286.1 L280.7,281.1 L285.0,279.4 L289.1,275.0 L292.0,274.2 L294.4,274.3 L295.6,278.5 L296.3,287.5 L307.7,294.3 L304.9,297.4 L301.5,295.0 L299.2,295.0 L299.7,298.4 L296.6,300.5 L296.1,304.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>RD</postal-code>
+    <name>Rundales</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>23.9643</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.4087</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>lv-rd</hc-key>
+    <hc-a2>RD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VL" d="M647.3,172.6 L642.1,174.4 L637.2,175.4 L636.4,171.9 L632.4,171.3 L629.0,172.3 L627.6,165.6 L625.0,165.4 L619.1,159.7 L613.8,152.1 L615.4,142.9 L617.1,137.2 L620.7,131.9 L623.8,134.2 L627.2,134.1 L631.1,127.2 L637.6,122.9 L639.1,120.7 L639.4,116.5 L640.7,117.9 L650.6,123.3 L653.7,127.2 L654.5,131.2 L654.6,140.9 L653.5,150.1 L650.8,153.0 L642.2,157.7 L640.6,160.4 L642.1,163.5 L646.9,166.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>VL</postal-code>
+    <name>Vilakas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.6287</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>57.1775</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>lv-vl</hc-key>
+    <hc-a2>VL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.BA" d="M637.2,175.4 L642.1,174.4 L647.3,172.6 L645.5,178.4 L645.1,185.6 L639.5,199.5 L637.9,205.7 L639.5,206.1 L638.8,207.0 L633.3,203.6 L631.3,201.5 L627.3,203.9 L620.6,205.1 L619.2,199.8 L617.3,196.7 L619.8,194.2 L624.5,194.3 L628.5,190.6 L626.5,187.1 L635.1,181.5 L640.1,180.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.BA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>BA</postal-code>
+    <name>Baltinavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.6041</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.924</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>lv-ba</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.ZI" d="M685.3,325.5 L684.4,322.5 L687.3,315.6 L686.5,313.6 L690.7,301.8 L687.9,298.0 L682.8,295.6 L678.9,292.6 L672.1,297.1 L670.8,301.2 L665.8,301.5 L663.2,295.3 L666.6,293.3 L673.7,284.8 L677.2,285.1 L679.1,283.6 L676.9,280.1 L675.4,275.3 L679.5,274.1 L684.2,276.5 L693.6,275.1 L693.6,281.1 L695.1,288.6 L699.7,300.2 L700.0,304.6 L698.1,309.0 L696.5,321.2 L694.8,324.6 L691.0,322.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.ZI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>ZI</postal-code>
+    <name>Zilupes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>28.1072</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.3391</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.25</hc-middle-y>
+    <hc-key>lv-zi</hc-key>
+    <hc-a2>ZI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.DD" d="M686.5,313.6 L687.3,315.6 L684.4,322.5 L685.3,325.5 L678.8,329.8 L674.8,330.9 L672.2,333.3 L669.6,339.8 L663.2,345.3 L660.4,348.6 L660.2,352.7 L658.7,355.8 L655.1,352.5 L648.0,348.4 L646.8,349.4 L647.3,354.3 L640.2,352.9 L629.0,346.7 L624.5,346.9 L621.9,349.7 L620.1,349.4 L620.6,343.5 L619.9,339.5 L614.6,339.7 L609.6,341.3 L607.0,334.7 L613.5,332.1 L616.3,329.3 L615.4,325.7 L612.2,322.3 L611.6,318.6 L615.8,317.1 L622.8,317.3 L626.3,316.8 L626.1,313.2 L630.0,312.1 L633.3,309.7 L634.3,307.4 L637.6,310.5 L645.6,308.8 L647.3,310.3 L652.9,315.9 L658.4,317.5 L661.5,317.2 L662.7,319.0 L665.7,319.5 L671.5,318.8 L679.9,314.9 L682.7,312.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.DD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>DD</postal-code>
+    <name>Dagdas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.6246</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.1183</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>lv-dd</hc-key>
+    <hc-a2>DD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.LV" d="M536.7,271.9 L536.7,279.6 L540.5,281.6 L537.5,291.8 L531.5,289.1 L529.9,294.9 L535.2,299.0 L542.7,301.3 L543.9,307.7 L540.2,310.4 L528.6,311.1 L524.8,308.4 L522.4,303.1 L520.0,303.5 L520.0,310.0 L514.2,308.4 L516.3,318.4 L518.8,324.7 L515.5,325.9 L511.8,321.3 L504.9,318.8 L504.4,317.4 L505.0,308.8 L503.6,307.6 L503.5,303.4 L501.4,298.7 L500.5,292.2 L495.7,287.9 L493.8,287.8 L499.9,283.7 L503.4,278.6 L504.1,276.0 L509.4,269.0 L514.4,268.2 L518.8,275.2 L519.9,279.3 L524.6,276.6 L528.8,272.4 L532.7,271.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.LV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>LV</postal-code>
+    <name>Livanu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>26.324</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.3841</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>lv-lv</hc-key>
+    <hc-a2>LV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RB" d="M540.5,281.6 L536.7,279.6 L536.7,271.9 L542.1,271.9 L541.9,268.8 L544.7,262.2 L552.3,261.5 L553.8,262.0 L555.8,259.2 L558.4,259.5 L562.8,262.2 L563.9,264.9 L559.1,267.2 L562.3,269.4 L566.1,269.8 L571.5,272.4 L576.4,272.6 L577.1,275.3 L574.0,277.8 L571.6,284.2 L577.1,290.7 L581.2,297.6 L579.8,299.7 L576.8,301.1 L578.5,306.0 L581.2,309.5 L583.0,315.1 L585.7,317.6 L586.9,323.7 L580.2,326.0 L576.8,328.1 L575.7,330.2 L577.4,331.8 L576.7,333.9 L572.8,333.2 L572.0,329.2 L564.0,323.8 L567.1,321.2 L567.4,318.6 L564.7,311.9 L561.5,307.0 L557.4,305.7 L553.5,301.9 L549.8,300.7 L548.4,298.2 L549.9,292.4 L555.9,287.5 L551.1,281.9 L545.0,278.6 L541.9,279.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>RB</postal-code>
+    <name>Riebinu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>26.8189</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.3637</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>lv-rb</hc-key>
+    <hc-a2>RB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KT" d="M544.7,262.2 L541.9,268.8 L542.1,271.9 L536.7,271.9 L532.7,271.0 L528.8,272.4 L524.6,276.6 L519.9,279.3 L518.8,275.2 L514.4,268.2 L509.4,269.0 L504.1,276.0 L503.4,278.6 L499.9,283.7 L493.8,287.8 L490.3,280.1 L489.1,279.4 L472.9,273.0 L477.5,269.7 L476.8,267.0 L474.1,268.3 L472.9,266.0 L468.0,267.6 L464.2,267.2 L462.4,263.1 L460.3,261.0 L460.9,253.0 L463.9,253.4 L473.0,250.7 L477.6,248.1 L482.4,243.1 L484.3,247.6 L486.3,249.3 L489.7,249.1 L496.5,244.8 L502.3,246.6 L503.1,249.2 L505.7,252.1 L509.3,250.8 L511.1,251.8 L512.2,255.9 L517.1,252.8 L520.0,247.1 L522.5,247.4 L530.6,251.9 L534.3,252.9 L541.1,253.4 L540.4,259.0 L541.7,261.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>KT</postal-code>
+    <name>Krustpils</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>26.1972</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.5559</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lv-kt</hc-key>
+    <hc-a2>KT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SE" d="M340.8,169.2 L336.7,156.0 L329.9,156.8 L327.8,156.0 L334.6,146.8 L338.6,146.3 L336.1,136.5 L337.1,136.7 L344.4,132.7 L345.9,133.8 L347.1,137.4 L351.2,141.4 L353.3,146.3 L356.9,148.8 L354.9,151.0 L350.7,152.3 L351.2,156.8 L354.7,156.3 L356.3,158.0 L355.6,165.7 L346.4,163.6 L345.0,166.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>SE</postal-code>
+    <name>Sejas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.5327</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.198</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>lv-se</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AD" d="M327.8,156.0 L329.9,156.8 L336.7,156.0 L340.8,169.2 L340.1,171.2 L336.1,175.1 L331.2,177.0 L327.0,177.8 L323.1,182.9 L320.2,182.4 L317.4,180.5 L316.1,177.3 L317.8,170.6 L323.0,168.1 L324.6,165.5 L325.6,155.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>AD</postal-code>
+    <name>?da?i</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.3855</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.108</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>lv-ad</hc-key>
+    <hc-a2>AD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.CR" d="M325.6,155.8 L324.6,165.5 L323.0,168.1 L317.8,170.6 L316.1,177.3 L314.6,175.2 L308.1,178.6 L307.0,178.2 L303.4,172.4 L312.6,166.3 L315.2,161.8 L319.0,159.8 L319.0,157.9 L323.9,153.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.CR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>CR</postal-code>
+    <name>Carnikavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.2464</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.1203</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>lv-cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.GA" d="M340.8,169.2 L341.3,173.8 L344.7,173.1 L346.2,177.2 L342.0,178.6 L343.1,187.3 L335.5,187.3 L330.7,188.6 L330.2,193.3 L328.0,197.4 L326.1,195.2 L323.1,193.1 L321.4,189.3 L318.7,186.7 L314.0,184.0 L309.9,179.5 L308.1,178.6 L314.6,175.2 L316.1,177.3 L317.4,180.5 L320.2,182.4 L323.1,182.9 L327.0,177.8 L331.2,177.0 L336.1,175.1 L340.1,171.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.GA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>GA</postal-code>
+    <name>Garkalnes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.3875</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.0221</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.IN" d="M346.2,177.2 L344.7,173.1 L341.3,173.8 L340.8,169.2 L345.0,166.1 L346.4,163.6 L355.6,165.7 L362.2,161.8 L365.7,161.8 L366.3,163.9 L363.5,170.2 L364.5,173.9 L359.6,176.6 L356.9,177.1 L354.2,174.7 L352.3,176.9 L347.6,177.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.IN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>IN</postal-code>
+    <name>Incukalna</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.635</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.0998</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>lv-in</hc-key>
+    <hc-a2>IN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.BR" d="M177.3,220.9 L177.2,222.1 L180.2,226.5 L180.9,234.5 L179.5,236.3 L180.5,239.3 L178.1,239.6 L178.5,242.7 L180.7,243.9 L183.6,248.7 L181.7,253.4 L179.4,255.0 L175.9,255.2 L175.7,258.4 L177.5,261.8 L173.3,262.8 L169.2,262.1 L167.5,258.1 L163.9,255.3 L159.0,256.0 L156.1,261.5 L153.7,259.5 L152.5,252.3 L149.3,249.0 L148.3,234.3 L145.8,231.9 L144.2,225.9 L149.1,212.0 L152.6,213.8 L158.1,214.7 L162.7,217.1 L163.3,219.8 L166.9,219.7 L170.6,221.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.BR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>BR</postal-code>
+    <name>Brocenu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>22.6412</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.7003</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>lv-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.JU" d="M180.5,239.3 L179.5,236.3 L180.9,234.5 L180.2,226.5 L177.2,222.1 L177.3,220.9 L182.9,216.7 L181.9,213.0 L185.7,211.5 L188.7,212.5 L192.1,212.2 L190.2,215.9 L191.0,220.0 L195.1,221.6 L200.9,220.7 L202.7,222.9 L206.1,235.7 L208.9,239.6 L205.2,241.0 L199.9,240.1 L195.9,237.3 L188.0,237.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.JU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>JU</postal-code>
+    <name>Jaunpils</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>22.9132</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.7686</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>lv-ju</hc-key>
+    <hc-a2>JU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KG" d="M390.8,252.3 L390.3,255.2 L393.2,254.4 L392.6,258.3 L383.7,260.4 L363.0,266.6 L355.7,266.8 L357.1,262.7 L359.5,261.1 L356.1,259.0 L355.6,257.0 L353.0,256.8 L350.1,253.4 L349.1,246.4 L353.3,243.7 L350.1,238.4 L345.8,238.5 L342.5,237.4 L342.8,230.6 L343.9,226.3 L341.5,219.4 L346.6,219.5 L348.7,220.2 L351.6,224.9 L355.7,228.6 L359.2,229.7 L361.9,233.2 L365.3,229.4 L367.4,225.5 L366.9,222.0 L369.4,220.8 L370.4,216.2 L380.7,221.8 L375.9,227.7 L374.0,228.5 L373.4,232.8 L369.1,236.8 L372.4,237.9 L375.6,240.2 L379.3,248.4 L387.6,253.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>KG</postal-code>
+    <name>Keguma</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.729</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.6541</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>lv-kg</hc-key>
+    <hc-a2>KG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.BD" d="M342.8,230.6 L342.5,237.4 L338.8,238.9 L332.4,244.3 L326.7,246.5 L320.9,244.1 L317.9,241.5 L317.3,239.7 L314.7,240.0 L312.3,237.5 L310.7,236.8 L311.3,232.8 L314.5,231.0 L316.9,233.1 L318.4,231.9 L316.9,225.1 L320.8,224.4 L325.7,224.7 L332.2,226.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.BD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>BD</postal-code>
+    <name>Baldones</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.3555</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.7316</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-bd</hc-key>
+    <hc-a2>BD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KK" d="M341.5,219.4 L343.9,226.3 L342.8,230.6 L332.2,226.5 L325.7,224.7 L320.8,224.4 L316.9,225.1 L318.4,231.9 L316.9,233.1 L314.5,231.0 L311.3,232.8 L310.7,236.8 L306.6,235.0 L296.1,236.3 L293.5,238.2 L292.5,236.2 L292.3,234.6 L293.2,229.1 L296.1,228.2 L300.9,229.1 L301.0,226.0 L303.6,222.3 L304.4,218.9 L301.4,214.5 L301.1,209.3 L303.4,206.5 L307.5,204.8 L311.4,208.3 L309.5,210.8 L313.4,217.6 L322.3,218.2 L325.2,213.6 L329.5,215.1 L335.0,215.9 L338.0,216.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>KK</postal-code>
+    <name>Kekavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.2628</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.8054</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.18</hc-middle-x>
+    <hc-middle-y>0.85</hc-middle-y>
+    <hc-key>lv-kk</hc-key>
+    <hc-a2>KK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.OL" d="M295.9,242.0 L292.8,240.7 L293.5,238.2 L296.1,236.3 L306.6,235.0 L310.7,236.8 L312.3,237.5 L314.7,240.0 L310.3,241.2 L308.0,245.1 L305.2,245.4 L301.0,243.0 Z M270.7,222.5 L271.9,218.9 L276.0,222.0 L278.9,218.0 L281.8,215.2 L293.9,213.6 L299.0,207.6 L299.4,210.0 L301.1,209.3 L301.4,214.5 L304.4,218.9 L303.6,222.3 L301.0,226.0 L300.9,229.1 L296.1,228.2 L293.2,229.1 L292.3,234.6 L287.1,235.0 L284.4,232.0 L276.3,233.3 L273.7,234.8 L269.4,232.2 L269.8,227.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.OL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>OL</postal-code>
+    <name>Olaines</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>23.9561</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.789</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>lv-ol</hc-key>
+    <hc-a2>OL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.BB" d="M278.9,218.0 L276.0,222.0 L271.9,218.9 L270.7,222.5 L267.4,218.7 L264.8,213.4 L261.3,209.5 L257.2,207.0 L245.8,206.0 L244.5,199.0 L249.9,200.7 L253.8,201.1 L256.0,199.5 L258.4,200.2 L264.8,199.6 L270.6,197.7 L271.8,195.3 L273.8,196.5 L279.8,195.6 L286.7,192.5 L288.4,189.3 L292.8,191.4 L291.6,194.0 L287.3,198.5 L283.2,202.7 L275.8,208.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.BB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>BB</postal-code>
+    <name>Babites</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>23.7639</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.8913</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-bb</hc-key>
+    <hc-a2>BB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.ML" d="M369.4,198.8 L370.1,193.2 L370.2,189.2 L372.8,189.9 L377.0,185.3 L376.0,180.7 L376.8,177.6 L374.6,171.1 L375.7,169.1 L377.7,172.0 L381.2,173.2 L385.8,173.3 L386.3,176.6 L391.2,180.5 L392.0,182.0 L396.2,184.2 L401.5,188.8 L400.6,190.4 L401.1,195.5 L391.1,198.5 L383.3,197.5 L379.9,198.6 L377.3,200.7 L372.5,200.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.ML</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>ML</postal-code>
+    <name>Malpils</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.9581</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.0017</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>lv-ml</hc-key>
+    <hc-a2>ML</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RP" d="M370.2,189.2 L370.1,193.2 L369.4,198.8 L360.7,205.3 L358.6,205.6 L347.3,207.3 L342.1,205.0 L340.9,205.6 L341.3,208.8 L340.2,210.2 L336.2,207.3 L333.4,200.8 L331.2,200.5 L328.0,197.4 L330.2,193.3 L330.7,188.6 L335.5,187.3 L343.1,187.3 L342.0,178.6 L346.2,177.2 L347.6,177.3 L352.3,176.9 L356.1,185.3 L361.6,189.3 L366.1,187.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>RP</postal-code>
+    <name>Ropazu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.5818</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.9649</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>lv-rp</hc-key>
+    <hc-a2>RP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SS" d="M331.2,200.5 L333.4,200.8 L336.2,207.3 L334.5,207.2 L335.3,211.0 L335.0,215.9 L329.5,215.1 L325.2,213.6 L322.3,218.2 L313.4,217.6 L309.5,210.8 L311.4,208.3 L317.3,209.8 L315.2,204.4 L315.0,199.9 L323.6,202.4 L324.6,205.8 L326.3,203.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>SS</postal-code>
+    <name>Salaspils</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.365</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.8708</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.IK" d="M335.0,215.9 L335.3,211.0 L334.5,207.2 L336.2,207.3 L340.2,210.2 L341.3,208.8 L340.9,205.6 L342.1,205.0 L347.3,207.3 L358.6,205.6 L359.5,209.2 L362.7,210.8 L359.4,215.5 L356.1,213.0 L348.7,220.2 L346.6,219.5 L341.5,219.4 L338.0,216.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.IK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>IK</postal-code>
+    <name>Ikskiles</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.5695</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.8545</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-ik</hc-key>
+    <hc-a2>IK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SU" d="M327.8,156.0 L325.6,155.8 L323.9,153.1 L328.4,147.7 L330.4,142.9 L331.1,135.9 L330.7,127.3 L333.3,132.1 L332.9,137.1 L336.1,136.5 L338.6,146.3 L334.6,146.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>SU</postal-code>
+    <name>Saulkrastu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.4305</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.2552</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.23</hc-middle-x>
+    <hc-middle-y>0.77</hc-middle-y>
+    <hc-key>lv-su</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SP" d="M328.0,197.4 L331.2,200.5 L326.3,203.3 L324.6,205.8 L323.6,202.4 L315.0,199.9 L317.2,197.2 L321.1,195.5 L323.1,193.1 L326.1,195.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>SP</postal-code>
+    <name>Stopinu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.3323</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.9362</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>lv-sp</hc-key>
+    <hc-a2>SP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AM" d="M401.1,195.5 L400.6,190.4 L401.5,188.8 L403.3,187.1 L403.4,184.4 L399.9,177.9 L403.3,175.1 L397.8,167.9 L403.6,166.4 L407.2,161.5 L404.9,158.5 L401.9,147.4 L396.7,146.4 L395.4,144.0 L399.1,140.7 L406.2,140.8 L408.5,137.2 L408.5,135.3 L413.8,138.0 L416.8,141.7 L416.8,146.3 L420.8,146.3 L421.3,150.9 L422.8,153.8 L425.8,154.0 L429.0,156.7 L430.3,159.1 L433.9,159.9 L437.3,159.0 L440.3,160.5 L438.3,164.9 L443.4,167.0 L445.7,172.1 L445.6,174.5 L442.9,177.3 L439.3,182.6 L437.5,182.6 L435.4,180.0 L434.1,181.6 L435.8,184.8 L435.2,187.2 L435.2,187.2 L433.8,187.2 L429.9,187.8 L430.5,191.6 L428.1,195.3 L425.2,197.4 L422.9,196.7 L421.2,191.1 L418.6,190.6 L414.5,192.8 L409.8,198.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AM</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>AM</postal-code>
+    <name>Amatas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.3384</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.0794</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>lv-am</hc-key>
+    <hc-a2>AM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VM" d="M428.8,93.1 L428.4,96.9 L426.5,98.5 L421.4,98.1 L420.9,94.8 L421.4,91.0 L427.1,89.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VE</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>VM</postal-code>
+    <name>Valmiera</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.4161</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.5374</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lv-vm</hc-key>
+    <hc-a2>VM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.BE" d="M421.4,98.1 L426.5,98.5 L428.4,96.9 L428.8,93.1 L436.0,84.7 L439.1,83.3 L441.0,79.4 L444.7,78.3 L450.7,78.9 L453.5,83.5 L452.3,85.7 L456.3,86.7 L459.1,89.6 L454.6,90.8 L455.5,93.0 L458.9,93.6 L461.7,92.3 L462.9,94.4 L458.8,98.9 L453.4,99.5 L447.9,105.2 L442.6,104.7 L435.7,110.1 L433.2,108.1 L430.8,109.5 L425.7,108.7 L423.7,109.8 L421.7,102.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.BE</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>BE</postal-code>
+    <name>Beverinas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.592</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.5293</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>lv-be</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.ER" d="M433.8,187.2 L435.2,187.2 L435.2,187.2 L441.1,189.2 L444.6,188.8 L448.0,186.9 L447.3,192.4 L456.4,186.0 L461.4,188.9 L464.6,187.8 L468.6,191.9 L471.6,191.6 L478.2,198.2 L477.7,201.5 L472.3,202.7 L469.3,201.7 L461.4,204.6 L459.0,208.8 L460.8,215.5 L459.0,215.9 L459.1,220.2 L457.6,223.5 L454.1,225.7 L451.7,222.5 L445.6,220.3 L441.5,220.4 L436.1,218.7 L435.6,213.7 L433.8,209.4 L440.6,208.0 L436.8,204.0 L438.1,197.9 L435.7,191.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.ER</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>ER</postal-code>
+    <name>Erglu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.6656</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>56.8954</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>lv-er</hc-key>
+    <hc-a2>ER</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VR" d="M421.4,91.0 L420.9,94.8 L421.4,98.1 L421.7,102.4 L423.7,109.8 L423.8,115.1 L422.8,119.4 L420.0,119.7 L416.7,116.2 L412.0,116.4 L404.8,113.6 L399.4,106.7 L399.4,104.4 L397.7,101.0 L395.4,102.2 L393.6,100.1 L393.7,98.3 L391.2,98.2 L390.4,94.1 L388.1,90.7 L384.6,89.2 L378.2,90.7 L374.8,86.0 L374.8,78.8 L379.8,80.9 L385.1,76.6 L388.1,76.4 L389.8,78.4 L393.8,77.6 L391.7,74.5 L394.5,73.6 L397.1,73.5 L403.4,69.9 L404.3,73.1 L406.8,74.2 L411.0,79.8 L411.9,83.6 L415.2,84.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VR</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>VR</postal-code>
+    <name>Kocenu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.2116</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.5415</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lv-vr</hc-key>
+    <hc-a2>VR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KM" d="M380.5,144.5 L379.7,146.2 L377.5,149.3 L376.0,152.7 L370.3,155.7 L368.6,158.6 L367.9,162.7 L366.3,163.9 L365.7,161.8 L362.2,161.8 L355.6,165.7 L356.3,158.0 L354.7,156.3 L351.2,156.8 L350.7,152.3 L354.9,151.0 L356.9,148.8 L359.9,148.0 L357.1,137.7 L353.6,135.3 L352.5,131.9 L356.9,130.5 L358.6,126.8 L357.2,119.8 L362.8,116.1 L363.1,118.6 L370.7,118.7 L375.4,128.7 L377.6,130.3 L376.2,133.6 L380.7,138.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>KM</postal-code>
+    <name>Krimuldas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.7863</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.2798</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>lv-km</hc-key>
+    <hc-a2>KM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.LG" d="M377.5,149.3 L379.7,146.2 L380.5,144.5 L385.1,145.8 L391.4,145.1 L395.4,144.0 L396.7,146.4 L401.9,147.4 L404.9,158.5 L407.2,161.5 L403.6,166.4 L397.8,167.9 L386.0,165.5 L384.5,156.3 L380.8,151.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.LG</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>LG</postal-code>
+    <name>Ligatnes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.0726</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.1775</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lv-lg</hc-key>
+    <hc-a2>LG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.BT" d="M427.7,49.3 L431.3,49.2 L436.7,48.5 L440.8,51.7 L442.8,54.4 L446.9,55.6 L449.5,57.7 L448.0,60.8 L443.4,61.2 L441.6,65.0 L441.7,69.9 L435.1,71.7 L433.3,74.0 L435.5,76.9 L441.0,79.4 L439.1,83.3 L436.0,84.7 L428.8,93.1 L427.1,89.8 L421.4,91.0 L415.2,84.9 L411.9,83.6 L411.0,79.8 L406.8,74.2 L404.3,73.1 L403.4,69.9 L397.1,73.5 L394.5,73.6 L393.7,69.8 L394.3,67.5 L392.7,64.4 L394.8,59.2 L392.7,53.8 L387.1,48.8 L388.6,45.6 L393.9,45.8 L395.9,48.0 L397.7,46.6 L395.7,41.5 L398.5,40.3 L400.0,42.2 L406.1,47.0 L408.2,47.8 L410.2,48.5 L410.6,51.5 L420.6,49.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.BT</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>BT</postal-code>
+    <name>Burtnieku</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.3393</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.6809</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>lv-bt</hc-key>
+    <hc-a2>BT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.NA" d="M436.7,48.5 L431.3,49.2 L427.7,49.3 L427.3,44.7 L424.1,44.7 L423.0,39.3 L420.5,33.1 L418.4,33.4 L416.3,29.7 L410.1,28.1 L409.2,23.8 L415.1,14.4 L416.9,18.8 L422.2,17.8 L423.6,11.3 L427.1,15.5 L430.8,17.7 L434.1,18.4 L435.8,20.3 L436.7,23.9 L438.7,26.4 L442.9,27.9 L446.7,27.1 L445.7,36.0 L442.0,35.6 L439.1,32.7 L433.6,35.3 L428.7,34.6 L428.4,37.0 L432.7,40.2 L437.3,45.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.NA</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>NA</postal-code>
+    <name>Nauksenu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.4406</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.926</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>lv-na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.CE" d="M408.5,135.3 L408.4,129.4 L417.1,133.0 L416.0,135.2 L417.9,136.0 L423.8,134.0 L430.6,138.2 L434.0,143.0 L434.1,148.7 L436.2,150.0 L439.7,147.5 L441.2,150.7 L440.3,160.5 L437.3,159.0 L433.9,159.9 L430.3,159.1 L429.0,156.7 L425.8,154.0 L422.8,153.8 L421.3,150.9 L420.8,146.3 L416.8,146.3 L416.8,141.7 L413.8,138.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.CS</hasc>
+    <alt-name>Wenden</alt-name>
+    <woe-id>-2346022</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>CE</postal-code>
+    <name>Cesu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.4307</longitude>
+    <woe-name>Vidzeme</woe-name>
+    <latitude>57.2396</latitude>
+    <woe-label>Cesu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>lv-ce</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.PG" d="M408.4,129.4 L408.5,135.3 L408.5,137.2 L406.2,140.8 L399.1,140.7 L395.4,144.0 L391.4,145.1 L385.1,145.8 L380.5,144.5 L380.7,138.9 L376.2,133.6 L377.6,130.3 L375.4,128.7 L370.7,118.7 L367.7,115.9 L368.8,114.6 L372.0,115.7 L375.8,114.2 L384.5,108.5 L387.4,104.4 L390.5,103.2 L392.0,100.5 L393.6,100.1 L395.4,102.2 L397.7,101.0 L399.4,104.4 L399.4,106.7 L404.8,113.6 L412.0,116.4 L416.7,116.2 L420.0,119.7 L422.8,119.4 L420.0,124.5 L413.4,124.1 L409.6,126.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.PG</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>PG</postal-code>
+    <name>Pargaujas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.0767</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.3575</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-pg</hc-key>
+    <hc-a2>PG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.PU" d="M422.8,119.4 L423.8,115.1 L423.7,109.8 L425.7,108.7 L430.8,109.5 L433.2,108.1 L435.7,110.1 L442.6,104.7 L447.9,105.2 L447.2,109.5 L445.1,115.5 L443.2,117.2 L443.0,120.5 L437.7,120.6 L434.6,123.7 L434.8,126.1 L436.7,127.4 L438.9,133.1 L443.0,136.5 L443.3,140.1 L443.3,143.1 L439.7,147.5 L436.2,150.0 L434.1,148.7 L434.0,143.0 L430.6,138.2 L423.8,134.0 L417.9,136.0 L416.0,135.2 L417.1,133.0 L408.4,129.4 L409.6,126.3 L413.4,124.1 L420.0,124.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.PU</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>PU</postal-code>
+    <name>Priekulu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.4447</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.3657</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lv-pu</hc-key>
+    <hc-a2>PU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VB" d="M440.3,160.5 L441.2,150.7 L439.7,147.5 L443.3,143.1 L443.3,140.1 L446.9,140.0 L449.8,138.3 L453.5,139.5 L456.9,137.9 L457.7,137.5 L459.2,137.3 L457.7,143.2 L457.1,148.7 L459.7,151.1 L459.1,156.3 L460.2,159.0 L466.4,164.5 L468.6,164.4 L470.5,168.5 L474.5,168.3 L472.5,176.6 L472.2,180.8 L475.0,186.5 L474.6,189.6 L471.6,191.6 L468.6,191.9 L464.6,187.8 L461.4,188.9 L456.4,186.0 L447.3,192.4 L448.0,186.9 L444.6,188.8 L441.1,189.2 L435.2,187.2 L435.8,184.8 L434.1,181.6 L435.4,180.0 L437.5,182.6 L439.3,182.6 L442.9,177.3 L445.6,174.5 L445.7,172.1 L443.4,167.0 L438.3,164.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VB</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>VB</postal-code>
+    <name>Vecpiebalgas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.7024</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.108</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>lv-vb</hc-key>
+    <hc-a2>VB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SM" d="M459.2,137.3 L457.7,137.5 L456.9,137.9 L455.6,134.2 L456.2,129.0 L457.2,127.1 L454.3,123.0 L452.6,119.2 L453.4,116.2 L447.9,105.2 L453.4,99.5 L458.8,98.9 L470.0,100.9 L473.8,102.5 L475.9,99.0 L475.8,95.7 L474.4,93.1 L477.3,89.7 L484.1,87.8 L488.2,87.6 L490.8,85.9 L493.9,89.6 L501.9,90.2 L502.5,93.6 L507.7,92.5 L508.8,97.4 L508.9,102.6 L510.3,102.9 L507.5,107.3 L510.1,110.5 L508.3,116.5 L508.6,119.1 L506.4,120.9 L506.5,126.8 L506.9,129.0 L505.6,132.0 L505.4,135.3 L493.1,136.7 L490.3,136.5 L486.4,138.8 L484.9,136.3 L480.0,134.7 L469.5,135.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SM</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>SM</postal-code>
+    <name>Smiltenes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.0091</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.4025</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>lv-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.LU" d="M685.7,262.7 L686.9,265.8 L692.3,271.9 L693.6,275.1 L684.2,276.5 L679.5,274.1 L675.4,275.3 L676.9,280.1 L679.1,283.6 L677.2,285.1 L673.7,284.8 L666.6,293.3 L663.2,295.3 L665.8,301.5 L670.8,301.2 L672.1,297.1 L678.9,292.6 L682.8,295.6 L687.9,298.0 L690.7,301.8 L686.5,313.6 L682.7,312.8 L679.9,314.9 L671.5,318.8 L665.7,319.5 L662.7,319.0 L661.5,317.2 L658.4,317.5 L652.9,315.9 L647.3,310.3 L650.3,307.6 L648.8,304.0 L651.3,300.0 L648.6,294.2 L648.3,289.3 L643.4,286.4 L641.5,284.1 L641.2,279.2 L638.8,279.7 L634.9,273.2 L633.7,269.6 L630.0,273.0 L627.5,266.2 L627.4,263.6 L629.2,261.2 L633.4,259.7 L635.4,255.8 L633.9,252.6 L638.0,252.5 L643.2,253.6 L646.5,253.4 L650.0,259.1 L653.1,261.2 L654.9,257.5 L658.3,255.5 L663.5,259.3 L665.8,264.5 L669.1,267.1 L671.4,263.3 L675.4,259.5 L681.7,260.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.LZ</hasc>
+    <alt-name>Ludsen</alt-name>
+    <woe-id>-2346032</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>LU</postal-code>
+    <name>Ludzas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.796</longitude>
+    <woe-name>Ludza</woe-name>
+    <latitude>56.4059</latitude>
+    <woe-label>Ludzas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>lv-lu</hc-key>
+    <hc-a2>LU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.CI" d="M633.9,252.6 L633.8,248.5 L635.4,245.0 L636.2,238.7 L640.9,233.0 L652.0,231.5 L656.2,235.8 L657.7,231.7 L657.3,224.9 L659.4,222.1 L661.5,222.1 L663.3,225.0 L673.0,231.1 L674.2,234.0 L675.4,245.5 L678.7,250.0 L686.6,253.3 L689.1,256.5 L686.1,260.6 L685.7,262.7 L681.7,260.0 L675.4,259.5 L671.4,263.3 L669.1,267.1 L665.8,264.5 L663.5,259.3 L658.3,255.5 L654.9,257.5 L653.1,261.2 L650.0,259.1 L646.5,253.4 L643.2,253.6 L638.0,252.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.CI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>CI</postal-code>
+    <name>Ciblas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.8618</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.6132</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-ci</hc-key>
+    <hc-a2>CI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.L" d="M635.4,245.0 L633.8,248.5 L633.9,252.6 L635.4,255.8 L633.4,259.7 L629.2,261.2 L627.4,263.6 L627.5,266.2 L630.0,273.0 L633.7,269.6 L634.9,273.2 L638.8,279.7 L641.2,279.2 L641.5,284.1 L643.4,286.4 L648.3,289.3 L648.6,294.2 L651.3,300.0 L648.8,304.0 L650.3,307.6 L647.3,310.3 L645.6,308.8 L637.6,310.5 L634.3,307.4 L633.3,309.7 L630.0,312.1 L626.1,313.2 L626.3,316.8 L622.8,317.3 L615.8,317.1 L611.6,318.6 L597.6,318.3 L593.0,321.9 L593.1,325.1 L588.5,324.8 L586.9,323.7 L585.7,317.6 L583.0,315.1 L581.2,309.5 L578.5,306.0 L576.8,301.1 L579.8,299.7 L581.2,297.6 L577.1,290.7 L571.6,284.2 L574.0,277.8 L580.4,276.9 L584.4,277.2 L585.0,274.0 L581.3,264.3 L580.8,257.6 L578.3,252.3 L571.8,251.2 L568.6,245.0 L565.5,241.6 L561.2,240.4 L557.7,237.9 L558.5,233.2 L569.6,213.6 L571.4,211.2 L575.2,214.8 L584.0,216.0 L584.9,215.1 L593.7,213.6 L596.3,216.6 L611.0,217.8 L617.1,217.1 L622.1,219.1 L623.9,224.4 L625.7,232.6 L624.4,236.0 L626.3,239.5 L627.6,239.0 L631.5,240.7 Z M608.2,268.9 L613.5,271.2 L614.9,267.7 L615.5,260.0 L615.2,257.2 L612.9,256.3 L610.1,257.7 L607.0,264.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346036</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>L</postal-code>
+    <name>Rezeknes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.2633</longitude>
+    <woe-name>Latgale</woe-name>
+    <latitude>56.3554</latitude>
+    <woe-label>Rezeknes Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>lv-l</hc-key>
+    <hc-a2>RE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VG" d="M449.5,57.7 L446.9,55.6 L442.8,54.4 L440.8,51.7 L436.7,48.5 L437.3,45.9 L432.7,40.2 L428.4,37.0 L428.7,34.6 L433.6,35.3 L439.1,32.7 L442.0,35.6 L445.7,36.0 L446.7,27.1 L452.6,25.4 L454.0,27.8 L456.3,34.8 L458.7,37.0 L478.2,38.1 L480.3,41.1 L479.3,44.8 L480.6,50.5 L491.1,58.8 L494.3,62.3 L503.6,76.5 L506.9,80.1 L512.0,83.3 L512.6,84.9 L511.3,90.7 L513.4,94.9 L508.8,97.4 L507.7,92.5 L502.5,93.6 L501.9,90.2 L493.9,89.6 L490.8,85.9 L488.2,87.6 L484.1,87.8 L477.3,89.7 L474.4,93.1 L469.8,93.3 L469.1,89.9 L470.3,86.5 L470.0,83.1 L467.7,80.6 L472.9,79.6 L475.3,77.4 L477.8,68.4 L465.7,66.7 L465.4,63.3 L462.6,62.9 L464.2,54.8 L453.9,58.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VA</hasc>
+    <alt-name>Valgamaa|Valga maakond</alt-name>
+    <woe-id>-2346041</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>VG</postal-code>
+    <name>Valkas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.0635</longitude>
+    <woe-name>Valga</woe-name>
+    <latitude>57.6587</latitude>
+    <woe-label>Valkas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lv-vg</hc-key>
+    <hc-a2>VG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.BU" d="M294.4,274.3 L296.8,274.2 L300.5,269.9 L300.3,268.5 L307.1,270.4 L315.2,274.4 L316.9,271.3 L321.5,268.5 L325.8,268.2 L329.2,269.4 L333.7,275.6 L334.8,279.0 L338.2,277.4 L342.0,282.4 L343.8,290.1 L342.3,292.3 L335.7,295.1 L336.3,297.6 L341.4,298.5 L337.9,303.8 L339.1,307.5 L343.7,305.3 L348.0,307.4 L344.8,311.3 L335.9,316.1 L332.7,315.3 L326.6,310.8 L323.5,309.6 L320.5,310.1 L308.8,316.3 L303.2,316.2 L300.0,314.4 L290.9,307.2 L296.1,304.0 L296.6,300.5 L299.7,298.4 L299.2,295.0 L301.5,295.0 L304.9,297.4 L307.7,294.3 L296.3,287.5 L295.6,278.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.BK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346021</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>BU</postal-code>
+    <name>Bauska</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>24.269</longitude>
+    <woe-name>Bauska</woe-name>
+    <latitude>56.4223</latitude>
+    <woe-label>Bauskas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>lv-bu</hc-key>
+    <hc-a2>BU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.DG" d="M515.5,325.9 L518.8,324.7 L523.2,323.3 L526.7,325.5 L530.5,325.9 L533.4,328.0 L535.8,334.1 L539.0,333.7 L540.4,329.7 L547.3,335.6 L549.4,333.1 L553.3,334.6 L556.4,337.0 L561.8,336.1 L564.9,333.8 L568.8,334.3 L572.8,333.2 L573.2,337.4 L577.4,345.2 L581.1,344.8 L579.6,348.2 L581.4,353.9 L578.0,354.8 L579.3,361.1 L580.6,364.0 L578.8,367.2 L580.7,367.9 L579.2,372.1 L579.1,377.3 L583.4,378.8 L583.9,385.4 L581.8,386.8 L576.5,394.0 L571.3,404.5 L569.4,406.9 L561.7,411.2 L559.5,411.5 L551.6,409.4 L549.2,410.8 L547.3,414.5 L541.7,414.3 L536.1,413.0 L522.3,406.9 L516.0,402.4 L510.5,393.2 L513.5,391.7 L522.4,390.6 L520.9,385.5 L514.9,378.5 L518.9,373.7 L515.6,371.0 L516.0,368.1 L520.4,363.6 L523.8,365.5 L525.6,361.3 L522.7,353.8 L523.0,349.9 L521.7,347.9 L520.3,341.4 L519.6,334.3 L518.3,329.4 Z M546.3,382.2 L546.7,378.6 L549.4,374.4 L547.4,373.4 L547.2,366.0 L545.4,363.3 L540.4,369.6 L533.6,368.8 L530.4,372.1 L535.2,375.7 L535.9,382.6 L538.8,387.1 L544.9,384.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.DP</hasc>
+    <alt-name>Dünaburg|Dvinsk</alt-name>
+    <woe-id>-2346023</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>DG</postal-code>
+    <name>Daugavpils</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>26.589</longitude>
+    <woe-name>Daugavpils</woe-name>
+    <latitude>56.043</latitude>
+    <woe-label>Daugavpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>lv-dg</hc-key>
+    <hc-a2>DG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.LM" d="M330.7,127.3 L329.7,118.2 L338.3,115.4 L340.6,109.8 L345.0,109.1 L346.8,106.9 L344.0,102.6 L342.2,97.0 L344.4,93.6 L338.5,93.2 L339.2,91.2 L337.3,89.1 L333.2,89.1 L332.2,85.2 L332.5,79.9 L331.6,71.2 L340.7,69.7 L343.0,71.9 L345.2,70.7 L345.0,62.9 L349.3,63.4 L348.3,56.9 L352.9,53.7 L357.0,55.3 L362.2,60.3 L367.0,60.1 L369.7,62.4 L369.4,65.8 L370.1,71.6 L375.8,74.0 L374.8,78.8 L374.8,86.0 L378.2,90.7 L384.6,89.2 L388.1,90.7 L390.4,94.1 L391.2,98.2 L393.7,98.3 L393.6,100.1 L392.0,100.5 L390.5,103.2 L387.4,104.4 L384.5,108.5 L375.8,114.2 L372.0,115.7 L368.8,114.6 L367.7,115.9 L370.7,118.7 L363.1,118.6 L362.8,116.1 L357.2,119.8 L358.6,126.8 L356.9,130.5 L352.5,131.9 L353.6,135.3 L357.1,137.7 L359.9,148.0 L356.9,148.8 L353.3,146.3 L351.2,141.4 L347.1,137.4 L345.9,133.8 L344.4,132.7 L337.1,136.7 L336.1,136.5 L332.9,137.1 L333.3,132.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.LI</hasc>
+    <alt-name>Limbazi</alt-name>
+    <woe-id>-2346031</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>LM</postal-code>
+    <name>Limba?i</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.6925</longitude>
+    <woe-name>Limba?i</woe-name>
+    <latitude>57.5879</latitude>
+    <woe-label>Limbazu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>lv-lm</hc-key>
+    <hc-a2>LM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.GU" d="M499.1,170.2 L492.9,171.2 L497.4,159.7 L489.6,148.4 L487.0,147.2 L482.4,146.6 L481.4,142.7 L482.3,141.6 L486.5,141.3 L486.4,138.8 L490.3,136.5 L493.1,136.7 L505.4,135.3 L505.6,132.0 L506.9,129.0 L506.5,126.8 L514.3,128.0 L520.3,126.1 L520.3,123.5 L518.5,124.4 L517.7,122.3 L524.8,118.5 L524.8,113.2 L528.9,112.9 L531.2,114.6 L535.9,115.2 L539.9,122.2 L544.1,124.8 L544.7,127.3 L547.8,129.5 L552.0,126.7 L560.4,127.5 L562.0,130.1 L565.8,129.2 L573.6,128.8 L581.2,134.7 L580.4,138.2 L590.0,141.6 L587.7,146.4 L576.9,161.7 L574.3,165.1 L572.0,170.5 L569.9,173.2 L563.6,179.0 L564.7,181.6 L563.8,185.1 L554.1,183.8 L549.1,187.2 L547.9,186.6 L539.7,191.2 L536.4,192.2 L535.4,186.9 L532.6,179.0 L529.0,173.8 L525.6,173.0 L517.0,176.2 L513.0,171.6 L512.1,167.1 L507.5,169.1 L502.1,168.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.GU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346025</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>GU</postal-code>
+    <name>Gulbene</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.5803</longitude>
+    <woe-name>Gulbene</woe-name>
+    <latitude>57.1723</latitude>
+    <woe-label>Gulbenes Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>lv-gu</hc-key>
+    <hc-a2>GU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.MA" d="M492.9,171.2 L499.1,170.2 L499.6,174.4 L498.7,178.5 L500.0,187.2 L498.7,192.7 L501.5,192.8 L503.7,196.9 L508.0,196.2 L509.7,194.5 L513.5,196.0 L516.6,195.9 L515.9,192.9 L519.7,189.0 L520.7,185.7 L518.6,183.0 L517.0,176.2 L525.6,173.0 L529.0,173.8 L532.6,179.0 L535.4,186.9 L536.4,192.2 L528.0,208.8 L532.3,213.8 L532.0,216.0 L534.3,217.8 L536.6,216.4 L538.3,217.1 L541.2,214.6 L542.1,212.1 L546.9,205.9 L547.4,202.9 L550.4,199.5 L551.8,201.6 L564.6,199.5 L566.7,201.9 L567.0,204.0 L571.7,205.2 L573.7,208.4 L572.9,209.5 L571.4,211.2 L569.6,213.6 L558.5,233.2 L557.7,237.9 L551.6,233.5 L551.2,230.8 L545.6,232.1 L541.9,236.9 L538.9,236.7 L535.1,239.3 L521.0,239.8 L520.0,247.1 L517.1,252.8 L512.2,255.9 L511.1,251.8 L509.3,250.8 L505.7,252.1 L503.1,249.2 L502.3,246.6 L496.5,244.8 L489.7,249.1 L486.3,249.3 L484.3,247.6 L482.4,243.1 L477.6,248.1 L475.8,242.8 L477.7,240.5 L474.9,237.9 L467.9,235.4 L467.0,229.0 L469.2,225.3 L468.3,222.1 L460.8,215.5 L459.0,208.8 L461.4,204.6 L469.3,201.7 L472.3,202.7 L477.7,201.5 L478.2,198.2 L471.6,191.6 L474.6,189.6 L475.0,186.5 L472.2,180.8 L472.5,176.6 L474.5,168.3 L477.0,167.8 L484.0,171.2 L486.5,171.6 L487.9,169.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.MD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346033</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>MA</postal-code>
+    <name>Madona</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.2344</longitude>
+    <woe-name>Madona</woe-name>
+    <latitude>56.805</latitude>
+    <woe-label>Madonas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>lv-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.BL" d="M571.4,211.2 L572.9,209.5 L573.7,208.4 L576.2,205.0 L576.5,202.8 L581.3,201.6 L593.8,205.0 L597.1,204.8 L599.2,198.8 L605.2,192.9 L609.0,191.2 L606.9,183.7 L602.0,185.2 L601.2,181.6 L604.3,180.3 L606.5,175.8 L607.3,169.4 L602.1,169.3 L590.3,165.5 L587.5,166.4 L585.5,165.3 L585.3,161.4 L576.9,161.7 L587.7,146.4 L590.0,141.6 L595.9,139.9 L598.4,137.3 L601.0,137.6 L605.5,132.0 L608.1,130.6 L613.2,134.1 L618.2,131.9 L620.7,131.9 L617.1,137.2 L615.4,142.9 L613.8,152.1 L619.1,159.7 L625.0,165.4 L627.6,165.6 L629.0,172.3 L632.4,171.3 L636.4,171.9 L637.2,175.4 L640.1,180.4 L635.1,181.5 L626.5,187.1 L628.5,190.6 L624.5,194.3 L619.8,194.2 L617.3,196.7 L619.2,199.8 L620.6,205.1 L618.8,205.5 L611.5,212.1 L611.8,217.5 L611.0,217.8 L596.3,216.6 L593.7,213.6 L584.9,215.1 L584.0,216.0 L575.2,214.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.BV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346020</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>BL</postal-code>
+    <name>Balvu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.4348</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>57.0151</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>lv-bl</hc-key>
+    <hc-a2>BL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.TA" d="M198.5,115.6 L201.9,118.7 L199.5,123.3 L191.3,129.1 L194.4,135.5 L203.8,138.0 L204.4,142.4 L206.1,145.8 L202.2,150.7 L195.3,155.2 L191.8,161.9 L189.9,163.2 L182.4,162.5 L180.1,163.1 L175.6,167.3 L164.3,170.1 L164.8,179.3 L163.5,183.8 L159.3,182.6 L156.2,184.9 L151.4,183.9 L148.7,183.1 L142.3,183.5 L139.5,182.6 L137.7,178.6 L137.9,172.3 L136.7,166.8 L128.7,160.5 L126.2,156.0 L123.5,154.7 L121.9,151.0 L122.5,148.7 L126.3,143.4 L130.3,139.7 L132.5,138.7 L133.7,135.7 L131.7,127.7 L131.6,119.6 L129.5,116.6 L131.8,111.6 L135.9,110.5 L137.9,114.5 L140.9,114.6 L145.0,113.1 L149.9,114.4 L152.7,106.1 L156.9,99.9 L164.2,99.2 L170.5,102.9 L168.9,107.2 L171.4,110.9 L174.9,107.0 L182.5,115.8 L184.6,119.4 L189.0,121.9 L192.7,121.6 L194.2,117.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.TL</hasc>
+    <alt-name>Talsen</alt-name>
+    <woe-id>-2346039</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>TA</postal-code>
+    <name>Talsi</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>22.6192</longitude>
+    <woe-name>Talsi</woe-name>
+    <latitude>57.317</latitude>
+    <woe-label>Talsu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.JG" d="M243.8,219.6 L241.5,207.7 L245.8,206.0 L257.2,207.0 L261.3,209.5 L264.8,213.4 L267.4,218.7 L270.7,222.5 L269.8,227.4 L269.4,232.2 L264.2,233.4 L264.2,236.2 L261.3,237.1 L262.4,240.3 L265.0,238.7 L267.0,241.5 L262.5,244.3 L258.7,243.7 L256.2,245.1 L257.4,248.5 L261.8,252.0 L261.2,256.9 L264.7,258.6 L267.7,255.9 L271.5,254.2 L270.7,250.9 L272.8,249.1 L276.2,252.4 L279.8,254.6 L284.3,255.8 L289.2,265.2 L289.8,271.4 L292.0,274.2 L289.1,275.0 L285.0,279.4 L280.7,281.1 L277.4,286.1 L278.3,288.8 L276.9,294.1 L280.6,293.8 L280.3,303.8 L275.8,303.3 L269.2,304.8 L266.2,304.3 L266.0,301.4 L264.4,299.9 L255.1,299.9 L252.0,300.8 L246.2,304.2 L242.7,304.0 L232.7,299.6 L239.0,294.9 L240.9,290.6 L236.3,281.5 L238.0,278.3 L236.5,275.6 L239.6,273.5 L240.8,266.7 L238.5,263.3 L238.7,261.0 L242.6,259.4 L242.9,257.2 L235.8,255.9 L239.5,249.9 L243.5,246.6 L242.8,242.4 L237.0,238.5 L241.1,233.7 L245.3,231.6 L247.4,228.7 L245.6,221.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.JL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346027</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>JG</postal-code>
+    <name>Jelgava</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>23.6461</longitude>
+    <woe-name>Jelgava</woe-name>
+    <latitude>56.4939</latitude>
+    <woe-label>Jelgavas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.72</hc-middle-y>
+    <hc-key>lv-jg</hc-key>
+    <hc-a2>JG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.TU" d="M245.8,206.0 L241.5,207.7 L243.8,219.6 L240.4,222.4 L236.4,223.6 L233.1,222.1 L228.1,225.3 L227.4,228.2 L228.3,231.0 L225.8,236.9 L223.2,237.8 L217.8,237.6 L213.6,240.8 L208.9,239.6 L206.1,235.7 L202.7,222.9 L200.9,220.7 L195.1,221.6 L191.0,220.0 L190.2,215.9 L192.1,212.2 L190.3,208.8 L189.8,201.6 L185.7,200.0 L181.7,195.6 L180.6,191.2 L181.9,185.7 L186.5,183.6 L183.1,173.3 L188.4,171.5 L189.9,169.0 L194.1,165.0 L191.8,161.9 L195.3,155.2 L202.2,150.7 L206.1,145.8 L209.2,141.2 L210.7,145.1 L211.0,151.0 L209.7,157.5 L207.8,160.3 L208.9,163.4 L217.5,169.1 L219.9,176.0 L218.2,180.6 L214.8,185.2 L213.9,189.9 L216.5,193.0 L211.2,198.5 L211.9,201.0 L216.8,199.5 L224.1,202.1 L233.1,203.1 L243.1,198.7 L244.5,199.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.TK</hasc>
+    <alt-name>Tukkum</alt-name>
+    <woe-id>-2346040</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>TU</postal-code>
+    <name>Tukums</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>23.0121</longitude>
+    <woe-name>Tukums</woe-name>
+    <latitude>56.9505</latitude>
+    <woe-label>Tukuma Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>lv-tu</hc-key>
+    <hc-a2>TU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.JM" d="M244.5,199.0 L243.1,198.7 L242.7,197.4 L245.2,194.4 L252.7,190.8 L257.8,192.8 L263.8,193.4 L280.0,189.5 L285.9,186.7 L286.5,188.3 L288.4,189.3 L286.7,192.5 L279.8,195.6 L273.8,196.5 L271.8,195.3 L270.6,197.7 L264.8,199.6 L258.4,200.2 L256.0,199.5 L253.8,201.1 L249.9,200.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.JM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>JM</postal-code>
+    <name>Jurmala</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Riga</region>
+    <longitude>23.7352</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.9608</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>lv-jm</hc-key>
+    <hc-a2>JM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.MR" d="M287.3,198.5 L295.2,201.8 L298.6,205.5 L299.0,207.6 L293.9,213.6 L281.8,215.2 L278.9,218.0 L275.8,208.0 L283.2,202.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.MR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>MR</postal-code>
+    <name>Marupes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>23.9438</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.8913</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>lv-mr</hc-key>
+    <hc-a2>MR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.LJ" d="M4.7,277.8 L5.5,272.6 L4.7,266.5 L7.0,266.6 L7.9,273.0 L6.7,273.4 L6.1,277.6 Z M9.8,266.7 L5.1,263.2 L4.2,259.8 L5.1,258.3 L6.4,251.3 L7.5,248.5 L11.9,250.3 L12.5,257.8 L14.1,256.8 L14.8,263.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.LJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-20070118</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>LJ</postal-code>
+    <name>Liep?ja</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.0399</longitude>
+    <woe-name>Liepaja</woe-name>
+    <latitude>56.5616</latitude>
+    <woe-label>Liepaja, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.13</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>lv-lj</hc-key>
+    <hc-a2>LJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VS" d="M59.3,117.8 L59.9,116.3 L66.9,107.6 L70.2,101.7 L72.0,104.6 L74.7,114.5 L69.7,116.3 L69.9,122.4 L66.7,121.2 L64.1,124.3 L61.9,124.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-20070117</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>VS</postal-code>
+    <name>Ventspils</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.5869</longitude>
+    <woe-name>Ventspils</woe-name>
+    <latitude>57.396</latitude>
+    <woe-label>Ventspils, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.23</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>lv-vs</hc-key>
+    <hc-a2>VS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KN" d="M145.9,200.6 L145.1,196.8 L146.1,196.5 L147.9,189.2 L151.4,183.9 L156.2,184.9 L159.3,182.6 L163.5,183.8 L164.8,179.3 L164.3,170.1 L175.6,167.3 L180.1,163.1 L182.4,162.5 L189.9,163.2 L191.8,161.9 L194.1,165.0 L189.9,169.0 L188.4,171.5 L183.1,173.3 L186.5,183.6 L181.9,185.7 L180.6,191.2 L181.7,195.6 L185.7,200.0 L189.8,201.6 L190.3,208.8 L192.1,212.2 L188.7,212.5 L185.7,211.5 L181.9,213.0 L182.9,216.7 L177.3,220.9 L170.6,221.1 L166.9,219.7 L163.3,219.8 L162.7,217.1 L158.1,214.7 L152.6,213.8 L149.1,212.0 L151.4,208.5 L152.7,201.4 L149.5,200.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>KN</postal-code>
+    <name>Kandavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>22.6964</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.9403</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>lv-kn</hc-key>
+    <hc-a2>KN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KD" d="M151.4,183.9 L147.9,189.2 L146.1,196.5 L145.1,196.8 L145.9,200.6 L142.3,205.3 L139.9,205.8 L135.8,203.9 L133.9,200.3 L131.7,199.8 L128.1,203.4 L128.2,205.2 L133.0,206.6 L135.0,209.5 L134.9,212.4 L126.2,216.4 L121.6,221.1 L117.6,221.1 L112.9,218.7 L111.1,215.9 L100.6,216.0 L95.9,219.8 L98.0,231.4 L95.1,233.7 L90.9,233.2 L86.5,235.8 L84.7,238.7 L79.5,235.6 L79.9,232.5 L77.0,225.2 L71.6,220.3 L68.2,220.2 L66.9,218.7 L63.7,210.7 L56.3,210.6 L54.3,207.0 L48.9,206.2 L52.0,204.4 L54.5,200.2 L57.0,199.1 L61.3,199.2 L63.4,195.7 L68.6,195.5 L71.1,192.8 L75.1,191.8 L74.0,184.6 L70.6,182.5 L68.6,178.0 L69.3,175.7 L66.2,173.2 L63.3,168.9 L65.1,168.7 L69.9,164.1 L76.5,163.9 L83.8,166.4 L83.1,169.6 L86.8,169.7 L89.5,167.5 L97.7,168.0 L105.2,165.3 L112.7,167.7 L120.1,165.3 L122.0,163.9 L123.5,154.7 L126.2,156.0 L128.7,160.5 L136.7,166.8 L137.9,172.3 L137.7,178.6 L139.5,182.6 L142.3,183.5 L148.7,183.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>KD</postal-code>
+    <name>Kuldigas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.9858</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.9626</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-kd</hc-key>
+    <hc-a2>KD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AU" d="M169.2,262.1 L173.3,262.8 L177.5,261.8 L179.9,262.9 L180.8,266.7 L186.9,262.1 L190.2,261.9 L189.7,258.5 L193.2,256.3 L195.0,260.4 L199.0,258.3 L203.2,265.2 L205.2,266.1 L205.2,277.6 L208.3,279.2 L208.9,283.6 L210.8,285.8 L207.8,289.8 L211.1,293.2 L212.9,298.8 L211.1,300.0 L212.0,301.8 L207.1,306.9 L202.2,308.0 L197.8,304.6 L192.3,290.9 L189.2,289.1 L185.7,289.7 L182.9,291.6 L179.3,290.6 L175.9,287.8 L170.2,286.6 L172.3,281.2 L171.7,277.8 L168.0,274.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>AU</postal-code>
+    <name>Auces</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>22.9664</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.4782</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>lv-au</hc-key>
+    <hc-a2>AU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AZ" d="M73.3,262.3 L68.5,260.3 L61.0,261.9 L59.9,260.0 L64.5,255.4 L64.7,250.9 L63.9,245.7 L60.5,243.0 L49.0,244.8 L47.1,239.9 L44.5,240.2 L44.2,236.5 L38.5,231.8 L36.6,228.0 L37.5,224.7 L37.4,216.2 L40.0,214.1 L49.0,211.1 L48.9,206.2 L54.3,207.0 L56.3,210.6 L63.7,210.7 L66.9,218.7 L68.2,220.2 L71.6,220.3 L77.0,225.2 L79.9,232.5 L79.5,235.6 L84.7,238.7 L83.3,241.9 L84.6,245.8 L83.5,248.8 L79.8,251.5 L81.5,255.9 L81.4,258.5 L77.3,260.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>AZ</postal-code>
+    <name>Aizputes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.5943</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.7232</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lv-az</hc-key>
+    <hc-a2>AZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.PK" d="M59.9,260.0 L61.0,261.9 L68.5,260.3 L73.3,262.3 L72.6,270.1 L75.1,271.3 L74.9,275.7 L69.7,277.0 L70.0,282.6 L68.0,285.1 L73.4,291.6 L76.0,291.7 L76.0,293.9 L73.4,296.0 L74.3,301.7 L69.2,303.9 L60.7,304.0 L57.0,305.7 L49.7,310.9 L46.8,304.4 L39.9,299.7 L43.6,295.4 L46.0,286.2 L41.5,276.0 L41.4,271.6 L38.6,269.2 L43.9,266.5 L43.3,259.8 L46.5,262.1 L51.0,268.2 L55.5,268.0 L52.9,261.2 L55.9,258.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.PK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>PK</postal-code>
+    <name>Priekules</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.555</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.4189</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lv-pk</hc-key>
+    <hc-a2>PK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RC" d="M25.3,295.0 L28.6,299.6 L39.9,299.7 L46.8,304.4 L49.7,310.9 L43.2,315.6 L37.2,316.1 L34.2,317.5 L26.9,324.0 L24.3,327.7 L21.5,338.0 L19.9,341.3 L16.0,342.2 L10.3,342.0 L6.6,342.8 L4.7,329.7 L0.9,318.5 L0.0,314.8 L0.0,309.9 L6.2,309.0 L7.5,326.2 L10.2,326.6 L10.8,315.9 L13.0,317.5 L18.7,309.9 L20.3,305.9 L21.0,299.7 L20.8,294.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>RC</postal-code>
+    <name>Rucavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.2115</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.2259</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>lv-rc</hc-key>
+    <hc-a2>RC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.GR" d="M39.9,299.7 L28.6,299.6 L25.3,295.0 L24.4,280.9 L18.3,281.0 L16.9,269.1 L10.6,269.7 L10.2,268.0 L9.8,266.7 L14.8,263.1 L14.1,256.8 L12.5,257.8 L11.9,250.3 L7.5,248.5 L10.2,241.4 L11.2,243.6 L17.3,245.4 L20.7,237.4 L25.9,243.9 L30.5,242.2 L32.4,250.1 L29.6,254.0 L29.4,264.0 L38.3,262.2 L38.6,269.2 L41.4,271.6 L41.5,276.0 L46.0,286.2 L43.6,295.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.GR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>GR</postal-code>
+    <name>Grobinas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.2507</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.4778</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>lv-gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.NI" d="M0.0,309.9 L1.4,304.6 L0.7,294.3 L0.9,287.5 L3.3,282.6 L4.7,277.8 L6.1,277.6 L6.7,273.4 L7.9,273.0 L8.6,275.1 L7.2,277.4 L8.5,278.6 L8.3,282.2 L6.9,284.4 L9.7,288.2 L11.6,285.5 L10.6,281.8 L11.3,273.9 L10.6,269.7 L16.9,269.1 L18.3,281.0 L24.4,280.9 L25.3,295.0 L20.8,294.1 L21.0,299.7 L20.3,305.9 L18.7,309.9 L13.0,317.5 L10.8,315.9 L10.2,326.6 L7.5,326.2 L6.2,309.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.NI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>NI</postal-code>
+    <name>Nicas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.0871</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.3535</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>lv-ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AS" d="M54.5,200.2 L46.4,196.4 L45.5,193.1 L50.4,192.0 L53.0,188.4 L53.4,181.1 L55.1,174.6 L56.9,170.4 L59.9,171.4 L63.3,168.9 L66.2,173.2 L69.3,175.7 L68.6,178.0 L70.6,182.5 L74.0,184.6 L75.1,191.8 L71.1,192.8 L68.6,195.5 L63.4,195.7 L61.3,199.2 L57.0,199.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>AS</postal-code>
+    <name>Alsungas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.5583</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.9915</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lv-as</hc-key>
+    <hc-a2>AS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.PT" d="M45.5,193.1 L46.4,196.4 L54.5,200.2 L52.0,204.4 L48.9,206.2 L49.0,211.1 L40.0,214.1 L37.4,216.2 L37.5,224.7 L36.6,228.0 L34.5,225.0 L31.3,227.8 L33.5,237.9 L30.5,242.2 L25.9,243.9 L20.7,237.4 L17.3,245.4 L11.2,243.6 L10.2,241.4 L11.6,235.9 L12.9,221.0 L12.1,211.5 L13.5,208.5 L21.5,203.6 L22.4,202.1 L28.9,198.5 L34.4,191.5 L39.3,187.4 L44.6,190.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.PT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>PT</postal-code>
+    <name>Pavilostas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.2474</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.8115</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>lv-pt</hc-key>
+    <hc-a2>PT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VN" d="M45.5,193.1 L44.6,190.6 L39.3,187.4 L42.5,184.8 L44.7,181.5 L46.7,176.6 L48.1,170.5 L48.5,163.4 L47.4,156.9 L48.9,151.1 L49.2,139.8 L50.2,133.1 L53.1,127.8 L56.1,125.5 L59.3,117.8 L61.9,124.4 L64.1,124.3 L66.7,121.2 L69.9,122.4 L69.7,116.3 L74.7,114.5 L72.0,104.6 L70.2,101.7 L77.9,87.7 L80.9,84.6 L84.9,82.6 L102.1,82.0 L106.2,80.8 L124.6,71.4 L125.6,76.7 L128.3,78.0 L129.5,85.7 L131.4,90.4 L131.2,97.7 L121.9,103.6 L122.1,105.8 L118.3,109.4 L112.6,111.8 L119.4,115.2 L122.7,115.8 L128.2,115.0 L129.5,116.6 L131.6,119.6 L131.7,127.7 L133.7,135.7 L132.5,138.7 L130.3,139.7 L126.3,143.4 L122.5,148.7 L121.9,151.0 L123.5,154.7 L122.0,163.9 L120.1,165.3 L112.7,167.7 L105.2,165.3 L97.7,168.0 L89.5,167.5 L86.8,169.7 L83.1,169.6 L83.8,166.4 L76.5,163.9 L69.9,164.1 L65.1,168.7 L63.3,168.9 L59.9,171.4 L56.9,170.4 L55.1,174.6 L53.4,181.1 L53.0,188.4 L50.4,192.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VN</hasc>
+    <alt-name>Windau</alt-name>
+    <woe-id>-2346043</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>VN</postal-code>
+    <name>Ventspils</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.8185</longitude>
+    <woe-name>Ventspils</woe-name>
+    <latitude>57.3367</latitude>
+    <woe-label>Ventspils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>lv-vn</hc-key>
+    <hc-a2>VN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.NE" d="M423.4,332.4 L400.1,328.8 L396.6,326.3 L393.7,321.1 L391.9,315.6 L387.6,310.4 L385.5,305.4 L382.9,294.9 L380.3,287.6 L378.5,284.7 L376.5,284.1 L377.1,282.0 L379.3,281.0 L381.1,276.4 L390.0,274.7 L391.5,280.9 L393.7,280.2 L396.1,290.7 L401.8,288.8 L417.2,289.5 L418.6,302.9 L424.0,302.0 L424.9,303.3 L420.5,306.5 L419.3,310.4 L425.3,315.7 L428.4,319.9 L427.8,325.0 L428.7,329.6 L425.6,329.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.NE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346018</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>NE</postal-code>
+    <name>Neretas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>25.1056</longitude>
+    <woe-name>Zemgale</woe-name>
+    <latitude>56.3246</latitude>
+    <woe-label>Aizjrayjkes Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>lv-ne</hc-key>
+    <hc-a2>NE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KA" d="M639.5,206.1 L641.1,206.4 L648.7,201.6 L652.7,200.2 L657.0,201.2 L665.3,208.4 L665.9,210.8 L661.5,222.1 L659.4,222.1 L657.3,224.9 L657.7,231.7 L656.2,235.8 L652.0,231.5 L640.9,233.0 L636.2,238.7 L635.4,245.0 L631.5,240.7 L627.6,239.0 L626.3,239.5 L624.4,236.0 L625.7,232.6 L623.9,224.4 L622.1,219.1 L617.1,217.1 L611.0,217.8 L611.8,217.5 L611.5,212.1 L618.8,205.5 L620.6,205.1 L627.3,203.9 L631.3,201.5 L633.3,203.6 L638.8,207.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>KA</postal-code>
+    <name>Karsavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.6287</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.7645</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>lv-ka</hc-key>
+    <hc-a2>KA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AG" d="M611.6,318.6 L612.2,322.3 L615.4,325.7 L616.3,329.3 L613.5,332.1 L607.0,334.7 L609.6,341.3 L602.5,344.8 L603.3,352.4 L599.0,357.1 L594.7,356.9 L588.7,358.0 L584.6,356.9 L581.4,353.9 L579.6,348.2 L581.1,344.8 L577.4,345.2 L573.2,337.4 L572.8,333.2 L576.7,333.9 L577.4,331.8 L575.7,330.2 L576.8,328.1 L580.2,326.0 L586.9,323.7 L588.5,324.8 L593.1,325.1 L593.0,321.9 L597.6,318.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>AG</postal-code>
+    <name>Aglonas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.0929</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.0979</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>lv-ag</hc-key>
+    <hc-a2>AG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.IL" d="M510.5,393.2 L508.1,388.0 L505.5,384.2 L495.5,376.1 L489.3,369.5 L474.8,360.4 L467.2,352.2 L471.2,349.0 L473.3,344.8 L471.1,341.0 L470.3,337.8 L478.7,345.0 L481.3,348.1 L482.5,347.9 L487.6,343.5 L489.4,344.8 L492.7,346.7 L497.3,340.7 L499.3,341.2 L501.5,339.3 L500.1,335.5 L506.4,329.6 L510.0,328.9 L516.9,331.6 L517.3,336.4 L520.3,341.4 L521.7,347.9 L523.0,349.9 L522.7,353.8 L525.6,361.3 L523.8,365.5 L520.4,363.6 L516.0,368.1 L515.6,371.0 L518.9,373.7 L514.9,378.5 L520.9,385.5 L522.4,390.6 L513.5,391.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.IL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>IL</postal-code>
+    <name>Ilukstes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>26.1768</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>55.9997</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-il</hc-key>
+    <hc-a2>IL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AJ" d="M346.5,23.3 L350.3,23.6 L355.9,22.9 L357.4,21.8 L360.4,15.1 L365.7,17.4 L369.0,16.8 L370.6,30.9 L373.5,31.3 L374.6,32.9 L375.7,42.9 L377.0,44.7 L380.4,45.2 L381.1,48.2 L382.2,46.8 L387.1,48.8 L392.7,53.8 L394.8,59.2 L392.7,64.4 L394.3,67.5 L393.7,69.8 L394.5,73.6 L391.7,74.5 L393.8,77.6 L389.8,78.4 L388.1,76.4 L385.1,76.6 L379.8,80.9 L374.8,78.8 L375.8,74.0 L370.1,71.6 L369.4,65.8 L369.7,62.4 L367.0,60.1 L362.2,60.3 L357.0,55.3 L352.9,53.7 L348.0,36.3 L345.8,34.4 L347.3,32.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>AJ</postal-code>
+    <name>Alojas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.8231</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.8074</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>lv-aj</hc-key>
+    <hc-a2>AJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.EN" d="M213.8,132.0 L215.8,139.1 L217.2,148.4 L219.4,151.5 L221.9,167.6 L222.8,170.3 L225.8,172.0 L230.3,177.3 L238.1,180.6 L246.2,182.2 L252.7,190.8 L245.2,194.4 L242.7,197.4 L243.1,198.7 L233.1,203.1 L224.1,202.1 L216.8,199.5 L211.9,201.0 L211.2,198.5 L216.5,193.0 L213.9,189.9 L214.8,185.2 L218.2,180.6 L219.9,176.0 L217.5,169.1 L208.9,163.4 L207.8,160.3 L209.7,157.5 L211.0,151.0 L210.7,145.1 L209.2,141.2 L209.4,136.3 L210.7,133.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.EN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>EN</postal-code>
+    <name>Engures</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>23.3222</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.0017</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.80</hc-middle-y>
+    <hc-key>lv-en</hc-key>
+    <hc-a2>EN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SL" d="M329.7,118.2 L328.4,106.2 L327.7,95.9 L326.2,92.1 L327.6,81.2 L326.0,68.7 L321.8,61.8 L320.5,58.6 L319.5,47.3 L319.4,41.0 L321.0,37.0 L325.1,38.6 L329.9,37.2 L332.4,31.3 L337.2,28.0 L342.0,23.5 L346.5,23.3 L347.3,32.2 L345.8,34.4 L348.0,36.3 L352.9,53.7 L348.3,56.9 L349.3,63.4 L345.0,62.9 L345.2,70.7 L343.0,71.9 L340.7,69.7 L331.6,71.2 L332.5,79.9 L332.2,85.2 L333.2,89.1 L337.3,89.1 L339.2,91.2 L338.5,93.2 L344.4,93.6 L342.2,97.0 L344.0,102.6 L346.8,106.9 L345.0,109.1 L340.6,109.8 L338.3,115.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>SL</postal-code>
+    <name>Salacgrivas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.41</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.746</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
+    <hc-key>lv-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AP" d="M512.0,83.3 L519.6,86.2 L526.3,93.9 L530.2,91.6 L533.8,93.3 L535.9,89.3 L541.6,84.8 L544.7,83.7 L551.9,83.8 L553.5,83.2 L554.6,86.2 L555.2,94.9 L550.5,95.1 L547.2,97.6 L546.0,109.2 L544.5,110.4 L537.7,110.3 L535.9,115.2 L531.2,114.6 L528.9,112.9 L524.8,113.2 L524.8,118.5 L517.7,122.3 L518.5,124.4 L520.3,123.5 L520.3,126.1 L514.3,128.0 L506.5,126.8 L506.4,120.9 L508.6,119.1 L508.3,116.5 L510.1,110.5 L507.5,107.3 L510.3,102.9 L508.9,102.6 L508.8,97.4 L513.4,94.9 L511.3,90.7 L512.6,84.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AP</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>AP</postal-code>
+    <name>Apes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.4999</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.4556</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>lv-ap</hc-key>
+    <hc-a2>AP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SI" d="M377.5,149.3 L380.8,151.0 L384.5,156.3 L386.0,165.5 L397.8,167.9 L403.3,175.1 L399.9,177.9 L403.4,184.4 L403.3,187.1 L401.5,188.8 L396.2,184.2 L392.0,182.0 L391.2,180.5 L386.3,176.6 L385.8,173.3 L381.2,173.2 L377.7,172.0 L375.7,169.1 L374.6,171.1 L376.8,177.6 L376.0,180.7 L377.0,185.3 L372.8,189.9 L370.2,189.2 L366.1,187.7 L361.6,189.3 L356.1,185.3 L352.3,176.9 L354.2,174.7 L356.9,177.1 L359.6,176.6 L364.5,173.9 L363.5,170.2 L366.3,163.9 L367.9,162.7 L368.6,158.6 L370.3,155.7 L376.0,152.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>SI</postal-code>
+    <name>Siguldas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.8272</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>57.0998</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>lv-si</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RU" d="M393.4,1.6 L397.7,1.4 L400.1,3.0 L403.6,14.5 L406.4,15.6 L409.3,14.1 L411.1,11.6 L410.4,8.8 L407.8,4.2 L409.0,0.0 L412.3,1.6 L415.6,7.4 L417.7,6.8 L421.4,8.8 L423.6,11.3 L422.2,17.8 L416.9,18.8 L415.1,14.4 L409.2,23.8 L410.1,28.1 L416.3,29.7 L418.4,33.4 L420.5,33.1 L423.0,39.3 L424.1,44.7 L427.3,44.7 L427.7,49.3 L420.6,49.7 L410.6,51.5 L410.2,48.5 L408.2,47.8 L408.2,38.8 L405.4,35.3 L403.2,29.6 L397.5,25.4 L396.6,21.9 L397.7,20.7 L397.2,17.2 L394.6,16.4 L393.7,12.7 L394.9,5.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RU</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>RU</postal-code>
+    <name>Rujienas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.2607</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.8851</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.76</hc-middle-y>
+    <hc-key>lv-ru</hc-key>
+    <hc-a2>RU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RN" d="M459.2,137.3 L469.5,135.7 L480.0,134.7 L484.9,136.3 L486.4,138.8 L486.5,141.3 L482.3,141.6 L481.4,142.7 L482.4,146.6 L480.2,149.2 L476.1,152.0 L468.9,153.3 L464.1,149.6 L459.7,151.1 L457.1,148.7 L457.7,143.2 Z M456.9,137.9 L453.5,139.5 L449.8,138.3 L446.9,140.0 L443.3,140.1 L443.0,136.5 L438.9,133.1 L436.7,127.4 L434.8,126.1 L434.6,123.7 L437.7,120.6 L443.0,120.5 L443.2,117.2 L445.1,115.5 L447.2,109.5 L447.9,105.2 L453.4,116.2 L452.6,119.2 L454.3,123.0 L457.2,127.1 L456.2,129.0 L455.6,134.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RN</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>RN</postal-code>
+    <name>Raunas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.641</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.3411</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>lv-rn</hc-key>
+    <hc-a2>RN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.KR" d="M658.7,355.8 L657.3,358.6 L648.0,365.5 L645.7,373.3 L645.4,381.6 L644.0,388.1 L641.3,388.6 L629.0,388.1 L622.5,385.6 L620.0,382.9 L613.7,390.0 L611.9,390.9 L609.1,389.5 L602.8,384.6 L596.6,383.1 L583.9,385.4 L583.4,378.8 L579.1,377.3 L579.2,372.1 L580.7,367.9 L578.8,367.2 L580.6,364.0 L579.3,361.1 L578.0,354.8 L581.4,353.9 L584.6,356.9 L588.7,358.0 L594.7,356.9 L599.0,357.1 L603.3,352.4 L602.5,344.8 L609.6,341.3 L614.6,339.7 L619.9,339.5 L620.6,343.5 L620.1,349.4 L621.9,349.7 L624.5,346.9 L629.0,346.7 L640.2,352.9 L647.3,354.3 L646.8,349.4 L648.0,348.4 L655.1,352.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.KS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346028</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>KR</postal-code>
+    <name>Kraslavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.3415</longitude>
+    <woe-name>Kraslava</woe-name>
+    <latitude>55.9319</latitude>
+    <woe-label>Kraslavas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>lv-kr</hc-key>
+    <hc-a2>KR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VI" d="M557.7,237.9 L561.2,240.4 L565.5,241.6 L568.6,245.0 L571.8,251.2 L578.3,252.3 L580.8,257.6 L581.3,264.3 L585.0,274.0 L584.4,277.2 L580.4,276.9 L574.0,277.8 L577.1,275.3 L576.4,272.6 L571.5,272.4 L566.1,269.8 L562.3,269.4 L559.1,267.2 L563.9,264.9 L562.8,262.2 L558.4,259.5 L555.8,259.2 L554.2,255.9 L556.1,252.7 L559.7,250.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>VI</postal-code>
+    <name>Vilanu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>26.8884</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.5518</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>lv-vi</hc-key>
+    <hc-a2>VI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SA" d="M182.9,291.6 L179.3,294.0 L165.6,299.4 L162.5,298.9 L158.3,294.3 L155.5,292.7 L149.4,291.2 L120.8,291.5 L113.6,286.9 L109.3,286.5 L98.4,291.2 L95.0,286.2 L99.1,283.5 L99.3,281.2 L96.1,276.8 L97.5,270.6 L106.1,270.4 L106.3,268.0 L102.6,264.5 L102.0,262.3 L110.6,260.2 L113.1,257.9 L111.7,252.4 L112.0,246.7 L111.4,242.1 L113.6,239.2 L116.5,237.5 L119.9,230.4 L117.6,221.1 L121.6,221.1 L126.2,216.4 L134.9,212.4 L135.0,209.5 L133.0,206.6 L128.2,205.2 L128.1,203.4 L131.7,199.8 L133.9,200.3 L135.8,203.9 L139.9,205.8 L142.3,205.3 L145.9,200.6 L149.5,200.1 L152.7,201.4 L151.4,208.5 L149.1,212.0 L144.2,225.9 L145.8,231.9 L148.3,234.3 L149.3,249.0 L152.5,252.3 L153.7,259.5 L156.1,261.5 L159.0,256.0 L163.9,255.3 L167.5,258.1 L169.2,262.1 L168.0,274.6 L171.7,277.8 L172.3,281.2 L170.2,286.6 L175.9,287.8 L179.3,290.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346038</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>SA</postal-code>
+    <name>Saldus</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>22.4024</longitude>
+    <woe-name>Saldus</woe-name>
+    <latitude>56.6408</latitude>
+    <woe-label>Saldus Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>lv-sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.AL" d="M553.5,83.2 L555.4,81.4 L557.3,76.4 L560.3,73.2 L562.6,75.3 L567.3,75.0 L572.8,77.6 L578.5,84.9 L580.7,85.9 L588.2,86.0 L602.9,90.6 L605.9,88.5 L622.2,87.5 L622.5,97.9 L621.5,104.6 L624.0,107.0 L634.1,111.1 L639.4,116.5 L639.1,120.7 L637.6,122.9 L631.1,127.2 L627.2,134.1 L623.8,134.2 L620.7,131.9 L618.2,131.9 L613.2,134.1 L608.1,130.6 L605.5,132.0 L601.0,137.6 L598.4,137.3 L595.9,139.9 L590.0,141.6 L580.4,138.2 L581.2,134.7 L573.6,128.8 L565.8,129.2 L562.0,130.1 L560.4,127.5 L552.0,126.7 L547.8,129.5 L544.7,127.3 L544.1,124.8 L539.9,122.2 L535.9,115.2 L537.7,110.3 L544.5,110.4 L546.0,109.2 L547.2,97.6 L550.5,95.1 L555.2,94.9 L554.6,86.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.AE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346019</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>AL</postal-code>
+    <name>Aluksne</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>27.1693</longitude>
+    <woe-name>Aluksne</woe-name>
+    <latitude>57.4151</latitude>
+    <woe-label>Aluksnes Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>lv-al</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.ST" d="M449.5,57.7 L453.9,58.9 L464.2,54.8 L462.6,62.9 L465.4,63.3 L465.7,66.7 L477.8,68.4 L475.3,77.4 L472.9,79.6 L467.7,80.6 L470.0,83.1 L470.3,86.5 L469.1,89.9 L469.8,93.3 L474.4,93.1 L475.8,95.7 L475.9,99.0 L473.8,102.5 L470.0,100.9 L458.8,98.9 L462.9,94.4 L461.7,92.3 L458.9,93.6 L455.5,93.0 L454.6,90.8 L459.1,89.6 L456.3,86.7 L452.3,85.7 L453.5,83.5 L450.7,78.9 L444.7,78.3 L441.0,79.4 L435.5,76.9 L433.3,74.0 L435.1,71.7 L441.7,69.9 L441.6,65.0 L443.4,61.2 L448.0,60.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.ST</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>ST</postal-code>
+    <name>Strencu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.7924</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.6356</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>lv-st</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RJ" d="M563.8,185.1 L564.7,181.6 L563.6,179.0 L569.9,173.2 L572.0,170.5 L574.3,165.1 L576.9,161.7 L585.3,161.4 L585.5,165.3 L587.5,166.4 L590.3,165.5 L602.1,169.3 L607.3,169.4 L606.5,175.8 L604.3,180.3 L601.2,181.6 L602.0,185.2 L606.9,183.7 L609.0,191.2 L605.2,192.9 L599.2,198.8 L597.1,204.8 L593.8,205.0 L581.3,201.6 L576.5,202.8 L573.2,195.5 L569.0,192.5 L569.3,187.2 L567.9,185.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>RJ</postal-code>
+    <name>Rugaju</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>27.1093</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.9853</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>lv-rj</hc-key>
+    <hc-a2>RJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.DO" d="M243.8,219.6 L245.6,221.0 L247.4,228.7 L245.3,231.6 L241.1,233.7 L237.0,238.5 L242.8,242.4 L243.5,246.6 L239.5,249.9 L235.8,255.9 L242.9,257.2 L242.6,259.4 L238.7,261.0 L238.5,263.3 L240.8,266.7 L239.6,273.5 L236.5,275.6 L234.5,271.1 L233.5,266.4 L230.9,266.4 L226.9,272.0 L222.9,276.0 L224.3,279.7 L226.3,281.3 L223.1,282.2 L213.1,282.7 L210.8,285.8 L208.9,283.6 L208.3,279.2 L205.2,277.6 L205.2,266.1 L203.2,265.2 L199.0,258.3 L195.0,260.4 L193.2,256.3 L189.7,258.5 L190.2,261.9 L186.9,262.1 L180.8,266.7 L179.9,262.9 L177.5,261.8 L175.7,258.4 L175.9,255.2 L179.4,255.0 L181.7,253.4 L183.6,248.7 L180.7,243.9 L178.5,242.7 L178.1,239.6 L180.5,239.3 L188.0,237.1 L195.9,237.3 L199.9,240.1 L205.2,241.0 L208.9,239.6 L213.6,240.8 L217.8,237.6 L223.2,237.8 L225.8,236.9 L228.3,231.0 L227.4,228.2 L228.1,225.3 L233.1,222.1 L236.4,223.6 L240.4,222.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.DB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346024</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>DO</postal-code>
+    <name>Dobele</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>23.2005</longitude>
+    <woe-name>Dobele</woe-name>
+    <latitude>56.6172</latitude>
+    <woe-label>Dobeles Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>lv-do</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VD" d="M98.4,291.2 L96.7,292.0 L74.3,301.7 L73.4,296.0 L76.0,293.9 L76.0,291.7 L73.4,291.6 L68.0,285.1 L70.0,282.6 L69.7,277.0 L74.9,275.7 L75.1,271.3 L72.6,270.1 L73.3,262.3 L77.3,260.2 L81.4,258.5 L81.1,261.8 L84.7,267.2 L91.5,267.8 L92.3,270.2 L96.6,269.3 L97.5,270.6 L96.1,276.8 L99.3,281.2 L99.1,283.5 L95.0,286.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>VD</postal-code>
+    <name>Vainodes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.8331</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.432</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>lv-vd</hc-key>
+    <hc-a2>VD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.DN" d="M124.6,71.4 L151.9,57.3 L158.0,56.0 L161.4,54.5 L163.7,55.4 L162.7,57.3 L161.7,63.8 L161.2,71.0 L159.4,69.3 L159.4,79.3 L162.9,86.1 L163.0,92.4 L164.2,99.2 L156.9,99.9 L152.7,106.1 L149.9,114.4 L145.0,113.1 L140.9,114.6 L137.9,114.5 L135.9,110.5 L131.8,111.6 L129.5,116.6 L128.2,115.0 L122.7,115.8 L119.4,115.2 L112.6,111.8 L118.3,109.4 L122.1,105.8 L121.9,103.6 L131.2,97.7 L131.4,90.4 L129.5,85.7 L128.3,78.0 L125.6,76.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.DN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346039</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>DN</postal-code>
+    <name>Dundagas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>22.4057</longitude>
+    <woe-name>Talsi</woe-name>
+    <latitude>57.5837</latitude>
+    <woe-label>Talsu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lv-dn</hc-key>
+    <hc-a2>DN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RR" d="M161.2,71.0 L162.3,77.0 L167.3,84.8 L187.8,103.4 L194.4,111.9 L198.5,115.6 L194.2,117.2 L192.7,121.6 L189.0,121.9 L184.6,119.4 L182.5,115.8 L174.9,107.0 L171.4,110.9 L168.9,107.2 L170.5,102.9 L164.2,99.2 L163.0,92.4 L162.9,86.1 L159.4,79.3 L159.4,69.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346039</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>RR</postal-code>
+    <name>Rojas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>22.7688</longitude>
+    <woe-name>Talsi</woe-name>
+    <latitude>57.4888</latitude>
+    <woe-label>Talsu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>lv-rr</hc-key>
+    <hc-a2>RR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.LL" d="M380.7,221.8 L382.6,220.3 L384.9,222.2 L392.0,223.6 L397.4,232.6 L390.9,234.5 L393.5,238.9 L389.9,242.4 L389.8,249.5 L390.8,252.3 L387.6,253.1 L379.3,248.4 L375.6,240.2 L372.4,237.9 L369.1,236.8 L373.4,232.8 L374.0,228.5 L375.9,227.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.LL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346037</woe-id>
+    <subregion>Pier?ga</subregion>
+    <fips>LG</fips>
+    <postal-code>LL</postal-code>
+    <name>Lielvardes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Riga</region>
+    <longitude>24.9523</longitude>
+    <woe-name>Riga</woe-name>
+    <latitude>56.7332</latitude>
+    <woe-label>Rigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lv-ll</hc-key>
+    <hc-a2>LL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.IE" d="M326.7,246.5 L327.9,253.9 L322.3,255.2 L323.5,263.5 L326.1,263.2 L329.9,265.4 L329.2,269.4 L325.8,268.2 L321.5,268.5 L316.9,271.3 L315.2,274.4 L307.1,270.4 L300.3,268.5 L302.8,263.5 L302.9,260.7 L298.0,259.8 L295.2,256.8 L298.2,254.0 L297.6,251.2 L293.6,247.1 L296.7,246.6 L295.9,242.0 L301.0,243.0 L305.2,245.4 L308.0,245.1 L310.3,241.2 L314.7,240.0 L317.3,239.7 L317.9,241.5 L320.9,244.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.IE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>IE</postal-code>
+    <name>Iecavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>24.2055</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.6132</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-ie</hc-key>
+    <hc-a2>IE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.TE" d="M232.7,299.6 L224.1,296.3 L212.9,298.8 L211.1,293.2 L207.8,289.8 L210.8,285.8 L213.1,282.7 L223.1,282.2 L226.3,281.3 L224.3,279.7 L222.9,276.0 L226.9,272.0 L230.9,266.4 L233.5,266.4 L234.5,271.1 L236.5,275.6 L238.0,278.3 L236.3,281.5 L240.9,290.6 L239.0,294.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.TE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346026</woe-id>
+    <subregion>Zemgale</subregion>
+    <fips>LG</fips>
+    <postal-code>TE</postal-code>
+    <name>Tervetes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Zemgale</region>
+    <longitude>23.314</longitude>
+    <woe-name>Jekabpils</woe-name>
+    <latitude>56.425</latitude>
+    <woe-label>Jekabpils Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.72</hc-middle-y>
+    <hc-key>lv-te</hc-key>
+    <hc-a2>TE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VV" d="M518.8,324.7 L516.3,318.4 L514.2,308.4 L520.0,310.0 L520.0,303.5 L522.4,303.1 L524.8,308.4 L528.6,311.1 L540.2,310.4 L543.9,307.7 L547.8,308.6 L549.7,311.4 L551.3,318.6 L551.4,325.8 L549.1,328.0 L544.9,327.8 L546.4,330.6 L549.4,333.1 L547.3,335.6 L540.4,329.7 L539.0,333.7 L535.8,334.1 L533.4,328.0 L530.5,325.9 L526.7,325.5 L523.2,323.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>VV</postal-code>
+    <name>Varkavas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>26.5122</longitude>
+    <woe-name>Balvi</woe-name>
+    <latitude>56.2165</latitude>
+    <woe-label>Balvu Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-vv</hc-key>
+    <hc-a2>VV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.PR" d="M540.5,281.6 L541.9,279.4 L545.0,278.6 L551.1,281.9 L555.9,287.5 L549.9,292.4 L548.4,298.2 L549.8,300.7 L553.5,301.9 L557.4,305.7 L561.5,307.0 L564.7,311.9 L567.4,318.6 L567.1,321.2 L564.0,323.8 L572.0,329.2 L572.8,333.2 L568.8,334.3 L564.9,333.8 L561.8,336.1 L556.4,337.0 L553.3,334.6 L549.4,333.1 L546.4,330.6 L544.9,327.8 L549.1,328.0 L551.4,325.8 L551.3,318.6 L549.7,311.4 L547.8,308.6 L543.9,307.7 L542.7,301.3 L535.2,299.0 L529.9,294.9 L531.5,289.1 L537.5,291.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.PI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346035</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>PR</postal-code>
+    <name>Preilu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Latgale</region>
+    <longitude>26.696</longitude>
+    <woe-name>Preili</woe-name>
+    <latitude>56.2674</latitude>
+    <woe-label>Preiju Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.67</hc-middle-x>
+    <hc-middle-y>0.76</hc-middle-y>
+    <hc-key>lv-pr</hc-key>
+    <hc-a2>PR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.CV" d="M517.0,176.2 L518.6,183.0 L520.7,185.7 L519.7,189.0 L515.9,192.9 L516.6,195.9 L513.5,196.0 L509.7,194.5 L508.0,196.2 L503.7,196.9 L501.5,192.8 L498.7,192.7 L500.0,187.2 L498.7,178.5 L499.6,174.4 L499.1,170.2 L502.1,168.9 L507.5,169.1 L512.1,167.1 L513.0,171.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.CV</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>CV</postal-code>
+    <name>Cesvaines</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.275</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.0099</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>lv-cv</hc-key>
+    <hc-a2>CV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.JA" d="M492.9,171.2 L487.9,169.5 L486.5,171.6 L484.0,171.2 L477.0,167.8 L474.5,168.3 L470.5,168.5 L468.6,164.4 L466.4,164.5 L460.2,159.0 L459.1,156.3 L459.7,151.1 L464.1,149.6 L468.9,153.3 L476.1,152.0 L480.2,149.2 L482.4,146.6 L487.0,147.2 L489.6,148.4 L497.4,159.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.JA</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>JA</postal-code>
+    <name>Jaunpiebalgas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.0091</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.1448</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lv-ja</hc-key>
+    <hc-a2>JA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.LB" d="M563.8,185.1 L567.9,185.8 L569.3,187.2 L569.0,192.5 L573.2,195.5 L576.5,202.8 L576.2,205.0 L573.7,208.4 L571.7,205.2 L567.0,204.0 L566.7,201.9 L564.6,199.5 L551.8,201.6 L550.4,199.5 L547.4,202.9 L546.9,205.9 L542.1,212.1 L541.2,214.6 L538.3,217.1 L536.6,216.4 L534.3,217.8 L532.0,216.0 L532.3,213.8 L528.0,208.8 L536.4,192.2 L539.7,191.2 L547.9,186.6 L549.1,187.2 L554.1,183.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.LB</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>LB</postal-code>
+    <name>Lubanas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.7126</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>56.9362</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>lv-lb</hc-key>
+    <hc-a2>LB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.MZ" d="M408.2,47.8 L406.1,47.0 L400.0,42.2 L398.5,40.3 L395.7,41.5 L397.7,46.6 L395.9,48.0 L393.9,45.8 L388.6,45.6 L387.1,48.8 L382.2,46.8 L381.1,48.2 L380.4,45.2 L377.0,44.7 L375.7,42.9 L374.6,32.9 L373.5,31.3 L370.6,30.9 L369.0,16.8 L373.2,13.5 L380.2,12.4 L382.6,10.7 L389.3,3.6 L393.4,1.6 L394.9,5.6 L393.7,12.7 L394.6,16.4 L397.2,17.2 L397.7,20.7 L396.6,21.9 L397.5,25.4 L403.2,29.6 L405.4,35.3 L408.2,38.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.MZ</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>MZ</postal-code>
+    <name>Mazsalacas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>25.0276</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>57.9137</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>lv-mz</hc-key>
+    <hc-a2>MZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.DV" d="M546.3,382.2 L544.9,384.4 L538.8,387.1 L535.9,382.6 L535.2,375.7 L530.4,372.1 L533.6,368.8 L540.4,369.6 L545.4,363.3 L547.2,366.0 L547.4,373.4 L549.4,374.4 L546.7,378.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.DV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-20070122</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>DV</postal-code>
+    <name>Daugavpils</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Latgale</region>
+    <longitude>26.5517</longitude>
+    <woe-name>Daugavpils</woe-name>
+    <latitude>55.8814</latitude>
+    <woe-label>Daugavpils, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>lv-dv</hc-key>
+    <hc-a2>DV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.RK" d="M608.2,268.9 L607.0,264.5 L610.1,257.7 L612.9,256.3 L615.2,257.2 L615.5,260.0 L614.9,267.7 L613.5,271.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.RE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-20070123</woe-id>
+    <subregion>Latgale</subregion>
+    <fips>LG</fips>
+    <postal-code>RK</postal-code>
+    <name>Rezekne</name>
+    <country>Latvia</country>
+    <type-en>Republican City</type-en>
+    <region>Latgale</region>
+    <longitude>27.3335</longitude>
+    <woe-name>Rezekne</woe-name>
+    <latitude>56.516</latitude>
+    <woe-label>Rezeknes, LV, Latvia</woe-label>
+    <type>Republikas Pils?tas</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>lv-rk</hc-key>
+    <hc-a2>RK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.VX" d="M557.7,237.9 L559.7,250.6 L556.1,252.7 L554.2,255.9 L555.8,259.2 L553.8,262.0 L552.3,261.5 L544.7,262.2 L541.7,261.8 L540.4,259.0 L541.1,253.4 L534.3,252.9 L530.6,251.9 L522.5,247.4 L520.0,247.1 L521.0,239.8 L535.1,239.3 L538.9,236.7 L541.9,236.9 L545.6,232.1 L551.2,230.8 L551.6,233.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.VX</hasc>
+    <alt-name>Wolmar</alt-name>
+    <woe-id>-2346042</woe-id>
+    <subregion>Vidzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>VX</postal-code>
+    <name>Varaklanu</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Vidzeme</region>
+    <longitude>26.643</longitude>
+    <woe-name>Valmiera</woe-name>
+    <latitude>56.6336</latitude>
+    <woe-label>Valmieras Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>lv-vx</hc-key>
+    <hc-a2>VX</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.SK" d="M117.6,221.1 L119.9,230.4 L116.5,237.5 L113.6,239.2 L111.4,242.1 L112.0,246.7 L111.7,252.4 L113.1,257.9 L110.6,260.2 L102.0,262.3 L102.6,264.5 L106.3,268.0 L106.1,270.4 L97.5,270.6 L96.6,269.3 L92.3,270.2 L91.5,267.8 L84.7,267.2 L81.1,261.8 L81.4,258.5 L81.5,255.9 L79.8,251.5 L83.5,248.8 L84.6,245.8 L83.3,241.9 L84.7,238.7 L86.5,235.8 L90.9,233.2 L95.1,233.7 L98.0,231.4 L95.9,219.8 L100.6,216.0 L111.1,215.9 L112.9,218.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.SK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346029</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>SK</postal-code>
+    <name>Skrundas</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.9901</longitude>
+    <woe-name>Kurzeme</woe-name>
+    <latitude>56.6446</latitude>
+    <woe-label>Kuldigas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>lv-sk</hc-key>
+    <hc-a2>SK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="LV.DR" d="M30.5,242.2 L33.5,237.9 L31.3,227.8 L34.5,225.0 L36.6,228.0 L38.5,231.8 L44.2,236.5 L44.5,240.2 L47.1,239.9 L49.0,244.8 L60.5,243.0 L63.9,245.7 L64.7,250.9 L64.5,255.4 L59.9,260.0 L55.9,258.0 L52.9,261.2 L55.5,268.0 L51.0,268.2 L46.5,262.1 L43.3,259.8 L43.9,266.5 L38.6,269.2 L38.3,262.2 L29.4,264.0 L29.6,254.0 L32.4,250.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>8</labelrank>
+    <hasc>LV.DR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-2346030</woe-id>
+    <subregion>Kurzeme</subregion>
+    <fips>LG</fips>
+    <postal-code>DR</postal-code>
+    <name>Durbes</name>
+    <country>Latvia</country>
+    <type-en>Municipality</type-en>
+    <region>Kurzeme</region>
+    <longitude>21.4069</longitude>
+    <woe-name>Liepaja</woe-name>
+    <latitude>56.6142</latitude>
+    <woe-label>Liepajas Rajons, LV, Latvia</woe-label>
+    <type>Novads</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>lv-dr</hc-key>
+    <hc-a2>DR</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

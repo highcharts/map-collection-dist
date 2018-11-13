@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Trinidad and Tobago</title>
+<g id="admin1">
+
+<g id="TT">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Trinidad and Tobago</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Tr.T.</country-abbrev>
+    <subregion>Caribbean</subregion>
+    <region-wb>Latin America &amp; Caribbean</region-wb>
+    <iso-a3>TTO</iso-a3>
+    <iso-a2>TT</iso-a2>
+    <woe-id>23424958</woe-id>
+    <continent>North America</continent>
+    <hc-key>tt</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.180" d="M328.7,378.3 L322.0,378.8 L317.3,377.3 L315.8,375.6 L319.2,370.8 L319.8,364.4 L320.9,362.5 L320.2,359.8 L320.8,355.3 L327.9,362.0 L330.9,372.6 L331.0,375.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.TP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2347116</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Arima</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>-61.2804</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.6284</latitude>
+    <woe-label>NULL</woe-label>
+    <type>City</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>tt-180</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.DM" d="M89.4,336.7 L93.4,341.4 L92.4,343.1 L89.0,341.1 L86.2,341.4 L85.0,342.9 L85.7,344.6 L88.7,346.6 L87.6,348.2 L80.7,348.6 L80.6,346.5 L82.3,338.3 L84.7,336.2 Z M118.3,344.0 L117.1,344.7 L112.3,343.9 L111.1,342.9 L114.8,334.2 L118.6,332.7 L122.2,332.7 L123.1,334.7 L122.6,340.4 L118.9,342.3 Z M188.9,349.4 L174.5,342.9 L163.8,340.7 L138.3,339.1 L135.1,338.1 L132.7,335.4 L129.5,329.5 L155.4,311.5 L162.1,308.7 L182.6,310.3 L205.6,304.8 L218.1,304.9 L219.2,317.6 L216.5,329.3 L207.7,344.8 L200.3,343.8 L196.2,344.1 L190.9,348.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.DM</hasc>
+    <alt-name>Petit Valley</alt-name>
+    <woe-id>56189828</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>DM</postal-code>
+    <name>Diego Martin</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.5778</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.7128</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.77</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>tt-dm</hc-key>
+    <hc-a2>DM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.TP" d="M286.8,279.6 L288.5,279.4 L315.0,282.5 L373.1,282.4 L377.3,279.1 L379.3,280.7 L384.1,287.7 L384.6,296.6 L381.6,299.4 L374.1,303.9 L366.0,313.1 L363.2,315.2 L358.6,316.7 L344.5,318.2 L343.5,320.1 L348.2,321.9 L351.4,322.1 L356.2,325.4 L356.7,329.6 L356.6,338.6 L354.5,346.3 L356.2,354.6 L358.1,358.2 L361.9,363.0 L362.9,366.1 L362.2,373.4 L357.0,380.6 L344.1,386.8 L329.8,391.4 L308.2,392.4 L301.2,394.1 L295.0,396.9 L288.7,397.3 L281.4,396.3 L279.2,400.3 L258.8,400.0 L252.6,361.4 L252.7,348.8 L249.0,326.6 L250.0,317.8 L252.8,312.8 L257.1,311.5 L270.4,313.3 L277.3,311.9 L281.0,312.1 L289.6,314.1 L292.7,313.2 L295.8,309.4 L296.3,303.7 L292.2,295.4 L288.4,282.8 Z M328.7,378.3 L331.0,375.7 L330.9,372.6 L327.9,362.0 L320.8,355.3 L320.2,359.8 L320.9,362.5 L319.8,364.4 L319.2,370.8 L315.8,375.6 L317.3,377.3 L322.0,378.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.TP</hasc>
+    <alt-name>Tunapuna</alt-name>
+    <woe-id>56189836</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>TP</postal-code>
+    <name>Tunapuna/Piarco</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.3254</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.6903</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>tt-tp</hc-key>
+    <hc-a2>TP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.SF" d="M219.5,560.5 L223.4,557.3 L229.5,550.3 L233.3,543.8 L235.1,533.7 L234.5,529.9 L237.1,530.6 L250.4,529.6 L243.7,555.4 L220.0,561.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.SF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069924</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD10</fips>
+    <postal-code>SF</postal-code>
+    <name>San Fernando</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>-61.4589</longitude>
+    <woe-name>San Fernando</woe-name>
+    <latitude>10.2772</latitude>
+    <woe-label>NULL</woe-label>
+    <type>City</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
+    <hc-key>tt-sf</hc-key>
+    <hc-a2>SF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.CH" d="M232.6,422.2 L232.6,414.4 L233.4,414.4 L243.2,400.7 L258.8,400.0 L279.2,400.3 L281.5,411.0 L278.2,422.7 L277.6,427.8 L274.1,430.9 L261.3,431.9 L255.2,430.1 L251.4,426.9 L246.7,426.1 L242.9,423.7 L239.6,422.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.CH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56189826</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>CH</postal-code>
+    <name>Chaguanas</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>-61.4134</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.5359</latitude>
+    <woe-label>NULL</woe-label>
+    <type>City</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tt-ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.PS" d="M215.6,365.1 L199.0,353.9 L188.9,349.4 L190.9,348.4 L196.2,344.1 L200.3,343.8 L207.7,344.8 L214.8,348.6 L217.6,354.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.PS</hasc>
+    <alt-name>Port-of-Spain|Puer</alt-name>
+    <woe-id>2347120</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD05</fips>
+    <postal-code>PS</postal-code>
+    <name>Port of Spain</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>-61.5204</longitude>
+    <woe-name>Port of Spain</woe-name>
+    <latitude>10.6647</latitude>
+    <woe-label>NULL</woe-label>
+    <type>City</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>tt-ps</hc-key>
+    <hc-a2>PS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.193" d="M633.8,22.3 L643.2,18.8 L657.3,15.7 L663.1,12.3 L669.2,11.1 L677.2,15.7 L680.9,15.2 L690.3,3.9 L695.7,0.0 L699.4,3.7 L700.0,16.3 L698.4,31.8 L694.8,42.8 L689.2,41.5 L686.1,41.6 L683.1,49.2 L678.7,50.1 L673.7,48.4 L668.8,48.6 L667.8,50.8 L660.4,60.8 L658.7,61.2 L647.1,68.5 L643.5,71.4 L638.0,74.8 L622.0,61.4 L609.3,56.5 L614.2,51.7 L628.0,42.5 L637.7,30.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.</hasc>
+    <alt-name>Tabago</alt-name>
+    <woe-id>56189856</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Eastern Tobago</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-60.6001</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>11.2899</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tt-193</hc-key>
+    <hc-a2>ET</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.6597" d="M638.0,74.8 L631.7,74.8 L625.7,73.6 L620.9,73.5 L590.8,88.9 L582.0,91.1 L568.6,102.8 L560.2,106.2 L556.6,98.2 L549.1,102.0 L542.2,100.9 L538.1,95.9 L539.2,88.2 L543.4,86.1 L550.3,84.9 L556.7,82.3 L559.5,75.7 L564.4,69.1 L606.5,41.1 L615.4,32.1 L620.6,28.3 L626.9,24.9 L633.8,22.3 L637.7,30.4 L628.0,42.5 L614.2,51.7 L609.3,56.5 L622.0,61.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.</hasc>
+    <alt-name>Tabago</alt-name>
+    <woe-id>56189855</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD11</fips>
+    <postal-code>NULL</postal-code>
+    <name>Western Tobago</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-60.7709</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>11.1959</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>tt-6597</hc-key>
+    <hc-a2>WT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.SI" d="M212.7,651.4 L192.7,648.2 L188.0,649.4 L173.8,655.1 L168.2,655.7 L158.3,658.1 L153.3,658.7 L146.2,657.7 L141.2,655.1 L136.6,651.7 L130.8,648.4 L121.5,645.7 L111.2,644.6 L67.8,644.7 L55.9,646.1 L46.8,650.5 L39.5,656.2 L29.8,662.0 L19.5,666.0 L10.8,666.1 L0.0,658.9 L4.9,652.0 L21.0,643.5 L23.4,641.6 L28.9,639.9 L45.1,636.8 L48.4,633.6 L53.6,626.0 L61.4,620.0 L69.8,615.9 L108.4,604.3 L110.7,603.2 L118.4,615.0 L123.2,614.6 L128.9,612.6 L139.5,603.6 L149.0,589.7 L149.6,587.0 L148.3,584.5 L144.7,580.7 L145.0,580.4 L144.5,565.2 L150.8,561.8 L158.4,561.7 L184.3,566.0 L204.0,565.2 L206.2,568.5 L219.9,580.4 L226.2,584.3 L230.2,592.6 L230.0,601.3 L228.0,610.6 L225.7,615.5 L219.5,622.8 L216.9,627.1 L215.1,632.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.SI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56189835</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>SI</postal-code>
+    <name>Siparia</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.6987</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.118</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.77</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>tt-si</hc-key>
+    <hc-a2>SI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.SN" d="M344.1,386.8 L357.0,380.6 L362.2,373.4 L362.9,366.1 L361.9,363.0 L358.1,358.2 L356.2,354.6 L354.5,346.3 L356.6,338.6 L356.7,329.6 L356.2,325.4 L351.4,322.1 L348.2,321.9 L343.5,320.1 L344.5,318.2 L358.6,316.7 L363.2,315.2 L366.0,313.1 L374.1,303.9 L381.6,299.4 L384.6,296.6 L384.1,287.7 L379.3,280.7 L377.3,279.1 L385.6,272.7 L414.8,269.0 L423.7,265.2 L488.5,257.5 L509.4,261.5 L488.4,298.9 L462.3,331.5 L453.0,329.9 L447.1,339.6 L444.5,354.7 L445.2,369.3 L455.1,400.0 L457.2,414.9 L442.8,427.4 L443.2,441.6 L445.0,450.8 L416.5,448.0 L365.5,455.0 L355.8,452.3 L354.7,445.7 L358.8,434.3 L358.8,426.3 L354.9,422.3 L353.3,418.2 L351.8,396.8 L349.7,391.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.SN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56189833</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>SN</postal-code>
+    <name>Sangre Grande</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.1277</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.6838</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>tt-sn</hc-key>
+    <hc-a2>SN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.MR" d="M445.0,450.8 L450.3,478.7 L452.9,485.6 L456.3,492.0 L465.3,505.2 L484.0,518.2 L469.6,533.9 L463.5,560.1 L463.4,589.6 L467.2,615.3 L456.5,613.0 L444.4,616.8 L433.0,623.8 L424.2,631.5 L415.4,637.4 L404.0,641.7 L381.5,647.2 L376.4,647.8 L368.8,569.4 L360.4,555.0 L355.7,549.3 L351.5,548.5 L349.6,544.2 L346.4,541.9 L342.7,530.6 L349.8,520.2 L353.8,506.4 L356.6,477.4 L358.9,467.3 L365.5,455.0 L416.5,448.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.MR</hasc>
+    <alt-name>Mayaro|Rio Claro</alt-name>
+    <woe-id>56189832</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>MR</postal-code>
+    <name>Rio Claro-Mayaro</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.1024</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.2814</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>tt-mr</hc-key>
+    <hc-a2>MR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.SL" d="M232.6,414.4 L232.6,404.2 L227.4,385.7 L215.4,370.6 L219.1,367.4 L215.6,365.1 L217.6,354.5 L214.8,348.6 L207.7,344.8 L216.5,329.3 L219.2,317.6 L218.1,304.9 L220.3,304.9 L226.6,302.0 L230.4,297.0 L232.9,294.9 L235.5,301.1 L239.2,301.1 L239.2,294.2 L242.3,294.2 L242.6,296.7 L246.1,301.0 L242.3,304.8 L246.5,303.8 L252.6,297.9 L262.2,297.5 L263.1,297.8 L267.2,294.1 L276.6,282.9 L279.8,280.2 L286.8,279.6 L288.4,282.8 L292.2,295.4 L296.3,303.7 L295.8,309.4 L292.7,313.2 L289.6,314.1 L281.0,312.1 L277.3,311.9 L270.4,313.3 L257.1,311.5 L252.8,312.8 L250.0,317.8 L249.0,326.6 L252.7,348.8 L252.6,361.4 L258.8,400.0 L243.2,400.7 L233.4,414.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.SL</hasc>
+    <alt-name>Laventille</alt-name>
+    <woe-id>56189834</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>SL</postal-code>
+    <name>San Juan-Laventille</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.4498</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.613</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>tt-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.PT" d="M342.7,530.6 L346.4,541.9 L349.6,544.2 L351.5,548.5 L355.7,549.3 L360.4,555.0 L368.8,569.4 L376.4,647.8 L369.4,648.5 L338.6,643.7 L327.6,644.7 L295.7,651.2 L275.4,649.5 L278.2,576.3 L274.2,571.1 L268.7,566.1 L243.7,555.4 L250.4,529.6 L260.4,528.5 L277.5,521.3 L294.3,518.0 L308.6,517.7 L317.4,519.1 L323.8,520.7 L338.2,526.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.PT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56189831</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>PT</postal-code>
+    <name>Princes Town</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.3096</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.2039</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>tt-pt</hc-key>
+    <hc-a2>PT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.CT" d="M365.5,455.0 L358.9,467.3 L356.6,477.4 L353.8,506.4 L349.8,520.2 L342.7,530.6 L338.2,526.5 L323.8,520.7 L317.4,519.1 L308.6,517.7 L294.3,518.0 L277.5,521.3 L260.4,528.5 L250.4,529.6 L237.1,530.6 L234.5,529.9 L233.6,525.2 L231.1,517.0 L229.7,507.5 L228.8,504.8 L224.4,501.1 L222.8,498.9 L222.6,496.2 L225.7,495.1 L226.5,493.6 L226.0,489.7 L223.0,479.8 L221.1,476.3 L220.0,469.0 L222.8,459.0 L229.4,443.3 L232.6,424.1 L232.6,422.2 L239.6,422.9 L242.9,423.7 L246.7,426.1 L251.4,426.9 L255.2,430.1 L261.3,431.9 L274.1,430.9 L277.6,427.8 L278.2,422.7 L281.5,411.0 L279.2,400.3 L281.4,396.3 L288.7,397.3 L295.0,396.9 L301.2,394.1 L308.2,392.4 L329.8,391.4 L344.1,386.8 L349.7,391.4 L351.8,396.8 L353.3,418.2 L354.9,422.3 L358.8,426.3 L358.8,434.3 L354.7,445.7 L355.8,452.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.CT</hasc>
+    <alt-name>Couva</alt-name>
+    <woe-id>56189827</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>CT</postal-code>
+    <name>Couva-Tabaquite-Talparo</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.3425</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.4519</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>tt-ct</hc-key>
+    <hc-a2>CT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.PD" d="M275.4,649.5 L256.2,647.9 L213.3,651.5 L212.7,651.4 L215.1,632.7 L216.9,627.1 L219.5,622.8 L225.7,615.5 L228.0,610.6 L230.0,601.3 L230.2,592.6 L226.2,584.3 L219.9,580.4 L206.2,568.5 L204.0,565.2 L211.1,564.9 L216.8,562.7 L219.5,560.5 L220.0,561.2 L243.7,555.4 L268.7,566.1 L274.2,571.1 L278.2,576.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.PD</hasc>
+    <alt-name>Penal</alt-name>
+    <woe-id>56189829</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>PD</postal-code>
+    <name>Penal-Debe</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-61.4269</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.1459</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>tt-pd</hc-key>
+    <hc-a2>PD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="TT.PF" d="M110.7,603.2 L129.9,593.9 L144.7,580.7 L148.3,584.5 L149.6,587.0 L149.0,589.7 L139.5,603.6 L128.9,612.6 L123.2,614.6 L118.4,615.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>TT.PF</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>56189830</woe-id>
+    <subregion>NULL</subregion>
+    <fips>TD00</fips>
+    <postal-code>PF</postal-code>
+    <name>Point Fortin</name>
+    <country>Trinidad and Tobago</country>
+    <type-en>City</type-en>
+    <region>NULL</region>
+    <longitude>-61.6685</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>10.1669</latitude>
+    <woe-label>NULL</woe-label>
+    <type>City</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
+    <hc-key>tt-pf</hc-key>
+    <hc-a2>PF</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

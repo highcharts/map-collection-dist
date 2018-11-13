@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Eritrea</title>
+<g id="admin1">
+
+<g id="ER">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Eritrea</name>
+    <labelrank>4</labelrank>
+    <country-abbrev>Erit.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>ERI</iso-a3>
+    <iso-a2>ER</iso-a2>
+    <woe-id>23424806</woe-id>
+    <continent>Africa</continent>
+    <hc-key>er</hc-key>
+    <hc-a2>ER</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ER.5773" d="M677.4,535.3 L682.0,537.4 L681.6,540.7 L679.7,539.4 L676.9,540.2 L675.5,538.0 Z M403.4,322.3 L399.3,323.1 L398.7,321.7 L402.0,314.7 L405.4,315.1 L407.1,319.1 Z M400.2,307.9 L398.0,309.0 L395.3,308.0 L394.7,305.8 L395.8,302.0 L400.2,299.5 L401.9,299.4 L399.7,303.4 Z M671.0,527.5 L673.3,530.9 L670.3,530.0 L669.7,527.9 L671.0,527.5 L671.0,527.5 Z M671.0,527.5 L670.9,527.4 L673.2,526.9 L671.0,527.5 L671.0,527.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Eritrea</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>42.9412</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>12.8337</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.03</hc-middle-x>
+    <hc-middle-y>0.08</hc-middle-y>
+    <hc-key>er-5773</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ER.DU" d="M373.5,226.5 L380.2,229.9 L381.7,232.2 L379.9,236.1 L383.5,236.1 L382.7,234.3 L384.9,234.6 L384.6,244.7 L387.8,251.8 L394.9,253.7 L397.9,249.8 L393.5,247.4 L396.1,245.6 L400.6,245.6 L404.1,247.0 L405.0,249.6 L409.5,251.7 L412.9,252.4 L413.8,256.6 L411.7,259.4 L407.8,257.9 L400.7,259.4 L394.8,256.9 L392.5,256.6 L387.3,257.7 L383.6,255.1 L381.5,257.8 L377.2,257.5 L371.0,255.5 L368.7,256.0 L367.1,253.9 L364.4,245.8 L367.9,250.2 L369.6,249.8 L373.6,251.6 L379.3,250.1 L374.8,243.9 L371.7,242.1 L368.2,241.4 L363.6,241.8 L363.0,237.8 L365.3,236.4 L368.4,238.4 L370.2,237.7 L368.2,233.7 L370.3,232.7 L374.2,232.5 L373.9,229.5 L371.7,227.4 L368.1,227.7 L365.7,225.3 Z M382.5,215.4 L380.7,215.9 L375.1,213.6 L370.7,213.1 L369.6,212.1 L370.5,208.6 L375.5,207.1 L375.1,202.9 L382.1,206.0 L382.9,207.3 L379.0,210.2 L378.7,211.9 Z M301.2,302.2 L296.9,299.4 L287.9,294.6 L282.9,290.2 L276.9,283.6 L267.4,269.1 L263.1,259.5 L259.6,246.4 L250.5,231.1 L247.6,228.2 L233.7,226.4 L224.0,222.9 L218.9,219.5 L216.7,216.6 L215.6,213.1 L215.7,201.7 L217.8,196.6 L218.0,192.1 L216.1,185.3 L213.2,179.9 L205.8,172.1 L203.3,163.6 L200.0,158.3 L197.8,152.4 L196.7,151.4 L173.2,147.1 L168.4,143.3 L167.7,140.9 L169.6,130.8 L169.0,125.2 L163.8,118.5 L163.3,113.8 L165.2,106.3 L167.2,62.5 L166.4,49.5 L171.2,48.6 L172.2,49.7 L172.7,55.9 L174.2,55.9 L177.0,52.4 L177.1,48.9 L181.4,47.7 L186.4,51.4 L190.5,49.4 L191.2,42.9 L193.0,41.2 L200.2,37.2 L203.0,32.6 L209.2,16.3 L212.1,12.2 L226.7,0.0 L228.6,5.6 L232.9,11.7 L233.6,16.1 L236.3,21.2 L245.8,35.9 L253.0,52.6 L260.1,65.0 L262.6,74.0 L263.8,76.2 L262.5,80.3 L267.2,86.4 L268.7,89.7 L270.1,97.4 L273.1,103.7 L274.5,112.3 L276.1,115.4 L277.1,121.5 L280.5,129.3 L282.8,137.6 L281.4,136.9 L283.4,141.6 L284.2,147.1 L282.3,149.1 L284.0,154.0 L282.9,157.6 L285.6,158.5 L285.6,163.2 L286.9,165.9 L287.0,172.8 L288.5,176.8 L287.7,182.3 L290.9,196.2 L291.7,202.6 L294.1,207.9 L297.8,221.8 L299.8,225.5 L306.0,229.3 L307.7,231.6 L311.5,233.3 L312.6,235.6 L311.2,239.0 L313.3,242.6 L314.0,247.2 L316.8,250.3 L315.0,250.5 L313.4,253.1 L317.6,253.2 L317.3,255.3 L311.9,256.5 L314.0,260.5 L314.8,264.9 L320.9,265.4 L322.7,263.3 L328.2,264.2 L330.7,267.5 L336.2,285.0 L339.0,286.5 L341.8,292.7 L340.3,298.5 L339.8,307.7 L341.6,310.8 L345.4,311.0 L347.7,313.3 L351.6,312.4 L353.1,309.3 L352.4,307.4 L356.0,302.3 L356.2,300.2 L354.1,296.6 L352.2,290.8 L349.3,293.3 L348.1,289.1 L348.3,283.5 L347.8,277.8 L349.6,276.5 L351.0,271.8 L353.2,272.9 L358.0,267.0 L361.6,271.9 L371.5,280.1 L378.5,283.3 L379.6,285.4 L378.7,287.9 L375.4,291.4 L373.8,295.4 L375.9,295.5 L375.4,298.0 L379.0,302.2 L381.7,308.6 L381.3,312.6 L385.6,314.4 L387.4,318.3 L387.7,322.6 L397.9,326.5 L401.0,329.8 L407.3,326.5 L411.7,320.2 L411.9,323.4 L414.6,323.8 L415.1,320.6 L418.4,320.0 L419.3,322.7 L423.0,324.5 L425.9,320.8 L428.7,321.5 L428.9,324.3 L430.6,325.6 L430.8,329.7 L432.9,339.9 L432.8,348.3 L431.2,352.3 L422.0,365.5 L416.9,377.1 L408.3,391.6 L400.3,384.2 L391.7,380.0 L382.3,377.7 L375.3,379.3 L369.3,378.6 L362.2,382.4 L358.7,381.3 L353.2,376.6 L347.2,373.7 L342.6,374.1 L306.7,312.5 L304.5,307.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ER.DU</hasc>
+    <alt-name>Southern|al-Janubiyah</alt-name>
+    <woe-id>24549686</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ER06</fips>
+    <postal-code>DU</postal-code>
+    <name>Debub</name>
+    <country>Eritrea</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>40.1691</longitude>
+    <woe-name>Debub</woe-name>
+    <latitude>15.6179</latitude>
+    <woe-label>Semien-Keih-Bahri, ER, Eritrea</woe-label>
+    <type>Zoba</type>
+    <hc-middle-x>0.23</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>er-du</hc-key>
+    <hc-a2>DU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ER.GB" d="M189.0,358.0 L187.3,355.1 L183.2,354.2 L177.3,355.2 L175.4,354.9 L164.1,350.2 L162.4,346.7 L160.2,345.7 L159.1,341.8 L157.2,340.9 L154.0,335.2 L152.2,333.6 L117.8,414.9 L116.6,416.1 L113.7,413.5 L112.8,408.0 L108.5,405.9 L106.2,399.4 L100.5,395.0 L100.2,389.8 L94.3,381.6 L89.8,378.3 L86.1,379.2 L78.4,379.0 L74.8,379.8 L71.8,382.0 L69.3,386.4 L68.6,393.4 L66.6,396.5 L61.8,397.3 L59.6,398.8 L56.0,397.3 L53.5,394.3 L43.3,391.7 L32.9,391.2 L29.3,392.7 L22.5,392.9 L19.2,394.4 L13.8,395.2 L11.7,398.3 L9.7,398.3 L0.0,307.5 L1.0,303.3 L8.8,296.0 L10.7,293.1 L16.1,277.6 L18.2,274.3 L21.6,272.0 L20.2,267.4 L20.5,262.8 L26.4,242.4 L27.7,240.1 L32.9,234.8 L35.7,230.3 L49.1,193.3 L50.8,190.5 L55.2,186.1 L56.0,181.1 L53.7,174.5 L54.3,168.5 L53.7,166.6 L56.5,167.1 L58.6,170.1 L60.0,175.2 L60.6,181.2 L62.7,186.6 L66.0,190.2 L68.1,194.6 L71.9,196.4 L81.6,198.7 L86.8,200.6 L93.2,204.5 L97.1,208.5 L100.2,213.4 L102.1,217.9 L105.8,222.0 L112.5,224.4 L115.2,226.8 L115.3,228.8 L117.6,230.1 L125.1,230.1 L132.4,229.2 L138.2,230.0 L146.9,235.1 L155.6,236.1 L164.9,239.8 L175.0,246.6 L179.5,247.1 L187.4,243.5 L192.7,242.7 L196.2,243.8 L201.0,247.0 L207.2,254.1 L210.1,259.7 L215.7,262.2 L234.6,262.8 L245.3,261.5 L245.4,304.4 L238.5,303.6 L230.9,305.9 L222.0,308.0 L212.7,308.7 L207.7,310.8 L203.8,315.2 L201.5,319.1 L198.5,322.3 L192.3,325.2 L189.5,328.3 L185.6,338.4 L186.5,343.9 L189.7,351.1 L190.2,355.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ER.GB</hasc>
+    <alt-name>Gash-Barka|al-Qash wa-Barka|Debubawi Gash Barka</alt-name>
+    <woe-id>24549681</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ER04</fips>
+    <postal-code>GB</postal-code>
+    <name>Gash Barka</name>
+    <country>Eritrea</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>37.6058</longitude>
+    <woe-name>Gash Barka</woe-name>
+    <latitude>15.0297</latitude>
+    <woe-label>Gash-Barka, ER, Eritrea</woe-label>
+    <type>Zoba</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>er-gb</hc-key>
+    <hc-a2>GB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ER.AN" d="M245.4,304.4 L245.3,261.5 L248.7,260.7 L250.7,262.1 L256.6,260.6 L263.1,259.5 L267.4,269.1 L276.9,283.6 L282.9,290.2 L287.9,294.6 L296.9,299.4 L301.2,302.2 L300.1,303.5 L296.9,304.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ER.AN</hasc>
+    <alt-name>Ansaba|A'Nseba</alt-name>
+    <woe-id>24549682</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ER05</fips>
+    <postal-code>AN</postal-code>
+    <name>Anseba</name>
+    <country>Eritrea</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>39.0563</longitude>
+    <woe-name>Anseba</woe-name>
+    <latitude>15.2792</latitude>
+    <woe-label>Maekel, ER, Eritrea</woe-label>
+    <type>Zoba</type>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>er-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ER.SK" d="M263.1,259.5 L256.6,260.6 L250.7,262.1 L248.7,260.7 L245.3,261.5 L234.6,262.8 L215.7,262.2 L210.1,259.7 L207.2,254.1 L201.0,247.0 L196.2,243.8 L192.7,242.7 L187.4,243.5 L179.5,247.1 L175.0,246.6 L164.9,239.8 L155.6,236.1 L146.9,235.1 L138.2,230.0 L132.4,229.2 L125.1,230.1 L117.6,230.1 L115.3,228.8 L115.2,226.8 L112.5,224.4 L105.8,222.0 L102.1,217.9 L100.2,213.4 L97.1,208.5 L93.2,204.5 L86.8,200.6 L81.6,198.7 L71.9,196.4 L68.1,194.6 L66.0,190.2 L62.7,186.6 L60.6,181.2 L60.0,175.2 L58.6,170.1 L56.5,167.1 L53.7,166.6 L49.2,160.7 L48.6,156.7 L50.3,150.4 L50.3,145.0 L51.3,143.0 L57.4,137.7 L60.0,131.4 L60.4,125.0 L61.6,123.2 L60.7,121.2 L60.7,115.5 L58.4,112.0 L61.0,108.4 L61.1,104.3 L59.1,101.5 L59.8,98.8 L61.9,98.6 L66.9,101.2 L70.6,102.1 L75.6,104.7 L81.2,103.9 L85.8,103.9 L90.7,100.9 L93.7,100.7 L103.3,103.5 L109.1,96.6 L110.5,92.1 L113.5,85.9 L113.9,79.6 L112.8,74.6 L114.2,72.8 L127.8,68.6 L131.9,68.1 L136.1,65.9 L140.6,57.9 L144.2,56.0 L146.3,56.6 L149.4,59.6 L151.7,60.3 L156.2,58.2 L159.4,54.1 L166.4,49.5 L167.2,62.5 L165.2,106.3 L163.3,113.8 L163.8,118.5 L169.0,125.2 L169.6,130.8 L167.7,140.9 L168.4,143.3 L173.2,147.1 L196.7,151.4 L197.8,152.4 L200.0,158.3 L203.3,163.6 L205.8,172.1 L213.2,179.9 L216.1,185.3 L218.0,192.1 L217.8,196.6 L215.7,201.7 L215.6,213.1 L216.7,216.6 L218.9,219.5 L224.0,222.9 L233.7,226.4 L247.6,228.2 L250.5,231.1 L259.6,246.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ER.SK</hasc>
+    <alt-name>Northern Red Sea|al-Bahru al-Ahmaru ash-Shimali|Semenawi Keyh Bahri|Semien-Keih-Bahri</alt-name>
+    <woe-id>24549684</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ER01</fips>
+    <postal-code>SK</postal-code>
+    <name>Semenawi Keyih Bahri</name>
+    <country>Eritrea</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>37.9175</longitude>
+    <woe-name>Semenawi Keyih Bahri</woe-name>
+    <latitude>16.6263</latitude>
+    <woe-label>Anseba, ER, Eritrea</woe-label>
+    <type>Zoba</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>er-sk</hc-key>
+    <hc-a2>SK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ER.MA" d="M245.4,304.4 L296.9,304.3 L300.1,303.5 L301.2,302.2 L304.5,307.5 L306.7,312.5 L342.6,374.1 L337.9,374.9 L329.7,373.1 L326.4,369.6 L322.7,367.1 L320.9,367.1 L318.3,371.7 L314.0,373.8 L305.5,376.2 L297.9,375.4 L295.3,375.8 L291.6,380.7 L289.0,380.8 L286.9,376.8 L283.9,368.0 L280.6,363.5 L275.2,359.7 L268.5,358.6 L267.0,359.6 L266.7,365.3 L265.3,367.2 L258.8,370.6 L253.4,375.1 L248.8,375.5 L242.6,378.1 L238.7,378.7 L232.9,377.8 L226.4,381.1 L222.6,382.2 L214.6,383.1 L207.7,383.2 L204.3,378.1 L197.2,373.8 L195.1,370.3 L193.5,364.9 L189.7,361.4 L189.0,358.0 L190.2,355.0 L189.7,351.1 L186.5,343.9 L185.6,338.4 L189.5,328.3 L192.3,325.2 L198.5,322.3 L201.5,319.1 L203.8,315.2 L207.7,310.8 L212.7,308.7 L222.0,308.0 L230.9,305.9 L238.5,303.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ER.MA</hasc>
+    <alt-name>Central|al-Markaziyah|Maakel|Maekelay|Ma'kil|Makelay</alt-name>
+    <woe-id>24549683</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ER02</fips>
+    <postal-code>MA</postal-code>
+    <name>Maekel</name>
+    <country>Eritrea</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>38.9679</longitude>
+    <woe-name>Maekel</woe-name>
+    <latitude>14.858</latitude>
+    <woe-label>Debub, ER, Eritrea</woe-label>
+    <type>Zoba</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>er-ma</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ER.DK" d="M408.3,391.6 L416.9,377.1 L422.0,365.5 L431.2,352.3 L432.8,348.3 L432.9,339.9 L430.8,329.7 L430.6,325.6 L435.2,325.9 L436.4,331.9 L439.5,333.1 L439.0,331.3 L442.7,330.9 L443.7,332.3 L440.9,333.1 L447.5,339.7 L446.5,346.2 L451.0,350.8 L451.0,352.8 L455.4,352.0 L455.3,349.9 L457.7,350.9 L463.3,350.7 L469.6,354.6 L472.5,355.4 L479.5,355.5 L491.6,358.2 L494.1,360.3 L497.2,366.0 L504.9,371.3 L507.5,374.4 L509.1,378.0 L510.6,383.6 L514.0,385.4 L517.3,389.5 L518.7,393.7 L528.5,403.6 L532.3,412.9 L537.3,416.0 L540.7,419.5 L544.5,426.6 L546.6,432.6 L553.3,434.5 L558.0,433.3 L560.2,433.6 L563.9,438.8 L566.2,439.6 L570.5,438.8 L578.5,443.2 L579.9,448.9 L584.3,452.2 L590.1,459.0 L591.2,462.6 L593.0,464.0 L595.4,462.9 L598.7,465.5 L600.2,469.9 L605.0,472.5 L601.6,468.4 L603.7,467.6 L603.8,464.8 L600.6,462.7 L597.5,462.3 L600.1,461.1 L603.7,464.0 L607.6,469.1 L611.1,470.9 L611.8,477.9 L614.0,483.0 L616.1,484.8 L616.9,487.5 L618.7,499.9 L620.3,502.4 L621.1,508.4 L626.6,510.9 L631.3,511.3 L634.5,509.9 L635.9,506.8 L641.1,513.7 L646.5,518.0 L650.2,524.1 L655.4,526.0 L659.0,529.8 L660.1,535.8 L661.8,539.6 L663.0,546.4 L665.3,547.8 L669.5,546.0 L673.0,550.6 L679.7,551.6 L678.3,553.8 L683.0,551.6 L686.8,545.7 L686.8,541.9 L691.3,545.6 L692.4,547.8 L695.9,550.3 L697.1,556.5 L700.0,561.5 L699.4,562.3 L676.7,572.5 L673.3,571.5 L671.6,573.0 L669.3,578.9 L664.7,583.3 L666.2,589.8 L665.6,592.7 L661.2,594.0 L658.9,597.1 L655.1,598.2 L653.7,600.2 L637.1,585.9 L632.2,583.8 L627.5,583.4 L622.2,589.3 L617.1,584.1 L608.4,572.6 L601.4,561.0 L596.3,556.8 L590.4,553.6 L584.4,551.2 L576.2,546.0 L570.6,538.4 L562.3,520.9 L558.9,515.4 L555.3,510.7 L551.1,506.5 L532.0,491.2 L499.6,470.9 L496.4,467.8 L480.6,440.5 L458.5,415.7 L452.1,411.2 L445.0,408.6 L435.6,407.4 L432.6,406.4 L415.5,398.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ER.DK</hasc>
+    <alt-name>Southern Red Sea|Debubawi Keyh Bahri|Debub-Keih-Bahri|al-Bahru al-Ahmaru al-Janubi</alt-name>
+    <woe-id>24549685</woe-id>
+    <subregion>NULL</subregion>
+    <fips>DJ04</fips>
+    <postal-code>DK</postal-code>
+    <name>Debubawi Keyih Bahri</name>
+    <country>Eritrea</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>41.7389</longitude>
+    <woe-name>Debubawi Keyih Bahri</woe-name>
+    <latitude>13.5712</latitude>
+    <woe-label>Debub-Keih-Bahri, ER, Eritrea</woe-label>
+    <type>Zoba</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>er-dk</hc-key>
+    <hc-a2>DK</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

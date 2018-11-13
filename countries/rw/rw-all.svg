@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Rwanda</title>
+<g id="admin1">
+
+<g id="RW">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Rwanda</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Rwa.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>RWA</iso-a3>
+    <iso-a2>RW</iso-a2>
+    <woe-id>23424937</woe-id>
+    <continent>Africa</continent>
+    <hc-key>rw</hc-key>
+    <hc-a2>RW</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RW.S" d="M378.8,434.3 L373.7,430.7 L370.2,430.8 L366.9,453.4 L369.3,479.8 L361.8,505.7 L360.1,544.6 L358.3,552.1 L355.0,559.6 L346.1,572.8 L339.1,579.9 L332.6,583.7 L325.6,585.0 L317.1,584.7 L309.4,582.4 L305.4,582.5 L302.9,585.6 L300.2,596.0 L296.9,598.0 L289.1,598.9 L282.7,597.9 L264.7,592.0 L262.2,591.8 L246.6,598.1 L235.5,598.9 L229.1,603.0 L222.5,605.2 L214.5,600.7 L195.4,597.1 L189.3,597.8 L174.4,604.1 L165.9,604.9 L162.9,598.4 L162.5,594.1 L158.5,583.0 L159.7,579.5 L164.5,573.7 L165.2,569.8 L163.1,565.5 L155.6,558.2 L167.0,552.7 L171.9,544.1 L173.0,531.7 L167.3,523.3 L167.9,514.3 L160.2,501.1 L159.4,495.9 L156.6,492.1 L141.4,485.8 L142.6,479.0 L145.6,474.6 L160.0,466.9 L161.4,463.8 L159.4,456.7 L165.7,446.7 L166.0,443.5 L161.4,433.1 L162.3,428.5 L165.8,424.4 L171.1,421.7 L176.2,420.9 L180.0,422.1 L184.4,420.2 L190.8,415.4 L197.8,414.3 L209.9,414.3 L215.0,409.1 L223.5,402.4 L236.3,393.9 L239.7,389.8 L243.8,391.3 L249.1,389.5 L258.0,384.5 L257.9,379.8 L255.6,373.0 L255.9,369.5 L261.1,359.0 L261.1,356.4 L267.3,346.6 L268.6,337.5 L266.3,331.4 L266.7,324.2 L263.9,313.2 L272.6,313.4 L279.8,309.4 L280.6,305.8 L277.7,299.1 L277.6,295.3 L280.8,288.3 L278.2,270.8 L280.4,253.1 L279.3,241.6 L276.1,230.7 L282.1,229.5 L285.9,230.2 L291.6,234.0 L298.0,236.4 L305.0,236.0 L306.2,239.2 L318.4,257.7 L323.2,262.2 L324.9,267.2 L331.5,271.3 L340.9,274.5 L354.4,273.2 L364.5,274.6 L372.2,279.5 L380.5,287.9 L387.5,291.3 L389.9,298.4 L394.7,308.1 L391.8,317.6 L397.3,328.0 L394.5,331.9 L389.2,335.6 L388.5,338.9 L390.6,343.0 L400.0,347.0 L399.5,360.5 L397.3,364.7 L392.1,370.2 L388.4,377.3 L388.9,388.7 L387.0,405.5 L382.7,417.9 L380.5,431.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>RW.</hasc>
+    <alt-name>Province du Sud</alt-name>
+    <woe-id>55864752</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>S</postal-code>
+    <name>Southern</name>
+    <country>Rwanda</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>29.6424</longitude>
+    <woe-name>Southern</woe-name>
+    <latitude>-2.38388</latitude>
+    <woe-label>Province du Sud, RW, Rwanda</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>rw-s</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RW.W" d="M276.1,230.7 L279.3,241.6 L280.4,253.1 L278.2,270.8 L280.8,288.3 L277.6,295.3 L277.7,299.1 L280.6,305.8 L279.8,309.4 L272.6,313.4 L263.9,313.2 L266.7,324.2 L266.3,331.4 L268.6,337.5 L267.3,346.6 L261.1,356.4 L261.1,359.0 L255.9,369.5 L255.6,373.0 L257.9,379.8 L258.0,384.5 L249.1,389.5 L243.8,391.3 L239.7,389.8 L236.3,393.9 L223.5,402.4 L215.0,409.1 L209.9,414.3 L197.8,414.3 L190.8,415.4 L184.4,420.2 L180.0,422.1 L176.2,420.9 L171.1,421.7 L165.8,424.4 L162.3,428.5 L161.4,433.1 L166.0,443.5 L165.7,446.7 L159.4,456.7 L161.4,463.8 L160.0,466.9 L145.6,474.6 L142.6,479.0 L141.4,485.8 L156.6,492.1 L159.4,495.9 L160.2,501.1 L167.9,514.3 L167.3,523.3 L173.0,531.7 L171.9,544.1 L167.0,552.7 L155.6,558.2 L154.6,547.9 L144.1,541.2 L136.9,539.5 L122.3,537.7 L114.7,535.3 L93.8,526.2 L88.2,525.4 L68.1,526.7 L60.3,534.3 L54.3,568.5 L49.1,562.7 L42.0,559.2 L31.8,558.1 L27.2,556.3 L14.3,547.9 L11.7,545.2 L14.0,519.0 L11.7,511.1 L8.2,507.5 L1.3,503.5 L0.0,499.2 L1.3,494.7 L7.2,489.4 L5.9,485.0 L10.4,479.9 L12.6,470.8 L16.4,461.7 L23.1,455.9 L38.1,450.2 L48.0,442.8 L49.4,440.7 L54.1,424.6 L58.9,419.7 L65.5,421.9 L67.0,429.7 L67.4,438.3 L70.6,443.3 L67.6,450.4 L63.6,457.2 L69.1,453.6 L73.4,442.8 L77.3,435.4 L77.7,429.1 L81.3,429.0 L82.4,431.7 L86.8,426.8 L89.5,419.7 L92.1,419.7 L89.5,433.6 L103.8,405.7 L108.2,408.6 L113.1,409.7 L116.9,408.2 L118.1,403.2 L113.3,405.7 L111.5,398.8 L112.4,392.3 L116.0,388.5 L122.9,389.4 L120.3,379.5 L126.6,373.1 L136.2,372.6 L143.9,379.9 L143.0,374.1 L134.7,367.0 L134.9,356.0 L137.0,351.8 L141.7,349.2 L140.0,362.4 L143.9,365.6 L144.9,355.6 L146.3,350.3 L148.6,346.9 L154.2,349.1 L158.0,356.5 L160.4,349.4 L158.1,342.3 L161.6,341.3 L169.8,335.3 L171.9,339.5 L173.8,339.5 L174.7,334.2 L168.7,318.1 L169.9,311.7 L165.7,314.0 L163.6,312.1 L158.5,299.1 L155.9,298.9 L147.6,290.4 L144.5,283.3 L148.7,276.6 L145.8,270.0 L144.9,253.1 L139.5,246.2 L142.7,242.3 L143.6,237.8 L141.9,229.6 L134.9,226.3 L137.7,220.1 L134.4,216.1 L125.7,212.9 L134.1,199.0 L150.7,185.3 L154.2,180.8 L163.7,161.5 L167.7,156.4 L173.1,154.2 L199.4,153.1 L202.9,149.9 L210.6,160.3 L218.9,170.0 L232.8,174.6 L237.9,173.7 L253.1,180.8 L266.8,181.0 L268.2,191.3 L268.7,205.4 L268.1,222.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>RW.</hasc>
+    <alt-name>Province de l'Ouest</alt-name>
+    <woe-id>55864753</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>W</postal-code>
+    <name>Western</name>
+    <country>Rwanda</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>29.2644</longitude>
+    <woe-name>Province de l'Ouest</woe-name>
+    <latitude>-2.13156</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>rw-w</hc-key>
+    <hc-a2>WE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RW.E" d="M378.8,434.3 L380.5,431.6 L382.7,417.9 L387.0,405.5 L388.9,388.7 L388.4,377.3 L392.1,370.2 L397.3,364.7 L399.5,360.5 L400.0,347.0 L411.3,340.6 L414.2,344.1 L419.3,344.2 L435.7,341.0 L441.1,336.2 L450.9,332.2 L455.1,333.3 L465.9,348.0 L471.0,338.5 L473.3,326.2 L474.6,309.9 L476.5,307.8 L486.2,303.4 L487.8,300.6 L487.2,288.2 L483.1,283.6 L483.3,278.8 L479.2,268.7 L487.9,262.0 L487.8,256.8 L481.7,234.5 L480.4,227.3 L482.9,219.6 L480.9,215.0 L476.0,209.7 L463.1,193.3 L458.6,188.6 L452.5,175.5 L451.1,167.8 L452.9,162.1 L455.7,159.7 L453.9,157.1 L443.3,159.4 L442.2,151.0 L434.8,135.7 L426.6,122.7 L422.5,118.4 L421.4,114.9 L417.0,112.3 L427.2,106.9 L441.3,101.5 L445.0,98.0 L446.8,92.8 L448.9,79.5 L451.4,74.9 L454.1,73.3 L462.1,71.9 L467.5,68.7 L482.8,54.3 L491.1,42.3 L492.5,35.1 L495.9,31.1 L503.8,26.8 L505.6,21.6 L507.8,7.4 L510.8,2.5 L516.0,0.7 L533.4,4.0 L543.4,0.6 L548.1,0.0 L557.1,2.8 L551.7,9.4 L551.7,16.9 L556.8,20.4 L557.9,25.1 L554.9,31.1 L558.5,35.2 L564.9,33.1 L570.6,38.3 L572.0,47.2 L574.1,52.2 L580.4,62.5 L582.4,69.5 L586.3,76.5 L584.0,83.6 L585.8,89.1 L590.3,92.4 L600.4,96.6 L612.4,106.0 L635.2,114.4 L641.9,115.4 L648.6,119.4 L650.6,128.4 L649.9,137.3 L647.0,143.3 L649.0,147.8 L660.5,162.6 L663.9,174.9 L667.2,182.6 L672.6,186.9 L680.8,183.8 L683.3,191.0 L683.0,199.8 L678.5,226.9 L678.3,230.6 L683.0,240.2 L679.1,249.6 L683.0,267.0 L681.1,272.8 L677.5,277.9 L675.6,283.2 L678.2,289.3 L672.6,293.7 L668.8,298.7 L679.1,300.3 L680.1,309.4 L675.5,329.3 L682.0,328.0 L688.2,331.1 L697.1,341.3 L700.0,351.2 L688.0,389.4 L685.0,404.5 L686.4,427.9 L684.9,434.9 L681.3,441.3 L676.8,444.5 L665.7,450.1 L655.2,453.5 L652.4,452.8 L634.5,444.0 L626.3,443.4 L622.3,446.4 L617.4,455.6 L613.5,458.8 L606.3,459.2 L598.8,457.1 L591.5,456.1 L584.8,460.0 L573.5,459.6 L562.0,454.2 L543.3,438.9 L539.6,431.3 L536.8,429.9 L524.2,426.4 L518.7,428.0 L507.8,439.1 L502.9,441.6 L489.8,445.0 L480.0,444.3 L469.2,439.1 L465.2,438.7 L463.1,446.6 L447.5,466.0 L441.6,470.0 L433.9,470.2 L426.0,467.2 L418.8,462.4 L413.1,457.5 L402.5,444.9 L394.4,440.3 L385.5,440.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>RW.</hasc>
+    <alt-name>Province de l'Est</alt-name>
+    <woe-id>55864749</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>E</postal-code>
+    <name>Eastern</name>
+    <country>Rwanda</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>30.4223</longitude>
+    <woe-name>Eastern</woe-name>
+    <latitude>-1.69059</latitude>
+    <woe-label>Province de l'Est, RW, Rwanda</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>rw-e</hc-key>
+    <hc-a2>EA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RW.N" d="M387.5,291.3 L380.5,287.9 L372.2,279.5 L364.5,274.6 L354.4,273.2 L340.9,274.5 L331.5,271.3 L324.9,267.2 L323.2,262.2 L318.4,257.7 L306.2,239.2 L305.0,236.0 L298.0,236.4 L291.6,234.0 L285.9,230.2 L282.1,229.5 L276.1,230.7 L268.1,222.8 L268.7,205.4 L268.2,191.3 L266.8,181.0 L253.1,180.8 L237.9,173.7 L232.8,174.6 L218.9,170.0 L210.6,160.3 L202.9,149.9 L209.6,139.5 L221.5,127.2 L235.2,117.4 L248.8,112.6 L262.6,113.4 L269.8,112.8 L276.3,111.1 L288.7,103.3 L294.5,100.4 L302.8,98.9 L306.9,99.8 L316.7,105.1 L319.5,103.5 L321.6,96.7 L324.7,93.0 L330.9,90.2 L337.8,92.5 L347.4,106.5 L349.0,113.7 L349.8,127.8 L353.1,135.1 L359.0,140.6 L365.7,142.5 L373.0,141.7 L380.6,138.9 L404.0,126.1 L407.6,125.3 L410.7,117.9 L417.0,112.3 L421.4,114.9 L422.5,118.4 L426.6,122.7 L434.8,135.7 L442.2,151.0 L443.3,159.4 L453.9,157.1 L455.7,159.7 L452.9,162.1 L451.1,167.8 L452.5,175.5 L458.6,188.6 L463.1,193.3 L476.0,209.7 L480.9,215.0 L482.9,219.6 L480.4,227.3 L481.7,234.5 L487.8,256.8 L487.9,262.0 L479.2,268.7 L471.0,266.5 L448.9,251.4 L440.5,246.8 L436.4,257.1 L434.5,259.5 L431.2,259.0 L422.8,260.5 L415.8,263.6 L410.1,270.4 L405.6,273.0 L396.8,267.2 L393.4,268.3 L386.4,280.6 L389.7,289.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>RW.</hasc>
+    <alt-name>Province du Nord</alt-name>
+    <woe-id>55864751</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>N</postal-code>
+    <name>Northern</name>
+    <country>Rwanda</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>29.8587</longitude>
+    <woe-name>Northern</woe-name>
+    <latitude>-1.61148</latitude>
+    <woe-label>Province du Nord, RW, Rwanda</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>rw-n</hc-key>
+    <hc-a2>NO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="RW.K" d="M479.2,268.7 L483.3,278.8 L483.1,283.6 L487.2,288.2 L487.8,300.6 L486.2,303.4 L476.5,307.8 L474.6,309.9 L473.3,326.2 L471.0,338.5 L465.9,348.0 L455.1,333.3 L450.9,332.2 L441.1,336.2 L435.7,341.0 L419.3,344.2 L414.2,344.1 L411.3,340.6 L400.0,347.0 L390.6,343.0 L388.5,338.9 L389.2,335.6 L394.5,331.9 L397.3,328.0 L391.8,317.6 L394.7,308.1 L389.9,298.4 L387.5,291.3 L389.7,289.9 L386.4,280.6 L393.4,268.3 L396.8,267.2 L405.6,273.0 L410.1,270.4 L415.8,263.6 L422.8,260.5 L431.2,259.0 L434.5,259.5 L436.4,257.1 L440.5,246.8 L448.9,251.4 L471.0,266.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>RW.</hasc>
+    <alt-name>Ville de Kigali</alt-name>
+    <woe-id>55864750</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>K</postal-code>
+    <name>Kigali City</name>
+    <country>Rwanda</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>30.1253</longitude>
+    <woe-name>Kigali City</woe-name>
+    <latitude>-1.92643</latitude>
+    <woe-label>Kigali Province, RW, Rwanda</woe-label>
+    <type>Province</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>rw-k</hc-key>
+    <hc-a2>KC</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>District of Columbia</title>
+<g id="admin2">
+
+<g id="US.DC">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>US.DC</hasc>
+    <alt-name>DC|D.C.</alt-name>
+    <woe-id>2347567</woe-id>
+    <subregion>South Atlantic</subregion>
+    <fips>US11</fips>
+    <postal-code>DC</postal-code>
+    <name>District of Columbia</name>
+    <country>United States of America</country>
+    <type-en>Federal District</type-en>
+    <region>South</region>
+    <longitude>-77.01130000000001</longitude>
+    <woe-name>District of Columbia</woe-name>
+    <latitude>38.8922</latitude>
+    <woe-label>District of Columbia, US, United States</woe-label>
+    <type>Federal District</type>
+    <hc-key>us-dc</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</g>
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.DC.001" d="M211.2,600.5 L215.4,632.0 L210.8,609.5 L206.5,603.1 Z M213.9,659.8 L211.8,697.7 L209.9,700.0 L209.8,682.9 Z M205.7,546.1 L200.2,546.5 L203.3,567.2 L194.7,544.2 L188.8,539.7 L201.4,542.4 Z M208.1,546.0 L207.5,546.0 L207.7,545.9 L207.8,545.9 Z M230.8,525.0 L230.8,526.6 L230.4,527.3 L230.6,526.3 Z M218.5,452.8 L226.2,471.5 L229.0,486.3 L217.5,462.9 Z M253.8,671.7 L277.7,496.1 L203.2,424.4 L70.3,311.1 L0.0,209.3 L220.1,0.0 L323.2,106.9 L572.1,367.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>11001</fips>
+    <name>District of Columbia</name>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>us-dc-001</hc-key>
+    <hc-a2>DO</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

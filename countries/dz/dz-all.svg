@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Algeria</title>
+<g id="admin1">
+
+<g id="DZ">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Algeria</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Alg.</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>DZA</iso-a3>
+    <iso-a2>DZ</iso-a2>
+    <woe-id>23424740</woe-id>
+    <continent>Africa</continent>
+    <hc-key>dz</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.ML" d="M497.4,34.9 L494.1,37.1 L493.9,40.2 L486.8,43.6 L486.6,45.2 L484.1,45.6 L481.3,44.8 L481.3,39.5 L477.6,32.2 L477.6,26.8 L474.3,25.0 L473.3,21.1 L478.4,21.4 L481.3,19.1 L487.2,19.7 L490.0,18.0 L495.0,19.5 L496.4,19.6 L495.5,25.4 L492.0,26.4 L497.6,33.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.ML</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344618</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG48</fips>
+    <postal-code>ML</postal-code>
+    <name>Mila</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>6.1311</longitude>
+    <woe-name>Mila</woe-name>
+    <latitude>36.2449</latitude>
+    <woe-label>Mila, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>dz-ml</hc-key>
+    <hc-a2>ML</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.OB" d="M486.6,45.2 L486.8,43.6 L493.9,40.2 L494.1,37.1 L497.4,34.9 L499.1,36.9 L505.5,33.7 L509.0,36.7 L512.3,34.7 L514.6,38.9 L518.5,35.1 L521.9,35.4 L523.4,40.0 L529.7,45.8 L532.1,46.0 L535.5,42.0 L538.8,44.6 L537.8,49.2 L538.5,53.8 L529.8,60.5 L527.4,57.4 L521.7,54.7 L517.4,54.6 L514.5,56.3 L512.6,54.3 L507.5,54.8 L505.7,52.7 L501.9,48.6 L497.0,49.3 L496.6,47.1 L492.7,45.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.OB</hasc>
+    <alt-name>Oum el Bouagui|Canrobert</alt-name>
+    <woe-id>2344600</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG29</fips>
+    <postal-code>OB</postal-code>
+    <name>Oum el Bouaghi</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>7.00715</longitude>
+    <woe-name>Oum el Bouaghi</woe-name>
+    <latitude>35.891</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>dz-ob</hc-key>
+    <hc-a2>OB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.SA" d="M538.8,44.6 L535.5,42.0 L532.1,46.0 L529.7,45.8 L523.4,40.0 L521.9,35.4 L524.4,33.2 L536.9,27.6 L535.6,23.2 L541.3,21.1 L542.1,23.7 L546.8,20.5 L552.3,21.8 L551.5,29.5 L552.0,33.2 L550.9,39.8 L548.7,38.7 L542.8,40.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>DZ.SA</hasc>
+    <alt-name>Souk-Ahras|Souq Ahras</alt-name>
+    <woe-id>2344622</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG52</fips>
+    <postal-code>SA</postal-code>
+    <name>Souk Ahras</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>7.84211</longitude>
+    <woe-name>Souk Ahras</woe-name>
+    <latitude>36.1547</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.95</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>dz-sa</hc-key>
+    <hc-a2>SA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.TB" d="M529.8,60.5 L538.5,53.8 L537.8,49.2 L538.8,44.6 L542.8,40.2 L548.7,38.7 L550.9,39.8 L550.3,45.2 L553.2,51.6 L553.9,57.0 L552.7,61.0 L553.7,65.2 L557.3,66.8 L554.0,72.2 L552.4,79.8 L553.3,84.9 L552.5,89.3 L548.3,94.0 L540.4,98.7 L538.9,104.5 L534.6,107.0 L531.9,110.3 L525.3,110.8 L519.2,109.1 L521.2,104.0 L522.9,94.7 L526.5,87.6 L525.0,78.7 L520.6,80.0 L525.5,73.1 L526.2,62.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>DZ.TB</hasc>
+    <alt-name>Tbessa</alt-name>
+    <woe-id>2344603</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG33</fips>
+    <postal-code>TB</postal-code>
+    <name>Tébessa</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>7.78338</longitude>
+    <woe-name>Tébessa</woe-name>
+    <latitude>34.9437</latitude>
+    <woe-label>Tebessa, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>dz-tb</hc-key>
+    <hc-a2>TB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.IL" d="M597.9,260.4 L604.2,268.3 L608.5,275.4 L614.7,293.0 L616.3,305.8 L614.9,325.3 L621.1,340.1 L618.0,353.8 L615.1,362.0 L619.3,375.7 L622.4,378.4 L622.3,385.6 L620.5,391.3 L608.9,397.6 L605.7,404.6 L606.6,406.7 L627.3,432.6 L629.3,437.2 L630.4,452.6 L636.2,456.3 L638.8,462.7 L643.5,466.1 L654.6,462.8 L682.2,470.1 L684.4,471.8 L689.9,481.5 L586.7,486.7 L579.8,478.5 L575.4,478.3 L565.1,474.5 L560.3,474.1 L548.8,465.9 L538.1,462.3 L531.2,455.3 L529.6,447.3 L532.3,440.6 L526.1,432.8 L524.6,423.2 L516.2,421.1 L509.5,417.9 L502.2,408.6 L497.8,406.3 L498.0,402.4 L500.6,395.7 L498.3,390.3 L489.6,382.9 L484.7,365.9 L486.4,360.8 L499.0,348.9 L509.1,344.1 L507.0,336.6 L488.2,322.1 L503.4,312.7 L515.3,307.2 L527.1,307.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.IL</hasc>
+    <alt-name>Polignac|Fort Polignac|Ilizi</alt-name>
+    <woe-id>2344616</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG46</fips>
+    <postal-code>IL</postal-code>
+    <name>Illizi</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>8.7628</longitude>
+    <woe-name>Illizi</woe-name>
+    <latitude>26.8506</latitude>
+    <woe-label>Illizi, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>dz-il</hc-key>
+    <hc-a2>IL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.AT" d="M257.3,65.5 L260.3,63.0 L263.0,56.5 L265.6,54.5 L270.0,61.6 L276.6,60.2 L279.7,62.6 L278.6,65.9 L271.7,69.0 L271.9,71.4 L268.0,74.7 L259.9,70.3 L258.0,70.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.AT</hasc>
+    <alt-name>Ain Tamouchent</alt-name>
+    <woe-id>2344606</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG36</fips>
+    <postal-code>AT</postal-code>
+    <name>Aïn Témouchent</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-0.995722</longitude>
+    <woe-name>Aïn Témouchent</woe-name>
+    <latitude>35.2708</latitude>
+    <woe-label>'Aïn Temouchent, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.22</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>dz-at</hc-key>
+    <hc-a2>AT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.OR" d="M278.6,65.9 L279.7,62.6 L276.6,60.2 L270.0,61.6 L265.6,54.5 L267.9,52.4 L274.4,49.4 L278.7,51.5 L283.6,49.4 L285.1,45.3 L289.1,44.8 L291.7,48.2 L296.1,49.4 L296.1,49.6 L286.9,57.2 L282.4,63.1 L280.6,66.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.OR</hasc>
+    <alt-name>Orán|Orano|Orão|Ouahran|Ouahrane|Wahran</alt-name>
+    <woe-id>2344584</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG09</fips>
+    <postal-code>OR</postal-code>
+    <name>Oran</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-0.610009</longitude>
+    <woe-name>Oran</woe-name>
+    <latitude>35.5208</latitude>
+    <woe-label>Oran, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.16</hc-middle-y>
+    <hc-key>dz-or</hc-key>
+    <hc-a2>OR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.SB" d="M268.0,74.7 L271.9,71.4 L271.7,69.0 L278.6,65.9 L280.6,66.4 L282.4,63.1 L284.3,64.5 L292.7,67.2 L292.2,71.4 L293.7,74.3 L291.0,75.5 L289.8,82.6 L287.3,83.7 L291.9,87.3 L296.6,94.4 L295.9,96.5 L282.7,107.3 L278.8,104.1 L271.8,107.5 L263.1,105.0 L270.3,98.5 L270.3,95.6 L274.8,89.3 L270.7,87.0 L271.1,83.9 L268.8,80.9 L270.0,76.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.SB</hasc>
+    <alt-name>Sidi-Bel-Abbes</alt-name>
+    <woe-id>2344601</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG30</fips>
+    <postal-code>SB</postal-code>
+    <name>Sidi Bel Abbès</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-0.586496</longitude>
+    <woe-name>Sidi Bel Abbès</woe-name>
+    <latitude>34.8335</latitude>
+    <woe-label>Sidi Bel Abbes, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>dz-sb</hc-key>
+    <hc-a2>SB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.TL" d="M268.0,74.7 L270.0,76.1 L268.8,80.9 L271.1,83.9 L270.7,87.0 L274.8,89.3 L270.3,95.6 L270.3,98.5 L263.1,105.0 L259.2,107.2 L251.8,107.6 L245.7,111.0 L243.7,103.5 L241.9,100.3 L245.4,96.4 L240.4,91.8 L243.8,86.6 L231.2,76.1 L230.5,72.9 L235.7,73.7 L244.7,72.1 L252.7,66.2 L257.3,65.5 L258.0,70.5 L259.9,70.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.TL</hasc>
+    <alt-name>Tilimsene|Tlemsane|Tilimsen|Tremecém</alt-name>
+    <woe-id>2344589</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG15</fips>
+    <postal-code>TL</postal-code>
+    <name>Tlemcen</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-1.49045</longitude>
+    <woe-name>Tlemcen</woe-name>
+    <latitude>34.7431</latitude>
+    <woe-label>Tlemcen, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>dz-tl</hc-key>
+    <hc-a2>TL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.TN" d="M97.1,424.9 L0.0,349.8 L5.1,297.7 L6.4,295.6 L14.5,291.6 L15.9,289.7 L26.9,284.1 L42.9,273.9 L51.7,274.9 L58.8,270.7 L65.0,271.3 L70.6,274.1 L73.6,271.8 L87.8,270.5 L96.7,271.3 L117.2,324.5 L168.3,314.2 L191.4,366.6 L97.5,424.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.TN</hasc>
+    <alt-name>Tiaret</alt-name>
+    <woe-id>2344624</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG54</fips>
+    <postal-code>TN</postal-code>
+    <name>Tindouf</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-5.8285</longitude>
+    <woe-name>Tindouf</woe-name>
+    <latitude>27.4985</latitude>
+    <woe-label>Tindouf, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>dz-tn</hc-key>
+    <hc-a2>TN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.BC" d="M168.3,314.2 L117.2,324.5 L96.7,271.3 L104.8,270.6 L105.7,274.1 L111.7,274.5 L115.5,270.3 L121.4,261.5 L124.8,258.3 L135.2,251.4 L143.6,248.1 L148.4,244.7 L152.3,240.2 L159.6,237.8 L170.1,236.9 L176.4,234.1 L176.2,229.4 L179.8,225.1 L177.5,219.7 L174.1,216.3 L171.5,217.6 L172.1,211.0 L177.0,208.7 L178.0,199.0 L192.3,197.2 L204.9,195.1 L201.9,185.4 L215.5,183.0 L255.8,186.7 L257.1,183.9 L254.1,184.0 L255.2,181.1 L262.3,180.9 L266.3,186.1 L268.7,186.1 L294.5,178.8 L282.0,212.0 L282.9,215.5 L289.6,223.6 L307.0,239.6 L286.7,275.1 L265.3,302.0 L260.9,305.0 L230.5,309.3 L222.5,312.8 L207.0,323.2 L198.8,326.0 L191.9,324.3 L174.8,314.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.BC</hasc>
+    <alt-name>Colomb-Béchar|Bechar</alt-name>
+    <woe-id>2344608</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG38</fips>
+    <postal-code>BC</postal-code>
+    <name>Béchar</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-2.81838</longitude>
+    <woe-name>Béchar</woe-name>
+    <latitude>30.1882</latitude>
+    <woe-label>Bechar, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>dz-bc</hc-key>
+    <hc-a2>BC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.NA" d="M294.5,178.8 L268.7,186.1 L266.3,186.1 L262.3,180.9 L255.2,181.1 L257.2,175.1 L260.3,174.3 L262.8,170.7 L251.3,161.8 L247.3,154.4 L249.4,149.8 L244.2,142.9 L244.1,138.0 L246.6,132.4 L245.2,127.7 L242.8,126.0 L244.2,122.9 L243.9,118.2 L245.7,111.0 L251.8,107.6 L259.2,107.2 L263.1,105.0 L271.8,107.5 L278.8,104.1 L282.7,107.3 L282.5,110.0 L286.6,119.0 L290.5,114.1 L295.1,113.2 L295.8,116.8 L300.3,114.6 L298.6,130.5 L299.0,139.7 L295.5,153.7 L296.1,160.5 L292.9,168.9 L295.7,172.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.NA</hasc>
+    <alt-name>Naama</alt-name>
+    <woe-id>2344619</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG49</fips>
+    <postal-code>NA</postal-code>
+    <name>Naâma</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-0.830564</longitude>
+    <woe-name>Naâma</woe-name>
+    <latitude>33.1649</latitude>
+    <woe-label>Naama, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>dz-na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.AR" d="M168.3,314.2 L174.8,314.0 L191.9,324.3 L198.8,326.0 L207.0,323.2 L222.5,312.8 L230.5,309.3 L260.9,305.0 L265.3,302.0 L286.7,275.1 L307.0,239.6 L318.5,227.9 L327.8,221.6 L361.7,205.0 L361.0,234.8 L356.6,263.3 L360.7,302.8 L362.3,323.2 L361.8,330.7 L359.9,338.8 L355.4,385.9 L349.4,393.3 L344.6,394.4 L341.6,398.3 L336.9,400.0 L326.0,400.2 L317.7,405.6 L326.2,416.7 L327.2,427.2 L333.6,432.9 L331.9,554.9 L334.2,558.4 L410.9,603.7 L417.2,610.8 L418.3,619.3 L418.8,674.8 L401.8,677.8 L394.5,671.4 L399.7,663.5 L397.8,655.0 L398.5,647.5 L388.9,642.0 L373.1,639.1 L369.7,637.7 L365.5,631.7 L362.1,629.4 L358.2,631.8 L351.9,631.1 L343.4,624.3 L343.2,620.2 L338.9,616.6 L333.5,615.1 L331.1,612.2 L326.6,612.2 L327.2,602.4 L326.0,598.4 L134.6,453.7 L97.1,424.9 L97.5,424.5 L191.4,366.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.AR</hasc>
+    <alt-name>Duperré</alt-name>
+    <woe-id>2344604</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG34</fips>
+    <postal-code>AR</postal-code>
+    <name>Adrar</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>-0.93557</longitude>
+    <woe-name>Adrar</woe-name>
+    <latitude>25.7004</latitude>
+    <woe-label>Adrar, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>dz-ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.AN" d="M518.5,0.0 L525.3,0.5 L528.4,2.8 L534.7,2.3 L534.1,6.2 L533.8,10.2 L530.8,14.9 L528.3,16.9 L522.7,12.9 L521.8,7.1 L520.0,5.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>DZ.AN</hasc>
+    <alt-name>Anaba|Bona|Bône</alt-name>
+    <woe-id>2344607</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG37</fips>
+    <postal-code>AN</postal-code>
+    <name>Annaba</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>7.53073</longitude>
+    <woe-name>Annaba</woe-name>
+    <latitude>36.823</latitude>
+    <woe-label>Annaba, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.88</hc-middle-x>
+    <hc-middle-y>0.18</hc-middle-y>
+    <hc-key>dz-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.ET" d="M530.8,14.9 L533.8,10.2 L534.1,6.2 L538.2,7.5 L542.4,6.3 L547.8,3.0 L555.8,4.5 L558.9,3.0 L560.3,6.3 L553.4,9.8 L555.1,11.0 L553.7,14.5 L546.7,19.2 L546.8,20.5 L542.1,23.7 L541.3,21.1 L535.0,18.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.ET</hasc>
+    <alt-name>Et Tarf|El Taref</alt-name>
+    <woe-id>2344614</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG44</fips>
+    <postal-code>ET</postal-code>
+    <name>El Tarf</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>8.14597</longitude>
+    <woe-name>El Tarf</woe-name>
+    <latitude>36.7012</latitude>
+    <woe-label>El Tarf, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.78</hc-middle-x>
+    <hc-middle-y>0.25</hc-middle-y>
+    <hc-key>dz-et</hc-key>
+    <hc-a2>ET</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.JJ" d="M463.9,17.3 L468.3,13.6 L473.7,10.7 L482.0,9.7 L488.2,6.5 L492.0,13.6 L495.5,16.5 L495.0,19.5 L490.0,18.0 L487.2,19.7 L481.3,19.1 L478.4,21.4 L473.3,21.1 L467.9,22.5 L465.4,20.0 L464.1,19.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.JJ</hasc>
+    <alt-name>Djidjel| Djidjelli</alt-name>
+    <woe-id>2344596</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG24</fips>
+    <postal-code>JJ</postal-code>
+    <name>Jijel</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.95292</longitude>
+    <woe-name>Jijel</woe-name>
+    <latitude>36.7106</latitude>
+    <woe-label>Jijel, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>dz-jj</hc-key>
+    <hc-a2>JJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.SK" d="M496.4,19.6 L495.0,19.5 L495.5,16.5 L492.0,13.6 L488.2,6.5 L490.8,1.4 L494.5,0.3 L498.2,4.1 L505.4,5.2 L508.2,7.3 L515.6,6.2 L518.5,0.0 L520.0,5.4 L521.8,7.1 L522.7,12.9 L520.4,16.0 L515.1,18.5 L513.8,21.7 L509.7,24.5 L506.2,23.6 L509.0,19.8 L504.7,20.0 L500.9,18.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.SK</hasc>
+    <alt-name>Philippeville|Skidda</alt-name>
+    <woe-id>2344602</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG31</fips>
+    <postal-code>SK</postal-code>
+    <name>Skikda</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>6.81608</longitude>
+    <woe-name>Skikda</woe-name>
+    <latitude>36.7555</latitude>
+    <woe-label>Skikda, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>dz-sk</hc-key>
+    <hc-a2>SK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.EB" d="M361.7,205.0 L327.8,221.6 L318.5,227.9 L307.0,239.6 L289.6,223.6 L282.9,215.5 L282.0,212.0 L294.5,178.8 L295.7,172.9 L292.9,168.9 L296.1,160.5 L295.5,153.7 L299.0,139.7 L298.6,130.5 L300.3,114.6 L305.4,108.0 L308.4,107.9 L319.6,101.1 L321.5,100.6 L329.9,104.5 L330.0,110.1 L336.6,110.4 L339.2,114.7 L340.8,118.2 L344.9,120.7 L352.2,123.4 L360.2,136.3 L360.7,139.1 L358.7,144.0 L361.9,152.1 L364.9,155.9 L368.5,166.3 L368.6,178.2 L370.0,187.4 L366.3,194.1 L366.6,200.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.EB</hasc>
+    <alt-name>El Bayad|El Beyyadh|Géryville</alt-name>
+    <woe-id>2344612</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG42</fips>
+    <postal-code>EB</postal-code>
+    <name>El Bayadh</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>0.971858</longitude>
+    <woe-name>El Bayadh</woe-name>
+    <latitude>32.7753</latitude>
+    <woe-label>El Bayadh, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>dz-eb</hc-key>
+    <hc-a2>EB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.TM" d="M488.2,322.1 L507.0,336.6 L509.1,344.1 L499.0,348.9 L486.4,360.8 L484.7,365.9 L489.6,382.9 L498.3,390.3 L500.6,395.7 L498.0,402.4 L497.8,406.3 L502.2,408.6 L509.5,417.9 L516.2,421.1 L524.6,423.2 L526.1,432.8 L532.3,440.6 L529.6,447.3 L531.2,455.3 L538.1,462.3 L548.8,465.9 L560.3,474.1 L565.1,474.5 L575.4,478.3 L579.8,478.5 L586.7,486.7 L689.9,481.5 L700.0,499.1 L548.0,605.1 L530.8,620.9 L491.1,658.4 L488.1,660.2 L418.8,674.8 L418.3,619.3 L417.2,610.8 L410.9,603.7 L334.2,558.4 L331.9,554.9 L333.6,432.9 L327.2,427.2 L326.2,416.7 L317.7,405.6 L326.0,400.2 L336.9,400.0 L341.6,398.3 L344.6,394.4 L349.4,393.3 L355.4,385.9 L359.9,338.8 L361.8,330.7 L362.3,323.2 L360.7,302.8 L390.4,299.7 L417.7,321.2 L448.6,324.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.TM</hasc>
+    <alt-name>Tamanrasset|Tamenghasset|Tamenghest|Fort Laperrine</alt-name>
+    <woe-id>2344623</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG53</fips>
+    <postal-code>TM</postal-code>
+    <name>Tamanghasset</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>6.39695</longitude>
+    <woe-name>Tamanghasset</woe-name>
+    <latitude>23.0089</latitude>
+    <woe-label>Tamanghasset, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>dz-tm</hc-key>
+    <hc-a2>TM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.GR" d="M390.4,299.7 L360.7,302.8 L356.6,263.3 L361.0,234.8 L361.7,205.0 L366.6,200.8 L366.3,194.1 L370.0,187.4 L368.6,178.2 L368.5,166.3 L379.8,164.3 L387.3,162.1 L394.0,161.4 L399.2,163.2 L404.3,159.7 L414.0,155.1 L418.7,155.6 L427.8,153.7 L453.2,160.4 L445.8,172.1 L439.7,178.0 L435.2,181.0 L432.8,184.7 L426.3,200.0 L424.4,208.9 L416.9,267.3 L414.3,272.0 L406.5,280.5 L403.8,290.7 L402.1,292.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.GR</hasc>
+    <alt-name>GhardaSa|Gharday</alt-name>
+    <woe-id>2344615</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG45</fips>
+    <postal-code>GR</postal-code>
+    <name>Ghardaïa</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>3.11396</longitude>
+    <woe-name>Ghardaïa</woe-name>
+    <latitude>31.1547</latitude>
+    <woe-label>Ghardaia, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>dz-gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.LG" d="M427.8,153.7 L418.7,155.6 L414.0,155.1 L404.3,159.7 L399.2,163.2 L394.0,161.4 L387.3,162.1 L379.8,164.3 L368.5,166.3 L364.9,155.9 L361.9,152.1 L358.7,144.0 L360.7,139.1 L360.2,136.3 L352.2,123.4 L344.9,120.7 L340.8,118.2 L339.2,114.7 L348.7,107.9 L351.1,103.5 L354.8,100.2 L359.4,98.6 L367.4,92.3 L371.0,91.8 L369.5,96.6 L369.3,102.3 L374.8,113.4 L375.0,120.8 L379.7,120.9 L380.5,113.8 L385.5,112.2 L388.8,108.2 L394.1,109.2 L395.8,115.8 L398.1,119.7 L410.9,133.9 L423.1,144.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.LG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344597</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG25</fips>
+    <postal-code>LG</postal-code>
+    <name>Laghouat</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>2.75622</longitude>
+    <woe-name>Laghouat</woe-name>
+    <latitude>33.4521</latitude>
+    <woe-label>Laghouat, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>dz-lg</hc-key>
+    <hc-a2>LG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.OG" d="M488.2,322.1 L448.6,324.0 L417.7,321.2 L390.4,299.7 L402.1,292.9 L403.8,290.7 L406.5,280.5 L414.3,272.0 L416.9,267.3 L424.4,208.9 L426.3,200.0 L432.8,184.7 L435.2,181.0 L439.7,178.0 L445.8,172.1 L453.2,160.4 L452.1,145.5 L453.7,138.0 L490.9,139.5 L496.8,141.5 L499.7,147.4 L507.4,171.3 L513.0,181.3 L519.0,188.0 L528.1,189.6 L583.8,187.0 L602.3,252.4 L595.0,257.0 L597.9,260.4 L527.1,307.9 L515.3,307.2 L503.4,312.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.OG</hasc>
+    <alt-name>Wargla</alt-name>
+    <woe-id>2344620</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG50</fips>
+    <postal-code>OG</postal-code>
+    <name>Ouargla</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>6.2527</longitude>
+    <woe-name>Ouargla</woe-name>
+    <latitude>31.0014</latitude>
+    <woe-label>Ouargla, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>dz-og</hc-key>
+    <hc-a2>OG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.AL" d="M390.4,12.6 L393.9,15.0 L396.1,15.3 L396.1,15.4 L397.8,17.5 L393.8,18.8 L391.6,16.5 L389.8,15.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>DZ.AL</hasc>
+    <alt-name>Algeri|Algiers|Algier|al-Jazair|al-Djazair|El Djazaïr|Argel|Dzayer|Djezaïr</alt-name>
+    <woe-id>2344579</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG01</fips>
+    <postal-code>AL</postal-code>
+    <name>Alger</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>3.09806</longitude>
+    <woe-name>Alger</woe-name>
+    <latitude>36.7024</latitude>
+    <woe-label>Alger, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>dz-al</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.BM" d="M397.8,17.5 L396.1,15.4 L396.1,15.3 L398.0,12.7 L404.7,14.1 L410.4,12.2 L415.7,8.8 L422.0,9.4 L418.9,14.2 L418.5,17.9 L413.3,18.5 L412.9,20.3 L410.2,20.6 L411.2,17.6 L405.2,17.3 L402.0,16.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.BM</hasc>
+    <alt-name>Boumerdas</alt-name>
+    <woe-id>2344610</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG40</fips>
+    <postal-code>BM</postal-code>
+    <name>Boumerdès</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>3.60632</longitude>
+    <woe-name>Boumerdès</woe-name>
+    <latitude>36.7503</latitude>
+    <woe-label>Boumerdes, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>dz-bm</hc-key>
+    <hc-a2>BM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.TO" d="M412.9,20.3 L413.3,18.5 L418.5,17.9 L418.9,14.2 L422.0,9.4 L424.0,9.9 L434.1,8.7 L438.6,9.2 L440.2,12.3 L436.9,21.5 L432.2,25.1 L419.1,25.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.TO</hasc>
+    <alt-name>Tizi-ouzou|Tizi Wezzu</alt-name>
+    <woe-id>2344588</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG14</fips>
+    <postal-code>TO</postal-code>
+    <name>Tizi Ouzou</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>4.19086</longitude>
+    <woe-name>Tizi Ouzou</woe-name>
+    <latitude>36.6814</latitude>
+    <woe-label>Tizi Ouzou, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.73</hc-middle-x>
+    <hc-middle-y>0.11</hc-middle-y>
+    <hc-key>dz-to</hc-key>
+    <hc-a2>TO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.TP" d="M351.0,24.2 L351.7,22.4 L362.5,21.6 L372.0,19.3 L374.5,21.0 L379.8,20.4 L390.4,12.6 L389.8,15.1 L391.6,16.5 L389.7,19.2 L386.2,19.1 L375.0,27.3 L364.3,26.6 L360.8,27.6 L354.9,26.7 L351.8,29.1 L350.0,26.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.TP</hasc>
+    <alt-name>Tibaza| Tefessedt</alt-name>
+    <woe-id>2344625</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG55</fips>
+    <postal-code>TP</postal-code>
+    <name>Tipaza</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>2.34141</longitude>
+    <woe-name>Tipaza</woe-name>
+    <latitude>36.527</latitude>
+    <woe-label>Tipaza, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>dz-tp</hc-key>
+    <hc-a2>TP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.AD" d="M350.0,26.2 L351.8,29.1 L354.9,26.7 L360.8,27.6 L364.3,26.6 L375.0,27.3 L376.4,29.4 L380.6,29.5 L375.3,34.0 L376.7,35.9 L380.0,35.6 L377.9,39.3 L374.7,41.3 L369.9,47.9 L366.4,46.3 L360.7,46.0 L356.0,48.1 L351.7,45.7 L352.0,44.1 L348.1,36.6 L349.3,35.7 L347.3,28.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.AD</hasc>
+    <alt-name>Ain Dafla</alt-name>
+    <woe-id>2344605</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG35</fips>
+    <postal-code>AD</postal-code>
+    <name>Aïn Defla</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>2.10714</longitude>
+    <woe-name>Aïn Defla</woe-name>
+    <latitude>36.1735</latitude>
+    <woe-label>Ain Defla, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>dz-ad</hc-key>
+    <hc-a2>AD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.CH" d="M350.0,26.2 L347.3,28.5 L349.3,35.7 L348.1,36.6 L352.0,44.1 L351.7,45.7 L346.8,42.6 L342.5,48.6 L338.6,43.7 L335.4,44.6 L327.8,39.9 L327.2,35.0 L321.3,35.3 L322.4,31.6 L322.6,29.6 L326.4,28.2 L331.9,24.3 L339.2,23.1 L351.7,22.4 L351.0,24.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.CH</hasc>
+    <alt-name>El Asnam|Orléansville|Ech Cheliff</alt-name>
+    <woe-id>2344611</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG41</fips>
+    <postal-code>CH</postal-code>
+    <name>Chlef</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>1.21078</longitude>
+    <woe-name>Chlef</woe-name>
+    <latitude>36.2337</latitude>
+    <woe-label>Chlef, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
+    <hc-key>dz-ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.MC" d="M293.7,74.3 L292.2,71.4 L292.7,67.2 L284.3,64.5 L282.4,63.1 L286.9,57.2 L296.1,49.6 L298.6,52.4 L302.7,50.8 L304.2,53.7 L306.4,53.2 L309.0,58.5 L313.2,58.6 L315.5,60.4 L324.5,63.1 L326.0,65.3 L323.6,68.8 L317.9,69.2 L313.9,76.2 L305.1,78.4 L302.2,75.5 L298.3,76.6 L295.2,73.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.MC</hasc>
+    <alt-name>Mouaskar</alt-name>
+    <woe-id>2344598</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG26</fips>
+    <postal-code>MC</postal-code>
+    <name>Mascara</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>0.167566</longitude>
+    <woe-name>Mascara</woe-name>
+    <latitude>35.3625</latitude>
+    <woe-label>Mascara, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>dz-mc</hc-key>
+    <hc-a2>MC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.MG" d="M306.4,53.2 L304.2,53.7 L302.7,50.8 L298.6,52.4 L296.1,49.6 L296.1,49.4 L300.7,46.8 L303.7,39.9 L320.2,29.8 L322.6,29.6 L322.4,31.6 L321.3,35.3 L313.5,43.8 L312.8,48.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.MG</hasc>
+    <alt-name>Mostaghanem|Mestghanem</alt-name>
+    <woe-id>2344583</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG07</fips>
+    <postal-code>MG</postal-code>
+    <name>Mostaganem</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>0.313449</longitude>
+    <woe-name>Mostaganem</woe-name>
+    <latitude>35.9631</latitude>
+    <woe-label>Mostaganem, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>dz-mg</hc-key>
+    <hc-a2>MG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.RE" d="M324.5,63.1 L315.5,60.4 L313.2,58.6 L309.0,58.5 L306.4,53.2 L312.8,48.2 L313.5,43.8 L321.3,35.3 L327.2,35.0 L327.8,39.9 L335.4,44.6 L338.6,43.7 L342.5,48.6 L338.0,51.9 L337.4,55.7 L328.6,59.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.RE</hasc>
+    <alt-name>Ghelizane|Ghilizane</alt-name>
+    <woe-id>2344621</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG51</fips>
+    <postal-code>RE</postal-code>
+    <name>Relizane</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>0.820498</longitude>
+    <woe-name>Relizane</woe-name>
+    <latitude>35.8174</latitude>
+    <woe-label>Relizane, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>dz-re</hc-key>
+    <hc-a2>RE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.SD" d="M321.5,100.6 L319.6,101.1 L308.4,107.9 L305.4,108.0 L300.3,114.6 L295.8,116.8 L295.1,113.2 L290.5,114.1 L286.6,119.0 L282.5,110.0 L282.7,107.3 L295.9,96.5 L296.6,94.4 L291.9,87.3 L287.3,83.7 L289.8,82.6 L291.0,75.5 L293.7,74.3 L295.2,73.0 L298.3,76.6 L302.2,75.5 L305.1,78.4 L313.9,76.2 L318.0,75.9 L321.8,79.3 L322.4,82.1 L319.1,85.0 L319.7,89.4 L324.6,98.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.SD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344585</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG10</fips>
+    <postal-code>SD</postal-code>
+    <name>Saïda</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>0.178599</longitude>
+    <woe-name>Saïda</woe-name>
+    <latitude>34.5917</latitude>
+    <woe-label>Saida, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>dz-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.TR" d="M371.0,91.8 L367.4,92.3 L359.4,98.6 L354.8,100.2 L351.1,103.5 L348.7,107.9 L339.2,114.7 L336.6,110.4 L330.0,110.1 L329.9,104.5 L321.5,100.6 L324.6,98.3 L319.7,89.4 L319.1,85.0 L322.4,82.1 L321.8,79.3 L318.0,75.9 L313.9,76.2 L317.9,69.2 L323.6,68.8 L326.0,65.3 L324.5,63.1 L328.6,59.3 L337.4,55.7 L340.5,54.2 L349.2,59.6 L361.9,58.8 L368.0,59.4 L369.0,63.9 L369.0,68.0 L372.1,72.9 L378.7,78.3 L376.2,80.4 L371.4,88.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.TR</hasc>
+    <alt-name>Tendouf|Tihert</alt-name>
+    <woe-id>2344587</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG13</fips>
+    <postal-code>TR</postal-code>
+    <name>Tiaret</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>1.55627</longitude>
+    <woe-name>Tiaret</woe-name>
+    <latitude>34.9048</latitude>
+    <woe-label>Tiaret, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>dz-tr</hc-key>
+    <hc-a2>TR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.TS" d="M351.7,45.7 L356.0,48.1 L360.7,46.0 L366.4,46.3 L369.9,47.9 L367.8,52.5 L365.2,54.2 L368.0,59.4 L361.9,58.8 L349.2,59.6 L340.5,54.2 L337.4,55.7 L338.0,51.9 L342.5,48.6 L346.8,42.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.TS</hasc>
+    <alt-name>Vialar</alt-name>
+    <woe-id>2344626</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG56</fips>
+    <postal-code>TS</postal-code>
+    <name>Tissemsilt</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>1.77868</longitude>
+    <woe-name>Tissemsilt</woe-name>
+    <latitude>35.7302</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>dz-ts</hc-key>
+    <hc-a2>TS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.BJ" d="M432.2,25.1 L436.9,21.5 L440.2,12.3 L438.6,9.2 L444.5,9.1 L454.1,13.2 L453.5,15.0 L458.1,18.0 L463.9,17.3 L464.1,19.4 L465.4,20.0 L465.1,23.3 L461.1,25.4 L460.4,27.7 L456.9,27.1 L457.0,22.9 L453.4,20.9 L449.6,23.8 L448.5,28.2 L445.2,28.4 L444.2,26.7 L440.1,30.3 L439.9,33.4 L433.5,33.8 L431.8,30.1 L433.2,26.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.BJ</hasc>
+    <alt-name>Bougie|Bedjaya|Bidjaia|Bugia|Bujia</alt-name>
+    <woe-id>2344590</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG18</fips>
+    <postal-code>BJ</postal-code>
+    <name>Béjaïa</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>4.91591</longitude>
+    <woe-name>Béjaïa</woe-name>
+    <latitude>36.6189</latitude>
+    <woe-label>Bejaia, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.18</hc-middle-y>
+    <hc-key>dz-bj</hc-key>
+    <hc-a2>BJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.BB" d="M431.8,30.1 L433.5,33.8 L439.9,33.4 L440.1,30.3 L444.2,26.7 L445.2,28.4 L445.9,31.1 L453.2,31.1 L457.0,33.1 L458.8,36.5 L455.8,44.8 L455.9,47.7 L453.4,50.7 L447.2,47.3 L439.5,49.3 L434.9,48.4 L437.5,45.0 L436.4,41.7 L433.5,43.0 L423.7,41.8 L426.9,36.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.BB</hasc>
+    <alt-name>Borjbouarirej|Bordi Bou Arreridj</alt-name>
+    <woe-id>2344609</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG39</fips>
+    <postal-code>BB</postal-code>
+    <name>Bordj Bou Arréridj</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>4.66926</longitude>
+    <woe-name>Bordj Bou Arréridj</woe-name>
+    <latitude>36.0966</latitude>
+    <woe-label>Bordj Bou Arreridj, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>dz-bb</hc-key>
+    <hc-a2>BB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.BL" d="M380.6,29.5 L376.4,29.4 L375.0,27.3 L386.2,19.1 L389.7,19.2 L391.6,16.5 L393.8,18.8 L397.8,17.5 L402.0,16.5 L405.2,17.3 L406.2,19.7 L401.0,22.3 L399.4,24.7 L390.7,29.9 L388.1,27.5 L386.2,29.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.BL</hasc>
+    <alt-name>El Boulaïda|Al-Boulaida</alt-name>
+    <woe-id>2344592</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG20</fips>
+    <postal-code>BL</postal-code>
+    <name>Blida</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>2.99331</longitude>
+    <woe-name>Blida</woe-name>
+    <latitude>36.503</latitude>
+    <woe-label>Blida, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>dz-bl</hc-key>
+    <hc-a2>BL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.BU" d="M412.9,20.3 L419.1,25.2 L432.2,25.1 L433.2,26.8 L431.8,30.1 L426.9,36.2 L423.7,41.8 L421.9,47.9 L416.7,48.1 L413.2,45.6 L409.9,45.9 L408.4,43.0 L407.8,27.6 L404.0,27.9 L399.4,24.7 L401.0,22.3 L406.2,19.7 L405.2,17.3 L411.2,17.6 L410.2,20.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.BU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344593</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG21</fips>
+    <postal-code>BU</postal-code>
+    <name>Bouira</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>3.84375</longitude>
+    <woe-name>Bouira</woe-name>
+    <latitude>36.1884</latitude>
+    <woe-label>Bouira, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>dz-bu</hc-key>
+    <hc-a2>BU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.1950" d="M519.2,109.1 L525.3,110.8 L531.9,110.3 L530.4,118.6 L533.0,127.3 L537.8,134.8 L540.0,143.9 L550.8,147.7 L557.4,157.0 L559.1,167.3 L564.5,171.7 L582.2,183.1 L583.8,187.0 L528.1,189.6 L519.0,188.0 L513.0,181.3 L507.4,171.3 L499.7,147.4 L496.8,141.5 L490.9,139.5 L453.7,138.0 L457.2,133.0 L463.6,122.7 L464.6,114.7 L464.1,110.7 L458.5,103.7 L462.5,98.3 L467.5,100.0 L483.7,101.6 L489.7,100.2 L495.2,101.3 L499.5,103.9 L505.3,101.6 L506.9,104.4 L513.8,108.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344613</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>El Oued</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>7.03557</longitude>
+    <woe-name>El Oued</woe-name>
+    <latitude>33.1137</latitude>
+    <woe-label>El Oued, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>dz-1950</hc-key>
+    <hc-a2>EO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.BS" d="M505.3,101.6 L499.5,103.9 L495.2,101.3 L489.7,100.2 L483.7,101.6 L467.5,100.0 L462.5,98.3 L458.5,103.7 L464.1,110.7 L464.6,114.7 L463.6,122.7 L457.2,133.0 L434.6,120.1 L432.6,118.3 L431.2,112.4 L428.5,108.8 L431.6,108.4 L428.9,103.4 L427.8,97.9 L435.1,88.6 L450.4,85.8 L453.6,82.8 L453.4,76.6 L461.7,78.8 L470.9,75.7 L469.2,72.2 L477.2,68.4 L482.9,70.6 L480.8,73.7 L482.8,79.4 L484.9,76.8 L486.9,78.9 L495.6,76.0 L497.1,77.3 L496.5,83.4 L498.7,86.6 L501.4,86.7 L505.7,86.6 L506.5,89.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.BS</hasc>
+    <alt-name>Beskra</alt-name>
+    <woe-id>2344591</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG19</fips>
+    <postal-code>BS</postal-code>
+    <name>Biskra</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.46698</longitude>
+    <woe-name>Biskra</woe-name>
+    <latitude>34.7569</latitude>
+    <woe-label>Biskra, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>dz-bs</hc-key>
+    <hc-a2>BS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.DJ" d="M428.5,108.8 L431.2,112.4 L432.6,118.3 L434.6,120.1 L457.2,133.0 L453.7,138.0 L452.1,145.5 L453.2,160.4 L427.8,153.7 L423.1,144.4 L410.9,133.9 L398.1,119.7 L395.8,115.8 L394.1,109.2 L388.8,108.2 L385.5,112.2 L380.5,113.8 L379.7,120.9 L375.0,120.8 L374.8,113.4 L369.3,102.3 L369.5,96.6 L371.0,91.8 L371.4,88.7 L376.2,80.4 L378.7,78.3 L372.1,72.9 L369.0,68.0 L369.0,63.9 L376.4,61.6 L379.8,63.9 L387.8,56.9 L387.3,51.2 L390.7,50.8 L393.3,55.3 L397.2,54.1 L399.2,50.7 L402.4,52.3 L404.6,55.8 L411.6,61.8 L410.9,69.7 L405.4,74.5 L411.5,88.2 L418.8,89.1 L423.0,103.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.DJ</hasc>
+    <alt-name>El Djelfa</alt-name>
+    <woe-id>2344594</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG22</fips>
+    <postal-code>DJ</postal-code>
+    <name>Djelfa</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>3.70376</longitude>
+    <woe-name>Djelfa</woe-name>
+    <latitude>34.1508</latitude>
+    <woe-label>Djelfa, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>dz-dj</hc-key>
+    <hc-a2>DJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.MD" d="M402.4,52.3 L399.2,50.7 L397.2,54.1 L393.3,55.3 L390.7,50.8 L387.3,51.2 L387.8,56.9 L379.8,63.9 L376.4,61.6 L369.0,63.9 L368.0,59.4 L365.2,54.2 L367.8,52.5 L369.9,47.9 L374.7,41.3 L377.9,39.3 L380.0,35.6 L376.7,35.9 L375.3,34.0 L380.6,29.5 L386.2,29.3 L388.1,27.5 L390.7,29.9 L399.4,24.7 L404.0,27.9 L407.8,27.6 L408.4,43.0 L409.9,45.9 L407.3,50.3 L407.4,55.2 L404.0,50.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.MD</hasc>
+    <alt-name>El Mediyya|Lemdiyya</alt-name>
+    <woe-id>2344582</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG06</fips>
+    <postal-code>MD</postal-code>
+    <name>Médéa</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>2.76411</longitude>
+    <woe-name>Médéa</woe-name>
+    <latitude>35.8958</latitude>
+    <woe-label>Medea, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>dz-md</hc-key>
+    <hc-a2>MD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.MS" d="M453.4,76.6 L453.6,82.8 L450.4,85.8 L435.1,88.6 L427.8,97.9 L428.9,103.4 L431.6,108.4 L428.5,108.8 L423.0,103.7 L418.8,89.1 L411.5,88.2 L405.4,74.5 L410.9,69.7 L411.6,61.8 L404.6,55.8 L402.4,52.3 L404.0,50.6 L407.4,55.2 L407.3,50.3 L409.9,45.9 L413.2,45.6 L416.7,48.1 L421.9,47.9 L423.7,41.8 L433.5,43.0 L436.4,41.7 L437.5,45.0 L434.9,48.4 L439.5,49.3 L447.2,47.3 L453.4,50.7 L458.7,54.8 L463.4,55.9 L457.2,60.6 L448.5,60.1 L449.1,65.7 L448.0,70.1 L445.3,73.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.MS</hasc>
+    <alt-name>Msila</alt-name>
+    <woe-id>2344599</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG32</fips>
+    <postal-code>MS</postal-code>
+    <name>M'Sila</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>4.37961</longitude>
+    <woe-name>M'Sila</woe-name>
+    <latitude>35.3592</latitude>
+    <woe-label>M'sila, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>dz-ms</hc-key>
+    <hc-a2>MS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.SF" d="M463.4,55.9 L458.7,54.8 L453.4,50.7 L455.9,47.7 L455.8,44.8 L458.8,36.5 L457.0,33.1 L453.2,31.1 L445.9,31.1 L445.2,28.4 L448.5,28.2 L449.6,23.8 L453.4,20.9 L457.0,22.9 L456.9,27.1 L460.4,27.7 L461.1,25.4 L465.1,23.3 L465.4,20.0 L467.9,22.5 L473.3,21.1 L474.3,25.0 L477.6,26.8 L477.6,32.2 L481.3,39.5 L481.3,44.8 L473.6,46.7 L474.1,50.4 L469.6,48.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>DZ.SF</hasc>
+    <alt-name>Stif</alt-name>
+    <woe-id>2344586</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG12</fips>
+    <postal-code>SF</postal-code>
+    <name>Sétif</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.38428</longitude>
+    <woe-name>Sétif</woe-name>
+    <latitude>36.0513</latitude>
+    <woe-label>Setif, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
+    <hc-key>dz-sf</hc-key>
+    <hc-a2>SF</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.BT" d="M453.4,76.6 L445.3,73.2 L448.0,70.1 L449.1,65.7 L448.5,60.1 L457.2,60.6 L463.4,55.9 L469.6,48.6 L474.1,50.4 L473.6,46.7 L481.3,44.8 L484.1,45.6 L486.6,45.2 L492.7,45.6 L496.6,47.1 L497.0,49.3 L501.9,48.6 L505.7,52.7 L505.1,59.0 L500.5,62.6 L501.7,67.1 L500.2,69.0 L498.7,76.5 L501.6,82.1 L501.4,86.7 L498.7,86.6 L496.5,83.4 L497.1,77.3 L495.6,76.0 L486.9,78.9 L484.9,76.8 L482.8,79.4 L480.8,73.7 L482.9,70.6 L477.2,68.4 L469.2,72.2 L470.9,75.7 L461.7,78.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.BT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344580</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG03</fips>
+    <postal-code>BT</postal-code>
+    <name>Batna</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>5.78213</longitude>
+    <woe-name>Batna</woe-name>
+    <latitude>35.5923</latitude>
+    <woe-label>Batna, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>dz-bt</hc-key>
+    <hc-a2>BT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.CO" d="M496.4,19.6 L500.9,18.3 L504.7,20.0 L509.0,19.8 L506.2,23.6 L509.7,24.5 L513.2,30.2 L512.3,34.7 L509.0,36.7 L505.5,33.7 L499.1,36.9 L497.4,34.9 L497.6,33.5 L492.0,26.4 L495.5,25.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.CO</hasc>
+    <alt-name>Constantina|Costatina|Qoussantina|Qacentina</alt-name>
+    <woe-id>2344581</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG48</fips>
+    <postal-code>CO</postal-code>
+    <name>Constantine</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>6.68301</longitude>
+    <woe-name>Constantine</woe-name>
+    <latitude>36.3731</latitude>
+    <woe-label>Constantine, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>dz-co</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.GL" d="M530.8,14.9 L535.0,18.0 L541.3,21.1 L535.6,23.2 L536.9,27.6 L524.4,33.2 L521.9,35.4 L518.5,35.1 L514.6,38.9 L512.3,34.7 L513.2,30.2 L509.7,24.5 L513.8,21.7 L515.1,18.5 L520.4,16.0 L522.7,12.9 L528.3,16.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>DZ.GL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2344595</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG23</fips>
+    <postal-code>GL</postal-code>
+    <name>Guelma</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>7.46291</longitude>
+    <woe-name>Guelma</woe-name>
+    <latitude>36.4381</latitude>
+    <woe-label>Guelma, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>dz-gl</hc-key>
+    <hc-a2>GL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="DZ.KH" d="M519.2,109.1 L513.8,108.1 L506.9,104.4 L505.3,101.6 L506.5,89.0 L505.7,86.6 L501.4,86.7 L501.6,82.1 L498.7,76.5 L500.2,69.0 L501.7,67.1 L500.5,62.6 L505.1,59.0 L505.7,52.7 L507.5,54.8 L512.6,54.3 L514.5,56.3 L517.4,54.6 L521.7,54.7 L527.4,57.4 L529.8,60.5 L526.2,62.5 L525.5,73.1 L520.6,80.0 L525.0,78.7 L526.5,87.6 L522.9,94.7 L521.2,104.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>DZ.KH</hasc>
+    <alt-name>Khenchela</alt-name>
+    <woe-id>2344617</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AG47</fips>
+    <postal-code>KH</postal-code>
+    <name>Khenchela</name>
+    <country>Algeria</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>7.02787</longitude>
+    <woe-name>Khenchela</woe-name>
+    <latitude>34.8896</latitude>
+    <woe-label>Khenchela, DZ, Algeria</woe-label>
+    <type>Wilaya</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>dz-kh</hc-key>
+    <hc-a2>KH</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

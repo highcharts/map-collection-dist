@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>South Sudan</title>
+<g id="admin1">
+
+<g id="SS">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>South Sudan</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>S. Sud.</country-abbrev>
+    <subregion>Eastern Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>SSD</iso-a3>
+    <iso-a2>SS</iso-a2>
+    <woe-id>-99</woe-id>
+    <continent>Africa</continent>
+    <hc-key>ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.WE" d="M334.8,455.0 L324.7,448.9 L317.3,447.3 L314.6,448.0 L314.2,452.3 L311.0,457.6 L307.9,460.3 L305.8,464.0 L302.2,463.9 L300.9,466.7 L298.0,466.2 L294.3,462.4 L286.9,457.4 L276.7,458.4 L273.2,453.9 L269.6,455.1 L267.1,459.9 L262.1,462.7 L260.7,464.7 L256.8,465.4 L252.1,470.2 L248.8,469.3 L246.1,465.7 L238.6,466.0 L234.1,460.3 L231.0,461.6 L228.6,456.8 L228.9,453.8 L218.3,453.1 L214.5,451.0 L214.2,442.7 L212.3,439.2 L209.4,438.9 L206.7,433.3 L201.5,432.7 L194.6,426.0 L195.0,423.3 L191.6,418.1 L186.6,414.4 L182.9,407.4 L181.9,400.3 L184.4,393.8 L181.8,391.7 L181.9,388.2 L176.3,380.7 L170.7,379.4 L167.9,375.3 L164.0,375.8 L162.7,373.4 L158.2,373.0 L157.4,369.3 L151.5,366.1 L145.3,366.0 L140.9,364.0 L138.1,360.2 L134.8,362.1 L136.0,358.7 L139.3,356.5 L139.9,354.3 L136.7,352.7 L136.5,349.8 L132.0,347.8 L126.9,343.2 L126.9,338.9 L132.5,328.7 L225.4,318.8 L234.9,325.6 L237.0,326.3 L267.2,324.0 L265.7,332.0 L265.8,339.1 L264.8,341.2 L266.4,351.9 L270.8,360.7 L278.5,367.8 L284.4,376.1 L296.9,383.4 L323.0,386.1 L327.2,386.1 L330.1,384.4 L332.8,376.1 L342.6,362.0 L343.7,353.5 L342.4,347.4 L342.6,342.3 L344.3,340.5 L358.9,340.1 L365.1,346.0 L371.1,358.2 L373.7,361.3 L380.9,367.9 L389.8,375.2 L394.0,381.2 L401.7,387.6 L404.8,393.5 L404.3,398.2 L401.6,402.3 L399.9,407.8 L398.9,425.3 L396.1,429.3 L387.8,432.0 L378.3,437.5 L370.4,445.1 L366.4,446.4 L363.3,445.2 L356.8,440.2 L352.5,441.0 L347.4,445.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.WE</hasc>
+    <alt-name>Al Istiw?'?yah al Gharb?yah|Gharb al Istiw?'?yah| Équatoria occidental</alt-name>
+    <woe-id>20069900</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU45</fips>
+    <postal-code>WE</postal-code>
+    <name>West Equatoria</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Equatoria</region>
+    <longitude>28.6169</longitude>
+    <woe-name>West Equatoria</woe-name>
+    <latitude>5.41296</latitude>
+    <woe-label>Gharb al Istiwa´iyah, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>ss-we</hc-key>
+    <hc-a2>WE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.619" d="M334.8,455.0 L347.4,445.7 L352.5,441.0 L356.8,440.2 L363.3,445.2 L366.4,446.4 L370.4,445.1 L378.3,437.5 L387.8,432.0 L396.1,429.3 L398.9,425.3 L399.9,407.8 L401.6,402.3 L404.3,398.2 L404.8,393.5 L401.7,387.6 L394.0,381.2 L389.8,375.2 L380.9,367.9 L373.7,361.3 L386.9,360.3 L392.2,359.3 L396.6,357.0 L399.6,357.1 L410.6,366.5 L417.8,369.7 L438.0,373.4 L444.1,375.7 L447.1,373.1 L479.0,374.9 L477.5,381.6 L478.0,418.8 L480.2,426.4 L485.0,434.6 L486.5,438.8 L484.5,444.9 L481.1,449.9 L475.5,461.9 L473.3,470.7 L468.7,476.9 L462.5,481.3 L460.2,484.8 L454.6,498.9 L453.1,498.6 L446.7,504.9 L440.5,505.8 L437.0,507.6 L424.5,500.8 L415.3,500.1 L411.5,503.0 L403.5,506.4 L397.3,517.6 L397.2,513.3 L393.3,510.0 L391.8,506.6 L388.6,509.1 L381.4,510.9 L379.6,510.2 L380.8,505.4 L378.6,495.1 L372.2,494.4 L367.4,491.5 L359.5,490.1 L356.1,485.0 L354.6,481.1 L350.7,479.8 L347.6,475.3 L343.3,473.1 L343.8,470.0 L340.4,466.7 L336.3,466.5 L334.0,463.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>UG.MY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069902</woe-id>
+    <subregion>Al Istiw?'?|Al Istiw?'?yah|Equatória</subregion>
+    <fips>SU44</fips>
+    <postal-code>NULL</postal-code>
+    <name>Central Equatoria</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Equatoria</region>
+    <longitude>31.2854</longitude>
+    <woe-name>Central Equatoria</woe-name>
+    <latitude>4.68142</latitude>
+    <woe-label>Bahr al Jabal, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ss-619</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.UN" d="M405.4,145.8 L418.0,145.2 L422.2,143.6 L447.6,118.6 L455.7,109.1 L459.4,103.4 L464.0,92.5 L491.7,69.1 L493.0,65.8 L488.8,57.9 L487.8,47.7 L488.6,38.1 L487.8,30.1 L472.4,12.8 L511.3,12.7 L510.1,5.0 L510.4,0.0 L538.3,0.3 L537.9,5.2 L534.5,16.7 L534.6,23.6 L533.8,31.5 L530.9,37.5 L536.7,81.5 L534.3,87.7 L547.8,92.9 L553.6,99.2 L579.1,120.0 L582.9,128.6 L582.3,135.3 L583.1,141.0 L579.3,148.6 L577.8,158.5 L579.1,163.8 L589.1,163.8 L591.7,212.9 L589.2,218.4 L583.4,223.7 L574.8,225.2 L570.7,228.2 L567.2,228.0 L564.6,224.4 L561.5,222.6 L558.7,223.6 L555.9,222.0 L547.4,224.4 L541.0,223.0 L536.4,226.2 L535.6,232.1 L538.4,235.1 L536.0,239.4 L536.5,242.6 L533.0,244.0 L528.7,249.4 L526.5,253.5 L519.4,250.4 L516.7,248.2 L516.9,244.9 L519.5,238.8 L519.9,231.0 L517.6,227.8 L511.4,224.8 L506.3,220.5 L502.9,216.4 L492.4,198.0 L489.3,191.2 L485.9,188.9 L468.0,198.1 L463.8,198.6 L459.4,195.9 L439.9,169.7 L438.9,168.9 L432.9,170.3 L428.8,168.1 L415.6,164.9 L408.5,160.9 L404.6,159.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.UN</hasc>
+    <alt-name>Upper Nile|Sobat|a`?l? an N?l|Nil supérieur</alt-name>
+    <woe-id>20069908</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU35</fips>
+    <postal-code>UN</postal-code>
+    <name>Upper Nile</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Upper Nile</region>
+    <longitude>32.5251</longitude>
+    <woe-name>Upper Nile</woe-name>
+    <latitude>10.3577</latitude>
+    <woe-label>A`ali an Nil, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>ss-un</hc-key>
+    <hc-a2>UN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.JG" d="M526.5,253.5 L525.5,255.1 L529.1,262.0 L533.2,263.0 L535.8,262.0 L540.4,263.2 L543.3,266.0 L547.4,266.8 L553.4,265.0 L559.9,268.8 L563.8,268.5 L568.4,270.5 L574.1,276.2 L578.3,277.6 L585.7,285.1 L587.1,288.7 L587.2,294.3 L593.2,299.7 L595.3,299.0 L597.1,305.6 L603.0,311.3 L611.4,313.2 L615.2,315.9 L616.5,324.0 L623.1,325.4 L627.1,328.0 L628.9,330.8 L632.0,342.4 L634.9,347.7 L635.6,353.9 L638.8,360.4 L642.0,363.8 L643.0,368.1 L596.7,382.1 L479.0,374.9 L447.1,373.1 L444.2,370.4 L442.0,364.0 L439.5,361.2 L435.5,348.8 L431.7,344.2 L430.5,339.1 L427.9,337.9 L426.3,331.8 L416.3,319.4 L412.0,316.6 L411.6,314.8 L405.8,311.6 L401.7,308.2 L398.8,307.5 L396.6,304.4 L393.0,300.7 L387.2,290.0 L384.0,282.6 L380.4,278.9 L381.5,275.0 L378.0,270.6 L378.6,265.0 L380.3,260.2 L377.3,254.3 L373.8,250.1 L371.4,242.8 L367.8,242.6 L367.0,240.8 L367.9,228.1 L370.1,222.3 L365.1,216.5 L364.9,213.5 L367.2,209.8 L362.4,204.5 L363.7,203.2 L362.8,197.9 L360.4,191.8 L370.3,178.4 L370.6,172.1 L368.4,169.6 L374.3,161.6 L380.2,158.3 L387.4,158.6 L394.9,160.5 L402.1,160.8 L404.6,159.8 L408.5,160.9 L415.6,164.9 L428.8,168.1 L432.9,170.3 L438.9,168.9 L439.9,169.7 L459.4,195.9 L463.8,198.6 L468.0,198.1 L485.9,188.9 L489.3,191.2 L492.4,198.0 L502.9,216.4 L506.3,220.5 L511.4,224.8 L517.6,227.8 L519.9,231.0 L519.5,238.8 L516.9,244.9 L516.7,248.2 L519.4,250.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.JG</hasc>
+    <alt-name>Jungoli|Jonglei|Jonglie|Jonqley|Junqali|Jongley</alt-name>
+    <woe-id>20069909</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU51</fips>
+    <postal-code>JG</postal-code>
+    <name>Jungoli</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Upper Nile</region>
+    <longitude>32.5795</longitude>
+    <woe-name>Jungoli</woe-name>
+    <latitude>7.2461</latitude>
+    <woe-label>Junqali, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>ss-jg</hc-key>
+    <hc-a2>JG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.WH" d="M404.6,159.8 L402.1,160.8 L394.9,160.5 L387.4,158.6 L380.2,158.3 L374.3,161.6 L368.4,169.6 L370.6,172.1 L370.3,178.4 L360.4,191.8 L362.8,197.9 L363.7,203.2 L362.4,204.5 L367.2,209.8 L364.9,213.5 L365.1,216.5 L370.1,222.3 L367.9,228.1 L367.0,240.8 L367.8,242.6 L371.4,242.8 L373.8,250.1 L377.3,254.3 L380.3,260.2 L378.6,265.0 L378.0,270.6 L381.5,275.0 L380.4,278.9 L384.0,282.6 L387.2,290.0 L393.0,300.7 L396.6,304.4 L367.9,303.6 L361.0,301.3 L342.3,262.3 L339.7,260.8 L330.6,260.0 L328.8,225.3 L327.3,222.8 L310.5,211.1 L295.6,187.9 L292.3,186.7 L280.1,187.6 L282.3,179.5 L284.5,176.6 L290.1,173.4 L285.1,170.6 L280.9,170.1 L280.1,164.0 L285.2,158.0 L290.9,153.7 L298.2,149.9 L305.3,147.4 L318.9,144.6 L324.0,139.9 L326.7,135.6 L326.9,127.0 L332.0,123.7 L350.5,114.6 L378.1,132.6 L393.6,146.8 L395.3,147.7 L398.7,146.0 L405.4,145.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.WH</hasc>
+    <alt-name>Al-Wahdah| Wahda</alt-name>
+    <woe-id>20069907</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU40</fips>
+    <postal-code>WH</postal-code>
+    <name>Unity</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Upper Nile</region>
+    <longitude>29.8883</longitude>
+    <woe-name>Unity</woe-name>
+    <latitude>8.99929</latitude>
+    <woe-label>Al Wahdah, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>ss-wh</hc-key>
+    <hc-a2>WH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.WR" d="M280.1,187.6 L292.3,186.7 L295.6,187.9 L310.5,211.1 L327.3,222.8 L328.8,225.3 L330.6,260.0 L322.9,271.6 L303.2,293.0 L298.2,300.8 L290.7,324.5 L288.8,327.4 L285.0,329.3 L276.8,329.8 L272.1,327.8 L267.2,324.0 L265.0,310.4 L264.5,303.0 L265.6,293.6 L265.9,284.0 L264.9,280.2 L262.2,277.2 L262.4,271.5 L250.5,265.3 L245.6,261.5 L238.5,257.5 L229.5,255.9 L226.2,253.4 L222.5,248.7 L215.0,236.0 L212.4,233.2 L216.5,216.2 L221.3,208.0 L223.0,196.3 L225.5,191.2 L228.5,189.6 L237.8,188.5 L254.5,189.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.WR</hasc>
+    <alt-name>Warab|Warrab</alt-name>
+    <woe-id>20069898</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU59</fips>
+    <postal-code>WR</postal-code>
+    <name>Warap</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Bahr al Ghazal</region>
+    <longitude>28.6994</longitude>
+    <woe-name>Warap</woe-name>
+    <latitude>7.85589</latitude>
+    <woe-label>Warab, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>ss-wr</hc-key>
+    <hc-a2>WR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.WB" d="M212.4,233.2 L215.0,236.0 L222.5,248.7 L226.2,253.4 L229.5,255.9 L238.5,257.5 L245.6,261.5 L250.5,265.3 L262.4,271.5 L262.2,277.2 L264.9,280.2 L265.9,284.0 L265.6,293.6 L264.5,303.0 L265.0,310.4 L267.2,324.0 L237.0,326.3 L234.9,325.6 L225.4,318.8 L132.5,328.7 L132.4,327.4 L124.0,323.3 L118.8,318.2 L114.8,315.9 L112.8,312.4 L111.7,306.6 L108.3,306.2 L103.5,303.2 L102.9,301.0 L98.3,299.9 L97.5,297.7 L86.0,293.4 L82.4,290.4 L79.4,290.0 L72.2,285.7 L69.7,280.8 L62.3,275.6 L60.8,270.9 L66.1,268.4 L67.8,266.2 L67.0,259.1 L64.2,253.9 L61.7,252.4 L56.7,252.5 L53.1,250.4 L48.6,245.7 L46.7,240.2 L41.6,235.4 L34.4,233.0 L28.7,232.1 L22.6,232.5 L17.8,228.6 L11.9,230.0 L5.4,228.0 L0.0,223.9 L0.5,218.1 L4.0,212.6 L7.0,210.4 L5.4,206.1 L6.7,203.7 L2.8,203.2 L3.6,201.5 L15.5,194.2 L22.3,193.5 L26.2,191.8 L26.8,184.2 L32.8,174.3 L34.2,162.8 L40.6,155.6 L41.2,153.5 L41.5,137.5 L48.8,132.2 L52.6,127.7 L55.9,119.6 L55.4,115.7 L59.5,108.3 L68.8,106.8 L71.4,107.5 L79.2,105.9 L83.0,105.9 L91.9,103.5 L98.9,103.2 L104.6,101.9 L107.6,106.3 L107.8,115.6 L114.5,120.3 L119.4,128.0 L119.6,132.9 L117.2,153.2 L116.2,192.6 L119.0,212.9 L119.1,221.2 L120.2,229.4 L122.3,236.1 L125.8,241.3 L129.2,244.5 L148.6,257.5 L154.7,258.8 L161.4,256.0 L168.0,251.6 L203.9,235.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.WB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069899</woe-id>
+    <subregion>Bahr-al-Ghazal</subregion>
+    <fips>SU46</fips>
+    <postal-code>WB</postal-code>
+    <name>West Bahr-al-Ghazal</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Bahr al Ghazal</region>
+    <longitude>26.3804</longitude>
+    <woe-name>West Bahr-al-Ghazal</woe-name>
+    <latitude>7.31134</latitude>
+    <woe-label>Gharb Bahr al Ghazal, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.29</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>ss-wb</hc-key>
+    <hc-a2>WB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.EE" d="M454.6,498.9 L460.2,484.8 L462.5,481.3 L468.7,476.9 L473.3,470.7 L475.5,461.9 L481.1,449.9 L484.5,444.9 L486.5,438.8 L485.0,434.6 L480.2,426.4 L478.0,418.8 L477.5,381.6 L479.0,374.9 L596.7,382.1 L643.0,368.1 L642.2,371.4 L644.0,378.1 L649.7,386.4 L650.8,391.0 L660.6,397.5 L660.1,402.6 L664.1,407.2 L670.6,402.5 L675.2,402.7 L680.6,405.9 L685.7,405.3 L693.2,409.4 L691.4,414.3 L693.1,418.0 L690.1,424.0 L689.9,436.5 L691.8,441.8 L700.0,450.4 L691.7,450.4 L691.5,446.9 L687.5,447.9 L686.9,452.2 L681.5,450.4 L676.2,440.9 L679.1,433.5 L674.6,432.2 L668.7,432.3 L670.9,427.7 L669.6,426.1 L660.8,431.0 L659.7,429.0 L625.2,442.0 L608.3,450.6 L584.3,474.4 L557.8,500.8 L552.7,502.6 L537.7,501.9 L534.6,500.9 L527.1,494.8 L524.8,494.6 L516.6,499.7 L511.6,501.2 L491.2,502.8 L488.6,503.4 L477.7,510.0 L476.9,515.9 L472.0,515.7 L468.3,512.0 L463.1,511.7 L461.5,506.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.EE</hasc>
+    <alt-name>Al Istiw?'?yah ash Sharq?yah| Sharq al Istiw?'?yah| Équatoria oriental</alt-name>
+    <woe-id>20069901</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU57</fips>
+    <postal-code>EE</postal-code>
+    <name>East Equatoria</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Equatoria</region>
+    <longitude>33.5351</longitude>
+    <woe-name>East Equatoria</woe-name>
+    <latitude>4.79636</latitude>
+    <woe-label>Sharq al Istiwa´iyah, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>ss-ee</hc-key>
+    <hc-a2>EE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.NB" d="M285.1,170.6 L290.1,173.4 L284.5,176.6 L282.3,179.5 L280.1,187.6 L254.5,189.1 L237.8,188.5 L228.5,189.6 L225.5,191.2 L223.0,196.3 L221.3,208.0 L216.5,216.2 L212.4,233.2 L203.9,235.3 L168.0,251.6 L161.4,256.0 L154.7,258.8 L148.6,257.5 L129.2,244.5 L125.8,241.3 L122.3,236.1 L120.2,229.4 L119.1,221.2 L119.0,212.9 L116.2,192.6 L117.2,153.2 L119.6,132.9 L119.4,128.0 L124.0,129.8 L145.8,156.4 L149.8,158.9 L153.9,159.2 L176.9,151.8 L192.2,151.7 L194.9,152.2 L210.1,152.7 L217.6,153.9 L225.1,153.3 L230.9,165.9 L233.7,169.1 L280.9,170.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.NB</hasc>
+    <alt-name>North Bahr-al-Gazal| North Bahr el Ghazal| Shamal Bahr al Ghazal</alt-name>
+    <woe-id>20069897</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU54</fips>
+    <postal-code>NB</postal-code>
+    <name>North Bahr-al-Ghazal</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Bahr al Ghazal</region>
+    <longitude>27.535</longitude>
+    <woe-name>North Bahr-al-Ghazal</woe-name>
+    <latitude>8.90381</latitude>
+    <woe-label>Shamal Bahr al Ghazal, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>ss-nb</hc-key>
+    <hc-a2>NB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SS.EB" d="M373.7,361.3 L371.1,358.2 L365.1,346.0 L358.9,340.1 L344.3,340.5 L342.6,342.3 L342.4,347.4 L343.7,353.5 L342.6,362.0 L332.8,376.1 L330.1,384.4 L327.2,386.1 L323.0,386.1 L296.9,383.4 L284.4,376.1 L278.5,367.8 L270.8,360.7 L266.4,351.9 L264.8,341.2 L265.8,339.1 L265.7,332.0 L267.2,324.0 L272.1,327.8 L276.8,329.8 L285.0,329.3 L288.8,327.4 L290.7,324.5 L298.2,300.8 L303.2,293.0 L322.9,271.6 L330.6,260.0 L339.7,260.8 L342.3,262.3 L361.0,301.3 L367.9,303.6 L396.6,304.4 L398.8,307.5 L401.7,308.2 L405.8,311.6 L411.6,314.8 L412.0,316.6 L416.3,319.4 L426.3,331.8 L427.9,337.9 L430.5,339.1 L431.7,344.2 L435.5,348.8 L439.5,361.2 L442.0,364.0 L444.2,370.4 L447.1,373.1 L444.1,375.7 L438.0,373.4 L417.8,369.7 L410.6,366.5 L399.6,357.1 L396.6,357.0 L392.2,359.3 L386.9,360.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>SD.EB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20069896</woe-id>
+    <subregion>NULL</subregion>
+    <fips>SU37</fips>
+    <postal-code>EB</postal-code>
+    <name>Lakes</name>
+    <country>South Sudan</country>
+    <type-en>State</type-en>
+    <region>Bahr al Ghazal</region>
+    <longitude>30.1369</longitude>
+    <woe-name>Lakes</woe-name>
+    <latitude>6.88023</latitude>
+    <woe-label>Al Buhayrat, SD, Sudan</woe-label>
+    <type>Wilayat</type>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>ss-eb</hc-key>
+    <hc-a2>EB</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

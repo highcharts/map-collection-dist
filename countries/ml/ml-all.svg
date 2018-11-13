@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Mali</title>
+<g id="admin1">
+
+<g id="ML">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Mali</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mali</country-abbrev>
+    <subregion>Western Africa</subregion>
+    <region-wb>Sub-Saharan Africa</region-wb>
+    <iso-a3>MLI</iso-a3>
+    <iso-a2>ML</iso-a2>
+    <woe-id>23424891</woe-id>
+    <continent>Africa</continent>
+    <hc-key>ml</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.6392" d="M182.9,543.5 L178.2,542.2 L178.4,537.4 L183.2,538.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ML.KK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346180</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML01</fips>
+    <postal-code>NULL</postal-code>
+    <name>Bamako</name>
+    <country>Mali</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>-8.019170000000001</longitude>
+    <woe-name>Bamako</woe-name>
+    <latitude>12.643</latitude>
+    <woe-label>Bamako, ML, Mali</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ml-6392</hc-key>
+    <hc-a2>BA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.TB" d="M501.3,434.5 L492.0,434.7 L489.8,435.7 L471.0,430.5 L463.6,424.3 L450.9,419.6 L441.2,419.5 L431.3,420.8 L418.5,425.3 L412.3,422.5 L405.6,410.7 L404.8,407.3 L398.4,401.3 L388.6,402.2 L386.7,399.5 L381.2,404.9 L374.8,406.6 L374.5,412.4 L368.0,417.1 L359.4,417.0 L358.4,409.2 L354.8,406.4 L353.6,402.5 L347.2,403.1 L342.8,407.1 L336.9,407.6 L333.8,409.8 L323.7,413.0 L304.1,411.6 L300.8,408.7 L295.4,413.9 L289.0,415.8 L288.9,415.9 L295.9,380.7 L285.3,372.6 L284.6,371.2 L273.0,241.2 L269.0,197.4 L254.3,28.0 L252.0,0.0 L322.6,1.4 L334.7,9.9 L517.8,138.2 L509.1,168.8 L483.0,191.7 L464.4,207.5 L434.7,223.8 L460.7,245.6 L479.8,260.6 L483.1,265.3 L481.6,312.1 L452.6,326.4 L449.4,328.6 L453.6,345.6 L453.7,349.5 L486.9,352.4 L492.6,353.6 L491.7,367.6 L492.6,392.3 L498.6,418.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>ML.TB</hasc>
+    <alt-name>Timbouctou|Tombouctou|Timbuct|Timbuctu|Tombuktu|Tombuctú|Tomboucto</alt-name>
+    <woe-id>2346187</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML08</fips>
+    <postal-code>TB</postal-code>
+    <name>Timbuktu</name>
+    <country>Mali</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-3.295</longitude>
+    <woe-name>Timbuktu</woe-name>
+    <latitude>19.9073</latitude>
+    <woe-label>Tombouctou, ML, Mali</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ml-tb</hc-key>
+    <hc-a2>TB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.KD" d="M483.1,265.3 L479.8,260.6 L460.7,245.6 L434.7,223.8 L464.4,207.5 L483.0,191.7 L509.1,168.8 L517.8,138.2 L565.4,169.8 L566.9,174.4 L565.7,183.2 L566.7,185.9 L572.0,185.8 L574.8,189.0 L581.3,190.6 L586.5,194.6 L586.9,199.5 L592.3,204.0 L595.5,204.4 L597.1,207.1 L600.2,206.0 L604.6,207.7 L609.1,204.7 L613.2,207.2 L618.4,214.1 L622.4,215.6 L641.2,218.4 L646.6,220.5 L652.7,224.4 L652.3,233.3 L654.8,243.2 L652.5,245.0 L651.8,248.3 L649.0,252.7 L649.8,254.5 L657.8,260.0 L663.3,259.2 L696.0,251.4 L698.2,302.7 L603.4,305.9 L596.2,315.6 L571.4,321.8 L544.4,300.3 L535.5,290.9 L522.9,275.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>ML.KD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55999799</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML10</fips>
+    <postal-code>KD</postal-code>
+    <name>Kidal</name>
+    <country>Mali</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>1.09427</longitude>
+    <woe-name>Kidal</woe-name>
+    <latitude>19.4258</latitude>
+    <woe-label>Kidal, ML, Mali</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ml-kd</hc-key>
+    <hc-a2>KD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.GA" d="M501.3,434.5 L498.6,418.4 L492.6,392.3 L491.7,367.6 L492.6,353.6 L486.9,352.4 L453.7,349.5 L453.6,345.6 L449.4,328.6 L452.6,326.4 L481.6,312.1 L483.1,265.3 L522.9,275.6 L535.5,290.9 L544.4,300.3 L571.4,321.8 L596.2,315.6 L603.4,305.9 L698.2,302.7 L700.0,345.8 L698.7,346.4 L698.0,354.1 L698.7,371.4 L693.7,376.7 L690.2,386.2 L690.9,390.7 L687.6,395.1 L686.5,402.6 L683.9,404.9 L679.0,406.6 L672.1,412.7 L671.5,419.0 L652.9,416.3 L650.2,416.8 L649.9,420.3 L579.0,424.4 L576.4,425.5 L564.0,437.5 L555.3,438.6 L551.1,440.0 L544.5,437.7 L537.6,439.1 L532.0,437.8 L531.9,441.5 L512.5,435.0 L504.5,437.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ML.GA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346181</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML09</fips>
+    <postal-code>GA</postal-code>
+    <name>Gao</name>
+    <country>Mali</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>1.2641</longitude>
+    <woe-name>Gao</woe-name>
+    <latitude>16.4482</latitude>
+    <woe-label>Gao, ML, Mali</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>ml-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.KY" d="M136.0,549.0 L130.9,546.2 L123.5,544.7 L119.5,546.4 L123.9,551.4 L121.5,555.6 L118.9,555.1 L109.9,558.7 L105.6,565.0 L99.3,563.6 L91.2,559.2 L82.3,555.9 L77.3,557.4 L74.5,560.0 L71.6,560.0 L71.4,562.9 L65.6,569.1 L62.7,569.8 L58.6,563.8 L58.9,560.6 L54.4,555.9 L48.3,555.6 L42.0,563.7 L36.6,563.6 L28.5,555.5 L31.4,551.2 L31.2,548.5 L33.9,547.1 L34.5,542.9 L30.7,540.0 L31.2,535.0 L33.9,531.8 L32.7,527.5 L34.9,522.9 L32.6,521.7 L32.3,516.6 L28.7,514.8 L27.3,510.9 L27.9,508.0 L25.7,503.7 L19.5,501.8 L16.3,505.8 L13.4,502.9 L14.1,499.2 L9.4,495.1 L5.3,487.8 L9.1,485.9 L11.3,482.5 L11.5,479.0 L9.0,473.7 L10.4,467.6 L8.9,463.8 L5.1,460.4 L5.6,459.0 L1.1,457.3 L0.7,451.6 L3.9,447.0 L3.5,444.0 L0.0,440.2 L5.4,440.0 L8.3,442.4 L12.5,440.5 L19.3,435.5 L19.8,429.8 L17.8,428.9 L18.7,423.1 L24.4,407.4 L27.9,408.2 L33.2,405.1 L33.1,403.2 L38.1,405.2 L42.6,412.1 L53.1,420.5 L58.4,428.0 L62.5,420.0 L66.0,417.8 L66.6,414.2 L75.2,413.7 L84.8,414.3 L92.3,417.3 L104.9,417.8 L112.0,415.4 L122.6,415.3 L121.5,410.0 L124.9,404.6 L126.8,404.6 L125.8,413.0 L134.7,413.2 L140.9,419.0 L146.9,422.5 L148.7,424.6 L151.2,434.3 L153.8,436.3 L161.1,437.3 L162.3,441.2 L161.7,447.4 L162.6,449.0 L172.1,457.0 L175.8,458.5 L176.4,465.0 L170.4,466.4 L163.1,466.5 L156.7,461.6 L154.3,465.6 L147.4,466.6 L149.2,471.4 L149.1,474.5 L146.8,474.6 L145.5,480.6 L149.5,483.0 L151.5,485.9 L156.2,486.5 L157.5,481.9 L161.8,483.0 L162.0,487.4 L157.8,492.5 L158.1,498.0 L161.7,503.1 L157.2,513.8 L155.9,524.3 L153.4,529.4 L154.9,531.8 L147.8,536.8 L142.2,538.4 L137.2,543.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ML.KY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346182</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML03</fips>
+    <postal-code>KY</postal-code>
+    <name>Kayes</name>
+    <country>Mali</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-10.1984</longitude>
+    <woe-name>Kayes</woe-name>
+    <latitude>13.7959</latitude>
+    <woe-label>Kayes, ML, Mali</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ml-ky</hc-key>
+    <hc-a2>KY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.SK" d="M332.4,538.1 L331.6,541.2 L335.7,546.3 L332.9,550.4 L334.8,556.0 L331.3,555.4 L330.9,557.7 L327.1,560.8 L328.1,562.9 L324.1,566.4 L317.5,569.5 L311.2,569.1 L302.0,571.7 L297.0,576.4 L291.4,576.7 L297.1,580.6 L296.2,586.4 L299.0,587.8 L299.6,594.5 L297.7,595.9 L297.7,601.2 L295.0,607.0 L287.0,610.3 L290.2,619.6 L288.0,626.6 L288.6,630.9 L286.1,637.9 L283.1,636.7 L273.9,638.4 L269.6,641.2 L269.5,644.4 L267.0,644.0 L264.7,648.0 L257.6,646.8 L254.9,643.6 L257.5,640.6 L257.5,635.2 L254.2,633.8 L256.6,628.4 L255.0,624.7 L247.9,625.8 L247.3,631.8 L243.0,631.5 L236.6,627.4 L235.3,634.7 L237.2,636.8 L235.1,641.1 L230.7,639.8 L223.3,641.4 L222.2,644.8 L223.8,647.8 L220.3,649.7 L218.2,647.2 L213.2,645.5 L207.0,644.8 L206.3,641.3 L202.9,641.0 L202.0,636.8 L193.4,636.4 L188.4,641.0 L186.1,646.1 L179.1,648.2 L180.3,644.0 L178.1,640.4 L173.8,639.4 L173.0,636.5 L168.9,636.6 L166.1,631.5 L165.6,622.9 L164.3,621.6 L166.0,616.7 L165.8,611.2 L163.3,608.8 L157.4,608.8 L155.8,611.8 L149.7,613.0 L149.1,611.1 L152.7,605.1 L158.6,598.6 L161.9,599.1 L163.3,595.1 L156.8,592.5 L156.3,591.1 L161.1,583.0 L170.9,580.4 L176.7,581.4 L181.4,577.4 L190.8,572.0 L199.7,567.7 L202.5,561.6 L209.5,558.2 L210.9,554.8 L218.4,549.3 L221.1,562.3 L219.7,567.8 L225.3,570.4 L225.3,574.4 L238.5,579.6 L242.2,579.7 L242.6,583.1 L245.8,583.9 L249.1,575.5 L251.8,572.9 L251.3,567.6 L253.2,565.6 L257.6,566.3 L259.6,568.3 L260.0,564.8 L267.0,563.6 L268.7,559.7 L268.4,555.8 L263.3,555.4 L258.9,551.0 L257.3,551.3 L255.2,544.5 L257.4,542.4 L266.3,541.1 L267.3,539.5 L271.0,540.5 L284.6,533.4 L290.8,542.6 L297.9,534.4 L303.2,536.8 L306.6,544.2 L319.0,542.2 L322.7,537.1 L325.4,536.4 L326.1,538.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ML.SK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346185</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML06</fips>
+    <postal-code>SK</postal-code>
+    <name>Sikasso</name>
+    <country>Mali</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-6.54441</longitude>
+    <woe-name>Sikasso</woe-name>
+    <latitude>11.155</latitude>
+    <woe-label>Sikasso, ML, Mali</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>ml-sk</hc-key>
+    <hc-a2>SK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.MO" d="M489.8,435.7 L478.3,446.2 L475.2,447.9 L465.3,450.8 L450.6,460.5 L439.2,461.1 L437.5,462.8 L436.8,473.5 L431.3,475.4 L421.4,470.7 L418.1,470.0 L412.3,472.6 L408.3,476.9 L402.0,480.4 L398.3,491.0 L399.7,497.5 L392.3,499.5 L389.9,496.4 L383.8,494.6 L383.1,502.3 L384.6,513.2 L376.0,514.3 L375.4,518.7 L369.7,517.2 L361.0,510.7 L353.1,508.6 L356.0,506.2 L353.9,504.5 L354.3,499.8 L352.1,495.3 L350.8,489.2 L348.9,485.4 L345.3,485.5 L340.4,489.3 L336.0,497.5 L330.7,498.4 L326.7,500.6 L323.3,498.0 L318.4,498.3 L315.9,499.9 L314.8,489.6 L316.1,483.3 L307.7,484.3 L301.0,482.3 L302.0,474.4 L297.9,468.8 L281.8,458.4 L284.9,451.7 L284.4,448.3 L287.0,441.0 L295.4,439.1 L298.7,439.3 L301.4,437.1 L306.1,429.6 L302.7,417.6 L295.9,416.3 L295.4,413.9 L300.8,408.7 L304.1,411.6 L323.7,413.0 L333.8,409.8 L336.9,407.6 L342.8,407.1 L347.2,403.1 L353.6,402.5 L354.8,406.4 L358.4,409.2 L359.4,417.0 L368.0,417.1 L374.5,412.4 L374.8,406.6 L381.2,404.9 L386.7,399.5 L388.6,402.2 L398.4,401.3 L404.8,407.3 L405.6,410.7 L412.3,422.5 L418.5,425.3 L431.3,420.8 L441.2,419.5 L450.9,419.6 L463.6,424.3 L471.0,430.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ML.MO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346183</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML22</fips>
+    <postal-code>MO</postal-code>
+    <name>Mopti</name>
+    <country>Mali</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-3.21795</longitude>
+    <woe-name>Mopti</woe-name>
+    <latitude>14.7873</latitude>
+    <woe-label>Mopti, ML, Mali</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>ml-mo</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.SG" d="M353.9,504.5 L348.0,509.1 L346.1,512.8 L341.4,516.5 L341.9,518.3 L338.4,518.4 L337.4,520.6 L342.5,528.1 L343.3,533.7 L342.3,537.1 L339.6,538.4 L335.1,537.3 L332.4,538.1 L326.1,538.7 L325.4,536.4 L322.7,537.1 L319.0,542.2 L306.6,544.2 L303.2,536.8 L297.9,534.4 L290.8,542.6 L284.6,533.4 L271.0,540.5 L267.3,539.5 L266.3,541.1 L257.4,542.4 L255.2,544.5 L251.3,542.9 L249.8,538.1 L246.4,538.9 L244.6,535.2 L239.8,533.2 L228.7,535.0 L228.6,528.7 L222.9,527.0 L220.3,523.9 L222.4,520.8 L223.0,516.6 L225.2,511.5 L227.2,509.7 L233.7,508.7 L236.2,505.0 L234.2,503.1 L233.5,497.5 L228.6,491.9 L228.0,489.0 L228.8,481.0 L235.3,469.4 L242.7,460.1 L247.9,461.7 L251.2,457.8 L251.3,454.9 L249.1,447.1 L244.6,439.9 L245.3,437.5 L250.7,430.2 L253.8,421.1 L254.5,415.9 L288.8,416.4 L288.9,415.9 L289.0,415.8 L295.4,413.9 L295.9,416.3 L302.7,417.6 L306.1,429.6 L301.4,437.1 L298.7,439.3 L295.4,439.1 L287.0,441.0 L284.4,448.3 L284.9,451.7 L281.8,458.4 L297.9,468.8 L302.0,474.4 L301.0,482.3 L307.7,484.3 L316.1,483.3 L314.8,489.6 L315.9,499.9 L318.4,498.3 L323.3,498.0 L326.7,500.6 L330.7,498.4 L336.0,497.5 L340.4,489.3 L345.3,485.5 L348.9,485.4 L350.8,489.2 L352.1,495.3 L354.3,499.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>ML.SG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346184</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML05</fips>
+    <postal-code>SG</postal-code>
+    <name>Ségou</name>
+    <country>Mali</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-5.51952</longitude>
+    <woe-name>Ségou</woe-name>
+    <latitude>13.5852</latitude>
+    <woe-label>Segou, ML, Mali</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
+    <hc-key>ml-sg</hc-key>
+    <hc-a2>SG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="ML.KK" d="M156.3,591.1 L151.2,589.2 L148.9,582.9 L143.1,582.0 L145.5,570.8 L144.6,566.4 L140.1,564.0 L140.7,559.4 L138.2,558.6 L137.3,555.4 L138.8,552.6 L136.0,549.0 L137.2,543.8 L142.2,538.4 L147.8,536.8 L154.9,531.8 L153.4,529.4 L155.9,524.3 L157.2,513.8 L161.7,503.1 L158.1,498.0 L157.8,492.5 L162.0,487.4 L161.8,483.0 L157.5,481.9 L156.2,486.5 L151.5,485.9 L149.5,483.0 L145.5,480.6 L146.8,474.6 L149.1,474.5 L149.2,471.4 L147.4,466.6 L154.3,465.6 L156.7,461.6 L163.1,466.5 L170.4,466.4 L176.4,465.0 L175.8,458.5 L172.1,457.0 L162.6,449.0 L161.7,447.4 L162.3,441.2 L161.1,437.3 L153.8,436.3 L151.2,434.3 L148.7,424.6 L146.9,422.5 L140.9,419.0 L134.7,413.2 L182.4,414.5 L254.5,415.9 L253.8,421.1 L250.7,430.2 L245.3,437.5 L244.6,439.9 L249.1,447.1 L251.3,454.9 L251.2,457.8 L247.9,461.7 L242.7,460.1 L235.3,469.4 L228.8,481.0 L228.0,489.0 L228.6,491.9 L233.5,497.5 L234.2,503.1 L236.2,505.0 L233.7,508.7 L227.2,509.7 L225.2,511.5 L223.0,516.6 L222.4,520.8 L220.3,523.9 L222.9,527.0 L228.6,528.7 L228.7,535.0 L239.8,533.2 L244.6,535.2 L246.4,538.9 L249.8,538.1 L251.3,542.9 L255.2,544.5 L257.3,551.3 L258.9,551.0 L263.3,555.4 L268.4,555.8 L268.7,559.7 L267.0,563.6 L260.0,564.8 L259.6,568.3 L257.6,566.3 L253.2,565.6 L251.3,567.6 L251.8,572.9 L249.1,575.5 L245.8,583.9 L242.6,583.1 L242.2,579.7 L238.5,579.6 L225.3,574.4 L225.3,570.4 L219.7,567.8 L221.1,562.3 L218.4,549.3 L210.9,554.8 L209.5,558.2 L202.5,561.6 L199.7,567.7 L190.8,572.0 L181.4,577.4 L176.7,581.4 L170.9,580.4 L161.1,583.0 Z M182.9,543.5 L183.2,538.7 L178.4,537.4 L178.2,542.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>ML.KK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2346186</woe-id>
+    <subregion>NULL</subregion>
+    <fips>ML07</fips>
+    <postal-code>KK</postal-code>
+    <name>Koulikoro</name>
+    <country>Mali</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-7.54325</longitude>
+    <woe-name>Koulikoro</woe-name>
+    <latitude>13.7514</latitude>
+    <woe-label>Koulikoro, ML, Mali</woe-label>
+    <type>Région</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ml-kk</hc-key>
+    <hc-a2>KK</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

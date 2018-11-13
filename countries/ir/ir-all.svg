@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Iran</title>
+<g id="admin1">
+
+<g id="IR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Iran</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Iran</country-abbrev>
+    <subregion>Southern Asia</subregion>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>IRN</iso-a3>
+    <iso-a2>IR</iso-a2>
+    <woe-id>23424851</woe-id>
+    <continent>Asia</continent>
+    <hc-key>ir</hc-key>
+    <hc-a2>IR</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.5428" d="M154.2,408.7 L154.5,410.3 L152.4,410.2 L152.6,408.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>-99</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-99</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>NULL</name>
+    <country>Iran</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>55.3044</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>26.2642</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ir-5428</hc-key>
+    <hc-a2>NU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.HG" d="M342.3,582.8 L338.7,582.9 L336.6,581.1 L341.7,580.4 Z M316.4,569.7 L310.3,569.9 L308.6,567.5 L314.7,568.7 Z M423.9,563.4 L420.6,568.8 L415.5,572.7 L412.8,570.8 L406.2,573.0 L398.5,577.5 L390.6,579.9 L390.0,574.9 L392.6,575.4 L408.7,568.6 L407.9,561.8 L413.4,563.7 L418.8,560.6 L423.9,559.3 L428.4,561.2 Z M546.2,622.3 L537.4,623.9 L533.2,619.4 L528.8,617.4 L513.3,616.0 L503.7,619.4 L498.7,618.3 L495.3,613.3 L487.9,616.1 L486.3,611.3 L477.9,611.8 L470.3,610.6 L467.2,602.9 L463.5,597.2 L465.3,594.0 L462.0,589.9 L459.6,582.1 L459.8,574.7 L457.0,564.8 L449.7,556.9 L451.2,555.5 L448.2,552.7 L439.5,552.4 L430.6,550.5 L421.8,552.6 L414.9,558.5 L405.1,559.8 L402.2,562.0 L400.2,568.2 L397.6,570.1 L389.3,569.2 L386.9,572.1 L382.9,573.3 L371.4,582.2 L364.4,581.9 L362.1,578.6 L355.4,577.9 L352.2,573.2 L346.1,573.6 L340.1,572.0 L333.4,574.0 L329.4,573.7 L320.6,567.5 L317.5,561.5 L304.4,557.2 L289.3,547.5 L291.1,545.7 L298.3,546.1 L300.5,544.9 L304.4,549.6 L312.9,550.3 L319.0,553.9 L322.7,553.2 L334.5,555.1 L338.5,553.0 L340.4,543.8 L346.0,540.3 L356.2,539.2 L360.4,540.1 L365.8,538.4 L376.0,539.6 L383.0,535.9 L385.6,529.7 L390.7,526.8 L398.4,524.7 L399.2,521.2 L394.1,515.7 L396.1,500.6 L395.0,497.9 L383.3,487.2 L384.3,483.0 L382.0,476.5 L392.1,478.4 L397.2,483.1 L402.5,484.5 L410.0,478.5 L415.5,476.2 L416.6,477.7 L417.8,494.1 L417.9,501.5 L421.4,505.7 L428.8,510.9 L433.3,511.4 L440.2,508.6 L447.0,501.6 L453.1,503.4 L454.9,515.2 L459.5,517.8 L465.7,525.8 L464.4,530.2 L468.7,537.3 L470.6,553.4 L471.4,555.9 L487.5,563.8 L491.7,559.6 L494.2,559.5 L499.9,563.3 L503.2,569.0 L500.7,567.6 L498.5,590.5 L510.3,589.4 L516.4,590.9 L517.5,596.5 L522.7,596.4 L524.9,594.8 L529.8,598.1 L528.8,601.6 L538.4,608.8 L546.3,619.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.HG</hasc>
+    <alt-name>Banader va Jazayer-e Bahr-e Oman|Ports and Islands of the Sea of Oman|Saheli</alt-name>
+    <woe-id>2345776</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR11</fips>
+    <postal-code>HG</postal-code>
+    <name>Hormozgan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>56.2505</longitude>
+    <woe-name>Hormozgan</woe-name>
+    <latitude>27.6455</latitude>
+    <woe-label>Hormozgan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>ir-hg</hc-key>
+    <hc-a2>HG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.BS" d="M211.6,425.5 L212.5,430.8 L216.5,437.4 L226.9,439.0 L232.1,440.7 L241.5,455.0 L247.8,459.2 L264.6,491.1 L265.4,495.0 L270.9,510.7 L277.7,517.1 L282.9,528.6 L292.8,539.4 L300.5,544.9 L298.3,546.1 L291.1,545.7 L289.3,547.5 L285.5,544.5 L289.3,543.1 L285.0,538.1 L279.5,533.6 L272.7,532.1 L263.8,525.5 L258.0,524.9 L252.7,525.8 L247.5,524.7 L239.7,518.5 L235.4,511.2 L235.4,506.5 L230.8,500.8 L228.3,493.7 L227.9,486.4 L224.9,482.9 L221.0,482.1 L218.7,478.5 L219.1,475.0 L221.5,477.4 L223.2,473.6 L219.8,468.8 L212.4,468.6 L214.2,462.3 L213.1,455.5 L211.3,454.6 L205.7,447.4 L203.5,446.4 L197.9,437.2 L194.3,434.1 L193.8,426.2 L191.0,422.4 L197.3,420.7 L205.2,422.2 L209.5,423.9 L210.9,424.9 L211.6,425.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>IR.BS</hasc>
+    <alt-name>Banader va Jazayer-e Khalij-e Fars|Bushire|Persian Gulf|Ports and Islands of the Persian Gulf</alt-name>
+    <woe-id>2345781</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR22</fips>
+    <postal-code>BS</postal-code>
+    <name>Bushehr</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>51.4225</longitude>
+    <woe-name>Bushehr</woe-name>
+    <latitude>28.8273</latitude>
+    <woe-label>Bushehr, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>ir-bs</hc-key>
+    <hc-a2>BS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.KB" d="M211.6,425.5 L209.5,423.9 L205.2,422.2 L204.7,415.4 L202.7,409.0 L204.9,404.0 L204.3,401.7 L198.8,398.2 L194.5,393.3 L188.1,394.0 L188.6,387.8 L187.1,381.7 L188.7,376.6 L192.9,374.5 L199.9,367.5 L208.9,371.8 L212.0,371.9 L225.5,384.4 L231.0,385.0 L234.9,382.4 L238.6,382.0 L240.8,390.2 L244.8,394.5 L250.7,399.0 L251.7,406.5 L246.6,409.4 L242.7,408.4 L235.3,404.1 L231.7,404.0 L234.1,415.3 L233.2,419.1 L223.2,424.8 L215.3,424.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.KB</hasc>
+    <alt-name>Bovir Ahmadi and Kohkiluyeh|Boyer-Ahmad and Koh-Giluye|Boyer Ahmad e Kohkiluyeh|Boyer Ahmadi-ye Sardir va Kohkiluyeh|Kohgil</alt-name>
+    <woe-id>2345771</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR05</fips>
+    <postal-code>KB</postal-code>
+    <name>Kohgiluyeh and Buyer Ahmad</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>50.7947</longitude>
+    <woe-name>Kohgiluyeh and Buyer Ahmad</woe-name>
+    <latitude>30.6977</latitude>
+    <woe-label>Kohgiluyeh va Buyer Ahmad, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>ir-kb</hc-key>
+    <hc-a2>KB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.FA" d="M215.3,424.5 L223.2,424.8 L233.2,419.1 L234.1,415.3 L231.7,404.0 L235.3,404.1 L242.7,408.4 L246.6,409.4 L251.7,406.5 L250.7,399.0 L254.5,398.3 L254.5,390.6 L257.7,382.8 L259.4,375.5 L258.3,372.6 L253.1,370.1 L251.3,365.6 L257.7,366.2 L269.4,358.7 L272.7,365.5 L283.6,367.3 L296.2,363.7 L305.6,367.2 L311.2,372.3 L316.0,378.0 L324.8,399.7 L331.1,410.7 L338.8,420.7 L341.4,432.7 L347.3,437.0 L354.9,440.7 L356.0,445.0 L361.4,455.2 L363.1,456.2 L373.9,457.8 L382.0,476.5 L384.3,483.0 L383.3,487.2 L395.0,497.9 L396.1,500.6 L394.1,515.7 L399.2,521.2 L398.4,524.7 L390.7,526.8 L385.6,529.7 L383.0,535.9 L376.0,539.6 L365.8,538.4 L360.4,540.1 L356.2,539.2 L346.0,540.3 L340.4,543.8 L338.5,553.0 L334.5,555.1 L322.7,553.2 L319.0,553.9 L312.9,550.3 L304.4,549.6 L300.5,544.9 L292.8,539.4 L282.9,528.6 L277.7,517.1 L270.9,510.7 L265.4,495.0 L264.6,491.1 L247.8,459.2 L241.5,455.0 L232.1,440.7 L226.9,439.0 L216.5,437.4 L212.5,430.8 L211.6,425.5 L211.6,425.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.FA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345772</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR07</fips>
+    <postal-code>FA</postal-code>
+    <name>Fars</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>53.0793</longitude>
+    <woe-name>Fars</woe-name>
+    <latitude>29.4007</latitude>
+    <woe-label>Fars, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>ir-fa</hc-key>
+    <hc-a2>FA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.ES" d="M250.7,399.0 L244.8,394.5 L240.8,390.2 L238.6,382.0 L239.1,377.2 L235.9,366.1 L235.4,358.9 L238.2,357.3 L236.3,353.3 L239.2,348.7 L236.7,340.7 L226.0,331.8 L225.9,325.3 L221.3,317.6 L217.4,319.2 L211.2,319.5 L207.0,322.1 L200.1,322.0 L195.7,318.8 L189.1,319.5 L181.9,323.2 L183.7,318.8 L182.3,316.7 L173.6,314.3 L171.9,309.9 L173.5,307.0 L178.2,305.0 L178.9,299.9 L181.1,297.5 L186.5,296.1 L191.6,286.6 L192.6,280.7 L201.4,275.1 L216.5,271.4 L220.8,268.4 L225.2,267.8 L230.2,255.3 L228.5,252.9 L229.7,244.5 L234.9,240.5 L245.4,239.9 L257.4,236.9 L264.3,240.7 L267.7,241.3 L279.9,241.1 L297.0,246.3 L382.1,242.5 L385.4,244.2 L385.4,244.3 L386.5,273.4 L382.7,281.9 L374.4,285.7 L372.5,288.2 L371.0,295.4 L368.5,301.3 L362.8,306.0 L324.5,319.8 L313.0,317.3 L306.8,318.8 L296.6,324.6 L297.4,339.3 L295.6,348.1 L294.6,357.4 L296.2,363.7 L283.6,367.3 L272.7,365.5 L269.4,358.7 L257.7,366.2 L251.3,365.6 L253.1,370.1 L258.3,372.6 L259.4,375.5 L257.7,382.8 L254.5,390.6 L254.5,398.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>IR.ES</hasc>
+    <alt-name>Isfahan|Ispahan</alt-name>
+    <woe-id>2345787</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR28</fips>
+    <postal-code>ES</postal-code>
+    <name>Esfahan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>52.4195</longitude>
+    <woe-name>Esfahan</woe-name>
+    <latitude>32.9837</latitude>
+    <woe-label>Esfahan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>ir-es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.SM" d="M382.1,242.5 L297.0,246.3 L279.9,241.1 L267.7,241.3 L264.3,240.7 L257.4,236.9 L261.2,227.8 L260.8,222.6 L264.4,211.8 L258.9,203.6 L260.0,193.3 L264.6,193.8 L272.9,199.4 L286.1,202.7 L288.9,202.8 L296.4,199.6 L302.0,194.5 L303.1,190.6 L301.5,181.5 L311.3,178.5 L316.8,177.9 L320.8,175.2 L322.8,171.8 L327.7,167.0 L329.0,160.9 L332.8,155.8 L339.1,153.0 L351.1,152.5 L355.9,150.1 L363.8,143.0 L369.8,139.4 L372.7,139.0 L385.2,140.3 L386.9,139.5 L388.5,131.7 L391.1,125.3 L398.6,114.0 L404.1,120.8 L409.6,122.7 L406.3,125.8 L406.2,134.1 L411.2,139.9 L415.3,143.1 L422.3,144.7 L427.6,143.6 L430.8,144.2 L431.8,147.5 L429.7,154.3 L429.4,159.0 L430.4,167.1 L432.8,174.6 L443.9,183.6 L443.5,186.6 L435.4,201.8 L428.1,204.9 L419.8,211.8 L414.3,219.0 L402.3,241.0 L398.4,243.1 L389.2,243.2 L385.4,244.2 L385.4,244.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>IR.SM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345784</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR25</fips>
+    <postal-code>SM</postal-code>
+    <name>Semnan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>54.4381</longitude>
+    <woe-name>Semnan</woe-name>
+    <latitude>35.4243</latitude>
+    <woe-label>Semnan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>ir-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.GO" d="M324.6,138.9 L330.9,139.8 L335.2,138.5 L335.8,133.0 L331.8,119.8 L331.5,116.1 L340.9,116.8 L346.9,115.0 L352.7,111.6 L355.5,111.8 L361.2,108.1 L361.2,102.3 L363.4,97.5 L368.5,93.9 L372.6,89.0 L375.6,88.2 L382.4,83.4 L392.1,81.3 L401.3,83.2 L407.7,82.4 L408.5,91.0 L408.1,95.7 L412.4,98.8 L413.1,101.4 L411.3,104.1 L402.0,108.5 L398.6,114.0 L391.1,125.3 L388.5,131.7 L386.9,139.5 L385.2,140.3 L372.7,139.0 L369.8,139.4 L363.8,143.0 L355.9,150.1 L351.1,152.5 L339.1,153.0 L334.0,147.1 L326.2,142.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.GO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070201</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR37</fips>
+    <postal-code>GO</postal-code>
+    <name>Golestan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>55.0042</longitude>
+    <woe-name>Golestan</woe-name>
+    <latitude>37.312</latitude>
+    <woe-label>Golestan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ir-go</hc-key>
+    <hc-a2>GO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.MN" d="M216.4,130.9 L233.9,142.1 L243.6,144.2 L262.3,149.1 L268.7,148.3 L274.5,146.2 L292.5,142.4 L304.1,138.8 L317.2,135.9 L330.8,135.0 L334.9,132.9 L334.8,134.5 L328.4,136.3 L321.2,136.3 L324.6,138.9 L326.2,142.6 L334.0,147.1 L339.1,153.0 L332.8,155.8 L329.0,160.9 L327.7,167.0 L322.8,171.8 L320.8,175.2 L316.8,177.9 L311.3,178.5 L301.5,181.5 L296.8,179.0 L293.9,179.9 L287.2,177.2 L279.2,175.3 L271.5,183.3 L269.0,184.2 L263.5,182.8 L256.7,173.6 L252.0,171.7 L246.6,171.2 L242.9,169.0 L240.6,166.3 L233.5,164.3 L231.6,162.1 L223.6,159.9 L223.2,157.9 L215.8,152.4 L206.7,144.4 L210.7,139.6 L211.6,136.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.MN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345780</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR17</fips>
+    <postal-code>MN</postal-code>
+    <name>Mazandaran</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>52.2123</longitude>
+    <woe-name>Mazandaran</woe-name>
+    <latitude>36.231</latitude>
+    <woe-label>Mazandaran, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>ir-mn</hc-key>
+    <hc-a2>MN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.TH" d="M301.5,181.5 L303.1,190.6 L302.0,194.5 L296.4,199.6 L288.9,202.8 L286.1,202.7 L272.9,199.4 L264.6,193.8 L260.0,193.3 L258.9,203.6 L264.4,211.8 L260.8,222.6 L240.8,210.4 L232.3,207.7 L222.2,207.3 L222.2,207.3 L225.4,197.5 L225.4,194.5 L223.0,190.7 L228.1,185.0 L229.1,182.4 L232.3,182.3 L232.9,177.4 L235.1,175.0 L242.7,173.2 L242.9,169.0 L246.6,171.2 L252.0,171.7 L256.7,173.6 L263.5,182.8 L269.0,184.2 L271.5,183.3 L279.2,175.3 L287.2,177.2 L293.9,179.9 L296.8,179.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.TH</hasc>
+    <alt-name>Teheran|T?h?ran</alt-name>
+    <woe-id>2345785</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR26</fips>
+    <postal-code>TH</postal-code>
+    <name>Tehran</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>51.6548</longitude>
+    <woe-name>Tehran</woe-name>
+    <latitude>35.5146</latitude>
+    <woe-label>Tehran, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ir-th</hc-key>
+    <hc-a2>TH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.MK" d="M222.2,207.3 L219.9,212.0 L218.7,220.3 L199.4,225.6 L199.6,230.3 L195.9,234.3 L199.3,238.1 L204.0,240.5 L205.2,245.7 L209.1,249.8 L218.3,250.9 L222.0,253.0 L230.2,255.3 L225.2,267.8 L220.8,268.4 L216.5,271.4 L201.4,275.1 L192.6,280.7 L186.6,273.3 L183.5,277.2 L177.1,271.4 L178.1,267.8 L173.7,263.5 L168.2,265.9 L166.9,269.6 L163.3,272.0 L158.2,271.2 L153.6,268.2 L155.8,262.9 L156.2,258.5 L160.8,253.4 L159.7,245.9 L157.3,240.8 L155.7,231.1 L161.8,232.3 L161.5,225.9 L163.6,219.1 L173.1,219.6 L173.6,224.4 L176.1,227.2 L178.5,225.7 L177.9,221.0 L175.5,216.8 L169.9,214.7 L167.5,212.4 L173.0,209.1 L170.6,201.5 L172.7,200.1 L175.8,202.0 L175.0,196.7 L181.2,196.7 L183.8,193.2 L195.5,190.1 L201.8,187.6 L205.0,187.7 L213.5,189.4 L216.3,191.8 L215.4,188.6 L217.8,187.5 L219.3,192.9 L223.0,190.7 L225.4,194.5 L225.4,197.5 L222.2,207.3 L222.2,207.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.MK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345783</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR34</fips>
+    <postal-code>MK</postal-code>
+    <name>Markazi</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>49.964</longitude>
+    <woe-name>Markazi</woe-name>
+    <latitude>34.5595</latitude>
+    <woe-label>Markazi, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>ir-mk</hc-key>
+    <hc-a2>MK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.YA" d="M354.9,440.7 L347.3,437.0 L341.4,432.7 L338.8,420.7 L331.1,410.7 L324.8,399.7 L316.0,378.0 L311.2,372.3 L305.6,367.2 L296.2,363.7 L294.6,357.4 L295.6,348.1 L297.4,339.3 L296.6,324.6 L306.8,318.8 L313.0,317.3 L324.5,319.8 L362.8,306.0 L368.5,301.3 L371.0,295.4 L372.5,288.2 L374.4,285.7 L382.7,281.9 L386.5,273.4 L385.4,244.3 L385.4,244.2 L389.2,243.2 L398.4,243.1 L402.3,241.0 L414.3,219.0 L428.7,214.7 L442.5,207.5 L451.3,204.8 L455.2,205.6 L466.0,213.0 L467.0,218.4 L463.7,222.0 L450.1,232.6 L447.8,237.1 L443.9,250.8 L444.0,258.1 L446.7,270.4 L448.5,273.0 L455.7,273.5 L464.8,271.0 L468.0,275.5 L471.6,293.6 L474.3,298.9 L483.9,303.8 L488.1,308.9 L486.8,316.8 L491.8,325.8 L490.4,334.8 L485.9,341.6 L479.0,357.4 L438.8,342.1 L434.1,341.5 L431.7,344.6 L424.3,349.2 L421.8,352.0 L402.5,362.9 L401.0,366.5 L400.4,383.0 L394.2,386.0 L387.3,387.1 L379.5,386.5 L358.7,390.6 L353.9,397.5 L353.2,402.8 L357.6,412.4 L358.6,416.7 L361.1,418.9 L360.8,432.9 L361.9,438.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>IR.YA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345790</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR40</fips>
+    <postal-code>YA</postal-code>
+    <name>Yazd</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>55.5242</longitude>
+    <woe-name>Yazd</woe-name>
+    <latitude>32.7074</latitude>
+    <woe-label>Yazd, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ir-ya</hc-key>
+    <hc-a2>YA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.CM" d="M238.6,382.0 L234.9,382.4 L231.0,385.0 L225.5,384.4 L212.0,371.9 L208.9,371.8 L199.9,367.5 L203.3,362.5 L202.5,358.1 L196.9,351.7 L192.8,341.9 L188.8,338.8 L182.5,327.1 L181.9,323.2 L189.1,319.5 L195.7,318.8 L200.1,322.0 L207.0,322.1 L211.2,319.5 L217.4,319.2 L221.3,317.6 L225.9,325.3 L226.0,331.8 L236.7,340.7 L239.2,348.7 L236.3,353.3 L238.2,357.3 L235.4,358.9 L235.9,366.1 L239.1,377.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.CM</hasc>
+    <alt-name>Bakhtiari|Chaharmahal va Bakhtiyari|Charmahal-Bakhtiyari</alt-name>
+    <woe-id>2345769</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR03</fips>
+    <postal-code>CM</postal-code>
+    <name>Chahar Mahall and Bakhtiari</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>50.5298</longitude>
+    <woe-name>Chahar Mahall and Bakhtiari</woe-name>
+    <latitude>31.9975</latitude>
+    <woe-label>Chahar Mahall va Bakhtiari, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>ir-cm</hc-key>
+    <hc-a2>CM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.KZ" d="M171.9,309.9 L173.6,314.3 L182.3,316.7 L183.7,318.8 L181.9,323.2 L182.5,327.1 L188.8,338.8 L192.8,341.9 L196.9,351.7 L202.5,358.1 L203.3,362.5 L199.9,367.5 L192.9,374.5 L188.7,376.6 L187.1,381.7 L188.6,387.8 L188.1,394.0 L194.5,393.3 L198.8,398.2 L204.3,401.7 L204.9,404.0 L202.7,409.0 L204.7,415.4 L205.2,422.2 L197.3,420.7 L191.0,422.4 L185.9,422.4 L174.0,429.6 L171.4,429.9 L169.6,424.1 L160.9,423.8 L160.1,419.1 L157.8,420.8 L152.0,417.0 L150.1,412.9 L154.3,412.8 L159.5,415.6 L161.6,412.4 L160.0,408.7 L151.5,408.0 L152.7,412.4 L149.6,412.2 L146.8,415.2 L148.9,419.4 L149.1,426.8 L146.9,429.1 L140.4,428.5 L136.8,431.6 L131.0,429.5 L128.6,422.7 L129.2,420.0 L124.7,415.4 L122.0,415.3 L120.6,410.8 L115.3,409.0 L116.3,386.9 L115.8,386.1 L103.6,385.6 L104.6,367.8 L110.9,352.8 L105.4,341.7 L102.4,337.6 L108.7,332.9 L108.4,327.9 L111.3,324.3 L115.0,316.7 L117.1,313.9 L122.7,301.1 L124.7,299.7 L140.1,298.6 L147.9,302.5 L155.9,303.6 L164.1,309.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.KZ</hasc>
+    <alt-name>Khuzistan|Kouzistan</alt-name>
+    <woe-id>2345778</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR15</fips>
+    <postal-code>KZ</postal-code>
+    <name>Khuzestan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>48.7558</longitude>
+    <woe-name>Khuzestan</woe-name>
+    <latitude>31.3484</latitude>
+    <woe-label>Khuzestan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ir-kz</hc-key>
+    <hc-a2>KZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.LO" d="M192.6,280.7 L191.6,286.6 L186.5,296.1 L181.1,297.5 L178.9,299.9 L178.2,305.0 L173.5,307.0 L171.9,309.9 L164.1,309.7 L155.9,303.6 L147.9,302.5 L140.1,298.6 L124.7,299.7 L122.7,301.1 L117.1,313.9 L115.0,316.7 L108.6,302.6 L100.4,291.9 L92.6,287.6 L88.4,283.5 L85.0,282.2 L84.5,279.3 L78.2,273.4 L79.0,271.1 L83.5,266.9 L96.3,264.0 L100.5,260.0 L99.4,253.9 L100.2,248.6 L106.6,246.9 L106.9,241.2 L111.1,241.0 L129.1,254.4 L139.4,256.0 L141.3,254.1 L146.5,253.9 L156.2,258.5 L155.8,262.9 L153.6,268.2 L158.2,271.2 L163.3,272.0 L166.9,269.6 L168.2,265.9 L173.7,263.5 L178.1,267.8 L177.1,271.4 L183.5,277.2 L186.6,273.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.LO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345782</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR23</fips>
+    <postal-code>LO</postal-code>
+    <name>Lorestan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>48.4141</longitude>
+    <woe-name>Lorestan</woe-name>
+    <latitude>33.5323</latitude>
+    <woe-label>Lorestan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>ir-lo</hc-key>
+    <hc-a2>LO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.IL" d="M115.0,316.7 L111.3,324.3 L108.4,327.9 L108.7,332.9 L102.4,337.6 L99.2,335.5 L99.9,333.3 L96.1,327.2 L97.0,325.6 L94.4,321.9 L91.1,320.6 L86.3,321.4 L84.1,319.8 L72.2,307.9 L63.9,301.5 L56.6,298.2 L50.2,298.0 L51.3,293.4 L48.2,291.3 L53.3,288.9 L53.1,284.9 L49.1,280.0 L45.2,272.5 L44.4,268.3 L38.8,270.0 L38.6,267.8 L42.3,256.8 L43.2,251.6 L50.9,251.5 L56.1,254.1 L61.9,255.3 L66.7,259.4 L75.6,262.8 L79.8,263.4 L86.0,262.1 L91.6,262.7 L93.1,258.5 L91.8,254.6 L99.4,253.9 L100.5,260.0 L96.3,264.0 L83.5,266.9 L79.0,271.1 L78.2,273.4 L84.5,279.3 L85.0,282.2 L88.4,283.5 L92.6,287.6 L100.4,291.9 L108.6,302.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.IL</hasc>
+    <alt-name>Ilam and Poshtkuh</alt-name>
+    <woe-id>2345775</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR10</fips>
+    <postal-code>IL</postal-code>
+    <name>Ilam</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>46.8116</longitude>
+    <woe-name>Ilam</woe-name>
+    <latitude>33.2369</latitude>
+    <woe-label>Ilam, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>ir-il</hc-key>
+    <hc-a2>IL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.AR" d="M99.0,31.2 L102.3,26.2 L108.8,23.5 L111.8,20.4 L118.0,17.8 L128.1,11.3 L131.8,10.6 L134.9,13.2 L143.9,25.4 L136.5,28.5 L136.9,33.6 L141.0,36.9 L142.1,39.7 L139.8,42.7 L133.5,43.5 L131.1,45.8 L131.7,48.9 L138.2,53.1 L138.7,56.1 L141.3,58.9 L144.9,58.3 L145.4,60.4 L151.2,68.2 L155.4,73.4 L147.4,82.2 L144.8,90.1 L147.6,98.9 L152.9,108.1 L158.0,113.5 L158.2,119.9 L156.0,118.6 L150.5,119.2 L148.4,121.6 L143.6,118.4 L135.2,112.7 L134.2,107.4 L126.7,102.8 L125.9,98.1 L127.6,91.4 L122.6,84.6 L120.3,73.6 L118.0,72.3 L110.3,73.0 L107.8,71.3 L103.9,71.9 L103.9,68.4 L106.8,63.8 L111.1,60.6 L117.6,59.5 L115.4,56.3 L117.3,50.6 L115.6,45.6 L115.9,36.7 L114.6,36.1 L106.0,40.5 L101.8,47.0 L102.7,48.0 L97.1,52.7 L92.2,50.9 L85.2,53.2 L82.7,49.7 L86.2,44.3 L89.2,44.8 L90.3,41.3 L92.4,42.7 L97.4,41.7 L101.7,37.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.AR</hasc>
+    <alt-name>Ardabil</alt-name>
+    <woe-id>20070198</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR32</fips>
+    <postal-code>AR</postal-code>
+    <name>Ardebil</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>47.7241</longitude>
+    <woe-name>Ardebil</woe-name>
+    <latitude>38.9113</latitude>
+    <woe-label>Ardabil, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>ir-ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.QM" d="M260.8,222.6 L261.2,227.8 L257.4,236.9 L245.4,239.9 L234.9,240.5 L229.7,244.5 L228.5,252.9 L230.2,255.3 L222.0,253.0 L218.3,250.9 L209.1,249.8 L205.2,245.7 L204.0,240.5 L199.3,238.1 L195.9,234.3 L199.6,230.3 L199.4,225.6 L218.7,220.3 L219.9,212.0 L222.2,207.3 L222.2,207.4 L232.3,207.7 L240.8,210.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.QM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070199</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR39</fips>
+    <postal-code>QM</postal-code>
+    <name>Qom</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>50.978</longitude>
+    <woe-name>Qom</woe-name>
+    <latitude>34.6662</latitude>
+    <woe-label>Qom, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ir-qm</hc-key>
+    <hc-a2>QM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.HD" d="M156.2,258.5 L146.5,253.9 L141.3,254.1 L139.4,256.0 L129.1,254.4 L111.1,241.0 L113.2,237.9 L120.7,238.9 L122.4,233.2 L121.4,230.3 L115.7,234.2 L114.5,230.9 L109.8,228.5 L107.8,225.2 L113.1,224.0 L118.0,215.4 L123.7,212.4 L125.5,215.7 L128.9,209.5 L128.1,205.5 L123.1,200.3 L119.7,191.6 L117.4,187.9 L120.8,184.8 L123.4,188.7 L128.1,186.5 L126.3,181.4 L132.6,184.1 L135.3,187.4 L142.8,188.0 L148.8,190.6 L152.8,187.3 L158.3,186.9 L162.5,190.4 L163.7,193.9 L169.2,194.6 L175.0,196.7 L175.8,202.0 L172.7,200.1 L170.6,201.5 L173.0,209.1 L167.5,212.4 L169.9,214.7 L175.5,216.8 L177.9,221.0 L178.5,225.7 L176.1,227.2 L173.6,224.4 L173.1,219.6 L163.6,219.1 L161.5,225.9 L161.8,232.3 L155.7,231.1 L157.3,240.8 L159.7,245.9 L160.8,253.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.HD</hasc>
+    <alt-name>Hamedan</alt-name>
+    <woe-id>2345774</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR09</fips>
+    <postal-code>HD</postal-code>
+    <name>Hamadan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>48.5738</longitude>
+    <woe-name>Hamadan</woe-name>
+    <latitude>34.8342</latitude>
+    <woe-label>Hamadan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ir-hd</hc-key>
+    <hc-a2>HD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.ZA" d="M152.8,187.3 L148.8,190.6 L142.8,188.0 L135.3,187.4 L132.6,184.1 L131.1,181.4 L121.7,175.0 L123.4,171.0 L124.5,163.5 L123.9,157.9 L121.5,152.8 L104.1,148.4 L103.1,147.4 L98.9,136.3 L99.7,131.5 L106.8,124.2 L114.7,119.5 L125.6,118.8 L139.3,120.4 L143.6,118.4 L148.4,121.6 L150.5,119.2 L156.0,118.6 L158.2,119.9 L163.3,123.4 L168.4,130.0 L170.2,137.2 L163.5,140.4 L162.5,146.4 L166.4,153.4 L171.4,156.1 L174.2,163.1 L173.8,168.8 L167.4,170.3 L161.5,174.6 L161.3,176.7 L158.2,175.1 L146.8,177.4 L146.1,179.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.ZA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345786</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR36</fips>
+    <postal-code>ZA</postal-code>
+    <name>Zanjan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>48.2959</longitude>
+    <woe-name>Zanjan</woe-name>
+    <latitude>36.3989</latitude>
+    <woe-label>Zanjan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ir-za</hc-key>
+    <hc-a2>ZA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.QZ" d="M206.7,144.4 L215.8,152.4 L223.2,157.9 L223.6,159.9 L215.4,158.9 L210.4,160.6 L213.3,164.2 L217.4,166.4 L214.0,175.2 L203.6,181.4 L205.0,187.7 L201.8,187.6 L195.5,190.1 L183.8,193.2 L181.2,196.7 L175.0,196.7 L169.2,194.6 L163.7,193.9 L162.5,190.4 L158.3,186.9 L152.8,187.3 L146.1,179.2 L146.8,177.4 L158.2,175.1 L161.3,176.7 L161.5,174.6 L167.4,170.3 L173.8,168.8 L174.2,163.1 L171.4,156.1 L166.4,153.4 L162.5,146.4 L163.5,140.4 L170.2,137.2 L177.7,145.6 L189.2,148.6 L199.1,144.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.QZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070200</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR38</fips>
+    <postal-code>QZ</postal-code>
+    <name>Qazvin</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>49.6996</longitude>
+    <woe-name>Qazvin</woe-name>
+    <latitude>36.0552</latitude>
+    <woe-label>Qazvin, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>ir-qz</hc-key>
+    <hc-a2>QZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.WA" d="M98.9,136.3 L103.1,147.4 L98.8,153.1 L96.1,154.2 L88.6,152.4 L85.0,148.5 L66.9,149.0 L58.2,147.2 L55.1,148.2 L52.2,153.6 L46.4,155.0 L40.5,163.0 L37.8,164.9 L32.7,165.8 L31.2,164.2 L32.7,161.0 L30.1,153.2 L29.9,147.1 L25.4,146.7 L21.7,140.7 L24.0,135.9 L22.6,131.8 L17.1,129.1 L19.2,125.2 L19.6,119.2 L15.5,115.1 L17.8,107.4 L10.3,100.1 L11.4,93.5 L10.1,92.0 L12.3,88.6 L9.5,85.6 L7.5,86.0 L5.3,82.0 L0.0,80.6 L0.4,76.5 L5.9,69.2 L6.7,64.9 L9.9,62.0 L8.9,59.5 L4.4,58.9 L5.6,48.5 L3.9,46.8 L5.7,38.9 L3.1,36.6 L1.7,32.0 L3.9,25.6 L0.5,22.9 L0.8,14.2 L7.7,15.6 L12.4,13.8 L15.3,2.6 L19.1,0.0 L27.3,6.7 L28.8,7.0 L30.9,15.5 L35.2,19.9 L36.6,25.5 L43.0,28.2 L47.3,36.5 L43.1,40.3 L40.8,46.6 L41.8,51.4 L40.1,55.7 L33.8,61.3 L31.5,67.7 L34.2,72.4 L34.0,92.4 L37.6,99.8 L36.8,105.1 L38.2,109.5 L47.8,116.9 L55.9,118.3 L60.9,124.2 L68.0,129.2 L71.7,124.8 L80.5,122.2 L85.6,125.8 L86.1,134.3 L90.6,136.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.WA</hasc>
+    <alt-name>Azarbayjan-e Bakhtari|Azarbaijan-e Gharbi|West Azarbayejan|Azerba?djan e Gharbi</alt-name>
+    <woe-id>2345767</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR01</fips>
+    <postal-code>WA</postal-code>
+    <name>West Azarbaijan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>45.6734</longitude>
+    <woe-name>West Azarbaijan</woe-name>
+    <latitude>36.6666</latitude>
+    <woe-label>Azarbayjan-e Gharbi, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.20</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>ir-wa</hc-key>
+    <hc-a2>WA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.EA" d="M98.9,136.3 L90.6,136.8 L86.1,134.3 L85.6,125.8 L80.5,122.2 L71.7,124.8 L68.0,129.2 L60.9,124.2 L55.9,118.3 L47.8,116.9 L38.2,109.5 L36.8,105.1 L37.6,99.8 L34.0,92.4 L34.2,72.4 L31.5,67.7 L33.8,61.3 L40.1,55.7 L41.8,51.4 L40.8,46.6 L43.1,40.3 L47.3,36.5 L64.1,41.4 L68.2,43.2 L77.4,41.3 L82.0,43.3 L89.6,37.0 L94.0,31.8 L99.0,31.2 L101.7,37.3 L97.4,41.7 L92.4,42.7 L90.3,41.3 L89.2,44.8 L86.2,44.3 L82.7,49.7 L85.2,53.2 L92.2,50.9 L97.1,52.7 L102.7,48.0 L101.8,47.0 L106.0,40.5 L114.6,36.1 L115.9,36.7 L115.6,45.6 L117.3,50.6 L115.4,56.3 L117.6,59.5 L111.1,60.6 L106.8,63.8 L103.9,68.4 L103.9,71.9 L107.8,71.3 L110.3,73.0 L118.0,72.3 L120.3,73.6 L122.6,84.6 L127.6,91.4 L125.9,98.1 L126.7,102.8 L134.2,107.4 L135.2,112.7 L143.6,118.4 L139.3,120.4 L125.6,118.8 L114.7,119.5 L106.8,124.2 L99.7,131.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.EA</hasc>
+    <alt-name>Azarbayjan-e Khavari|Azarbaijan-e Sharghi|Azarbaijan-Sharqi|East Azarbayejan|Azerba?djan e Sharqi</alt-name>
+    <woe-id>2345768</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR01</fips>
+    <postal-code>EA</postal-code>
+    <name>East Azarbaijan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>46.7723</longitude>
+    <woe-name>East Azarbaijan</woe-name>
+    <latitude>37.8501</latitude>
+    <woe-label>Azarbayjan-e Sharqi, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>ir-ea</hc-key>
+    <hc-a2>EA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.BK" d="M111.1,241.0 L106.9,241.2 L106.6,246.9 L100.2,248.6 L99.4,253.9 L91.8,254.6 L93.1,258.5 L91.6,262.7 L86.0,262.1 L79.8,263.4 L75.6,262.8 L66.7,259.4 L61.9,255.3 L56.1,254.1 L50.9,251.5 L43.2,251.6 L42.3,256.8 L38.6,267.8 L36.3,265.6 L30.9,254.1 L27.2,252.3 L33.2,246.0 L34.5,240.2 L31.8,237.2 L29.9,232.1 L33.2,230.1 L33.4,225.9 L40.2,228.2 L39.6,222.1 L38.3,220.7 L40.3,216.6 L42.9,215.8 L43.4,212.8 L46.2,213.9 L47.4,208.3 L49.5,205.5 L52.9,206.9 L57.7,205.6 L59.0,200.6 L57.6,197.5 L65.0,203.6 L72.8,215.8 L75.0,216.9 L75.8,222.1 L85.0,221.7 L88.6,216.3 L92.3,213.8 L96.7,213.5 L97.5,209.9 L102.5,209.8 L104.9,205.4 L110.2,208.7 L115.3,215.1 L118.0,215.4 L113.1,224.0 L107.8,225.2 L109.8,228.5 L114.5,230.9 L115.7,234.2 L121.4,230.3 L122.4,233.2 L120.7,238.9 L113.2,237.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.BK</hasc>
+    <alt-name>Bakhtaran|Kermanshahan</alt-name>
+    <woe-id>2345777</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR13</fips>
+    <postal-code>BK</postal-code>
+    <name>Kermanshah</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>46.6893</longitude>
+    <woe-name>Kermanshah</woe-name>
+    <latitude>34.2796</latitude>
+    <woe-label>Kermanshah, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ir-bk</hc-key>
+    <hc-a2>BK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.GI" d="M216.4,130.9 L211.6,136.0 L210.7,139.6 L206.7,144.4 L199.1,144.4 L189.2,148.6 L177.7,145.6 L170.2,137.2 L168.4,130.0 L163.3,123.4 L158.2,119.9 L158.0,113.5 L152.9,108.1 L147.6,98.9 L144.8,90.1 L147.4,82.2 L155.4,73.4 L151.2,68.2 L156.8,66.3 L160.1,66.9 L159.6,71.9 L161.5,88.9 L163.7,97.0 L167.5,102.1 L177.9,108.1 L191.1,110.3 L194.8,110.4 L202.1,112.7 L204.6,116.0 L207.8,123.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.GI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345773</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR08</fips>
+    <postal-code>GI</postal-code>
+    <name>Gilan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>49.5162</longitude>
+    <woe-name>Gilan</woe-name>
+    <latitude>37.0503</latitude>
+    <woe-label>Gilan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.76</hc-middle-y>
+    <hc-key>ir-gi</hc-key>
+    <hc-a2>GI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.KD" d="M132.6,184.1 L126.3,181.4 L128.1,186.5 L123.4,188.7 L120.8,184.8 L117.4,187.9 L119.7,191.6 L123.1,200.3 L128.1,205.5 L128.9,209.5 L125.5,215.7 L123.7,212.4 L118.0,215.4 L115.3,215.1 L110.2,208.7 L104.9,205.4 L102.5,209.8 L97.5,209.9 L96.7,213.5 L92.3,213.8 L88.6,216.3 L85.0,221.7 L75.8,222.1 L75.0,216.9 L72.8,215.8 L65.0,203.6 L57.6,197.5 L52.5,188.1 L54.1,181.1 L55.7,179.8 L62.8,179.2 L65.6,177.0 L64.6,174.4 L61.2,175.5 L57.0,172.7 L48.9,174.2 L44.9,173.1 L42.7,168.4 L37.8,164.9 L40.5,163.0 L46.4,155.0 L52.2,153.6 L55.1,148.2 L58.2,147.2 L66.9,149.0 L85.0,148.5 L88.6,152.4 L96.1,154.2 L98.8,153.1 L103.1,147.4 L104.1,148.4 L121.5,152.8 L123.9,157.9 L124.5,163.5 L123.4,171.0 L121.7,175.0 L131.1,181.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.KD</hasc>
+    <alt-name>Kurdistan</alt-name>
+    <woe-id>2345779</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR16</fips>
+    <postal-code>KD</postal-code>
+    <name>Kordestan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>46.8636</longitude>
+    <woe-name>Kordestan</woe-name>
+    <latitude>35.5778</latitude>
+    <woe-label>Kordestan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>ir-kd</hc-key>
+    <hc-a2>KD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.KJ" d="M569.0,245.9 L571.3,256.1 L570.2,261.9 L571.4,265.0 L576.8,267.9 L585.0,267.8 L583.2,274.2 L581.1,276.0 L575.0,285.8 L575.9,292.6 L587.6,324.1 L587.4,331.8 L586.3,333.8 L589.8,356.7 L601.1,357.8 L601.9,365.5 L598.7,377.9 L599.2,392.5 L601.7,400.8 L601.2,403.1 L594.9,404.2 L591.7,401.8 L585.2,393.9 L580.3,390.8 L572.4,388.0 L543.8,398.4 L527.7,377.7 L522.1,374.1 L479.0,357.4 L485.9,341.6 L490.4,334.8 L491.8,325.8 L486.8,316.8 L488.1,308.9 L490.4,305.0 L491.3,299.8 L495.9,291.9 L506.9,283.8 L511.1,275.7 L505.4,272.1 L502.7,268.4 L503.9,252.1 L502.5,247.6 L504.4,246.7 L513.9,248.0 L515.8,246.0 L526.3,243.7 L533.1,240.0 L539.1,247.0 L543.9,248.3 L566.3,246.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.KJ</hasc>
+    <alt-name>Khorasan-e Janubi</alt-name>
+    <woe-id>56189825</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR41</fips>
+    <postal-code>KJ</postal-code>
+    <name>South Khorasan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>59.489</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>32.4563</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ir-kj</hc-key>
+    <hc-a2>KJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.KV" d="M461.6,87.7 L477.1,92.2 L478.2,96.3 L484.0,98.0 L488.7,95.1 L495.4,96.7 L498.6,94.3 L507.2,97.0 L513.2,101.0 L518.0,101.6 L519.2,109.1 L526.6,114.5 L534.6,117.0 L538.4,119.4 L542.6,120.1 L547.0,126.4 L555.1,136.0 L580.6,133.4 L583.8,133.6 L584.7,136.0 L584.2,143.5 L587.8,155.8 L586.5,160.7 L589.6,166.1 L589.8,175.0 L592.3,180.2 L589.5,188.2 L586.9,192.4 L586.8,196.1 L589.0,199.9 L588.0,201.8 L587.1,212.5 L583.7,216.8 L583.5,220.5 L575.1,226.5 L582.6,234.5 L573.8,235.7 L569.0,243.4 L569.0,245.9 L566.3,246.6 L543.9,248.3 L539.1,247.0 L533.1,240.0 L526.3,243.7 L515.8,246.0 L513.9,248.0 L504.4,246.7 L502.5,247.6 L503.9,252.1 L502.7,268.4 L505.4,272.1 L511.1,275.7 L506.9,283.8 L495.9,291.9 L491.3,299.8 L490.4,305.0 L488.1,308.9 L483.9,303.8 L474.3,298.9 L471.6,293.6 L468.0,275.5 L464.8,271.0 L455.7,273.5 L448.5,273.0 L446.7,270.4 L444.0,258.1 L443.9,250.8 L447.8,237.1 L450.1,232.6 L463.7,222.0 L467.0,218.4 L466.0,213.0 L455.2,205.6 L451.3,204.8 L442.5,207.5 L428.7,214.7 L414.3,219.0 L419.8,211.8 L428.1,204.9 L435.4,201.8 L443.5,186.6 L443.9,183.6 L432.8,174.6 L430.4,167.1 L429.4,159.0 L429.7,154.3 L431.8,147.5 L430.8,144.2 L427.6,143.6 L427.5,138.9 L429.4,136.2 L437.4,129.1 L442.9,129.1 L466.5,140.6 L476.2,141.6 L480.1,139.5 L481.0,136.0 L478.9,133.4 L481.0,129.8 L478.5,126.3 L476.7,128.0 L473.2,124.8 L477.7,110.5 L479.2,107.9 L477.8,104.3 L474.5,101.6 L472.4,97.6 L457.0,97.8 L455.6,96.9 L456.3,91.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.KV</hasc>
+    <alt-name>Khorasan-e Razavi</alt-name>
+    <woe-id>2345789</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR42</fips>
+    <postal-code>KV</postal-code>
+    <name>Razavi Khorasan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>58.7976</longitude>
+    <woe-name>Razavi Khorasan</woe-name>
+    <latitude>35.584</latitude>
+    <woe-label>Khorasan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ir-kv</hc-key>
+    <hc-a2>KV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.KS" d="M427.6,143.6 L422.3,144.7 L415.3,143.1 L411.2,139.9 L406.2,134.1 L406.3,125.8 L409.6,122.7 L404.1,120.8 L398.6,114.0 L402.0,108.5 L411.3,104.1 L413.1,101.4 L412.4,98.8 L408.1,95.7 L408.5,91.0 L407.7,82.4 L412.2,82.2 L412.0,78.5 L416.6,74.5 L421.7,75.2 L426.8,73.4 L429.9,75.2 L437.2,76.5 L441.3,72.4 L443.1,72.8 L447.8,80.6 L448.3,85.4 L453.3,87.1 L461.6,87.7 L456.3,91.9 L455.6,96.9 L457.0,97.8 L472.4,97.6 L474.5,101.6 L477.8,104.3 L479.2,107.9 L477.7,110.5 L473.2,124.8 L476.7,128.0 L478.5,126.3 L481.0,129.8 L478.9,133.4 L481.0,136.0 L480.1,139.5 L476.2,141.6 L466.5,140.6 L442.9,129.1 L437.4,129.1 L429.4,136.2 L427.5,138.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.KS</hasc>
+    <alt-name>Khorasan-e Shemali</alt-name>
+    <woe-id>-56189824</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR43</fips>
+    <postal-code>KS</postal-code>
+    <name>North Khorasan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>57.0475</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>37.5789</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ir-ks</hc-key>
+    <hc-a2>KS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.SB" d="M546.2,622.3 L546.3,619.1 L538.4,608.8 L528.8,601.6 L529.8,598.1 L530.5,591.9 L532.5,586.0 L529.8,580.3 L531.8,576.8 L529.8,573.3 L531.7,568.0 L526.3,560.8 L523.8,545.6 L527.4,528.1 L527.6,523.1 L526.6,508.2 L530.7,502.2 L531.7,498.3 L525.4,491.8 L531.8,488.9 L540.4,483.2 L543.1,480.5 L541.3,475.0 L540.7,465.8 L543.6,460.8 L544.4,452.7 L542.6,443.6 L538.1,438.0 L538.3,434.4 L543.8,398.4 L572.4,388.0 L580.3,390.8 L585.2,393.9 L591.7,401.8 L594.9,404.2 L601.2,403.1 L601.7,400.8 L599.2,392.5 L598.7,377.9 L601.9,365.5 L601.1,357.8 L621.3,359.1 L624.8,362.3 L624.8,365.0 L628.7,373.6 L627.9,382.5 L595.8,427.4 L613.7,445.7 L616.0,446.9 L616.6,452.1 L622.7,459.2 L626.4,468.0 L630.0,472.7 L639.9,481.3 L646.1,483.2 L658.3,485.2 L667.2,492.7 L673.3,490.9 L674.6,492.9 L674.2,502.4 L676.5,509.4 L679.0,523.8 L677.3,530.4 L679.5,535.6 L684.1,535.6 L693.5,532.9 L697.0,534.4 L700.0,538.5 L696.7,541.6 L698.7,548.6 L695.7,551.5 L694.9,560.5 L679.7,560.9 L673.7,564.2 L667.3,565.4 L662.2,568.5 L660.8,575.2 L656.0,574.5 L655.1,577.2 L646.0,581.0 L644.4,584.4 L643.5,598.8 L639.8,602.1 L639.6,623.1 L634.5,627.5 L635.3,630.4 L632.1,633.5 L622.9,631.3 L622.3,629.5 L616.6,627.9 L600.8,626.1 L599.2,620.5 L597.1,618.8 L591.2,622.2 L594.3,625.8 L588.3,624.4 L586.3,622.4 L584.0,625.1 L578.9,623.4 L572.0,625.3 L566.8,623.0 L557.5,623.1 L554.1,620.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>4</labelrank>
+    <hasc>IR.SB</hasc>
+    <alt-name>Baluchestan va Sistan|Seistan and Baluchistan|Sistan e Baloutchistan</alt-name>
+    <woe-id>2345770</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR04</fips>
+    <postal-code>SB</postal-code>
+    <name>Sistan and Baluchestan</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>61.0471</longitude>
+    <woe-name>Sistan and Baluchestan</woe-name>
+    <latitude>27.4268</latitude>
+    <woe-label>Sistan va Baluchestan, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
+    <hc-key>ir-sb</hc-key>
+    <hc-a2>SB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.KE" d="M479.0,357.4 L522.1,374.1 L527.7,377.7 L543.8,398.4 L538.3,434.4 L538.1,438.0 L542.6,443.6 L544.4,452.7 L543.6,460.8 L540.7,465.8 L541.3,475.0 L543.1,480.5 L540.4,483.2 L531.8,488.9 L525.4,491.8 L531.7,498.3 L530.7,502.2 L526.6,508.2 L527.6,523.1 L527.4,528.1 L523.8,545.6 L526.3,560.8 L531.7,568.0 L529.8,573.3 L531.8,576.8 L529.8,580.3 L532.5,586.0 L530.5,591.9 L529.8,598.1 L524.9,594.8 L522.7,596.4 L517.5,596.5 L516.4,590.9 L510.3,589.4 L498.5,590.5 L500.7,567.6 L503.2,569.0 L499.9,563.3 L494.2,559.5 L491.7,559.6 L487.5,563.8 L471.4,555.9 L470.6,553.4 L468.7,537.3 L464.4,530.2 L465.7,525.8 L459.5,517.8 L454.9,515.2 L453.1,503.4 L447.0,501.6 L440.2,508.6 L433.3,511.4 L428.8,510.9 L421.4,505.7 L417.9,501.5 L417.8,494.1 L416.6,477.7 L415.5,476.2 L410.0,478.5 L402.5,484.5 L397.2,483.1 L392.1,478.4 L382.0,476.5 L373.9,457.8 L363.1,456.2 L361.4,455.2 L356.0,445.0 L354.9,440.7 L361.9,438.3 L360.8,432.9 L361.1,418.9 L358.6,416.7 L357.6,412.4 L353.2,402.8 L353.9,397.5 L358.7,390.6 L379.5,386.5 L387.3,387.1 L394.2,386.0 L400.4,383.0 L401.0,366.5 L402.5,362.9 L421.8,352.0 L424.3,349.2 L431.7,344.6 L434.1,341.5 L438.8,342.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>IR.KE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>2345788</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR29</fips>
+    <postal-code>KE</postal-code>
+    <name>Kerman</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>56.9567</longitude>
+    <woe-name>Kerman</woe-name>
+    <latitude>30.1234</latitude>
+    <woe-label>Kerman, IR, Iran</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>ir-ke</hc-key>
+    <hc-a2>KE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="IR.AL" d="M223.6,159.9 L231.6,162.1 L233.5,164.3 L240.6,166.3 L242.9,169.0 L242.7,173.2 L235.1,175.0 L232.9,177.4 L232.3,182.3 L229.1,182.4 L228.1,185.0 L223.0,190.7 L219.3,192.9 L217.8,187.5 L215.4,188.6 L216.3,191.8 L213.5,189.4 L205.0,187.7 L203.6,181.4 L214.0,175.2 L217.4,166.4 L213.3,164.2 L210.4,160.6 L215.4,158.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>7</labelrank>
+    <hasc>IR.AL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-20070200</woe-id>
+    <subregion>NULL</subregion>
+    <fips>IR26</fips>
+    <postal-code>AL</postal-code>
+    <name>Alborz</name>
+    <country>Iran</country>
+    <type-en>Province</type-en>
+    <region>NULL</region>
+    <longitude>50.7848</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>35.9651</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Ostan</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>ir-al</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

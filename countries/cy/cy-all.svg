@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Cyprus</title>
+<g id="admin1">
+
+<g id="CY">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Cyprus</name>
+    <labelrank>5</labelrank>
+    <country-abbrev>Cyp.</country-abbrev>
+    <subregion>Western Asia</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>CYP</iso-a3>
+    <iso-a2>CY</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Asia</continent>
+    <hc-key>cy</hc-key>
+    <hc-a2>CY</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CY.LA" d="M564.8,90.8 L563.3,91.5 L561.7,89.7 L562.7,85.7 L566.8,85.4 L566.8,90.1 Z M578.4,103.1 L577.7,101.6 L574.1,101.3 L573.5,99.5 L569.6,97.3 L570.5,96.6 L575.3,97.3 L576.8,99.1 L580.1,99.1 L583.1,102.3 Z M622.3,109.3 L620.6,111.1 L610.1,109.0 L602.9,110.5 L599.9,108.7 L604.7,104.3 L607.9,103.5 L607.9,95.6 L600.7,94.9 L596.5,91.3 L600.0,92.1 L602.6,91.7 L610.5,91.6 L612.0,95.1 L612.7,98.9 L614.8,102.3 Z M328.9,149.1 L330.2,145.5 L333.1,142.0 L340.3,137.4 L348.0,134.7 L352.4,135.1 L355.4,138.5 L358.3,139.9 L361.9,139.8 L369.7,137.3 L375.2,140.4 L376.0,143.8 L380.0,143.0 L384.0,140.0 L391.8,132.2 L401.3,124.4 L404.8,123.8 L408.0,125.4 L410.0,127.6 L414.5,127.3 L421.9,125.1 L430.7,126.5 L433.9,123.3 L436.6,117.5 L437.2,110.4 L438.2,108.7 L442.6,109.8 L445.9,112.5 L449.3,113.4 L451.4,112.7 L457.2,109.2 L459.5,108.5 L464.0,110.3 L468.9,109.1 L472.6,98.8 L474.6,94.1 L478.2,92.6 L476.7,89.5 L473.4,85.7 L471.3,78.3 L477.7,72.1 L480.7,75.4 L480.8,86.6 L483.2,92.8 L487.9,94.9 L494.9,92.0 L497.8,85.8 L501.1,83.2 L505.3,83.9 L509.7,86.8 L516.0,84.6 L520.2,86.1 L532.2,92.2 L541.2,93.5 L548.1,97.8 L547.6,104.8 L539.5,108.0 L529.5,118.1 L526.7,124.0 L524.1,131.6 L522.2,140.0 L521.6,148.3 L522.4,157.2 L521.5,161.1 L515.5,164.5 L512.9,172.8 L511.3,175.4 L505.3,177.2 L492.6,177.4 L487.7,178.7 L484.4,182.2 L480.4,187.6 L475.9,192.5 L470.6,194.7 L458.4,197.8 L447.3,203.2 L438.3,205.3 L432.5,198.4 L432.1,211.4 L421.3,218.2 L392.7,224.2 L387.0,226.9 L383.5,229.3 L381.1,217.5 L381.1,215.7 L383.4,200.4 L383.3,198.6 L380.0,191.5 L375.9,185.3 L364.2,171.9 L359.5,168.6 L341.2,162.0 L335.8,162.1 L331.2,160.4 L328.7,157.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>CY.LA</hasc>
+    <alt-name>Larnaka|L rnax</alt-name>
+    <woe-id>12577964</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CY03</fips>
+    <postal-code>LA</postal-code>
+    <name>Larnaca</name>
+    <country>Cyprus</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>33.8678</longitude>
+    <woe-name>Larnaca</woe-name>
+    <latitude>34.9728</latitude>
+    <woe-label>NULL</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>cy-la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CY.NI" d="M113.0,12.4 L116.2,13.4 L120.0,12.5 L126.6,9.7 L126.9,11.7 L131.6,16.8 L135.8,16.0 L139.1,12.4 L141.4,5.8 L145.1,5.4 L168.4,8.4 L168.1,11.4 L168.9,16.9 L171.9,21.6 L176.1,26.4 L180.8,28.9 L186.8,30.8 L200.2,34.1 L207.7,38.8 L213.7,46.4 L217.2,55.9 L223.2,56.3 L229.2,47.5 L236.0,45.4 L249.2,47.2 L258.4,45.4 L267.1,40.7 L274.6,32.0 L290.7,23.6 L300.2,20.7 L308.8,16.3 L315.4,14.1 L320.5,19.2 L324.7,18.5 L333.0,9.0 L338.9,6.8 L351.5,4.7 L364.4,9.7 L370.6,13.3 L382.3,14.4 L393.3,17.3 L399.3,17.6 L403.5,15.4 L410.6,15.4 L421.9,11.7 L424.3,9.9 L427.2,5.2 L431.7,0.8 L436.8,0.0 L439.8,2.6 L442.3,14.5 L447.0,23.6 L458.5,44.2 L461.2,48.6 L461.3,66.0 L459.2,74.8 L457.2,86.0 L457.5,90.4 L461.4,91.5 L462.0,83.8 L463.1,78.0 L464.9,74.8 L467.8,66.3 L470.2,64.2 L476.4,64.8 L481.3,66.7 L483.6,66.3 L484.2,61.5 L485.7,58.6 L488.1,58.6 L491.4,61.5 L493.8,65.5 L495.6,72.4 L500.4,76.0 L505.3,76.7 L509.4,73.1 L513.9,70.8 L522.9,78.0 L528.5,78.0 L530.0,77.3 L535.7,77.9 L538.9,76.5 L541.1,78.6 L547.7,81.9 L548.9,85.1 L545.6,88.1 L546.8,91.0 L552.8,93.4 L551.3,98.9 L548.1,97.8 L541.2,93.5 L532.2,92.2 L520.2,86.1 L516.0,84.6 L509.7,86.8 L505.3,83.9 L501.1,83.2 L497.8,85.8 L494.9,92.0 L487.9,94.9 L483.2,92.8 L480.8,86.6 L480.7,75.4 L477.7,72.1 L471.3,78.3 L473.4,85.7 L476.7,89.5 L478.2,92.6 L474.6,94.1 L472.6,98.8 L468.9,109.1 L464.0,110.3 L459.5,108.5 L457.2,109.2 L451.4,112.7 L449.3,113.4 L445.9,112.5 L442.6,109.8 L438.2,108.7 L437.2,110.4 L436.6,117.5 L433.9,123.3 L430.7,126.5 L421.9,125.1 L414.5,127.3 L410.0,127.6 L408.0,125.4 L404.8,123.8 L401.3,124.4 L391.8,132.2 L384.0,140.0 L380.0,143.0 L376.0,143.8 L375.2,140.4 L369.7,137.3 L361.9,139.8 L358.3,139.9 L355.4,138.5 L352.4,135.1 L348.0,134.7 L340.3,137.4 L333.1,142.0 L330.2,145.5 L328.9,149.1 L314.5,142.9 L308.9,142.9 L302.4,144.7 L300.4,144.2 L296.9,138.8 L293.8,135.8 L279.8,125.6 L275.8,117.9 L272.2,113.7 L267.2,111.4 L262.6,113.1 L249.3,122.5 L242.8,124.5 L234.5,124.7 L229.6,123.8 L224.7,120.6 L222.2,119.8 L213.9,119.6 L209.8,118.2 L204.1,114.3 L200.2,114.4 L197.4,118.1 L192.6,119.3 L191.5,125.2 L189.6,132.0 L189.5,138.4 L180.3,134.6 L176.7,135.5 L172.7,140.9 L168.3,143.4 L164.2,143.7 L164.3,140.9 L161.0,140.4 L160.2,144.5 L159.2,144.3 L152.9,139.0 L148.8,133.5 L147.5,128.8 L148.2,126.0 L151.3,125.7 L151.9,120.6 L154.0,116.5 L154.4,112.6 L153.3,105.7 L153.4,101.5 L151.6,97.0 L143.7,83.0 L135.8,77.5 L130.5,69.1 L128.7,64.0 L130.3,61.6 L135.2,61.0 L136.9,58.5 L137.1,43.6 L136.3,41.9 L129.8,36.7 L127.1,29.5 L122.9,25.7 L112.6,14.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>CY.NI</hasc>
+    <alt-name>Lefkosía|Levkosía|Lefkosa|Nicosie|Nikosia</alt-name>
+    <woe-id>12577971</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CY04</fips>
+    <postal-code>NI</postal-code>
+    <name>Nicosia</name>
+    <country>Cyprus</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>33.043</longitude>
+    <woe-name>Nicosia</woe-name>
+    <latitude>35.0214</latitude>
+    <woe-label>NULL</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>cy-ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CY.PA" d="M140.9,250.8 L135.0,248.2 L115.3,235.8 L108.3,232.7 L100.3,230.8 L84.0,229.0 L77.2,226.2 L70.8,222.1 L55.5,209.8 L53.3,207.3 L51.0,193.8 L49.4,191.6 L49.2,187.2 L40.5,162.7 L36.2,159.0 L28.1,153.5 L24.6,149.9 L21.5,145.2 L19.2,139.6 L19.0,133.6 L22.4,127.6 L15.1,115.4 L14.4,110.5 L14.5,100.4 L12.9,91.6 L4.6,77.1 L1.6,69.9 L0.0,58.2 L1.4,49.8 L5.8,47.0 L13.5,52.4 L24.8,65.0 L31.2,70.1 L38.4,73.1 L54.3,72.5 L68.2,65.2 L79.6,54.0 L88.2,41.8 L94.0,27.4 L98.1,19.6 L104.2,15.3 L106.0,10.8 L108.2,9.9 L113.0,12.4 L112.6,14.2 L122.9,25.7 L127.1,29.5 L129.8,36.7 L136.3,41.9 L137.1,43.6 L136.9,58.5 L135.2,61.0 L130.3,61.6 L128.7,64.0 L130.5,69.1 L135.8,77.5 L143.7,83.0 L151.6,97.0 L153.4,101.5 L153.3,105.7 L154.4,112.6 L154.0,116.5 L151.9,120.6 L151.3,125.7 L148.2,126.0 L147.5,128.8 L148.8,133.5 L152.9,139.0 L159.2,144.3 L160.2,144.5 L161.0,140.4 L164.3,140.9 L164.2,143.7 L168.3,143.4 L172.7,140.9 L176.7,135.5 L180.3,134.6 L189.5,138.4 L191.1,144.7 L195.5,150.7 L194.9,154.7 L193.1,157.0 L187.6,160.9 L185.4,164.3 L179.9,176.2 L178.1,178.4 L173.7,180.2 L171.8,182.2 L165.4,191.4 L164.0,196.6 L167.2,200.2 L168.0,202.8 L167.7,208.6 L165.7,213.4 L161.8,215.7 L154.2,222.6 L147.6,227.1 L144.7,230.6 L139.8,234.1 L139.3,235.3 L141.2,241.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>CY.PA</hasc>
+    <alt-name>Baf|Pafos</alt-name>
+    <woe-id>12577966</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CY06</fips>
+    <postal-code>PA</postal-code>
+    <name>Paphos</name>
+    <country>Cyprus</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>32.5276</longitude>
+    <woe-name>Paphos</woe-name>
+    <latitude>34.9307</latitude>
+    <woe-label>NULL</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>cy-pa</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CY.FA" d="M622.3,109.3 L614.8,102.3 L612.7,98.9 L612.0,95.1 L610.5,91.6 L602.6,91.7 L600.0,92.1 L596.5,91.3 L596.7,81.1 L593.7,77.9 L584.7,74.0 L586.7,68.9 L590.3,65.9 L595.4,63.3 L600.8,68.0 L606.1,66.9 L610.9,63.6 L615.6,57.7 L622.6,63.1 L625.7,59.4 L628.2,60.9 L639.0,63.7 L647.3,59.6 L665.0,63.4 L666.2,61.5 L675.4,69.1 L681.2,75.7 L685.6,88.4 L690.0,96.5 L695.3,104.0 L700.0,107.1 L694.7,107.5 L684.8,106.6 L675.2,103.9 L670.9,99.3 L666.3,97.0 L645.6,99.8 L627.6,105.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>CY.FA</hasc>
+    <alt-name>Famgusta|Ammochostos|Famagosta|Famagouste|Gazimagosa|Gazimagusa|Magusa</alt-name>
+    <woe-id>12577963</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CY01</fips>
+    <postal-code>FA</postal-code>
+    <name>Famagusta</name>
+    <country>Cyprus</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>33.9489</longitude>
+    <woe-name>Famagusta</woe-name>
+    <latitude>35.0164</latitude>
+    <woe-label>NULL</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>cy-fa</hc-key>
+    <hc-a2>FA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CY.LI" d="M328.9,149.1 L328.7,157.8 L331.2,160.4 L335.8,162.1 L341.2,162.0 L359.5,168.6 L364.2,171.9 L375.9,185.3 L380.0,191.5 L383.3,198.6 L383.4,200.4 L381.1,215.7 L381.1,217.5 L383.5,229.3 L378.7,232.5 L373.2,233.5 L345.5,230.4 L317.9,233.6 L312.0,235.2 L306.5,239.0 L288.7,255.5 L284.8,263.4 L275.2,263.4 L267.0,264.5 L264.3,267.7 L261.7,265.9 L261.1,259.4 L265.5,255.4 L267.3,257.9 L274.8,257.9 L273.9,245.2 L261.3,243.4 L256.5,248.1 L254.1,252.5 L251.7,250.3 L246.9,248.1 L245.5,251.3 L234.3,248.4 L227.1,242.7 L225.1,238.6 L224.8,232.5 L217.5,233.0 L214.3,232.3 L209.3,238.5 L204.1,239.4 L201.3,246.3 L193.6,245.2 L189.0,243.8 L186.5,247.1 L186.7,254.5 L182.3,256.1 L166.2,258.1 L150.2,254.9 L140.9,250.8 L141.2,241.0 L139.3,235.3 L139.8,234.1 L144.7,230.6 L147.6,227.1 L154.2,222.6 L161.8,215.7 L165.7,213.4 L167.7,208.6 L168.0,202.8 L167.2,200.2 L164.0,196.6 L165.4,191.4 L171.8,182.2 L173.7,180.2 L178.1,178.4 L179.9,176.2 L185.4,164.3 L187.6,160.9 L193.1,157.0 L194.9,154.7 L195.5,150.7 L191.1,144.7 L189.5,138.4 L189.6,132.0 L191.5,125.2 L192.6,119.3 L197.4,118.1 L200.2,114.4 L204.1,114.3 L209.8,118.2 L213.9,119.6 L222.2,119.8 L224.7,120.6 L229.6,123.8 L234.5,124.7 L242.8,124.5 L249.3,122.5 L262.6,113.1 L267.2,111.4 L272.2,113.7 L275.8,117.9 L279.8,125.6 L293.8,135.8 L296.9,138.8 L300.4,144.2 L302.4,144.7 L308.9,142.9 L314.5,142.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>CY.LI</hasc>
+    <alt-name>Limasol</alt-name>
+    <woe-id>12577965</woe-id>
+    <subregion>NULL</subregion>
+    <fips>CY05</fips>
+    <postal-code>LI</postal-code>
+    <name>Limassol</name>
+    <country>Cyprus</country>
+    <type-en>District</type-en>
+    <region>NULL</region>
+    <longitude>32.9674</longitude>
+    <woe-name>Limassol</woe-name>
+    <latitude>34.7755</latitude>
+    <woe-label>NULL</woe-label>
+    <type>District</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>cy-li</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

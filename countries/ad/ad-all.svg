@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Andorra</title>
+<g id="admin1">
+
+<g id="AD">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Andorra</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>And.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>AND</iso-a3>
+    <iso-a2>AD</iso-a2>
+    <woe-id>23424744</woe-id>
+    <continent>Europe</continent>
+    <hc-key>ad</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AD.3689" d="M156.8,344.0 L187.5,326.9 L216.8,307.8 L244.5,302.4 L267.8,293.1 L292.4,293.5 L279.0,314.8 L256.9,336.0 L246.5,349.5 L234.6,370.9 L218.1,398.0 L194.7,411.3 L178.6,420.8 L167.2,408.9 L160.4,383.3 L159.2,367.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AD.AN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070553</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AN07</fips>
+    <postal-code>NULL</postal-code>
+    <name>Andorra la Vella</name>
+    <country>Andorra</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>1.51066</longitude>
+    <woe-name>Andorra la Vella</woe-name>
+    <latitude>42.5128</latitude>
+    <woe-label>Andorra la Vella, AD, Andorra</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ad-3689</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AD.6404" d="M292.4,293.5 L267.8,293.1 L244.5,302.4 L216.8,307.8 L187.5,326.9 L156.8,344.0 L129.1,351.4 L102.8,364.6 L83.6,379.5 L77.7,337.7 L44.0,306.6 L0.0,311.6 L7.0,281.8 L40.3,226.6 L40.6,216.4 L24.5,205.1 L27.4,180.3 L38.8,153.9 L47.7,138.2 L91.1,121.4 L106.9,135.4 L128.6,135.8 L148.8,140.1 L158.7,154.0 L169.7,187.5 L186.8,205.4 L214.1,213.7 L247.3,222.2 L273.3,226.5 L292.1,228.8 L293.1,256.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AD.MA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070555</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AN04</fips>
+    <postal-code>NULL</postal-code>
+    <name>La Massana</name>
+    <country>Andorra</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>1.47083</longitude>
+    <woe-name>Massana</woe-name>
+    <latitude>42.55</latitude>
+    <woe-label>Massana, AD, Andorra</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ad-6404</hc-key>
+    <hc-a2>LM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AD.6405" d="M292.1,228.8 L273.3,226.5 L247.3,222.2 L214.1,213.7 L186.8,205.4 L169.7,187.5 L158.7,154.0 L148.8,140.1 L128.6,135.8 L106.9,135.4 L91.1,121.4 L122.9,18.2 L184.4,22.5 L241.9,1.7 L271.6,0.0 L375.9,74.1 L378.0,114.6 L377.6,138.2 L357.2,145.7 L331.0,153.1 L310.4,172.3 L297.0,197.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AD.OR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070556</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AN05</fips>
+    <postal-code>NULL</postal-code>
+    <name>Ordino</name>
+    <country>Andorra</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>1.52437</longitude>
+    <woe-name>Ordino</woe-name>
+    <latitude>42.6036</latitude>
+    <woe-label>Ordino, AD, Andorra</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>ad-6405</hc-key>
+    <hc-a2>OR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AD.6406" d="M292.1,228.8 L297.0,197.5 L310.4,172.3 L331.0,153.1 L357.2,145.7 L377.6,138.2 L378.0,114.6 L375.9,74.1 L397.1,84.4 L617.9,109.7 L600.2,162.9 L631.3,183.3 L676.4,198.0 L692.4,222.0 L692.4,222.0 L700.0,233.4 L651.0,237.2 L614.9,271.2 L605.6,293.8 L592.5,280.7 L573.9,268.6 L553.8,258.5 L547.0,225.1 L540.2,201.5 L512.5,212.8 L474.8,212.2 L434.2,217.5 L387.7,226.5 L322.6,225.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AD.CA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070557</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AN02</fips>
+    <postal-code>NULL</postal-code>
+    <name>Canillo</name>
+    <country>Andorra</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>1.60543</longitude>
+    <woe-name>Canillo</woe-name>
+    <latitude>42.5842</latitude>
+    <woe-label>Canillo, AD, Andorra</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>ad-6406</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AD.6407" d="M292.4,293.5 L293.1,256.3 L292.1,228.8 L322.6,225.4 L387.7,226.5 L434.2,217.5 L474.8,212.2 L512.5,212.8 L540.2,201.5 L547.0,225.1 L553.8,258.5 L573.9,268.6 L592.5,280.7 L605.6,293.8 L592.5,325.6 L584.5,391.3 L565.6,412.9 L543.7,422.7 L520.1,422.6 L497.1,413.8 L492.2,405.6 L486.8,403.3 L481.0,371.0 L456.7,349.1 L433.7,337.0 L393.2,332.4 L362.7,337.8 L336.8,323.6 L331.4,300.0 L317.1,291.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AD.EN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070558</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AN03</fips>
+    <postal-code>NULL</postal-code>
+    <name>Encamp</name>
+    <country>Andorra</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>1.6441</longitude>
+    <woe-name>Encamp</woe-name>
+    <latitude>42.5381</latitude>
+    <woe-label>Encamp, AD, Andorra</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>ad-6407</hc-key>
+    <hc-a2>EN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AD.6408" d="M178.6,420.8 L194.7,411.3 L218.1,398.0 L234.6,370.9 L246.5,349.5 L256.9,336.0 L279.0,314.8 L292.4,293.5 L317.1,291.9 L331.4,300.0 L336.8,323.6 L362.7,337.8 L393.2,332.4 L433.7,337.0 L456.7,349.1 L481.0,371.0 L486.8,403.3 L480.9,406.1 L473.7,414.3 L451.4,485.0 L388.5,510.3 L320.4,518.0 L315.3,485.9 L312.8,458.4 L326.3,435.1 L306.0,430.9 L274.1,434.2 L237.7,439.5 L211.8,429.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AD.EE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070554</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AN08</fips>
+    <postal-code>NULL</postal-code>
+    <name>Escaldes-Engordany</name>
+    <country>Andorra</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>1.59428</longitude>
+    <woe-name>Escaldes-Engordany</woe-name>
+    <latitude>42.495</latitude>
+    <woe-label>Escaldes-Engordany, AD, Andorra</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>ad-6408</hc-key>
+    <hc-a2>EE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="AD.6409" d="M178.6,420.8 L211.8,429.2 L237.7,439.5 L274.1,434.2 L306.0,430.9 L326.3,435.1 L312.8,458.4 L315.3,485.9 L320.4,518.0 L265.2,524.2 L254.1,536.4 L245.4,551.4 L232.9,566.2 L210.0,578.2 L194.1,580.1 L76.2,562.3 L54.1,545.3 L54.7,512.2 L0.1,423.5 L33.4,409.1 L44.6,406.5 L83.6,379.5 L102.8,364.6 L129.1,351.4 L156.8,344.0 L159.2,367.6 L160.4,383.3 L167.2,408.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>AD.JL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>20070564</woe-id>
+    <subregion>NULL</subregion>
+    <fips>AN06</fips>
+    <postal-code>NULL</postal-code>
+    <name>Sant Julià de Lòria</name>
+    <country>Andorra</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>1.47975</longitude>
+    <woe-name>Sant Julià de Lòria</woe-name>
+    <latitude>42.4511</latitude>
+    <woe-label>Sant Julià de Lòria, AD, Andorra</woe-label>
+    <type>NULL</type>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ad-6409</hc-key>
+    <hc-a2>SJ</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

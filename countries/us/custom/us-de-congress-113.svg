@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Delaware congressional districts</title>
+<g id="special">
+
+<g id="US">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>United States of America</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>U.S.A.</country-abbrev>
+    <subregion>Northern America</subregion>
+    <region-wb>North America</region-wb>
+    <iso-a3>USA</iso-a3>
+    <iso-a2>US</iso-a2>
+    <woe-id>23424977</woe-id>
+    <continent>North America</continent>
+    <hc-key>us</hc-key>
+    <hc-a2>US</hc-a2>
+  </desc>
+</g>
+
+<g id="US.DE">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>0</labelrank>
+    <hasc>US.DE</hasc>
+    <alt-name>DE|Del.</alt-name>
+    <woe-id>2347566</woe-id>
+    <subregion>South Atlantic</subregion>
+    <fips>US10</fips>
+    <postal-code>DE</postal-code>
+    <name>Delaware</name>
+    <country>United States of America</country>
+    <type-en>State</type-en>
+    <region>South</region>
+    <longitude>-75.41119999999999</longitude>
+    <woe-name>Delaware</woe-name>
+    <latitude>38.8657</latitude>
+    <woe-label>Delaware, US, United States</woe-label>
+    <type>State</type>
+    <hc-key>us-de</hc-key>
+    <hc-a2>DE</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.DE.00" d="M289.7,700.0 L284.3,700.0 L280.0,695.7 L273.5,695.2 L274.1,700.0 L215.2,700.0 L105.4,698.0 L32.4,694.6 L11.7,312.2 L0.0,95.7 L0.3,58.4 L6.1,58.4 L13.9,41.4 L27.5,24.2 L50.5,8.3 L85.2,0.0 L109.7,2.2 L125.3,7.2 L142.1,17.0 L141.0,18.4 L127.2,27.8 L121.8,34.1 L117.4,54.4 L112.3,63.2 L94.6,85.3 L92.5,87.3 L78.6,92.4 L76.5,95.7 L75.3,101.1 L71.3,112.1 L72.3,116.5 L83.3,127.8 L86.7,132.3 L90.4,141.1 L90.8,150.3 L88.2,159.4 L82.7,168.4 L79.3,179.3 L77.5,189.7 L84.9,201.0 L100.8,219.8 L115.2,245.0 L116.0,248.1 L118.4,249.5 L127.5,257.8 L137.1,264.6 L139.4,276.5 L147.5,287.1 L151.2,297.6 L152.7,310.1 L148.4,336.5 L147.8,346.7 L148.4,357.4 L151.1,371.6 L149.5,383.8 L152.5,395.3 L162.1,403.0 L172.5,413.2 L183.4,431.4 L184.8,439.6 L185.0,459.8 L190.4,467.2 L210.9,494.1 L230.1,516.5 L241.6,527.2 L255.7,533.0 L267.8,530.4 L269.4,525.6 L268.0,521.6 L270.7,520.6 L273.9,526.4 L281.1,585.8 L281.6,608.7 L278.8,605.8 L276.5,581.6 L273.1,578.1 L259.4,582.9 L252.2,580.8 L259.9,595.5 L252.1,593.9 L246.6,595.4 L255.6,603.4 L261.3,605.8 L268.2,605.8 L259.2,614.4 L232.0,621.7 L225.0,630.1 L233.1,630.1 L229.5,636.7 L224.9,640.4 L231.3,641.7 L247.0,630.9 L257.3,630.1 L266.3,642.3 L269.4,642.1 L277.4,632.0 L279.7,628.4 L279.8,621.0 L281.3,617.6 L283.4,618.8 L284.7,631.9 L284.3,649.0 L286.3,661.8 L287.4,676.0 Z M147.5,20.4 L149.6,22.0 L139.7,28.1 Z M98.3,124.9 L107.2,131.7 L106.4,133.5 Z M100.1,172.1 L97.2,172.4 L95.9,166.6 L97.4,169.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>1000</geoid>
+    <name>Congressional District (at Large)</name>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.81</hc-middle-y>
+    <hc-key>us-de-00</hc-key>
+    <hc-a2>CD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

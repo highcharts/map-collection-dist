@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
+</desc>
+<title>Northern Mariana Islands congressional districts</title>
+<g id="special">
+
+<g id="MP.NI">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>MP.NI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>29389661</woe-id>
+    <subregion>NULL</subregion>
+    <fips>085</fips>
+    <postal-code>NI</postal-code>
+    <name>Northern Islands</name>
+    <country>Northern Mariana Islands</country>
+    <type-en>NULL</type-en>
+    <region>NULL</region>
+    <longitude>145.674</longitude>
+    <woe-name>Northern Islands</woe-name>
+    <latitude>16.3573</latitude>
+    <woe-label>NULL</woe-label>
+    <type>NULL</type>
+    <hc-key>mp-ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</g>
+
+<g id="MP">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Northern Mariana Islands</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>N.M.I.</country-abbrev>
+    <subregion>Micronesia</subregion>
+    <region-wb>East Asia &amp; Pacific</region-wb>
+    <iso-a3>MNP</iso-a3>
+    <iso-a2>MP</iso-a2>
+    <woe-id>23424788</woe-id>
+    <continent>Oceania</continent>
+    <hc-key>mp</hc-key>
+    <hc-a2>NM</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MP.NI.98" d="M78.0,458.2 L75.1,458.5 L73.7,458.4 L72.5,457.9 L71.4,456.9 L70.8,455.8 L71.0,454.7 L71.8,454.0 L73.6,453.9 L74.9,454.3 L78.1,454.8 L79.4,455.4 L80.2,457.1 L79.5,457.9 Z M89.5,420.2 L87.9,422.1 L85.8,420.0 L87.6,419.4 Z M96.6,354.1 L95.2,355.9 L93.2,353.8 L94.8,353.3 Z M96.6,324.5 L95.3,325.4 L93.0,324.2 L92.5,322.5 L93.2,321.1 L94.9,321.0 L96.2,321.9 L96.8,323.2 Z M85.6,271.6 L84.1,272.5 L81.6,272.4 L81.0,269.8 L83.7,268.4 L84.9,265.9 L85.6,260.7 L87.1,259.3 L91.3,259.4 L92.6,260.1 L93.7,261.2 L94.1,262.6 L93.7,264.4 L92.8,265.4 L91.5,266.1 L90.2,267.0 Z M79.5,199.2 L77.9,199.8 L76.1,199.6 L73.5,197.1 L73.2,192.8 L75.0,190.4 L79.0,190.6 L80.4,192.3 L81.0,193.6 L81.1,195.0 L81.1,197.0 L80.6,198.2 Z M51.4,97.5 L50.6,98.6 L49.2,97.7 L48.2,96.4 L48.2,95.1 L49.8,94.6 L51.1,95.1 L51.6,96.2 Z M34.5,56.8 L34.6,57.4 L35.3,57.3 L36.2,57.0 L37.0,56.8 L37.3,57.2 L37.1,58.1 L36.6,58.8 L35.9,59.3 L35.1,59.7 L34.0,59.3 L33.1,58.5 L32.6,57.4 L32.9,56.2 L33.9,55.2 L34.3,55.8 Z M2.4,3.3 L1.4,4.1 L0.3,3.1 L0.0,1.6 L0.5,0.4 L1.8,0.0 L3.1,0.7 L3.1,2.0 Z M27.9,698.0 L27.0,699.0 L25.0,700.0 L23.9,699.6 L22.9,698.8 L21.0,698.3 L17.8,698.6 L16.1,698.6 L15.4,697.9 L16.6,696.0 L19.5,694.2 L22.6,692.8 L24.6,692.3 L29.6,690.3 L32.5,690.1 L33.6,692.4 L33.2,693.7 L32.7,694.6 L31.8,695.1 L30.4,695.3 L29.3,695.8 L28.5,696.8 Z M71.7,611.4 L69.6,613.0 L67.5,611.6 L67.1,610.2 L66.7,607.2 L66.1,605.6 L64.8,603.9 L64.5,603.1 L64.6,601.9 L65.9,599.4 L68.1,596.5 L70.4,594.9 L71.9,596.0 L72.5,597.4 L72.3,598.8 L72.0,600.2 L71.9,601.9 L72.3,602.9 L73.8,604.6 L74.0,605.7 L73.4,608.5 Z M86.5,585.6 L86.0,586.6 L85.3,587.1 L84.5,587.1 L83.6,586.4 L82.3,587.6 L81.6,589.0 L81.7,590.5 L82.5,592.0 L83.1,593.4 L81.6,593.4 L79.7,592.7 L79.2,592.4 L76.9,592.9 L76.0,592.7 L75.6,591.2 L75.8,589.6 L77.1,585.6 L77.2,584.0 L77.2,582.8 L77.4,581.8 L78.2,580.8 L78.8,580.5 L80.8,579.7 L81.1,579.1 L81.2,577.9 L81.4,577.4 L82.7,576.8 L85.5,576.0 L86.9,574.9 L88.3,574.4 L89.9,574.6 L90.7,575.4 L89.4,576.7 L88.2,577.5 L87.4,578.7 L85.6,583.3 L85.6,584.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <geoid>6998</geoid>
+    <name>Delegate District (at Large)</name>
+    <hc-middle-x>0.85</hc-middle-x>
+    <hc-middle-y>0.83</hc-middle-y>
+    <hc-key>mp-ni-98</hc-key>
+    <hc-a2>DD</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
+
+</svg>

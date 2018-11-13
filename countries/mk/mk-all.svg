@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Macedonia</title>
+<g id="admin1">
+
+<g id="MK">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Macedonia</name>
+    <labelrank>6</labelrank>
+    <country-abbrev>Mkd.</country-abbrev>
+    <subregion>Southern Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>MKD</iso-a3>
+    <iso-a2>MK</iso-a2>
+    <woe-id>23424890</woe-id>
+    <continent>Europe</continent>
+    <hc-key>mk</hc-key>
+    <hc-a2>MA</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.VV" d="M18.0,424.0 L14.6,414.7 L13.4,409.3 L33.3,408.3 L41.6,409.3 L48.2,411.1 L49.4,413.7 L47.7,416.9 L40.7,420.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.VV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550867</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK99</fips>
+    <postal-code>VV</postal-code>
+    <name>Vev?ani</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>20.5689</longitude>
+    <woe-name>Vevcani</woe-name>
+    <latitude>41.2362</latitude>
+    <woe-label>Vevcani Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>mk-vv</hc-key>
+    <hc-a2>VV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.AR" d="M298.7,110.8 L307.9,122.2 L313.9,122.6 L315.7,114.7 L323.5,117.5 L323.9,121.7 L318.9,126.8 L311.6,136.2 L306.5,137.2 L298.6,141.0 L298.6,134.4 L301.7,130.5 L300.9,120.2 L298.3,116.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.AR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550745</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK01</fips>
+    <postal-code>AR</postal-code>
+    <name>Aracinovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Skopje</region>
+    <longitude>21.5862</longitude>
+    <woe-name>Aracinovo Municipality</woe-name>
+    <latitude>42.0185</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mk-ar</hc-key>
+    <hc-a2>AR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.LI" d="M315.7,114.7 L313.9,122.6 L307.9,122.2 L298.7,110.8 L292.9,103.3 L290.5,99.4 L285.8,91.0 L282.8,87.4 L283.7,84.9 L290.9,80.2 L291.6,70.5 L285.3,64.2 L282.4,59.3 L279.6,49.5 L282.2,46.3 L287.0,49.6 L292.6,49.4 L303.9,46.4 L307.5,48.2 L320.9,47.9 L330.4,50.4 L335.1,50.6 L335.9,64.9 L337.7,72.2 L337.3,76.7 L331.9,79.0 L332.0,88.3 L326.5,86.9 L324.2,89.4 L324.1,99.2 L322.9,102.9 L315.0,108.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.LI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550842</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK01</fips>
+    <postal-code>LI</postal-code>
+    <name>Lipkovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Skopje</region>
+    <longitude>21.579</longitude>
+    <woe-name>Lipkovo</woe-name>
+    <latitude>42.1401</latitude>
+    <woe-label>Lipkovo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>mk-li</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.CZ" d="M25.7,353.8 L21.1,345.5 L12.5,341.7 L10.1,330.0 L18.3,321.6 L30.6,314.9 L33.8,309.5 L45.2,310.4 L48.3,314.9 L50.0,321.8 L52.9,324.5 L56.0,324.5 L58.0,330.9 L57.9,341.6 L62.2,342.4 L63.9,345.8 L59.0,351.9 L55.1,354.1 L29.6,353.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.CZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550829</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK18</fips>
+    <postal-code>CZ</postal-code>
+    <name>Centar ?upa</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>20.5799</longitude>
+    <woe-name>Centar ?upa</woe-name>
+    <latitude>41.4644</latitude>
+    <woe-label>Centar Zupa Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>mk-cz</hc-key>
+    <hc-a2>CZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.DM" d="M162.8,423.7 L162.4,422.0 L160.6,419.0 L157.8,413.1 L157.8,408.9 L152.8,404.7 L150.1,397.4 L144.8,394.6 L140.1,390.1 L139.8,382.8 L141.4,379.5 L147.6,374.9 L154.1,372.0 L175.4,371.8 L184.0,364.9 L184.8,362.2 L190.1,360.7 L198.5,365.6 L198.6,370.8 L202.7,370.1 L210.0,370.7 L211.9,373.5 L211.6,388.0 L212.2,389.4 L219.7,387.6 L225.7,392.8 L227.8,401.8 L232.5,407.3 L231.6,421.1 L228.6,423.2 L225.9,427.9 L220.9,431.8 L215.3,433.7 L211.7,439.8 L208.2,440.1 L204.0,442.6 L200.9,446.7 L194.4,449.8 L187.9,450.6 L178.7,455.0 L175.0,449.4 L173.5,439.0 L171.0,428.6 L165.8,428.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.DM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550759</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK24</fips>
+    <postal-code>DM</postal-code>
+    <name>Demir Hisar</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>21.1238</longitude>
+    <woe-name>Demir Hisar Municipality</woe-name>
+    <latitude>41.2587</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>mk-dm</hc-key>
+    <hc-a2>DM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.OD" d="M160.6,419.0 L162.4,422.0 L162.8,423.7 L156.9,432.1 L151.1,436.6 L134.4,446.3 L125.7,456.4 L123.7,462.2 L122.3,469.9 L121.8,481.4 L118.1,483.8 L118.3,489.1 L121.3,494.5 L120.8,501.8 L118.6,504.2 L111.6,504.8 L108.4,507.3 L106.0,516.3 L106.9,528.5 L101.4,529.8 L92.2,537.5 L87.4,539.4 L80.4,537.8 L75.9,534.0 L83.3,528.3 L91.3,526.5 L94.4,524.6 L93.0,516.8 L98.3,501.0 L100.0,493.5 L98.5,474.7 L98.9,466.6 L102.1,459.8 L98.1,459.2 L88.7,453.9 L84.8,443.6 L89.4,438.2 L91.0,434.5 L95.8,432.6 L95.4,425.3 L98.8,418.7 L102.2,416.5 L102.8,413.6 L107.4,411.4 L114.4,411.7 L119.0,409.7 L126.5,409.8 L136.4,413.2 L143.6,418.0 L156.6,420.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.OD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550834</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK74</fips>
+    <postal-code>OD</postal-code>
+    <name>Ohrid</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>20.8501</longitude>
+    <woe-name>Ohrid</woe-name>
+    <latitude>41.0273</latitude>
+    <woe-label>Ohrid Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.22</hc-middle-y>
+    <hc-key>mk-od</hc-key>
+    <hc-a2>OD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.3086" d="M84.8,443.6 L82.9,441.4 L80.1,439.7 L80.9,431.3 L78.5,428.6 L78.9,420.8 L83.2,415.5 L85.2,408.9 L85.8,397.8 L78.7,386.8 L78.7,378.3 L77.6,369.3 L66.3,346.9 L68.7,344.7 L77.5,345.2 L96.7,344.7 L105.1,345.5 L111.0,347.0 L121.4,347.2 L126.2,358.4 L126.5,367.2 L128.6,371.3 L133.7,373.0 L139.8,382.8 L140.1,390.1 L144.8,394.6 L150.1,397.4 L152.8,404.7 L157.8,408.9 L157.8,413.1 L160.6,419.0 L156.6,420.0 L143.6,418.0 L136.4,413.2 L126.5,409.8 L119.0,409.7 L114.4,411.7 L107.4,411.4 L102.8,413.6 L102.2,416.5 L98.8,418.7 L95.4,425.3 L95.8,432.6 L91.0,434.5 L89.4,438.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550746</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK00</fips>
+    <postal-code>NULL</postal-code>
+    <name>Debarca</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>20.8594</longitude>
+    <woe-name>Debarca</woe-name>
+    <latitude>41.3337</latitude>
+    <woe-label>Debarca Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>mk-3086</hc-key>
+    <hc-a2>DE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.PP" d="M406.7,460.6 L400.1,466.5 L398.9,476.0 L389.8,472.6 L381.7,465.2 L380.6,467.4 L374.3,467.7 L368.1,465.1 L362.8,459.7 L356.1,458.5 L347.0,454.1 L333.0,452.3 L325.0,447.9 L321.2,441.6 L316.8,443.9 L315.8,442.8 L304.5,439.6 L299.5,435.7 L294.0,438.3 L287.9,438.1 L282.6,435.3 L280.7,431.9 L273.0,430.9 L270.4,426.4 L267.0,423.7 L263.7,418.6 L260.2,416.4 L253.4,415.4 L252.1,411.0 L257.7,410.4 L265.7,402.1 L266.9,393.3 L269.4,389.0 L268.1,384.9 L262.6,384.4 L260.2,380.1 L260.1,376.7 L264.5,372.9 L270.2,369.2 L276.5,361.6 L282.2,361.6 L288.5,359.6 L297.6,359.2 L303.6,353.6 L309.6,351.4 L311.7,342.6 L317.0,338.8 L322.6,339.3 L326.7,345.0 L333.3,343.7 L335.3,339.4 L335.6,332.3 L337.2,330.3 L344.4,329.7 L347.8,327.5 L359.6,333.3 L363.4,339.3 L363.4,342.1 L369.5,348.8 L372.2,348.8 L375.6,343.5 L375.7,362.2 L378.8,366.7 L379.3,375.1 L377.7,378.1 L377.0,392.1 L380.5,402.7 L382.9,403.4 L394.6,403.3 L393.7,408.9 L390.6,414.7 L390.1,422.4 L395.4,429.8 L395.2,441.5 L396.2,449.5 L399.9,451.1 L405.3,451.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.PP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550799</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK82</fips>
+    <postal-code>PP</postal-code>
+    <name>Prilep</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Pelagonia</region>
+    <longitude>21.6444</longitude>
+    <woe-name>Prilep</woe-name>
+    <latitude>41.2806</latitude>
+    <woe-label>Prilep Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mk-pp</hc-key>
+    <hc-a2>PP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.AJ" d="M214.1,99.0 L216.4,101.3 L218.6,101.8 L217.4,106.4 L218.0,113.2 L219.9,117.9 L222.4,119.3 L229.1,116.5 L231.4,119.0 L232.2,123.8 L238.3,136.3 L242.5,141.6 L249.4,142.2 L249.2,154.3 L249.8,155.4 L248.8,157.1 L242.7,157.4 L232.8,164.2 L223.0,173.6 L212.4,177.8 L211.0,181.3 L201.0,173.1 L201.7,163.5 L203.6,153.8 L202.9,147.7 L195.7,143.0 L189.5,140.5 L191.8,137.6 L200.6,134.8 L198.3,127.7 L197.8,122.8 L203.3,118.1 L202.2,111.7 L196.9,113.1 L192.5,108.5 L196.7,105.5 L210.5,104.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.AJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550803</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK90</fips>
+    <postal-code>AJ</postal-code>
+    <name>Saraj</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.2491</longitude>
+    <woe-name>Saraj</woe-name>
+    <latitude>41.975</latitude>
+    <woe-label>Skopje, Saraj Municipality, Macedonia</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>mk-aj</hc-key>
+    <hc-a2>AJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.ST" d="M450.9,183.2 L456.3,182.9 L464.1,185.9 L459.8,189.7 L457.6,194.5 L458.6,205.8 L462.8,214.7 L475.3,215.9 L479.3,218.3 L487.8,226.6 L493.2,227.4 L502.8,236.2 L506.0,240.3 L511.7,240.2 L532.7,236.6 L534.1,238.3 L529.6,245.8 L525.6,254.7 L520.6,254.9 L509.8,250.9 L504.4,257.8 L508.8,269.3 L508.9,275.7 L513.5,280.1 L502.9,292.7 L496.5,298.4 L496.6,300.5 L489.3,301.2 L484.5,299.9 L472.3,292.6 L471.3,285.0 L466.9,283.6 L455.5,282.5 L452.8,270.9 L450.8,266.8 L447.5,265.8 L444.4,271.9 L441.7,272.6 L436.4,265.1 L431.1,264.0 L427.9,261.4 L422.7,258.1 L414.3,257.7 L413.9,253.5 L407.5,247.4 L408.5,242.8 L412.2,237.1 L415.4,236.1 L421.3,241.6 L423.3,238.1 L427.2,237.6 L426.6,233.0 L428.4,232.5 L432.9,236.8 L436.3,237.6 L436.6,233.9 L434.2,232.3 L436.5,229.3 L435.8,224.2 L433.2,219.9 L434.2,217.4 L439.1,215.9 L447.0,203.6 L450.3,201.5 L450.1,197.2 L447.0,191.9 L447.1,187.7 L450.1,186.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.ST</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550807</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK98</fips>
+    <postal-code>ST</postal-code>
+    <name>?tip</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.1689</longitude>
+    <woe-name>?tip</woe-name>
+    <latitude>41.6824</latitude>
+    <woe-label>Stip Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>mk-st</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.PT" d="M464.1,185.9 L456.3,182.9 L450.9,183.2 L447.2,178.2 L449.5,174.1 L449.5,170.1 L444.2,167.1 L438.6,156.7 L427.4,148.1 L427.2,141.5 L430.2,135.1 L432.1,134.7 L438.3,138.3 L440.8,138.5 L443.0,131.4 L446.3,128.1 L452.0,128.2 L467.5,122.2 L472.9,127.7 L481.7,125.3 L484.7,129.4 L488.1,130.2 L489.9,127.5 L489.8,116.6 L490.8,115.7 L505.1,115.7 L512.5,121.0 L514.8,124.5 L512.6,133.7 L507.3,136.7 L504.4,142.4 L494.6,151.2 L493.3,153.2 L489.3,154.0 L484.7,166.7 L478.5,171.8 L475.9,172.5 L475.5,176.9 L485.2,189.4 L484.0,190.8 L474.3,191.3 L471.4,190.2 L469.6,184.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.PT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550800</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK83</fips>
+    <postal-code>PT</postal-code>
+    <name>Probistip</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Northeastern</region>
+    <longitude>22.174</longitude>
+    <woe-name>Probistip</woe-name>
+    <latitude>41.9372</latitude>
+    <woe-label>Probistip Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>mk-pt</hc-key>
+    <hc-a2>PT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.PE" d="M311.4,174.6 L306.7,174.2 L307.5,169.1 L309.9,166.4 L310.4,165.6 L323.5,157.5 L328.2,160.7 L335.2,160.0 L335.4,155.1 L334.1,150.6 L338.4,142.0 L339.9,143.8 L346.6,146.4 L350.4,151.3 L353.8,152.1 L357.4,149.9 L364.4,149.7 L372.9,157.0 L370.5,164.0 L370.4,168.0 L361.1,175.1 L353.9,176.5 L352.2,178.5 L353.0,187.8 L352.1,194.3 L349.1,205.5 L346.9,207.4 L343.7,206.3 L340.7,202.0 L333.5,208.2 L333.7,203.4 L330.6,204.5 L325.6,203.9 L322.7,201.8 L324.9,197.4 L325.3,178.9 L315.4,174.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.PE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550796</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK79</fips>
+    <postal-code>PE</postal-code>
+    <name>Skopje</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>21.6898</longitude>
+    <woe-name>Skopje</woe-name>
+    <latitude>41.8999</latitude>
+    <woe-label>Petrovec Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>mk-pe</hc-key>
+    <hc-a2>PE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.SU" d="M307.5,169.1 L306.7,174.2 L311.4,174.6 L298.0,183.7 L297.3,188.8 L292.2,196.1 L290.4,203.1 L286.4,202.9 L285.0,198.0 L283.0,197.9 L279.0,204.4 L279.4,212.1 L284.8,221.5 L283.6,229.5 L276.0,231.9 L273.1,234.3 L268.3,244.3 L262.0,249.6 L259.9,259.1 L257.1,257.9 L254.0,251.5 L254.0,239.1 L251.5,236.3 L246.4,235.7 L244.3,231.3 L245.3,221.7 L247.3,218.0 L246.1,214.5 L242.4,212.1 L242.7,209.3 L246.6,207.4 L249.7,193.3 L255.0,191.2 L253.9,187.9 L244.8,186.5 L243.5,178.5 L249.6,175.2 L256.2,175.9 L260.4,178.0 L271.6,177.2 L273.6,163.7 L281.9,162.7 L284.4,165.5 L284.5,173.4 L288.4,176.4 L290.5,175.4 L292.8,169.3 L297.7,166.0 L298.9,165.4 L302.6,162.6 L304.2,163.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.SU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550809</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKA2</fips>
+    <postal-code>SU</postal-code>
+    <name>Studenicani</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Skopje</region>
+    <longitude>21.4592</longitude>
+    <woe-name>Studenicani</woe-name>
+    <latitude>41.8317</latitude>
+    <woe-label>Studenicani Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mk-su</hc-key>
+    <hc-a2>SU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.SL" d="M389.7,197.0 L383.1,195.8 L373.4,184.0 L370.4,172.7 L370.4,168.0 L370.5,164.0 L372.9,157.0 L379.7,149.0 L380.3,143.9 L387.5,136.7 L394.9,135.8 L398.5,136.7 L404.8,144.9 L407.8,144.7 L416.6,140.7 L419.6,135.5 L424.7,135.4 L430.2,135.1 L427.2,141.5 L427.4,148.1 L438.6,156.7 L444.2,167.1 L449.5,170.1 L449.5,174.1 L447.2,178.2 L450.9,183.2 L450.1,186.0 L447.1,187.7 L447.0,191.9 L450.1,197.2 L450.3,201.5 L447.0,203.6 L439.1,215.9 L434.2,217.4 L433.2,219.9 L435.8,224.2 L436.5,229.3 L434.2,232.3 L436.6,233.9 L436.3,237.6 L432.9,236.8 L428.4,232.5 L419.6,225.8 L414.2,220.3 L405.3,209.1 L402.9,207.2 L395.9,205.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.SL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550811</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKA4</fips>
+    <postal-code>SL</postal-code>
+    <name>Sveti Nikole</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Northeastern</region>
+    <longitude>21.9509</longitude>
+    <woe-name>Sveti Nikole</woe-name>
+    <latitude>41.8778</latitude>
+    <woe-label>Sveti Nikole Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>mk-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.PN" d="M171.5,344.8 L166.4,345.8 L164.6,342.8 L162.7,333.8 L163.7,330.0 L167.9,329.5 L172.8,330.9 L179.6,330.0 L188.1,325.9 L192.8,326.9 L193.0,332.5 L195.9,337.4 L204.6,340.7 L205.4,344.6 L193.6,349.8 L188.6,353.4 L179.2,348.9 L176.3,343.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.PN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550797</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK80</fips>
+    <postal-code>PN</postal-code>
+    <name>Plasnica</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>21.1173</longitude>
+    <woe-name>Plasnica Municipality</woe-name>
+    <latitude>41.4424</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>mk-pn</hc-key>
+    <hc-a2>PN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.VC" d="M172.8,330.9 L167.9,329.5 L163.7,330.0 L162.7,333.8 L164.6,342.8 L166.4,345.8 L171.5,344.8 L171.4,348.2 L163.7,351.1 L153.2,350.9 L150.8,344.3 L143.7,339.4 L142.6,331.4 L145.3,330.0 L150.5,319.3 L153.4,317.3 L158.2,316.8 L164.0,311.0 L166.6,302.5 L175.7,296.1 L179.7,289.8 L181.5,297.6 L186.3,302.9 L192.4,306.3 L183.6,317.5 L177.9,323.1 L173.4,325.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.VC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550818</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKB6</fips>
+    <postal-code>VC</postal-code>
+    <name>Vrane?tica</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>21.015</longitude>
+    <woe-name>Vranestica Municipality</woe-name>
+    <latitude>41.4746</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>mk-vc</hc-key>
+    <hc-a2>VC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.BU" d="M283.7,84.9 L282.8,87.4 L285.8,91.0 L290.5,99.4 L287.2,101.4 L282.3,107.8 L279.3,113.6 L278.6,120.8 L278.7,133.4 L277.0,137.1 L273.0,137.6 L268.2,134.5 L268.2,135.5 L266.8,136.7 L260.4,135.6 L255.6,128.7 L257.4,126.2 L260.5,127.3 L264.5,133.7 L267.6,132.9 L266.8,125.1 L270.6,124.5 L269.9,111.9 L270.5,103.8 L271.8,98.8 L278.1,85.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.BU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55848399</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK13</fips>
+    <postal-code>BU</postal-code>
+    <name>Butel</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.4665</longitude>
+    <woe-name>Butel Municipality</woe-name>
+    <latitude>42.0738</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.71</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>mk-bu</hc-key>
+    <hc-a2>BU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.CI" d="M268.2,135.5 L268.2,134.5 L273.0,137.6 L273.0,139.3 L272.6,142.8 L272.0,142.5 L271.0,142.8 L270.2,141.2 L268.0,141.4 L268.1,138.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.CI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550752</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKA3</fips>
+    <postal-code>CI</postal-code>
+    <name>Cair</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.4367</longitude>
+    <woe-name>Cair Municipality</woe-name>
+    <latitude>41.9946</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mk-ci</hc-key>
+    <hc-a2>CI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.NG" d="M420.8,298.2 L424.6,299.0 L426.1,307.2 L429.6,307.0 L432.3,300.3 L429.7,294.3 L434.0,285.6 L431.9,280.7 L422.0,283.8 L419.3,281.2 L420.8,274.4 L424.4,271.4 L428.1,263.6 L427.9,261.4 L431.1,264.0 L436.4,265.1 L441.7,272.6 L444.4,271.9 L447.5,265.8 L450.8,266.8 L452.8,270.9 L455.5,282.5 L466.9,283.6 L471.3,285.0 L472.3,292.6 L484.5,299.9 L489.3,301.2 L496.6,300.5 L501.4,305.9 L507.1,315.5 L507.7,320.1 L500.2,326.7 L496.8,332.8 L492.9,332.0 L485.8,328.3 L482.9,325.6 L478.8,325.1 L471.3,332.2 L465.7,348.5 L461.4,351.1 L460.1,353.6 L465.2,361.8 L463.0,371.0 L459.0,372.0 L449.5,371.8 L445.2,369.3 L444.5,362.4 L442.1,358.3 L440.8,352.7 L440.6,339.8 L437.6,326.1 L437.7,318.6 L433.4,315.5 L428.4,317.6 L423.1,317.8 L421.1,316.2 L421.1,316.2 L421.3,309.6 L420.8,298.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.NG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550790</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK69</fips>
+    <postal-code>NG</postal-code>
+    <name>Negotino</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Vardar</region>
+    <longitude>22.1394</longitude>
+    <woe-name>Negotino</woe-name>
+    <latitude>41.3722</latitude>
+    <woe-label>Negotino Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>mk-ng</hc-key>
+    <hc-a2>NG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.RM" d="M420.8,298.2 L421.3,309.6 L421.1,316.2 L420.2,318.5 L419.5,320.1 L419.2,330.9 L414.4,334.0 L411.8,338.9 L403.9,334.6 L400.3,336.0 L399.8,340.7 L397.8,342.2 L385.5,343.1 L380.6,342.5 L373.7,333.6 L374.1,327.5 L375.3,322.2 L378.5,319.0 L383.0,318.6 L385.1,316.2 L384.0,306.7 L386.8,305.7 L394.5,309.7 L398.7,309.7 L404.6,301.6 L409.5,303.8 L413.4,303.8 L414.0,298.5 L416.4,297.0 L417.6,297.3 L420.6,298.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.RM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550801</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK87</fips>
+    <postal-code>RM</postal-code>
+    <name>Vardar</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>21.8972</longitude>
+    <woe-name>Vardar</woe-name>
+    <latitude>41.477</latitude>
+    <woe-label>Rosoman Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>mk-rm</hc-key>
+    <hc-a2>RM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.CE" d="M268.0,141.4 L270.2,141.2 L271.0,142.8 L269.4,146.1 L270.0,146.8 L268.7,148.4 L268.2,152.9 L263.3,148.1 L264.0,144.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.CE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550756</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK17</fips>
+    <postal-code>CE</postal-code>
+    <name>Centar</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.4226</longitude>
+    <woe-name>Centar Municipality</woe-name>
+    <latitude>41.9752</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>mk-ce</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.ZR" d="M530.9,209.4 L527.8,203.9 L522.0,197.5 L521.1,189.7 L525.7,189.5 L530.5,184.8 L536.1,186.8 L539.2,181.9 L542.5,181.1 L544.8,184.8 L546.1,191.5 L546.5,201.9 L546.0,210.2 L539.2,210.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.ZR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550824</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK19</fips>
+    <postal-code>ZR</postal-code>
+    <name>Zrnovci</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>22.4027</longitude>
+    <woe-name>Zrnovci Municipality</woe-name>
+    <latitude>41.8224</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>mk-zr</hc-key>
+    <hc-a2>ZR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.CH" d="M521.1,189.7 L522.0,197.5 L527.8,203.9 L530.9,209.4 L530.0,210.8 L524.3,210.4 L518.2,204.5 L511.9,204.9 L501.2,203.2 L494.0,198.1 L485.2,189.4 L475.5,176.9 L475.9,172.5 L478.5,171.8 L484.7,166.7 L489.3,154.0 L493.3,153.2 L498.1,160.9 L502.3,163.7 L512.9,163.2 L512.0,169.1 L512.4,177.7 L515.6,186.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.CH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550757</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK19</fips>
+    <postal-code>CH</postal-code>
+    <name>Ce?inovo-Oble?evo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.2896</longitude>
+    <woe-name>Cesinovo-Oblesevo Municipality</woe-name>
+    <latitude>41.8644</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>mk-ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.CS" d="M257.4,126.2 L255.6,128.7 L252.6,126.5 L249.5,126.1 L249.4,121.0 L244.7,110.6 L236.4,102.6 L233.5,100.9 L233.4,92.7 L231.5,85.7 L231.9,82.5 L247.7,58.1 L251.2,55.2 L255.9,54.8 L265.4,58.3 L268.3,58.0 L265.5,49.2 L270.0,46.7 L275.6,50.3 L279.6,49.5 L282.4,59.3 L285.3,64.2 L291.6,70.5 L290.9,80.2 L283.7,84.9 L278.1,85.7 L271.8,98.8 L270.5,103.8 L269.9,111.9 L270.6,124.5 L266.8,125.1 L261.7,117.5 L257.6,120.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.CS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550830</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK20</fips>
+    <postal-code>CS</postal-code>
+    <name>Cucer Sandevo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Skopje</region>
+    <longitude>21.3885</longitude>
+    <woe-name>Cucer Sandevo</woe-name>
+    <latitude>42.1353</latitude>
+    <woe-label>Cucer-Sandevo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>mk-cs</hc-key>
+    <hc-a2>CS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.GB" d="M310.4,165.6 L309.9,166.4 L307.5,169.1 L304.2,163.1 L302.6,162.6 L300.4,159.0 L295.6,155.4 L288.2,151.8 L282.5,147.4 L272.6,142.8 L273.0,139.3 L273.0,137.6 L277.0,137.1 L278.7,133.4 L278.6,120.8 L279.3,113.6 L282.3,107.8 L287.2,101.4 L290.5,99.4 L292.9,103.3 L298.7,110.8 L298.3,116.5 L300.9,120.2 L301.7,130.5 L298.6,134.4 L298.6,141.0 L296.0,145.3 L296.7,147.8 L307.4,154.4 L310.0,159.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.GB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550766</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK32</fips>
+    <postal-code>GB</postal-code>
+    <name>Gazi Baba</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.5136</longitude>
+    <woe-name>Gazi Baba Municipality</woe-name>
+    <latitude>42.0259</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>mk-gb</hc-key>
+    <hc-a2>GB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.GR" d="M414.3,257.7 L422.7,258.1 L427.9,261.4 L428.1,263.6 L424.4,271.4 L420.8,274.4 L419.3,281.2 L422.0,283.8 L431.9,280.7 L434.0,285.6 L429.7,294.3 L432.3,300.3 L429.6,307.0 L426.1,307.2 L424.6,299.0 L420.8,298.2 L420.8,298.3 L420.6,298.1 L418.7,297.0 L417.6,297.3 L414.0,298.5 L413.4,303.8 L409.5,303.8 L404.6,301.6 L398.7,309.7 L394.5,309.7 L386.8,305.7 L384.0,306.7 L385.1,316.2 L383.0,318.6 L378.5,319.0 L375.3,322.2 L367.8,317.8 L366.9,314.6 L367.5,307.4 L372.3,300.5 L371.2,294.8 L364.6,290.3 L362.9,287.9 L363.2,280.8 L364.9,273.9 L372.1,273.2 L374.7,269.0 L379.1,258.3 L385.9,250.6 L386.9,240.5 L388.0,237.5 L392.7,237.9 L395.2,246.5 L395.4,253.5 L397.6,262.2 L402.8,264.1 L407.7,264.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.GR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550768</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK35</fips>
+    <postal-code>GR</postal-code>
+    <name>Gradsko</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Vardar</region>
+    <longitude>21.9019</longitude>
+    <woe-name>Gradsko</woe-name>
+    <latitude>41.5864</latitude>
+    <woe-label>Gradsko Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>mk-gr</hc-key>
+    <hc-a2>GR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.LO" d="M383.1,195.8 L383.1,195.9 L389.7,197.0 L395.9,205.0 L402.9,207.2 L405.3,209.1 L414.2,220.3 L419.6,225.8 L428.4,232.5 L426.6,233.0 L427.2,237.6 L423.3,238.1 L421.3,241.6 L415.4,236.1 L412.2,237.1 L408.5,242.8 L407.5,247.4 L413.9,253.5 L414.3,257.7 L407.7,264.3 L402.8,264.1 L397.6,262.2 L395.4,253.5 L395.2,246.5 L392.7,237.9 L388.0,237.5 L386.9,240.5 L382.3,232.4 L377.0,231.7 L376.9,227.4 L379.7,221.3 L380.2,216.9 L374.7,209.7 L375.0,206.9 L382.2,199.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.LO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550785</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK35</fips>
+    <postal-code>LO</postal-code>
+    <name>Lozovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Vardar</region>
+    <longitude>21.915</longitude>
+    <woe-name>Lozovo Municipality</woe-name>
+    <latitude>41.7258</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>mk-lo</hc-key>
+    <hc-a2>LO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.DK" d="M507.7,320.1 L516.5,325.1 L517.4,330.4 L514.6,335.0 L516.3,343.5 L514.9,351.7 L518.4,360.4 L518.3,365.2 L521.7,371.7 L521.6,379.1 L508.8,379.7 L503.8,386.9 L487.6,397.1 L478.1,397.2 L469.6,391.8 L466.9,385.8 L463.6,384.8 L449.5,371.8 L459.0,372.0 L463.0,371.0 L465.2,361.8 L460.1,353.6 L461.4,351.1 L465.7,348.5 L471.3,332.2 L478.8,325.1 L482.9,325.6 L485.8,328.3 L492.9,332.0 L496.8,332.8 L500.2,326.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.DK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550760</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK25</fips>
+    <postal-code>DK</postal-code>
+    <name>Demir Kapija</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southeastern</region>
+    <longitude>22.2161</longitude>
+    <woe-name>Demir Kapija</woe-name>
+    <latitude>41.3739</latitude>
+    <woe-label>Demir Kapija Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mk-dk</hc-key>
+    <hc-a2>DK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.KN" d="M516.3,343.5 L514.6,335.0 L517.4,330.4 L516.5,325.1 L507.7,320.1 L507.1,315.5 L501.4,305.9 L496.6,300.5 L496.5,298.4 L502.9,292.7 L513.5,280.1 L520.6,281.9 L525.2,285.8 L539.8,286.8 L546.0,292.7 L552.3,301.3 L551.7,305.1 L548.9,308.8 L563.4,312.6 L563.2,320.8 L565.1,327.4 L563.5,331.0 L556.8,329.6 L549.7,332.7 L547.9,335.2 L537.9,334.6 L525.9,337.7 L519.2,340.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.KN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550778</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK35</fips>
+    <postal-code>KN</postal-code>
+    <name>Konce</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southeastern</region>
+    <longitude>22.384</longitude>
+    <woe-name>Konce Municipality</woe-name>
+    <latitude>41.5123</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>mk-kn</hc-key>
+    <hc-a2>KN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.KX" d="M268.2,135.5 L268.1,138.4 L268.0,141.4 L264.0,144.0 L263.3,148.1 L268.2,152.9 L268.1,154.2 L268.4,156.5 L250.3,156.5 L249.8,155.4 L249.2,154.3 L249.4,142.2 L249.5,136.7 L249.5,126.1 L252.6,126.5 L255.6,128.7 L260.4,135.6 L266.8,136.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.KX</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550773</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK41</fips>
+    <postal-code>KX</postal-code>
+    <name>Karpo?</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.3888</longitude>
+    <woe-name>Karpo?</woe-name>
+    <latitude>41.9774</latitude>
+    <woe-label>Skopje, Karpos Municipality, Macedonia</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>mk-kx</hc-key>
+    <hc-a2>KX</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.CA" d="M373.7,333.6 L368.9,331.3 L363.4,339.3 L359.6,333.3 L347.8,327.5 L344.4,329.7 L337.2,330.3 L335.6,332.3 L335.3,339.4 L333.3,343.7 L326.7,345.0 L322.6,339.3 L317.0,338.8 L312.3,332.6 L302.5,330.2 L299.8,327.9 L297.7,320.9 L285.5,322.0 L282.7,320.6 L279.0,315.3 L278.6,306.7 L276.5,299.0 L273.5,298.0 L267.6,288.7 L256.6,284.8 L254.2,284.8 L254.6,275.8 L253.7,270.5 L258.5,264.9 L259.9,259.1 L262.0,249.6 L268.3,244.3 L273.1,234.3 L276.0,231.9 L283.6,229.5 L285.2,231.0 L305.5,230.3 L307.6,230.9 L313.4,243.0 L316.4,244.1 L318.5,242.3 L335.1,246.8 L337.8,256.8 L340.1,260.3 L341.2,267.5 L345.5,269.2 L348.8,266.0 L351.1,267.1 L351.9,276.3 L354.3,279.0 L363.2,280.8 L362.9,287.9 L364.6,290.3 L371.2,294.8 L372.3,300.5 L367.5,307.4 L366.9,314.6 L367.8,317.8 L375.3,322.2 L374.1,327.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.CA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550754</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK15</fips>
+    <postal-code>CA</postal-code>
+    <name>Ca?ka</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Vardar</region>
+    <longitude>21.5939</longitude>
+    <woe-name>Ca?ka</woe-name>
+    <latitude>41.5807</latitude>
+    <woe-label>Caska Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>mk-ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.AV" d="M363.4,339.3 L368.9,331.3 L373.7,333.6 L380.6,342.5 L385.5,343.1 L397.8,342.2 L399.8,340.7 L400.3,336.0 L403.9,334.6 L411.8,338.9 L414.4,334.0 L419.2,330.9 L420.2,318.5 L420.3,317.1 L421.1,316.2 L421.1,316.2 L423.1,317.8 L428.4,317.6 L433.4,315.5 L437.7,318.6 L437.6,326.1 L440.6,339.8 L440.8,352.7 L442.1,358.3 L444.5,362.4 L445.2,369.3 L449.5,371.8 L463.6,384.8 L466.9,385.8 L469.6,391.8 L478.1,397.2 L487.6,397.1 L503.8,386.9 L505.3,390.3 L506.1,401.2 L509.0,401.9 L509.6,405.0 L502.0,410.4 L495.4,412.4 L498.8,427.7 L485.9,429.9 L484.2,435.9 L485.8,440.0 L477.4,440.4 L471.2,443.4 L461.4,452.5 L455.6,454.7 L444.4,449.1 L442.3,444.5 L440.3,443.8 L435.1,448.7 L417.6,454.1 L406.7,460.6 L405.3,451.2 L399.9,451.1 L396.2,449.5 L395.2,441.5 L395.4,429.8 L390.1,422.4 L390.6,414.7 L393.7,408.9 L394.6,403.3 L382.9,403.4 L380.5,402.7 L377.0,392.1 L377.7,378.1 L379.3,375.1 L378.8,366.7 L375.7,362.2 L375.6,343.5 L372.2,348.8 L369.5,348.8 L363.4,342.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.AV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550774</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK42</fips>
+    <postal-code>AV</postal-code>
+    <name>Kavadartsi</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Vardar</region>
+    <longitude>22.0373</longitude>
+    <woe-name>Kavadartsi</woe-name>
+    <latitude>41.3234</latitude>
+    <woe-label>Kavadarci Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>mk-av</hc-key>
+    <hc-a2>AV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.AD" d="M270.0,146.8 L269.4,146.1 L271.0,142.8 L272.0,142.5 L272.6,142.8 L282.5,147.4 L288.2,151.8 L295.6,155.4 L300.4,159.0 L302.6,162.6 L298.9,165.4 L297.7,166.0 L291.3,159.5 L281.9,156.4 L275.8,150.1 L272.4,149.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.AD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>55848400</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK44</fips>
+    <postal-code>AD</postal-code>
+    <name>Aerodrom</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.4932</longitude>
+    <woe-name>Aerodrom Municipality</woe-name>
+    <latitude>41.9517</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>mk-ad</hc-key>
+    <hc-a2>AD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.SS" d="M268.4,156.5 L272.5,157.3 L273.6,163.7 L271.6,177.2 L260.4,178.0 L256.2,175.9 L249.6,175.2 L243.5,178.5 L244.8,186.5 L253.9,187.9 L255.0,191.2 L249.7,193.3 L246.6,207.4 L242.7,209.3 L242.4,212.1 L246.1,214.5 L247.3,218.0 L245.3,221.7 L244.3,231.3 L246.4,235.7 L240.3,236.5 L235.0,231.8 L230.8,223.6 L221.7,210.1 L215.6,203.3 L216.9,198.3 L217.5,189.2 L212.9,186.0 L211.0,181.3 L212.4,177.8 L223.0,173.6 L232.8,164.2 L242.7,157.4 L248.8,157.1 L249.8,155.4 L250.3,156.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.SS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550804</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK92</fips>
+    <postal-code>SS</postal-code>
+    <name>Sopiste</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Skopje</region>
+    <longitude>21.332</longitude>
+    <woe-name>Sopiste</woe-name>
+    <latitude>41.8337</latitude>
+    <woe-label>Sopiste Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>mk-ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.VD" d="M273.6,163.7 L272.5,157.3 L268.4,156.5 L268.1,154.2 L268.2,152.9 L268.7,148.4 L270.0,146.8 L272.4,149.7 L275.8,150.1 L281.9,156.4 L291.3,159.5 L297.7,166.0 L292.8,169.3 L290.5,175.4 L288.4,176.4 L284.5,173.4 L284.4,165.5 L281.9,162.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.VD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550756</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK44</fips>
+    <postal-code>VD</postal-code>
+    <name>Kisela Voda</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.4817</longitude>
+    <woe-name>Skopje</woe-name>
+    <latitude>41.9346</latitude>
+    <woe-label>Skopje, Centar Municipality, Macedonia</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>mk-vd</hc-key>
+    <hc-a2>VD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.KY" d="M430.2,135.1 L424.7,135.4 L419.6,135.5 L418.8,132.7 L412.4,127.2 L410.3,118.6 L403.4,118.2 L402.0,114.1 L406.7,106.6 L408.4,100.0 L415.3,98.3 L420.5,88.9 L420.3,76.4 L421.7,75.4 L429.2,75.7 L433.5,80.0 L436.9,80.8 L438.4,88.2 L444.5,88.5 L449.0,90.7 L452.1,94.7 L461.5,102.3 L466.1,102.1 L474.6,98.6 L475.3,91.9 L478.1,90.8 L479.3,93.8 L490.4,93.6 L497.9,91.7 L499.5,90.0 L504.3,93.4 L509.1,94.6 L517.0,99.6 L519.2,108.4 L514.8,124.5 L512.5,121.0 L505.1,115.7 L490.8,115.7 L489.8,116.6 L489.9,127.5 L488.1,130.2 L484.7,129.4 L481.7,125.3 L472.9,127.7 L467.5,122.2 L452.0,128.2 L446.3,128.1 L443.0,131.4 L440.8,138.5 L438.3,138.3 L432.1,134.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.KY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550780</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK51</fips>
+    <postal-code>KY</postal-code>
+    <name>Kratovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Northeastern</region>
+    <longitude>22.138</longitude>
+    <woe-name>Kratovo</woe-name>
+    <latitude>42.0592</latitude>
+    <woe-label>Kratovo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.29</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>mk-ky</hc-key>
+    <hc-a2>KY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.TL" d="M231.6,421.1 L233.0,420.7 L238.3,424.1 L240.7,427.6 L238.3,435.3 L238.3,438.9 L240.8,445.3 L243.2,448.2 L251.2,452.8 L251.9,457.6 L251.5,467.3 L255.8,471.9 L259.4,472.4 L264.3,469.2 L270.4,470.0 L268.2,479.0 L268.6,485.4 L272.7,490.4 L273.6,501.6 L279.6,503.1 L280.8,505.7 L291.0,518.1 L293.1,528.9 L291.6,536.5 L270.5,533.7 L263.8,533.8 L257.2,536.8 L247.2,546.8 L242.9,549.3 L233.6,551.3 L224.1,551.4 L219.9,550.5 L224.0,534.6 L220.5,531.1 L220.9,526.4 L218.2,520.7 L208.6,519.6 L208.6,516.7 L204.4,510.1 L200.7,508.1 L189.1,508.4 L187.1,506.6 L186.4,501.5 L180.9,494.2 L180.2,487.8 L174.2,486.0 L172.3,483.8 L173.3,476.1 L178.4,471.9 L181.1,467.2 L181.1,459.8 L178.7,455.0 L187.9,450.6 L194.4,449.8 L200.9,446.7 L204.0,442.6 L208.2,440.1 L211.7,439.8 L215.3,433.7 L220.9,431.8 L225.9,427.9 L228.6,423.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.TL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550747</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK06</fips>
+    <postal-code>TL</postal-code>
+    <name>Bitola</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Pelagonia</region>
+    <longitude>21.2925</longitude>
+    <woe-name>Bitola</woe-name>
+    <latitude>41.0402</latitude>
+    <woe-label>Bitola Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>mk-tl</hc-key>
+    <hc-a2>TL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.KS" d="M238.3,424.1 L233.0,420.7 L231.6,421.1 L232.5,407.3 L227.8,401.8 L225.7,392.8 L219.7,387.6 L212.2,389.4 L211.6,388.0 L211.9,373.5 L210.0,370.7 L202.7,370.1 L198.6,370.8 L198.5,365.6 L190.1,360.7 L187.9,354.9 L188.6,353.4 L193.6,349.8 L205.4,344.6 L217.9,339.6 L219.5,328.9 L223.1,328.9 L227.6,335.7 L234.5,343.9 L234.3,347.9 L225.1,347.7 L223.9,351.6 L227.0,353.2 L237.1,364.1 L236.6,377.5 L243.1,387.0 L243.1,394.5 L240.3,402.2 L243.9,404.9 L240.5,405.8 L235.3,420.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.KS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550782</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK54</fips>
+    <postal-code>KS</postal-code>
+    <name>Kru?evo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Pelagonia</region>
+    <longitude>21.2328</longitude>
+    <woe-name>Kru?evo</woe-name>
+    <latitude>41.3734</latitude>
+    <woe-label>Krusevo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>mk-ks</hc-key>
+    <hc-a2>KS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.UM" d="M323.9,121.7 L323.5,117.5 L315.7,114.7 L315.0,108.9 L322.9,102.9 L324.1,99.2 L324.2,89.4 L326.5,86.9 L332.0,88.3 L331.9,79.0 L337.3,76.7 L337.7,72.2 L335.9,64.9 L335.1,50.6 L339.1,48.0 L343.0,43.2 L346.5,41.1 L355.2,47.0 L361.7,49.3 L363.5,51.4 L363.1,56.2 L357.5,58.3 L356.9,63.1 L358.5,65.7 L358.7,72.9 L356.9,76.2 L356.8,86.0 L357.8,88.9 L364.8,97.9 L369.1,98.7 L370.4,96.7 L377.5,93.2 L384.6,91.9 L387.1,94.4 L394.5,96.7 L397.6,96.5 L399.5,91.4 L405.2,90.9 L408.4,100.0 L406.7,106.6 L402.0,114.1 L403.4,118.2 L410.3,118.6 L412.4,127.2 L418.8,132.7 L419.6,135.5 L416.6,140.7 L407.8,144.7 L404.8,144.9 L398.5,136.7 L394.9,135.8 L387.5,136.7 L380.3,143.9 L379.7,149.0 L372.9,157.0 L364.4,149.7 L357.4,149.9 L353.8,152.1 L350.4,151.3 L346.6,146.4 L339.9,143.8 L338.4,142.0 L338.1,131.2 L334.4,131.2 L324.7,123.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.UM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550832</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK57</fips>
+    <postal-code>UM</postal-code>
+    <name>Kumanovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Northeastern</region>
+    <longitude>21.7923</longitude>
+    <woe-name>Kumanovo</woe-name>
+    <latitude>42.0293</latitude>
+    <woe-label>Kumanovo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>mk-um</hc-key>
+    <hc-a2>UM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.ZE" d="M215.6,203.3 L210.9,201.2 L204.5,196.1 L202.0,195.4 L200.5,189.7 L196.5,190.5 L195.4,194.1 L186.7,194.4 L181.4,189.8 L171.2,189.1 L172.0,179.6 L174.3,179.1 L173.7,173.0 L167.6,171.5 L167.0,163.0 L163.2,162.1 L157.4,154.1 L159.4,151.4 L164.9,149.6 L165.0,147.0 L161.2,145.3 L156.0,138.7 L160.5,134.2 L166.2,136.6 L172.7,136.6 L171.7,142.0 L182.4,143.6 L185.2,140.7 L189.5,140.5 L195.7,143.0 L202.9,147.7 L203.6,153.8 L201.7,163.5 L201.0,173.1 L211.0,181.3 L212.9,186.0 L217.5,189.2 L216.9,198.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.ZE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550821</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKC3</fips>
+    <postal-code>ZE</postal-code>
+    <name>?elino</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Polog</region>
+    <longitude>21.1277</longitude>
+    <woe-name>?elino</woe-name>
+    <latitude>41.9157</latitude>
+    <woe-label>Zelino Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>mk-ze</hc-key>
+    <hc-a2>ZE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.MD" d="M202.0,195.4 L204.5,196.1 L210.9,201.2 L215.6,203.3 L221.7,210.1 L230.8,223.6 L235.0,231.8 L240.3,236.5 L246.4,235.7 L251.5,236.3 L254.0,239.1 L254.0,251.5 L257.1,257.9 L259.9,259.1 L258.5,264.9 L253.7,270.5 L254.6,275.8 L254.2,284.8 L252.1,284.8 L251.5,295.9 L249.8,300.2 L243.7,307.6 L241.5,312.8 L241.8,322.2 L234.0,318.7 L230.8,319.2 L228.6,323.2 L223.2,325.4 L223.1,328.9 L219.5,328.9 L217.9,339.6 L205.4,344.6 L204.6,340.7 L195.9,337.4 L193.0,332.5 L192.8,326.9 L188.1,325.9 L179.6,330.0 L172.8,330.9 L173.4,325.1 L177.9,323.1 L183.6,317.5 L192.4,306.3 L186.3,302.9 L181.5,297.6 L179.7,289.8 L180.1,274.7 L178.6,271.8 L174.8,270.1 L168.9,269.9 L166.4,265.1 L167.8,259.9 L167.3,253.5 L164.3,247.5 L164.0,241.4 L160.1,235.8 L164.9,231.2 L164.9,222.2 L166.3,218.8 L173.5,217.9 L177.3,217.0 L181.1,213.4 L185.6,206.1 L192.0,199.0 L197.3,195.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.MD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550786</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK63</fips>
+    <postal-code>MD</postal-code>
+    <name>Brod</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Polog</region>
+    <longitude>21.2133</longitude>
+    <woe-name>Brod</woe-name>
+    <latitude>41.6303</latitude>
+    <woe-label>Makedonski Brod Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>mk-md</hc-key>
+    <hc-a2>MD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.GP" d="M249.5,126.1 L249.5,136.7 L249.4,142.2 L242.5,141.6 L238.3,136.3 L232.2,123.8 L231.4,119.0 L229.1,116.5 L222.4,119.3 L219.9,117.9 L218.0,113.2 L217.4,106.4 L218.6,101.8 L230.3,104.1 L233.5,100.9 L236.4,102.6 L244.7,110.6 L249.4,121.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.GP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550839</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK00</fips>
+    <postal-code>GP</postal-code>
+    <name>Gjorce Petrov</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.3002</longitude>
+    <woe-name>Gjorce Petrov Municipality</woe-name>
+    <latitude>42.064</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.26</hc-middle-y>
+    <hc-key>mk-gp</hc-key>
+    <hc-a2>GP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.KH" d="M153.4,317.3 L150.5,319.3 L145.3,330.0 L140.1,325.1 L132.2,322.2 L128.0,319.5 L124.5,315.3 L123.8,311.1 L125.1,306.3 L129.6,305.4 L137.3,301.0 L143.0,300.7 L145.0,308.3 L149.8,306.6 L153.4,311.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.KH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550775</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK43</fips>
+    <postal-code>KH</postal-code>
+    <name>Kicevo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>20.9511</longitude>
+    <woe-name>Kicevo</woe-name>
+    <latitude>41.517</latitude>
+    <woe-label>Kicevo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>mk-kh</hc-key>
+    <hc-a2>KH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.OS" d="M162.4,266.9 L166.4,265.1 L168.9,269.9 L174.8,270.1 L178.6,271.8 L180.1,274.7 L179.7,289.8 L175.7,296.1 L166.6,302.5 L164.0,311.0 L158.2,316.8 L153.4,317.3 L153.4,311.0 L149.8,306.6 L145.0,308.3 L143.0,300.7 L148.1,290.3 L147.9,273.5 L152.1,269.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.OS</hasc>
+    <alt-name>Oslomej</alt-name>
+    <woe-id>24550795</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK77</fips>
+    <postal-code>OS</postal-code>
+    <name>Oslomej</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>21.0347</longitude>
+    <woe-name>Oslomej Municipality</woe-name>
+    <latitude>41.5771</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>mk-os</hc-key>
+    <hc-a2>OS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.VH" d="M74.3,188.0 L81.2,177.5 L84.3,169.4 L90.8,166.4 L107.7,169.3 L116.6,172.3 L131.3,180.5 L137.9,183.0 L138.4,191.0 L140.0,191.6 L135.7,195.6 L136.9,201.5 L134.2,204.6 L129.1,206.3 L120.4,204.1 L113.4,205.1 L110.2,208.0 L105.2,207.3 L100.5,204.6 L95.5,195.3 L84.5,194.6 L77.7,191.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.VH</hasc>
+    <alt-name>Vrapci?te</alt-name>
+    <woe-id>24550819</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKB7</fips>
+    <postal-code>VH</postal-code>
+    <name>Polog</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>20.8349</longitude>
+    <woe-name>Polog</woe-name>
+    <latitude>41.8584</latitude>
+    <woe-label>Vrapciste Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>mk-vh</hc-key>
+    <hc-a2>VH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.VJ" d="M84.3,169.4 L85.2,161.9 L84.4,158.5 L92.6,152.2 L101.5,148.4 L110.5,141.3 L114.7,141.1 L130.3,144.8 L132.9,146.2 L139.4,154.0 L140.5,154.2 L141.9,162.8 L148.6,163.0 L146.4,171.1 L142.6,175.2 L138.4,177.6 L139.8,183.0 L137.9,183.0 L131.3,180.5 L116.6,172.3 L107.7,169.3 L90.8,166.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.VJ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550828</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK10</fips>
+    <postal-code>VJ</postal-code>
+    <name>Bogovinje</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Polog</region>
+    <longitude>20.869</longitude>
+    <woe-name>Bogovinje</woe-name>
+    <latitude>41.945</latitude>
+    <woe-label>Bogovinje Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>mk-vj</hc-key>
+    <hc-a2>VJ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.ET" d="M157.4,154.1 L152.5,153.3 L146.9,149.2 L143.6,149.9 L140.5,154.2 L139.4,154.0 L132.9,146.2 L130.3,144.8 L114.7,141.1 L110.5,141.3 L101.5,148.4 L92.6,152.2 L84.4,158.5 L81.8,147.4 L82.2,139.1 L85.6,121.2 L88.3,113.4 L93.6,106.9 L100.6,103.0 L126.0,94.4 L132.6,96.8 L138.5,100.5 L140.9,103.2 L145.4,114.1 L151.8,115.8 L154.9,120.7 L154.1,128.2 L160.0,131.8 L160.5,134.2 L156.0,138.7 L161.2,145.3 L165.0,147.0 L164.9,149.6 L159.4,151.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.ET</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550862</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKA6</fips>
+    <postal-code>ET</postal-code>
+    <name>Tetovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>20.8947</longitude>
+    <woe-name>Tetovo</woe-name>
+    <latitude>42.0484</latitude>
+    <woe-label>Tetovo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>mk-et</hc-key>
+    <hc-a2>ET</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.BN" d="M140.5,154.2 L143.6,149.9 L146.9,149.2 L152.5,153.3 L157.4,154.1 L163.2,162.1 L167.0,163.0 L167.6,171.5 L173.7,173.0 L174.3,179.1 L172.0,179.6 L171.2,189.1 L181.4,189.8 L186.7,194.4 L195.4,194.1 L196.5,190.5 L200.5,189.7 L202.0,195.4 L197.3,195.1 L192.0,199.0 L185.6,206.1 L181.1,213.4 L177.3,217.0 L173.5,217.9 L167.0,208.5 L159.9,202.0 L159.5,196.4 L147.9,195.9 L140.0,191.6 L138.4,191.0 L137.9,183.0 L139.8,183.0 L138.4,177.6 L142.6,175.2 L146.4,171.1 L148.6,163.0 L141.9,162.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.BN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550751</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK12</fips>
+    <postal-code>BN</postal-code>
+    <name>Brvenica</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Polog</region>
+    <longitude>21.066</longitude>
+    <woe-name>Brvenica</woe-name>
+    <latitude>41.8465</latitude>
+    <woe-label>Brvenica Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
+    <hc-key>mk-bn</hc-key>
+    <hc-a2>BN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.GT" d="M166.4,265.1 L166.4,265.0 L162.4,266.9 L152.1,269.1 L147.9,273.5 L140.8,265.5 L132.6,260.4 L124.0,259.0 L123.4,255.7 L119.4,251.1 L113.9,241.6 L117.8,235.8 L107.4,235.5 L104.1,237.4 L101.6,234.5 L101.0,227.5 L95.9,219.4 L81.4,217.4 L75.7,217.4 L70.6,224.0 L67.5,226.4 L56.2,224.9 L52.0,221.2 L45.8,218.3 L43.1,215.1 L29.5,209.3 L26.9,195.0 L27.3,186.9 L34.2,182.7 L40.5,189.5 L43.8,191.3 L48.2,191.0 L53.2,183.8 L57.5,184.3 L62.7,191.5 L65.3,193.5 L71.1,191.5 L74.3,188.0 L77.7,191.5 L84.5,194.6 L95.5,195.3 L100.5,204.6 L105.2,207.3 L110.2,208.0 L113.4,205.1 L120.4,204.1 L129.1,206.3 L134.2,204.6 L136.9,201.5 L135.7,195.6 L140.0,191.6 L147.9,195.9 L159.5,196.4 L159.9,202.0 L167.0,208.5 L173.5,217.9 L166.3,218.8 L164.9,222.2 L164.9,231.2 L160.1,235.8 L164.0,241.4 L164.3,247.5 L167.3,253.5 L167.8,259.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.GT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550767</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK34</fips>
+    <postal-code>GT</postal-code>
+    <name>Gostivar</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Polog</region>
+    <longitude>20.8095</longitude>
+    <woe-name>Gostivar</woe-name>
+    <latitude>41.7855</latitude>
+    <woe-label>Gostivar Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.77</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mk-gt</hc-key>
+    <hc-a2>GT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.JG" d="M160.5,134.2 L160.0,131.8 L160.8,129.9 L172.9,127.4 L177.1,125.3 L181.9,115.5 L187.2,110.1 L186.5,102.8 L179.7,99.5 L177.3,94.7 L169.6,84.7 L163.1,78.6 L172.1,69.7 L178.6,65.5 L186.2,68.1 L196.5,76.0 L206.1,85.4 L214.1,99.0 L210.5,104.0 L196.7,105.5 L192.5,108.5 L196.9,113.1 L202.2,111.7 L203.3,118.1 L197.8,122.8 L198.3,127.7 L200.6,134.8 L191.8,137.6 L189.5,140.5 L185.2,140.7 L182.4,143.6 L171.7,142.0 L172.7,136.6 L166.2,136.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.JG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550771</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK38</fips>
+    <postal-code>JG</postal-code>
+    <name>Jegunovce</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>21.129</longitude>
+    <woe-name>Jegunovce Municipality</woe-name>
+    <latitude>42.0311</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
+    <hc-key>mk-jg</hc-key>
+    <hc-a2>JG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.RU" d="M644.8,373.1 L640.5,373.9 L635.5,378.5 L620.2,370.3 L617.0,369.5 L613.2,371.3 L610.4,378.5 L607.8,381.5 L603.6,380.0 L599.4,383.3 L591.7,382.8 L591.6,380.4 L586.6,375.8 L581.6,376.9 L573.4,377.1 L572.9,371.7 L567.8,362.8 L571.8,351.7 L569.0,348.4 L561.1,348.4 L557.6,346.9 L552.1,341.5 L547.9,335.2 L549.7,332.7 L556.8,329.6 L563.5,331.0 L565.1,327.4 L569.8,322.3 L571.4,318.8 L579.1,320.0 L584.6,323.2 L590.4,330.4 L598.3,330.4 L605.3,328.0 L610.3,324.3 L613.7,327.7 L615.9,334.7 L613.9,343.3 L619.1,345.2 L624.8,343.2 L626.9,349.2 L629.4,352.0 L634.0,353.4 L641.5,351.2 L643.4,353.6 L644.0,371.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.RU</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550808</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKA1</fips>
+    <postal-code>RU</postal-code>
+    <name>Southeastern</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>22.6211</longitude>
+    <woe-name>Southeastern</woe-name>
+    <latitude>41.3841</latitude>
+    <woe-label>Strumica Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>mk-ru</hc-key>
+    <hc-a2>RU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.VA" d="M635.5,378.5 L632.5,381.3 L630.2,391.6 L622.2,389.8 L614.3,390.5 L608.2,389.4 L604.9,393.1 L602.7,398.1 L592.7,398.2 L587.3,406.6 L582.3,409.1 L577.1,405.0 L572.3,405.2 L571.1,407.3 L570.5,416.1 L565.5,419.7 L558.9,411.4 L558.8,404.7 L555.6,396.3 L554.9,383.3 L548.9,381.7 L535.9,366.2 L529.5,364.2 L526.7,361.3 L518.4,360.4 L514.9,351.7 L516.3,343.5 L519.2,340.4 L525.9,337.7 L537.9,334.6 L547.9,335.2 L552.1,341.5 L557.6,346.9 L561.1,348.4 L569.0,348.4 L571.8,351.7 L567.8,362.8 L572.9,371.7 L573.4,377.1 L581.6,376.9 L586.6,375.8 L591.6,380.4 L591.7,382.8 L599.4,383.3 L603.6,380.0 L607.8,381.5 L610.4,378.5 L613.2,371.3 L617.0,369.5 L620.2,370.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.VA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550813</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKA8</fips>
+    <postal-code>VA</postal-code>
+    <name>Valandovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southeastern</region>
+    <longitude>22.5432</longitude>
+    <woe-name>Valandovo</woe-name>
+    <latitude>41.2911</latitude>
+    <woe-label>Valandovo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>mk-va</hc-key>
+    <hc-a2>VA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.BG" d="M607.7,432.1 L604.2,431.0 L600.0,432.2 L598.8,441.1 L594.2,447.2 L588.6,451.7 L587.7,449.7 L576.3,443.4 L570.1,443.1 L569.6,438.9 L571.4,431.2 L571.1,427.5 L565.5,419.7 L570.5,416.1 L571.1,407.3 L572.3,405.2 L577.1,405.0 L582.3,409.1 L589.1,417.3 L596.4,416.6 L602.2,417.3 L608.9,421.4 L609.0,429.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.BG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550827</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK08</fips>
+    <postal-code>BG</postal-code>
+    <name>Bogdanci</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southeastern</region>
+    <longitude>22.5841</longitude>
+    <woe-name>Bogdanci</woe-name>
+    <latitude>41.1772</latitude>
+    <woe-label>Bogdanci Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mk-bg</hc-key>
+    <hc-a2>BG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.NS" d="M644.8,373.1 L644.0,371.7 L643.4,353.6 L641.5,351.2 L645.1,347.3 L645.6,343.0 L645.3,332.4 L653.2,325.2 L660.7,313.2 L660.2,307.2 L678.7,306.1 L683.6,304.4 L684.9,329.9 L687.0,335.3 L686.7,339.1 L682.8,345.4 L685.1,360.8 L684.3,367.5 L677.8,372.8 L652.8,371.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.NS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550853</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK72</fips>
+    <postal-code>NS</postal-code>
+    <name>Novo Selo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southeastern</region>
+    <longitude>22.8701</longitude>
+    <woe-name>Novo Selo</woe-name>
+    <latitude>41.4278</latitude>
+    <woe-label>Novo Selo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>mk-ns</hc-key>
+    <hc-a2>NS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.BR" d="M683.6,304.4 L678.7,306.1 L660.2,307.2 L653.9,302.1 L644.6,301.8 L636.5,300.6 L630.0,295.2 L627.2,289.2 L624.3,288.9 L616.1,287.1 L610.1,287.4 L609.9,284.3 L613.3,282.9 L613.9,275.6 L611.6,272.2 L608.4,271.4 L604.4,267.3 L601.2,268.0 L597.7,272.1 L596.8,265.8 L595.3,257.9 L600.5,249.4 L600.7,247.4 L595.2,243.2 L593.9,232.0 L593.9,231.9 L596.1,230.0 L602.8,229.4 L605.4,226.2 L608.0,217.5 L608.3,211.4 L606.9,205.7 L607.9,202.6 L608.7,204.5 L621.7,205.3 L630.7,209.0 L635.2,221.8 L637.2,222.8 L639.0,230.7 L641.2,231.2 L643.8,227.5 L647.5,227.2 L659.5,229.2 L662.6,230.5 L664.1,235.7 L672.2,235.7 L681.7,242.4 L689.1,244.7 L693.7,248.1 L689.0,259.2 L681.9,262.8 L680.0,272.0 L680.4,282.1 L684.7,290.6 L683.3,298.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.BR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550826</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK04</fips>
+    <postal-code>BR</postal-code>
+    <name>Berovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southeastern</region>
+    <longitude>22.8027</longitude>
+    <woe-name>Berovo</woe-name>
+    <latitude>41.6344</latitude>
+    <woe-label>Berovo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>mk-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.NI" d="M596.1,230.0 L593.9,232.0 L593.8,232.0 L586.0,230.4 L579.3,224.5 L573.1,221.5 L571.5,217.9 L568.6,217.3 L565.9,222.3 L556.1,223.5 L548.7,217.8 L546.0,217.2 L546.1,214.5 L546.0,210.2 L546.5,201.9 L546.1,191.5 L544.8,184.8 L542.5,181.1 L544.5,178.0 L544.0,166.1 L545.2,162.5 L546.3,152.6 L551.5,150.9 L557.1,155.9 L560.4,156.0 L564.4,153.2 L570.2,154.9 L573.2,152.8 L576.7,145.1 L577.8,139.6 L579.4,138.0 L588.1,139.2 L589.2,159.2 L598.8,162.4 L609.4,167.8 L617.8,169.2 L613.5,178.8 L611.8,189.9 L608.3,195.8 L607.9,202.6 L606.9,205.7 L608.3,211.4 L608.0,217.5 L605.4,226.2 L602.8,229.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.NI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550817</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKB4</fips>
+    <postal-code>NI</postal-code>
+    <name>Vinitsa</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.5742</longitude>
+    <woe-name>Vinica Municipality</woe-name>
+    <latitude>41.8652</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mk-ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.RV" d="M593.9,231.9 L593.9,232.0 L595.2,243.2 L600.7,247.4 L600.5,249.4 L595.3,257.9 L596.8,265.8 L588.0,267.8 L583.7,275.1 L583.1,279.6 L589.0,286.8 L591.2,296.3 L591.1,302.5 L588.4,306.5 L585.8,307.3 L577.6,299.5 L573.3,297.0 L570.6,297.7 L569.2,301.2 L563.1,303.7 L562.1,306.0 L564.2,309.9 L563.4,312.6 L548.9,308.8 L551.7,305.1 L552.3,301.3 L546.0,292.7 L539.8,286.8 L525.2,285.8 L520.6,281.9 L513.5,280.1 L508.9,275.7 L508.8,269.3 L504.4,257.8 L509.8,250.9 L520.6,254.9 L525.6,254.7 L529.6,245.8 L534.1,238.3 L538.1,230.9 L538.5,222.5 L546.0,217.2 L548.7,217.8 L556.1,223.5 L565.9,222.3 L568.6,217.3 L571.5,217.9 L573.1,221.5 L579.3,224.5 L586.0,230.4 L593.7,232.0 L593.8,232.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.RV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550865</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK84</fips>
+    <postal-code>RV</postal-code>
+    <name>Radovis</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.4679</longitude>
+    <woe-name>Radovis</woe-name>
+    <latitude>41.6365</latitude>
+    <woe-label>Radovis Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>mk-rv</hc-key>
+    <hc-a2>RV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.DR" d="M66.3,346.9 L65.6,346.0 L67.8,342.0 L71.1,328.1 L73.0,325.7 L77.8,326.5 L85.2,328.4 L91.7,324.3 L94.9,318.1 L98.3,316.2 L98.6,308.3 L102.1,304.5 L102.1,289.3 L99.9,277.1 L103.0,277.6 L108.1,290.5 L112.6,291.2 L116.5,300.2 L120.7,304.9 L123.8,311.1 L124.5,315.3 L128.0,319.5 L132.2,322.2 L140.1,325.1 L145.3,330.0 L142.6,331.4 L143.7,339.4 L150.8,344.3 L153.2,350.9 L163.7,351.1 L171.4,348.2 L171.5,344.8 L176.3,343.3 L179.2,348.9 L188.6,353.4 L187.9,354.9 L190.1,360.7 L184.8,362.2 L184.0,364.9 L175.4,371.8 L154.1,372.0 L147.6,374.9 L141.4,379.5 L139.8,382.8 L133.7,373.0 L128.6,371.3 L126.5,367.2 L126.2,358.4 L121.4,347.2 L111.0,347.0 L105.1,345.5 L96.7,344.7 L77.5,345.2 L68.7,344.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.DR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550764</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK30</fips>
+    <postal-code>DR</postal-code>
+    <name>Drugovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>20.9119</longitude>
+    <woe-name>Drugovo Municipality</woe-name>
+    <latitude>41.4293</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>mk-dr</hc-key>
+    <hc-a2>DR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.UG" d="M65.6,346.0 L66.3,346.9 L77.6,369.3 L78.7,378.3 L78.7,386.8 L85.8,397.8 L85.2,408.9 L83.2,415.5 L78.9,420.8 L78.5,428.6 L80.9,431.3 L80.1,439.7 L75.7,437.2 L61.0,435.3 L57.0,437.1 L55.7,440.5 L51.1,470.5 L43.3,470.2 L35.5,466.5 L33.6,461.6 L33.8,455.1 L32.4,446.9 L28.1,438.4 L18.0,424.0 L40.7,420.0 L47.7,416.9 L49.4,413.7 L48.2,411.1 L41.6,409.3 L33.3,408.3 L13.4,409.3 L10.1,395.1 L8.7,384.1 L9.8,376.2 L13.7,377.5 L17.7,375.1 L23.9,365.7 L25.9,359.6 L25.7,353.8 L29.6,353.3 L55.1,354.1 L59.0,351.9 L63.9,345.8 L64.7,344.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.UG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550846</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKE6</fips>
+    <postal-code>UG</postal-code>
+    <name>Struga</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>20.602</longitude>
+    <woe-name>Struga Municipality</woe-name>
+    <latitude>41.1813</latitude>
+    <woe-label>Struga Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>mk-ug</hc-key>
+    <hc-a2>UG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.DB" d="M65.6,346.0 L64.7,344.9 L63.9,345.8 L62.2,342.4 L57.9,341.6 L58.0,330.9 L56.0,324.5 L52.9,324.5 L50.0,321.8 L48.3,314.9 L45.2,310.4 L33.8,309.5 L30.6,314.9 L18.3,321.6 L10.1,330.0 L7.1,324.3 L2.0,320.7 L0.1,315.3 L1.0,305.5 L0.0,300.3 L13.4,297.5 L21.0,293.6 L24.8,286.7 L29.9,289.0 L35.3,295.1 L42.1,300.1 L54.4,302.0 L60.1,307.0 L66.9,316.2 L76.6,320.4 L77.8,326.5 L73.0,325.7 L71.1,328.1 L67.8,342.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.DB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550837</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK21</fips>
+    <postal-code>DB</postal-code>
+    <name>Debar</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>20.5863</longitude>
+    <woe-name>Debar</woe-name>
+    <latitude>41.541</latitude>
+    <woe-label>Debar Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
+    <hc-key>mk-db</hc-key>
+    <hc-a2>DB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.RE" d="M219.9,550.5 L209.7,548.4 L202.5,548.0 L184.6,553.5 L185.1,551.0 L180.4,533.5 L177.7,528.2 L173.8,512.3 L168.7,509.2 L168.1,505.9 L162.3,497.2 L160.4,499.8 L148.1,495.5 L142.3,495.0 L136.7,498.7 L128.6,507.4 L126.2,512.0 L126.5,517.3 L129.2,521.5 L135.7,522.2 L143.1,528.8 L146.1,529.7 L147.7,533.4 L143.7,539.9 L140.8,541.4 L135.4,534.6 L121.7,530.5 L106.9,528.5 L106.0,516.3 L108.4,507.3 L111.6,504.8 L118.6,504.2 L120.8,501.8 L121.3,494.5 L118.3,489.1 L118.1,483.8 L121.8,481.4 L122.3,469.9 L123.7,462.2 L125.7,456.4 L134.4,446.3 L151.1,436.6 L156.9,432.1 L162.8,423.7 L165.8,428.4 L171.0,428.6 L173.5,439.0 L175.0,449.4 L178.7,455.0 L181.1,459.8 L181.1,467.2 L178.4,471.9 L173.3,476.1 L172.3,483.8 L174.2,486.0 L180.2,487.8 L180.9,494.2 L186.4,501.5 L187.1,506.6 L189.1,508.4 L200.7,508.1 L204.4,510.1 L208.6,516.7 L208.6,519.6 L218.2,520.7 L220.9,526.4 L220.5,531.1 L224.0,534.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.RE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550855</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK86</fips>
+    <postal-code>RE</postal-code>
+    <name>Resen</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>21.0472</longitude>
+    <woe-name>Resen Municipality</woe-name>
+    <latitude>41.027</latitude>
+    <woe-label>Resen Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>mk-re</hc-key>
+    <hc-a2>RE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.KZ" d="M459.4,18.7 L485.0,7.5 L492.0,0.0 L495.7,1.3 L496.8,10.1 L505.2,17.9 L510.0,19.7 L515.3,19.9 L542.6,55.5 L553.0,63.0 L556.7,73.4 L560.2,79.1 L555.5,81.6 L543.5,89.8 L540.8,94.0 L536.1,97.4 L531.8,96.7 L517.7,97.5 L517.0,99.6 L509.1,94.6 L504.3,93.4 L499.5,90.0 L497.9,91.7 L490.4,93.6 L479.3,93.8 L478.1,90.8 L479.1,82.1 L478.1,75.9 L476.0,71.2 L473.3,50.1 L474.9,42.8 L474.3,37.5 L469.6,32.6 L463.9,31.0 L460.7,27.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.KZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550831</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK85</fips>
+    <postal-code>KZ</postal-code>
+    <name>Kriva Palanka</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Northeastern</region>
+    <longitude>22.2641</longitude>
+    <woe-name>Kriva Palanka</woe-name>
+    <latitude>42.2421</latitude>
+    <woe-label>Kriva Palanka Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>mk-kz</hc-key>
+    <hc-a2>KZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.KB" d="M534.1,238.3 L532.7,236.6 L511.7,240.2 L506.0,240.3 L502.8,236.2 L493.2,227.4 L487.8,226.6 L479.3,218.3 L475.3,215.9 L462.8,214.7 L458.6,205.8 L457.6,194.5 L459.8,189.7 L464.1,185.9 L469.6,184.0 L471.4,190.2 L474.3,191.3 L484.0,190.8 L485.2,189.4 L494.0,198.1 L501.2,203.2 L511.9,204.9 L518.2,204.5 L524.3,210.4 L530.0,210.8 L530.9,209.4 L539.2,210.2 L546.0,210.2 L546.1,214.5 L546.0,217.2 L538.5,222.5 L538.1,230.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.KB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550772</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK40</fips>
+    <postal-code>KB</postal-code>
+    <name>Karbinci</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.2847</longitude>
+    <woe-name>Karbinci Municipality</woe-name>
+    <latitude>41.7659</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mk-kb</hc-key>
+    <hc-a2>KB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.NA" d="M346.5,41.1 L372.8,24.7 L378.2,23.4 L390.9,23.0 L400.0,14.9 L406.3,14.2 L420.8,21.5 L429.6,24.6 L434.5,25.1 L436.3,42.2 L434.5,44.4 L429.2,45.2 L428.3,47.4 L430.9,53.6 L431.1,63.4 L434.5,68.8 L435.5,73.7 L434.3,75.4 L429.2,75.7 L421.7,75.4 L420.3,76.4 L420.5,88.9 L415.3,98.3 L408.4,100.0 L405.2,90.9 L399.5,91.4 L397.6,96.5 L394.5,96.7 L387.1,94.4 L384.6,91.9 L377.5,93.2 L370.4,96.7 L369.1,98.7 L364.8,97.9 L357.8,88.9 L356.8,86.0 L356.9,76.2 L358.7,72.9 L358.5,65.7 L356.9,63.1 L357.5,58.3 L363.1,56.2 L363.5,51.4 L361.7,49.3 L355.2,47.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.NA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550856</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK97</fips>
+    <postal-code>NA</postal-code>
+    <name>Northeastern</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>21.8853</longitude>
+    <woe-name>Northeastern</woe-name>
+    <latitude>42.2098</latitude>
+    <woe-label>Staro Nagoricane Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>mk-na</hc-key>
+    <hc-a2>NA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.NV" d="M398.9,476.0 L398.3,480.0 L394.6,485.6 L384.9,495.2 L381.2,502.1 L370.9,509.4 L368.2,512.9 L366.7,524.0 L363.3,527.6 L355.4,529.4 L341.1,526.3 L333.3,529.9 L332.2,536.0 L329.8,538.6 L324.2,538.6 L312.6,548.9 L304.9,547.5 L292.7,536.6 L291.6,536.5 L293.1,528.9 L291.0,518.1 L280.8,505.7 L279.6,503.1 L273.6,501.6 L272.7,490.4 L268.6,485.4 L268.2,479.0 L270.4,470.0 L273.5,464.9 L277.7,461.8 L280.6,461.8 L288.5,464.9 L300.9,466.5 L304.0,464.5 L315.6,449.5 L316.8,443.9 L321.2,441.6 L325.0,447.9 L333.0,452.3 L347.0,454.1 L356.1,458.5 L362.8,459.7 L368.1,465.1 L374.3,467.7 L380.6,467.4 L381.7,465.2 L389.8,472.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.NV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550791</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK71</fips>
+    <postal-code>NV</postal-code>
+    <name>Novatsi</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Pelagonia</region>
+    <longitude>21.6586</longitude>
+    <woe-name>Novatsi</woe-name>
+    <latitude>41.0253</latitude>
+    <woe-label>Novaci Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>mk-nv</hc-key>
+    <hc-a2>NV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.MR" d="M24.8,286.7 L24.8,284.3 L19.1,267.4 L17.8,259.6 L15.8,233.3 L18.8,224.6 L27.9,214.9 L29.5,209.3 L43.1,215.1 L45.8,218.3 L52.0,221.2 L56.2,224.9 L67.5,226.4 L70.6,224.0 L75.7,217.4 L81.4,217.4 L95.9,219.4 L101.0,227.5 L101.6,234.5 L104.1,237.4 L107.4,235.5 L117.8,235.8 L113.9,241.6 L119.4,251.1 L123.4,255.7 L124.0,259.0 L118.2,260.6 L112.0,260.6 L108.9,262.5 L101.9,269.8 L95.7,270.0 L92.8,273.7 L95.1,277.8 L99.9,277.1 L102.1,289.3 L102.1,304.5 L98.6,308.3 L98.3,316.2 L94.9,318.1 L91.7,324.3 L85.2,328.4 L77.8,326.5 L76.6,320.4 L66.9,316.2 L60.1,307.0 L54.4,302.0 L42.1,300.1 L35.3,295.1 L29.9,289.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.MR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550858</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK64</fips>
+    <postal-code>MR</postal-code>
+    <name>Mavrovo and Rostusa</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Polog</region>
+    <longitude>20.6986</longitude>
+    <woe-name>Mavrovo and Rostusa</woe-name>
+    <latitude>41.6315</latitude>
+    <woe-label>Mavrovo and Rostusa Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>mk-mr</hc-key>
+    <hc-a2>MR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.TR" d="M126.0,94.4 L153.0,85.2 L159.9,81.8 L163.1,78.6 L169.6,84.7 L177.3,94.7 L179.7,99.5 L186.5,102.8 L187.2,110.1 L181.9,115.5 L177.1,125.3 L172.9,127.4 L160.8,129.9 L160.0,131.8 L154.1,128.2 L154.9,120.7 L151.8,115.8 L145.4,114.1 L140.9,103.2 L138.5,100.5 L132.6,96.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.TR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550861</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKA5</fips>
+    <postal-code>TR</postal-code>
+    <name>Tearce</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>NULL</region>
+    <longitude>21.0174</longitude>
+    <woe-name>Tearce</woe-name>
+    <latitude>42.082</latitude>
+    <woe-label>Tearce Municipality, MK, Macedonia</woe-label>
+    <type>Op?tina</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>mk-tr</hc-key>
+    <hc-a2>TR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.GV" d="M588.6,451.7 L584.4,453.4 L578.4,453.9 L565.0,452.8 L555.9,455.6 L543.3,455.9 L531.7,449.9 L528.3,449.7 L511.5,451.4 L510.3,445.2 L499.4,443.5 L485.8,440.0 L484.2,435.9 L485.9,429.9 L498.8,427.7 L495.4,412.4 L502.0,410.4 L509.6,405.0 L509.0,401.9 L506.1,401.2 L505.3,390.3 L503.8,386.9 L508.8,379.7 L521.6,379.1 L521.7,371.7 L518.3,365.2 L518.4,360.4 L526.7,361.3 L529.5,364.2 L535.9,366.2 L548.9,381.7 L554.9,383.3 L555.6,396.3 L558.8,404.7 L558.9,411.4 L565.5,419.7 L571.1,427.5 L571.4,431.2 L569.6,438.9 L570.1,443.1 L576.3,443.4 L587.7,449.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.GV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550840</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK33</fips>
+    <postal-code>GV</postal-code>
+    <name>Southeastern</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>22.3973</longitude>
+    <woe-name>Southeastern</woe-name>
+    <latitude>41.243</latitude>
+    <woe-label>Gevgelija Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>mk-gv</hc-key>
+    <hc-a2>GV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.SD" d="M630.2,391.6 L629.9,392.8 L629.3,421.7 L627.0,435.8 L624.0,443.2 L621.0,445.4 L612.4,439.4 L607.7,432.1 L609.0,429.1 L608.9,421.4 L602.2,417.3 L596.4,416.6 L589.1,417.3 L582.3,409.1 L587.3,406.6 L592.7,398.2 L602.7,398.1 L604.9,393.1 L608.2,389.4 L614.3,390.5 L622.2,389.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.SD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550860</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK00</fips>
+    <postal-code>SD</postal-code>
+    <name>Dojran</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southeastern</region>
+    <longitude>22.6539</longitude>
+    <woe-name>Dojran</woe-name>
+    <latitude>41.2492</latitude>
+    <woe-label>Star Dojran Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>mk-sd</hc-key>
+    <hc-a2>SD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.DL" d="M593.2,103.9 L606.5,110.4 L614.7,111.9 L620.0,116.7 L635.2,116.1 L638.1,122.4 L640.2,124.0 L647.8,122.4 L652.4,126.2 L653.4,133.8 L655.7,137.7 L657.1,150.4 L659.3,158.7 L662.4,166.9 L664.0,178.0 L654.0,186.3 L650.5,190.3 L645.4,201.0 L640.0,202.6 L635.4,208.8 L630.7,209.0 L621.7,205.3 L608.7,204.5 L607.9,202.6 L608.3,195.8 L611.8,189.9 L613.5,178.8 L617.8,169.2 L609.4,167.8 L598.8,162.4 L589.2,159.2 L588.1,139.2 L588.0,131.3 L592.8,129.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.DL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550838</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK22</fips>
+    <postal-code>DL</postal-code>
+    <name>Delcevo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.7429</longitude>
+    <woe-name>Delcevo</woe-name>
+    <latitude>41.9187</latitude>
+    <woe-label>Delcevo Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>mk-dl</hc-key>
+    <hc-a2>DL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.OC" d="M536.1,97.4 L539.1,103.0 L543.1,98.8 L546.5,102.4 L546.9,113.8 L548.2,116.9 L555.9,121.6 L556.7,129.9 L562.3,138.3 L562.5,145.4 L564.4,153.2 L560.4,156.0 L557.1,155.9 L551.5,150.9 L546.3,152.6 L545.2,162.5 L544.0,166.1 L544.5,178.0 L542.5,181.1 L539.2,181.9 L536.1,186.8 L530.5,184.8 L525.7,189.5 L521.1,189.7 L515.6,186.5 L512.4,177.7 L512.0,169.1 L512.9,163.2 L502.3,163.7 L498.1,160.9 L493.3,153.2 L494.6,151.2 L504.4,142.4 L507.3,136.7 L512.6,133.7 L514.8,124.5 L519.2,108.4 L517.0,99.6 L517.7,97.5 L531.8,96.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.OC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550777</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK46</fips>
+    <postal-code>OC</postal-code>
+    <name>Kocani</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.3869</longitude>
+    <woe-name>Kocani</woe-name>
+    <latitude>41.9798</latitude>
+    <woe-label>Kocani Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>mk-oc</hc-key>
+    <hc-a2>OC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.MK" d="M564.4,153.2 L562.5,145.4 L562.3,138.3 L556.7,129.9 L555.9,121.6 L548.2,116.9 L546.9,113.8 L546.5,102.4 L543.1,98.8 L539.1,103.0 L536.1,97.4 L540.8,94.0 L543.5,89.8 L555.5,81.6 L560.2,79.1 L566.8,86.2 L590.6,102.6 L593.2,103.9 L592.8,129.2 L588.0,131.3 L588.1,139.2 L579.4,138.0 L577.8,139.6 L576.7,145.1 L573.2,152.8 L570.2,154.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.MK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550851</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK52</fips>
+    <postal-code>MK</postal-code>
+    <name>Makedonska Kamenica</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.5221</longitude>
+    <woe-name>Makedonska Kamenica</woe-name>
+    <latitude>42.0394</latitude>
+    <woe-label>Makedonska Kamenica Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>mk-mk</hc-key>
+    <hc-a2>MK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.PH" d="M664.0,178.0 L669.3,181.9 L671.1,186.2 L674.3,198.6 L680.5,212.2 L685.2,216.1 L691.7,216.3 L694.6,217.6 L699.6,225.1 L700.0,233.7 L697.2,242.2 L693.7,248.1 L689.1,244.7 L681.7,242.4 L672.2,235.7 L664.1,235.7 L662.6,230.5 L659.5,229.2 L647.5,227.2 L643.8,227.5 L641.2,231.2 L639.0,230.7 L637.2,222.8 L635.2,221.8 L630.7,209.0 L635.4,208.8 L640.0,202.6 L645.4,201.0 L650.5,190.3 L654.0,186.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.PH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550854</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK78</fips>
+    <postal-code>PH</postal-code>
+    <name>Phecevo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Eastern</region>
+    <longitude>22.8833</longitude>
+    <woe-name>Pehcevo Municipality</woe-name>
+    <latitude>41.7917</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>mk-ph</hc-key>
+    <hc-a2>PH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.RN" d="M459.4,18.7 L460.7,27.4 L463.9,31.0 L469.6,32.6 L474.3,37.5 L474.9,42.8 L473.3,50.1 L476.0,71.2 L478.1,75.9 L479.1,82.1 L478.1,90.8 L475.3,91.9 L474.6,98.6 L466.1,102.1 L461.5,102.3 L452.1,94.7 L449.0,90.7 L444.5,88.5 L438.4,88.2 L436.9,80.8 L433.5,80.0 L429.2,75.7 L434.3,75.4 L435.5,73.7 L434.5,68.8 L431.1,63.4 L430.9,53.6 L428.3,47.4 L429.2,45.2 L434.5,44.4 L436.3,42.2 L434.5,25.1 L438.6,25.5 L448.0,23.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.RN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550844</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK85</fips>
+    <postal-code>RN</postal-code>
+    <name>Rankovce</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Northeastern</region>
+    <longitude>22.1049</longitude>
+    <woe-name>Rankovce Municipality</woe-name>
+    <latitude>42.1895</latitude>
+    <woe-label>Rankovce Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>mk-rn</hc-key>
+    <hc-a2>RN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.IL" d="M338.4,142.0 L334.1,150.6 L335.4,155.1 L335.2,160.0 L328.2,160.7 L323.5,157.5 L310.4,165.6 L310.0,159.2 L307.4,154.4 L296.7,147.8 L296.0,145.3 L298.6,141.0 L306.5,137.2 L311.6,136.2 L318.9,126.8 L323.9,121.7 L324.7,123.9 L334.4,131.2 L338.1,131.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.IL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550769</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK36</fips>
+    <postal-code>IL</postal-code>
+    <name>Ilinden</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Skopje</region>
+    <longitude>21.6093</longitude>
+    <woe-name>Ilinden</woe-name>
+    <latitude>41.9758</latitude>
+    <woe-label>Ilinden Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>mk-il</hc-key>
+    <hc-a2>IL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.VE" d="M322.7,201.8 L325.6,203.9 L330.6,204.5 L333.7,203.4 L333.5,208.2 L340.7,202.0 L343.7,206.3 L346.9,207.4 L349.1,205.5 L352.1,194.3 L353.0,187.8 L352.2,178.5 L353.9,176.5 L361.1,175.1 L370.4,168.0 L370.4,172.7 L373.4,184.0 L383.1,195.8 L382.2,199.2 L375.0,206.9 L374.7,209.7 L380.2,216.9 L379.7,221.3 L376.9,227.4 L377.0,231.7 L382.3,232.4 L386.9,240.5 L385.9,250.6 L379.1,258.3 L374.7,269.0 L372.1,273.2 L364.9,273.9 L363.2,280.8 L354.3,279.0 L351.9,276.3 L351.1,267.1 L348.8,266.0 L345.5,269.2 L341.2,267.5 L340.1,260.3 L337.8,256.8 L335.1,246.8 L318.5,242.3 L316.4,244.1 L313.4,243.0 L307.6,230.9 L312.6,230.1 L318.5,227.3 L324.0,218.2 L323.9,211.6 L321.5,209.3 L321.5,202.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.VE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550815</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKB1</fips>
+    <postal-code>VE</postal-code>
+    <name>Veles</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Vardar</region>
+    <longitude>21.7157</longitude>
+    <woe-name>Veles</woe-name>
+    <latitude>41.7213</latitude>
+    <woe-label>Veles Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>mk-ve</hc-key>
+    <hc-a2>VE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.ZK" d="M322.7,201.8 L321.5,202.2 L321.5,209.3 L323.9,211.6 L324.0,218.2 L318.5,227.3 L312.6,230.1 L307.6,230.9 L305.5,230.3 L285.2,231.0 L283.6,229.5 L284.8,221.5 L279.4,212.1 L279.0,204.4 L283.0,197.9 L285.0,198.0 L286.4,202.9 L290.4,203.1 L292.2,196.1 L297.3,188.8 L298.0,183.7 L311.4,174.6 L315.4,174.7 L325.3,178.9 L324.9,197.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.ZK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550820</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKC2</fips>
+    <postal-code>ZK</postal-code>
+    <name>Zelenikovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Skopje</region>
+    <longitude>21.5518</longitude>
+    <woe-name>Zelenikovo Municipality</woe-name>
+    <latitude>41.8091</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>mk-zk</hc-key>
+    <hc-a2>ZK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.SO" d="M266.8,125.1 L267.6,132.9 L264.5,133.7 L260.5,127.3 L257.4,126.2 L257.6,120.0 L261.7,117.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.SO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550756</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK17</fips>
+    <postal-code>SO</postal-code>
+    <name>?uto Orizari</name>
+    <country>Macedonia</country>
+    <type-en>Municipality</type-en>
+    <region>Greater Skopje</region>
+    <longitude>21.4069</longitude>
+    <woe-name>Centar Municipality</woe-name>
+    <latitude>42.0341</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Municipality</type>
+    <hc-middle-x>0.80</hc-middle-x>
+    <hc-middle-y>0.82</hc-middle-y>
+    <hc-key>mk-so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.DE" d="M254.2,284.8 L256.6,284.8 L267.6,288.7 L273.5,298.0 L276.5,299.0 L278.6,306.7 L279.0,315.3 L282.7,320.6 L285.5,322.0 L297.7,320.9 L299.8,327.9 L302.5,330.2 L312.3,332.6 L317.0,338.8 L311.7,342.6 L309.6,351.4 L303.6,353.6 L297.6,359.2 L288.5,359.6 L282.2,361.6 L276.5,361.6 L270.2,369.2 L264.5,372.9 L260.9,370.1 L249.3,371.4 L247.1,369.3 L245.5,360.3 L243.7,359.6 L237.1,364.1 L227.0,353.2 L223.9,351.6 L225.1,347.7 L234.3,347.9 L234.5,343.9 L227.6,335.7 L223.1,328.9 L223.2,325.4 L228.6,323.2 L230.8,319.2 L234.0,318.7 L241.8,322.2 L241.5,312.8 L243.7,307.6 L249.8,300.2 L251.5,295.9 L252.1,284.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.DE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550763</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK28</fips>
+    <postal-code>DE</postal-code>
+    <name>Dolneni</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Pelagonia</region>
+    <longitude>21.4307</longitude>
+    <woe-name>Dolneni</woe-name>
+    <latitude>41.4684</latitude>
+    <woe-label>Dolneni Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>mk-de</hc-key>
+    <hc-a2>DE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.KG" d="M237.1,364.1 L243.7,359.6 L245.5,360.3 L247.1,369.3 L249.3,371.4 L260.9,370.1 L264.5,372.9 L260.1,376.7 L260.2,380.1 L262.6,384.4 L268.1,384.9 L269.4,389.0 L266.9,393.3 L265.7,402.1 L257.7,410.4 L252.1,411.0 L247.4,406.3 L243.9,404.9 L240.3,402.2 L243.1,394.5 L243.1,387.0 L236.6,377.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.KG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550781</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK53</fips>
+    <postal-code>KG</postal-code>
+    <name>Krivoga?tani</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Pelagonia</region>
+    <longitude>21.3682</longitude>
+    <woe-name>Krivogastani Municipality</woe-name>
+    <latitude>41.3012</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>mk-kg</hc-key>
+    <hc-a2>KG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.MG" d="M252.1,411.0 L253.4,415.4 L260.2,416.4 L263.7,418.6 L267.0,423.7 L270.4,426.4 L273.0,430.9 L280.7,431.9 L282.6,435.3 L287.9,438.1 L294.0,438.3 L299.5,435.7 L304.5,439.6 L315.8,442.8 L316.8,443.9 L315.6,449.5 L304.0,464.5 L300.9,466.5 L288.5,464.9 L280.6,461.8 L277.7,461.8 L273.5,464.9 L270.4,470.0 L264.3,469.2 L259.4,472.4 L255.8,471.9 L251.5,467.3 L251.9,457.6 L251.2,452.8 L243.2,448.2 L240.8,445.3 L238.3,438.9 L238.3,435.3 L240.7,427.6 L238.3,424.1 L235.3,420.8 L240.5,405.8 L243.9,404.9 L247.4,406.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.MG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550789</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK67</fips>
+    <postal-code>MG</postal-code>
+    <name>Pelagonia</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>21.4512</longitude>
+    <woe-name>Pelagonia</woe-name>
+    <latitude>41.147</latitude>
+    <woe-label>Mogila Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>mk-mg</hc-key>
+    <hc-a2>MG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.ZA" d="M123.8,311.1 L120.7,304.9 L116.5,300.2 L112.6,291.2 L108.1,290.5 L103.0,277.6 L99.9,277.1 L95.1,277.8 L92.8,273.7 L95.7,270.0 L101.9,269.8 L108.9,262.5 L112.0,260.6 L118.2,260.6 L124.0,259.0 L132.6,260.4 L140.8,265.5 L147.9,273.5 L148.1,290.3 L143.0,300.7 L137.3,301.0 L129.6,305.4 L125.1,306.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.ZA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550864</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKC1</fips>
+    <postal-code>ZA</postal-code>
+    <name>Zajas</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southwestern</region>
+    <longitude>20.8849</longitude>
+    <woe-name>Zajas</woe-name>
+    <latitude>41.6012</latitude>
+    <woe-label>Zajas Municipality, MK, Macedonia</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>mk-za</hc-key>
+    <hc-a2>ZA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.VL" d="M610.3,324.3 L605.3,328.0 L598.3,330.4 L590.4,330.4 L584.6,323.2 L579.1,320.0 L571.4,318.8 L569.8,322.3 L565.1,327.4 L563.2,320.8 L563.4,312.6 L564.2,309.9 L562.1,306.0 L563.1,303.7 L569.2,301.2 L570.6,297.7 L573.3,297.0 L577.6,299.5 L585.8,307.3 L588.4,306.5 L591.1,302.5 L591.2,296.3 L589.0,286.8 L583.1,279.6 L583.7,275.1 L588.0,267.8 L596.8,265.8 L597.7,272.1 L601.2,268.0 L604.4,267.3 L608.4,271.4 L611.6,272.2 L613.9,275.6 L613.3,282.9 L609.9,284.3 L610.1,287.4 L616.1,287.1 L624.3,288.9 L625.6,299.9 L624.3,310.4 L621.5,315.9 L617.3,320.2 L612.5,321.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.VL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550814</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MKA9</fips>
+    <postal-code>VL</postal-code>
+    <name>Vasilevo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>Southeastern</region>
+    <longitude>22.6159</longitude>
+    <woe-name>Vasilevo Municipality</woe-name>
+    <latitude>41.5436</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.71</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>mk-vl</hc-key>
+    <hc-a2>VL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK.BS" d="M641.5,351.2 L634.0,353.4 L629.4,352.0 L626.9,349.2 L624.8,343.2 L619.1,345.2 L613.9,343.3 L615.9,334.7 L613.7,327.7 L610.3,324.3 L612.5,321.7 L617.3,320.2 L621.5,315.9 L624.3,310.4 L625.6,299.9 L624.3,288.9 L627.2,289.2 L630.0,295.2 L636.5,300.6 L644.6,301.8 L653.9,302.1 L660.2,307.2 L660.7,313.2 L653.2,325.2 L645.3,332.4 L645.6,343.0 L645.1,347.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>10</labelrank>
+    <hasc>MK.BS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>24550750</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MK11</fips>
+    <postal-code>BS</postal-code>
+    <name>Bosilovo</name>
+    <country>Macedonia</country>
+    <type-en>Statistical Region</type-en>
+    <region>NULL</region>
+    <longitude>22.7665</longitude>
+    <woe-name>Bosilovo Municipality</woe-name>
+    <latitude>41.4665</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Statistical Region</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>mk-bs</hc-key>
+    <hc-a2>BS</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

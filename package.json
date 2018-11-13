@@ -1,0 +1,25 @@
+{
+  "name": "@highcharts/map-collection",
+  "version": "1.1.2",
+  "description": "Highmaps Map Collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highcharts/map-collection-dist.git"
+  },
+  "keywords": [
+    "highcharts",
+    "highmaps",
+    "maps",
+    "map-collection"
+  ],
+  "author": "Øystein Moseng",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/highcharts/map-collection-dist/issues"
+  },
+  "homepage": "https://github.com/highcharts/map-collection-dist#readme"
+}

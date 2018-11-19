@@ -1,12 +1,8 @@
 # Highmaps - Map Collection
 [Website](https://www.highcharts.com) | [API](https://api.highcharts.com/highmaps) | [Demo](https://www.highcharts.com/maps/demo) | [Issues](https://github.com/highcharts/map-collection-dist/issues)
 
-## Copyright
-Some maps require that the original source of the map data is credited when used.
-The copyright information is added to the chart credits by default, but please be aware that you will have to display this information somewhere else if you choose to disable chart credits.
-Copyright information for each map can be found as properties in the GeoJSON and Javascript files.
-
-See [code.highcharts.com/mapdata](https://code.highcharts.com/mapdata/) for overview of which maps requires creditation.
+## License
+The use of the maps in this collection requires that you follow our terms and conditions that is stated in [License.md](https://github.com/highcharts/map-collection-dist/blob/master/LICENSE.md).
 
 ## Installation
 ### Install from our CDN

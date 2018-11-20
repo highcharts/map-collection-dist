@@ -2,7 +2,7 @@
 [Website](https://www.highcharts.com) | [API](https://api.highcharts.com/highmaps) | [Demo](https://www.highcharts.com/maps/demo) | [Issues](https://github.com/highcharts/map-collection-dist/issues)
 
 ## License
-The use of the maps in this collection requires that you follow our terms and conditions that is stated in [License.md](https://github.com/highcharts/map-collection-dist/blob/master/LICENSE.md).
+The use of the maps in this collection requires that you follow our terms and conditions that are stated in [License.md](https://github.com/highcharts/map-collection-dist/blob/master/LICENSE.md).
 
 ## Installation
 ### Install from our CDN

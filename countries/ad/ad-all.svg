@@ -47,6 +47,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <hc-middle-y>0.55</hc-middle-y>
     <hc-key>ad-3689</hc-key>
     <hc-a2>AL</hc-a2>
+    <iso-3166-2>AD-07</iso-3166-2>
   </desc>
 </path>
 
@@ -72,6 +73,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>ad-6404</hc-key>
     <hc-a2>LM</hc-a2>
+    <iso-3166-2>AD-04</iso-3166-2>
   </desc>
 </path>
 
@@ -97,6 +99,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <hc-middle-y>0.46</hc-middle-y>
     <hc-key>ad-6405</hc-key>
     <hc-a2>OR</hc-a2>
+    <iso-3166-2>AD-05</iso-3166-2>
   </desc>
 </path>
 
@@ -122,6 +125,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <hc-middle-y>0.36</hc-middle-y>
     <hc-key>ad-6406</hc-key>
     <hc-a2>CA</hc-a2>
+    <iso-3166-2>AD-02</iso-3166-2>
   </desc>
 </path>
 
@@ -147,6 +151,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <hc-middle-y>0.47</hc-middle-y>
     <hc-key>ad-6407</hc-key>
     <hc-a2>EN</hc-a2>
+    <iso-3166-2>AD-03</iso-3166-2>
   </desc>
 </path>
 
@@ -172,6 +177,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>ad-6408</hc-key>
     <hc-a2>EE</hc-a2>
+    <iso-3166-2>AD-08</iso-3166-2>
   </desc>
 </path>
 
@@ -197,6 +203,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <hc-middle-y>0.55</hc-middle-y>
     <hc-key>ad-6409</hc-key>
     <hc-a2>SJ</hc-a2>
+    <iso-3166-2>AD-06</iso-3166-2>
   </desc>
 </path>
 </g>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.2
-Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.3
+Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Italy</title>
 <g id="admin1">
@@ -2593,12 +2593,12 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>IT03</fips>
     <postal-code>KR</postal-code>
-    <name>Crotene</name>
+    <name>Crotone</name>
     <country>Italy</country>
     <type-en>Province</type-en>
     <region>Calabria</region>
     <longitude>16.9491</longitude>
-    <woe-name>Crotene</woe-name>
+    <woe-name>Crotone</woe-name>
     <latitude>39.1644</latitude>
     <woe-label>NULL</woe-label>
     <type>Province</type>
@@ -2760,6 +2760,6 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

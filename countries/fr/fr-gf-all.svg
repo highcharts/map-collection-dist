@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.2
-Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.3
+Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Guyane française</title>
 <g id="admin2">
@@ -28,6 +28,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 <g id="FR.GF">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Guyane française</name>
+    <iso_3166_2>FR-GF</iso_3166_2>
     <hc-key>fr-gf</hc-key>
     <hc-a2>GF</hc-a2>
   </desc>
@@ -48,14 +49,12 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <woe-name>Guyane française</woe-name>
     <latitude>3.85831</latitude>
     <woe-label>NULL</woe-label>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>fr-gf-gf</hc-key>
     <hc-a2>GF</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

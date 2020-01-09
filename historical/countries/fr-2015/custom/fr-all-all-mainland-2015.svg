@@ -1,0 +1,2270 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.3
+Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>France, mainland admin2 (2015)</title>
+<g id="admin2">
+
+<g id="FR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>France</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Fr.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FRA</iso-a3>
+    <iso-a2>FR</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-key>fr</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.N">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Midi-Pyrénées</name>
+    <hc-key>fr-n</hc-key>
+    <hc-a2>MP</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.O">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Nord-Pas-de-Calais</name>
+    <hc-key>fr-o</hc-key>
+    <hc-a2>NP</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.L">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Limousin</name>
+    <hc-key>fr-l</hc-key>
+    <hc-a2>LI</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.M">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Lorraine</name>
+    <hc-key>fr-m</hc-key>
+    <hc-a2>LO</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.J">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Île-de-France</name>
+    <hc-key>fr-j</hc-key>
+    <hc-a2>ÎD</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.K">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Languedoc-Roussillon</name>
+    <hc-key>fr-k</hc-key>
+    <hc-a2>LR</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.I">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Franche-Comté</name>
+    <hc-key>fr-i</hc-key>
+    <hc-a2>FC</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.F">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Centre</name>
+    <hc-key>fr-f</hc-key>
+    <hc-a2>CE</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.G">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Champagne-Ardenne</name>
+    <hc-key>fr-g</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.D">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bourgogne</name>
+    <hc-key>fr-d</hc-key>
+    <hc-a2>BO</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.E">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Bretagne</name>
+    <hc-key>fr-e</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.B">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Aquitaine</name>
+    <hc-key>fr-b</hc-key>
+    <hc-a2>AQ</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.C">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Auvergne</name>
+    <hc-key>fr-c</hc-key>
+    <hc-a2>AU</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.A">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Alsace</name>
+    <hc-key>fr-a</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.V">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Rhône-Alpes</name>
+    <hc-key>fr-v</hc-key>
+    <hc-a2>RA</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.T">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Poitou-Charentes</name>
+    <hc-key>fr-t</hc-key>
+    <hc-a2>PC</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.U">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Provence-Alpes-Côte-d'Azur</name>
+    <hc-key>fr-u</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.R">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Pays de la Loire</name>
+    <hc-key>fr-r</hc-key>
+    <hc-a2>PD</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.S">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Picardie</name>
+    <hc-key>fr-s</hc-key>
+    <hc-a2>PI</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.P">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Basse-Normandie</name>
+    <hc-key>fr-p</hc-key>
+    <hc-a2>BN</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.Q">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Haute-Normandie</name>
+    <hc-key>fr-q</hc-key>
+    <hc-a2>HN</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.E.MB" d="M82.0,287.7 L84.4,290.2 L75.1,288.0 L75.1,282.0 Z M118.3,280.6 L116.5,274.5 L106.6,275.6 L99.2,275.5 L94.6,270.4 L103.6,271.6 L106.8,267.6 L102.3,265.3 L93.2,266.8 L92.9,270.1 L90.2,267.0 L85.8,268.2 L83.9,266.3 L82.0,275.8 L82.3,266.2 L79.5,263.1 L80.4,259.4 L84.6,257.9 L83.4,253.9 L78.2,261.2 L71.3,256.2 L75.9,250.5 L66.5,256.4 L61.9,250.4 L61.4,247.8 L70.6,242.3 L71.0,236.8 L62.9,233.1 L58.7,233.3 L53.9,223.3 L55.4,220.1 L63.4,217.3 L69.6,218.0 L70.9,220.8 L75.3,219.7 L77.7,221.9 L84.7,221.5 L87.1,217.9 L92.8,218.8 L94.1,221.9 L97.9,221.5 L104.2,225.2 L105.9,228.1 L111.4,226.2 L110.9,232.8 L114.0,232.4 L117.8,228.5 L119.8,223.5 L124.2,223.6 L128.5,227.8 L131.4,226.8 L136.1,233.6 L131.6,237.1 L137.0,239.1 L140.1,242.5 L139.4,250.2 L142.0,250.6 L141.0,257.7 L137.8,260.9 L139.4,267.6 L137.8,274.7 L133.3,279.3 L132.1,277.2 L127.1,277.3 L125.2,280.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.MB</hasc>
+    <alt-name>Bretaña|Brittany</alt-name>
+    <woe-id>12591798</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA2</fips>
+    <name>Morbihan</name>
+    <type>Metropolitan department</type>
+    <region>Bretagne</region>
+    <longitude>-2.89359</longitude>
+    <woe-name>Morbihan</woe-name>
+    <latitude>47.8699</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>fr-e-mb</hc-key>
+    <hc-a2>MB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.U.AM" d="M643.7,603.4 L640.3,600.5 L641.2,593.1 L638.5,593.5 L633.8,589.8 L632.0,583.2 L627.1,582.3 L625.3,579.5 L629.2,577.5 L629.6,572.4 L634.3,569.6 L642.6,570.0 L631.4,559.3 L630.5,554.3 L627.4,550.2 L629.1,542.7 L632.8,536.7 L637.2,533.6 L644.4,542.6 L646.5,542.1 L659.4,548.1 L667.0,550.7 L682.6,545.6 L681.9,548.2 L685.1,552.7 L682.0,560.2 L673.7,571.0 L675.4,576.7 L671.9,580.9 L668.1,580.9 L665.9,585.7 L661.7,585.5 L658.7,589.5 L655.7,588.8 L655.3,596.9 L652.3,595.9 L649.5,598.6 L645.9,597.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AM</hasc>
+    <alt-name>Provenza-Alpes-Costa de Azul</alt-name>
+    <woe-id>12591800</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB8</fips>
+    <name>Alpes-Maritimes</name>
+    <type>Metropolitan department</type>
+    <region>Provence-Alpes-Côte-d'Azur</region>
+    <longitude>7.18651</longitude>
+    <woe-name>Alpes-Maritimes</woe-name>
+    <latitude>43.8699</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>fr-u-am</hc-key>
+    <hc-a2>AM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.U.VR" d="M625.3,579.5 L627.1,582.3 L632.0,583.2 L633.8,589.8 L638.5,593.5 L641.2,593.1 L640.3,600.5 L643.7,603.4 L639.6,608.7 L632.1,609.7 L631.6,614.3 L624.8,620.0 L630.7,621.2 L629.9,626.3 L625.9,628.8 L621.8,628.2 L619.9,630.8 L612.5,632.3 L612.4,635.9 L606.8,633.9 L600.0,636.3 L599.5,639.9 L596.9,637.1 L592.0,637.7 L586.8,633.5 L583.3,634.7 L587.0,638.5 L582.1,640.8 L577.7,638.2 L579.7,636.5 L572.5,632.9 L571.0,630.3 L572.0,625.8 L575.9,622.2 L571.7,619.6 L571.0,612.8 L576.6,611.7 L572.6,606.5 L573.1,600.5 L570.5,598.0 L571.8,593.2 L576.6,591.6 L576.4,590.3 L575.7,587.3 L575.5,586.4 L574.3,586.0 L574.3,586.0 L574.3,586.0 L575.7,583.9 L580.2,586.3 L585.1,584.7 L589.3,590.0 L602.5,579.5 L609.1,584.4 L613.2,579.6 L624.1,578.1 Z M574.3,586.0 L574.3,586.0 L574.3,586.0 L574.3,586.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VR</hasc>
+    <alt-name>Provenza-Alpes-Costa de Azul</alt-name>
+    <woe-id>12597187</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB8</fips>
+    <name>Var</name>
+    <type>Metropolitan department</type>
+    <region>Provence-Alpes-Côte-d'Azur</region>
+    <longitude>6.27103</longitude>
+    <woe-name>Var</woe-name>
+    <latitude>43.4095</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>fr-u-vr</hc-key>
+    <hc-a2>VR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.R.VD" d="M130.4,319.7 L127.2,320.5 L124.9,314.8 L130.1,315.8 Z M187.7,318.9 L193.8,321.3 L198.6,321.8 L204.5,328.6 L205.9,333.8 L210.7,338.3 L210.3,342.3 L213.0,347.9 L215.0,358.9 L213.6,361.4 L213.6,368.8 L217.7,373.3 L212.8,376.3 L206.3,378.2 L202.6,375.6 L196.2,376.2 L194.7,372.7 L188.6,374.0 L186.3,376.4 L183.1,375.1 L180.9,378.7 L172.5,372.2 L168.1,372.9 L165.4,366.6 L158.8,365.3 L149.2,358.9 L146.9,348.2 L141.4,341.8 L137.1,335.0 L133.5,332.5 L133.1,328.3 L135.0,323.7 L138.0,321.7 L141.6,315.7 L147.5,322.2 L153.1,325.3 L155.7,328.7 L164.9,331.2 L167.8,329.6 L165.9,324.4 L165.8,318.4 L170.1,319.4 L170.3,325.1 L174.8,324.0 L175.6,318.7 L181.2,314.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597200</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA5</fips>
+    <name>Vendée</name>
+    <type>Metropolitan department</type>
+    <region>Pays de la Loire</region>
+    <longitude>-1.31827</longitude>
+    <woe-name>Vendée</woe-name>
+    <latitude>46.6893</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>fr-r-vd</hc-key>
+    <hc-a2>VD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.V.AI" d="M583.9,370.6 L588.3,375.1 L586.1,384.2 L578.9,387.2 L579.2,393.8 L571.9,396.8 L573.1,409.3 L569.2,426.9 L563.9,432.2 L560.5,432.4 L557.3,427.4 L551.7,421.7 L550.5,417.6 L547.0,414.9 L539.9,422.6 L532.2,419.6 L521.9,421.1 L521.3,416.0 L516.3,413.6 L512.1,408.9 L512.0,401.4 L514.5,392.4 L515.5,385.5 L518.4,379.0 L521.7,365.8 L528.7,366.4 L535.0,365.2 L542.4,369.0 L546.2,376.4 L551.5,379.5 L553.9,384.2 L561.3,377.3 L566.1,383.0 L574.4,382.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AI</hasc>
+    <alt-name>Rhone-Alpes</alt-name>
+    <woe-id>12597195</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB9</fips>
+    <name>Ain</name>
+    <type>Metropolitan department</type>
+    <region>Rhône-Alpes</region>
+    <longitude>5.37744</longitude>
+    <woe-name>Ain</woe-name>
+    <latitude>46.084</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-v-ai</hc-key>
+    <hc-a2>AI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.K.AD" d="M428.9,629.6 L421.3,638.7 L416.9,651.8 L417.3,660.2 L406.1,654.1 L397.2,660.4 L377.8,659.3 L375.2,661.2 L375.9,669.5 L371.3,670.3 L366.8,674.8 L365.4,673.8 L364.9,671.6 L359.0,667.3 L355.2,668.3 L350.6,666.2 L347.8,661.5 L354.5,657.7 L352.4,652.0 L355.3,650.0 L353.7,641.3 L351.6,637.5 L342.9,634.5 L339.7,632.0 L338.8,625.3 L340.2,621.3 L345.2,619.2 L347.6,612.9 L350.1,615.3 L358.2,613.1 L361.6,615.5 L369.0,616.3 L371.6,611.6 L377.7,613.1 L389.4,613.3 L388.7,617.6 L393.5,623.5 L396.4,621.3 L400.3,626.5 L405.3,621.9 L406.2,616.5 L410.0,621.4 L414.9,621.6 L415.3,624.6 L425.7,627.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AD</hasc>
+    <alt-name>Languedoc-Rosellon</alt-name>
+    <woe-id>12597198</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA9</fips>
+    <name>Aude</name>
+    <type>Metropolitan department</type>
+    <region>Languedoc-Roussillon</region>
+    <longitude>2.48157</longitude>
+    <woe-name>Aude</woe-name>
+    <latitude>43.1004</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>fr-k-ad</hc-key>
+    <hc-a2>AD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.U.VC" d="M528.4,540.9 L523.6,541.0 L523.0,537.5 L525.7,532.6 L528.8,532.0 L531.8,536.3 Z M574.3,586.0 L574.3,586.0 L574.3,586.0 L574.3,586.0 L564.5,591.6 L554.7,589.6 L550.1,586.1 L541.7,585.6 L535.5,582.8 L528.5,576.5 L517.1,571.5 L521.4,565.0 L517.1,559.4 L514.3,559.3 L513.7,551.0 L509.9,543.7 L509.8,540.1 L514.7,540.1 L518.6,546.2 L532.5,542.1 L539.5,541.8 L539.0,545.8 L551.5,549.1 L552.4,551.7 L559.0,555.3 L561.0,560.1 L559.5,567.5 L564.1,571.2 L562.0,579.5 L565.7,578.0 L568.8,579.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VC</hasc>
+    <alt-name>Provenza-Alpes-Costa de Azul</alt-name>
+    <woe-id>12597203</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB8</fips>
+    <name>Vaucluse</name>
+    <type>Metropolitan department</type>
+    <region>Provence-Alpes-Côte-d'Azur</region>
+    <longitude>5.21543</longitude>
+    <woe-name>Vaucluse</woe-name>
+    <latitude>43.9981</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>fr-u-vc</hc-key>
+    <hc-a2>VC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.N.HG" d="M288.4,660.6 L280.7,657.8 L276.7,658.2 L275.2,665.6 L275.6,670.5 L265.2,669.7 L265.0,658.8 L266.2,655.4 L270.5,655.7 L276.3,648.7 L274.2,642.7 L269.7,644.8 L271.8,639.2 L264.8,634.4 L275.3,621.9 L274.9,620.3 L278.2,619.4 L285.7,612.4 L292.9,613.1 L296.8,616.7 L299.4,615.6 L300.2,607.8 L302.4,602.9 L306.0,603.1 L309.6,598.2 L302.4,592.3 L296.1,582.8 L308.4,580.8 L313.0,584.2 L319.6,580.6 L316.2,578.1 L320.6,575.6 L325.1,575.8 L331.1,573.0 L332.4,581.4 L336.1,583.2 L340.8,594.1 L338.4,596.2 L347.1,601.3 L353.5,608.3 L358.0,606.2 L358.2,613.1 L350.1,615.3 L347.6,612.9 L345.2,619.2 L340.2,621.3 L338.8,625.3 L335.6,626.7 L327.9,622.7 L326.3,628.3 L323.4,629.3 L319.6,622.6 L315.7,622.3 L319.5,629.0 L311.4,631.3 L310.7,633.5 L314.5,636.3 L311.6,639.0 L305.6,633.7 L300.7,634.9 L297.2,638.2 L296.8,646.6 L290.5,648.9 L287.2,654.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597186</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB3</fips>
+    <name>Haute-Garonne</name>
+    <type>Metropolitan department</type>
+    <region>Midi-Pyrénées</region>
+    <longitude>1.41673</longitude>
+    <woe-name>Haute-Garonne</woe-name>
+    <latitude>43.5457</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.31</hc-middle-y>
+    <hc-key>fr-n-hg</hc-key>
+    <hc-a2>HG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.C.CL" d="M435.6,490.9 L428.5,493.5 L423.4,497.7 L420.3,496.7 L417.2,503.9 L413.5,515.7 L410.4,512.0 L409.3,506.7 L404.4,497.9 L402.3,498.3 L399.1,492.4 L391.5,500.4 L388.2,508.8 L383.5,514.2 L377.3,514.9 L374.7,513.6 L369.2,517.2 L365.1,511.1 L366.7,505.0 L363.1,497.7 L361.2,488.9 L365.3,487.6 L364.4,482.3 L369.7,474.3 L369.1,469.1 L377.8,459.9 L380.3,454.1 L385.8,455.4 L387.5,448.8 L395.9,452.5 L397.9,456.2 L405.3,455.5 L409.0,457.4 L414.4,464.2 L420.5,458.9 L421.0,464.5 L427.4,465.8 L430.2,476.3 L433.3,479.4 L431.4,484.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597148</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR98</fips>
+    <name>Cantal</name>
+    <type>Metropolitan department</type>
+    <region>Auvergne</region>
+    <longitude>2.74821</longitude>
+    <woe-name>Cantal</woe-name>
+    <latitude>45.1592</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>fr-c-cl</hc-key>
+    <hc-a2>CL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.K.LZ" d="M413.5,515.7 L417.2,503.9 L420.3,496.7 L423.4,497.7 L428.5,493.5 L435.6,490.9 L442.7,501.9 L451.8,497.5 L452.3,500.6 L456.6,501.8 L464.3,506.9 L467.3,520.5 L471.6,530.3 L465.9,535.7 L469.9,545.9 L467.6,553.6 L465.1,556.5 L460.2,556.1 L454.4,552.7 L451.6,552.9 L450.1,557.8 L444.5,558.1 L436.3,553.7 L436.3,553.7 L434.8,551.7 L429.0,551.9 L427.5,549.3 L421.7,546.2 L423.0,543.0 L422.7,533.6 L420.2,529.4 L418.4,522.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.LZ</hasc>
+    <alt-name>Languedoc-Rosellon</alt-name>
+    <woe-id>12597162</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA9</fips>
+    <name>Lozère</name>
+    <type>Metropolitan department</type>
+    <region>Languedoc-Roussillon</region>
+    <longitude>3.54811</longitude>
+    <woe-name>Lozère</woe-name>
+    <latitude>44.4909</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>fr-k-lz</hc-key>
+    <hc-a2>LZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.M.MM" d="M543.8,125.4 L552.4,121.2 L558.2,120.7 L564.0,125.0 L567.3,125.6 L567.6,134.6 L571.9,140.6 L572.9,145.4 L571.3,148.0 L572.9,151.9 L568.9,157.5 L574.3,162.4 L576.0,165.9 L580.4,169.0 L588.0,168.9 L589.9,171.2 L588.8,174.7 L592.9,180.8 L596.2,180.0 L603.3,182.6 L605.2,185.4 L611.1,189.0 L619.9,192.4 L625.3,192.9 L632.0,199.5 L630.2,200.0 L621.7,208.4 L617.5,210.5 L609.8,208.7 L606.5,205.2 L601.2,209.8 L592.1,210.9 L589.5,208.4 L588.2,211.2 L582.3,211.2 L580.9,214.9 L573.4,215.5 L568.1,211.6 L568.7,205.3 L561.7,204.8 L559.2,197.6 L560.9,194.4 L558.8,186.2 L560.6,182.2 L561.2,174.7 L560.2,172.0 L564.5,168.9 L563.1,165.2 L564.1,159.9 L562.2,155.5 L559.7,155.8 L559.4,149.0 L557.4,147.7 L558.9,141.4 L556.6,134.0 L552.6,129.9 L545.7,132.3 L543.3,128.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.MM</hasc>
+    <alt-name>Lorena</alt-name>
+    <woe-id>12597176</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB2</fips>
+    <name>Meurthe-et-Moselle</name>
+    <type>Metropolitan department</type>
+    <region>Lorraine</region>
+    <longitude>6.27603</longitude>
+    <woe-name>Meurthe-et-Moselle</woe-name>
+    <latitude>48.7055</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
+    <hc-key>fr-m-mm</hc-key>
+    <hc-a2>MM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.O.NO" d="M418.2,74.9 L418.3,76.7 L414.7,77.3 L414.8,75.1 Z M422.7,85.6 L419.4,83.3 L419.2,83.1 L421.1,72.5 L423.3,69.2 L421.5,66.2 L415.6,65.7 L417.7,60.8 L414.7,56.6 L417.5,53.0 L413.9,47.0 L405.6,45.1 L403.8,42.7 L405.0,38.3 L408.0,36.6 L404.6,33.6 L401.1,37.0 L388.6,36.4 L382.6,33.0 L381.8,28.0 L383.8,25.3 L375.2,22.4 L373.5,16.6 L367.3,5.6 L380.5,2.1 L383.6,2.5 L390.5,0.0 L392.2,6.9 L394.8,10.1 L393.2,14.1 L393.8,19.7 L399.0,22.4 L403.8,29.2 L409.5,30.9 L413.2,26.5 L419.9,24.4 L422.0,25.6 L426.3,34.7 L428.5,44.9 L432.2,47.6 L438.2,45.5 L440.1,48.1 L445.7,48.9 L447.6,51.3 L448.5,61.4 L450.4,63.1 L452.6,59.5 L460.5,60.8 L467.0,59.7 L472.4,66.1 L476.4,66.5 L474.1,69.7 L472.6,76.5 L475.4,76.5 L477.0,81.8 L473.0,85.3 L473.0,88.7 L466.1,87.4 L464.9,83.5 L460.3,85.2 L458.6,83.5 L449.8,82.2 L447.1,84.0 L443.2,83.1 L437.8,85.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.NO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597168</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB4</fips>
+    <name>Nord</name>
+    <type>Metropolitan department</type>
+    <region>Nord-Pas-de-Calais</region>
+    <longitude>3.22709</longitude>
+    <woe-name>Nord</woe-name>
+    <latitude>50.403</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
+    <hc-key>fr-o-no</hc-key>
+    <hc-a2>NO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.N.HP" d="M234.4,617.6 L232.9,615.9 L233.9,613.0 L235.9,614.5 Z M233.0,624.0 L231.4,623.1 L232.8,619.4 L234.6,622.1 Z M265.2,669.7 L260.6,670.0 L258.6,667.3 L253.9,671.1 L251.8,667.7 L247.7,666.3 L235.4,669.1 L230.7,666.4 L228.5,660.1 L224.1,660.6 L220.1,656.9 L219.7,651.3 L221.5,644.4 L227.8,639.9 L227.6,636.3 L234.3,630.1 L237.7,623.7 L237.8,619.2 L240.9,617.0 L240.3,610.3 L236.9,610.3 L238.9,607.3 L237.3,602.2 L233.8,597.8 L240.0,595.4 L241.5,601.3 L247.2,603.9 L248.1,611.4 L251.0,614.7 L256.7,614.3 L260.0,616.9 L274.9,620.3 L275.3,621.9 L264.8,634.4 L271.8,639.2 L269.7,644.8 L274.2,642.7 L276.3,648.7 L270.5,655.7 L266.2,655.4 L265.0,658.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HP</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597169</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB3</fips>
+    <name>Hautes-Pyrénées</name>
+    <type>Metropolitan department</type>
+    <region>Midi-Pyrénées</region>
+    <longitude>0.13923</longitude>
+    <woe-name>Hautes-Pyrénées</woe-name>
+    <latitude>43.0599</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>fr-n-hp</hc-key>
+    <hc-a2>HP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.B.DD" d="M245.0,468.7 L252.1,467.2 L259.3,461.2 L261.9,450.4 L269.7,446.2 L274.0,440.3 L275.3,434.3 L282.1,428.5 L287.6,430.1 L288.9,436.4 L292.1,437.9 L302.8,436.7 L306.9,442.2 L310.3,443.1 L309.2,446.9 L316.4,450.5 L317.3,455.0 L320.3,456.2 L315.9,461.0 L317.6,465.9 L315.2,470.0 L317.8,474.5 L324.1,476.2 L324.2,480.7 L327.2,485.2 L325.2,487.7 L325.8,495.7 L320.9,501.8 L317.0,508.8 L310.5,512.2 L304.7,520.0 L298.8,514.7 L293.1,517.3 L289.9,515.4 L290.9,511.4 L288.7,510.2 L282.5,511.5 L277.0,509.3 L267.1,513.3 L264.8,512.2 L260.6,503.7 L258.9,498.5 L262.3,496.2 L257.6,495.2 L253.8,498.3 L245.7,496.9 L243.2,495.2 L245.8,491.3 L244.5,488.4 L248.3,479.2 L246.5,474.6 L242.8,474.4 L244.8,471.5 L244.9,468.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.DD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597122</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR97</fips>
+    <name>Dordogne</name>
+    <type>Metropolitan department</type>
+    <region>Aquitaine</region>
+    <longitude>0.780505</longitude>
+    <woe-name>Dordogne</woe-name>
+    <latitude>45.1592</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>fr-b-dd</hc-key>
+    <hc-a2>DD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.T.CM" d="M245.0,468.7 L244.8,471.5 L242.8,474.4 L234.8,475.6 L225.7,470.0 L222.6,469.9 L221.3,463.2 L214.5,459.3 L212.5,455.0 L205.5,456.7 L203.2,448.4 L198.6,440.9 L190.9,434.7 L190.6,432.9 L179.6,424.3 L176.6,424.1 L177.9,417.6 L182.8,416.8 L187.4,422.3 L191.2,424.3 L183.8,416.7 L182.6,411.8 L187.1,409.1 L187.6,404.3 L185.5,399.9 L188.3,400.2 L186.6,393.3 L183.9,389.0 L181.1,388.4 L182.6,382.8 L186.5,380.6 L186.3,376.4 L188.6,374.0 L194.7,372.7 L196.2,376.2 L202.6,375.6 L206.3,378.2 L206.4,382.7 L212.4,390.3 L218.3,392.3 L220.4,394.8 L233.1,398.3 L241.5,406.3 L238.7,409.6 L239.7,417.3 L235.3,421.6 L231.6,419.2 L223.6,420.5 L222.6,433.5 L229.4,438.3 L227.9,440.6 L232.1,443.3 L231.7,448.8 L228.0,453.3 L230.3,458.9 L233.3,458.3 L239.1,460.7 L238.6,464.0 L243.0,464.6 L243.5,465.6 L244.9,468.7 Z M170.4,402.5 L169.3,396.2 L175.7,400.7 L178.6,401.6 L178.8,406.2 L181.4,409.2 L179.2,415.9 L176.6,410.4 Z M164.4,383.5 L161.8,379.8 L166.7,380.3 L165.3,382.2 L175.3,384.2 L178.1,387.9 L173.6,387.3 L168.4,383.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597189</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB7</fips>
+    <name>Charente-Maritime</name>
+    <type>Metropolitan department</type>
+    <region>Poitou-Charentes</region>
+    <longitude>-0.714301</longitude>
+    <woe-name>Charente-Maritime</woe-name>
+    <latitude>45.8441</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>fr-t-cm</hc-key>
+    <hc-a2>CM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.U.AP" d="M574.3,586.0 L574.3,586.0 L568.8,579.8 L565.7,578.0 L562.0,579.5 L564.1,571.2 L559.5,567.5 L561.0,560.1 L559.0,555.3 L563.7,550.6 L568.6,552.2 L568.8,549.5 L576.0,547.6 L581.5,548.3 L576.8,542.3 L577.5,540.4 L582.1,542.8 L581.6,537.3 L584.1,532.5 L590.6,526.5 L594.2,526.0 L600.2,532.8 L601.3,526.1 L607.1,520.5 L611.2,524.8 L615.9,527.0 L622.6,526.4 L625.3,519.2 L631.3,514.2 L639.4,509.2 L640.0,511.8 L634.6,518.3 L634.3,521.8 L639.1,527.0 L636.9,528.8 L637.2,533.6 L632.8,536.7 L629.1,542.7 L627.4,550.2 L630.5,554.3 L631.4,559.3 L642.6,570.0 L634.3,569.6 L629.6,572.4 L629.2,577.5 L625.3,579.5 L624.1,578.1 L613.2,579.6 L609.1,584.4 L602.5,579.5 L589.3,590.0 L585.1,584.7 L580.2,586.3 L575.7,583.9 L574.6,585.7 L574.3,586.0 L574.3,586.0 L574.3,586.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AP</hasc>
+    <alt-name>Provenza-Alpes-Costa de Azul</alt-name>
+    <woe-id>12597191</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB8</fips>
+    <name>Alpes-de-Haute-Provence</name>
+    <type>Metropolitan department</type>
+    <region>Provence-Alpes-Côte-d'Azur</region>
+    <longitude>6.24822</longitude>
+    <woe-name>Alpes-de-Haute-Provence</woe-name>
+    <latitude>44.0454</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>fr-u-ap</hc-key>
+    <hc-a2>AP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.S.AS" d="M473.0,88.7 L476.0,90.2 L477.4,90.3 L479.2,98.3 L477.3,104.4 L478.5,108.5 L472.7,114.8 L469.0,116.7 L470.5,121.4 L469.0,127.8 L469.7,134.2 L469.3,137.5 L460.5,136.4 L459.1,139.3 L448.7,142.8 L450.3,150.6 L453.5,152.7 L451.5,155.3 L448.0,155.3 L445.5,164.1 L449.7,166.3 L441.6,175.7 L439.9,179.1 L436.7,178.9 L433.4,173.2 L431.5,173.6 L423.9,166.8 L422.0,159.7 L418.8,158.7 L421.5,154.7 L420.0,152.1 L413.4,151.9 L412.8,149.2 L415.2,144.5 L412.8,141.9 L418.3,139.1 L419.9,133.7 L423.5,132.2 L420.9,125.9 L420.2,116.3 L420.8,110.7 L419.5,105.6 L417.6,104.9 L419.0,98.3 L424.6,89.1 L422.7,85.6 L437.8,85.8 L443.2,83.1 L447.1,84.0 L449.8,82.2 L458.6,83.5 L460.3,85.2 L464.9,83.5 L466.1,87.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597170</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB6</fips>
+    <name>Aisne</name>
+    <type>Metropolitan department</type>
+    <region>Picardie</region>
+    <longitude>3.51554</longitude>
+    <woe-name>Aisne</woe-name>
+    <latitude>49.5667</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
+    <hc-key>fr-s-as</hc-key>
+    <hc-a2>AS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.N.AV" d="M434.8,551.7 L436.3,553.7 L431.1,560.3 L437.4,563.2 L440.2,567.1 L434.4,574.9 L430.5,576.2 L425.6,582.2 L417.7,582.4 L417.6,591.1 L410.8,591.7 L409.0,588.2 L404.0,586.8 L399.6,588.9 L392.3,583.3 L387.1,572.0 L387.0,568.7 L383.5,563.4 L372.9,555.7 L363.4,551.5 L356.5,554.9 L355.8,553.2 L352.4,551.6 L352.5,548.0 L355.5,544.8 L349.6,543.4 L350.5,539.6 L351.6,537.9 L347.9,527.7 L361.1,520.0 L365.5,520.5 L369.2,517.2 L374.7,513.6 L377.3,514.9 L383.5,514.2 L388.2,508.8 L391.5,500.4 L399.1,492.4 L402.3,498.3 L404.4,497.9 L409.3,506.7 L410.4,512.0 L413.5,515.7 L418.4,522.1 L420.2,529.4 L422.7,533.6 L423.0,543.0 L421.7,546.2 L427.5,549.3 L429.0,551.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597173</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB3</fips>
+    <name>Aveyron</name>
+    <type>Metropolitan department</type>
+    <region>Midi-Pyrénées</region>
+    <longitude>2.66383</longitude>
+    <woe-name>Aveyron</woe-name>
+    <latitude>44.2884</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-n-av</hc-key>
+    <hc-a2>AV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.K.GA" d="M436.3,553.7 L444.5,558.1 L450.1,557.8 L451.6,552.9 L454.4,552.7 L460.2,556.1 L465.1,556.5 L467.6,553.6 L469.9,545.9 L465.9,535.7 L471.6,530.3 L474.8,534.6 L474.6,540.4 L479.5,540.3 L486.5,544.1 L491.2,540.2 L494.8,540.3 L495.5,543.1 L498.7,539.6 L501.9,539.5 L509.9,543.7 L513.7,551.0 L514.3,559.3 L517.1,559.4 L521.4,565.0 L517.1,571.5 L509.6,576.6 L510.0,582.7 L507.7,590.6 L501.6,589.9 L497.7,596.5 L498.8,599.5 L487.2,606.6 L486.0,610.0 L480.6,607.8 L478.7,602.6 L481.7,598.6 L482.9,591.5 L480.8,587.7 L474.0,583.2 L471.4,583.0 L469.8,577.2 L462.7,577.3 L462.2,572.1 L456.3,569.4 L453.2,574.0 L449.8,574.2 L446.2,577.8 L442.2,576.1 L441.3,578.8 L438.3,575.4 L434.4,574.9 L440.2,567.1 L437.4,563.2 L431.1,560.3 L434.3,555.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.GA</hasc>
+    <alt-name>Languedoc-Rosellon</alt-name>
+    <woe-id>12597193</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA9</fips>
+    <name>Gard</name>
+    <type>Metropolitan department</type>
+    <region>Languedoc-Roussillon</region>
+    <longitude>4.18939</longitude>
+    <woe-name>Gard</woe-name>
+    <latitude>43.9914</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>fr-k-ga</hc-key>
+    <hc-a2>GA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.G.AB" d="M505.8,244.5 L501.1,245.1 L497.5,249.2 L485.9,250.9 L483.9,252.7 L480.1,248.9 L479.3,251.6 L470.4,253.0 L463.5,251.8 L462.9,248.0 L453.0,234.1 L451.0,235.7 L445.7,232.6 L447.0,226.5 L442.5,220.0 L437.1,217.6 L435.7,214.2 L436.5,205.0 L438.6,204.5 L443.2,198.0 L447.8,200.7 L448.4,203.8 L452.7,201.5 L454.4,203.8 L459.7,204.9 L460.8,201.3 L471.8,191.2 L478.0,189.9 L483.9,190.2 L485.1,197.7 L495.7,204.1 L499.6,202.3 L503.4,203.7 L502.1,210.1 L509.2,217.5 L511.7,218.5 L514.3,230.2 L512.6,237.1 L506.3,237.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AB</hasc>
+    <alt-name>Champaña-Ardenne</alt-name>
+    <woe-id>12597117</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA4</fips>
+    <name>Aube</name>
+    <type>Metropolitan department</type>
+    <region>Champagne-Ardenne</region>
+    <longitude>4.16252</longitude>
+    <woe-name>Aube</woe-name>
+    <latitude>48.3125</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-g-ab</hc-key>
+    <hc-a2>AB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.D.CO" d="M483.9,252.7 L485.9,250.9 L497.5,249.2 L501.1,245.1 L505.8,244.5 L510.9,246.4 L516.6,253.1 L521.9,261.8 L518.8,264.1 L521.1,270.4 L524.5,269.5 L527.1,272.9 L531.8,271.6 L537.8,278.2 L543.1,276.6 L548.8,277.2 L549.7,282.6 L546.0,285.8 L551.9,301.9 L550.2,309.8 L544.8,318.8 L540.8,320.9 L541.1,324.3 L537.9,327.0 L537.8,327.0 L528.5,328.8 L526.2,327.3 L519.1,329.0 L506.6,333.9 L502.2,330.1 L499.6,325.1 L493.4,323.8 L490.8,320.8 L480.6,314.3 L479.5,307.2 L475.9,306.8 L474.8,299.7 L472.6,292.9 L475.3,290.4 L475.3,286.4 L481.9,274.2 L482.6,268.0 L486.4,265.8 L485.4,259.3 L482.6,259.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CO</hasc>
+    <alt-name>Borgoña|Burgundy</alt-name>
+    <woe-id>12597144</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA1</fips>
+    <name>Côte-d'Or</name>
+    <type>Metropolitan department</type>
+    <region>Bourgogne</region>
+    <longitude>4.76991</longitude>
+    <woe-name>Côte-d'Or</woe-name>
+    <latitude>47.4003</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
+    <hc-key>fr-d-co</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.D.SL" d="M537.8,327.0 L542.4,333.1 L549.5,336.6 L543.7,341.2 L545.6,343.0 L548.2,354.7 L545.0,359.8 L548.5,365.3 L542.4,369.0 L535.0,365.2 L528.7,366.4 L521.7,365.8 L518.4,379.0 L515.5,385.5 L514.5,392.4 L510.2,391.1 L509.2,386.4 L505.5,382.4 L503.7,385.3 L492.7,383.4 L491.5,388.6 L486.3,392.9 L473.7,391.4 L469.1,392.7 L464.5,389.9 L463.8,384.9 L470.0,380.8 L468.7,369.9 L455.5,363.1 L455.6,358.3 L449.0,348.0 L455.2,346.9 L459.2,350.9 L469.4,344.7 L472.2,344.0 L472.2,339.4 L474.4,336.3 L471.9,334.2 L471.9,330.3 L469.4,326.8 L472.5,325.4 L472.6,317.4 L480.6,314.3 L490.8,320.8 L493.4,323.8 L499.6,325.1 L502.2,330.1 L506.6,333.9 L519.1,329.0 L526.2,327.3 L528.5,328.8 L537.9,327.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SL</hasc>
+    <alt-name>Borgoña|Burgundy</alt-name>
+    <woe-id>12597153</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA1</fips>
+    <name>Saône-et-Loire</name>
+    <type>Metropolitan department</type>
+    <region>Bourgogne</region>
+    <longitude>4.5138</longitude>
+    <woe-name>Saône-et-Loire</woe-name>
+    <latitude>46.6789</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>fr-d-sl</hc-key>
+    <hc-a2>SL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.F.CH" d="M373.3,373.5 L367.9,373.1 L367.0,373.3 L369.9,368.8 L368.2,362.2 L369.8,357.2 L367.6,351.6 L363.3,348.0 L365.6,345.8 L364.0,339.8 L366.9,335.6 L364.1,331.6 L365.0,327.0 L362.2,322.5 L362.8,319.2 L358.2,317.0 L353.7,318.5 L347.7,316.3 L350.5,313.4 L351.3,309.2 L355.2,308.6 L357.4,304.1 L365.6,305.4 L368.3,302.3 L366.8,298.2 L368.6,292.8 L373.6,294.1 L374.1,289.5 L371.2,283.7 L368.1,283.1 L367.7,280.0 L373.5,277.4 L380.7,279.5 L384.4,278.6 L391.1,281.4 L397.2,288.4 L400.2,285.2 L403.6,287.4 L407.8,285.6 L410.8,291.0 L407.8,300.3 L413.1,305.9 L418.4,323.6 L417.6,334.2 L418.6,337.6 L416.3,344.0 L410.8,344.6 L405.7,349.2 L399.3,348.5 L393.7,354.3 L391.3,354.7 L393.3,363.2 L381.5,365.4 L375.5,369.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597136</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA3</fips>
+    <name>Cher</name>
+    <type>Metropolitan department</type>
+    <region>Centre</region>
+    <longitude>2.51907</longitude>
+    <woe-name>Cher</woe-name>
+    <latitude>47.1356</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>fr-f-ch</hc-key>
+    <hc-a2>CH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.L.CR" d="M367.0,373.3 L367.9,373.1 L373.3,373.5 L377.6,380.8 L385.4,385.4 L390.5,396.3 L390.3,401.6 L392.0,409.5 L386.8,417.6 L381.1,420.8 L383.5,426.6 L386.0,428.3 L382.9,430.5 L379.0,430.1 L374.7,433.1 L368.3,428.9 L360.9,426.1 L357.5,430.6 L352.6,431.1 L352.2,425.0 L345.6,418.5 L337.3,418.6 L337.5,414.2 L332.4,412.7 L333.9,406.7 L330.9,395.8 L326.0,391.4 L325.0,387.4 L328.0,381.4 L326.8,378.3 L332.2,373.5 L337.8,375.9 L345.2,374.5 L346.2,370.7 L350.0,373.1 L352.8,371.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CR</hasc>
+    <alt-name>Lemosin</alt-name>
+    <woe-id>12597164</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB1</fips>
+    <name>Creuse</name>
+    <type>Metropolitan department</type>
+    <region>Limousin</region>
+    <longitude>2.04281</longitude>
+    <woe-name>Creuse</woe-name>
+    <latitude>46.0705</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>fr-l-cr</hc-key>
+    <hc-a2>CR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.R.ML" d="M240.8,315.7 L230.1,316.2 L220.2,318.0 L220.4,320.8 L215.8,323.2 L204.5,322.9 L198.6,321.8 L193.8,321.3 L187.7,318.9 L187.2,314.5 L183.6,312.2 L187.6,306.3 L186.0,301.2 L183.0,301.2 L178.8,294.8 L190.2,290.8 L201.4,290.3 L199.6,282.4 L190.8,280.9 L189.3,275.5 L194.8,276.4 L197.6,274.6 L189.7,270.7 L188.9,265.2 L185.3,262.2 L185.3,258.5 L185.9,256.2 L191.4,259.1 L199.7,260.6 L201.3,258.3 L218.8,263.8 L225.7,260.7 L230.1,262.2 L239.4,267.1 L241.5,265.9 L242.0,271.6 L244.6,273.0 L250.0,271.9 L255.7,275.4 L261.7,277.4 L265.3,276.4 L261.2,294.3 L256.7,301.4 L254.5,311.9 L250.7,311.6 L244.7,318.3 L244.7,318.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.ML</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597202</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA5</fips>
+    <name>Maine-et-Loire</name>
+    <type>Metropolitan department</type>
+    <region>Pays de la Loire</region>
+    <longitude>-0.527847</longitude>
+    <woe-name>Maine-et-Loire</woe-name>
+    <latitude>47.3771</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>fr-r-ml</hc-key>
+    <hc-a2>ML</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.T.DS" d="M240.8,315.7 L244.7,318.3 L244.7,318.3 L248.1,325.7 L251.3,337.3 L249.0,337.8 L250.2,346.1 L247.7,352.0 L250.1,357.1 L247.3,362.5 L247.8,371.1 L252.0,379.7 L256.7,376.9 L258.1,379.8 L254.0,389.2 L258.2,391.8 L258.6,396.9 L255.2,396.1 L249.6,397.8 L243.8,405.4 L241.5,406.3 L233.1,398.3 L220.4,394.8 L218.3,392.3 L212.4,390.3 L206.4,382.7 L206.3,378.2 L212.8,376.3 L217.7,373.3 L213.6,368.8 L213.6,361.4 L215.0,358.9 L213.0,347.9 L210.3,342.3 L210.7,338.3 L205.9,333.8 L204.5,328.6 L198.6,321.8 L204.5,322.9 L215.8,323.2 L220.4,320.8 L220.2,318.0 L230.1,316.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.DS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597184</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB7</fips>
+    <name>Deux-Sèvres</name>
+    <type>Metropolitan department</type>
+    <region>Poitou-Charentes</region>
+    <longitude>-0.300826</longitude>
+    <woe-name>Deux-Sèvres</woe-name>
+    <latitude>46.5681</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>fr-t-ds</hc-key>
+    <hc-a2>DS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.T.CT" d="M245.0,468.7 L244.9,468.8 L244.9,468.7 L244.7,466.0 L243.5,465.6 L238.6,464.0 L239.1,460.7 L233.3,458.3 L230.3,458.9 L228.0,453.3 L231.7,448.8 L232.1,443.3 L227.9,440.6 L229.4,438.3 L222.6,433.5 L223.6,420.5 L231.6,419.2 L235.3,421.6 L239.7,417.3 L238.7,409.6 L241.5,406.3 L243.8,405.4 L249.6,397.8 L255.2,396.1 L258.6,396.9 L263.5,399.7 L272.1,400.7 L272.3,397.3 L275.6,394.5 L278.4,397.9 L283.6,398.0 L287.7,394.4 L292.1,394.9 L292.5,400.2 L298.8,407.9 L292.4,411.8 L290.1,422.1 L287.5,421.2 L282.1,428.5 L275.3,434.3 L274.0,440.3 L269.7,446.2 L261.9,450.4 L259.3,461.2 L252.1,467.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597157</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB7</fips>
+    <name>Charente</name>
+    <type>Metropolitan department</type>
+    <region>Poitou-Charentes</region>
+    <longitude>0.154828</longitude>
+    <woe-name>Charente</woe-name>
+    <latitude>45.6998</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>fr-t-ct</hc-key>
+    <hc-a2>CT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.V.DM" d="M568.8,549.5 L568.6,552.2 L563.7,550.6 L559.0,555.3 L552.4,551.7 L551.5,549.1 L539.0,545.8 L539.5,541.8 L532.5,542.1 L518.6,546.2 L514.7,540.1 L509.8,540.1 L510.7,531.3 L513.0,520.3 L516.8,513.4 L515.9,502.5 L520.9,495.2 L522.1,490.0 L517.9,477.2 L516.9,462.4 L527.7,458.6 L536.7,465.0 L538.6,473.6 L538.0,479.1 L550.2,481.5 L553.9,478.7 L556.1,485.4 L554.7,499.7 L555.6,502.1 L559.8,501.5 L566.0,506.9 L575.0,507.5 L574.1,512.1 L566.4,513.5 L563.8,520.4 L566.7,523.7 L562.8,527.2 L556.2,526.0 L557.5,531.2 L553.8,531.2 L555.7,535.5 L565.3,540.6 L568.9,544.0 Z M528.4,540.9 L531.8,536.3 L528.8,532.0 L525.7,532.6 L523.0,537.5 L523.6,541.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.DM</hasc>
+    <alt-name>Rhone-Alpes</alt-name>
+    <woe-id>12597190</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB9</fips>
+    <name>Drôme</name>
+    <type>Metropolitan department</type>
+    <region>Rhône-Alpes</region>
+    <longitude>5.13443</longitude>
+    <woe-name>Drôme</woe-name>
+    <latitude>44.7407</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>fr-v-dm</hc-key>
+    <hc-a2>DM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.V.AH" d="M509.8,540.1 L509.9,543.7 L501.9,539.5 L498.7,539.6 L495.5,543.1 L494.8,540.3 L491.2,540.2 L486.5,544.1 L479.5,540.3 L474.6,540.4 L474.8,534.6 L471.6,530.3 L467.3,520.5 L464.3,506.9 L472.8,498.0 L480.2,496.8 L483.6,490.0 L488.2,488.7 L488.5,485.0 L491.8,484.0 L493.0,475.7 L495.0,477.2 L497.7,471.4 L497.3,467.6 L504.6,466.9 L506.6,460.3 L514.4,456.9 L514.8,459.2 L516.9,462.4 L517.9,477.2 L522.1,490.0 L520.9,495.2 L515.9,502.5 L516.8,513.4 L513.0,520.3 L510.7,531.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AH</hasc>
+    <alt-name>Rhone-Alpes</alt-name>
+    <woe-id>12597160</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB9</fips>
+    <name>Ardèche</name>
+    <type>Metropolitan department</type>
+    <region>Rhône-Alpes</region>
+    <longitude>4.4999</longitude>
+    <woe-name>Ardèche</woe-name>
+    <latitude>44.8014</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>fr-v-ah</hc-key>
+    <hc-a2>AH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.Q.EU" d="M273.4,129.9 L279.5,128.7 L283.9,125.5 L287.9,129.6 L291.1,129.7 L292.6,132.7 L300.0,131.9 L305.8,136.8 L303.3,140.4 L310.0,145.2 L313.2,141.8 L320.2,137.9 L324.0,138.3 L328.5,130.9 L330.7,130.0 L338.4,131.3 L345.5,134.7 L347.7,133.7 L350.9,146.6 L347.9,145.0 L346.4,148.1 L344.7,151.3 L342.1,159.9 L333.3,162.5 L333.3,167.9 L335.1,171.2 L332.9,176.7 L328.6,179.8 L327.0,183.2 L322.4,186.0 L314.4,184.0 L309.2,188.2 L301.9,189.7 L298.9,192.3 L294.4,188.3 L295.2,183.4 L290.9,181.0 L287.5,174.9 L278.5,174.2 L278.5,169.2 L279.3,164.8 L276.7,160.8 L279.2,154.5 L275.4,146.8 L277.0,143.8 L273.6,139.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.EU</hasc>
+    <alt-name>Alta Normand¡a|Upper Normandy</alt-name>
+    <woe-id>12597139</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA7</fips>
+    <name>Eure</name>
+    <type>Metropolitan department</type>
+    <region>Haute-Normandie</region>
+    <longitude>0.92951</longitude>
+    <woe-name>Eure</woe-name>
+    <latitude>49.0414</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>fr-q-eu</hc-key>
+    <hc-a2>EU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.ES" d="M360.6,224.7 L361.2,221.3 L357.1,211.3 L358.8,202.9 L363.1,200.6 L363.3,193.3 L366.4,191.1 L368.2,186.5 L373.7,184.9 L377.0,188.5 L378.7,187.2 L382.2,189.4 L387.9,188.4 L391.9,191.8 L389.4,196.8 L387.8,205.8 L389.4,213.5 L382.1,222.0 L378.1,220.8 L374.9,222.6 L372.3,219.9 L368.3,223.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.ES</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597118</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Essonne</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.29588</longitude>
+    <woe-name>Essonne</woe-name>
+    <latitude>48.5629</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
+    <hc-key>fr-j-es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.F.EL" d="M357.1,211.3 L361.2,221.3 L360.6,224.7 L359.9,230.8 L356.7,233.5 L353.2,239.9 L341.2,241.4 L336.1,243.2 L335.1,247.6 L332.5,246.9 L324.6,250.1 L318.5,248.7 L312.6,240.5 L310.0,239.8 L308.5,235.5 L298.4,238.0 L302.8,234.4 L296.8,230.7 L296.6,218.7 L302.3,216.9 L307.0,211.2 L305.4,203.9 L300.5,199.0 L298.9,192.3 L301.9,189.7 L309.2,188.2 L314.4,184.0 L322.4,186.0 L327.0,183.2 L328.6,179.8 L332.9,176.7 L335.1,171.2 L339.1,178.9 L338.8,183.5 L340.8,186.5 L339.1,190.2 L348.1,201.7 L350.8,209.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.EL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597129</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA3</fips>
+    <name>Eure-et-Loir</name>
+    <type>Metropolitan department</type>
+    <region>Centre</region>
+    <longitude>1.36704</longitude>
+    <woe-name>Eure-et-Loir</woe-name>
+    <latitude>48.3564</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>fr-f-el</hc-key>
+    <hc-a2>EL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.V.HS" d="M573.1,409.3 L571.9,396.8 L579.2,393.8 L587.5,392.8 L596.8,384.3 L593.4,380.0 L597.1,373.5 L601.6,375.2 L608.3,370.2 L619.2,368.6 L624.2,369.3 L622.4,374.7 L627.0,380.6 L625.2,384.5 L624.5,391.5 L629.0,392.2 L629.1,398.1 L632.7,398.0 L636.7,402.1 L639.2,407.6 L636.4,412.2 L627.2,416.1 L626.5,421.0 L622.5,424.2 L618.9,419.2 L612.6,415.4 L613.6,412.0 L610.8,410.4 L606.4,418.4 L603.2,421.6 L601.3,427.1 L596.4,428.6 L590.3,423.1 L582.8,423.9 L580.8,419.8 L576.7,418.5 L574.7,410.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HS</hasc>
+    <alt-name>Rhone-Alpes</alt-name>
+    <woe-id>12597182</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB9</fips>
+    <name>Haute-Savoie</name>
+    <type>Metropolitan department</type>
+    <region>Rhône-Alpes</region>
+    <longitude>6.51823</longitude>
+    <woe-name>Haute-Savoie</woe-name>
+    <latitude>46.0502</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>fr-v-hs</hc-key>
+    <hc-a2>HS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.HD" d="M378.7,187.2 L377.0,188.5 L373.7,184.9 L370.5,181.5 L369.8,176.3 L375.3,171.4 L378.7,170.4 L378.7,173.2 L375.9,174.9 L375.2,179.9 L379.3,181.7 L378.6,184.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>15022631</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Hauts-de-Seine</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.19706</longitude>
+    <woe-name>Hauts-de-Seine</woe-name>
+    <latitude>48.8557</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>fr-j-hd</hc-key>
+    <hc-a2>HD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.R.ST" d="M285.6,271.2 L276.7,275.2 L273.1,274.9 L272.3,278.4 L265.3,276.4 L261.7,277.4 L255.7,275.4 L250.0,271.9 L244.6,273.0 L242.0,271.6 L241.5,265.9 L239.4,267.1 L230.1,262.2 L232.3,259.2 L229.1,255.9 L231.7,254.6 L233.8,248.2 L237.8,247.0 L235.2,241.2 L239.9,239.0 L241.9,235.9 L241.6,230.5 L246.8,225.5 L246.4,216.8 L251.9,213.5 L257.2,213.9 L265.2,207.7 L269.9,206.7 L274.7,208.9 L275.4,218.2 L280.4,220.5 L281.1,223.4 L289.9,225.5 L293.0,229.9 L296.8,230.7 L302.8,234.4 L298.4,238.0 L296.4,241.2 L298.6,243.4 L298.5,249.2 L295.2,252.9 L293.0,262.5 L285.7,267.4 L285.5,270.1 L285.5,270.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.ST</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597159</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA5</fips>
+    <name>Sarthe</name>
+    <type>Metropolitan department</type>
+    <region>Pays de la Loire</region>
+    <longitude>0.170679</longitude>
+    <woe-name>Sarthe</woe-name>
+    <latitude>47.9682</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>fr-r-st</hc-key>
+    <hc-a2>ST</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.F.IL" d="M285.6,271.2 L285.5,270.1 L285.5,270.1 L286.8,269.5 L288.1,269.0 L290.5,269.8 L298.9,272.7 L299.5,277.7 L305.7,276.1 L310.0,281.3 L309.1,284.0 L312.5,290.6 L311.2,299.9 L314.6,303.6 L318.7,303.9 L323.3,311.4 L324.8,317.6 L322.7,318.0 L318.1,324.8 L313.7,323.3 L309.2,324.8 L303.5,345.4 L298.1,345.6 L295.4,343.3 L289.2,333.4 L287.1,328.1 L282.4,325.1 L281.1,328.9 L274.0,330.3 L267.1,328.6 L267.3,321.3 L261.5,320.1 L261.2,316.3 L255.8,314.6 L254.5,311.9 L256.7,301.4 L261.2,294.3 L265.3,276.4 L272.3,278.4 L273.1,274.9 L276.7,275.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.IL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597121</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA3</fips>
+    <name>Indre-et-Loire</name>
+    <type>Metropolitan department</type>
+    <region>Centre</region>
+    <longitude>0.713649</longitude>
+    <woe-name>Indre-et-Loire</woe-name>
+    <latitude>47.2903</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>fr-f-il</hc-key>
+    <hc-a2>IL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.V.IS" d="M516.9,462.4 L514.8,459.2 L514.4,456.9 L513.5,454.0 L513.7,450.6 L518.9,444.9 L519.7,442.1 L515.8,438.7 L527.7,436.8 L532.5,430.5 L535.4,429.6 L531.3,425.7 L532.2,419.6 L539.9,422.6 L547.0,414.9 L550.5,417.6 L551.7,421.7 L557.3,427.4 L560.5,432.4 L569.8,449.4 L578.7,452.8 L578.7,446.2 L582.5,445.5 L586.1,448.5 L590.6,449.0 L594.3,453.5 L594.6,457.3 L591.5,462.9 L594.0,471.6 L599.6,473.5 L597.7,483.1 L603.3,483.4 L606.1,490.3 L605.6,494.7 L592.6,495.4 L583.9,499.5 L584.0,502.0 L576.8,504.4 L575.0,507.5 L566.0,506.9 L559.8,501.5 L555.6,502.1 L554.7,499.7 L556.1,485.4 L553.9,478.7 L550.2,481.5 L538.0,479.1 L538.6,473.6 L536.7,465.0 L527.7,458.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.IS</hasc>
+    <alt-name>Rhone-Alpes</alt-name>
+    <woe-id>12597188</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB9</fips>
+    <name>Isère</name>
+    <type>Metropolitan department</type>
+    <region>Rhône-Alpes</region>
+    <longitude>5.4175</longitude>
+    <woe-name>Isère</woe-name>
+    <latitude>45.2478</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>fr-v-is</hc-key>
+    <hc-a2>IS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.I.JU" d="M587.8,359.2 L584.0,366.3 L583.9,370.6 L574.4,382.3 L566.1,383.0 L561.3,377.3 L553.9,384.2 L551.5,379.5 L546.2,376.4 L542.4,369.0 L548.5,365.3 L545.0,359.8 L548.2,354.7 L545.6,343.0 L543.7,341.2 L549.5,336.6 L542.4,333.1 L537.8,327.0 L537.9,327.0 L541.1,324.3 L540.8,320.9 L544.8,318.8 L550.2,309.8 L551.9,301.9 L555.4,303.8 L561.6,303.5 L568.3,313.8 L565.0,322.6 L576.8,326.1 L580.6,335.4 L583.8,336.2 L590.9,342.3 L584.7,348.2 L585.2,352.0 L583.0,354.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.JU</hasc>
+    <alt-name>Franco-Condado</alt-name>
+    <woe-id>12597120</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA6</fips>
+    <name>Jura</name>
+    <type>Metropolitan department</type>
+    <region>Franche-Comté</region>
+    <longitude>5.72845</longitude>
+    <woe-name>Jura Mountains</woe-name>
+    <latitude>46.732</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.64</hc-middle-y>
+    <hc-key>fr-i-ju</hc-key>
+    <hc-a2>JU</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.V.LR" d="M513.7,450.6 L513.5,454.0 L514.4,456.9 L506.6,460.3 L504.6,466.9 L497.3,467.6 L491.4,464.7 L490.9,459.9 L488.0,455.2 L485.4,456.9 L480.0,455.8 L478.2,458.3 L471.2,459.3 L469.3,457.4 L464.6,458.3 L469.1,448.3 L466.3,440.8 L459.7,435.1 L453.6,423.9 L455.4,415.7 L452.5,410.5 L460.2,406.3 L457.5,388.3 L463.8,384.9 L464.5,389.9 L469.1,392.7 L473.7,391.4 L486.3,392.9 L491.5,388.6 L494.2,394.5 L490.1,395.3 L484.7,401.4 L487.1,404.8 L484.8,409.1 L488.7,411.3 L489.6,416.4 L492.5,419.2 L489.9,425.8 L492.8,426.6 L491.2,430.7 L492.3,434.2 L498.7,439.7 L506.8,439.8 L507.7,447.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.LR</hasc>
+    <alt-name>Rhone-Alpes</alt-name>
+    <woe-id>12597165</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB9</fips>
+    <name>Loire</name>
+    <type>Metropolitan department</type>
+    <region>Rhône-Alpes</region>
+    <longitude>4.16239</longitude>
+    <woe-name>Loire</woe-name>
+    <latitude>45.706</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>fr-v-lr</hc-key>
+    <hc-a2>LR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.N.LO" d="M361.2,488.9 L363.1,497.7 L366.7,505.0 L365.1,511.1 L369.2,517.2 L365.5,520.5 L361.1,520.0 L347.9,527.7 L351.6,537.9 L350.5,539.6 L343.9,540.5 L337.3,544.7 L332.7,543.0 L331.0,547.8 L326.9,543.7 L320.5,548.7 L316.2,547.5 L316.9,544.7 L308.2,541.7 L307.3,535.3 L303.6,535.7 L303.6,535.7 L303.6,535.6 L301.0,522.1 L304.7,520.0 L310.5,512.2 L317.0,508.8 L320.9,501.8 L325.8,495.7 L325.2,487.7 L327.2,485.2 L331.2,482.9 L335.8,484.2 L341.6,489.9 L346.4,492.1 L352.6,489.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.LO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597172</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB3</fips>
+    <name>Lot</name>
+    <type>Metropolitan department</type>
+    <region>Midi-Pyrénées</region>
+    <longitude>1.61079</longitude>
+    <woe-name>Lot</woe-name>
+    <latitude>44.6327</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>fr-n-lo</hc-key>
+    <hc-a2>LO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.N.TG" d="M307.3,535.3 L308.2,541.7 L316.9,544.7 L316.2,547.5 L320.5,548.7 L326.9,543.7 L331.0,547.8 L332.7,543.0 L337.3,544.7 L343.9,540.5 L350.5,539.6 L349.6,543.4 L355.5,544.8 L352.5,548.0 L352.4,551.6 L355.8,553.2 L348.6,555.0 L344.2,559.0 L338.9,556.7 L336.9,558.8 L339.5,564.1 L331.1,573.0 L325.1,575.8 L320.6,575.6 L316.2,578.1 L319.6,580.6 L313.0,584.2 L308.4,580.8 L296.1,582.8 L293.5,580.4 L291.7,572.1 L285.2,569.9 L290.5,563.7 L288.8,561.3 L285.6,563.1 L284.4,560.1 L289.0,553.6 L293.4,553.7 L296.5,543.4 L293.3,540.7 L295.3,535.4 L298.1,536.8 L303.6,535.7 L303.6,535.7 L303.6,535.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.TG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597168</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB3</fips>
+    <name>Tarn-et-Garonne</name>
+    <type>Metropolitan department</type>
+    <region>Midi-Pyrénées</region>
+    <longitude>1.23277</longitude>
+    <woe-name>Tarn-et-Garonne</woe-name>
+    <latitude>44.0657</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>fr-n-tg</hc-key>
+    <hc-a2>TG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.B.LG" d="M303.6,535.7 L298.1,536.8 L295.3,535.4 L293.3,540.7 L296.5,543.4 L293.4,553.7 L289.0,553.6 L284.4,560.1 L279.6,562.3 L275.8,559.4 L268.5,560.5 L259.6,564.8 L254.3,563.0 L250.4,566.9 L246.3,566.9 L245.0,562.2 L249.6,555.0 L234.4,551.6 L234.0,545.7 L240.2,541.9 L237.5,536.2 L243.4,534.8 L242.6,523.3 L247.7,519.7 L253.0,513.4 L249.8,507.5 L260.6,503.7 L264.8,512.2 L267.1,513.3 L277.0,509.3 L282.5,511.5 L288.7,510.2 L290.9,511.4 L289.9,515.4 L293.1,517.3 L298.8,514.7 L304.7,520.0 L301.0,522.1 L303.6,535.6 L303.6,535.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.LG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597143</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR97</fips>
+    <name>Lot-et-Garonne</name>
+    <type>Metropolitan department</type>
+    <region>Aquitaine</region>
+    <longitude>0.449742</longitude>
+    <woe-name>Lot-et-Garonne</woe-name>
+    <latitude>44.3829</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>fr-b-lg</hc-key>
+    <hc-a2>LG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.E.IV" d="M185.9,256.2 L185.3,258.5 L174.2,254.4 L166.9,257.8 L161.6,262.1 L155.0,263.8 L151.8,262.8 L143.1,264.6 L139.4,267.6 L137.8,260.9 L141.0,257.7 L142.0,250.6 L139.4,250.2 L140.1,242.5 L137.0,239.1 L131.6,237.1 L136.1,233.6 L131.4,226.8 L135.0,223.7 L138.9,217.1 L144.1,214.7 L148.5,216.2 L151.6,209.6 L150.9,204.9 L153.5,198.5 L151.6,195.6 L147.9,187.0 L150.9,183.3 L158.1,182.1 L157.9,189.2 L164.0,190.2 L171.2,188.5 L173.9,197.6 L177.9,203.1 L181.5,202.9 L187.9,198.0 L197.7,201.5 L197.4,216.0 L195.5,220.0 L196.8,227.5 L196.4,234.2 L197.6,241.4 L190.6,244.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.IV</hasc>
+    <alt-name>Bretaña|Brittany</alt-name>
+    <woe-id>12597138</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA2</fips>
+    <name>Ille-et-Vilaine</name>
+    <type>Metropolitan department</type>
+    <region>Bretagne</region>
+    <longitude>-1.65623</longitude>
+    <woe-name>Ille-et-Vilaine</woe-name>
+    <latitude>48.1428</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>fr-e-iv</hc-key>
+    <hc-a2>IV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.M.MS" d="M539.0,116.5 L542.2,121.4 L543.8,125.4 L543.3,128.4 L545.7,132.3 L552.6,129.9 L556.6,134.0 L558.9,141.4 L557.4,147.7 L559.4,149.0 L559.7,155.8 L562.2,155.5 L564.1,159.9 L563.1,165.2 L564.5,168.9 L560.2,172.0 L561.2,174.7 L560.6,182.2 L558.8,186.2 L560.9,194.4 L559.2,197.6 L561.7,204.8 L559.2,207.6 L545.4,211.6 L539.3,205.3 L530.8,202.2 L522.7,196.3 L520.2,190.4 L519.6,185.8 L516.0,182.9 L516.1,175.6 L520.2,171.4 L521.7,164.8 L519.2,162.0 L517.3,152.6 L518.3,147.0 L521.9,143.3 L521.4,139.2 L525.0,131.9 L522.6,125.6 L524.0,120.6 L534.5,121.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.MS</hasc>
+    <alt-name>Lorena</alt-name>
+    <woe-id>12597167</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB2</fips>
+    <name>Meuse</name>
+    <type>Metropolitan department</type>
+    <region>Lorraine</region>
+    <longitude>5.50884</longitude>
+    <woe-name>Meuse</woe-name>
+    <latitude>48.9505</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>fr-m-ms</hc-key>
+    <hc-a2>MS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.D.NI" d="M474.8,299.7 L475.9,306.8 L479.5,307.2 L480.6,314.3 L472.6,317.4 L472.5,325.4 L469.4,326.8 L471.9,330.3 L471.9,334.2 L474.4,336.3 L472.2,339.4 L472.2,344.0 L469.4,344.7 L459.2,350.9 L455.2,346.9 L449.0,348.0 L445.4,352.6 L440.0,355.1 L438.5,350.7 L434.9,352.3 L426.5,352.3 L417.5,347.2 L416.3,344.0 L418.6,337.6 L417.6,334.2 L418.4,323.6 L413.1,305.9 L407.8,300.3 L410.8,291.0 L407.8,285.6 L407.0,283.7 L413.0,281.8 L420.0,280.9 L422.5,285.2 L432.6,288.7 L437.1,286.5 L441.1,287.7 L441.3,282.4 L446.5,289.9 L458.3,296.1 L460.6,292.6 L462.7,297.6 L466.3,295.5 L467.8,300.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.NI</hasc>
+    <alt-name>Borgoña|Burgundy</alt-name>
+    <woe-id>12597128</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA1</fips>
+    <name>Nièvre</name>
+    <type>Metropolitan department</type>
+    <region>Bourgogne</region>
+    <longitude>3.56837</longitude>
+    <woe-name>Nièvre</woe-name>
+    <latitude>47.1505</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>fr-d-ni</hc-key>
+    <hc-a2>NI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.F.LT" d="M413.0,281.8 L407.0,283.7 L407.8,285.6 L403.6,287.4 L400.2,285.2 L397.2,288.4 L391.1,281.4 L384.4,278.6 L380.7,279.5 L373.5,277.4 L369.9,272.8 L359.0,273.7 L353.1,270.8 L350.8,275.3 L346.1,272.6 L345.4,268.7 L340.6,265.5 L339.0,267.7 L336.3,264.9 L335.6,260.4 L338.1,257.3 L335.9,252.4 L337.7,249.2 L335.1,247.6 L336.1,243.2 L341.2,241.4 L353.2,239.9 L356.7,233.5 L359.9,230.8 L360.6,224.7 L368.3,223.0 L372.3,219.9 L374.9,222.6 L378.1,220.8 L382.1,222.0 L384.5,227.1 L388.6,230.6 L387.7,234.9 L385.2,236.4 L397.7,237.4 L403.3,234.4 L405.3,236.7 L410.6,234.8 L415.1,235.9 L417.0,241.1 L420.7,245.2 L419.2,251.3 L414.2,255.2 L414.6,263.1 L405.7,267.3 L405.8,270.0 L410.0,273.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.LT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597141</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA3</fips>
+    <name>Loiret</name>
+    <type>Metropolitan department</type>
+    <region>Centre</region>
+    <longitude>2.19238</longitude>
+    <woe-name>Loiret</woe-name>
+    <latitude>47.9007</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-f-lt</hc-key>
+    <hc-a2>LT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.VP" d="M379.3,181.7 L375.2,179.9 L375.9,174.9 L381.7,175.0 L386.8,178.4 L385.2,181.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VP</hasc>
+    <alt-name>Ville de Paris</alt-name>
+    <woe-id>12597155</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Paris</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.34347</longitude>
+    <woe-name>Paris</woe-name>
+    <latitude>48.8594</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>fr-j-vp</hc-key>
+    <hc-a2>VP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.L.CZ" d="M386.0,428.3 L387.8,435.2 L384.6,440.4 L387.5,448.8 L385.8,455.4 L380.3,454.1 L377.8,459.9 L369.1,469.1 L369.7,474.3 L364.4,482.3 L365.3,487.6 L361.2,488.9 L352.6,489.4 L346.4,492.1 L341.6,489.9 L335.8,484.2 L331.2,482.9 L327.2,485.2 L324.2,480.7 L324.1,476.2 L317.8,474.5 L315.2,470.0 L317.6,465.9 L315.9,461.0 L320.3,456.2 L317.3,455.0 L316.4,450.5 L319.4,446.7 L325.1,444.2 L327.2,439.7 L334.1,441.8 L346.7,432.5 L351.4,433.3 L352.6,431.1 L357.5,430.6 L360.9,426.1 L368.3,428.9 L374.7,433.1 L379.0,430.1 L382.9,430.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CZ</hasc>
+    <alt-name>Lemosin</alt-name>
+    <woe-id>12597163</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB1</fips>
+    <name>Corrèze</name>
+    <type>Metropolitan department</type>
+    <region>Limousin</region>
+    <longitude>1.90105</longitude>
+    <woe-name>Corrèze</woe-name>
+    <latitude>45.355</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>fr-l-cz</hc-key>
+    <hc-a2>CZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.C.PD" d="M387.5,448.8 L384.6,440.4 L387.8,435.2 L386.0,428.3 L383.5,426.6 L381.1,420.8 L386.8,417.6 L392.0,409.5 L390.3,401.6 L390.5,396.3 L396.7,396.1 L400.4,389.5 L404.4,391.1 L404.6,387.9 L408.5,386.4 L410.4,393.3 L415.6,399.1 L419.7,398.3 L422.8,401.9 L427.6,401.4 L433.1,403.7 L439.0,401.5 L440.1,406.9 L447.2,406.8 L452.5,410.5 L455.4,415.7 L453.6,423.9 L459.7,435.1 L466.3,440.8 L469.1,448.3 L464.6,458.3 L460.0,456.2 L458.6,458.5 L453.5,457.6 L448.9,458.8 L443.1,453.9 L436.9,455.1 L434.0,453.5 L425.9,458.5 L420.5,458.9 L414.4,464.2 L409.0,457.4 L405.3,455.5 L397.9,456.2 L395.9,452.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.PD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597146</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR98</fips>
+    <name>Puy-de-Dôme</name>
+    <type>Metropolitan department</type>
+    <region>Auvergne</region>
+    <longitude>3.26844</longitude>
+    <woe-name>Puy-de-Dôme</woe-name>
+    <latitude>45.8135</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>fr-c-pd</hc-key>
+    <hc-a2>PD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.N.GE" d="M233.8,597.8 L228.4,596.5 L226.5,596.6 L224.8,593.6 L229.4,584.5 L230.3,576.3 L228.2,572.3 L231.6,569.2 L235.4,569.6 L240.0,566.3 L240.7,570.1 L244.4,571.6 L246.3,566.9 L250.4,566.9 L254.3,563.0 L259.6,564.8 L268.5,560.5 L275.8,559.4 L279.6,562.3 L284.4,560.1 L285.6,563.1 L288.8,561.3 L290.5,563.7 L285.2,569.9 L291.7,572.1 L293.5,580.4 L296.1,582.8 L302.4,592.3 L309.6,598.2 L306.0,603.1 L302.4,602.9 L300.2,607.8 L299.4,615.6 L296.8,616.7 L292.9,613.1 L285.7,612.4 L278.2,619.4 L274.9,620.3 L260.0,616.9 L256.7,614.3 L251.0,614.7 L248.1,611.4 L247.2,603.9 L241.5,601.3 L240.0,595.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.GE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597194</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB3</fips>
+    <name>Gers</name>
+    <type>Metropolitan department</type>
+    <region>Midi-Pyrénées</region>
+    <longitude>0.537496</longitude>
+    <woe-name>Gers</woe-name>
+    <latitude>43.6809</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>fr-n-ge</hc-key>
+    <hc-a2>GE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.B.PA" d="M226.5,596.6 L228.4,596.5 L233.8,597.8 L237.3,602.2 L238.9,607.3 L236.9,610.3 L240.3,610.3 L240.9,617.0 L237.8,619.2 L237.7,623.7 L234.3,630.1 L227.6,636.3 L227.8,639.9 L221.5,644.4 L219.7,651.3 L220.1,656.9 L213.0,659.8 L206.6,658.2 L203.6,659.0 L200.0,654.6 L195.3,652.1 L193.8,646.5 L180.8,645.1 L178.1,642.6 L171.1,640.7 L163.9,637.1 L159.8,633.1 L157.5,638.1 L151.6,633.6 L155.4,629.5 L157.2,621.0 L148.3,617.2 L143.5,619.2 L141.7,615.2 L137.3,616.0 L134.6,611.9 L135.0,608.3 L142.8,607.6 L146.8,604.4 L152.0,597.0 L156.1,600.4 L163.4,600.0 L171.9,597.0 L172.8,602.0 L177.1,599.6 L180.4,601.4 L182.9,598.0 L186.3,599.1 L193.7,596.8 L198.5,598.6 L207.4,599.3 L212.8,595.8 L214.9,598.9 Z M234.4,617.6 L235.9,614.5 L233.9,613.0 L232.9,615.9 Z M233.0,624.0 L234.6,622.1 L232.8,619.4 L231.4,623.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.PA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597114</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR97</fips>
+    <name>Pyrénées-Atlantiques</name>
+    <type>Metropolitan department</type>
+    <region>Aquitaine</region>
+    <longitude>-0.7499900000000001</longitude>
+    <woe-name>Pyrénées-Atlantiques</woe-name>
+    <latitude>43.259</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
+    <hc-key>fr-b-pa</hc-key>
+    <hc-a2>PA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.SE" d="M382.1,222.0 L389.4,213.5 L387.8,205.8 L389.4,196.8 L391.9,191.8 L393.4,187.3 L393.1,182.6 L392.0,178.5 L393.1,172.5 L391.1,166.3 L391.8,164.8 L392.7,160.4 L395.0,159.3 L401.3,161.7 L403.3,160.3 L413.5,160.9 L418.8,158.7 L422.0,159.7 L423.9,166.8 L431.5,173.6 L433.4,173.2 L436.7,178.9 L439.9,179.1 L436.3,182.1 L435.7,187.1 L438.5,189.2 L439.4,196.0 L443.2,198.0 L438.6,204.5 L436.5,205.0 L435.7,214.2 L433.5,217.2 L416.9,218.3 L416.2,225.8 L411.8,230.8 L410.6,234.8 L405.3,236.7 L403.3,234.4 L397.7,237.4 L385.2,236.4 L387.7,234.9 L388.6,230.6 L384.5,227.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597137</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Seine-et-Marne</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.84201</longitude>
+    <woe-name>Seine-et-Marne</woe-name>
+    <latitude>48.5515</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>fr-j-se</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.SS" d="M386.8,178.4 L381.7,175.0 L375.9,174.9 L378.7,173.2 L378.7,170.4 L385.2,170.7 L391.1,166.3 L393.1,172.5 L392.0,178.5 L393.1,182.6 L389.0,179.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597156</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Seine-Saint-Denis</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.51916</longitude>
+    <woe-name>Seine-Saint-Denis</woe-name>
+    <latitude>48.9289</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
+    <hc-key>fr-j-ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.S.SO" d="M419.2,83.1 L419.4,83.3 L422.7,85.6 L424.6,89.1 L419.0,98.3 L417.6,104.9 L419.5,105.6 L420.8,110.7 L416.0,112.3 L408.6,110.5 L404.1,117.4 L398.9,117.4 L396.6,120.9 L394.3,118.2 L375.1,111.1 L366.1,112.1 L361.3,109.6 L355.2,110.6 L354.3,107.5 L350.0,105.4 L346.4,95.5 L338.1,86.3 L330.8,81.0 L335.6,75.8 L336.8,71.5 L340.4,69.0 L345.4,71.6 L346.0,68.9 L339.8,64.2 L340.4,58.5 L342.7,56.6 L347.0,59.4 L354.2,58.3 L357.6,61.6 L366.2,66.9 L369.0,70.6 L375.6,70.1 L380.4,68.0 L387.3,71.5 L382.4,76.1 L384.0,79.5 L386.7,76.8 L398.7,80.9 L399.7,76.8 L401.9,79.2 L402.6,84.1 L405.5,81.7 L407.0,85.5 L412.8,84.1 L414.1,81.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597178</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB6</fips>
+    <name>Somme</name>
+    <type>Metropolitan department</type>
+    <region>Picardie</region>
+    <longitude>2.36029</longitude>
+    <woe-name>Somme</woe-name>
+    <latitude>49.8757</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>fr-s-so</hc-key>
+    <hc-a2>SO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.I.TB" d="M639.3,282.2 L632.0,281.7 L628.5,287.7 L625.5,277.8 L620.8,277.2 L617.7,265.2 L617.8,262.1 L621.3,256.2 L621.7,256.4 L623.1,256.5 L624.0,258.7 L633.3,264.3 L633.1,273.9 L635.5,274.2 L639.4,278.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.TB</hasc>
+    <alt-name>Franco-Condado</alt-name>
+    <woe-id>12597154</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA6</fips>
+    <name>Territoire de Belfort</name>
+    <type>Metropolitan department</type>
+    <region>Franche-Comté</region>
+    <longitude>6.93675</longitude>
+    <woe-name>Belfort</woe-name>
+    <latitude>47.6568</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.16</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>fr-i-tb</hc-key>
+    <hc-a2>TB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.I.HN" d="M621.3,256.2 L617.8,262.1 L617.7,265.2 L620.8,277.2 L609.5,279.7 L607.4,283.6 L600.3,281.7 L594.0,284.0 L591.7,289.3 L588.5,289.3 L581.8,295.5 L573.8,296.8 L563.4,303.5 L561.6,303.5 L555.4,303.8 L551.9,301.9 L546.0,285.8 L549.7,282.6 L548.8,277.2 L543.1,276.6 L545.5,271.5 L549.8,270.5 L554.5,272.3 L560.5,269.3 L561.0,259.6 L566.5,255.4 L570.1,249.7 L573.4,245.8 L574.4,248.9 L579.5,243.6 L583.6,243.7 L589.1,249.0 L596.0,247.0 L602.9,250.6 L607.0,250.1 L608.9,247.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HN</hasc>
+    <alt-name>Franco-Condado</alt-name>
+    <woe-id>12597119</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA6</fips>
+    <name>Haute-Saône</name>
+    <type>Metropolitan department</type>
+    <region>Franche-Comté</region>
+    <longitude>6.16722</longitude>
+    <woe-name>Haute-Saône</woe-name>
+    <latitude>47.6973</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>fr-i-hn</hc-key>
+    <hc-a2>HN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.VO" d="M392.7,160.4 L391.8,164.8 L391.1,166.3 L385.2,170.7 L378.7,170.4 L375.3,171.4 L369.8,176.3 L369.1,171.9 L371.3,168.2 L365.8,167.3 L363.2,171.4 L360.8,166.1 L355.7,166.9 L352.7,160.9 L347.5,162.9 L342.1,159.9 L344.7,151.3 L346.4,148.1 L348.4,151.5 L356.1,153.3 L366.4,150.0 L374.6,153.9 L379.7,152.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597124</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Val-d'Oise</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.23366</longitude>
+    <woe-name>Val-d'Oise</woe-name>
+    <latitude>49.0754</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>fr-j-vo</hc-key>
+    <hc-a2>VO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.VM" d="M391.9,191.8 L387.9,188.4 L382.2,189.4 L378.7,187.2 L378.6,184.4 L379.3,181.7 L385.2,181.8 L386.8,178.4 L389.0,179.1 L393.1,182.6 L393.4,187.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597151</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Val-de-Marne</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.5155</longitude>
+    <woe-name>Val-de-Marne</woe-name>
+    <latitude>48.7752</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.10</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
+    <hc-key>fr-j-vm</hc-key>
+    <hc-a2>VM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.T.VN" d="M244.7,318.3 L244.7,318.3 L250.7,311.6 L254.5,311.9 L255.8,314.6 L261.2,316.3 L261.5,320.1 L267.3,321.3 L267.1,328.6 L274.0,330.3 L281.1,328.9 L282.4,325.1 L287.1,328.1 L289.2,333.4 L295.4,343.3 L298.1,345.6 L299.8,348.9 L299.7,356.5 L306.3,363.2 L309.8,363.2 L314.7,371.9 L313.7,375.1 L306.5,377.6 L303.0,383.2 L297.7,383.8 L291.9,388.1 L293.8,394.4 L292.1,394.9 L287.7,394.4 L283.6,398.0 L278.4,397.9 L275.6,394.5 L272.3,397.3 L272.1,400.7 L263.5,399.7 L258.6,396.9 L258.2,391.8 L254.0,389.2 L258.1,379.8 L256.7,376.9 L252.0,379.7 L247.8,371.1 L247.3,362.5 L250.1,357.1 L247.7,352.0 L250.2,346.1 L249.0,337.8 L251.3,337.3 L248.1,325.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597161</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB7</fips>
+    <name>Vienne</name>
+    <type>Metropolitan department</type>
+    <region>Poitou-Charentes</region>
+    <longitude>0.412746</longitude>
+    <woe-name>Vienne</woe-name>
+    <latitude>46.5338</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>fr-t-vn</hc-key>
+    <hc-a2>VN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.M.VG" d="M623.1,256.5 L621.7,256.4 L621.3,256.2 L608.9,247.4 L607.0,250.1 L602.9,250.6 L596.0,247.0 L589.1,249.0 L583.6,243.7 L579.5,243.6 L574.4,248.9 L573.4,245.8 L570.1,249.7 L565.0,247.4 L564.3,242.7 L557.2,236.7 L559.7,227.7 L555.5,222.3 L552.7,222.2 L548.4,217.0 L544.4,218.2 L545.4,211.6 L559.2,207.6 L561.7,204.8 L568.7,205.3 L568.1,211.6 L573.4,215.5 L580.9,214.9 L582.3,211.2 L588.2,211.2 L589.5,208.4 L592.1,210.9 L601.2,209.8 L606.5,205.2 L609.8,208.7 L617.5,210.5 L621.7,208.4 L630.2,200.0 L632.0,199.5 L634.2,202.6 L633.9,214.0 L639.3,216.8 L632.8,229.2 L633.6,231.4 L629.9,240.8 L627.4,244.4 L625.5,251.2 L626.0,254.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VG</hasc>
+    <alt-name>Lorena</alt-name>
+    <woe-id>12597174</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB2</fips>
+    <name>Vosges</name>
+    <type>Metropolitan department</type>
+    <region>Lorraine</region>
+    <longitude>6.67053</longitude>
+    <woe-name>Vosges</woe-name>
+    <latitude>48.2445</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>fr-m-vg</hc-key>
+    <hc-a2>VG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.YV" d="M369.8,176.3 L370.5,181.5 L373.7,184.9 L368.2,186.5 L366.4,191.1 L363.3,193.3 L363.1,200.6 L358.8,202.9 L357.1,211.3 L350.8,209.3 L348.1,201.7 L339.1,190.2 L340.8,186.5 L338.8,183.5 L339.1,178.9 L335.1,171.2 L333.3,167.9 L333.3,162.5 L342.1,159.9 L347.5,162.9 L352.7,160.9 L355.7,166.9 L360.8,166.1 L363.2,171.4 L365.8,167.3 L371.3,168.2 L369.1,171.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.YV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597126</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Yvelines</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>1.90058</longitude>
+    <woe-name>Yvelines</woe-name>
+    <latitude>48.8191</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
+    <hc-key>fr-j-yv</hc-key>
+    <hc-a2>YV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.U.BD" d="M574.3,586.0 L574.3,586.0 L574.3,586.0 L574.3,586.0 L574.3,586.0 L575.7,587.3 L577.9,589.3 L576.4,590.3 L571.8,593.2 L570.5,598.0 L573.1,600.5 L572.6,606.5 L576.6,611.7 L571.0,612.8 L571.7,619.6 L575.9,622.2 L572.0,625.8 L571.0,630.3 L567.5,632.0 L563.1,628.4 L551.9,628.0 L553.1,623.6 L551.1,618.6 L548.5,616.9 L545.3,619.2 L535.2,619.5 L531.6,615.3 L534.5,612.0 L541.3,611.3 L544.0,605.2 L540.7,607.0 L537.1,603.0 L532.6,601.1 L531.5,604.4 L534.8,609.6 L532.8,612.4 L527.0,610.7 L521.5,615.5 L520.8,618.3 L511.8,618.4 L506.0,616.7 L506.7,611.9 L502.8,609.9 L496.7,610.7 L486.0,610.0 L487.2,606.6 L498.8,599.5 L497.7,596.5 L501.6,589.9 L507.7,590.6 L510.0,582.7 L509.6,576.6 L517.1,571.5 L528.5,576.5 L535.5,582.8 L541.7,585.6 L550.1,586.1 L554.7,589.6 L564.5,591.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.BD</hasc>
+    <alt-name>Provenza-Alpes-Costa de Azul</alt-name>
+    <woe-id>12597199</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB8</fips>
+    <name>Bouches-du-Rhône</name>
+    <type>Metropolitan department</type>
+    <region>Provence-Alpes-Côte-d'Azur</region>
+    <longitude>5.40444</longitude>
+    <woe-name>Bouches-du-Rhône</woe-name>
+    <latitude>43.5324</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>fr-u-bd</hc-key>
+    <hc-a2>BD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.F.LC" d="M285.5,270.1 L285.5,270.1 L285.7,267.4 L293.0,262.5 L295.2,252.9 L298.5,249.2 L298.6,243.4 L296.4,241.2 L298.4,238.0 L308.5,235.5 L310.0,239.8 L312.6,240.5 L318.5,248.7 L324.6,250.1 L332.5,246.9 L335.1,247.6 L337.7,249.2 L335.9,252.4 L338.1,257.3 L335.6,260.4 L336.3,264.9 L339.0,267.7 L340.6,265.5 L345.4,268.7 L346.1,272.6 L350.8,275.3 L353.1,270.8 L359.0,273.7 L369.9,272.8 L373.5,277.4 L367.7,280.0 L368.1,283.1 L371.2,283.7 L374.1,289.5 L373.6,294.1 L368.6,292.8 L366.8,298.2 L368.3,302.3 L365.6,305.4 L357.4,304.1 L355.2,308.6 L351.3,309.2 L345.2,303.5 L338.6,303.8 L334.2,308.4 L328.7,308.3 L323.3,311.4 L318.7,303.9 L314.6,303.6 L311.2,299.9 L312.5,290.6 L309.1,284.0 L310.0,281.3 L305.7,276.1 L299.5,277.7 L298.9,272.7 L292.6,269.9 L290.5,269.8 L286.8,269.5 L286.0,269.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.LC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597147</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA3</fips>
+    <name>Loir-et-Cher</name>
+    <type>Metropolitan department</type>
+    <region>Centre</region>
+    <longitude>1.59234</longitude>
+    <woe-name>Loir-et-Cher</woe-name>
+    <latitude>47.5484</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
+    <hc-key>fr-f-lc</hc-key>
+    <hc-a2>LC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.E.FI" d="M61.4,247.8 L61.9,250.4 L53.1,247.8 L45.3,246.8 L41.4,239.4 L35.7,241.5 L32.1,239.2 L25.2,244.8 L17.3,243.7 L19.1,239.3 L15.2,229.9 L10.3,225.3 L0.0,223.1 L2.6,221.2 L20.2,219.1 L24.0,220.0 L24.0,212.9 L16.1,207.9 L11.7,212.8 L11.1,206.3 L7.3,205.6 L12.0,203.0 L19.4,205.0 L30.9,205.2 L23.8,202.8 L27.0,199.8 L17.1,200.5 L22.6,195.5 L19.0,195.7 L8.3,199.1 L4.6,197.6 L1.0,198.9 L0.1,192.7 L1.2,186.8 L4.6,181.0 L8.9,180.3 L13.5,176.9 L21.9,176.6 L25.6,174.1 L27.2,177.3 L36.9,173.6 L45.5,171.7 L46.0,177.8 L48.4,176.1 L51.2,180.5 L54.2,172.4 L62.9,176.8 L62.5,181.7 L65.6,188.9 L63.8,193.1 L64.9,198.3 L62.2,200.6 L64.8,202.9 L66.2,209.0 L63.4,217.3 L55.4,220.1 L53.9,223.3 L58.7,233.3 L62.9,233.1 L71.0,236.8 L70.6,242.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.FI</hasc>
+    <alt-name>Bretaña|Brittany</alt-name>
+    <woe-id>12591797</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA2</fips>
+    <name>Finistère</name>
+    <type>Metropolitan department</type>
+    <region>Bretagne</region>
+    <longitude>-3.92644</longitude>
+    <woe-name>Finistère</woe-name>
+    <latitude>48.3309</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>fr-e-fi</hc-key>
+    <hc-a2>FI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.P.MH" d="M173.9,197.6 L171.2,188.5 L175.9,189.3 L182.8,187.7 L175.8,184.0 L173.6,180.2 L173.3,170.0 L175.4,157.6 L173.5,158.9 L172.5,151.6 L173.4,141.8 L168.1,132.4 L162.9,127.4 L163.3,123.5 L160.2,116.4 L162.5,113.3 L161.6,106.0 L157.8,104.5 L158.6,100.8 L164.8,103.9 L175.7,107.7 L180.2,107.1 L186.7,103.5 L192.9,105.0 L194.8,111.1 L190.4,116.1 L196.1,126.7 L196.0,132.6 L199.2,133.6 L198.7,139.2 L204.4,145.8 L208.9,145.0 L211.3,159.9 L204.7,165.4 L201.6,164.8 L201.6,169.1 L195.5,175.5 L200.7,179.5 L205.4,179.1 L211.4,181.9 L216.6,187.5 L213.5,197.5 L209.2,201.9 L202.1,202.2 L197.7,201.5 L187.9,198.0 L181.5,202.9 L177.9,203.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.MH</hasc>
+    <alt-name>Baja Normand¡a|Lower Normandy</alt-name>
+    <woe-id>12591801</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR99</fips>
+    <name>Manche</name>
+    <type>Metropolitan department</type>
+    <region>Basse-Normandie</region>
+    <longitude>-1.34727</longitude>
+    <woe-name>Manche</woe-name>
+    <latitude>49.1637</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>fr-p-mh</hc-key>
+    <hc-a2>MH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.G.AN" d="M477.4,90.3 L480.6,89.8 L488.8,91.9 L500.1,87.1 L501.3,79.5 L506.6,73.8 L510.9,74.8 L506.9,88.1 L509.9,91.4 L509.7,98.2 L510.9,103.0 L515.7,102.1 L522.6,105.4 L528.5,110.9 L531.9,110.1 L534.1,116.3 L539.0,116.5 L534.5,121.4 L524.0,120.6 L522.6,125.6 L525.0,131.9 L521.4,139.2 L521.9,143.3 L518.3,147.0 L516.3,145.5 L510.9,147.1 L504.9,146.0 L500.4,147.5 L495.8,143.4 L488.7,143.9 L477.1,135.1 L469.7,134.2 L469.0,127.8 L470.5,121.4 L469.0,116.7 L472.7,114.8 L478.5,108.5 L477.3,104.4 L479.2,98.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AN</hasc>
+    <alt-name>Champaña-Ardenne</alt-name>
+    <woe-id>12597142</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA4</fips>
+    <name>Ardennes</name>
+    <type>Metropolitan department</type>
+    <region>Champagne-Ardenne</region>
+    <longitude>4.62417</longitude>
+    <woe-name>Ardennes</woe-name>
+    <latitude>49.5403</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>fr-g-an</hc-key>
+    <hc-a2>AN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.N.AG" d="M341.4,681.2 L339.1,677.8 L332.4,677.0 L328.6,674.5 L324.1,675.0 L321.8,678.7 L315.5,669.1 L304.6,668.7 L300.8,663.8 L292.2,662.9 L288.4,660.6 L287.2,654.8 L290.5,648.9 L296.8,646.6 L297.2,638.2 L300.7,634.9 L305.6,633.7 L311.6,639.0 L314.5,636.3 L310.7,633.5 L311.4,631.3 L319.5,629.0 L315.7,622.3 L319.6,622.6 L323.4,629.3 L326.3,628.3 L327.9,622.7 L335.6,626.7 L338.8,625.3 L339.7,632.0 L342.9,634.5 L351.6,637.5 L353.7,641.3 L355.3,650.0 L352.4,652.0 L354.5,657.7 L347.8,661.5 L350.6,666.2 L355.2,668.3 L359.0,667.3 L364.9,671.6 L365.4,673.8 L355.9,674.3 L351.9,681.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AG</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597197</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB3</fips>
+    <name>Ariège</name>
+    <type>Metropolitan department</type>
+    <region>Midi-Pyrénées</region>
+    <longitude>1.53654</longitude>
+    <woe-name>Ariège</woe-name>
+    <latitude>42.9046</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
+    <hc-key>fr-n-ag</hc-key>
+    <hc-a2>AG</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.A.BR" d="M659.0,156.8 L665.7,155.4 L674.1,156.0 L682.8,159.9 L688.7,161.1 L684.3,172.5 L677.6,178.0 L676.7,181.7 L669.9,190.0 L670.5,197.6 L668.6,199.4 L667.1,206.9 L668.1,210.9 L665.6,214.6 L664.6,220.5 L660.1,230.2 L653.9,227.5 L653.5,223.7 L644.6,220.0 L643.8,217.3 L639.3,216.8 L633.9,214.0 L634.2,202.6 L632.0,199.5 L637.5,198.4 L641.4,194.1 L642.6,188.3 L640.6,186.1 L642.9,181.5 L642.3,178.7 L636.7,172.7 L631.6,178.0 L631.0,173.2 L625.0,169.8 L629.1,156.6 L633.4,160.8 L640.7,162.9 L643.5,165.2 L650.7,163.5 L655.7,164.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.BR</hasc>
+    <alt-name>Alsacia</alt-name>
+    <woe-id>12597135</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR96</fips>
+    <name>Bas-Rhin</name>
+    <type>Metropolitan department</type>
+    <region>Alsace</region>
+    <longitude>7.56628</longitude>
+    <woe-name>Bas-Rhin</woe-name>
+    <latitude>48.6179</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
+    <hc-key>fr-a-br</hc-key>
+    <hc-a2>BR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.P.CV" d="M199.2,133.6 L201.9,129.7 L208.8,130.4 L214.8,133.1 L229.2,134.1 L236.2,135.7 L246.0,141.2 L255.9,138.4 L261.5,135.5 L266.4,131.2 L273.4,129.9 L273.6,139.6 L277.0,143.8 L275.4,146.8 L279.2,154.5 L276.7,160.8 L279.3,164.8 L278.5,169.2 L270.6,167.1 L264.2,170.0 L262.0,168.5 L259.3,172.0 L248.7,177.7 L239.8,174.9 L238.1,177.1 L234.5,173.6 L223.7,176.1 L220.0,175.0 L218.5,178.5 L211.4,181.9 L205.4,179.1 L200.7,179.5 L195.5,175.5 L201.6,169.1 L201.6,164.8 L204.7,165.4 L211.3,159.9 L208.9,145.0 L204.4,145.8 L198.7,139.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CV</hasc>
+    <alt-name>Baja Normand¡a|Lower Normandy</alt-name>
+    <woe-id>12597127</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR99</fips>
+    <name>Calvados</name>
+    <type>Metropolitan department</type>
+    <region>Basse-Normandie</region>
+    <longitude>-0.288724</longitude>
+    <woe-name>Calvados</woe-name>
+    <latitude>49.0601</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>fr-p-cv</hc-key>
+    <hc-a2>CV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.E.CA" d="M62.9,176.8 L66.5,177.1 L66.3,173.5 L69.1,173.2 L66.7,168.9 L70.5,165.1 L78.0,167.3 L85.8,163.9 L86.5,168.5 L93.1,164.6 L95.2,171.0 L100.8,173.6 L99.8,176.3 L105.7,182.8 L106.1,187.6 L111.1,191.0 L112.5,195.3 L118.5,189.8 L133.1,182.4 L131.9,187.0 L136.2,185.6 L137.8,191.2 L141.8,187.1 L146.7,186.3 L150.2,195.7 L151.6,195.6 L153.5,198.5 L150.9,204.9 L151.6,209.6 L148.5,216.2 L144.1,214.7 L138.9,217.1 L135.0,223.7 L131.4,226.8 L128.5,227.8 L124.2,223.6 L119.8,223.5 L117.8,228.5 L114.0,232.4 L110.9,232.8 L111.4,226.2 L105.9,228.1 L104.2,225.2 L97.9,221.5 L94.1,221.9 L92.8,218.8 L87.1,217.9 L84.7,221.5 L77.7,221.9 L75.3,219.7 L70.9,220.8 L69.6,218.0 L63.4,217.3 L66.2,209.0 L64.8,202.9 L62.2,200.6 L64.9,198.3 L63.8,193.1 L65.6,188.9 L62.5,181.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.CA</hasc>
+    <alt-name>Bretaña|Brittany</alt-name>
+    <woe-id>12591799</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA2</fips>
+    <name>Côtes-d'Armor</name>
+    <type>Metropolitan department</type>
+    <region>Bretagne</region>
+    <longitude>-2.93239</longitude>
+    <woe-name>Côtes-d'Armor</woe-name>
+    <latitude>48.4383</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>fr-e-ca</hc-key>
+    <hc-a2>CA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.I.DB" d="M628.5,287.7 L624.9,293.7 L632.3,292.2 L634.6,294.3 L630.1,298.5 L630.2,302.2 L615.6,317.5 L615.2,320.9 L611.7,323.8 L603.3,327.6 L603.2,342.3 L594.5,349.1 L586.6,357.2 L587.8,359.2 L583.0,354.7 L585.2,352.0 L584.7,348.2 L590.9,342.3 L583.8,336.2 L580.6,335.4 L576.8,326.1 L565.0,322.6 L568.3,313.8 L561.6,303.5 L563.4,303.5 L573.8,296.8 L581.8,295.5 L588.5,289.3 L591.7,289.3 L594.0,284.0 L600.3,281.7 L607.4,283.6 L609.5,279.7 L620.8,277.2 L625.5,277.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.DB</hasc>
+    <alt-name>Franco-Condado</alt-name>
+    <woe-id>12597116</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA6</fips>
+    <name>Doubs</name>
+    <type>Metropolitan department</type>
+    <region>Franche-Comté</region>
+    <longitude>6.31895</longitude>
+    <woe-name>Doubs</woe-name>
+    <latitude>47.1584</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
+    <hc-key>fr-i-db</hc-key>
+    <hc-a2>DB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.B.GI" d="M242.8,474.4 L246.5,474.6 L248.3,479.2 L244.5,488.4 L245.8,491.3 L243.2,495.2 L245.7,496.9 L253.8,498.3 L257.6,495.2 L262.3,496.2 L258.9,498.5 L260.6,503.7 L249.8,507.5 L253.0,513.4 L247.7,519.7 L242.6,523.3 L243.4,534.8 L237.5,536.2 L240.2,541.9 L234.0,545.7 L230.5,542.5 L228.3,547.7 L220.2,546.5 L220.2,540.8 L212.7,535.8 L207.6,530.7 L205.8,526.7 L194.5,528.2 L185.0,526.7 L185.7,521.3 L181.2,519.0 L177.3,521.7 L171.1,523.4 L171.2,516.4 L175.7,507.9 L183.8,508.0 L182.8,504.1 L177.3,498.9 L173.1,504.4 L171.3,510.7 L176.8,471.4 L179.8,458.9 L181.7,442.0 L185.1,435.9 L186.4,439.3 L194.2,445.9 L202.1,456.2 L204.0,470.7 L205.9,476.4 L210.6,480.7 L215.0,480.6 L208.4,476.8 L206.9,472.1 L205.5,456.7 L212.5,455.0 L214.5,459.3 L221.3,463.2 L222.6,469.9 L225.7,470.0 L234.8,475.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.GI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597132</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR97</fips>
+    <name>Gironde</name>
+    <type>Metropolitan department</type>
+    <region>Aquitaine</region>
+    <longitude>-0.515546</longitude>
+    <woe-name>Gironde</woe-name>
+    <latitude>44.7339</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>fr-b-gi</hc-key>
+    <hc-a2>GI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.A.HR" d="M660.1,230.2 L660.1,235.6 L662.7,239.6 L658.7,257.4 L659.0,266.5 L662.9,273.1 L657.5,276.8 L656.9,281.7 L652.3,286.1 L645.1,287.5 L640.9,285.7 L639.3,282.2 L639.4,278.7 L635.5,274.2 L633.1,273.9 L633.3,264.3 L624.0,258.7 L623.1,256.5 L626.0,254.4 L625.5,251.2 L627.4,244.4 L629.9,240.8 L633.6,231.4 L632.8,229.2 L639.3,216.8 L643.8,217.3 L644.6,220.0 L653.5,223.7 L653.9,227.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HR</hasc>
+    <alt-name>Alsacia</alt-name>
+    <woe-id>12597152</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR96</fips>
+    <name>Haut-Rhin</name>
+    <type>Metropolitan department</type>
+    <region>Alsace</region>
+    <longitude>7.25359</longitude>
+    <woe-name>Haut-Rhin</woe-name>
+    <latitude>47.886</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>fr-a-hr</hc-key>
+    <hc-a2>HR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.C.HL" d="M435.6,490.9 L431.4,484.1 L433.3,479.4 L430.2,476.3 L427.4,465.8 L421.0,464.5 L420.5,458.9 L425.9,458.5 L434.0,453.5 L436.9,455.1 L443.1,453.9 L448.9,458.8 L453.5,457.6 L458.6,458.5 L460.0,456.2 L464.6,458.3 L469.3,457.4 L471.2,459.3 L478.2,458.3 L480.0,455.8 L485.4,456.9 L488.0,455.2 L490.9,459.9 L491.4,464.7 L497.3,467.6 L497.7,471.4 L495.0,477.2 L493.0,475.7 L491.8,484.0 L488.5,485.0 L488.2,488.7 L483.6,490.0 L480.2,496.8 L472.8,498.0 L464.3,506.9 L456.6,501.8 L452.3,500.6 L451.8,497.5 L442.7,501.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597130</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR98</fips>
+    <name>Haute-Loire</name>
+    <type>Metropolitan department</type>
+    <region>Auvergne</region>
+    <longitude>3.72362</longitude>
+    <woe-name>Haute-Loire</woe-name>
+    <latitude>45.1254</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>fr-c-hl</hc-key>
+    <hc-a2>HL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.G.HM" d="M505.8,244.5 L506.3,237.9 L512.6,237.1 L514.3,230.2 L511.7,218.5 L509.2,217.5 L502.1,210.1 L503.4,203.7 L508.8,203.3 L508.5,199.3 L513.0,197.0 L508.7,194.6 L513.5,190.5 L520.2,190.4 L522.7,196.3 L530.8,202.2 L539.3,205.3 L545.4,211.6 L544.4,218.2 L548.4,217.0 L552.7,222.2 L555.5,222.3 L559.7,227.7 L557.2,236.7 L564.3,242.7 L565.0,247.4 L570.1,249.7 L566.5,255.4 L561.0,259.6 L560.5,269.3 L554.5,272.3 L549.8,270.5 L545.5,271.5 L543.1,276.6 L537.8,278.2 L531.8,271.6 L527.1,272.9 L524.5,269.5 L521.1,270.4 L518.8,264.1 L521.9,261.8 L516.6,253.1 L510.9,246.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HM</hasc>
+    <alt-name>Champaña-Ardenne</alt-name>
+    <woe-id>12597145</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA4</fips>
+    <name>Haute-Marne</name>
+    <type>Metropolitan department</type>
+    <region>Champagne-Ardenne</region>
+    <longitude>5.24076</longitude>
+    <woe-name>Haute-Marne</woe-name>
+    <latitude>48.1552</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>fr-g-hm</hc-key>
+    <hc-a2>HM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.U.HA" d="M620.1,472.8 L618.7,474.4 L622.3,480.2 L625.9,481.3 L626.4,488.1 L634.6,493.6 L638.3,492.9 L642.7,495.9 L642.3,498.1 L646.0,506.7 L641.8,506.3 L639.4,509.2 L631.3,514.2 L625.3,519.2 L622.6,526.4 L615.9,527.0 L611.2,524.8 L607.1,520.5 L601.3,526.1 L600.2,532.8 L594.2,526.0 L590.6,526.5 L584.1,532.5 L581.6,537.3 L582.1,542.8 L577.5,540.4 L576.8,542.3 L581.5,548.3 L576.0,547.6 L568.8,549.5 L568.9,544.0 L565.3,540.6 L555.7,535.5 L553.8,531.2 L557.5,531.2 L556.2,526.0 L562.8,527.2 L566.7,523.7 L563.8,520.4 L566.4,513.5 L574.1,512.1 L575.0,507.5 L576.8,504.4 L584.0,502.0 L583.9,499.5 L592.6,495.4 L605.6,494.7 L606.1,490.3 L603.3,483.4 L597.7,483.1 L599.6,473.5 L604.8,474.7 L610.8,478.8 L614.0,474.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HA</hasc>
+    <alt-name>Provenza-Alpes-Costa de Azul</alt-name>
+    <woe-id>12597183</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB8</fips>
+    <name>Hautes-Alpes</name>
+    <type>Metropolitan department</type>
+    <region>Provence-Alpes-Côte-d'Azur</region>
+    <longitude>6.37648</longitude>
+    <woe-name>Hautes-Alpes</woe-name>
+    <latitude>44.6732</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-u-ha</hc-key>
+    <hc-a2>HA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.K.HE" d="M478.7,602.6 L469.3,604.3 L457.8,614.0 L450.9,617.1 L444.6,624.6 L437.1,624.4 L428.9,629.6 L425.7,627.5 L415.3,624.6 L414.9,621.6 L410.0,621.4 L406.2,616.5 L405.3,621.9 L400.3,626.5 L396.4,621.3 L393.5,623.5 L388.7,617.6 L389.4,613.3 L394.6,610.3 L394.9,605.5 L392.7,602.5 L393.8,596.5 L401.6,597.8 L408.0,595.0 L410.8,591.7 L417.6,591.1 L417.7,582.4 L425.6,582.2 L430.5,576.2 L434.4,574.9 L438.3,575.4 L441.3,578.8 L442.2,576.1 L446.2,577.8 L449.8,574.2 L453.2,574.0 L456.3,569.4 L462.2,572.1 L462.7,577.3 L469.8,577.2 L471.4,583.0 L474.0,583.2 L480.8,587.7 L482.9,591.5 L481.7,598.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HE</hasc>
+    <alt-name>Languedoc-Rosellon</alt-name>
+    <woe-id>12597179</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA9</fips>
+    <name>Hérault</name>
+    <type>Metropolitan department</type>
+    <region>Languedoc-Roussillon</region>
+    <longitude>3.27316</longitude>
+    <woe-name>Hérault</woe-name>
+    <latitude>43.5524</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>fr-k-he</hc-key>
+    <hc-a2>HE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.B.LD" d="M156.1,600.4 L152.0,597.0 L154.4,593.8 L163.8,559.1 L171.1,523.4 L177.3,521.7 L181.2,519.0 L185.7,521.3 L185.0,526.7 L194.5,528.2 L205.8,526.7 L207.6,530.7 L212.7,535.8 L220.2,540.8 L220.2,546.5 L228.3,547.7 L230.5,542.5 L234.0,545.7 L234.4,551.6 L249.6,555.0 L245.0,562.2 L246.3,566.9 L244.4,571.6 L240.7,570.1 L240.0,566.3 L235.4,569.6 L231.6,569.2 L228.2,572.3 L230.3,576.3 L229.4,584.5 L224.8,593.6 L226.5,596.6 L214.9,598.9 L212.8,595.8 L207.4,599.3 L198.5,598.6 L193.7,596.8 L186.3,599.1 L182.9,598.0 L180.4,601.4 L177.1,599.6 L172.8,602.0 L171.9,597.0 L163.4,600.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.LD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597149</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR97</fips>
+    <name>Landes</name>
+    <type>Metropolitan department</type>
+    <region>Aquitaine</region>
+    <longitude>-0.792307</longitude>
+    <woe-name>Landes</woe-name>
+    <latitude>43.9644</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>fr-b-ld</hc-key>
+    <hc-a2>LD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.R.LA" d="M141.6,315.7 L139.8,311.0 L128.5,306.2 L132.8,304.5 L134.1,295.6 L140.5,294.9 L145.2,296.3 L154.0,302.3 L147.6,295.3 L142.0,292.9 L134.5,292.9 L127.0,297.8 L122.2,294.2 L117.9,295.5 L118.8,292.4 L112.7,285.8 L121.8,283.2 L118.3,280.6 L125.2,280.2 L127.1,277.3 L132.1,277.2 L133.3,279.3 L137.8,274.7 L139.4,267.6 L143.1,264.6 L151.8,262.8 L155.0,263.8 L161.6,262.1 L166.9,257.8 L174.2,254.4 L185.3,258.5 L185.3,262.2 L188.9,265.2 L189.7,270.7 L197.6,274.6 L194.8,276.4 L189.3,275.5 L190.8,280.9 L199.6,282.4 L201.4,290.3 L190.2,290.8 L178.8,294.8 L183.0,301.2 L186.0,301.2 L187.6,306.3 L183.6,312.2 L187.2,314.5 L187.7,318.9 L181.2,314.8 L175.6,318.7 L174.8,324.0 L170.3,325.1 L170.1,319.4 L165.8,318.4 L165.9,324.4 L167.8,329.6 L164.9,331.2 L155.7,328.7 L153.1,325.3 L147.5,322.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.LA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597177</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA5</fips>
+    <name>Loire-Atlantique</name>
+    <type>Metropolitan department</type>
+    <region>Pays de la Loire</region>
+    <longitude>-1.6025</longitude>
+    <woe-name>Loire-Atlantique</woe-name>
+    <latitude>47.3637</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
+    <hc-key>fr-r-la</hc-key>
+    <hc-a2>LA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.G.MR" d="M469.7,134.2 L477.1,135.1 L488.7,143.9 L495.8,143.4 L500.4,147.5 L504.9,146.0 L510.9,147.1 L516.3,145.5 L518.3,147.0 L517.3,152.6 L519.2,162.0 L521.7,164.8 L520.2,171.4 L516.1,175.6 L516.0,182.9 L519.6,185.8 L520.2,190.4 L513.5,190.5 L508.7,194.6 L513.0,197.0 L508.5,199.3 L508.8,203.3 L503.4,203.7 L499.6,202.3 L495.7,204.1 L485.1,197.7 L483.9,190.2 L478.0,189.9 L471.8,191.2 L460.8,201.3 L459.7,204.9 L454.4,203.8 L452.7,201.5 L448.4,203.8 L447.8,200.7 L443.2,198.0 L439.4,196.0 L438.5,189.2 L435.7,187.1 L436.3,182.1 L439.9,179.1 L441.6,175.7 L449.7,166.3 L445.5,164.1 L448.0,155.3 L451.5,155.3 L453.5,152.7 L450.3,150.6 L448.7,142.8 L459.1,139.3 L460.5,136.4 L469.3,137.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.MR</hasc>
+    <alt-name>Champaña-Ardenne</alt-name>
+    <woe-id>12597123</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA4</fips>
+    <name>Marne</name>
+    <type>Metropolitan department</type>
+    <region>Champagne-Ardenne</region>
+    <longitude>4.26395</longitude>
+    <woe-name>Marne</woe-name>
+    <latitude>49.022</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>fr-g-mr</hc-key>
+    <hc-a2>MR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.R.MY" d="M230.1,262.2 L225.7,260.7 L218.8,263.8 L201.3,258.3 L199.7,260.6 L191.4,259.1 L185.9,256.2 L190.6,244.3 L197.6,241.4 L196.4,234.2 L196.8,227.5 L195.5,220.0 L197.4,216.0 L197.7,201.5 L202.1,202.2 L209.2,201.9 L211.8,206.1 L214.7,207.0 L219.6,204.7 L225.5,205.4 L228.4,202.9 L236.3,204.0 L241.9,201.4 L242.9,198.7 L246.1,200.1 L246.8,204.6 L251.8,209.4 L251.9,213.5 L246.4,216.8 L246.8,225.5 L241.6,230.5 L241.9,235.9 L239.9,239.0 L235.2,241.2 L237.8,247.0 L233.8,248.2 L231.7,254.6 L229.1,255.9 L232.3,259.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.MY</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597166</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA5</fips>
+    <name>Mayenne</name>
+    <type>Metropolitan department</type>
+    <region>Pays de la Loire</region>
+    <longitude>-0.635312</longitude>
+    <woe-name>Mayenne</woe-name>
+    <latitude>48.1562</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
+    <hc-key>fr-r-my</hc-key>
+    <hc-a2>MY</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.M.MO" d="M659.0,156.8 L655.7,164.4 L650.7,163.5 L643.5,165.2 L640.7,162.9 L633.4,160.8 L629.1,156.6 L625.0,169.8 L631.0,173.2 L631.6,178.0 L636.7,172.7 L642.3,178.7 L642.9,181.5 L640.6,186.1 L642.6,188.3 L641.4,194.1 L637.5,198.4 L632.0,199.5 L625.3,192.9 L619.9,192.4 L611.1,189.0 L605.2,185.4 L603.3,182.6 L596.2,180.0 L592.9,180.8 L588.8,174.7 L589.9,171.2 L588.0,168.9 L580.4,169.0 L576.0,165.9 L574.3,162.4 L568.9,157.5 L572.9,151.9 L571.3,148.0 L572.9,145.4 L571.9,140.6 L567.6,134.6 L567.3,125.6 L569.1,128.8 L574.5,128.1 L578.1,124.1 L584.0,124.3 L588.1,126.8 L592.1,125.9 L597.0,128.1 L601.5,133.8 L600.3,135.8 L605.2,140.9 L608.8,148.6 L614.6,150.5 L615.6,145.3 L625.0,147.1 L625.8,152.1 L629.1,150.1 L632.9,152.1 L638.9,152.4 L645.0,146.9 L649.6,148.1 L652.3,153.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.MO</hasc>
+    <alt-name>Lorena</alt-name>
+    <woe-id>12597171</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB2</fips>
+    <name>Moselle</name>
+    <type>Metropolitan department</type>
+    <region>Lorraine</region>
+    <longitude>6.51862</longitude>
+    <woe-name>Moselle</woe-name>
+    <latitude>49.0845</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
+    <hc-key>fr-m-mo</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.P.OR" d="M211.4,181.9 L218.5,178.5 L220.0,175.0 L223.7,176.1 L234.5,173.6 L238.1,177.1 L239.8,174.9 L248.7,177.7 L259.3,172.0 L262.0,168.5 L264.2,170.0 L270.6,167.1 L278.5,169.2 L278.5,174.2 L287.5,174.9 L290.9,181.0 L295.2,183.4 L294.4,188.3 L298.9,192.3 L300.5,199.0 L305.4,203.9 L307.0,211.2 L302.3,216.9 L296.6,218.7 L296.8,230.7 L293.0,229.9 L289.9,225.5 L281.1,223.4 L280.4,220.5 L275.4,218.2 L274.7,208.9 L269.9,206.7 L265.2,207.7 L257.2,213.9 L251.9,213.5 L251.8,209.4 L246.8,204.6 L246.1,200.1 L242.9,198.7 L241.9,201.4 L236.3,204.0 L228.4,202.9 L225.5,205.4 L219.6,204.7 L214.7,207.0 L211.8,206.1 L209.2,201.9 L213.5,197.5 L216.6,187.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.OR</hasc>
+    <alt-name>Baja Normand¡a|Lower Normandy</alt-name>
+    <woe-id>12597150</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR99</fips>
+    <name>Orne</name>
+    <type>Metropolitan department</type>
+    <region>Basse-Normandie</region>
+    <longitude>0.06321400000000001</longitude>
+    <woe-name>Orne</woe-name>
+    <latitude>48.6533</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
+    <hc-key>fr-p-or</hc-key>
+    <hc-a2>OR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.O.PC" d="M342.7,56.6 L340.7,54.0 L342.4,40.5 L341.5,32.1 L343.9,23.2 L342.7,16.9 L346.4,15.3 L350.4,11.0 L360.1,6.9 L367.3,5.6 L373.5,16.6 L375.2,22.4 L383.8,25.3 L381.8,28.0 L382.6,33.0 L388.6,36.4 L401.1,37.0 L404.6,33.6 L408.0,36.6 L405.0,38.3 L403.8,42.7 L405.6,45.1 L413.9,47.0 L417.5,53.0 L414.7,56.6 L417.7,60.8 L415.6,65.7 L421.5,66.2 L423.3,69.2 L421.1,72.5 L419.2,83.1 L414.1,81.0 L412.8,84.1 L407.0,85.5 L405.5,81.7 L402.6,84.1 L401.9,79.2 L399.7,76.8 L398.7,80.9 L386.7,76.8 L384.0,79.5 L382.4,76.1 L387.3,71.5 L380.4,68.0 L375.6,70.1 L369.0,70.6 L366.2,66.9 L357.6,61.6 L354.2,58.3 L347.0,59.4 Z M418.2,74.9 L414.8,75.1 L414.7,77.3 L418.3,76.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.PC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597181</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB4</fips>
+    <name>Pas-de-Calais</name>
+    <type>Metropolitan department</type>
+    <region>Nord-Pas-de-Calais</region>
+    <longitude>2.3614</longitude>
+    <woe-name>Pas-de-Calais</woe-name>
+    <latitude>50.4661</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>fr-o-pc</hc-key>
+    <hc-a2>PC</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.K.PO" d="M417.3,660.2 L416.8,672.5 L417.7,682.8 L422.7,685.2 L425.3,692.6 L418.5,692.6 L416.4,689.9 L410.7,689.5 L400.9,694.4 L396.3,694.6 L393.3,697.3 L394.6,700.0 L387.8,698.9 L382.9,699.8 L380.4,696.4 L371.8,692.7 L363.5,693.6 L358.4,698.7 L353.2,697.4 L351.1,691.8 L338.1,686.4 L341.4,681.2 L351.9,681.0 L355.9,674.3 L365.4,673.8 L366.8,674.8 L371.3,670.3 L375.9,669.5 L375.2,661.2 L377.8,659.3 L397.2,660.4 L406.1,654.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.PO</hasc>
+    <alt-name>Languedoc-Rosellon</alt-name>
+    <woe-id>12597201</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA9</fips>
+    <name>Pyrénées-Orientales</name>
+    <type>Metropolitan department</type>
+    <region>Languedoc-Roussillon</region>
+    <longitude>2.54908</longitude>
+    <woe-name>Pyrénées-Orientales</woe-name>
+    <latitude>42.5738</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>fr-k-po</hc-key>
+    <hc-a2>PO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.C.AL" d="M449.0,348.0 L455.6,358.3 L455.5,363.1 L468.7,369.9 L470.0,380.8 L463.8,384.9 L457.5,388.3 L460.2,406.3 L452.5,410.5 L447.2,406.8 L440.1,406.9 L439.0,401.5 L433.1,403.7 L427.6,401.4 L422.8,401.9 L419.7,398.3 L415.6,399.1 L410.4,393.3 L408.5,386.4 L404.6,387.9 L404.4,391.1 L400.4,389.5 L396.7,396.1 L390.5,396.3 L385.4,385.4 L377.6,380.8 L373.3,373.5 L375.5,369.6 L381.5,365.4 L393.3,363.2 L391.3,354.7 L393.7,354.3 L399.3,348.5 L405.7,349.2 L410.8,344.6 L416.3,344.0 L417.5,347.2 L426.5,352.3 L434.9,352.3 L438.5,350.7 L440.0,355.1 L445.4,352.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.AL</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597131</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FR98</fips>
+    <name>Allier</name>
+    <type>Metropolitan department</type>
+    <region>Auvergne</region>
+    <longitude>3.18698</longitude>
+    <woe-name>Allier</woe-name>
+    <latitude>46.408</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>fr-c-al</hc-key>
+    <hc-a2>AL</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.V.SV" d="M573.1,409.3 L574.7,410.6 L576.7,418.5 L580.8,419.8 L582.8,423.9 L590.3,423.1 L596.4,428.6 L601.3,427.1 L603.2,421.6 L606.4,418.4 L610.8,410.4 L613.6,412.0 L612.6,415.4 L618.9,419.2 L622.5,424.2 L626.5,421.0 L630.1,427.5 L637.0,430.5 L638.6,440.8 L649.0,448.3 L645.6,455.5 L646.7,460.6 L643.6,464.3 L638.4,465.0 L632.3,471.7 L626.1,469.8 L620.1,472.8 L614.0,474.6 L610.8,478.8 L604.8,474.7 L599.6,473.5 L594.0,471.6 L591.5,462.9 L594.6,457.3 L594.3,453.5 L590.6,449.0 L586.1,448.5 L582.5,445.5 L578.7,446.2 L578.7,452.8 L569.8,449.4 L560.5,432.4 L563.9,432.2 L569.2,426.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SV</hasc>
+    <alt-name>Rhone-Alpes</alt-name>
+    <woe-id>12597180</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB9</fips>
+    <name>Savoie</name>
+    <type>Metropolitan department</type>
+    <region>Rhône-Alpes</region>
+    <longitude>6.47098</longitude>
+    <woe-name>Savoie</woe-name>
+    <latitude>45.4832</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
+    <hc-key>fr-v-sv</hc-key>
+    <hc-a2>SV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.Q.SM" d="M283.9,125.5 L280.1,127.7 L271.5,127.4 L263.6,124.8 L262.5,120.8 L267.7,109.1 L271.2,106.2 L279.2,102.8 L286.4,98.4 L294.3,95.2 L298.8,95.4 L320.2,89.1 L330.8,81.0 L338.1,86.3 L346.4,95.5 L350.0,105.4 L346.4,109.8 L348.1,113.5 L346.1,115.0 L347.5,125.8 L350.1,126.0 L347.7,133.7 L345.5,134.7 L338.4,131.3 L330.7,130.0 L328.5,130.9 L324.0,138.3 L320.2,137.9 L313.2,141.8 L310.0,145.2 L303.3,140.4 L305.8,136.8 L300.0,131.9 L292.6,132.7 L291.1,129.7 L287.9,129.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SM</hasc>
+    <alt-name>Alta Normand¡a|Upper Normandy</alt-name>
+    <woe-id>12597115</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA7</fips>
+    <name>Seine-Maritime</name>
+    <type>Metropolitan department</type>
+    <region>Haute-Normandie</region>
+    <longitude>1.1513</longitude>
+    <woe-name>Seine-Maritime</woe-name>
+    <latitude>49.5936</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>fr-q-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.L.HV" d="M326.8,378.3 L328.0,381.4 L325.0,387.4 L326.0,391.4 L330.9,395.8 L333.9,406.7 L332.4,412.7 L337.5,414.2 L337.3,418.6 L345.6,418.5 L352.2,425.0 L352.6,431.1 L351.4,433.3 L346.7,432.5 L334.1,441.8 L327.2,439.7 L325.1,444.2 L319.4,446.7 L316.4,450.5 L309.2,446.9 L310.3,443.1 L306.9,442.2 L302.8,436.7 L292.1,437.9 L288.9,436.4 L287.6,430.1 L282.1,428.5 L287.5,421.2 L290.1,422.1 L292.4,411.8 L298.8,407.9 L292.5,400.2 L292.1,394.9 L293.8,394.4 L291.9,388.1 L297.7,383.8 L303.0,383.2 L306.5,377.6 L313.7,375.1 L316.1,376.6 L322.4,374.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HV</hasc>
+    <alt-name>Lemosin</alt-name>
+    <woe-id>12597196</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB1</fips>
+    <name>Haute-Vienne</name>
+    <type>Metropolitan department</type>
+    <region>Limousin</region>
+    <longitude>1.21857</longitude>
+    <woe-name>Haute-Vienne</woe-name>
+    <latitude>45.8465</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
+    <hc-key>fr-l-hv</hc-key>
+    <hc-a2>HV</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.F.IN" d="M351.3,309.2 L350.5,313.4 L347.7,316.3 L353.7,318.5 L358.2,317.0 L362.8,319.2 L362.2,322.5 L365.0,327.0 L364.1,331.6 L366.9,335.6 L364.0,339.8 L365.6,345.8 L363.3,348.0 L367.6,351.6 L369.8,357.2 L368.2,362.2 L369.9,368.8 L367.0,373.3 L352.8,371.8 L350.0,373.1 L346.2,370.7 L345.2,374.5 L337.8,375.9 L332.2,373.5 L326.8,378.3 L322.4,374.5 L316.1,376.6 L313.7,375.1 L314.7,371.9 L309.8,363.2 L306.3,363.2 L299.7,356.5 L299.8,348.9 L298.1,345.6 L303.5,345.4 L309.2,324.8 L313.7,323.3 L318.1,324.8 L322.7,318.0 L324.8,317.6 L323.3,311.4 L328.7,308.3 L334.2,308.4 L338.6,303.8 L345.2,303.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.IN</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597125</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA3</fips>
+    <name>Indre</name>
+    <type>Metropolitan department</type>
+    <region>Centre</region>
+    <longitude>1.61636</longitude>
+    <woe-name>Indre</woe-name>
+    <latitude>46.8003</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
+    <hc-key>fr-f-in</hc-key>
+    <hc-a2>IN</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.S.OI" d="M420.8,110.7 L420.2,116.3 L420.9,125.9 L423.5,132.2 L419.9,133.7 L418.3,139.1 L412.8,141.9 L415.2,144.5 L412.8,149.2 L413.4,151.9 L420.0,152.1 L421.5,154.7 L418.8,158.7 L413.5,160.9 L403.3,160.3 L401.3,161.7 L395.0,159.3 L392.7,160.4 L379.7,152.9 L374.6,153.9 L366.4,150.0 L356.1,153.3 L348.4,151.5 L346.4,148.1 L347.9,145.0 L350.9,146.6 L347.7,133.7 L350.1,126.0 L347.5,125.8 L346.1,115.0 L348.1,113.5 L346.4,109.8 L350.0,105.4 L354.3,107.5 L355.2,110.6 L361.3,109.6 L366.1,112.1 L375.1,111.1 L394.3,118.2 L396.6,120.9 L398.9,117.4 L404.1,117.4 L408.6,110.5 L416.0,112.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.OI</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597158</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB6</fips>
+    <name>Oise</name>
+    <type>Metropolitan department</type>
+    <region>Picardie</region>
+    <longitude>2.64323</longitude>
+    <woe-name>Oise</woe-name>
+    <latitude>49.3967</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
+    <hc-key>fr-s-oi</hc-key>
+    <hc-a2>OI</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.V.RH" d="M514.5,392.4 L512.0,401.4 L512.1,408.9 L516.3,413.6 L521.3,416.0 L521.9,421.1 L532.2,419.6 L531.3,425.7 L535.4,429.6 L532.5,430.5 L527.7,436.8 L515.8,438.7 L519.7,442.1 L518.9,444.9 L513.7,450.6 L507.7,447.0 L506.8,439.8 L498.7,439.7 L492.3,434.2 L491.2,430.7 L492.8,426.6 L489.9,425.8 L492.5,419.2 L489.6,416.4 L488.7,411.3 L484.8,409.1 L487.1,404.8 L484.7,401.4 L490.1,395.3 L494.2,394.5 L491.5,388.6 L492.7,383.4 L503.7,385.3 L505.5,382.4 L509.2,386.4 L510.2,391.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.RH</hasc>
+    <alt-name>Rhone-Alpes</alt-name>
+    <woe-id>12597185</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB9</fips>
+    <name>Rhône</name>
+    <type>Metropolitan department</type>
+    <region>Rhône-Alpes</region>
+    <longitude>4.64841</longitude>
+    <woe-name>Rhône</woe-name>
+    <latitude>45.841</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>fr-v-rh</hc-key>
+    <hc-a2>RH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.N.TA" d="M410.8,591.7 L408.0,595.0 L401.6,597.8 L393.8,596.5 L392.7,602.5 L394.9,605.5 L394.6,610.3 L389.4,613.3 L377.7,613.1 L371.6,611.6 L369.0,616.3 L361.6,615.5 L358.2,613.1 L358.0,606.2 L353.5,608.3 L347.1,601.3 L338.4,596.2 L340.8,594.1 L336.1,583.2 L332.4,581.4 L331.1,573.0 L339.5,564.1 L336.9,558.8 L338.9,556.7 L344.2,559.0 L348.6,555.0 L355.8,553.2 L356.5,554.9 L363.4,551.5 L372.9,555.7 L383.5,563.4 L387.0,568.7 L387.1,572.0 L392.3,583.3 L399.6,588.9 L404.0,586.8 L409.0,588.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.TA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597192</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRB3</fips>
+    <name>Tarn</name>
+    <type>Metropolitan department</type>
+    <region>Midi-Pyrénées</region>
+    <longitude>2.13731</longitude>
+    <woe-name>Tarn</woe-name>
+    <latitude>43.8024</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>fr-n-ta</hc-key>
+    <hc-a2>TA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.D.YO" d="M483.9,252.7 L482.6,259.2 L485.4,259.3 L486.4,265.8 L482.6,268.0 L481.9,274.2 L475.3,286.4 L475.3,290.4 L472.6,292.9 L474.8,299.7 L467.8,300.8 L466.3,295.5 L462.7,297.6 L460.6,292.6 L458.3,296.1 L446.5,289.9 L441.3,282.4 L441.1,287.7 L437.1,286.5 L432.6,288.7 L422.5,285.2 L420.0,280.9 L413.0,281.8 L410.0,273.0 L405.8,270.0 L405.7,267.3 L414.6,263.1 L414.2,255.2 L419.2,251.3 L420.7,245.2 L417.0,241.1 L415.1,235.9 L410.6,234.8 L411.8,230.8 L416.2,225.8 L416.9,218.3 L433.5,217.2 L435.7,214.2 L437.1,217.6 L442.5,220.0 L447.0,226.5 L445.7,232.6 L451.0,235.7 L453.0,234.1 L462.9,248.0 L463.5,251.8 L470.4,253.0 L479.3,251.6 L480.1,248.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.YO</hasc>
+    <alt-name>Borgoña|Burgundy</alt-name>
+    <woe-id>12597133</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA1</fips>
+    <name>Yonne</name>
+    <type>Metropolitan department</type>
+    <region>Bourgogne</region>
+    <longitude>3.64262</longitude>
+    <woe-name>Yonne</woe-name>
+    <latitude>47.7715</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>fr-d-yo</hc-key>
+    <hc-a2>YO</hc-a2>
+  </desc>
+</path>
+</g>
+
+<g id="__border_lines__">
+<path fill="none" stroke="#551111" stroke-width="0.4" id="__fr-all-all-mainland_border_lines__" d="M82.0,287.7 L84.4,290.2 L75.1,288.0 L75.1,282.0 Z M528.4,540.9 L523.6,541.0 L523.0,537.5 L525.7,532.6 L528.8,532.0 L531.8,536.3 Z M130.4,319.7 L127.2,320.5 L124.9,314.8 L130.1,315.8 Z M234.4,617.6 L232.9,615.9 L233.9,613.0 L235.9,614.5 Z M233.0,624.0 L231.4,623.1 L232.8,619.4 L234.6,622.1 Z M170.4,402.5 L169.3,396.2 L175.7,400.7 L178.6,401.6 L178.8,406.2 L181.4,409.2 L179.2,415.9 L176.6,410.4 Z M164.4,383.5 L161.8,379.8 L166.7,380.3 L165.3,382.2 L175.3,384.2 L178.1,387.9 L173.6,387.3 L168.4,383.5 Z M620.1,472.8 L618.7,474.4 L622.3,480.2 L625.9,481.3 L626.4,488.1 L634.6,493.6 L638.3,492.9 L642.7,495.9 L642.3,498.1 L646.0,506.7 L641.8,506.3 L639.4,509.2 L640.0,511.8 L634.6,518.3 L634.3,521.8 L639.1,527.0 L636.9,528.8 L637.2,533.6 M583.9,370.6 L588.3,375.1 L586.1,384.2 L578.9,387.2 L579.2,393.8 L587.5,392.8 L596.8,384.3 L593.4,380.0 L597.1,373.5 L601.6,375.2 L608.3,370.2 L619.2,368.6 L624.2,369.3 L622.4,374.7 L627.0,380.6 L625.2,384.5 L624.5,391.5 L629.0,392.2 L629.1,398.1 L632.7,398.0 L636.7,402.1 L639.2,407.6 L636.4,412.2 L627.2,416.1 L626.5,421.0 L630.1,427.5 L637.0,430.5 L638.6,440.8 L649.0,448.3 L645.6,455.5 L646.7,460.6 L643.6,464.3 L638.4,465.0 L632.3,471.7 L626.1,469.8 L620.1,472.8 M486.0,610.0 L480.6,607.8 L478.7,602.6 L469.3,604.3 L457.8,614.0 L450.9,617.1 L444.6,624.6 L437.1,624.4 L428.9,629.6 M637.2,533.6 L644.4,542.6 L646.5,542.1 L659.4,548.1 L667.0,550.7 L682.6,545.6 L681.9,548.2 L685.1,552.7 L682.0,560.2 L673.7,571.0 L675.4,576.7 L671.9,580.9 L668.1,580.9 L665.9,585.7 L661.7,585.5 L658.7,589.5 L655.7,588.8 L655.3,596.9 L652.3,595.9 L649.5,598.6 L645.9,597.9 L643.7,603.4 L639.6,608.7 L632.1,609.7 L631.6,614.3 L624.8,620.0 L630.7,621.2 L629.9,626.3 L625.9,628.8 L621.8,628.2 L619.9,630.8 L612.5,632.3 L612.4,635.9 L606.8,633.9 L600.0,636.3 L599.5,639.9 L596.9,637.1 L592.0,637.7 L586.8,633.5 L583.3,634.7 L587.0,638.5 L582.1,640.8 L577.7,638.2 L579.7,636.5 L572.5,632.9 L571.0,630.3 L567.5,632.0 L563.1,628.4 L551.9,628.0 L553.1,623.6 L551.1,618.6 L548.5,616.9 L545.3,619.2 L535.2,619.5 L531.6,615.3 L534.5,612.0 L541.3,611.3 L544.0,605.2 L540.7,607.0 L537.1,603.0 L532.6,601.1 L531.5,604.4 L534.8,609.6 L532.8,612.4 L527.0,610.7 L521.5,615.5 L520.8,618.3 L511.8,618.4 L506.0,616.7 L506.7,611.9 L502.8,609.9 L496.7,610.7 L486.0,610.0 M434.8,551.7 L436.3,553.7 M436.3,553.7 L431.1,560.3 M341.4,681.2 L339.1,677.8 L332.4,677.0 L328.6,674.5 L324.1,675.0 L321.8,678.7 L315.5,669.1 L304.6,668.7 L300.8,663.8 L292.2,662.9 L288.4,660.6 M428.9,629.6 L421.3,638.7 L416.9,651.8 L417.3,660.2 L416.8,672.5 L417.7,682.8 L422.7,685.2 L425.3,692.6 L418.5,692.6 L416.4,689.9 L410.7,689.5 L400.9,694.4 L396.3,694.6 L393.3,697.3 L394.6,700.0 L387.8,698.9 L382.9,699.8 L380.4,696.4 L371.8,692.7 L363.5,693.6 L358.4,698.7 L353.2,697.4 L351.1,691.8 L338.1,686.4 L341.4,681.2 M431.1,560.3 L434.3,555.2 L436.3,553.7 M436.3,553.7 L436.3,553.7 L434.8,551.7 M539.0,116.5 L542.2,121.4 L543.8,125.4 M342.7,56.6 L340.7,54.0 L342.4,40.5 L341.5,32.1 L343.9,23.2 L342.7,16.9 L346.4,15.3 L350.4,11.0 L360.1,6.9 L367.3,5.6 L380.5,2.1 L383.6,2.5 L390.5,0.0 L392.2,6.9 L394.8,10.1 L393.2,14.1 L393.8,19.7 L399.0,22.4 L403.8,29.2 L409.5,30.9 L413.2,26.5 L419.9,24.4 L422.0,25.6 L426.3,34.7 L428.5,44.9 L432.2,47.6 L438.2,45.5 L440.1,48.1 L445.7,48.9 L447.6,51.3 L448.5,61.4 L450.4,63.1 L452.6,59.5 L460.5,60.8 L467.0,59.7 L472.4,66.1 L476.4,66.5 L474.1,69.7 L472.6,76.5 L475.4,76.5 L477.0,81.8 L473.0,85.3 L473.0,88.7 M244.8,471.5 L244.9,468.8 L245.0,468.7 M245.0,468.7 L244.8,471.5 M118.3,280.6 L116.5,274.5 L106.6,275.6 L99.2,275.5 L94.6,270.4 L103.6,271.6 L106.8,267.6 L102.3,265.3 L93.2,266.8 L92.9,270.1 L90.2,267.0 L85.8,268.2 L83.9,266.3 L82.0,275.8 L82.3,266.2 L79.5,263.1 L80.4,259.4 L84.6,257.9 L83.4,253.9 L78.2,261.2 L71.3,256.2 L75.9,250.5 L66.5,256.4 L61.9,250.4 L61.4,247.8 L61.9,250.4 L53.1,247.8 L45.3,246.8 L41.4,239.4 L35.7,241.5 L32.1,239.2 L25.2,244.8 L17.3,243.7 L19.1,239.3 L15.2,229.9 L10.3,225.3 L0.0,223.1 L2.6,221.2 L20.2,219.1 L24.0,220.0 L24.0,212.9 L16.1,207.9 L11.7,212.8 L11.1,206.3 L7.3,205.6 L12.0,203.0 L19.4,205.0 L30.9,205.2 L23.8,202.8 L27.0,199.8 L17.1,200.5 L22.6,195.5 L19.0,195.7 L8.3,199.1 L4.6,197.6 L1.0,198.9 L0.1,192.7 L1.2,186.8 L4.6,181.0 L8.9,180.3 L13.5,176.9 L21.9,176.6 L25.6,174.1 L27.2,177.3 L36.9,173.6 L45.5,171.7 L46.0,177.8 L48.4,176.1 L51.2,180.5 L54.2,172.4 L62.9,176.8 L66.5,177.1 L66.3,173.5 L69.1,173.2 L66.7,168.9 L70.5,165.1 L78.0,167.3 L85.8,163.9 L86.5,168.5 L93.1,164.6 L95.2,171.0 L100.8,173.6 L99.8,176.3 L105.7,182.8 L106.1,187.6 L111.1,191.0 L112.5,195.3 L118.5,189.8 L133.1,182.4 L131.9,187.0 L136.2,185.6 L137.8,191.2 L141.8,187.1 L146.7,186.3 L150.2,195.7 L151.6,195.6 L147.9,187.0 L150.9,183.3 L158.1,182.1 L157.9,189.2 L164.0,190.2 L171.2,188.5 L173.9,197.6 M543.8,125.4 L552.4,121.2 L558.2,120.7 L564.0,125.0 L567.3,125.6 L569.1,128.8 L574.5,128.1 L578.1,124.1 L584.0,124.3 L588.1,126.8 L592.1,125.9 L597.0,128.1 L601.5,133.8 L600.3,135.8 L605.2,140.9 L608.8,148.6 L614.6,150.5 L615.6,145.3 L625.0,147.1 L625.8,152.1 L629.1,150.1 L632.9,152.1 L638.9,152.4 L645.0,146.9 L649.6,148.1 L652.3,153.4 L659.0,156.8 M186.3,376.4 L183.1,375.1 L180.9,378.7 L172.5,372.2 L168.1,372.9 L165.4,366.6 L158.8,365.3 L149.2,358.9 L146.9,348.2 L141.4,341.8 L137.1,335.0 L133.5,332.5 L133.1,328.3 L135.0,323.7 L138.0,321.7 L141.6,315.7 L139.8,311.0 L128.5,306.2 L132.8,304.5 L134.1,295.6 L140.5,294.9 L145.2,296.3 L154.0,302.3 L147.6,295.3 L142.0,292.9 L134.5,292.9 L127.0,297.8 L122.2,294.2 L117.9,295.5 L118.8,292.4 L112.7,285.8 L121.8,283.2 L118.3,280.6 M205.5,456.7 L203.2,448.4 L198.6,440.9 L190.9,434.7 L190.6,432.9 L179.6,424.3 L176.6,424.1 L177.9,417.6 L182.8,416.8 L187.4,422.3 L191.2,424.3 L183.8,416.7 L182.6,411.8 L187.1,409.1 L187.6,404.3 L185.5,399.9 L188.3,400.2 L186.6,393.3 L183.9,389.0 L181.1,388.4 L182.6,382.8 L186.5,380.6 L186.3,376.4 M244.7,318.3 L244.7,318.3 L240.8,315.7 M240.8,315.7 L244.7,318.3 M587.8,359.2 L584.0,366.3 L583.9,370.6 M303.6,535.6 L303.6,535.7 L303.6,535.7 M220.1,656.9 L213.0,659.8 L206.6,658.2 L203.6,659.0 L200.0,654.6 L195.3,652.1 L193.8,646.5 L180.8,645.1 L178.1,642.6 L171.1,640.7 L163.9,637.1 L159.8,633.1 L157.5,638.1 L151.6,633.6 L155.4,629.5 L157.2,621.0 L148.3,617.2 L143.5,619.2 L141.7,615.2 L137.3,616.0 L134.6,611.9 L135.0,608.3 L142.8,607.6 L146.8,604.4 L152.0,597.0 L156.1,600.4 L152.0,597.0 L154.4,593.8 L163.8,559.1 L171.1,523.4 L171.2,516.4 L175.7,507.9 L183.8,508.0 L182.8,504.1 L177.3,498.9 L173.1,504.4 L171.3,510.7 L176.8,471.4 L179.8,458.9 L181.7,442.0 L185.1,435.9 L186.4,439.3 L194.2,445.9 L202.1,456.2 L204.0,470.7 L205.9,476.4 L210.6,480.7 L215.0,480.6 L208.4,476.8 L206.9,472.1 L205.5,456.7 M288.4,660.6 L280.7,657.8 L276.7,658.2 L275.2,665.6 L275.6,670.5 L265.2,669.7 L260.6,670.0 L258.6,667.3 L253.9,671.1 L251.8,667.7 L247.7,666.3 L235.4,669.1 L230.7,666.4 L228.5,660.1 L224.1,660.6 L220.1,656.9 M303.6,535.7 L303.6,535.6 M173.9,197.6 L171.2,188.5 L175.9,189.3 L182.8,187.7 L175.8,184.0 L173.6,180.2 L173.3,170.0 L175.4,157.6 L173.5,158.9 L172.5,151.6 L173.4,141.8 L168.1,132.4 L162.9,127.4 L163.3,123.5 L160.2,116.4 L162.5,113.3 L161.6,106.0 L157.8,104.5 L158.6,100.8 L164.8,103.9 L175.7,107.7 L180.2,107.1 L186.7,103.5 L192.9,105.0 L194.8,111.1 L190.4,116.1 L196.1,126.7 L196.0,132.6 L199.2,133.6 L201.9,129.7 L208.8,130.4 L214.8,133.1 L229.2,134.1 L236.2,135.7 L246.0,141.2 L255.9,138.4 L261.5,135.5 L266.4,131.2 L273.4,129.9 M473.0,88.7 L476.0,90.2 L477.4,90.3 M477.4,90.3 L480.6,89.8 L488.8,91.9 L500.1,87.1 L501.3,79.5 L506.6,73.8 L510.9,74.8 L506.9,88.1 L509.9,91.4 L509.7,98.2 L510.9,103.0 L515.7,102.1 L522.6,105.4 L528.5,110.9 L531.9,110.1 L534.1,116.3 L539.0,116.5 M330.8,81.0 L335.6,75.8 L336.8,71.5 L340.4,69.0 L345.4,71.6 L346.0,68.9 L339.8,64.2 L340.4,58.5 L342.7,56.6 M273.4,129.9 L279.5,128.7 L283.9,125.5 L280.1,127.7 L271.5,127.4 L263.6,124.8 L262.5,120.8 L267.7,109.1 L271.2,106.2 L279.2,102.8 L286.4,98.4 L294.3,95.2 L298.8,95.4 L320.2,89.1 L330.8,81.0 M659.0,156.8 L665.7,155.4 L674.1,156.0 L682.8,159.9 L688.7,161.1 L684.3,172.5 L677.6,178.0 L676.7,181.7 L669.9,190.0 L670.5,197.6 L668.6,199.4 L667.1,206.9 L668.1,210.9 L665.6,214.6 L664.6,220.5 L660.1,230.2 L660.1,235.6 L662.7,239.6 L658.7,257.4 L659.0,266.5 L662.9,273.1 L657.5,276.8 L656.9,281.7 L652.3,286.1 L645.1,287.5 L640.9,285.7 L639.3,282.2 M639.3,282.2 L632.0,281.7 L628.5,287.7 L624.9,293.7 L632.3,292.2 L634.6,294.3 L630.1,298.5 L630.2,302.2 L615.6,317.5 L615.2,320.9 L611.7,323.8 L603.3,327.6 L603.2,342.3 L594.5,349.1 L586.6,357.2 L587.8,359.2 M285.5,270.1 L285.5,270.1 L285.6,271.2 M285.6,271.2 L285.5,270.1 M118.3,280.6 L125.2,280.2 L127.1,277.3 L132.1,277.2 L133.3,279.3 L137.8,274.7 L139.4,267.6 L143.1,264.6 L151.8,262.8 L155.0,263.8 L161.6,262.1 L166.9,257.8 L174.2,254.4 L185.3,258.5 L185.9,256.2 L190.6,244.3 L197.6,241.4 L196.4,234.2 L196.8,227.5 L195.5,220.0 L197.4,216.0 L197.7,201.5 M118.3,280.6 L125.2,280.2 L127.1,277.3 L132.1,277.2 L133.3,279.3 L137.8,274.7 L139.4,267.6 L143.1,264.6 L151.8,262.8 L155.0,263.8 L161.6,262.1 L166.9,257.8 L174.2,254.4 L185.3,258.5 L185.9,256.2 L190.6,244.3 L197.6,241.4 L196.4,234.2 L196.8,227.5 L195.5,220.0 L197.4,216.0 L197.7,201.5 M620.1,472.8 L614.0,474.6 L610.8,478.8 L604.8,474.7 L599.6,473.5 L597.7,483.1 L603.3,483.4 L606.1,490.3 L605.6,494.7 L592.6,495.4 L583.9,499.5 L584.0,502.0 L576.8,504.4 L575.0,507.5 L574.1,512.1 L566.4,513.5 L563.8,520.4 L566.7,523.7 L562.8,527.2 L556.2,526.0 L557.5,531.2 L553.8,531.2 L555.7,535.5 L565.3,540.6 L568.9,544.0 L568.8,549.5 L568.6,552.2 L563.7,550.6 L559.0,555.3 L552.4,551.7 L551.5,549.1 L539.0,545.8 L539.5,541.8 L532.5,542.1 L518.6,546.2 L514.7,540.1 L509.8,540.1 L509.9,543.7 M620.1,472.8 L614.0,474.6 L610.8,478.8 L604.8,474.7 L599.6,473.5 L597.7,483.1 L603.3,483.4 L606.1,490.3 L605.6,494.7 L592.6,495.4 L583.9,499.5 L584.0,502.0 L576.8,504.4 L575.0,507.5 L574.1,512.1 L566.4,513.5 L563.8,520.4 L566.7,523.7 L562.8,527.2 L556.2,526.0 L557.5,531.2 L553.8,531.2 L555.7,535.5 L565.3,540.6 L568.9,544.0 L568.8,549.5 L568.6,552.2 L563.7,550.6 L559.0,555.3 L552.4,551.7 L551.5,549.1 L539.0,545.8 L539.5,541.8 L532.5,542.1 L518.6,546.2 L514.7,540.1 L509.8,540.1 L509.9,543.7 M486.0,610.0 L487.2,606.6 L498.8,599.5 L497.7,596.5 L501.6,589.9 L507.7,590.6 L510.0,582.7 L509.6,576.6 L517.1,571.5 L521.4,565.0 L517.1,559.4 L514.3,559.3 L513.7,551.0 L509.9,543.7 M486.0,610.0 L487.2,606.6 L498.8,599.5 L497.7,596.5 L501.6,589.9 L507.7,590.6 L510.0,582.7 L509.6,576.6 L517.1,571.5 L521.4,565.0 L517.1,559.4 L514.3,559.3 L513.7,551.0 L509.9,543.7 M434.8,551.7 L429.0,551.9 L427.5,549.3 L421.7,546.2 L423.0,543.0 L422.7,533.6 L420.2,529.4 L418.4,522.1 L413.5,515.7 M434.8,551.7 L429.0,551.9 L427.5,549.3 L421.7,546.2 L423.0,543.0 L422.7,533.6 L420.2,529.4 L418.4,522.1 L413.5,515.7 M341.4,681.2 L351.9,681.0 L355.9,674.3 L365.4,673.8 L364.9,671.6 L359.0,667.3 L355.2,668.3 L350.6,666.2 L347.8,661.5 L354.5,657.7 L352.4,652.0 L355.3,650.0 L353.7,641.3 L351.6,637.5 L342.9,634.5 L339.7,632.0 L338.8,625.3 L340.2,621.3 L345.2,619.2 L347.6,612.9 L350.1,615.3 L358.2,613.1 L361.6,615.5 L369.0,616.3 L371.6,611.6 L377.7,613.1 L389.4,613.3 L394.6,610.3 L394.9,605.5 L392.7,602.5 L393.8,596.5 L401.6,597.8 L408.0,595.0 L410.8,591.7 L417.6,591.1 L417.7,582.4 L425.6,582.2 L430.5,576.2 L434.4,574.9 L440.2,567.1 L437.4,563.2 L431.1,560.3 M341.4,681.2 L351.9,681.0 L355.9,674.3 L365.4,673.8 L364.9,671.6 L359.0,667.3 L355.2,668.3 L350.6,666.2 L347.8,661.5 L354.5,657.7 L352.4,652.0 L355.3,650.0 L353.7,641.3 L351.6,637.5 L342.9,634.5 L339.7,632.0 L338.8,625.3 L340.2,621.3 L345.2,619.2 L347.6,612.9 L350.1,615.3 L358.2,613.1 L361.6,615.5 L369.0,616.3 L371.6,611.6 L377.7,613.1 L389.4,613.3 L394.6,610.3 L394.9,605.5 L392.7,602.5 L393.8,596.5 L401.6,597.8 L408.0,595.0 L410.8,591.7 L417.6,591.1 L417.7,582.4 L425.6,582.2 L430.5,576.2 L434.4,574.9 L440.2,567.1 L437.4,563.2 L431.1,560.3 M464.3,506.9 L472.8,498.0 L480.2,496.8 L483.6,490.0 L488.2,488.7 L488.5,485.0 L491.8,484.0 L493.0,475.7 L495.0,477.2 L497.7,471.4 L497.3,467.6 L491.4,464.7 L490.9,459.9 L488.0,455.2 L485.4,456.9 L480.0,455.8 L478.2,458.3 L471.2,459.3 L469.3,457.4 L464.6,458.3 L469.1,448.3 L466.3,440.8 L459.7,435.1 L453.6,423.9 L455.4,415.7 L452.5,410.5 L460.2,406.3 L457.5,388.3 L463.8,384.9 M464.3,506.9 L472.8,498.0 L480.2,496.8 L483.6,490.0 L488.2,488.7 L488.5,485.0 L491.8,484.0 L493.0,475.7 L495.0,477.2 L497.7,471.4 L497.3,467.6 L491.4,464.7 L490.9,459.9 L488.0,455.2 L485.4,456.9 L480.0,455.8 L478.2,458.3 L471.2,459.3 L469.3,457.4 L464.6,458.3 L469.1,448.3 L466.3,440.8 L459.7,435.1 L453.6,423.9 L455.4,415.7 L452.5,410.5 L460.2,406.3 L457.5,388.3 L463.8,384.9 M435.6,490.9 L442.7,501.9 L451.8,497.5 L452.3,500.6 L456.6,501.8 L464.3,506.9 M435.6,490.9 L442.7,501.9 L451.8,497.5 L452.3,500.6 L456.6,501.8 L464.3,506.9 M464.3,506.9 L467.3,520.5 L471.6,530.3 L474.8,534.6 L474.6,540.4 L479.5,540.3 L486.5,544.1 L491.2,540.2 L494.8,540.3 L495.5,543.1 L498.7,539.6 L501.9,539.5 L509.9,543.7 M464.3,506.9 L467.3,520.5 L471.6,530.3 L474.8,534.6 L474.6,540.4 L479.5,540.3 L486.5,544.1 L491.2,540.2 L494.8,540.3 L495.5,543.1 L498.7,539.6 L501.9,539.5 L509.9,543.7 M539.0,116.5 L534.5,121.4 L524.0,120.6 L522.6,125.6 L525.0,131.9 L521.4,139.2 L521.9,143.3 L518.3,147.0 L517.3,152.6 L519.2,162.0 L521.7,164.8 L520.2,171.4 L516.1,175.6 L516.0,182.9 L519.6,185.8 L520.2,190.4 L522.7,196.3 L530.8,202.2 L539.3,205.3 L545.4,211.6 L544.4,218.2 L548.4,217.0 L552.7,222.2 L555.5,222.3 L559.7,227.7 L557.2,236.7 L564.3,242.7 L565.0,247.4 L570.1,249.7 M539.0,116.5 L534.5,121.4 L524.0,120.6 L522.6,125.6 L525.0,131.9 L521.4,139.2 L521.9,143.3 L518.3,147.0 L517.3,152.6 L519.2,162.0 L521.7,164.8 L520.2,171.4 L516.1,175.6 L516.0,182.9 L519.6,185.8 L520.2,190.4 L522.7,196.3 L530.8,202.2 L539.3,205.3 L545.4,211.6 L544.4,218.2 L548.4,217.0 L552.7,222.2 L555.5,222.3 L559.7,227.7 L557.2,236.7 L564.3,242.7 L565.0,247.4 L570.1,249.7 M342.7,56.6 L347.0,59.4 L354.2,58.3 L357.6,61.6 L366.2,66.9 L369.0,70.6 L375.6,70.1 L380.4,68.0 L387.3,71.5 L382.4,76.1 L384.0,79.5 L386.7,76.8 L398.7,80.9 L399.7,76.8 L401.9,79.2 L402.6,84.1 L405.5,81.7 L407.0,85.5 L412.8,84.1 L414.1,81.0 L419.2,83.1 L419.4,83.3 L422.7,85.6 M342.7,56.6 L347.0,59.4 L354.2,58.3 L357.6,61.6 L366.2,66.9 L369.0,70.6 L375.6,70.1 L380.4,68.0 L387.3,71.5 L382.4,76.1 L384.0,79.5 L386.7,76.8 L398.7,80.9 L399.7,76.8 L401.9,79.2 L402.6,84.1 L405.5,81.7 L407.0,85.5 L412.8,84.1 L414.1,81.0 L419.2,83.1 L419.4,83.3 L422.7,85.6 M422.7,85.6 L437.8,85.8 L443.2,83.1 L447.1,84.0 L449.8,82.2 L458.6,83.5 L460.3,85.2 L464.9,83.5 L466.1,87.4 L473.0,88.7 M422.7,85.6 L437.8,85.8 L443.2,83.1 L447.1,84.0 L449.8,82.2 L458.6,83.5 L460.3,85.2 L464.9,83.5 L466.1,87.4 L473.0,88.7 M282.1,428.5 L275.3,434.3 L274.0,440.3 L269.7,446.2 L261.9,450.4 L259.3,461.2 L252.1,467.2 L245.0,468.7 M282.1,428.5 L275.3,434.3 L274.0,440.3 L269.7,446.2 L261.9,450.4 L259.3,461.2 L252.1,467.2 L245.0,468.7 M244.8,471.5 L242.8,474.4 L234.8,475.6 L225.7,470.0 L222.6,469.9 L221.3,463.2 L214.5,459.3 L212.5,455.0 L205.5,456.7 M244.8,471.5 L242.8,474.4 L234.8,475.6 L225.7,470.0 L222.6,469.9 L221.3,463.2 L214.5,459.3 L212.5,455.0 L205.5,456.7 M542.4,369.0 L548.5,365.3 L545.0,359.8 L548.2,354.7 L545.6,343.0 L543.7,341.2 L549.5,336.6 L542.4,333.1 L537.8,327.0 L537.9,327.0 L541.1,324.3 L540.8,320.9 L544.8,318.8 L550.2,309.8 L551.9,301.9 L546.0,285.8 L549.7,282.6 L548.8,277.2 L543.1,276.6 M542.4,369.0 L548.5,365.3 L545.0,359.8 L548.2,354.7 L545.6,343.0 L543.7,341.2 L549.5,336.6 L542.4,333.1 L537.8,327.0 L537.9,327.0 L541.1,324.3 L540.8,320.9 L544.8,318.8 L550.2,309.8 L551.9,301.9 L546.0,285.8 L549.7,282.6 L548.8,277.2 L543.1,276.6 M373.3,373.5 L375.5,369.6 L381.5,365.4 L393.3,363.2 L391.3,354.7 L393.7,354.3 L399.3,348.5 L405.7,349.2 L410.8,344.6 L416.3,344.0 M373.3,373.5 L375.5,369.6 L381.5,365.4 L393.3,363.2 L391.3,354.7 L393.7,354.3 L399.3,348.5 L405.7,349.2 L410.8,344.6 L416.3,344.0 M463.8,384.9 L470.0,380.8 L468.7,369.9 L455.5,363.1 L455.6,358.3 L449.0,348.0 L445.4,352.6 L440.0,355.1 L438.5,350.7 L434.9,352.3 L426.5,352.3 L417.5,347.2 L416.3,344.0 M463.8,384.9 L470.0,380.8 L468.7,369.9 L455.5,363.1 L455.6,358.3 L449.0,348.0 L445.4,352.6 L440.0,355.1 L438.5,350.7 L434.9,352.3 L426.5,352.3 L417.5,347.2 L416.3,344.0 M327.2,485.2 L331.2,482.9 L335.8,484.2 L341.6,489.9 L346.4,492.1 L352.6,489.4 L361.2,488.9 M327.2,485.2 L331.2,482.9 L335.8,484.2 L341.6,489.9 L346.4,492.1 L352.6,489.4 L361.2,488.9 M413.5,515.7 L410.4,512.0 L409.3,506.7 L404.4,497.9 L402.3,498.3 L399.1,492.4 L391.5,500.4 L388.2,508.8 L383.5,514.2 L377.3,514.9 L374.7,513.6 L369.2,517.2 L365.1,511.1 L366.7,505.0 L363.1,497.7 L361.2,488.9 M413.5,515.7 L410.4,512.0 L409.3,506.7 L404.4,497.9 L402.3,498.3 L399.1,492.4 L391.5,500.4 L388.2,508.8 L383.5,514.2 L377.3,514.9 L374.7,513.6 L369.2,517.2 L365.1,511.1 L366.7,505.0 L363.1,497.7 L361.2,488.9 M298.9,192.3 L301.9,189.7 L309.2,188.2 L314.4,184.0 L322.4,186.0 L327.0,183.2 L328.6,179.8 L332.9,176.7 L335.1,171.2 M298.9,192.3 L301.9,189.7 L309.2,188.2 L314.4,184.0 L322.4,186.0 L327.0,183.2 L328.6,179.8 L332.9,176.7 L335.1,171.2 M273.4,129.9 L273.6,139.6 L277.0,143.8 L275.4,146.8 L279.2,154.5 L276.7,160.8 L279.3,164.8 L278.5,169.2 L278.5,174.2 L287.5,174.9 L290.9,181.0 L295.2,183.4 L294.4,188.3 L298.9,192.3 M273.4,129.9 L273.6,139.6 L277.0,143.8 L275.4,146.8 L279.2,154.5 L276.7,160.8 L279.3,164.8 L278.5,169.2 L278.5,174.2 L287.5,174.9 L290.9,181.0 L295.2,183.4 L294.4,188.3 L298.9,192.3 M439.9,179.1 L436.7,178.9 L433.4,173.2 L431.5,173.6 L423.9,166.8 L422.0,159.7 L418.8,158.7 L413.5,160.9 L403.3,160.3 L401.3,161.7 L395.0,159.3 L392.7,160.4 L379.7,152.9 L374.6,153.9 L366.4,150.0 L356.1,153.3 L348.4,151.5 L346.4,148.1 M439.9,179.1 L436.7,178.9 L433.4,173.2 L431.5,173.6 L423.9,166.8 L422.0,159.7 L418.8,158.7 L413.5,160.9 L403.3,160.3 L401.3,161.7 L395.0,159.3 L392.7,160.4 L379.7,152.9 L374.6,153.9 L366.4,150.0 L356.1,153.3 L348.4,151.5 L346.4,148.1 M173.9,197.6 L177.9,203.1 L181.5,202.9 L187.9,198.0 L197.7,201.5 M173.9,197.6 L177.9,203.1 L181.5,202.9 L187.9,198.0 L197.7,201.5 M659.0,156.8 L655.7,164.4 L650.7,163.5 L643.5,165.2 L640.7,162.9 L633.4,160.8 L629.1,156.6 L625.0,169.8 L631.0,173.2 L631.6,178.0 L636.7,172.7 L642.3,178.7 L642.9,181.5 L640.6,186.1 L642.6,188.3 L641.4,194.1 L637.5,198.4 L632.0,199.5 L634.2,202.6 L633.9,214.0 L639.3,216.8 L632.8,229.2 L633.6,231.4 L629.9,240.8 L627.4,244.4 L625.5,251.2 L626.0,254.4 L623.1,256.5 M659.0,156.8 L655.7,164.4 L650.7,163.5 L643.5,165.2 L640.7,162.9 L633.4,160.8 L629.1,156.6 L625.0,169.8 L631.0,173.2 L631.6,178.0 L636.7,172.7 L642.3,178.7 L642.9,181.5 L640.6,186.1 L642.6,188.3 L641.4,194.1 L637.5,198.4 L632.0,199.5 L634.2,202.6 L633.9,214.0 L639.3,216.8 L632.8,229.2 L633.6,231.4 L629.9,240.8 L627.4,244.4 L625.5,251.2 L626.0,254.4 L623.1,256.5 M570.1,249.7 L573.4,245.8 L574.4,248.9 L579.5,243.6 L583.6,243.7 L589.1,249.0 L596.0,247.0 L602.9,250.6 L607.0,250.1 L608.9,247.4 L621.3,256.2 L621.7,256.4 L623.1,256.5 M570.1,249.7 L573.4,245.8 L574.4,248.9 L579.5,243.6 L583.6,243.7 L589.1,249.0 L596.0,247.0 L602.9,250.6 L607.0,250.1 L608.9,247.4 L621.3,256.2 L621.7,256.4 L623.1,256.5 M186.3,376.4 L188.6,374.0 L194.7,372.7 L196.2,376.2 L202.6,375.6 L206.3,378.2 L212.8,376.3 L217.7,373.3 L213.6,368.8 L213.6,361.4 L215.0,358.9 L213.0,347.9 L210.3,342.3 L210.7,338.3 L205.9,333.8 L204.5,328.6 L198.6,321.8 M186.3,376.4 L188.6,374.0 L194.7,372.7 L196.2,376.2 L202.6,375.6 L206.3,378.2 L212.8,376.3 L217.7,373.3 L213.6,368.8 L213.6,361.4 L215.0,358.9 L213.0,347.9 L210.3,342.3 L210.7,338.3 L205.9,333.8 L204.5,328.6 L198.6,321.8 M244.7,318.3 L250.7,311.6 L254.5,311.9 M244.7,318.3 L250.7,311.6 L254.5,311.9 M198.6,321.8 L204.5,322.9 L215.8,323.2 L220.4,320.8 L220.2,318.0 L230.1,316.2 L240.8,315.7 M198.6,321.8 L204.5,322.9 L215.8,323.2 L220.4,320.8 L220.2,318.0 L230.1,316.2 L240.8,315.7 M542.4,369.0 L546.2,376.4 L551.5,379.5 L553.9,384.2 L561.3,377.3 L566.1,383.0 L574.4,382.3 L583.9,370.6 M542.4,369.0 L546.2,376.4 L551.5,379.5 L553.9,384.2 L561.3,377.3 L566.1,383.0 L574.4,382.3 L583.9,370.6 M413.5,515.7 L417.2,503.9 L420.3,496.7 L423.4,497.7 L428.5,493.5 L435.6,490.9 M413.5,515.7 L417.2,503.9 L420.3,496.7 L423.4,497.7 L428.5,493.5 L435.6,490.9 M463.8,384.9 L464.5,389.9 L469.1,392.7 L473.7,391.4 L486.3,392.9 L491.5,388.6 L492.7,383.4 L503.7,385.3 L505.5,382.4 L509.2,386.4 L510.2,391.1 L514.5,392.4 L515.5,385.5 L518.4,379.0 L521.7,365.8 L528.7,366.4 L535.0,365.2 L542.4,369.0 M463.8,384.9 L464.5,389.9 L469.1,392.7 L473.7,391.4 L486.3,392.9 L491.5,388.6 L492.7,383.4 L503.7,385.3 L505.5,382.4 L509.2,386.4 L510.2,391.1 L514.5,392.4 L515.5,385.5 L518.4,379.0 L521.7,365.8 L528.7,366.4 L535.0,365.2 L542.4,369.0 M570.1,249.7 L566.5,255.4 L561.0,259.6 L560.5,269.3 L554.5,272.3 L549.8,270.5 L545.5,271.5 L543.1,276.6 M570.1,249.7 L566.5,255.4 L561.0,259.6 L560.5,269.3 L554.5,272.3 L549.8,270.5 L545.5,271.5 L543.1,276.6 M505.8,244.5 L510.9,246.4 L516.6,253.1 L521.9,261.8 L518.8,264.1 L521.1,270.4 L524.5,269.5 L527.1,272.9 L531.8,271.6 L537.8,278.2 L543.1,276.6 M505.8,244.5 L510.9,246.4 L516.6,253.1 L521.9,261.8 L518.8,264.1 L521.1,270.4 L524.5,269.5 L527.1,272.9 L531.8,271.6 L537.8,278.2 L543.1,276.6 M505.8,244.5 L501.1,245.1 L497.5,249.2 L485.9,250.9 L483.9,252.7 M505.8,244.5 L501.1,245.1 L497.5,249.2 L485.9,250.9 L483.9,252.7 M282.1,428.5 L287.6,430.1 L288.9,436.4 L292.1,437.9 L302.8,436.7 L306.9,442.2 L310.3,443.1 L309.2,446.9 L316.4,450.5 L317.3,455.0 L320.3,456.2 L315.9,461.0 L317.6,465.9 L315.2,470.0 L317.8,474.5 L324.1,476.2 L324.2,480.7 L327.2,485.2 M282.1,428.5 L287.6,430.1 L288.9,436.4 L292.1,437.9 L302.8,436.7 L306.9,442.2 L310.3,443.1 L309.2,446.9 L316.4,450.5 L317.3,455.0 L320.3,456.2 L315.9,461.0 L317.6,465.9 L315.2,470.0 L317.8,474.5 L324.1,476.2 L324.2,480.7 L327.2,485.2 M303.6,535.6 L301.0,522.1 L304.7,520.0 L310.5,512.2 L317.0,508.8 L320.9,501.8 L325.8,495.7 L325.2,487.7 L327.2,485.2 M303.6,535.6 L301.0,522.1 L304.7,520.0 L310.5,512.2 L317.0,508.8 L320.9,501.8 L325.8,495.7 L325.2,487.7 L327.2,485.2 M220.1,656.9 L219.7,651.3 L221.5,644.4 L227.8,639.9 L227.6,636.3 L234.3,630.1 L237.7,623.7 L237.8,619.2 L240.9,617.0 L240.3,610.3 L236.9,610.3 L238.9,607.3 L237.3,602.2 L233.8,597.8 L228.4,596.5 L226.5,596.6 L224.8,593.6 L229.4,584.5 L230.3,576.3 L228.2,572.3 L231.6,569.2 L235.4,569.6 L240.0,566.3 L240.7,570.1 L244.4,571.6 L246.3,566.9 L250.4,566.9 L254.3,563.0 L259.6,564.8 L268.5,560.5 L275.8,559.4 L279.6,562.3 L284.4,560.1 L289.0,553.6 L293.4,553.7 L296.5,543.4 L293.3,540.7 L295.3,535.4 L298.1,536.8 L303.6,535.7 M220.1,656.9 L219.7,651.3 L221.5,644.4 L227.8,639.9 L227.6,636.3 L234.3,630.1 L237.7,623.7 L237.8,619.2 L240.9,617.0 L240.3,610.3 L236.9,610.3 L238.9,607.3 L237.3,602.2 L233.8,597.8 L228.4,596.5 L226.5,596.6 L224.8,593.6 L229.4,584.5 L230.3,576.3 L228.2,572.3 L231.6,569.2 L235.4,569.6 L240.0,566.3 L240.7,570.1 L244.4,571.6 L246.3,566.9 L250.4,566.9 L254.3,563.0 L259.6,564.8 L268.5,560.5 L275.8,559.4 L279.6,562.3 L284.4,560.1 L289.0,553.6 L293.4,553.7 L296.5,543.4 L293.3,540.7 L295.3,535.4 L298.1,536.8 L303.6,535.7 M373.3,373.5 L367.9,373.1 L367.0,373.3 M373.3,373.5 L367.9,373.1 L367.0,373.3 M361.2,488.9 L365.3,487.6 L364.4,482.3 L369.7,474.3 L369.1,469.1 L377.8,459.9 L380.3,454.1 L385.8,455.4 L387.5,448.8 L384.6,440.4 L387.8,435.2 L386.0,428.3 L383.5,426.6 L381.1,420.8 L386.8,417.6 L392.0,409.5 L390.3,401.6 L390.5,396.3 L385.4,385.4 L377.6,380.8 L373.3,373.5 M361.2,488.9 L365.3,487.6 L364.4,482.3 L369.7,474.3 L369.1,469.1 L377.8,459.9 L380.3,454.1 L385.8,455.4 L387.5,448.8 L384.6,440.4 L387.8,435.2 L386.0,428.3 L383.5,426.6 L381.1,420.8 L386.8,417.6 L392.0,409.5 L390.3,401.6 L390.5,396.3 L385.4,385.4 L377.6,380.8 L373.3,373.5 M335.1,171.2 L333.3,167.9 L333.3,162.5 L342.1,159.9 L344.7,151.3 L346.4,148.1 M335.1,171.2 L333.3,167.9 L333.3,162.5 L342.1,159.9 L344.7,151.3 L346.4,148.1 M335.1,171.2 L339.1,178.9 L338.8,183.5 L340.8,186.5 L339.1,190.2 L348.1,201.7 L350.8,209.3 L357.1,211.3 L361.2,221.3 L360.6,224.7 M335.1,171.2 L339.1,178.9 L338.8,183.5 L340.8,186.5 L339.1,190.2 L348.1,201.7 L350.8,209.3 L357.1,211.3 L361.2,221.3 L360.6,224.7 M435.7,214.2 L436.5,205.0 L438.6,204.5 L443.2,198.0 L439.4,196.0 L438.5,189.2 L435.7,187.1 L436.3,182.1 L439.9,179.1 M435.7,214.2 L436.5,205.0 L438.6,204.5 L443.2,198.0 L439.4,196.0 L438.5,189.2 L435.7,187.1 L436.3,182.1 L439.9,179.1 M439.9,179.1 L441.6,175.7 L449.7,166.3 L445.5,164.1 L448.0,155.3 L451.5,155.3 L453.5,152.7 L450.3,150.6 L448.7,142.8 L459.1,139.3 L460.5,136.4 L469.3,137.5 L469.7,134.2 L469.0,127.8 L470.5,121.4 L469.0,116.7 L472.7,114.8 L478.5,108.5 L477.3,104.4 L479.2,98.3 L477.4,90.3 M439.9,179.1 L441.6,175.7 L449.7,166.3 L445.5,164.1 L448.0,155.3 L451.5,155.3 L453.5,152.7 L450.3,150.6 L448.7,142.8 L459.1,139.3 L460.5,136.4 L469.3,137.5 L469.7,134.2 L469.0,127.8 L470.5,121.4 L469.0,116.7 L472.7,114.8 L478.5,108.5 L477.3,104.4 L479.2,98.3 L477.4,90.3 M330.8,81.0 L338.1,86.3 L346.4,95.5 L350.0,105.4 L346.4,109.8 L348.1,113.5 L346.1,115.0 L347.5,125.8 L350.1,126.0 L347.7,133.7 L350.9,146.6 L347.9,145.0 L346.4,148.1 M330.8,81.0 L338.1,86.3 L346.4,95.5 L350.0,105.4 L346.4,109.8 L348.1,113.5 L346.1,115.0 L347.5,125.8 L350.1,126.0 L347.7,133.7 L350.9,146.6 L347.9,145.0 L346.4,148.1 M623.1,256.5 L624.0,258.7 L633.3,264.3 L633.1,273.9 L635.5,274.2 L639.4,278.7 L639.3,282.2 M623.1,256.5 L624.0,258.7 L633.3,264.3 L633.1,273.9 L635.5,274.2 L639.4,278.7 L639.3,282.2 M296.8,230.7 L293.0,229.9 L289.9,225.5 L281.1,223.4 L280.4,220.5 L275.4,218.2 L274.7,208.9 L269.9,206.7 L265.2,207.7 L257.2,213.9 L251.9,213.5 L251.8,209.4 L246.8,204.6 L246.1,200.1 L242.9,198.7 L241.9,201.4 L236.3,204.0 L228.4,202.9 L225.5,205.4 L219.6,204.7 L214.7,207.0 L211.8,206.1 L209.2,201.9 L202.1,202.2 L197.7,201.5 M296.8,230.7 L293.0,229.9 L289.9,225.5 L281.1,223.4 L280.4,220.5 L275.4,218.2 L274.7,208.9 L269.9,206.7 L265.2,207.7 L257.2,213.9 L251.9,213.5 L251.8,209.4 L246.8,204.6 L246.1,200.1 L242.9,198.7 L241.9,201.4 L236.3,204.0 L228.4,202.9 L225.5,205.4 L219.6,204.7 L214.7,207.0 L211.8,206.1 L209.2,201.9 L202.1,202.2 L197.7,201.5 M285.5,270.1 L285.7,267.4 L293.0,262.5 L295.2,252.9 L298.5,249.2 L298.6,243.4 L296.4,241.2 L298.4,238.0 L302.8,234.4 L296.8,230.7 M285.5,270.1 L285.7,267.4 L293.0,262.5 L295.2,252.9 L298.5,249.2 L298.6,243.4 L296.4,241.2 L298.4,238.0 L302.8,234.4 L296.8,230.7 M254.5,311.9 L256.7,301.4 L261.2,294.3 L265.3,276.4 L272.3,278.4 L273.1,274.9 L276.7,275.2 L285.6,271.2 M254.5,311.9 L256.7,301.4 L261.2,294.3 L265.3,276.4 L272.3,278.4 L273.1,274.9 L276.7,275.2 L285.6,271.2 M298.9,192.3 L300.5,199.0 L305.4,203.9 L307.0,211.2 L302.3,216.9 L296.6,218.7 L296.8,230.7 M298.9,192.3 L300.5,199.0 L305.4,203.9 L307.0,211.2 L302.3,216.9 L296.6,218.7 L296.8,230.7 M313.7,375.1 L314.7,371.9 L309.8,363.2 L306.3,363.2 L299.7,356.5 L299.8,348.9 L298.1,345.6 L295.4,343.3 L289.2,333.4 L287.1,328.1 L282.4,325.1 L281.1,328.9 L274.0,330.3 L267.1,328.6 L267.3,321.3 L261.5,320.1 L261.2,316.3 L255.8,314.6 L254.5,311.9 M313.7,375.1 L314.7,371.9 L309.8,363.2 L306.3,363.2 L299.7,356.5 L299.8,348.9 L298.1,345.6 L295.4,343.3 L289.2,333.4 L287.1,328.1 L282.4,325.1 L281.1,328.9 L274.0,330.3 L267.1,328.6 L267.3,321.3 L261.5,320.1 L261.2,316.3 L255.8,314.6 L254.5,311.9 M282.1,428.5 L287.5,421.2 L290.1,422.1 L292.4,411.8 L298.8,407.9 L292.5,400.2 L292.1,394.9 L293.8,394.4 L291.9,388.1 L297.7,383.8 L303.0,383.2 L306.5,377.6 L313.7,375.1 M282.1,428.5 L287.5,421.2 L290.1,422.1 L292.4,411.8 L298.8,407.9 L292.5,400.2 L292.1,394.9 L293.8,394.4 L291.9,388.1 L297.7,383.8 L303.0,383.2 L306.5,377.6 L313.7,375.1 M367.0,373.3 L352.8,371.8 L350.0,373.1 L346.2,370.7 L345.2,374.5 L337.8,375.9 L332.2,373.5 L326.8,378.3 L322.4,374.5 L316.1,376.6 L313.7,375.1 M367.0,373.3 L352.8,371.8 L350.0,373.1 L346.2,370.7 L345.2,374.5 L337.8,375.9 L332.2,373.5 L326.8,378.3 L322.4,374.5 L316.1,376.6 L313.7,375.1 M435.7,214.2 L437.1,217.6 L442.5,220.0 L447.0,226.5 L445.7,232.6 L451.0,235.7 L453.0,234.1 L462.9,248.0 L463.5,251.8 L470.4,253.0 L479.3,251.6 L480.1,248.9 L483.9,252.7 M435.7,214.2 L437.1,217.6 L442.5,220.0 L447.0,226.5 L445.7,232.6 L451.0,235.7 L453.0,234.1 L462.9,248.0 L463.5,251.8 L470.4,253.0 L479.3,251.6 L480.1,248.9 L483.9,252.7 M410.6,234.8 L405.3,236.7 L403.3,234.4 L397.7,237.4 L385.2,236.4 L387.7,234.9 L388.6,230.6 L384.5,227.1 L382.1,222.0 L378.1,220.8 L374.9,222.6 L372.3,219.9 L368.3,223.0 L360.6,224.7 M410.6,234.8 L405.3,236.7 L403.3,234.4 L397.7,237.4 L385.2,236.4 L387.7,234.9 L388.6,230.6 L384.5,227.1 L382.1,222.0 L378.1,220.8 L374.9,222.6 L372.3,219.9 L368.3,223.0 L360.6,224.7 M416.3,344.0 L418.6,337.6 L417.6,334.2 L418.4,323.6 L413.1,305.9 L407.8,300.3 L410.8,291.0 L407.8,285.6 L407.0,283.7 L413.0,281.8 L410.0,273.0 L405.8,270.0 L405.7,267.3 L414.6,263.1 L414.2,255.2 L419.2,251.3 L420.7,245.2 L417.0,241.1 L415.1,235.9 L410.6,234.8 M416.3,344.0 L418.6,337.6 L417.6,334.2 L418.4,323.6 L413.1,305.9 L407.8,300.3 L410.8,291.0 L407.8,285.6 L407.0,283.7 L413.0,281.8 L410.0,273.0 L405.8,270.0 L405.7,267.3 L414.6,263.1 L414.2,255.2 L419.2,251.3 L420.7,245.2 L417.0,241.1 L415.1,235.9 L410.6,234.8 M410.6,234.8 L411.8,230.8 L416.2,225.8 L416.9,218.3 L433.5,217.2 L435.7,214.2 M410.6,234.8 L411.8,230.8 L416.2,225.8 L416.9,218.3 L433.5,217.2 L435.7,214.2" />
+</g>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

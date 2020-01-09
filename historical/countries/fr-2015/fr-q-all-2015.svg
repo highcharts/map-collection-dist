@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.3
+Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Haute-Normandie (2015)</title>
+<g id="admin2">
+
+<g id="FR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>France</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Fr.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FRA</iso-a3>
+    <iso-a2>FR</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-key>fr</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.Q">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Haute-Normandie</name>
+    <hc-key>fr-q</hc-key>
+    <hc-a2>HN</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.Q.SM" d="M136.3,279.9 L112.5,293.8 L85.3,296.7 L58.3,292.1 L35.2,283.2 L22.7,282.3 L15.3,279.5 L8.9,275.4 L5.4,267.3 L0.9,264.0 L0.0,259.7 L1.8,250.6 L19.7,220.4 L34.5,176.6 L39.6,170.9 L56.3,158.4 L59.9,158.5 L63.3,155.3 L106.6,137.2 L110.1,132.6 L151.6,109.5 L163.0,106.5 L176.1,98.1 L201.8,89.6 L229.8,90.8 L364.7,51.2 L372.7,45.0 L380.7,42.5 L393.9,28.5 L430.9,0.0 L476.6,33.7 L529.0,91.1 L533.6,98.4 L538.1,118.2 L541.3,125.8 L547.7,137.0 L551.7,147.7 L551.9,153.4 L543.2,159.8 L540.3,163.3 L528.9,181.2 L526.7,187.4 L527.2,191.5 L530.1,192.0 L540.3,189.0 L543.1,189.4 L544.8,193.6 L539.5,204.1 L529.1,210.7 L526.8,213.6 L530.8,222.8 L530.5,232.5 L531.4,247.7 L534.1,259.0 L535.1,276.2 L536.0,281.8 L540.4,285.3 L548.9,282.3 L552.1,282.8 L554.6,287.7 L551.8,298.1 L545.9,301.6 L543.8,304.7 L538.2,319.1 L536.6,325.1 L537.0,331.6 L523.5,337.5 L478.5,316.0 L430.6,308.0 L416.5,313.6 L407.4,325.5 L392.3,356.8 L388.0,360.3 L364.2,358.0 L356.6,360.3 L350.0,365.6 L345.1,374.2 L341.9,376.8 L320.4,382.2 L314.8,386.9 L311.8,393.5 L313.9,401.9 L306.6,404.5 L300.4,403.4 L294.7,399.1 L289.1,392.0 L279.7,384.8 L268.2,380.6 L258.4,373.6 L254.2,358.2 L274.0,362.2 L274.0,350.7 L270.1,345.5 L257.3,338.6 L241.9,322.4 L237.3,320.2 L205.9,328.0 L190.9,324.9 L181.6,306.1 L175.7,308.3 L167.9,308.8 L161.6,305.7 L151.4,290.7 L141.2,280.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SM</hasc>
+    <alt-name>Alta Normand¡a|Upper Normandy</alt-name>
+    <woe-id>12597115</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA7</fips>
+    <name>Seine-Maritime</name>
+    <type>Metropolitan department</type>
+    <region>Haute-Normandie</region>
+    <longitude>1.1513</longitude>
+    <woe-name>Seine-Maritime</woe-name>
+    <latitude>49.5936</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-q-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.Q.EU" d="M136.3,279.9 L141.2,280.9 L151.4,290.7 L161.6,305.7 L167.9,308.8 L175.7,308.3 L181.6,306.1 L190.9,324.9 L205.9,328.0 L237.3,320.2 L241.9,322.4 L257.3,338.6 L270.1,345.5 L274.0,350.7 L274.0,362.2 L254.2,358.2 L258.4,373.6 L268.2,380.6 L279.7,384.8 L289.1,392.0 L294.7,399.1 L300.4,403.4 L306.6,404.5 L313.9,401.9 L311.8,393.5 L314.8,386.9 L320.4,382.2 L341.9,376.8 L345.1,374.2 L350.0,365.6 L356.6,360.3 L364.2,358.0 L388.0,360.3 L392.3,356.8 L407.4,325.5 L416.5,313.6 L430.6,308.0 L478.5,316.0 L523.5,337.5 L537.0,331.6 L537.8,346.2 L546.6,382.1 L555.0,404.2 L557.2,412.3 L552.0,415.0 L547.9,412.5 L544.2,406.8 L538.3,402.3 L531.5,404.6 L526.7,412.6 L528.9,422.2 L518.7,442.1 L501.7,496.2 L488.8,503.0 L446.6,512.3 L443.4,515.2 L443.0,518.7 L446.0,525.9 L446.5,533.9 L444.9,540.6 L446.7,546.3 L455.4,548.7 L457.2,550.4 L456.5,558.1 L458.3,567.4 L444.9,575.4 L442.3,582.1 L445.0,592.9 L443.9,601.7 L438.5,607.5 L425.0,614.6 L417.3,621.3 L411.4,631.0 L407.4,642.8 L400.5,648.8 L392.5,652.2 L378.4,660.3 L374.8,661.0 L365.4,656.8 L353.7,657.6 L343.8,655.0 L334.8,646.8 L330.9,645.3 L327.7,647.7 L327.7,654.1 L324.7,658.6 L320.9,659.6 L314.1,658.7 L305.4,660.4 L302.5,663.0 L295.3,673.7 L288.2,675.8 L281.4,675.3 L249.5,683.5 L241.3,688.6 L230.2,700.0 L214.6,692.6 L208.0,682.1 L202.0,678.4 L202.0,674.8 L209.7,665.7 L212.6,655.9 L207.1,643.6 L201.1,639.0 L188.9,635.2 L180.2,628.9 L165.5,606.8 L163.0,596.0 L158.8,590.7 L153.8,590.9 L147.8,594.6 L141.6,595.4 L116.3,587.4 L108.6,587.7 L102.3,586.0 L95.8,578.9 L94.3,570.8 L100.5,556.8 L104.3,551.0 L105.9,544.8 L107.6,527.0 L106.4,519.4 L103.6,514.8 L94.7,507.6 L90.8,501.5 L89.6,493.9 L91.2,490.3 L99.5,490.8 L103.5,489.0 L103.6,483.4 L101.8,473.9 L106.9,461.8 L106.5,458.4 L98.7,441.7 L95.5,428.9 L91.4,422.4 L82.6,414.0 L80.0,406.8 L81.7,400.4 L92.6,394.9 L93.6,388.7 L90.6,385.4 L80.6,383.3 L75.4,378.2 L71.4,368.6 L72.8,355.6 L71.9,343.1 L72.5,328.5 L70.1,307.3 L108.8,299.9 L124.1,292.7 L130.6,287.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.EU</hasc>
+    <alt-name>Alta Normand¡a|Upper Normandy</alt-name>
+    <woe-id>12597139</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA7</fips>
+    <name>Eure</name>
+    <type>Metropolitan department</type>
+    <region>Haute-Normandie</region>
+    <longitude>0.92951</longitude>
+    <woe-name>Eure</woe-name>
+    <latitude>49.0414</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>fr-q-eu</hc-key>
+    <hc-a2>EU</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

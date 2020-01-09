@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.2
-Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.3
+Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Martinique</title>
 <g id="admin2">
@@ -12,6 +12,7 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 <g id="FR.MQ">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Martinique</name>
+    <iso_3166_2>FR-MQ</iso_3166_2>
     <hc-key>fr-mq</hc-key>
     <hc-a2>MA</hc-a2>
   </desc>
@@ -48,14 +49,12 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <woe-name>Martinique</woe-name>
     <latitude>14.7245</latitude>
     <woe-label>NULL</woe-label>
-    <hc-middle-x>0.44</hc-middle-x>
-    <hc-middle-y>0.36</hc-middle-y>
     <hc-key>fr-mq-mq</hc-key>
     <hc-a2>MQ</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

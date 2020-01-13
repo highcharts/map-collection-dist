@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.3
+Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Île-de-France (2015)</title>
+<g id="admin2">
+
+<g id="FR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>France</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Fr.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FRA</iso-a3>
+    <iso-a2>FR</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-key>fr</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.J">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Île-de-France</name>
+    <hc-key>fr-j</hc-key>
+    <hc-a2>ÎD</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.SE" d="M380.3,77.5 L394.7,70.8 L402.9,72.7 L412.7,82.1 L416.2,82.0 L423.2,78.9 L434.4,86.2 L440.3,84.9 L447.5,77.3 L454.0,77.1 L472.3,82.6 L498.4,77.8 L503.7,75.6 L512.0,81.1 L514.7,80.7 L519.9,76.0 L524.5,74.0 L534.2,73.9 L545.7,66.8 L566.0,73.4 L572.1,81.0 L577.2,92.4 L577.7,97.3 L574.4,108.6 L575.6,115.4 L577.8,118.5 L626.1,161.1 L630.1,162.4 L638.3,158.6 L641.9,163.6 L644.4,181.0 L647.3,186.0 L659.3,195.0 L669.6,197.9 L679.1,196.3 L678.3,207.1 L674.5,213.0 L671.4,213.9 L660.1,213.7 L656.2,215.1 L656.7,220.0 L661.4,223.9 L661.8,226.6 L655.1,233.1 L651.6,242.0 L652.9,247.1 L660.2,247.0 L663.7,252.7 L670.6,260.1 L674.1,274.5 L674.7,279.7 L672.0,291.6 L673.5,301.7 L676.2,303.5 L685.6,300.9 L690.0,301.9 L700.0,316.2 L685.2,329.3 L679.5,338.5 L674.5,353.7 L671.2,357.0 L657.7,360.0 L655.3,364.2 L660.5,373.0 L660.0,377.5 L652.9,383.6 L650.5,390.3 L654.2,397.6 L654.2,401.9 L651.4,414.0 L652.6,418.8 L644.0,428.3 L639.1,437.8 L632.9,439.0 L623.1,436.1 L588.9,442.1 L579.8,440.2 L563.3,439.1 L556.9,440.7 L550.4,444.9 L533.4,444.5 L529.9,448.1 L527.4,459.4 L524.4,465.3 L523.3,475.4 L524.5,482.2 L529.3,491.9 L519.9,511.6 L515.9,515.7 L501.3,523.8 L497.7,529.6 L493.9,548.8 L459.7,561.2 L449.7,560.3 L452.3,551.1 L447.3,546.7 L438.1,547.5 L432.9,549.5 L423.6,559.8 L416.7,564.1 L412.1,565.5 L365.7,561.5 L360.2,562.1 L348.1,565.6 L338.1,564.3 L332.6,559.2 L332.7,552.9 L337.1,548.0 L348.6,549.8 L352.5,544.9 L349.6,535.5 L353.3,529.3 L354.2,522.6 L347.4,513.4 L328.4,500.5 L322.8,479.0 L321.0,474.5 L316.0,467.6 L312.9,468.1 L313.9,460.9 L345.5,426.1 L355.6,419.4 L359.2,414.1 L352.2,407.8 L351.3,403.7 L350.7,385.7 L349.3,376.7 L349.4,365.4 L355.9,344.2 L358.0,333.3 L359.1,308.1 L363.9,299.6 L371.3,293.0 L376.7,286.0 L375.3,276.6 L375.2,269.9 L382.8,257.4 L384.6,248.1 L382.6,218.0 L381.5,209.5 L375.6,192.3 L376.1,184.5 L381.2,169.9 L382.9,161.6 L382.9,154.1 L375.6,135.3 L378.5,124.7 L377.1,120.0 L370.0,115.3 L374.5,105.3 L376.5,86.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597137</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Seine-et-Marne</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.84201</longitude>
+    <woe-name>Seine-et-Marne</woe-name>
+    <latitude>48.5515</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>fr-j-se</hc-key>
+    <hc-a2>SE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.HD" d="M291.6,140.9 L295.2,146.0 L294.3,154.9 L291.5,158.5 L279.1,164.8 L273.9,169.7 L267.7,177.2 L262.5,185.8 L260.3,194.1 L263.1,203.7 L269.6,201.4 L295.3,212.5 L293.0,218.9 L290.8,229.8 L289.9,240.7 L291.3,247.2 L289.0,253.4 L285.1,256.6 L280.9,256.0 L273.5,243.7 L264.2,238.5 L259.8,233.0 L239.8,211.6 L235.4,199.5 L235.3,178.6 L239.1,174.7 L246.2,163.4 L250.4,161.1 L256.3,159.6 L261.5,155.8 L270.1,147.5 L283.5,141.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.HD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>15022631</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Hauts-de-Seine</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.19706</longitude>
+    <woe-name>Hauts-de-Seine</woe-name>
+    <latitude>48.8557</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>fr-j-hd</hc-key>
+    <hc-a2>HD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.SS" d="M273.9,169.7 L279.1,164.8 L291.5,158.5 L294.3,154.9 L295.2,146.0 L291.6,140.9 L300.8,133.8 L332.5,142.6 L343.3,139.1 L360.6,121.0 L370.0,115.3 L377.1,120.0 L378.5,124.7 L375.6,135.3 L382.9,154.1 L382.9,161.6 L381.2,169.9 L376.1,184.5 L375.6,192.3 L381.5,209.5 L382.6,218.0 L370.0,205.2 L356.8,196.3 L342.9,191.5 L328.1,186.4 L323.1,182.6 L315.6,172.2 L310.7,170.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.SS</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597156</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Seine-Saint-Denis</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.51916</longitude>
+    <woe-name>Seine-Saint-Denis</woe-name>
+    <latitude>48.9289</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-j-ss</hc-key>
+    <hc-a2>SS</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.ES" d="M259.8,233.0 L264.2,238.5 L273.5,243.7 L280.9,256.0 L285.1,256.6 L289.0,253.4 L291.3,247.2 L297.8,250.2 L307.9,259.6 L314.0,261.1 L349.6,255.2 L354.2,256.9 L361.4,270.6 L365.0,275.5 L369.6,277.8 L375.3,276.6 L376.7,286.0 L371.3,293.0 L363.9,299.6 L359.1,308.1 L358.0,333.3 L355.9,344.2 L349.4,365.4 L349.3,376.7 L350.7,385.7 L351.3,403.7 L352.2,407.8 L359.2,414.1 L355.6,419.4 L345.5,426.1 L313.9,460.9 L312.9,468.1 L302.7,469.6 L287.8,460.5 L284.2,461.0 L279.9,466.5 L276.0,469.3 L267.3,471.7 L261.3,467.8 L258.9,461.1 L251.2,454.6 L245.4,456.8 L240.6,466.5 L237.5,469.3 L225.9,474.6 L176.7,485.3 L171.2,481.5 L171.1,476.0 L180.8,463.5 L179.4,458.8 L173.3,455.3 L170.2,449.8 L168.6,443.4 L167.1,431.5 L164.7,426.2 L155.5,415.9 L154.5,411.8 L154.5,399.9 L154.9,391.4 L165.2,347.1 L167.7,343.1 L171.1,341.9 L183.0,342.5 L188.2,339.7 L192.4,332.2 L194.9,322.9 L195.2,314.6 L192.5,294.9 L193.7,286.2 L198.7,277.6 L202.3,275.0 L210.0,274.0 L213.6,272.2 L216.7,267.2 L219.7,252.7 L222.1,246.3 L225.2,242.8 L253.8,233.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.ES</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597118</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Essonne</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.29588</longitude>
+    <woe-name>Essonne</woe-name>
+    <latitude>48.5629</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>fr-j-es</hc-key>
+    <hc-a2>ES</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.VO" d="M370.0,115.3 L360.6,121.0 L343.3,139.1 L332.5,142.6 L300.8,133.8 L291.6,140.9 L283.5,141.6 L270.1,147.5 L261.5,155.8 L256.3,159.6 L250.4,161.1 L246.2,163.4 L239.1,174.7 L235.3,178.6 L226.4,176.8 L225.5,164.3 L230.5,150.3 L240.7,142.5 L244.3,135.6 L244.5,126.9 L243.1,125.0 L233.8,120.6 L216.5,118.8 L209.6,121.3 L205.6,127.4 L199.0,143.2 L193.1,147.6 L187.8,145.6 L185.2,138.9 L187.8,129.2 L182.0,117.8 L178.1,113.6 L172.1,111.3 L165.8,111.4 L145.7,118.8 L141.0,108.6 L137.3,89.5 L133.0,83.5 L126.9,80.9 L120.1,80.7 L113.2,82.4 L93.7,93.5 L87.3,93.1 L84.9,83.8 L85.5,82.0 L77.5,78.1 L59.3,74.6 L76.3,20.1 L86.6,0.0 L91.3,4.7 L93.2,13.9 L95.4,17.8 L99.4,21.1 L106.9,23.0 L117.5,23.2 L133.0,28.8 L142.6,30.3 L148.5,32.9 L160.1,29.9 L175.8,29.7 L182.4,28.5 L187.3,26.0 L201.6,15.4 L210.6,11.3 L213.7,12.0 L222.8,20.4 L231.4,25.3 L236.4,25.1 L244.4,26.9 L265.6,36.7 L275.1,37.4 L286.5,30.2 L292.6,28.6 L297.9,30.3 L355.7,63.1 L358.9,63.3 L364.5,60.5 L367.1,61.9 L373.3,71.6 L380.3,77.5 L376.5,86.1 L374.5,105.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597124</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Val-d'Oise</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.23366</longitude>
+    <woe-name>Val-d'Oise</woe-name>
+    <latitude>49.0754</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
+    <hc-key>fr-j-vo</hc-key>
+    <hc-a2>VO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.VP" d="M295.3,212.5 L269.6,201.4 L263.1,203.7 L260.3,194.1 L262.5,185.8 L267.7,177.2 L273.9,169.7 L310.7,170.0 L315.6,172.2 L323.1,182.6 L328.1,186.4 L342.9,191.5 L340.0,203.6 L337.3,210.7 L332.7,213.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VP</hasc>
+    <alt-name>Ville de Paris</alt-name>
+    <woe-id>12597155</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Paris</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.34347</longitude>
+    <woe-name>Paris</woe-name>
+    <latitude>48.8594</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-j-vp</hc-key>
+    <hc-a2>VP</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.VM" d="M382.6,218.0 L384.6,248.1 L382.8,257.4 L375.2,269.9 L375.3,276.6 L369.6,277.8 L365.0,275.5 L361.4,270.6 L354.2,256.9 L349.6,255.2 L314.0,261.1 L307.9,259.6 L297.8,250.2 L291.3,247.2 L289.9,240.7 L290.8,229.8 L293.0,218.9 L295.3,212.5 L332.7,213.5 L337.3,210.7 L340.0,203.6 L342.9,191.5 L356.8,196.3 L370.0,205.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.VM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597151</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Val-de-Marne</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>2.5155</longitude>
+    <woe-name>Val-de-Marne</woe-name>
+    <latitude>48.7752</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
+    <hc-key>fr-j-vm</hc-key>
+    <hc-a2>VM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.J.YV" d="M235.3,178.6 L235.4,199.5 L239.8,211.6 L259.8,233.0 L253.8,233.2 L225.2,242.8 L222.1,246.3 L219.7,252.7 L216.7,267.2 L213.6,272.2 L210.0,274.0 L202.3,275.0 L198.7,277.6 L193.7,286.2 L192.5,294.9 L195.2,314.6 L194.9,322.9 L192.4,332.2 L188.2,339.7 L183.0,342.5 L171.1,341.9 L167.7,343.1 L165.2,347.1 L154.9,391.4 L154.5,399.9 L151.7,397.5 L139.5,399.9 L131.0,396.6 L114.7,387.5 L105.7,378.3 L102.4,370.4 L102.7,352.9 L100.8,344.5 L97.6,339.4 L87.6,332.7 L83.5,325.7 L83.0,318.3 L81.2,313.8 L77.0,310.0 L60.2,297.8 L55.4,292.3 L52.5,287.1 L49.7,278.1 L41.9,272.1 L40.8,266.4 L43.8,259.8 L50.9,249.8 L51.4,242.9 L41.8,237.0 L38.9,231.4 L38.5,224.0 L41.9,206.2 L40.5,194.7 L32.9,182.8 L15.5,146.4 L13.6,137.0 L14.3,129.2 L12.5,127.5 L3.8,125.1 L2.0,119.4 L3.6,112.6 L3.1,104.6 L0.0,97.3 L0.4,93.8 L3.7,90.8 L46.3,81.5 L59.3,74.6 L77.5,78.1 L85.5,82.0 L84.9,83.8 L87.3,93.1 L93.7,93.5 L113.2,82.4 L120.1,80.7 L126.9,80.9 L133.0,83.5 L137.3,89.5 L141.0,108.6 L145.7,118.8 L165.8,111.4 L172.1,111.3 L178.1,113.6 L182.0,117.8 L187.8,129.2 L185.2,138.9 L187.8,145.6 L193.1,147.6 L199.0,143.2 L205.6,127.4 L209.6,121.3 L216.5,118.8 L233.8,120.6 L243.1,125.0 L244.5,126.9 L244.3,135.6 L240.7,142.5 L230.5,150.3 L225.5,164.3 L226.4,176.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>3</labelrank>
+    <hasc>FR.YV</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>12597126</woe-id>
+    <subregion>NULL</subregion>
+    <fips>FRA8</fips>
+    <name>Yvelines</name>
+    <type>Metropolitan department</type>
+    <region>Île-de-France</region>
+    <longitude>1.90058</longitude>
+    <woe-name>Yvelines</woe-name>
+    <latitude>48.8191</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>fr-j-yv</hc-key>
+    <hc-a2>YV</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

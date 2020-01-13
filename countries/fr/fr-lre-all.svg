@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.3
+Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Réunion</title>
+<g id="admin2">
+
+<g id="FR">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>France</name>
+    <labelrank>2</labelrank>
+    <country-abbrev>Fr.</country-abbrev>
+    <subregion>Western Europe</subregion>
+    <region-wb>Europe &amp; Central Asia</region-wb>
+    <iso-a3>FRA</iso-a3>
+    <iso-a2>FR</iso-a2>
+    <woe-id>-90</woe-id>
+    <continent>Europe</continent>
+    <hc-key>fr</hc-key>
+    <hc-a2>FR</hc-a2>
+  </desc>
+</g>
+
+<g id="FR.LRE">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>La Réunion</name>
+    <iso_3166_2>FR-LRE</iso_3166_2>
+    <hc-key>fr-lre</hc-key>
+    <hc-a2>LR</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="FR.LRE.RE" d="M304.8,13.5 L318.9,15.7 L333.5,9.5 L350.6,15.3 L390.5,14.5 L406.1,20.9 L421.2,30.3 L471.1,41.4 L485.9,49.7 L497.1,59.1 L521.2,85.0 L529.6,101.7 L534.1,140.3 L540.4,153.9 L567.8,182.4 L571.7,190.4 L573.5,213.9 L576.0,225.8 L579.6,235.2 L586.6,240.4 L606.0,248.3 L612.1,260.2 L625.5,283.2 L641.1,293.2 L680.9,309.7 L694.7,323.1 L700.0,346.0 L694.2,365.9 L684.8,385.8 L667.3,473.3 L665.0,497.9 L665.8,519.8 L664.1,545.1 L654.5,565.9 L631.6,574.8 L592.1,573.9 L572.5,577.4 L537.8,596.3 L511.9,600.5 L486.1,599.3 L468.2,592.3 L449.4,599.4 L421.5,600.8 L392.0,598.2 L369.2,593.2 L349.9,583.3 L314.7,558.3 L281.2,550.7 L235.4,533.0 L217.0,521.8 L208.0,511.7 L201.6,501.2 L194.5,493.1 L182.5,490.0 L146.4,490.1 L141.0,486.4 L132.7,470.0 L93.7,425.3 L80.1,402.1 L74.7,374.7 L74.3,353.9 L71.4,335.9 L24.0,274.0 L9.2,248.5 L0.2,223.8 L0.0,201.8 L6.2,178.1 L17.8,158.7 L54.9,142.7 L68.5,124.2 L73.3,102.8 L67.7,85.7 L74.3,78.7 L76.4,73.3 L74.2,67.9 L67.4,61.4 L84.6,53.5 L121.3,53.0 L152.3,30.3 L200.9,2.6 L254.1,0.0 L272.6,1.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>20</labelrank>
+    <hasc>FR.RE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>23424931</woe-id>
+    <subregion>NULL</subregion>
+    <fips>NULL</fips>
+    <name>La Réunion</name>
+    <type>Overseas department</type>
+    <region>Réunion</region>
+    <longitude>55.5405</longitude>
+    <woe-name>La Réunion</woe-name>
+    <latitude>-21.1155</latitude>
+    <woe-label>NULL</woe-label>
+    <hc-key>fr-lre-re</hc-key>
+    <hc-a2>RE</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>

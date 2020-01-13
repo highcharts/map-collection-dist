@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.2
-Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.3
+Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Sweden</title>
 <g id="admin1">
@@ -409,14 +409,14 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>SW15</fips>
     <postal-code>OR</postal-code>
-    <name>Orebro</name>
+    <name>Örebro</name>
     <country>Sweden</country>
     <type-en>County</type-en>
     <region>NULL</region>
     <longitude>15.0594</longitude>
-    <woe-name>Orebro</woe-name>
+    <woe-name>Örebro</woe-name>
     <latitude>59.3913</latitude>
-    <woe-label>Orebro, SE, Sweden</woe-label>
+    <woe-label>Örebro, SE, Sweden</woe-label>
     <type>Laen|län</type>
     <hc-middle-x>0.50</hc-middle-x>
     <hc-middle-y>0.59</hc-middle-y>
@@ -576,6 +576,6 @@ Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

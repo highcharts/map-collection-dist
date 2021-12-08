@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.3
-Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.4
+Copyright (c) 2021 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>United States of America, small</title>
 <g id="admin1">
@@ -41,8 +44,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>42.3739</latitude>
     <woe-label>Massachusetts, US, United States</woe-label>
     <type>State</type>
-    <hc-middle-x>0.36</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-x>0.75</hc-middle-x>
+    <hc-middle-y>0.76</hc-middle-y>
     <hc-key>us-ma</hc-key>
     <hc-a2>MA</hc-a2>
   </desc>
@@ -432,8 +435,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>44.0886</latitude>
     <woe-label>Vermont, US, United States</woe-label>
     <type>State</type>
-    <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.43</hc-middle-y>
+    <hc-middle-x>0.77</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
     <hc-key>us-vt</hc-key>
     <hc-a2>VT</hc-a2>
   </desc>
@@ -501,8 +504,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>41.6242</latitude>
     <woe-label>Rhode Island, US, United States</woe-label>
     <type>State</type>
-    <hc-middle-x>0.55</hc-middle-x>
-    <hc-middle-y>0.78</hc-middle-y>
+    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-y>0.82</hc-middle-y>
     <hc-key>us-ri</hc-key>
     <hc-a2>RI</hc-a2>
   </desc>
@@ -639,8 +642,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>39.3874</latitude>
     <woe-label>Maryland, US, United States</woe-label>
     <type>State</type>
-    <hc-middle-x>0.61</hc-middle-x>
-    <hc-middle-y>0.27</hc-middle-y>
+    <hc-middle-x>0.84</hc-middle-x>
+    <hc-middle-y>0.91</hc-middle-y>
     <hc-key>us-md</hc-key>
     <hc-a2>MD</hc-a2>
   </desc>
@@ -662,8 +665,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>38.8657</latitude>
     <woe-label>Delaware, US, United States</woe-label>
     <type>State</type>
-    <hc-middle-x>0.91</hc-middle-x>
-    <hc-middle-y>0.77</hc-middle-y>
+    <hc-middle-x>0.79</hc-middle-x>
+    <hc-middle-y>0.89</hc-middle-y>
     <hc-key>us-de</hc-key>
     <hc-a2>DE</hc-a2>
   </desc>
@@ -708,8 +711,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>40.0449</latitude>
     <woe-label>New Jersey, US, United States</woe-label>
     <type>State</type>
-    <hc-middle-x>0.68</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-x>0.78</hc-middle-x>
+    <hc-middle-y>0.88</hc-middle-y>
     <hc-key>us-nj</hc-key>
     <hc-a2>NJ</hc-a2>
   </desc>
@@ -800,8 +803,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>41.6486</latitude>
     <woe-label>Connecticut, US, United States</woe-label>
     <type>State</type>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.75</hc-middle-x>
+    <hc-middle-y>0.87</hc-middle-y>
     <hc-key>us-ct</hc-key>
     <hc-a2>CT</hc-a2>
   </desc>
@@ -823,8 +826,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>43.5993</latitude>
     <woe-label>New Hampshire, US, United States</woe-label>
     <type>State</type>
-    <hc-middle-x>0.38</hc-middle-x>
-    <hc-middle-y>0.57</hc-middle-y>
+    <hc-middle-x>0.73</hc-middle-x>
+    <hc-middle-y>0.77</hc-middle-y>
     <hc-key>us-nh</hc-key>
     <hc-a2>NH</hc-a2>
   </desc>
@@ -938,8 +941,8 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
     <latitude>38.8922</latitude>
     <woe-label>District of Columbia, US, United States</woe-label>
     <type>Federal District</type>
-    <hc-middle-x>0.57</hc-middle-x>
-    <hc-middle-y>0.14</hc-middle-y>
+    <hc-middle-x>0.81</hc-middle-x>
+    <hc-middle-y>0.92</hc-middle-y>
     <hc-key>us-dc</hc-key>
     <hc-a2>DC</hc-a2>
   </desc>
@@ -1229,6 +1232,6 @@ Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2020 Highsoft AS, Based on data from Natural Earth</text>
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2021 Highsoft AS, Based on data from Natural Earth</text>
 
 <g id="__separator_lines__"><path d="M19,301 L300,445 M177,469 L177,390" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M638,90 L691,87" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M658,102 L676,123 L691,123" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M668,120 L677,159 L691,159" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M662,128 L676,195 L691,195" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M649,134 L672,231 L691,231" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M632,170 L668,267 L691,267" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M627,186 L664,303 L691,303" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M623,194 L660,339 L691,339" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M604,188 L656,375 L691,375" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

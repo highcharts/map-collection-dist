@@ -1,6 +1,6 @@
 {
   "name": "@highcharts/map-collection",
-  "version": "1.1.4",
+  "version": "2.0.0",
   "description": "Highmaps Map Collection",
   "main": "index.js",
   "scripts": {

@@ -6,8 +6,8 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.0.1
-Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth
+Map version: 2.1.0
+Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>United States of America, small</title>
 <g id="admin1">
@@ -1232,6 +1232,6 @@ Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth</text>
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth</text>
 
 <g id="__separator_lines__"><path d="M19,301 L300,445 M177,469 L177,390" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M638,90 L691,87" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M658,102 L676,123 L691,123" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M668,120 L677,159 L691,159" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M662,128 L676,195 L691,195" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M649,134 L672,231 L691,231" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M632,170 L668,267 L691,267" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M627,186 L664,303 L691,303" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M623,194 L660,339 L691,339" fill="none" stroke="#551111" stroke-width="0.4" /><path d="M604,188 L656,375 L691,375" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

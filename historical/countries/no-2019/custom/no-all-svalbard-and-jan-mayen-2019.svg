@@ -3,8 +3,8 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.0.1
-Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth
+Map version: 2.1.0
+Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Norway with Svalbard and Jan Mayen (2019)</title>
 <g id="admin1">
@@ -581,6 +581,6 @@ Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth</text>
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth</text>
 
 <g id="__separator_lines__"><path d="M142,16 L142,245 L7,245 M137,180 L12,180" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

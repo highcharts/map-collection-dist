@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.0.1
-Copyright (c) 2022 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 2.1.0
+Copyright (c) 2023 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Kentucky congressional districts</title>
 <g id="special">
@@ -115,6 +115,6 @@ Copyright (c) 2022 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2022 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2023 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

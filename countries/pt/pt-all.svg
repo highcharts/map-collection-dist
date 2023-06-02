@@ -3,8 +3,8 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" height="710pt" version="1.1" width="830pt" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.0.1
-Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth
+Map version: 2.1.0
+Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Portugal</title>
 <g id="admin1">
@@ -556,6 +556,6 @@ Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="415" y="714">Copyright (c) 2022 Highsoft AS, Based on data from Natural Earth</text>
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="415" y="714">Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth</text>
 
 <g id="__separator_lines__"><path d="M0,514 L106,514 L106,700 M6,613 L102,613" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+        <svg version="1.1" viewBox="-5 -5 710 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <desc>
+            Map version: 2.2.0
+            Copyright (c) 2024 Highsoft AS, Based on data from OpenStreetMap
+        </desc>
+        <title>Akershus</title>
+        <g id="admin2">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M286.2543,106.2428 349.1982,110.6529 360.4238,101.0309 371.6495,69.3585 349.1982,53.3219 349.1982,31.6724 318.3276,36.8843 297.4800,53.3219 253.7801,47.7090 222.9095,47.7090 202.0619,31.6724 202.0619,36.8843 190.8362,42.4971 202.0619,58.5338 180.8133,69.3585 222.9095,69.3585 276.2314,79.3814 286.2543,101.0309 286.2543,106.2428Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Hurdal</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3242</hc-key>
+<hc-a2>HU</hc-a2>
+<hc-middle-lon>10.886</hc-middle-lon>
+<hc-middle-lat>60.426</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M349.1982,110.6529 371.6495,142.3253 402.5200,142.3253 434.9943,148.7400 455.8419,127.0905 488.3162,116.2658 488.3162,110.6529 497.9381,101.0309 467.0676,58.5338 446.2199,58.5338 434.9943,42.4971 402.5200,42.4971 402.5200,16.0367 381.6724,0.0000 360.4238,5.2119 360.4238,31.6724 349.1982,31.6724 349.1982,53.3219 371.6495,69.3585 360.4238,101.0309 349.1982,110.6529Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Eidsvoll</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3240</hc-key>
+<hc-a2>EI</hc-a2>
+<hc-middle-lon>11.256</hc-middle-lon>
+<hc-middle-lat>60.419</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M349.1982,195.2463 360.4238,216.8958 371.6495,222.5086 381.6724,216.8958 446.2199,216.8958 455.8419,195.2463 455.8419,158.3620 434.9943,148.7400 402.5200,142.3253 371.6495,142.3253 339.5762,169.1867 349.1982,190.0344 349.1982,195.2463 M349.1982,222.5086 360.4238,222.5086 360.4238,216.8958 349.1982,216.8958 349.1982,222.5086Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Ullensaker</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3209</hc-key>
+<hc-a2>UL</hc-a2>
+<hc-middle-lon>11.19</hc-middle-lon>
+<hc-middle-lat>60.149</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M434.9943,148.7400 455.8419,158.3620 455.8419,195.2463 446.2199,216.8958 446.2199,222.5086 455.8419,222.5086 455.8419,232.5315 488.3162,237.7434 497.9381,248.5682 530.4124,232.5315 562.4857,237.7434 657.9038,237.7434 657.9038,216.8958 646.6781,222.5086 646.6781,211.6838 637.0561,211.6838 625.8305,206.0710 625.8305,200.8591 604.5819,200.8591 551.2600,174.7995 551.2600,169.1867 562.4857,163.9748 562.4857,132.3024 541.6380,121.4777 530.4124,121.4777 497.9381,101.0309 488.3162,110.6529 488.3162,116.2658 455.8419,127.0905 434.9943,148.7400Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Nes</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3228</hc-key>
+<hc-a2>NE</hc-a2>
+<hc-middle-lon>11.56</hc-middle-lon>
+<hc-middle-lat>60.169</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M222.9095,169.1867 265.0057,169.1867 286.2543,190.0344 297.4800,190.0344 328.3505,200.8591 349.1982,195.2463 349.1982,190.0344 339.5762,169.1867 371.6495,142.3253 349.1982,110.6529 286.2543,106.2428 265.0057,116.2658 244.1581,127.0905 244.1581,142.3253 222.9095,153.1501 222.9095,169.1867Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Nannestad</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3238</hc-key>
+<hc-a2>NA</hc-a2>
+<hc-middle-lon>10.939</hc-middle-lon>
+<hc-middle-lat>60.222</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M190.8362,190.0344 211.6838,195.2463 222.9095,200.8591 222.9095,206.0710 244.1581,216.8958 244.1581,237.7434 286.2543,254.1810 297.4800,254.1810 297.4800,248.5682 307.1019,248.5682 307.1019,222.5086 286.2543,211.6838 286.2543,190.0344 265.0057,169.1867 222.9095,169.1867 222.9095,180.0115 190.8362,180.0115 190.8362,190.0344Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Nittedal</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3232</hc-key>
+<hc-a2>NI</hc-a2>
+<hc-middle-lon>10.819</hc-middle-lon>
+<hc-middle-lat>60.076</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M307.1019,222.5086 307.1019,226.9187 328.3505,226.9187 328.3505,232.5315 349.1982,222.5086 349.1982,216.8958 360.4238,216.8958 349.1982,195.2463 328.3505,200.8591 297.4800,190.0344 286.2543,190.0344 286.2543,211.6838 307.1019,222.5086Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Gjerdrum</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3230</hc-key>
+<hc-a2>GJ</hc-a2>
+<hc-middle-lon>11.005</hc-middle-lon>
+<hc-middle-lat>60.076</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M286.2543,307.1019 328.3505,307.1019 328.3505,270.2176 318.3276,264.6048 307.1019,264.6048 307.1019,259.3929 297.4800,259.3929 297.4800,264.6048 286.2543,264.6048 276.2314,296.2772 286.2543,307.1019Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Lørenskog</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3222</hc-key>
+<hc-a2>LØ</hc-a2>
+<hc-middle-lon>10.952</hc-middle-lon>
+<hc-middle-lat>59.898</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M318.3276,264.6048 328.3505,270.2176 328.3505,307.1019 360.4238,311.5120 381.6724,301.8900 371.6495,280.2405 328.3505,264.6048 318.3276,264.6048Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Rælingen</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3224</hc-key>
+<hc-a2>RÆ</hc-a2>
+<hc-middle-lon>11.071</hc-middle-lon>
+<hc-middle-lat>59.885</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M286.2543,311.5120 307.1019,317.1249 307.1019,359.2211 371.6495,364.8339 413.7457,370.0458 413.7457,333.1615 402.5200,311.5120 381.6724,301.8900 360.4238,311.5120 328.3505,307.1019 286.2543,307.1019 286.2543,311.5120Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Enebakk</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3220</hc-key>
+<hc-a2>EN</hc-a2>
+<hc-middle-lon>11.071</hc-middle-lon>
+<hc-middle-lat>59.766</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M175.2005,393.6999 176.8041,396.1054 183.6197,404.5246 179.6105,413.3448 179.6105,423.3677 180.8133,432.1879 186.4261,440.6071 190.8362,444.2153 211.6838,449.4273 222.9095,444.2153 222.9095,434.1924 232.9324,434.1924 232.9324,417.7549 253.7801,412.5430 253.7801,401.7182 222.9095,390.8935 190.8362,386.4834 175.2005,393.6999 M182.4170,444.2153 183.6197,444.2153 183.6197,443.0126 182.4170,444.2153Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Vestby</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3216</hc-key>
+<hc-a2>VE</hc-a2>
+<hc-middle-lon>10.734</hc-middle-lon>
+<hc-middle-lat>59.562</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M175.2005,393.6999 190.8362,386.4834 190.8362,380.8706 211.6838,370.0458 202.0619,343.1844 202.0619,333.9633 200.4582,333.1615 169.5876,338.7743 169.5876,354.8110 149.9427,339.5762 145.9336,343.1844 144.3299,352.0046 151.5464,362.0275 159.9656,368.4422 166.7812,364.0321 168.3849,377.2623 171.1913,387.2852 175.2005,393.6999Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Frogn</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3214</hc-key>
+<hc-a2>FR</hc-a2>
+<hc-middle-lon>10.643</hc-middle-lon>
+<hc-middle-lat>59.698</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M149.9427,339.5762 169.5876,354.8110 169.5876,338.7743 200.4582,333.1615 190.8362,333.1615 180.8133,301.8900 179.6105,301.8900 166.7812,309.1065 161.1684,317.1249 151.5464,335.9679 149.9427,339.5762Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Nesodden</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3212</hc-key>
+<hc-a2>NE</hc-a2>
+<hc-middle-lon>10.636</hc-middle-lon>
+<hc-middle-lat>59.786</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M62.9439,285.4525 85.3952,291.0653 85.3952,285.4525 95.4181,285.4525 95.4181,291.0653 127.4914,291.0653 130.2978,291.0653 133.1042,289.0607 141.5235,288.2589 147.1363,289.0607 163.9748,287.4570 166.7812,284.6506 169.5876,283.8488 180.8133,285.4525 158.3620,254.1810 148.7400,243.3562 116.2658,243.3562 116.2658,232.5315 85.3952,232.5315 85.3952,237.7434 74.1695,248.5682 62.9439,248.5682 53.3219,259.3929 62.9439,280.2405 62.9439,285.4525Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Bærum</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3201</hc-key>
+<hc-a2>BÆ</hc-a2>
+<hc-middle-lon>10.489</hc-middle-lon>
+<hc-middle-lat>59.951</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M190.8362,386.4834 222.9095,390.8935 253.7801,401.7182 253.7801,406.9301 265.0057,406.9301 276.2314,396.1054 265.0057,396.1054 253.7801,375.6586 244.1581,375.6586 253.7801,364.8339 244.1581,359.2211 244.1581,338.7743 210.4811,338.7743 208.8774,346.7927 203.2646,338.7743 202.0619,338.7743 202.0619,343.1844 211.6838,370.0458 190.8362,380.8706 190.8362,386.4834Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Ås</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3218</hc-key>
+<hc-a2>ÅS</hc-a2>
+<hc-middle-lon>10.78</hc-middle-lon>
+<hc-middle-lat>59.674</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M137.5143,174.7995 127.4914,137.9152 116.2658,127.0905 106.6438,127.0905 106.6438,116.2658 95.4181,116.2658 62.9439,110.6529 74.1695,90.2062 42.0962,95.4181 32.0733,84.5934 0.0000,84.5934 0.0000,101.0309 42.0962,132.3024 42.0962,148.7400 74.1695,153.1501 116.2658,174.7995 137.5143,174.7995Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Jevnaker</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3236</hc-key>
+<hc-a2>JE</hc-a2>
+<hc-middle-lon>10.37</hc-middle-lon>
+<hc-middle-lat>60.281</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M137.5143,174.7995 148.7400,185.6243 158.3620,185.6243 158.3620,190.0344 190.8362,190.0344 190.8362,180.0115 222.9095,180.0115 222.9095,153.1501 244.1581,142.3253 244.1581,127.0905 265.0057,116.2658 202.0619,110.6529 148.7400,110.6529 106.6438,116.2658 106.6438,127.0905 116.2658,127.0905 127.4914,137.9152 137.5143,174.7995Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Lunner</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3234</hc-key>
+<hc-a2>LU</hc-a2>
+<hc-middle-lon>10.661</hc-middle-lon>
+<hc-middle-lat>60.228</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M286.2543,254.1810 297.4800,259.3929 307.1019,259.3929 307.1019,264.6048 328.3505,264.6048 371.6495,280.2405 381.6724,301.8900 402.5200,311.5120 413.7457,333.1615 467.0676,338.7743 434.9943,317.1249 467.0676,307.1019 467.0676,259.3929 477.0905,259.3929 488.3162,254.1810 497.9381,254.1810 497.9381,248.5682 488.3162,237.7434 455.8419,232.5315 455.8419,222.5086 446.2199,222.5086 446.2199,216.8958 381.6724,216.8958 371.6495,222.5086 360.4238,216.8958 360.4238,222.5086 349.1982,222.5086 328.3505,232.5315 328.3505,226.9187 307.1019,226.9187 307.1019,248.5682 297.4800,248.5682 297.4800,254.1810 286.2543,254.1810Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Lillestrøm</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3205</hc-key>
+<hc-a2>LI</hc-a2>
+<hc-middle-lon>11.177</hc-middle-lon>
+<hc-middle-lat>59.912</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M467.0676,338.7743 477.0905,364.8339 519.1867,375.6586 519.1867,406.9301 530.4124,406.9301 541.6380,386.4834 572.5086,375.6586 614.6048,375.6586 614.6048,390.8935 657.9038,386.4834 700.0000,359.2211 700.0000,322.3368 667.9267,307.1019 657.9038,285.4525 646.6781,285.4525 657.9038,274.6277 646.6781,248.5682 657.9038,237.7434 562.4857,237.7434 530.4124,232.5315 497.9381,248.5682 497.9381,254.1810 488.3162,254.1810 477.0905,259.3929 467.0676,259.3929 467.0676,307.1019 434.9943,317.1249 467.0676,338.7743Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Aurskog-Høland</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3226</hc-key>
+<hc-a2>AU</hc-a2>
+<hc-middle-lon>11.614</hc-middle-lon>
+<hc-middle-lat>59.806</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M202.0619,338.7743 203.2646,338.7743 203.2646,335.9679 202.0619,338.7743 M210.4811,338.7743 244.1581,338.7743 244.1581,359.2211 253.7801,364.8339 244.1581,375.6586 253.7801,375.6586 265.0057,396.1054 276.2314,396.1054 276.2314,390.8935 297.4800,386.4834 307.1019,380.8706 307.1019,317.1249 286.2543,311.5120 244.1581,317.1249 222.9095,307.1019 220.1031,317.1249 211.6838,332.3597 210.4811,338.7743Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Nordre Follo</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3207</hc-key>
+<hc-a2>NO</hc-a2>
+<hc-middle-lon>10.833</hc-middle-lon>
+<hc-middle-lat>59.727</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M95.4181,291.0653 95.4181,285.4525 85.3952,285.4525 85.3952,291.0653 62.9439,285.4525 53.3219,291.0653 42.0962,327.9496 42.0962,351.2027 53.3219,358.4192 60.1375,358.4192 61.7411,358.4192 62.9439,358.4192 65.7503,358.4192 68.5567,359.2211 71.3631,361.2257 79.7824,367.6403 82.5888,369.2440 84.1924,373.6541 85.3952,375.6586 85.3952,377.2623 86.9989,385.2806 91.0080,399.7136 92.6117,403.3219 89.8053,420.5613 91.0080,428.5796 93.8144,432.1879 99.4273,434.9943 113.4593,436.9989 137.5143,427.7778 158.3620,401.7182 158.3620,386.4834 137.5143,372.8522 134.7079,370.0458 116.2658,359.2211 106.6438,338.7743 106.6438,307.1019 116.2658,291.0653 95.4181,291.0653Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Asker</name>
+<region>Akershus</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-ak-3203</hc-key>
+<hc-a2>AS</hc-a2>
+<hc-middle-lon>10.45</hc-middle-lon>
+<hc-middle-lat>59.704</hc-middle-lat>
+</desc>
+
+
+                </path>
+</g>
+        
+<text x="350" y="715" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">
+            Copyright (c) 2024 Highsoft AS, Based on data from OpenStreetMap</text>
+
+        </svg>

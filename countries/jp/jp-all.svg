@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" height="740pt" version="1.1" width="700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.1.0
-Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
+Map version: 2.2.0
+Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Japan</title>
 <g id="admin1">
@@ -784,12 +787,12 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>JA13</fips>
     <postal-code>HG</postal-code>
-    <name>Hy?go</name>
+    <name>Hyogo</name>
     <country>Japan</country>
     <type-en>Prefecture</type-en>
     <region>Kinki</region>
     <longitude>134.837</longitude>
-    <woe-name>Hy?go</woe-name>
+    <woe-name>Hyogo</woe-name>
     <latitude>35.063</latitude>
     <woe-label>Hyogo Prefecture, JP, Japan</woe-label>
     <type>Ken</type>
@@ -1216,6 +1219,6 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth</text>
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth</text>
 
 <g id="__separator_lines__"><path d="M311,625 L236,625 L145,687" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

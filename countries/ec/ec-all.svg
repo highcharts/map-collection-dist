@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="880pt" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.1.0
-Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
+Map version: 2.2.0
+Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Ecuador</title>
 <g id="admin1">
@@ -528,25 +531,25 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 <path d="M496.5,289.8 L496.8,301.7 L493.1,310.6 L490.4,313.0 L483.8,317.3 L475.7,317.1 L470.6,321.6 L468.9,318.0 L455.6,312.4 L452.9,316.6 L448.1,316.3 L438.6,317.6 L430.2,315.3 L421.8,310.5 L413.0,314.3 L408.3,307.5 L409.1,300.5 L411.7,293.6 L412.2,288.1 L414.6,283.8 L420.6,280.0 L425.4,278.7 L435.2,279.9 L441.4,276.5 L447.2,274.9 L447.7,272.0 L451.0,270.9 L455.4,273.4 L459.5,272.5 L461.8,269.3 L463.4,263.1 L466.5,260.5 L471.6,267.4 L473.0,270.9 L472.3,282.3 L476.1,280.0 L485.1,279.7 L490.1,284.5 L495.4,285.5 Z" fill="#CEE3F5" id="EC.1076" stroke="#6E6E6E" stroke-width="0.4">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>7</labelrank>
-    <hasc>EC.</hasc>
+    <hasc>EC.TU</hasc>
     <alt-name>NULL</alt-name>
-    <woe-id>2345220</woe-id>
+    <woe-id>2345217</woe-id>
     <subregion>NULL</subregion>
-    <fips>NULL</fips>
-    <postal-code>NULL</postal-code>
-    <name>Napo</name>
+    <fips>EC23</fips>
+    <postal-code>TU</postal-code>
+    <name>Tungurahua</name>
     <country>Ecuador</country>
     <type-en>Province</type-en>
     <region>NULL</region>
     <longitude>-78.5209</longitude>
-    <woe-name>Napo</woe-name>
+    <woe-name>Tungurahua</woe-name>
     <latitude>-1.2733</latitude>
     <woe-label>Tungurahua, EC, Ecuador</woe-label>
     <type>Provincia</type>
     <hc-middle-x>0.51</hc-middle-x>
     <hc-middle-y>0.57</hc-middle-y>
-    <hc-key>ec-1076</hc-key>
-    <hc-a2>NA</hc-a2>
+    <hc-key>ec-tu</hc-key>
+    <hc-a2>TU</hc-a2>
   </desc>
 </path>
 
@@ -563,7 +566,7 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <country>Ecuador</country>
     <type-en>Province</type-en>
     <region>NULL</region>
-    <longitude>-76.42480000000001</longitude>
+    <longitude>-76.4248</longitude>
     <woe-name>Orellana</woe-name>
     <latitude>-0.875888</latitude>
     <woe-label>Orellano, EC, Ecuador</woe-label>
@@ -578,25 +581,25 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 <path d="M586.0,162.2 L587.1,169.8 L586.2,176.5 L590.4,182.6 L591.0,187.9 L588.9,195.0 L583.4,197.9 L583.1,201.2 L579.8,202.1 L575.6,209.8 L569.8,211.0 L558.4,205.6 L556.0,210.4 L550.9,214.1 L554.6,217.5 L563.0,227.1 L564.2,233.4 L561.1,238.7 L560.9,247.2 L555.4,258.0 L559.3,259.2 L564.1,258.6 L586.9,247.9 L591.7,246.0 L595.8,239.0 L603.6,232.7 L606.2,234.0 L599.4,241.4 L597.5,245.0 L598.3,249.4 L606.3,254.1 L614.2,255.9 L612.3,260.0 L614.1,263.3 L613.1,265.7 L593.2,267.2 L588.3,270.0 L577.9,273.2 L571.1,273.6 L558.9,279.3 L549.6,280.8 L542.6,281.0 L526.1,288.9 L522.8,287.7 L520.5,290.2 L513.0,288.8 L505.2,290.0 L496.5,289.8 L495.4,285.5 L490.1,284.5 L485.1,279.7 L476.1,280.0 L472.3,282.3 L473.0,270.9 L471.6,267.4 L466.5,260.5 L461.0,257.7 L463.4,254.3 L464.1,250.2 L466.9,244.2 L465.1,234.1 L465.9,230.1 L472.4,228.1 L474.7,222.3 L479.6,215.7 L483.5,203.8 L482.0,200.9 L486.7,193.1 L488.8,188.0 L490.0,175.4 L494.6,174.2 L498.9,175.8 L503.1,170.2 L508.5,170.1 L511.5,166.7 L513.2,161.0 L517.2,159.6 L526.3,154.7 L527.7,152.3 L533.5,154.1 L532.9,157.3 L534.3,163.0 L537.8,164.3 L548.7,164.6 L554.3,166.7 L558.6,163.3 L567.9,158.3 L570.2,162.4 L569.9,169.4 L579.1,171.1 Z" fill="#CEE3F5" id="EC.TU" stroke="#6E6E6E" stroke-width="0.4">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>7</labelrank>
-    <hasc>EC.TU</hasc>
+    <hasc>EC.</hasc>
     <alt-name>NULL</alt-name>
-    <woe-id>2345217</woe-id>
+    <woe-id>2345220</woe-id>
     <subregion>NULL</subregion>
-    <fips>EC23</fips>
-    <postal-code>TU</postal-code>
-    <name>Tungurahua</name>
+    <fips>NULL</fips>
+    <postal-code>NULL</postal-code>
+    <name>Napo</name>
     <country>Ecuador</country>
     <type-en>Province</type-en>
     <region>NULL</region>
-    <longitude>-77.73820000000001</longitude>
-    <woe-name>Tungurahua</woe-name>
+    <longitude>-77.7382</longitude>
+    <woe-name>Napo</woe-name>
     <latitude>-0.624499</latitude>
     <woe-label>Napo, EC, Ecuador</woe-label>
     <type>Provincia</type>
     <hc-middle-x>0.39</hc-middle-x>
     <hc-middle-y>0.55</hc-middle-y>
-    <hc-key>ec-tu</hc-key>
-    <hc-a2>TU</hc-a2>
+    <hc-key>ec-1076</hc-key>
+    <hc-a2>NA</hc-a2>
   </desc>
 </path>
 <g id="EC">
@@ -641,6 +644,6 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="440" y="714">Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth</text>
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="440" y="714">Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth</text>
 
 <g id="__separator_lines__"><path d="M223,118 L153,228" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

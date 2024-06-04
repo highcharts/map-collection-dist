@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.1.0
-Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
+Map version: 2.2.0
+Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Czech Republic</title>
 <g id="admin1">
@@ -29,7 +29,7 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>9</labelrank>
     <hasc>CZ.SK</hasc>
-    <alt-name>Prag |Hlavní m?sto Praha</alt-name>
+    <alt-name>Prag |Hlavní město Praha</alt-name>
     <woe-id>20070472</woe-id>
     <subregion>NULL</subregion>
     <fips>EZ11</fips>
@@ -184,14 +184,14 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>EZ01</fips>
     <postal-code>CK</postal-code>
-    <name>Jiho?eský</name>
+    <name>Jihočeský</name>
     <country>Czech Republic</country>
     <type-en>Region</type-en>
     <region>NULL</region>
     <longitude>14.5598</longitude>
-    <woe-name>Jiho?eský</woe-name>
+    <woe-name>Jihočeský</woe-name>
     <latitude>49.0726</latitude>
-    <woe-label>Jiho?eský, CZ, Czech Republic</woe-label>
+    <woe-label>Jihočeský, CZ, Czech Republic</woe-label>
     <type>Kraj</type>
     <hc-middle-x>0.42</hc-middle-x>
     <hc-middle-y>0.48</hc-middle-y>
@@ -204,19 +204,19 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>6</labelrank>
     <hasc>CZ.JK</hasc>
-    <alt-name>Iglau|Jihlavský|Vysocina|Vyso?ina</alt-name>
+    <alt-name>Iglau|Jihlavský|Vysocina|Vysočina</alt-name>
     <woe-id>20070467</woe-id>
     <subregion>NULL</subregion>
     <fips>EZ02</fips>
     <postal-code>JK</postal-code>
-    <name>Vyso?ina</name>
+    <name>Vysočina</name>
     <country>Czech Republic</country>
     <type-en>Region</type-en>
     <region>NULL</region>
     <longitude>15.7721</longitude>
-    <woe-name>Vyso?ina</woe-name>
+    <woe-name>Vysočina</woe-name>
     <latitude>49.4088</latitude>
-    <woe-label>Vyso?ina, CZ, Czech Republic</woe-label>
+    <woe-label>Vysočina, CZ, Czech Republic</woe-label>
     <type>Kraj</type>
     <hc-middle-x>0.53</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
@@ -234,14 +234,14 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>EZ05</fips>
     <postal-code>SK</postal-code>
-    <name>St?edo?eský</name>
+    <name>Středočeský</name>
     <country>Czech Republic</country>
     <type-en>Region</type-en>
     <region>NULL</region>
     <longitude>14.4559</longitude>
-    <woe-name>St?edo?eský</woe-name>
+    <woe-name>Středočeský</woe-name>
     <latitude>49.7498</latitude>
-    <woe-label>StÅ?edo?eský, CZ, Czech Republic</woe-label>
+    <woe-label>Středočeský, CZ, Czech Republic</woe-label>
     <type>Kraj</type>
     <hc-middle-x>0.72</hc-middle-x>
     <hc-middle-y>0.59</hc-middle-y>
@@ -341,7 +341,7 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <longitude>13.8424</longitude>
     <woe-name>Ústecký</woe-name>
     <latitude>50.4996</latitude>
-    <woe-label>Ã?stecký, CZ, Czech Republic</woe-label>
+    <woe-label>Ústecký, CZ, Czech Republic</woe-label>
     <type>Kraj</type>
     <hc-middle-x>0.57</hc-middle-x>
     <hc-middle-y>0.53</hc-middle-y>
@@ -354,19 +354,19 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>6</labelrank>
     <hasc>CZ.</hasc>
-    <alt-name>Plze? Region, Plze?ský kraj</alt-name>
+    <alt-name>Plzeň Region, Plzeňský kraj</alt-name>
     <woe-id>20070501</woe-id>
     <subregion>NULL</subregion>
     <fips>NULL</fips>
     <postal-code>NULL</postal-code>
-    <name>Plze?ský</name>
+    <name>Plzeňský</name>
     <country>Czech Republic</country>
     <type-en>Region</type-en>
     <region>NULL</region>
     <longitude>13.2001</longitude>
-    <woe-name>Plze?ský</woe-name>
+    <woe-name>Plzeňský</woe-name>
     <latitude>49.6458</latitude>
-    <woe-label>PlzeÅ?ský, CZ, Czech Republic</woe-label>
+    <woe-label>Plzeňský, CZ, Czech Republic</woe-label>
     <type>Kraj</type>
     <hc-middle-x>0.54</hc-middle-x>
     <hc-middle-y>0.45</hc-middle-y>
@@ -376,6 +376,6 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

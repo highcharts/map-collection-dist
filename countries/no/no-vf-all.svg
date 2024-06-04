@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+        <svg version="1.1" viewBox="-5 -5 710 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <desc>
+            Map version: 2.2.0
+            Copyright (c) 2024 Highsoft AS, Based on data from OpenStreetMap
+        </desc>
+        <title>Vestfold</title>
+        <g id="admin2">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M649.8649,298.9189 674.4595,225.1351 619.5946,206.2162 590.2703,200.5405 549.5946,212.8378 549.5946,249.7297 575.1351,275.2703 600.6757,275.2703 600.6757,286.6216 649.8649,298.9189Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Horten</name>
+<region>Vestfold</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-vf-3901</hc-key>
+<hc-a2>HO</hc-a2>
+<hc-middle-lon>10.396</hc-middle-lon>
+<hc-middle-lat>59.403</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M424.7297,561.8919 374.5946,536.3514 349.0541,524.0541 349.0541,448.3784 224.1892,399.1892 249.7297,313.1081 275.2703,275.2703 275.2703,187.2973 74.7297,199.5946 74.7297,187.2973 0.0000,199.5946 25.5405,237.4324 25.5405,313.1081 49.1892,374.5946 99.3243,386.8919 99.3243,437.0270 124.8649,474.8649 74.7297,474.8649 74.7297,614.8649 82.2973,624.3243 90.8108,643.2432 85.1351,657.4324 74.7297,662.1622 74.7297,669.7297 87.0270,672.5676 240.2703,662.1622 250.6757,657.4324 250.6757,656.4865 264.8649,629.0541 253.5135,599.7297 269.5946,602.5676 286.6216,609.1892 363.2432,589.3243 378.3784,582.7027 391.6216,582.7027 398.2432,598.7838 389.7297,605.4054 359.4595,617.7027 353.7838,629.0541 365.1351,630.9459 450.2703,598.7838 424.7297,561.8919Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Larvik</name>
+<region>Vestfold</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-vf-3909</hc-key>
+<hc-a2>LA</hc-a2>
+<hc-middle-lon>9.987</hc-middle-lon>
+<hc-middle-lat>59.213</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M424.7297,561.8919 440.8108,554.3243 449.3243,536.3514 449.3243,524.0541 455.9459,524.0541 464.4595,542.0270 493.7838,526.8919 494.7297,524.0541 496.6216,525.9459 508.9189,519.3243 511.7568,504.1892 525.0000,507.9730 525.0000,437.0270 575.1351,399.1892 549.5946,399.1892 500.4054,362.2973 475.8108,336.7568 424.7297,324.4595 374.5946,275.2703 275.2703,275.2703 249.7297,313.1081 224.1892,399.1892 349.0541,448.3784 349.0541,524.0541 374.5946,536.3514 424.7297,561.8919Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Sandefjord</name>
+<region>Vestfold</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-vf-3907</hc-key>
+<hc-a2>SA</hc-a2>
+<hc-middle-lon>10.172</hc-middle-lon>
+<hc-middle-lat>59.225</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M275.2703,275.2703 374.5946,275.2703 424.7297,324.4595 475.8108,336.7568 500.4054,362.2973 549.5946,399.1892 575.1351,399.1892 578.9189,394.4595 576.0811,381.2162 578.9189,376.4865 589.3243,373.6486 600.6757,374.5946 601.6216,376.4865 630.9459,381.2162 644.1892,386.8919 649.8649,386.8919 670.6757,396.3514 676.3514,397.2973 700.0000,324.4595 674.4595,314.0541 665.0000,307.4324 649.8649,298.9189 600.6757,286.6216 600.6757,275.2703 575.1351,275.2703 549.5946,249.7297 549.5946,212.8378 525.0000,199.5946 450.2703,199.5946 400.1351,175.0000 400.1351,187.2973 374.5946,199.5946 275.2703,199.5946 275.2703,275.2703Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Tønsberg</name>
+<region>Vestfold</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-vf-3905</hc-key>
+<hc-a2>TØ</hc-a2>
+<hc-middle-lon>10.264</hc-middle-lon>
+<hc-middle-lat>59.364</hc-middle-lat>
+</desc>
+
+
+                </path>
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M275.2703,187.2973 275.2703,199.5946 374.5946,199.5946 400.1351,187.2973 400.1351,175.0000 450.2703,199.5946 525.0000,199.5946 549.5946,212.8378 590.2703,200.5405 586.4865,200.5405 572.2973,186.3514 475.8108,137.1622 450.2703,99.3243 462.5676,102.1622 461.6216,102.1622 492.8378,102.1622 517.4324,113.5135 575.1351,125.8108 575.1351,113.5135 549.5946,113.5135 549.5946,25.5405 525.0000,0.0000 324.4595,0.0000 324.4595,25.5405 249.7297,25.5405 224.1892,0.0000 224.1892,25.5405 199.5946,25.5405 150.4054,75.6757 199.5946,125.8108 249.7297,137.1622 275.2703,187.2973Z">
+                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+<name>Holmestrand</name>
+<region>Vestfold</region>
+<hc-group>admin2</hc-group>
+<hc-key>no-vf-3903</hc-key>
+<hc-a2>HO</hc-a2>
+<hc-middle-lon>10.14</hc-middle-lon>
+<hc-middle-lat>59.555</hc-middle-lat>
+</desc>
+
+
+                </path>
+</g>
+        
+<text x="350" y="715" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">
+            Copyright (c) 2024 Highsoft AS, Based on data from OpenStreetMap</text>
+
+        </svg>

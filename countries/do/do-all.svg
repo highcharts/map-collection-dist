@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.1.0
-Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
+Map version: 2.2.0
+Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Dominican Republic</title>
 <g id="admin1">
@@ -309,12 +309,12 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>DR28</fips>
     <postal-code>SE</postal-code>
-    <name>El Seybo</name>
+    <name>El Seibo</name>
     <country>Dominican Republic</country>
     <type-en>Province</type-en>
     <region>NULL</region>
     <longitude>-69.0568</longitude>
-    <woe-name>El Seybo</woe-name>
+    <woe-name>El Seibo</woe-name>
     <latitude>18.7649</latitude>
     <woe-label>El Seibo, DO, Dominican Republic</woe-label>
     <type>Provincia</type>
@@ -609,12 +609,12 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>NULL</fips>
     <postal-code>NULL</postal-code>
-    <name>Hermanas</name>
+    <name>Hermanas Mirabal</name>
     <country>Dominican Republic</country>
     <type-en>Province</type-en>
     <region>NULL</region>
     <longitude>-70.352</longitude>
-    <woe-name>Hermanas</woe-name>
+    <woe-name>Hermanas Mirabal</woe-name>
     <latitude>19.403</latitude>
     <woe-label>Salcedo, DO, Dominican Republic</woe-label>
     <type>Provincia</type>
@@ -709,14 +709,14 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>DR11</fips>
     <postal-code>EP</postal-code>
-    <name>La Estrelleta</name>
+    <name>Elías Piña</name>
     <country>Dominican Republic</country>
     <type-en>Province</type-en>
     <region>NULL</region>
     <longitude>-71.65000000000001</longitude>
-    <woe-name>La Estrelleta</woe-name>
+    <woe-name>Elías Piña</woe-name>
     <latitude>19.037</latitude>
-    <woe-label>Elias Piña, DO, Dominican Republic</woe-label>
+    <woe-label>Elías Piña, DO, Dominican Republic</woe-label>
     <type>Provincia</type>
     <hc-middle-x>0.43</hc-middle-x>
     <hc-middle-y>0.36</hc-middle-y>
@@ -826,6 +826,6 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.1.0
-Copyright (c) 2023 Highsoft AS, Based on data from Kartverket
+Map version: 2.2.0
+Copyright (c) 2024 Highsoft AS, Based on data from Kartverket
 </desc>
 <title>Finnmark (2019)</title>
 <g id="admin2">
@@ -223,7 +223,7 @@ Copyright (c) 2023 Highsoft AS, Based on data from Kartverket
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NO.FI.2021" d="M288.5,477.0 L281.0,478.1 L274.2,477.6 L263.1,475.6 L262.5,470.2 L260.0,464.1 L238.0,447.7 L234.3,422.9 L213.5,402.5 L208.7,378.3 L203.1,373.4 L203.4,368.5 L207.4,367.8 L209.7,361.7 L211.3,361.1 L209.8,354.3 L215.2,345.9 L218.9,336.4 L218.9,332.7 L215.2,330.1 L215.0,325.2 L213.5,322.5 L211.5,324.2 L210.4,318.7 L206.2,310.4 L205.2,306.4 L205.6,299.0 L208.0,281.6 L234.7,280.1 L261.8,296.4 L270.1,297.7 L282.4,300.2 L300.4,296.9 L320.7,265.0 L325.4,267.7 L323.9,273.5 L328.7,273.1 L333.9,278.1 L342.9,276.6 L344.8,283.3 L356.1,283.2 L355.0,288.2 L351.0,291.9 L350.4,295.3 L344.6,301.9 L340.4,303.7 L337.9,303.0 L334.3,306.8 L332.6,311.1 L328.8,315.0 L333.3,319.1 L333.6,324.6 L334.8,326.5 L331.8,334.6 L324.6,340.8 L327.1,343.6 L324.8,351.2 L326.0,355.0 L324.3,355.9 L321.9,364.6 L324.4,371.9 L321.8,375.7 L322.2,378.9 L319.7,379.8 L317.7,383.0 L316.1,389.1 L316.6,394.4 L314.5,400.4 L313.2,400.9 L313.8,410.0 L312.3,411.6 L315.7,424.1 L313.8,431.6 L314.0,437.7 L316.0,442.4 L315.7,447.6 L317.7,450.6 L314.1,455.7 L312.7,461.3 L305.9,476.6 L302.6,478.6 L299.5,477.9 L294.9,473.9 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <name>Kárásjohka / Karasjok</name>
+    <name>Kárášjohka / Karasjok</name>
     <hc-middle-x>0.38</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>no-fi-2021</hc-key>
@@ -262,6 +262,6 @@ Copyright (c) 2023 Highsoft AS, Based on data from Kartverket
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2023 Highsoft AS, Based on data from Kartverket</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2024 Highsoft AS, Based on data from Kartverket</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.1.0
-Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
+Map version: 2.2.0
+Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Auvergne-Rhône-Alpes</title>
 <g id="admin2">
@@ -126,11 +126,11 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
     <woe-id>12597160</woe-id>
     <subregion>NULL</subregion>
     <fips>FRB9</fips>
-    <name>Ardčche</name>
+    <name>Ardèche</name>
     <type>Metropolitan department</type>
     <region>Auvergne-Rhône-Alpes</region>
     <longitude>4.4999</longitude>
-    <woe-name>Ardčche</woe-name>
+    <woe-name>Ardèche</woe-name>
     <latitude>44.8014</latitude>
     <woe-label>NULL</woe-label>
     <hc-key>fr-ara-ah</hc-key>
@@ -279,6 +279,6 @@ Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2023 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

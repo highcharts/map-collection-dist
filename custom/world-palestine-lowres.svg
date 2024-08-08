@@ -3,7 +3,7 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.2.0
+Map version: 2.3.0
 Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>World with Palestine areas, low resolution</title>
@@ -2045,7 +2045,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK" d="M376.2,135.2 L376.2,135.2 L376.2,135.2 L376.0,135.2 L375.8,135.2 L376.0,134.7 L375.7,134.8 L375.3,133.7 L375.5,133.0 L376.5,132.2 L377.4,132.1 L378.8,131.8 L378.9,132.0 L379.9,132.7 L380.0,134.2 L378.1,134.7 L376.6,135.3 L376.3,134.9 L376.3,135.2 Z M376.3,135.3 L376.3,135.3 L376.3,135.3 Z M376.3,135.2 L376.3,135.2 L376.3,135.2 L376.3,135.2 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <name>Macedonia</name>
+    <name>North Macedonia</name>
     <labelrank>6</labelrank>
     <country-abbrev>Mkd.</country-abbrev>
     <subregion>Southern Europe</subregion>
@@ -3017,7 +3017,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SZ" d="M397.3,268.4 L397.5,269.0 L397.7,270.2 L395.8,270.9 L395.1,269.4 L396.3,267.9 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <name>Swaziland</name>
+    <name>Eswatini</name>
     <labelrank>4</labelrank>
     <country-abbrev>Swz.</country-abbrev>
     <subregion>Southern Africa</subregion>

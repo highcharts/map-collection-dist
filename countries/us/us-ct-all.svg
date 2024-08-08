@@ -3,7 +3,7 @@
 
         <svg version="1.1" viewBox="-5 -5 710 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <desc>
-            Map version: 2.2.0
+            Map version: 2.3.0
             Copyright (c) 2024 Highsoft AS, Based on data from OpenStreetMap
         </desc>
         <title>Connecticut</title>
@@ -12,9 +12,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>South Central Connecticut</name>
 <hc-group>admin2</hc-group>
-<hc-a2>SC</hc-a2>
 <fips>09170</fips>
 <hc-key>us-ct-09170</hc-key>
+<hc-a2>SC</hc-a2>
 <hc-middle-lon>-72.833</hc-middle-lon>
 <hc-middle-lat>41.374</hc-middle-lat>
 </desc>
@@ -25,9 +25,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>Greater Bridgeport</name>
 <hc-group>admin2</hc-group>
-<hc-a2>GB</hc-a2>
 <fips>09120</fips>
 <hc-key>us-ct-09120</hc-key>
+<hc-a2>GB</hc-a2>
 <hc-middle-lon>-73.228</hc-middle-lon>
 <hc-middle-lat>41.255</hc-middle-lat>
 </desc>
@@ -38,9 +38,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>Western Connecticut</name>
 <hc-group>admin2</hc-group>
-<hc-a2>WC</hc-a2>
 <fips>09190</fips>
 <hc-key>us-ct-09190</hc-key>
+<hc-a2>WC</hc-a2>
 <hc-middle-lon>-73.456</hc-middle-lon>
 <hc-middle-lat>41.332</hc-middle-lat>
 </desc>
@@ -51,9 +51,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>Northwest Hills</name>
 <hc-group>admin2</hc-group>
-<hc-a2>NH</hc-a2>
 <fips>09160</fips>
 <hc-key>us-ct-09160</hc-key>
+<hc-a2>NH</hc-a2>
 <hc-middle-lon>-73.191</hc-middle-lon>
 <hc-middle-lat>41.778</hc-middle-lat>
 </desc>
@@ -64,9 +64,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>Naugatuck Valley</name>
 <hc-group>admin2</hc-group>
-<hc-a2>NV</hc-a2>
 <fips>09140</fips>
 <hc-key>us-ct-09140</hc-key>
+<hc-a2>NV</hc-a2>
 <hc-middle-lon>-73.087</hc-middle-lon>
 <hc-middle-lat>41.489</hc-middle-lat>
 </desc>
@@ -77,9 +77,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>Lower Connecticut River Valley</name>
 <hc-group>admin2</hc-group>
-<hc-a2>LC</hc-a2>
 <fips>09130</fips>
 <hc-key>us-ct-09130</hc-key>
+<hc-a2>LC</hc-a2>
 <hc-middle-lon>-72.501</hc-middle-lon>
 <hc-middle-lat>41.451</hc-middle-lat>
 </desc>
@@ -90,9 +90,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>Southeastern Connecticut</name>
 <hc-group>admin2</hc-group>
-<hc-a2>SO</hc-a2>
 <fips>09180</fips>
 <hc-key>us-ct-09180</hc-key>
+<hc-a2>SC</hc-a2>
 <hc-middle-lon>-72.13</hc-middle-lon>
 <hc-middle-lat>41.526</hc-middle-lat>
 </desc>
@@ -103,9 +103,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>Northeastern Connecticut</name>
 <hc-group>admin2</hc-group>
-<hc-a2>NC</hc-a2>
 <fips>09150</fips>
 <hc-key>us-ct-09150</hc-key>
+<hc-a2>NC</hc-a2>
 <hc-middle-lon>-72.011</hc-middle-lon>
 <hc-middle-lat>41.769</hc-middle-lat>
 </desc>
@@ -116,9 +116,9 @@
                     <desc xmlns="http://www.highcharts.com/svg/namespace">
 <name>Capitol</name>
 <hc-group>admin2</hc-group>
-<hc-a2>CA</hc-a2>
 <fips>09110</fips>
 <hc-key>us-ct-09110</hc-key>
+<hc-a2>CA</hc-a2>
 <hc-middle-lon>-72.555</hc-middle-lon>
 <hc-middle-lat>41.791</hc-middle-lat>
 </desc>

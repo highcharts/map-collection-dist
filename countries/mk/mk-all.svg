@@ -3,15 +3,15 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.2.0
+Map version: 2.3.0
 Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
-<title>Macedonia</title>
+<title>North Macedonia</title>
 <g id="admin1">
 
 <g id="MK">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <name>Macedonia</name>
+    <name>North Macedonia</name>
     <labelrank>6</labelrank>
     <country-abbrev>Mkd.</country-abbrev>
     <subregion>Southern Europe</subregion>
@@ -35,13 +35,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK99</fips>
     <postal-code>VV</postal-code>
     <name>Vev?ani</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>20.5689</longitude>
     <woe-name>Vevcani</woe-name>
     <latitude>41.2362</latitude>
-    <woe-label>Vevcani Municipality, MK, Macedonia</woe-label>
+    <woe-label>Vevcani Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.37</hc-middle-x>
     <hc-middle-y>0.42</hc-middle-y>
@@ -60,7 +60,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK01</fips>
     <postal-code>AR</postal-code>
     <name>Aracinovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Skopje</region>
     <longitude>21.5862</longitude>
@@ -85,13 +85,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK01</fips>
     <postal-code>LI</postal-code>
     <name>Lipkovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Skopje</region>
     <longitude>21.579</longitude>
     <woe-name>Lipkovo</woe-name>
     <latitude>42.1401</latitude>
-    <woe-label>Lipkovo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Lipkovo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.52</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
@@ -110,13 +110,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK18</fips>
     <postal-code>CZ</postal-code>
     <name>Centar ?upa</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>20.5799</longitude>
     <woe-name>Centar ?upa</woe-name>
     <latitude>41.4644</latitude>
-    <woe-label>Centar Zupa Municipality, MK, Macedonia</woe-label>
+    <woe-label>Centar Zupa Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.46</hc-middle-x>
     <hc-middle-y>0.53</hc-middle-y>
@@ -135,7 +135,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK24</fips>
     <postal-code>DM</postal-code>
     <name>Demir Hisar</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>21.1238</longitude>
@@ -160,13 +160,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK74</fips>
     <postal-code>OD</postal-code>
     <name>Ohrid</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>20.8501</longitude>
     <woe-name>Ohrid</woe-name>
     <latitude>41.0273</latitude>
-    <woe-label>Ohrid Municipality, MK, Macedonia</woe-label>
+    <woe-label>Ohrid Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.50</hc-middle-x>
     <hc-middle-y>0.22</hc-middle-y>
@@ -185,13 +185,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK00</fips>
     <postal-code>NULL</postal-code>
     <name>Debarca</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>20.8594</longitude>
     <woe-name>Debarca</woe-name>
     <latitude>41.3337</latitude>
-    <woe-label>Debarca Municipality, MK, Macedonia</woe-label>
+    <woe-label>Debarca Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.44</hc-middle-x>
     <hc-middle-y>0.35</hc-middle-y>
@@ -210,13 +210,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK82</fips>
     <postal-code>PP</postal-code>
     <name>Prilep</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Pelagonia</region>
     <longitude>21.6444</longitude>
     <woe-name>Prilep</woe-name>
     <latitude>41.2806</latitude>
-    <woe-label>Prilep Municipality, MK, Macedonia</woe-label>
+    <woe-label>Prilep Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.58</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
@@ -235,13 +235,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK90</fips>
     <postal-code>AJ</postal-code>
     <name>Saraj</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.2491</longitude>
     <woe-name>Saraj</woe-name>
     <latitude>41.975</latitude>
-    <woe-label>Skopje, Saraj Municipality, Macedonia</woe-label>
+    <woe-label>Skopje, Saraj Municipality, North Macedonia</woe-label>
     <type>Municipality</type>
     <hc-middle-x>0.49</hc-middle-x>
     <hc-middle-y>0.54</hc-middle-y>
@@ -260,13 +260,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK98</fips>
     <postal-code>ST</postal-code>
     <name>?tip</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.1689</longitude>
     <woe-name>?tip</woe-name>
     <latitude>41.6824</latitude>
-    <woe-label>Stip Municipality, MK, Macedonia</woe-label>
+    <woe-label>Stip Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.53</hc-middle-x>
     <hc-middle-y>0.55</hc-middle-y>
@@ -285,13 +285,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK83</fips>
     <postal-code>PT</postal-code>
     <name>Probistip</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Northeastern</region>
     <longitude>22.174</longitude>
     <woe-name>Probistip</woe-name>
     <latitude>41.9372</latitude>
-    <woe-label>Probistip Municipality, MK, Macedonia</woe-label>
+    <woe-label>Probistip Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.40</hc-middle-x>
     <hc-middle-y>0.43</hc-middle-y>
@@ -310,13 +310,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK79</fips>
     <postal-code>PE</postal-code>
     <name>Skopje</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>21.6898</longitude>
     <woe-name>Skopje</woe-name>
     <latitude>41.8999</latitude>
-    <woe-label>Petrovec Municipality, MK, Macedonia</woe-label>
+    <woe-label>Petrovec Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.51</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
@@ -335,13 +335,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKA2</fips>
     <postal-code>SU</postal-code>
     <name>Studenicani</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Skopje</region>
     <longitude>21.4592</longitude>
     <woe-name>Studenicani</woe-name>
     <latitude>41.8317</latitude>
-    <woe-label>Studenicani Municipality, MK, Macedonia</woe-label>
+    <woe-label>Studenicani Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.34</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
@@ -360,13 +360,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKA4</fips>
     <postal-code>SL</postal-code>
     <name>Sveti Nikole</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Northeastern</region>
     <longitude>21.9509</longitude>
     <woe-name>Sveti Nikole</woe-name>
     <latitude>41.8778</latitude>
-    <woe-label>Sveti Nikole Municipality, MK, Macedonia</woe-label>
+    <woe-label>Sveti Nikole Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.55</hc-middle-x>
     <hc-middle-y>0.45</hc-middle-y>
@@ -385,7 +385,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK80</fips>
     <postal-code>PN</postal-code>
     <name>Plasnica</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>21.1173</longitude>
@@ -410,7 +410,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKB6</fips>
     <postal-code>VC</postal-code>
     <name>Vrane?tica</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>21.015</longitude>
@@ -435,7 +435,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK13</fips>
     <postal-code>BU</postal-code>
     <name>Butel</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.4665</longitude>
@@ -460,7 +460,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKA3</fips>
     <postal-code>CI</postal-code>
     <name>Cair</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.4367</longitude>
@@ -485,13 +485,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK69</fips>
     <postal-code>NG</postal-code>
     <name>Negotino</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Vardar</region>
     <longitude>22.1394</longitude>
     <woe-name>Negotino</woe-name>
     <latitude>41.3722</latitude>
-    <woe-label>Negotino Municipality, MK, Macedonia</woe-label>
+    <woe-label>Negotino Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.39</hc-middle-x>
     <hc-middle-y>0.45</hc-middle-y>
@@ -510,13 +510,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK87</fips>
     <postal-code>RM</postal-code>
     <name>Vardar</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>21.8972</longitude>
     <woe-name>Vardar</woe-name>
     <latitude>41.477</latitude>
-    <woe-label>Rosoman Municipality, MK, Macedonia</woe-label>
+    <woe-label>Rosoman Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.53</hc-middle-x>
     <hc-middle-y>0.54</hc-middle-y>
@@ -535,7 +535,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK17</fips>
     <postal-code>CE</postal-code>
     <name>Centar</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.4226</longitude>
@@ -560,7 +560,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK19</fips>
     <postal-code>ZR</postal-code>
     <name>Zrnovci</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>22.4027</longitude>
@@ -585,7 +585,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK19</fips>
     <postal-code>CH</postal-code>
     <name>Ce?inovo-Oble?evo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.2896</longitude>
@@ -610,13 +610,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK20</fips>
     <postal-code>CS</postal-code>
     <name>Cucer Sandevo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Skopje</region>
     <longitude>21.3885</longitude>
     <woe-name>Cucer Sandevo</woe-name>
     <latitude>42.1353</latitude>
-    <woe-label>Cucer-Sandevo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Cucer-Sandevo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.44</hc-middle-x>
     <hc-middle-y>0.45</hc-middle-y>
@@ -635,7 +635,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK32</fips>
     <postal-code>GB</postal-code>
     <name>Gazi Baba</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.5136</longitude>
@@ -660,13 +660,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK35</fips>
     <postal-code>GR</postal-code>
     <name>Gradsko</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Vardar</region>
     <longitude>21.9019</longitude>
     <woe-name>Gradsko</woe-name>
     <latitude>41.5864</latitude>
-    <woe-label>Gradsko Municipality, MK, Macedonia</woe-label>
+    <woe-label>Gradsko Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.46</hc-middle-x>
     <hc-middle-y>0.58</hc-middle-y>
@@ -685,7 +685,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK35</fips>
     <postal-code>LO</postal-code>
     <name>Lozovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Vardar</region>
     <longitude>21.915</longitude>
@@ -710,13 +710,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK25</fips>
     <postal-code>DK</postal-code>
     <name>Demir Kapija</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southeastern</region>
     <longitude>22.2161</longitude>
     <woe-name>Demir Kapija</woe-name>
     <latitude>41.3739</latitude>
-    <woe-label>Demir Kapija Municipality, MK, Macedonia</woe-label>
+    <woe-label>Demir Kapija Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.57</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
@@ -735,7 +735,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK35</fips>
     <postal-code>KN</postal-code>
     <name>Konce</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southeastern</region>
     <longitude>22.384</longitude>
@@ -760,13 +760,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK41</fips>
     <postal-code>KX</postal-code>
     <name>Karpo?</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.3888</longitude>
     <woe-name>Karpo?</woe-name>
     <latitude>41.9774</latitude>
-    <woe-label>Skopje, Karpos Municipality, Macedonia</woe-label>
+    <woe-label>Skopje, Karpos Municipality, North Macedonia</woe-label>
     <type>Municipality</type>
     <hc-middle-x>0.50</hc-middle-x>
     <hc-middle-y>0.67</hc-middle-y>
@@ -785,13 +785,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK15</fips>
     <postal-code>CA</postal-code>
     <name>Ca?ka</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Vardar</region>
     <longitude>21.5939</longitude>
     <woe-name>Ca?ka</woe-name>
     <latitude>41.5807</latitude>
-    <woe-label>Caska Municipality, MK, Macedonia</woe-label>
+    <woe-label>Caska Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.44</hc-middle-x>
     <hc-middle-y>0.46</hc-middle-y>
@@ -810,13 +810,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK42</fips>
     <postal-code>AV</postal-code>
     <name>Kavadartsi</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Vardar</region>
     <longitude>22.0373</longitude>
     <woe-name>Kavadartsi</woe-name>
     <latitude>41.3234</latitude>
-    <woe-label>Kavadarci Municipality, MK, Macedonia</woe-label>
+    <woe-label>Kavadarci Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.42</hc-middle-x>
     <hc-middle-y>0.54</hc-middle-y>
@@ -835,7 +835,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK44</fips>
     <postal-code>AD</postal-code>
     <name>Aerodrom</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.4932</longitude>
@@ -860,13 +860,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK92</fips>
     <postal-code>SS</postal-code>
     <name>Sopiste</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Skopje</region>
     <longitude>21.332</longitude>
     <woe-name>Sopiste</woe-name>
     <latitude>41.8337</latitude>
-    <woe-label>Sopiste Municipality, MK, Macedonia</woe-label>
+    <woe-label>Sopiste Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.33</hc-middle-x>
     <hc-middle-y>0.44</hc-middle-y>
@@ -885,13 +885,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK44</fips>
     <postal-code>VD</postal-code>
     <name>Kisela Voda</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.4817</longitude>
     <woe-name>Skopje</woe-name>
     <latitude>41.9346</latitude>
-    <woe-label>Skopje, Centar Municipality, Macedonia</woe-label>
+    <woe-label>Skopje, Centar Municipality, North Macedonia</woe-label>
     <type>Municipality</type>
     <hc-middle-x>0.56</hc-middle-x>
     <hc-middle-y>0.57</hc-middle-y>
@@ -910,13 +910,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK51</fips>
     <postal-code>KY</postal-code>
     <name>Kratovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Northeastern</region>
     <longitude>22.138</longitude>
     <woe-name>Kratovo</woe-name>
     <latitude>42.0592</latitude>
-    <woe-label>Kratovo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Kratovo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.29</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
@@ -935,13 +935,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK06</fips>
     <postal-code>TL</postal-code>
     <name>Bitola</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Pelagonia</region>
     <longitude>21.2925</longitude>
     <woe-name>Bitola</woe-name>
     <latitude>41.0402</latitude>
-    <woe-label>Bitola Municipality, MK, Macedonia</woe-label>
+    <woe-label>Bitola Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.49</hc-middle-x>
     <hc-middle-y>0.54</hc-middle-y>
@@ -960,13 +960,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK54</fips>
     <postal-code>KS</postal-code>
     <name>Kru?evo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Pelagonia</region>
     <longitude>21.2328</longitude>
     <woe-name>Kru?evo</woe-name>
     <latitude>41.3734</latitude>
-    <woe-label>Krusevo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Krusevo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.58</hc-middle-x>
     <hc-middle-y>0.39</hc-middle-y>
@@ -985,13 +985,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK57</fips>
     <postal-code>UM</postal-code>
     <name>Kumanovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Northeastern</region>
     <longitude>21.7923</longitude>
     <woe-name>Kumanovo</woe-name>
     <latitude>42.0293</latitude>
-    <woe-label>Kumanovo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Kumanovo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.42</hc-middle-x>
     <hc-middle-y>0.62</hc-middle-y>
@@ -1010,13 +1010,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKC3</fips>
     <postal-code>ZE</postal-code>
     <name>?elino</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Polog</region>
     <longitude>21.1277</longitude>
     <woe-name>?elino</woe-name>
     <latitude>41.9157</latitude>
-    <woe-label>Zelino Municipality, MK, Macedonia</woe-label>
+    <woe-label>Zelino Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.53</hc-middle-x>
     <hc-middle-y>0.45</hc-middle-y>
@@ -1035,13 +1035,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK63</fips>
     <postal-code>MD</postal-code>
     <name>Brod</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Polog</region>
     <longitude>21.2133</longitude>
     <woe-name>Brod</woe-name>
     <latitude>41.6303</latitude>
-    <woe-label>Makedonski Brod Municipality, MK, Macedonia</woe-label>
+    <woe-label>Makedonski Brod Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.52</hc-middle-x>
     <hc-middle-y>0.46</hc-middle-y>
@@ -1060,7 +1060,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK00</fips>
     <postal-code>GP</postal-code>
     <name>Gjorce Petrov</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.3002</longitude>
@@ -1085,13 +1085,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK43</fips>
     <postal-code>KH</postal-code>
     <name>Kicevo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>20.9511</longitude>
     <woe-name>Kicevo</woe-name>
     <latitude>41.517</latitude>
-    <woe-label>Kicevo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Kicevo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.51</hc-middle-x>
     <hc-middle-y>0.40</hc-middle-y>
@@ -1110,7 +1110,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK77</fips>
     <postal-code>OS</postal-code>
     <name>Oslomej</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>21.0347</longitude>
@@ -1135,13 +1135,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKB7</fips>
     <postal-code>VH</postal-code>
     <name>Polog</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>20.8349</longitude>
     <woe-name>Polog</woe-name>
     <latitude>41.8584</latitude>
-    <woe-label>Vrapciste Municipality, MK, Macedonia</woe-label>
+    <woe-label>Vrapciste Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.52</hc-middle-x>
     <hc-middle-y>0.53</hc-middle-y>
@@ -1160,13 +1160,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK10</fips>
     <postal-code>VJ</postal-code>
     <name>Bogovinje</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Polog</region>
     <longitude>20.869</longitude>
     <woe-name>Bogovinje</woe-name>
     <latitude>41.945</latitude>
-    <woe-label>Bogovinje Municipality, MK, Macedonia</woe-label>
+    <woe-label>Bogovinje Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.61</hc-middle-x>
     <hc-middle-y>0.43</hc-middle-y>
@@ -1185,13 +1185,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKA6</fips>
     <postal-code>ET</postal-code>
     <name>Tetovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>20.8947</longitude>
     <woe-name>Tetovo</woe-name>
     <latitude>42.0484</latitude>
-    <woe-label>Tetovo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Tetovo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.43</hc-middle-x>
     <hc-middle-y>0.46</hc-middle-y>
@@ -1210,13 +1210,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK12</fips>
     <postal-code>BN</postal-code>
     <name>Brvenica</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Polog</region>
     <longitude>21.066</longitude>
     <woe-name>Brvenica</woe-name>
     <latitude>41.8465</latitude>
-    <woe-label>Brvenica Municipality, MK, Macedonia</woe-label>
+    <woe-label>Brvenica Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.51</hc-middle-x>
     <hc-middle-y>0.67</hc-middle-y>
@@ -1235,13 +1235,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK34</fips>
     <postal-code>GT</postal-code>
     <name>Gostivar</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Polog</region>
     <longitude>20.8095</longitude>
     <woe-name>Gostivar</woe-name>
     <latitude>41.7855</latitude>
-    <woe-label>Gostivar Municipality, MK, Macedonia</woe-label>
+    <woe-label>Gostivar Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.77</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
@@ -1260,7 +1260,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK38</fips>
     <postal-code>JG</postal-code>
     <name>Jegunovce</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>NULL</region>
     <longitude>21.129</longitude>
@@ -1285,13 +1285,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKA1</fips>
     <postal-code>RU</postal-code>
     <name>Southeastern</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>22.6211</longitude>
     <woe-name>Southeastern</woe-name>
     <latitude>41.3841</latitude>
-    <woe-label>Strumica Municipality, MK, Macedonia</woe-label>
+    <woe-label>Strumica Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.43</hc-middle-x>
     <hc-middle-y>0.44</hc-middle-y>
@@ -1310,13 +1310,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKA8</fips>
     <postal-code>VA</postal-code>
     <name>Valandovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southeastern</region>
     <longitude>22.5432</longitude>
     <woe-name>Valandovo</woe-name>
     <latitude>41.2911</latitude>
-    <woe-label>Valandovo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Valandovo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.35</hc-middle-x>
     <hc-middle-y>0.42</hc-middle-y>
@@ -1335,13 +1335,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK08</fips>
     <postal-code>BG</postal-code>
     <name>Bogdanci</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southeastern</region>
     <longitude>22.5841</longitude>
     <woe-name>Bogdanci</woe-name>
     <latitude>41.1772</latitude>
-    <woe-label>Bogdanci Municipality, MK, Macedonia</woe-label>
+    <woe-label>Bogdanci Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.44</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
@@ -1360,13 +1360,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK72</fips>
     <postal-code>NS</postal-code>
     <name>Novo Selo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southeastern</region>
     <longitude>22.8701</longitude>
     <woe-name>Novo Selo</woe-name>
     <latitude>41.4278</latitude>
-    <woe-label>Novo Selo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Novo Selo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.50</hc-middle-x>
     <hc-middle-y>0.58</hc-middle-y>
@@ -1385,13 +1385,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK04</fips>
     <postal-code>BR</postal-code>
     <name>Berovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southeastern</region>
     <longitude>22.8027</longitude>
     <woe-name>Berovo</woe-name>
     <latitude>41.6344</latitude>
-    <woe-label>Berovo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Berovo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.51</hc-middle-x>
     <hc-middle-y>0.55</hc-middle-y>
@@ -1410,7 +1410,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKB4</fips>
     <postal-code>NI</postal-code>
     <name>Vinitsa</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.5742</longitude>
@@ -1435,13 +1435,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK84</fips>
     <postal-code>RV</postal-code>
     <name>Radovis</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.4679</longitude>
     <woe-name>Radovis</woe-name>
     <latitude>41.6365</latitude>
-    <woe-label>Radovis Municipality, MK, Macedonia</woe-label>
+    <woe-label>Radovis Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.60</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
@@ -1460,7 +1460,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK30</fips>
     <postal-code>DR</postal-code>
     <name>Drugovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>20.9119</longitude>
@@ -1485,13 +1485,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKE6</fips>
     <postal-code>UG</postal-code>
     <name>Struga</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>20.602</longitude>
     <woe-name>Struga Municipality</woe-name>
     <latitude>41.1813</latitude>
-    <woe-label>Struga Municipality, MK, Macedonia</woe-label>
+    <woe-label>Struga Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.59</hc-middle-x>
     <hc-middle-y>0.35</hc-middle-y>
@@ -1510,13 +1510,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK21</fips>
     <postal-code>DB</postal-code>
     <name>Debar</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>20.5863</longitude>
     <woe-name>Debar</woe-name>
     <latitude>41.541</latitude>
-    <woe-label>Debar Municipality, MK, Macedonia</woe-label>
+    <woe-label>Debar Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.28</hc-middle-x>
     <hc-middle-y>0.32</hc-middle-y>
@@ -1535,13 +1535,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK86</fips>
     <postal-code>RE</postal-code>
     <name>Resen</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>21.0472</longitude>
     <woe-name>Resen Municipality</woe-name>
     <latitude>41.027</latitude>
-    <woe-label>Resen Municipality, MK, Macedonia</woe-label>
+    <woe-label>Resen Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.37</hc-middle-x>
     <hc-middle-y>0.35</hc-middle-y>
@@ -1560,13 +1560,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK85</fips>
     <postal-code>KZ</postal-code>
     <name>Kriva Palanka</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Northeastern</region>
     <longitude>22.2641</longitude>
     <woe-name>Kriva Palanka</woe-name>
     <latitude>42.2421</latitude>
-    <woe-label>Kriva Palanka Municipality, MK, Macedonia</woe-label>
+    <woe-label>Kriva Palanka Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.42</hc-middle-x>
     <hc-middle-y>0.54</hc-middle-y>
@@ -1585,7 +1585,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK40</fips>
     <postal-code>KB</postal-code>
     <name>Karbinci</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.2847</longitude>
@@ -1610,13 +1610,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK97</fips>
     <postal-code>NA</postal-code>
     <name>Northeastern</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>21.8853</longitude>
     <woe-name>Northeastern</woe-name>
     <latitude>42.2098</latitude>
-    <woe-label>Staro Nagoricane Municipality, MK, Macedonia</woe-label>
+    <woe-label>Staro Nagoricane Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.50</hc-middle-x>
     <hc-middle-y>0.55</hc-middle-y>
@@ -1635,13 +1635,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK71</fips>
     <postal-code>NV</postal-code>
     <name>Novatsi</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Pelagonia</region>
     <longitude>21.6586</longitude>
     <woe-name>Novatsi</woe-name>
     <latitude>41.0253</latitude>
-    <woe-label>Novaci Municipality, MK, Macedonia</woe-label>
+    <woe-label>Novaci Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.46</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
@@ -1660,13 +1660,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK64</fips>
     <postal-code>MR</postal-code>
     <name>Mavrovo and Rostusa</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Polog</region>
     <longitude>20.6986</longitude>
     <woe-name>Mavrovo and Rostusa</woe-name>
     <latitude>41.6315</latitude>
-    <woe-label>Mavrovo and Rostusa Municipality, MK, Macedonia</woe-label>
+    <woe-label>Mavrovo and Rostusa Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.46</hc-middle-x>
     <hc-middle-y>0.41</hc-middle-y>
@@ -1685,13 +1685,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKA5</fips>
     <postal-code>TR</postal-code>
     <name>Tearce</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>NULL</region>
     <longitude>21.0174</longitude>
     <woe-name>Tearce</woe-name>
     <latitude>42.082</latitude>
-    <woe-label>Tearce Municipality, MK, Macedonia</woe-label>
+    <woe-label>Tearce Municipality, MK, North Macedonia</woe-label>
     <type>Op?tina</type>
     <hc-middle-x>0.61</hc-middle-x>
     <hc-middle-y>0.53</hc-middle-y>
@@ -1710,13 +1710,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK33</fips>
     <postal-code>GV</postal-code>
     <name>Southeastern</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>22.3973</longitude>
     <woe-name>Southeastern</woe-name>
     <latitude>41.243</latitude>
-    <woe-label>Gevgelija Municipality, MK, Macedonia</woe-label>
+    <woe-label>Gevgelija Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.45</hc-middle-x>
     <hc-middle-y>0.57</hc-middle-y>
@@ -1735,13 +1735,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK00</fips>
     <postal-code>SD</postal-code>
     <name>Dojran</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southeastern</region>
     <longitude>22.6539</longitude>
     <woe-name>Dojran</woe-name>
     <latitude>41.2492</latitude>
-    <woe-label>Star Dojran Municipality, MK, Macedonia</woe-label>
+    <woe-label>Star Dojran Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.62</hc-middle-x>
     <hc-middle-y>0.37</hc-middle-y>
@@ -1760,13 +1760,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK22</fips>
     <postal-code>DL</postal-code>
     <name>Delcevo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.7429</longitude>
     <woe-name>Delcevo</woe-name>
     <latitude>41.9187</latitude>
-    <woe-label>Delcevo Municipality, MK, Macedonia</woe-label>
+    <woe-label>Delcevo Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.51</hc-middle-x>
     <hc-middle-y>0.39</hc-middle-y>
@@ -1785,13 +1785,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK46</fips>
     <postal-code>OC</postal-code>
     <name>Kocani</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.3869</longitude>
     <woe-name>Kocani</woe-name>
     <latitude>41.9798</latitude>
-    <woe-label>Kocani Municipality, MK, Macedonia</woe-label>
+    <woe-label>Kocani Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.56</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
@@ -1810,13 +1810,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK52</fips>
     <postal-code>MK</postal-code>
     <name>Makedonska Kamenica</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.5221</longitude>
     <woe-name>Makedonska Kamenica</woe-name>
     <latitude>42.0394</latitude>
-    <woe-label>Makedonska Kamenica Municipality, MK, Macedonia</woe-label>
+    <woe-label>Makedonska Kamenica Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.55</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
@@ -1835,7 +1835,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK78</fips>
     <postal-code>PH</postal-code>
     <name>Phecevo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Eastern</region>
     <longitude>22.8833</longitude>
@@ -1860,13 +1860,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK85</fips>
     <postal-code>RN</postal-code>
     <name>Rankovce</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Northeastern</region>
     <longitude>22.1049</longitude>
     <woe-name>Rankovce Municipality</woe-name>
     <latitude>42.1895</latitude>
-    <woe-label>Rankovce Municipality, MK, Macedonia</woe-label>
+    <woe-label>Rankovce Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.57</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
@@ -1885,13 +1885,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK36</fips>
     <postal-code>IL</postal-code>
     <name>Ilinden</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Skopje</region>
     <longitude>21.6093</longitude>
     <woe-name>Ilinden</woe-name>
     <latitude>41.9758</latitude>
-    <woe-label>Ilinden Municipality, MK, Macedonia</woe-label>
+    <woe-label>Ilinden Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.55</hc-middle-x>
     <hc-middle-y>0.46</hc-middle-y>
@@ -1910,13 +1910,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKB1</fips>
     <postal-code>VE</postal-code>
     <name>Veles</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Vardar</region>
     <longitude>21.7157</longitude>
     <woe-name>Veles</woe-name>
     <latitude>41.7213</latitude>
-    <woe-label>Veles Municipality, MK, Macedonia</woe-label>
+    <woe-label>Veles Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.56</hc-middle-x>
     <hc-middle-y>0.59</hc-middle-y>
@@ -1935,7 +1935,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKC2</fips>
     <postal-code>ZK</postal-code>
     <name>Zelenikovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Skopje</region>
     <longitude>21.5518</longitude>
@@ -1960,7 +1960,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK17</fips>
     <postal-code>SO</postal-code>
     <name>?uto Orizari</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Municipality</type-en>
     <region>Greater Skopje</region>
     <longitude>21.4069</longitude>
@@ -1985,13 +1985,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK28</fips>
     <postal-code>DE</postal-code>
     <name>Dolneni</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Pelagonia</region>
     <longitude>21.4307</longitude>
     <woe-name>Dolneni</woe-name>
     <latitude>41.4684</latitude>
-    <woe-label>Dolneni Municipality, MK, Macedonia</woe-label>
+    <woe-label>Dolneni Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.47</hc-middle-x>
     <hc-middle-y>0.56</hc-middle-y>
@@ -2010,7 +2010,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK53</fips>
     <postal-code>KG</postal-code>
     <name>Krivoga?tani</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Pelagonia</region>
     <longitude>21.3682</longitude>
@@ -2035,13 +2035,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK67</fips>
     <postal-code>MG</postal-code>
     <name>Pelagonia</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>21.4512</longitude>
     <woe-name>Pelagonia</woe-name>
     <latitude>41.147</latitude>
-    <woe-label>Mogila Municipality, MK, Macedonia</woe-label>
+    <woe-label>Mogila Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.39</hc-middle-x>
     <hc-middle-y>0.57</hc-middle-y>
@@ -2060,13 +2060,13 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKC1</fips>
     <postal-code>ZA</postal-code>
     <name>Zajas</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southwestern</region>
     <longitude>20.8849</longitude>
     <woe-name>Zajas</woe-name>
     <latitude>41.6012</latitude>
-    <woe-label>Zajas Municipality, MK, Macedonia</woe-label>
+    <woe-label>Zajas Municipality, MK, North Macedonia</woe-label>
     <type>Statistical Region</type>
     <hc-middle-x>0.59</hc-middle-x>
     <hc-middle-y>0.41</hc-middle-y>
@@ -2085,7 +2085,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MKA9</fips>
     <postal-code>VL</postal-code>
     <name>Vasilevo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>Southeastern</region>
     <longitude>22.6159</longitude>
@@ -2110,7 +2110,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <fips>MK11</fips>
     <postal-code>BS</postal-code>
     <name>Bosilovo</name>
-    <country>Macedonia</country>
+    <country>North Macedonia</country>
     <type-en>Statistical Region</type-en>
     <region>NULL</region>
     <longitude>22.7665</longitude>

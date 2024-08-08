@@ -3,7 +3,7 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.2.0
+Map version: 2.3.0
 Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>World, Eckert III projection, high resolution</title>
@@ -2747,7 +2747,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SZ" d="M396.9,225.7 L397.1,226.4 L397.1,227.6 L396.9,227.5 L396.8,228.5 L395.9,228.5 L395.1,228.3 L394.5,227.4 L394.5,226.6 L395.2,225.6 L395.9,225.3 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <name>Swaziland</name>
+    <name>Eswatini</name>
     <labelrank>4</labelrank>
     <country-abbrev>Swz.</country-abbrev>
     <subregion>Southern Africa</subregion>
@@ -3197,7 +3197,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MK" d="M373.3,88.1 L373.3,88.1 L373.3,88.1 Z M375.8,85.1 L376.8,85.7 L377.2,86.3 L377.1,87.1 L376.7,87.5 L375.1,87.6 L374.9,88.0 L373.6,88.1 L373.3,87.8 L373.3,88.0 L373.3,88.0 L373.3,88.0 L373.1,88.0 L372.8,88.0 L373.0,87.6 L372.7,87.6 L372.3,87.1 L372.4,86.0 L373.4,85.4 L373.7,85.6 L374.3,85.2 L375.0,85.1 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <name>Macedonia</name>
+    <name>North Macedonia</name>
     <labelrank>6</labelrank>
     <country-abbrev>Mkd.</country-abbrev>
     <subregion>Southern Europe</subregion>

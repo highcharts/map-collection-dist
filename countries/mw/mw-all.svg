@@ -3,7 +3,7 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.2.0
+Map version: 2.3.0
 Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Malawi</title>
@@ -559,18 +559,18 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>MI08</fips>
     <postal-code>NULL</postal-code>
-    <name>Chitipa</name>
+    <name>Karonga</name>
     <country>Malawi</country>
     <type-en>District</type-en>
     <region>NULL</region>
     <longitude>33.8876</longitude>
-    <woe-name>Chitipa</woe-name>
+    <woe-name>Karonga</woe-name>
     <latitude>-10.0267</latitude>
     <woe-label>Karonga, MW, Malawi</woe-label>
     <type>District</type>
     <hc-middle-x>0.57</hc-middle-x>
     <hc-middle-y>0.58</hc-middle-y>
-    <hc-key>mw-1011</hc-key>
+    <hc-key>mw-ka</hc-key>
     <hc-a2>CH</hc-a2>
   </desc>
 </path>

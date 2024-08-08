@@ -1,5 +1,5 @@
 Highcharts.mapDataIndex = {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "Custom": {
         "Africa": "custom/africa.js",
         "Antarctica": "custom/antarctica.js",
@@ -77,8 +77,8 @@ Highcharts.mapDataIndex = {
         "Chad": "countries/td/td-all.js",
         "Chile": "countries/cl/cl-all.js",
         "China": "countries/cn/cn-all.js",
-        "China with Hong Kong and Macau": "countries/cn/custom/cn-all-sar.js",
-        "China with Hong Kong, Macau, and Taiwan": "countries/cn/custom/cn-all-sar-taiwan.js",
+        "China without Hong Kong, Macau, and Taiwan": "countries/cn/custom/cn-all-no-sar-taiwan.js",
+        "China without Taiwan": "countries/cn/custom/cn-all-no-taiwan.js",
         "Colombia": "countries/co/co-all.js",
         "Comoros": "countries/km/km-all.js",
         "Cook Islands": "countries/ck/ck-all.js",
@@ -153,7 +153,6 @@ Highcharts.mapDataIndex = {
         "Liechtenstein": "countries/li/li-all.js",
         "Lithuania": "countries/lt/lt-all.js",
         "Luxembourg": "countries/lu/lu-all.js",
-        "Macedonia": "countries/mk/mk-all.js",
         "Madagascar": "countries/mg/mg-all.js",
         "Malawi": "countries/mw/mw-all.js",
         "Malaysia": "countries/my/my-all.js",
@@ -178,6 +177,7 @@ Highcharts.mapDataIndex = {
         "Niger": "countries/ne/ne-all.js",
         "Nigeria": "countries/ng/ng-all.js",
         "North Korea": "countries/kp/kp-all.js",
+        "North Macedonia": "countries/mk/mk-all.js",
         "Northern Mariana Islands": "countries/mp/mp-all.js",
         "Norway": "countries/no/no-all.js",
         "Norway with Svalbard and Jan Mayen": "countries/no/custom/no-all-svalbard-and-jan-mayen.js",
@@ -225,7 +225,7 @@ Highcharts.mapDataIndex = {
         "Sudan": "countries/sd/sd-all.js",
         "Sudan with disputed territories": "countries/sd/custom/sd-all-disputed.js",
         "Suriname": "countries/sr/sr-all.js",
-        "Swaziland": "countries/sz/sz-all.js",
+        "Eswatini": "countries/sz/sz-all.js",
         "Sweden": "countries/se/se-all.js",
         "Switzerland": "countries/ch/ch-all.js",
         "Syria": "countries/sy/sy-all.js",
@@ -479,6 +479,7 @@ Highcharts.mapDataIndex = {
         "Wyoming congressional districts": "countries/us/custom/us-wy-congress-113.js"
     },
     "Historical: Countries": {
+        "Estonia (2016)": "historical/countries/ee-2016/ee-all-2016.js",
         "Norway (2023)": "historical/countries/no-2023/no-all-2023.js",
         "Norway, admin2 (2023)": "historical/countries/no-2023/no-all-all-2023.js",
         "Norway with Svalbard and Jan Mayen (2023)": "historical/countries/no-2023/custom/no-all-svalbard-and-jan-mayen-2023.js",
@@ -491,7 +492,10 @@ Highcharts.mapDataIndex = {
         "France, mainland admin2 (2015)": "historical/countries/fr-2015/custom/fr-all-all-mainland-2015.js",
         "Burundi (2014)": "historical/countries/bi-2014/bi-all-2014.js",
         "India with disputed territories (2013)": "historical/countries/in-2013/custom/in-all-disputed-2013.js",
-        "Indonesia (2011)": "historical/countries/id-2011/id-all-2011.js"
+        "Indonesia (2011)": "historical/countries/id-2011/id-all-2011.js",
+        "Swaziland (2018)": "historical/countries/sz-2018/sz-all-2018.js",
+        "Laos (2012)": "historical/countries/la-2012/la-all-2012.js",
+        "Montenegro (2013)": "historical/countries/me-2013/me-all-2013.js"
     },
     "Historical: Norway Counties (2023)": {
         "Agder, admin2 (2023)": "historical/countries/no-2023/no-ag-all-2023.js",

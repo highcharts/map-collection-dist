@@ -3,15 +3,15 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.3.0
-Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
+Map version: 2.3.1
+Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </desc>
-<title>Western Sahara</title>
+<title>Western Sahara without Southern Provinces</title>
 <g id="admin1">
 
 <g id="EH">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <name>Western Sahara</name>
+    <name>Western Sahara without Southern Provinces</name>
     <labelrank>7</labelrank>
     <country-abbrev>W. Sah.</country-abbrev>
     <subregion>Northern Africa</subregion>
@@ -34,7 +34,7 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
     <subregion>NULL</subregion>
     <fips>NULL</fips>
     <postal-code>NULL</postal-code>
-    <name>Western Sahara</name>
+    <name>Western Sahara without Southern Provinces</name>
     <country>Western Sahara</country>
     <type-en>NULL</type-en>
     <region>NULL</region>
@@ -51,6 +51,6 @@ Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2024 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

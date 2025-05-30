@@ -1,5 +1,5 @@
 Highcharts.mapDataIndex = {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "Custom": {
         "Africa": "custom/africa.js",
         "Antarctica": "custom/antarctica.js",
@@ -96,6 +96,7 @@ Highcharts.mapDataIndex = {
         "Ecuador": "countries/ec/ec-all.js",
         "Egypt": "countries/eg/eg-all.js",
         "El Salvador": "countries/sv/sv-all.js",
+        "England": "countries/gb/gb-eng-all.js",
         "Equatorial Guinea": "countries/gq/gq-all.js",
         "Eritrea": "countries/er/er-all.js",
         "Estonia": "countries/ee/ee-all.js",
@@ -127,7 +128,6 @@ Highcharts.mapDataIndex = {
         "Hungary": "countries/hu/hu-all.js",
         "Iceland": "countries/is/is-all.js",
         "India": "countries/in/in-all.js",
-        "India with Andaman and Nicobar": "countries/in/custom/in-all-andaman-and-nicobar.js",
         "India with disputed territories": "countries/in/custom/in-all-disputed.js",
         "Indonesia": "countries/id/id-all.js",
         "Iran": "countries/ir/ir-all.js",
@@ -135,6 +135,7 @@ Highcharts.mapDataIndex = {
         "Ireland": "countries/ie/ie-all.js",
         "Israel": "countries/il/il-all.js",
         "Italy": "countries/it/it-all.js",
+        "Italy, admin2": "countries/it/it-all-all.js",
         "Ivory Coast": "countries/ci/ci-all.js",
         "Jamaica": "countries/jm/jm-all.js",
         "Japan": "countries/jp/jp-all.js",
@@ -165,7 +166,8 @@ Highcharts.mapDataIndex = {
         "Monaco": "countries/mc/mc-all.js",
         "Mongolia": "countries/mn/mn-all.js",
         "Montenegro": "countries/me/me-all.js",
-        "Morocco": "countries/ma/ma-all.js",
+        "Morocco with Southern Provinces": "countries/ma/ma-all.js",
+        "Morocco without Southern Provinces": "countries/ma/custom/ma-all-no-sp.js",
         "Mozambique": "countries/mz/mz-all.js",
         "Myanmar": "countries/mm/mm-all.js",
         "Namibia": "countries/na/na-all.js",
@@ -226,6 +228,7 @@ Highcharts.mapDataIndex = {
         "Sudan with disputed territories": "countries/sd/custom/sd-all-disputed.js",
         "Suriname": "countries/sr/sr-all.js",
         "Eswatini": "countries/sz/sz-all.js",
+        "Scotland": "countries/gb/gb-sct-all.js",
         "Sweden": "countries/se/se-all.js",
         "Switzerland": "countries/ch/ch-all.js",
         "Syria": "countries/sy/sy-all.js",
@@ -260,8 +263,10 @@ Highcharts.mapDataIndex = {
         "Vanuatu": "countries/vu/vu-all.js",
         "Venezuela": "countries/ve/ve-all.js",
         "Vietnam": "countries/vn/vn-all.js",
+        "Wales": "countries/gb/gb-wls-all.js",
         "Wallis and Futuna": "countries/wf/wf-all.js",
-        "Western Sahara": "countries/eh/eh-all.js",
+        "Western Sahara with Southern Provinces": "countries/eh/custom/eh-all-with-sp.js",
+        "Western Sahara without Southern Provinces": "countries/eh/eh-all.js",
         "Yemen": "countries/ye/ye-all.js",
         "Zambia": "countries/zm/zm-all.js",
         "Zimbabwe": "countries/zw/zw-all.js"
@@ -280,26 +285,6 @@ Highcharts.mapDataIndex = {
         "Quebec, admin2": "countries/ca/ca-qc-all.js",
         "Saskatchewan, admin2": "countries/ca/ca-sk-all.js",
         "Yukon, admin2": "countries/ca/ca-yt-all.js"
-    },
-    "France Regions Admin 2": {
-        "Auvergne-Rhône-Alpes, admin2": "countries/fr/fr-ara-all.js",
-        "Bourgogne-Franche-Comté, admin2": "countries/fr/fr-bfc-all.js",
-        "Bretagne, admin2": "countries/fr/fr-bre-all.js",
-        "Centre-Val de Loire, admin2": "countries/fr/fr-cvl-all.js",
-        "Corse, admin2": "countries/fr/fr-cor-all.js",
-        "Grand-Est, admin2": "countries/fr/fr-ges-all.js",
-        "Guadeloupe, admin2": "countries/fr/fr-gua-all.js",
-        "Guyane française, admin2": "countries/fr/fr-gf-all.js",
-        "Hauts-de-France, admin2": "countries/fr/fr-hdf-all.js",
-        "Île-de-France, admin2": "countries/fr/fr-idf-all.js",
-        "Martinique, admin2": "countries/fr/fr-mq-all.js",
-        "Mayotte, admin2": "countries/fr/fr-may-all.js",
-        "Normandie, admin2": "countries/fr/fr-nor-all.js",
-        "Nouvelle-Aquitaine, admin2": "countries/fr/fr-naq-all.js",
-        "Occitanie, admin2": "countries/fr/fr-occ-all.js",
-        "Pays-de-la-Loire, admin2": "countries/fr/fr-pdl-all.js",
-        "Provence-Alpes-Côte-d’Azur, admin2": "countries/fr/fr-pac-all.js",
-        "Réunion, admin2": "countries/fr/fr-lre-all.js"
     },
     "Germany Bundesländer Admin 2": {
         "Baden-Württemberg, admin2": "countries/de/de-bw-all.js",
@@ -479,6 +464,9 @@ Highcharts.mapDataIndex = {
         "Wyoming congressional districts": "countries/us/custom/us-wy-congress-113.js"
     },
     "Historical: Countries": {
+        "France (2024)": "historical/countries/fr-2024/fr-all-all-2024.js",
+        "Italy (2024)": "historical/countries/it-2024/it-all-2024.js",
+        "Kazakhstan (2022)": "historical/countries/kz-2022/kz-all-2022.js",
         "Estonia (2016)": "historical/countries/ee-2016/ee-all-2016.js",
         "Norway (2023)": "historical/countries/no-2023/no-all-2023.js",
         "Norway, admin2 (2023)": "historical/countries/no-2023/no-all-all-2023.js",
@@ -491,6 +479,8 @@ Highcharts.mapDataIndex = {
         "France, mainland (2015)": "historical/countries/fr-2015/custom/fr-all-mainland-2015.js",
         "France, mainland admin2 (2015)": "historical/countries/fr-2015/custom/fr-all-all-mainland-2015.js",
         "Burundi (2014)": "historical/countries/bi-2014/bi-all-2014.js",
+        "India (2013)": "historical/countries/in-2013/in/in-all-2013.js",
+        "India with Andaman and Nicobar (2013)": "historical/countries/in-2013/custom/in-all-andaman-and-nicobar-2013.js",
         "India with disputed territories (2013)": "historical/countries/in-2013/custom/in-all-disputed-2013.js",
         "Indonesia (2011)": "historical/countries/id-2011/id-all-2011.js",
         "Swaziland (2018)": "historical/countries/sz-2018/sz-all-2018.js",
@@ -531,6 +521,26 @@ Highcharts.mapDataIndex = {
         "Vestfold, admin2 (2019)": "historical/countries/no-2019/no-vf-all-2019.js",
         "Østfold, admin2 (2019)": "historical/countries/no-2019/no-of-all-2019.js"
     },
+    "Historical: France Regions Admin 2 (2024)": {
+        "Auvergne-Rhône-Alpes, admin2 (2024)": "historical/countries/fr-2024/fr-ara-all-2024.js",
+        "Bourgogne-Franche-Comté, admin2 (2024)": "historical/countries/fr-2024/fr-bfc-all-2024.js",
+        "Bretagne, admin2 (2024)": "historical/countries/fr-2024/fr-bre-all-2024.js",
+        "Centre-Val de Loire, admin2 (2024)": "historical/countries/fr-2024/fr-cvl-all-2024.js",
+        "Corse, admin2 (2024)": "historical/countries/fr-2024/fr-cor-all-2024.js",
+        "Grand-Est, admin2 (2024)": "historical/countries/fr-2024/fr-ges-all-2024.js",
+        "Guadeloupe, admin2 (2024)": "historical/countries/fr-2024/fr-gua-all-2024.js",
+        "Guyane française, admin2 (2024)": "historical/countries/fr-2024/fr-gf-all-2024.js",
+        "Hauts-de-France, admin2 (2024)": "historical/countries/fr-2024/fr-hdf-all-2024.js",
+        "Île-de-France, admin2 (2024)": "historical/countries/fr-2024/fr-idf-all-2024.js",
+        "Martinique, admin2 (2024)": "historical/countries/fr-2024/fr-mq-all-2024.js",
+        "Mayotte, admin2 (2024)": "historical/countries/fr-2024/fr-may-all-2024.js",
+        "Normandie, admin2 (2024)": "historical/countries/fr-2024/fr-nor-all-2024.js",
+        "Nouvelle-Aquitaine, admin2 (2024)": "historical/countries/fr-2024/fr-naq-all-2024.js",
+        "Occitanie, admin2 (2024)": "historical/countries/fr-2024/fr-occ-all-2024.js",
+        "Pays-de-la-Loire, admin2 (2024)": "historical/countries/fr-2024/fr-pdl-all-2024.js",
+        "Provence-Alpes-Côte-d’Azur, admin2 (2024)": "historical/countries/fr-2024/fr-pac-all-2024.js",
+        "Réunion, admin2 (2024)": "historical/countries/fr-2024/fr-lre-all-2024.js"
+    },
     "Historical: France Regions Admin 2 (2015)": {
         "Alsace, admin2 (2015)": "historical/countries/fr-2015/fr-a-all-2015.js",
         "Aquitaine, admin2 (2015)": "historical/countries/fr-2015/fr-b-all-2015.js",
@@ -561,6 +571,8 @@ Highcharts.mapDataIndex = {
         "Île-de-France, admin2 (2015)": "historical/countries/fr-2015/fr-j-all-2015.js"
     },
     "Historical: Other": {
-        "Connecticut, admin2 (2023)": "historical/countries/us-2023/us-ct-all-2023.js"
+        "Connecticut, admin2 (2023)": "historical/countries/us-2023/us-ct-all-2023.js",
+        "South Dakota, admin2 (2015)": "historical/countries/us-20215/us-sd-all-2015.js",
+        "Virginia, admin2 (2013)": "historical/countries/us-2013/us-va-all-2013.js"
     }
 };

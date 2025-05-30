@@ -3,8 +3,8 @@
 
         <svg version="1.1" viewBox="-5 -5 710 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <desc>
-            Map version: 2.3.0
-            Copyright (c) 2024 Highsoft AS, Based on data from OpenStreetMap
+            Map version: 2.3.1
+            Copyright (c) 2025 Highsoft AS, Based on data from OpenStreetMap
         </desc>
         <title>Afghanistan</title>
         <g id="admin1">
@@ -555,6 +555,6 @@
 </g>
         
 <text x="350" y="715" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">
-            Copyright (c) 2024 Highsoft AS, Based on data from OpenStreetMap</text>
+            Copyright (c) 2025 Highsoft AS, Based on data from OpenStreetMap</text>
 
         </svg>

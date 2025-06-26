@@ -11,7 +11,5 @@ All file formats associated with a map include its copyright information.
 
 See [code.highcharts.com/mapdata](https://code.highcharts.com/mapdata/) for overview of which maps requires creditation.
 
-See [Appendix B - 3rd party material in Map Collection](http://shop.highsoft.com/media/highsoft/Appendix-B-3rd-Party-Material-In-Map-Collection.pdf) for overview of 3rd party material included in the map collection.
-
 ## Disclaimer
 We offer the map collection for free to use with Highcharts Maps, for your convenience. We will not be held responsible for errors in the maps, although we will strive to respond to bug reports and keep the maps correct.

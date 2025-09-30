@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.3.1
+Map version: 2.3.2
 Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>American Samoa</title>
 <g id="admin1">
 
 <g id="AS">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <name>American Samoa</name>
     <labelrank>4</labelrank>
     <country-abbrev>Am. Samoa</country-abbrev>
@@ -26,7 +29,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </g>
 
 <path d="M700.0,40.1 L696.4,45.4 L689.9,42.7 L685.9,46.9 L681.8,48.8 L677.4,48.6 L672.4,46.1 L670.6,50.6 L667.6,53.0 L663.5,53.5 L658.3,53.1 L657.0,46.9 L655.1,41.6 L652.4,37.7 L648.4,35.4 L656.1,29.9 L666.7,28.0 L688.1,28.7 L698.1,32.5 Z M601.8,4.3 L589.4,10.4 L584.6,9.8 L581.4,3.1 L581.4,3.1 L585.5,0.1 L590.5,0.0 L596.0,1.7 Z" fill="#CEE3F5" id="AS.6516" stroke="#6E6E6E" stroke-width="0.4">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>AS.MA</hasc>
     <alt-name>NULL</alt-name>
@@ -51,7 +54,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path d="M55.2,60.2 L66.8,45.4 L85.5,41.3 L106.3,42.4 L120.9,47.7 L128.3,41.4 L132.8,44.5 L132.2,50.9 L124.3,54.4 L95.1,55.9 L86.5,58.2 L74.3,67.3 L69.7,73.4 L65.4,72.2 L59.0,73.2 L58.6,66.2 Z" fill="#CEE3F5" id="AS.6515" stroke="#6E6E6E" stroke-width="0.4">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>AS.ET</hasc>
     <alt-name>NULL</alt-name>
@@ -76,7 +79,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path d="M69.7,73.4 L55.0,93.4 L41.5,104.3 L38.1,100.4 L17.5,86.3 L4.2,79.5 L0.0,75.8 L21.4,62.9 L29.5,61.3 L47.0,61.7 L55.2,60.2 L58.6,66.2 L59.0,73.2 L65.4,72.2 Z" fill="#CEE3F5" id="AS.6514" stroke="#6E6E6E" stroke-width="0.4">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>AS.WT</hasc>
     <alt-name>NULL</alt-name>
@@ -100,7 +103,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
   </desc>
 </path>
 <g id="AS">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <name>American Samoa</name>
     <labelrank>4</labelrank>
     <country-abbrev>Am. Samoa</country-abbrev>
@@ -116,7 +119,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </g>
 
 <path d="M293.880,286.321 L266.895,300.000 L250.000,280.440 L252.863,250.000 L295.915,253.673 Z" fill="#CEE3F5" id="AS.6513" stroke="#6E6E6E" stroke-width="0.4">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>AS.UU</hasc>
     <alt-name>NULL</alt-name>
@@ -140,7 +143,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
   </desc>
 </path>
 <g id="AS">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <name>American Samoa</name>
     <labelrank>4</labelrank>
     <country-abbrev>Am. Samoa</country-abbrev>
@@ -156,7 +159,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </g>
 
 <path d="M496.922,254.432 L492.482,300.000 L450.000,264.610 L485.625,250.000 Z" fill="#CEE3F5" id="AS.3585" stroke="#6E6E6E" stroke-width="0.4">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>AS.UU</hasc>
     <alt-name>NULL</alt-name>

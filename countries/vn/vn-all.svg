@@ -1,1567 +1,1524 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
-<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<desc>
-Map version: 2.3.1
-Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
-</desc>
-<title>Vietnam</title>
-<g id="admin1">
-
-<g id="VN">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <name>Vietnam</name>
-    <labelrank>2</labelrank>
-    <country-abbrev>Viet.</country-abbrev>
-    <subregion>South-Eastern Asia</subregion>
-    <region-wb>East Asia &amp; Pacific</region-wb>
-    <iso-a3>VNM</iso-a3>
-    <iso-a2>VN</iso-a2>
-    <woe-id>23424984</woe-id>
-    <continent>Asia</continent>
-    <hc-key>vn</hc-key>
-    <hc-a2>VI</hc-a2>
-  </desc>
-</g>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.3655" d="M289.0,350.7 L286.5,348.9 L287.4,348.3 L288.8,349.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>20</labelrank>
-    <iso_3166_2>VN-</iso_3166_2>
-    <hasc>-99</hasc>
-    <alt-name>NULL</alt-name>
-    <country>Vietnam</country>
-    <type-en>NULL</type-en>
-    <region>NULL</region>
-    <woe-id>-99</woe-id>
-    <longitude>104.835</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>NULL</woe-name>
-    <fips>NULL</fips>
-    <latitude>8.42956</latitude>
-    <woe-label>NULL</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>NULL</type>
-    <name>NULL</name>
-    <hc-key>vn-3655</hc-key>
-    <hc-a2>NU</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.QN" d="M205.4,118.8 L207.3,120.6 L206.1,120.5 L204.6,118.1 Z M231.2,116.5 L232.8,116.5 L233.1,117.6 L231.9,117.8 Z M208.7,117.2 L210.8,121.1 L209.1,121.1 L207.8,119.0 L205.6,118.2 L206.2,114.8 L208.0,115.5 Z M237.1,119.9 L236.7,116.7 L238.8,116.0 L240.2,113.2 L240.0,114.9 Z M205.2,112.5 L205.1,114.1 L202.1,113.4 L202.1,112.3 Z M251.0,111.3 L248.6,113.9 L249.5,111.7 L248.8,110.0 Z M239.4,109.2 L240.5,109.4 L239.3,113.4 L237.9,115.1 L233.4,116.0 L237.6,112.8 L238.2,110.1 Z M241.5,105.5 L241.1,107.1 L238.9,108.3 L240.2,105.7 Z M241.9,110.7 L240.9,110.3 L241.9,107.2 L243.7,105.7 Z M251.4,94.4 L247.1,96.4 L247.7,95.6 L250.3,94.0 Z M259.8,91.9 L252.8,94.3 L254.0,92.4 L259.8,91.6 Z M200.2,110.7 L199.9,110.8 L198.2,110.4 L196.9,109.7 L192.5,109.2 L191.0,108.6 L190.8,107.0 L193.2,105.5 L195.4,102.5 L204.9,103.9 L207.8,103.8 L214.0,102.1 L215.0,99.5 L215.5,96.5 L218.4,94.3 L221.2,93.8 L225.0,92.0 L226.2,90.6 L226.4,88.2 L225.4,86.3 L226.1,85.0 L230.1,82.2 L230.8,82.8 L233.5,80.6 L235.1,80.5 L235.8,82.9 L238.0,83.6 L239.0,82.3 L242.5,82.3 L245.9,81.4 L248.3,79.8 L252.2,80.6 L253.2,82.4 L259.4,87.7 L256.7,89.8 L256.1,86.3 L253.6,85.7 L253.0,87.5 L251.8,87.5 L250.1,86.1 L250.3,89.2 L249.5,89.3 L248.7,91.5 L243.7,92.9 L244.0,94.8 L242.5,95.1 L242.1,96.9 L240.5,97.0 L239.3,94.7 L237.9,97.0 L234.0,95.6 L235.2,97.2 L231.9,98.3 L231.3,102.1 L232.9,102.4 L232.3,105.7 L231.4,107.3 L232.3,109.9 L230.6,110.9 L226.6,111.1 L224.4,113.5 L222.4,114.6 L218.7,113.0 L220.0,111.3 L222.3,109.7 L221.2,109.6 L218.3,110.7 L216.8,109.8 L217.5,111.4 L216.5,113.4 L213.4,113.6 L210.1,111.6 L209.2,111.9 L212.3,114.4 L213.3,116.0 L210.8,115.7 L209.9,117.0 L208.3,114.5 L207.1,114.7 L205.6,113.6 L207.6,113.0 L206.2,110.9 L203.7,110.1 L203.2,111.3 Z M213.5,117.6 L215.6,118.4 L216.8,117.9 L217.7,119.4 L219.7,119.8 L220.0,121.4 L217.5,122.5 L218.9,123.2 L218.0,125.4 L215.8,123.1 L215.2,123.5 L211.8,120.1 Z M235.4,101.1 L235.6,98.3 L236.3,98.0 L238.8,100.2 L239.1,101.5 L242.4,100.6 L239.9,103.7 L238.9,103.5 L236.6,106.6 L233.0,108.9 L232.3,108.4 L233.5,105.2 L234.2,101.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-13</iso_3166_2>
-    <hasc>VN.QN</hasc>
-    <alt-name>Quang Ninh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347712</woe-id>
-    <longitude>107.181</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Qu?ng Ninh</woe-name>
-    <fips>VM13</fips>
-    <latitude>21.223</latitude>
-    <woe-label>Quang Ninh, VN, Vietnam</woe-label>
-    <postal-code>QN</postal-code>
-    <type>T?nh</type>
-    <name>Qu?ng Ninh</name>
-    <hc-key>vn-qn</hc-key>
-    <hc-a2>QN</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.KH" d="M328.3,525.6 L329.3,526.5 L326.4,527.1 L324.4,525.3 L325.7,524.9 Z M331.6,508.9 L330.6,509.3 L327.2,507.0 L327.6,506.3 L330.5,506.5 Z M330.4,496.5 L330.1,499.2 L332.2,503.2 L334.7,504.8 L333.7,505.7 L333.8,508.9 L332.8,508.7 L331.5,506.2 L332.4,505.0 L331.4,503.4 L330.2,504.1 L330.2,505.7 L328.6,504.8 L330.6,502.7 L329.5,498.4 L326.8,500.5 L322.2,505.5 L322.3,510.1 L323.5,508.1 L324.3,508.4 L323.6,510.5 L324.4,512.0 L326.7,513.4 L326.8,515.7 L329.0,517.3 L326.8,519.4 L322.9,515.3 L321.4,514.4 L319.8,515.3 L321.1,517.2 L322.5,517.8 L322.9,520.4 L324.2,521.6 L323.1,522.1 L322.5,525.1 L323.5,526.6 L322.8,527.3 L323.6,529.6 L322.9,530.5 L323.1,532.9 L324.8,536.2 L326.6,537.6 L325.6,539.6 L326.2,542.5 L323.7,541.9 L323.3,540.5 L323.3,535.4 L321.3,530.0 L320.7,530.9 L321.4,533.7 L323.0,535.9 L322.5,538.6 L320.5,541.0 L319.6,541.1 L319.4,544.3 L320.9,544.5 L322.5,542.3 L322.8,546.2 L318.6,545.8 L317.3,544.8 L316.3,542.3 L314.8,540.6 L308.8,539.4 L307.5,538.5 L304.2,530.5 L302.7,528.9 L299.9,527.9 L299.3,523.7 L298.1,522.1 L297.4,519.0 L297.3,515.3 L297.8,513.8 L302.4,512.9 L305.1,514.1 L306.0,513.4 L307.1,509.5 L306.9,507.5 L308.3,504.1 L311.3,503.4 L314.4,500.6 L317.4,499.6 L319.8,497.0 L321.6,496.0 L327.5,495.6 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-34</iso_3166_2>
-    <hasc>VN.KH</hasc>
-    <alt-name>Khanh Hoa</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Nam Trung B?</region>
-    <woe-id>2347738</woe-id>
-    <longitude>109.359</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Khánh Hòa</woe-name>
-    <fips>VM54</fips>
-    <latitude>12.6049</latitude>
-    <woe-label>Khanh Hoa, VN, Vietnam</woe-label>
-    <postal-code>KH</postal-code>
-    <type>T?nh</type>
-    <name>Khánh Hòa</name>
-    <hc-key>vn-kh</hc-key>
-    <hc-a2>KH</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.TG" d="M208.2,621.1 L206.0,620.1 L199.9,619.0 L206.6,619.0 L208.6,619.5 Z M166.6,617.9 L166.1,615.9 L171.2,609.4 L171.9,606.0 L176.0,606.4 L178.2,606.2 L179.6,604.7 L181.4,604.1 L186.3,604.4 L188.3,605.3 L190.3,608.1 L194.3,609.7 L194.8,612.4 L201.0,612.4 L202.4,611.4 L204.3,609.6 L205.0,611.5 L207.0,609.9 L208.3,609.8 L210.5,613.4 L210.9,617.5 L210.0,618.9 L206.6,618.3 L201.7,618.4 L193.4,617.1 L189.7,616.1 L186.7,617.1 L183.2,617.2 L181.1,618.0 L178.7,618.1 L175.3,617.0 L173.1,617.1 L171.5,618.5 L168.9,618.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-46</iso_3166_2>
-    <hasc>VN.TG</hasc>
-    <alt-name>Tien Giang</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347717</woe-id>
-    <longitude>106.217</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Tien Giang</woe-name>
-    <fips>VM03</fips>
-    <latitude>10.4581</latitude>
-    <woe-label>Tien Giang, VN, Vietnam</woe-label>
-    <postal-code>TG</postal-code>
-    <type>T?nh</type>
-    <name>Ti?n Giang</name>
-    <hc-key>vn-tg</hc-key>
-    <hc-a2>TG</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BV" d="M229.9,611.1 L228.2,613.4 L226.8,614.0 L224.6,616.6 L224.2,613.4 L227.8,611.9 L228.5,609.9 Z M221.4,607.7 L222.0,606.6 L221.6,601.9 L225.8,600.4 L227.1,599.4 L227.4,597.4 L231.6,595.4 L233.5,595.5 L234.0,598.3 L235.0,599.3 L237.1,599.1 L241.8,593.8 L242.9,594.0 L244.5,596.0 L247.5,602.6 L247.9,604.6 L245.3,607.5 L241.4,609.4 L236.1,610.4 L233.2,613.9 L229.4,612.7 L230.6,611.3 L228.7,609.3 L227.1,609.8 L225.2,608.7 L221.9,609.5 L221.6,608.2 Z M220.5,602.4 L221.6,603.3 L220.9,605.3 L220.0,604.9 L220.3,602.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-43</iso_3166_2>
-    <hasc>VN.BV</hasc>
-    <alt-name>Ba Ria - VTau|Ba Ria-Vung Tau</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông Nam B?</region>
-    <woe-id>2347729</woe-id>
-    <longitude>107.143</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Bà R?a - V?ng Tàu</woe-name>
-    <fips>VM45</fips>
-    <latitude>10.3969</latitude>
-    <woe-label>Ba Ria-Vung Tau, VN, Vietnam</woe-label>
-    <postal-code>BV</postal-code>
-    <type>T?nh</type>
-    <name>Bà R?a - V?ng Tàu</name>
-    <hc-key>vn-bv</hc-key>
-    <hc-a2>BV</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BU" d="M312.5,606.6 L311.3,607.2 L310.6,606.0 L311.4,604.9 Z M247.9,604.6 L247.5,602.6 L244.5,596.0 L246.7,593.8 L247.9,591.5 L247.8,588.6 L246.3,585.4 L245.1,584.4 L242.6,584.4 L240.4,582.7 L244.1,574.0 L246.8,568.9 L248.6,567.3 L252.4,568.8 L255.5,569.4 L267.4,569.9 L269.3,571.4 L269.4,574.2 L271.2,573.8 L274.0,570.8 L278.6,569.6 L282.5,566.6 L281.5,563.6 L281.7,561.2 L284.8,559.2 L290.8,559.0 L293.9,560.0 L295.7,557.2 L299.3,557.9 L300.2,560.8 L302.4,562.1 L302.9,564.5 L307.4,565.4 L309.2,568.4 L306.9,567.9 L303.7,569.6 L302.3,571.6 L301.0,575.2 L297.6,574.7 L293.9,575.4 L291.0,577.4 L289.1,581.5 L284.3,583.0 L283.2,586.2 L281.1,588.2 L279.1,586.4 L272.0,588.0 L270.2,590.4 L268.8,595.0 L267.1,598.5 L264.2,597.6 L261.6,597.7 L258.9,598.9 L257.0,600.5 L251.6,603.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-40</iso_3166_2>
-    <hasc>VN.BU</hasc>
-    <alt-name>Binh Thuan</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông Nam B?</region>
-    <woe-id>2347731</woe-id>
-    <longitude>108.232</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Bình Thu?n</woe-name>
-    <fips>VM47</fips>
-    <latitude>11.1284</latitude>
-    <woe-label>Binh Thuan, VN, Vietnam</woe-label>
-    <postal-code>BU</postal-code>
-    <type>T?nh</type>
-    <name>Bình Thu?n</name>
-    <hc-key>vn-bu</hc-key>
-    <hc-a2>BU</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.HC" d="M218.0,607.9 L216.8,611.8 L217.5,611.2 L219.4,612.8 L215.2,614.4 L214.6,611.8 L215.4,609.9 L215.2,608.1 L217.0,607.3 Z M216.8,604.5 L216.8,606.3 L215.5,604.7 L215.9,607.3 L213.7,605.4 L214.7,601.9 L217.1,603.7 Z M221.6,608.2 L220.0,609.2 L221.4,607.7 Z M190.5,585.6 L193.1,581.7 L193.6,578.9 L197.5,578.3 L200.4,582.4 L202.5,584.2 L206.9,590.3 L207.9,590.6 L210.9,589.7 L212.6,590.0 L214.8,593.5 L214.8,595.9 L212.3,595.5 L210.5,596.3 L208.8,595.4 L209.0,598.6 L212.7,600.7 L215.3,600.2 L218.7,603.3 L219.7,605.1 L221.0,607.2 L219.1,609.5 L217.5,606.0 L217.7,603.5 L214.8,601.1 L212.4,602.1 L209.7,599.5 L208.1,600.9 L209.8,603.4 L208.8,605.2 L210.4,603.5 L208.8,600.5 L209.8,600.5 L213.3,602.9 L212.9,605.5 L214.2,606.9 L214.1,608.9 L214.6,610.2 L212.6,609.6 L213.9,611.5 L213.0,612.8 L210.7,611.3 L209.1,608.9 L208.8,605.2 L208.4,605.9 L208.4,602.8 L206.9,601.2 L203.8,601.8 L202.2,600.4 L198.1,598.5 L196.7,597.2 L198.0,594.1 L198.1,591.8 L195.9,588.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-SG</iso_3166_2>
-    <hasc>VN.HC</hasc>
-    <alt-name>Ho Chi Minh City|Ho Chi Minh</alt-name>
-    <country>Vietnam</country>
-    <type-en>City|Municipality|Thanh Pho</type-en>
-    <region>?ông Nam B?</region>
-    <woe-id>2347728</woe-id>
-    <longitude>106.926</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>H? Chí Minh city</woe-name>
-    <fips>VM20</fips>
-    <latitude>10.409</latitude>
-    <woe-label>Ho Chi Minh, VN, Vietnam</woe-label>
-    <postal-code>HC</postal-code>
-    <type>Thành ph? tr?c thu?c t?nh</type>
-    <name>H? Chí Minh city</name>
-    <hc-key>vn-hc</hc-key>
-    <hc-a2>HC</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BR" d="M199.2,639.7 L198.2,639.7 L197.0,637.9 L193.5,635.2 L196.5,636.6 Z M179.2,620.8 L177.1,619.8 L171.5,618.5 L173.1,617.1 L175.3,617.0 L178.7,618.1 L181.1,618.0 L183.2,617.2 L186.7,617.1 L189.7,616.1 L193.4,617.1 L196.2,618.8 L207.4,622.5 L211.0,624.5 L210.8,626.8 L208.2,629.4 L206.7,629.7 L206.7,628.0 L205.0,630.5 L203.9,633.3 L201.4,632.9 L199.4,631.3 L197.0,630.3 L194.5,627.8 L190.5,621.6 L189.2,620.3 L187.3,619.7 L190.0,621.9 L190.9,624.7 L195.3,630.4 L200.0,633.0 L202.5,634.9 L206.4,636.9 L205.7,638.8 L204.8,637.5 L204.6,639.2 L202.4,640.7 L200.1,639.5 L197.4,636.5 L192.2,633.3 L180.5,621.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-50</iso_3166_2>
-    <hasc>VN.BR</hasc>
-    <alt-name>Ben Tre</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347703</woe-id>
-    <longitude>106.496</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>B?n Tre</woe-name>
-    <fips>VM03</fips>
-    <latitude>10.171</latitude>
-    <woe-label>Ben Tre, VN, Vietnam</woe-label>
-    <postal-code>BR</postal-code>
-    <type>T?nh</type>
-    <name>B?n Tre</name>
-    <hc-key>vn-br</hc-key>
-    <hc-a2>BR</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.ST" d="M205.3,690.9 L203.9,691.7 L204.7,693.5 L202.2,693.7 L202.1,695.7 L200.2,694.4 L202.0,692.0 L204.8,690.3 Z M178.8,644.1 L181.0,647.3 L183.6,650.0 L187.5,651.6 L187.1,653.7 L185.2,654.1 L185.5,652.9 L183.0,650.5 L184.4,652.6 L183.0,652.3 L179.7,647.6 Z M169.1,636.1 L177.2,644.0 L178.1,646.6 L183.0,653.8 L183.4,657.8 L181.7,659.6 L182.9,661.9 L174.7,664.5 L167.6,667.4 L166.0,662.2 L164.5,661.0 L159.3,661.3 L155.0,659.7 L153.9,657.7 L153.5,650.6 L158.5,649.1 L164.0,645.8 L165.3,645.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-52</iso_3166_2>
-    <hasc>VN.ST</hasc>
-    <alt-name>Soc Trang</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347748</woe-id>
-    <longitude>105.9</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Sóc Tr?ng</woe-name>
-    <fips>VM65</fips>
-    <latitude>9.561400000000001</latitude>
-    <woe-label>Soc Trang, VN, Vietnam</woe-label>
-    <postal-code>ST</postal-code>
-    <type>T?nh</type>
-    <name>Sóc Tr?ng</name>
-    <hc-key>vn-st</hc-key>
-    <hc-a2>ST</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.PT" d="M119.2,96.4 L122.2,94.7 L123.3,93.1 L121.9,87.2 L122.0,85.1 L123.4,82.6 L126.8,80.7 L130.0,79.9 L131.8,78.7 L134.6,80.4 L137.2,82.7 L140.9,87.6 L142.1,91.4 L144.2,92.6 L146.9,96.6 L147.1,97.7 L145.9,98.9 L145.2,97.4 L142.5,97.7 L142.1,100.7 L139.5,102.9 L140.4,106.0 L139.5,109.4 L140.5,111.4 L141.5,112.8 L141.6,115.8 L140.0,116.0 L136.2,114.9 L132.0,114.3 L128.7,111.6 L124.3,109.4 L122.8,107.2 L121.1,104.9 L120.9,100.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-68</iso_3166_2>
-    <hasc>VN.PT</hasc>
-    <alt-name>Phu Tho</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>20070091</woe-id>
-    <longitude>105.143</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Phú Th?</woe-name>
-    <fips>VM83</fips>
-    <latitude>21.3127</latitude>
-    <woe-label>Phu Tho, VN, Vietnam</woe-label>
-    <postal-code>PT</postal-code>
-    <type>T?nh</type>
-    <name>Phú Th?</name>
-    <hc-key>vn-pt</hc-key>
-    <hc-a2>PT</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.YB" d="M131.8,78.7 L130.0,79.9 L126.8,80.7 L123.4,82.6 L122.0,85.1 L121.9,87.2 L123.3,93.1 L122.2,94.7 L119.2,96.4 L117.1,96.1 L115.7,93.8 L113.1,93.9 L109.3,92.4 L107.3,92.8 L104.3,94.6 L102.3,94.5 L98.4,92.2 L97.1,90.9 L96.3,88.5 L96.6,85.2 L98.1,80.2 L96.2,78.3 L92.9,80.2 L90.1,80.7 L83.3,79.4 L79.3,77.8 L80.5,74.3 L78.8,71.4 L82.0,65.7 L85.7,68.2 L88.5,68.6 L91.8,69.7 L92.9,66.5 L98.2,69.0 L100.1,69.4 L101.9,67.7 L102.2,65.1 L99.5,59.9 L100.3,58.2 L103.7,57.8 L107.2,60.1 L109.6,57.3 L111.2,56.5 L110.5,52.4 L113.2,52.1 L116.7,56.1 L120.2,56.6 L121.7,60.4 L126.1,64.3 L126.8,65.9 L126.7,68.3 L130.2,72.3 L131.3,74.3 L130.6,76.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-06</iso_3166_2>
-    <hasc>VN.YB</hasc>
-    <alt-name>Yen Bai</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347753</woe-id>
-    <longitude>104.512</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Yên Bái</woe-name>
-    <fips>VM70</fips>
-    <latitude>21.7484</latitude>
-    <woe-label>Yen Bai, VN, Vietnam</woe-label>
-    <postal-code>YB</postal-code>
-    <type>T?nh</type>
-    <name>Yên Bái</name>
-    <hc-key>vn-yb</hc-key>
-    <hc-a2>YB</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.HD" d="M178.0,111.9 L181.3,112.5 L183.6,112.2 L184.9,111.1 L185.2,108.4 L184.5,105.4 L185.8,102.8 L188.3,101.2 L191.5,100.7 L194.0,101.4 L195.4,102.5 L193.2,105.5 L190.8,107.0 L191.0,108.6 L192.5,109.2 L196.9,109.7 L198.2,110.4 L197.4,113.3 L195.1,114.7 L195.1,116.9 L193.4,118.3 L193.9,120.1 L195.4,120.9 L195.2,122.0 L191.9,124.9 L189.9,125.0 L182.8,126.1 L179.9,123.1 L177.5,121.5 L176.8,119.7 L178.4,115.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-61</iso_3166_2>
-    <hasc>VN.HD</hasc>
-    <alt-name>Hai Duong</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng B?ng Sông H?ng</region>
-    <woe-id>20070080</woe-id>
-    <longitude>106.364</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>H?i D??ng</woe-name>
-    <fips>VM79</fips>
-    <latitude>20.9613</latitude>
-    <woe-label>Hai Duong, VN, Vietnam</woe-label>
-    <postal-code>HD</postal-code>
-    <type>T?nh</type>
-    <name>H?i D??ng</name>
-    <hc-key>vn-hd</hc-key>
-    <hc-a2>HD</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BN" d="M184.5,105.4 L185.2,108.4 L184.9,111.1 L183.6,112.2 L181.3,112.5 L178.0,111.9 L174.7,111.7 L171.5,112.2 L171.7,109.7 L168.1,105.8 L167.6,102.8 L168.8,100.1 L172.5,101.8 L180.7,103.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-56</iso_3166_2>
-    <hasc>VN.BN</hasc>
-    <alt-name>Bac Ninh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng B?ng Sông H?ng</region>
-    <woe-id>20070088</woe-id>
-    <longitude>106.117</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>B?c Ninh</woe-name>
-    <fips>VM74</fips>
-    <latitude>21.098</latitude>
-    <woe-label>Bac Ninh, VN, Vietnam</woe-label>
-    <postal-code>BN</postal-code>
-    <type>T?nh</type>
-    <name>B?c Ninh</name>
-    <hc-key>vn-bn</hc-key>
-    <hc-a2>BN</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.317" d="M171.5,112.2 L174.7,111.7 L178.0,111.9 L178.4,115.3 L176.8,119.7 L177.5,121.5 L179.9,123.1 L182.8,126.1 L180.6,127.5 L177.6,127.6 L176.4,129.2 L174.0,130.0 L172.8,128.2 L172.7,125.6 L171.7,125.4 L170.0,124.5 L169.4,121.9 L167.8,121.3 L167.4,119.4 L168.0,117.2 L166.7,116.3 L167.4,113.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>Red River Delta</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>NULL</region>
-    <woe-id>20070079</woe-id>
-    <longitude>106.076</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>??ng B?ng Sông H?ng</woe-name>
-    <fips>VM81</fips>
-    <latitude>20.8085</latitude>
-    <woe-label>Hung Yen, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Region</type>
-    <name>??ng B?ng Sông H?ng</name>
-    <hc-key>vn-317</hc-key>
-    <hc-a2>?B</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.NB" d="M176.7,157.6 L175.3,160.8 L173.1,159.4 L174.7,157.5 L173.8,156.0 L170.8,155.5 L167.9,153.6 L165.4,152.8 L160.6,149.9 L151.1,141.9 L151.9,141.0 L153.7,141.4 L156.1,143.4 L157.9,144.0 L158.8,143.4 L158.3,140.0 L161.2,138.3 L164.4,139.3 L167.1,142.0 L169.3,143.2 L169.9,145.8 L174.1,147.8 L175.7,147.2 L178.4,148.8 L178.3,153.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-18</iso_3166_2>
-    <hasc>VN.NB</hasc>
-    <alt-name>Ninh Binh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng B?ng Sông H?ng</region>
-    <woe-id>2347743</woe-id>
-    <longitude>105.852</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Ninh Bình</woe-name>
-    <fips>VM59</fips>
-    <latitude>20.2722</latitude>
-    <woe-label>Ninh Binh, VN, Vietnam</woe-label>
-    <postal-code>NB</postal-code>
-    <type>T?nh</type>
-    <name>Ninh Bình</name>
-    <hc-key>vn-nb</hc-key>
-    <hc-a2>NB</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.HM" d="M169.3,143.2 L167.1,142.0 L164.4,139.3 L162.9,135.9 L161.9,132.3 L163.2,128.6 L167.9,127.1 L170.8,126.6 L171.7,125.4 L172.7,125.6 L172.8,128.2 L174.0,130.0 L176.4,129.2 L177.5,131.9 L178.9,133.3 L179.7,135.9 L174.6,136.3 L172.6,139.6 L170.1,139.3 L169.3,140.7 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-63</iso_3166_2>
-    <hasc>VN.HM</hasc>
-    <alt-name>Ha Nam</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng B?ng Sông H?ng</region>
-    <woe-id>2347741</woe-id>
-    <longitude>105.985</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Hà Nam</woe-name>
-    <fips>VM80</fips>
-    <latitude>20.5569</latitude>
-    <woe-label>Ha Nam, VN, Vietnam</woe-label>
-    <postal-code>HM</postal-code>
-    <type>T?nh</type>
-    <name>Hà Nam</name>
-    <hc-key>vn-hm</hc-key>
-    <hc-a2>HM</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.HO" d="M161.9,132.3 L162.9,135.9 L164.4,139.3 L161.2,138.3 L158.3,140.0 L158.8,143.4 L157.9,144.0 L156.1,143.4 L153.7,141.4 L151.9,141.0 L151.1,141.9 L147.2,141.0 L140.6,137.7 L136.3,134.7 L134.2,132.0 L133.0,131.3 L129.8,132.1 L124.1,131.3 L119.8,129.7 L119.7,126.3 L120.5,124.9 L125.7,124.8 L130.3,122.8 L130.7,120.8 L127.4,118.6 L123.0,113.7 L121.5,110.9 L121.6,109.1 L122.8,107.2 L124.3,109.4 L128.7,111.6 L132.0,114.3 L136.2,114.9 L140.0,116.0 L141.6,115.8 L141.5,112.8 L140.5,111.4 L143.5,110.9 L147.5,111.4 L149.3,112.5 L150.5,115.9 L149.4,119.2 L150.5,120.7 L154.1,123.2 L157.1,129.1 L160.4,130.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-14</iso_3166_2>
-    <hasc>VN.HO</hasc>
-    <alt-name>Hoa Binh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Tây B?c</region>
-    <woe-id>2347737</woe-id>
-    <longitude>105.34</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Hòa Bình</woe-name>
-    <fips>VM56</fips>
-    <latitude>20.7292</latitude>
-    <woe-label>Hoa Binh, VN, Vietnam</woe-label>
-    <postal-code>HO</postal-code>
-    <type>T?nh</type>
-    <name>Hòa Bình</name>
-    <hc-key>vn-ho</hc-key>
-    <hc-a2>HO</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.VC" d="M145.9,98.9 L147.1,97.7 L146.9,96.6 L144.2,92.6 L142.1,91.4 L140.9,87.6 L144.2,88.5 L147.2,88.4 L150.7,87.3 L152.4,86.2 L155.0,88.8 L159.6,92.1 L161.1,94.7 L160.8,99.4 L161.5,103.4 L160.7,106.9 L156.0,104.3 L149.7,104.0 L147.1,102.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-70</iso_3166_2>
-    <hasc>VN.VC</hasc>
-    <alt-name>Vinh Phuc</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng B?ng Sông H?ng</region>
-    <woe-id>20070090</woe-id>
-    <longitude>105.549</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>V?nh Phúc</woe-name>
-    <fips>VM86</fips>
-    <latitude>21.3455</latitude>
-    <woe-label>Vinh Phuc, VN, Vietnam</woe-label>
-    <postal-code>VC</postal-code>
-    <type>T?nh</type>
-    <name>V?nh Phúc</name>
-    <hc-key>vn-vc</hc-key>
-    <hc-a2>VC</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.318" d="M167.7,96.3 L168.6,98.2 L168.8,100.1 L167.6,102.8 L168.1,105.8 L171.7,109.7 L171.5,112.2 L167.4,113.5 L166.7,116.3 L168.0,117.2 L167.4,119.4 L167.8,121.3 L169.4,121.9 L170.0,124.5 L171.7,125.4 L170.8,126.6 L167.9,127.1 L163.2,128.6 L161.9,132.3 L160.4,130.8 L157.1,129.1 L154.1,123.2 L150.5,120.7 L149.4,119.2 L150.5,115.9 L149.3,112.5 L147.5,111.4 L143.5,110.9 L140.5,111.4 L139.5,109.4 L140.4,106.0 L139.5,102.9 L142.1,100.7 L142.5,97.7 L145.2,97.4 L145.9,98.9 L147.1,102.1 L149.7,104.0 L156.0,104.3 L160.7,106.9 L161.5,103.4 L160.8,99.4 L161.1,94.7 L164.4,94.7 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-HN</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>NULL</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347727</woe-id>
-    <longitude>105.872</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Ha Noi</woe-name>
-    <fips>NULL</fips>
-    <latitude>21.1306</latitude>
-    <woe-label>NULL</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>T?nh</type>
-    <name>Ha Noi</name>
-    <hc-key>vn-318</hc-key>
-    <hc-a2>HN</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BG" d="M168.8,100.1 L168.6,98.2 L167.7,96.3 L169.9,92.5 L172.0,92.3 L173.4,91.3 L174.3,88.0 L172.9,83.0 L174.0,81.9 L177.5,82.4 L178.5,84.8 L178.5,87.3 L184.1,89.1 L186.8,91.7 L188.8,92.2 L191.5,91.3 L192.9,89.4 L194.2,85.9 L195.9,83.9 L199.0,82.8 L201.3,83.3 L204.2,85.6 L207.0,83.5 L208.3,83.4 L209.1,85.9 L212.0,90.4 L215.3,90.3 L216.6,93.6 L218.4,94.3 L215.5,96.5 L215.0,99.5 L214.0,102.1 L207.8,103.8 L204.9,103.9 L195.4,102.5 L194.0,101.4 L191.5,100.7 L188.3,101.2 L185.8,102.8 L184.5,105.4 L180.7,103.2 L172.5,101.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-54</iso_3166_2>
-    <hasc>VN.BG</hasc>
-    <alt-name>Bac Giang</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>20070087</woe-id>
-    <longitude>106.493</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>B?c Giang</woe-name>
-    <fips>VM71</fips>
-    <latitude>21.3512</latitude>
-    <woe-label>Bac Giang, VN, Vietnam</woe-label>
-    <postal-code>BG</postal-code>
-    <type>T?nh</type>
-    <name>B?c Giang</name>
-    <hc-key>vn-bg</hc-key>
-    <hc-a2>BG</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.TB" d="M179.7,135.9 L178.9,133.3 L177.5,131.9 L176.4,129.2 L177.6,127.6 L180.6,127.5 L182.8,126.1 L189.9,125.0 L191.4,129.3 L192.3,130.6 L195.3,130.0 L197.8,128.3 L199.3,129.8 L199.1,131.0 L194.5,133.4 L196.7,134.1 L197.3,136.3 L196.5,137.4 L197.9,137.7 L197.0,141.5 L198.0,145.9 L197.5,146.5 L196.0,145.2 L196.0,145.2 L194.8,144.1 L193.9,144.8 L191.6,145.4 L187.1,141.8 L183.9,143.5 L183.3,142.8 L183.6,139.9 L181.2,139.5 L181.0,136.6 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-20</iso_3166_2>
-    <hasc>VN.TB</hasc>
-    <alt-name>Thai Binh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng B?ng Sông H?ng</region>
-    <woe-id>2347716</woe-id>
-    <longitude>106.371</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Thái Bình</woe-name>
-    <fips>VM35</fips>
-    <latitude>20.5303</latitude>
-    <woe-label>Thai Binh, VN, Vietnam</woe-label>
-    <postal-code>TB</postal-code>
-    <type>T?nh</type>
-    <name>Thái Bình</name>
-    <hc-key>vn-tb</hc-key>
-    <hc-a2>TB</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.LD" d="M234.5,557.7 L233.2,554.8 L233.3,553.5 L235.3,550.5 L238.2,548.9 L240.7,549.2 L243.4,547.9 L246.3,547.2 L249.0,545.3 L252.7,541.4 L254.3,541.5 L254.8,543.2 L256.6,544.1 L260.7,543.4 L262.1,544.3 L262.7,546.7 L264.8,546.5 L266.6,547.8 L269.4,545.3 L270.7,542.6 L270.7,539.7 L267.5,536.2 L265.8,533.7 L266.4,530.9 L269.0,529.9 L271.9,529.6 L274.0,528.7 L277.4,529.4 L278.3,527.8 L282.1,525.4 L286.2,525.1 L288.9,522.8 L290.4,522.4 L294.5,523.7 L298.1,522.1 L299.3,523.7 L299.9,527.9 L298.3,530.7 L298.8,533.5 L298.3,537.8 L296.3,544.1 L296.9,546.4 L298.6,548.7 L298.2,550.3 L295.2,553.6 L295.7,557.2 L293.9,560.0 L290.8,559.0 L284.8,559.2 L281.7,561.2 L281.5,563.6 L282.5,566.6 L278.6,569.6 L274.0,570.8 L271.2,573.8 L269.4,574.2 L269.3,571.4 L267.4,569.9 L255.5,569.4 L252.4,568.8 L248.6,567.3 L244.7,565.4 L241.1,564.7 L241.1,561.2 L238.7,560.5 L237.6,557.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-35</iso_3166_2>
-    <hasc>VN.LD</hasc>
-    <alt-name>Lam Dong</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Tây Nguyên</region>
-    <woe-id>2347709</woe-id>
-    <longitude>108</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Lâm ??ng</woe-name>
-    <fips>VM23</fips>
-    <latitude>11.5362</latitude>
-    <woe-label>Lam Dong, VN, Vietnam</woe-label>
-    <postal-code>LD</postal-code>
-    <type>T?nh</type>
-    <name>Lâm ??ng</name>
-    <hc-key>vn-ld</hc-key>
-    <hc-a2>LD</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BP" d="M238.2,548.9 L235.3,550.5 L233.3,553.5 L233.2,554.8 L234.5,557.7 L231.0,559.5 L226.7,560.9 L225.0,562.1 L224.1,565.2 L222.3,567.8 L218.5,571.2 L217.1,571.1 L211.4,569.1 L209.8,568.8 L207.0,570.2 L207.1,568.3 L205.6,567.8 L203.7,569.7 L202.1,566.8 L202.4,564.3 L201.5,563.5 L197.8,561.8 L197.5,560.7 L195.1,558.6 L196.3,558.2 L195.4,553.8 L193.7,552.7 L192.0,549.5 L193.0,545.2 L193.8,543.9 L191.7,538.9 L194.0,538.7 L195.5,539.7 L196.9,538.7 L203.1,539.3 L202.8,538.5 L206.1,538.8 L208.3,534.9 L210.7,534.1 L216.0,534.2 L218.9,532.7 L226.9,524.1 L230.4,522.5 L231.4,534.1 L232.7,537.4 L235.3,539.2 L236.7,541.0 L237.4,544.2 L238.7,547.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-58</iso_3166_2>
-    <hasc>VN.BP</hasc>
-    <alt-name>Binh Phuoc</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông Nam B?</region>
-    <woe-id>20070086</woe-id>
-    <longitude>106.897</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Bình Ph??c</woe-name>
-    <fips>VM76</fips>
-    <latitude>11.6805</latitude>
-    <woe-label>Bin Phuoc, VN, Vietnam</woe-label>
-    <postal-code>BP</postal-code>
-    <type>T?nh</type>
-    <name>Bình Ph??c</name>
-    <hc-key>vn-bp</hc-key>
-    <hc-a2>BP</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.PY" d="M303.9,462.6 L307.8,463.5 L311.0,463.2 L315.7,461.0 L319.5,456.9 L322.9,455.6 L323.9,460.0 L325.7,461.3 L325.7,463.5 L323.7,460.2 L321.7,458.1 L323.4,461.6 L325.3,464.6 L326.6,463.9 L326.2,465.9 L327.8,466.6 L326.9,469.1 L325.0,468.7 L326.0,466.8 L324.2,465.5 L322.9,466.9 L322.9,470.1 L325.2,472.0 L325.9,474.6 L324.2,474.6 L325.9,477.5 L326.8,474.6 L327.1,476.4 L326.6,482.4 L329.6,487.1 L334.1,492.7 L333.9,495.6 L331.9,495.0 L330.4,496.5 L327.5,495.6 L321.6,496.0 L319.8,497.0 L317.4,499.6 L314.4,500.6 L311.1,499.3 L307.3,498.5 L304.1,497.2 L299.7,494.0 L296.7,489.3 L296.9,487.3 L299.8,484.1 L303.6,481.9 L306.5,479.0 L305.4,475.7 L305.4,473.1 L303.8,468.6 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-32</iso_3166_2>
-    <hasc>VN.PY</hasc>
-    <alt-name>Phu Yen</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Nam Trung B?</region>
-    <woe-id>2347745</woe-id>
-    <longitude>109.064</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Phú Yên</woe-name>
-    <fips>VM61</fips>
-    <latitude>13.1647</latitude>
-    <woe-label>Phu Yen, VN, Vietnam</woe-label>
-    <postal-code>PY</postal-code>
-    <type>T?nh</type>
-    <name>Phú Yên</name>
-    <hc-key>vn-py</hc-key>
-    <hc-a2>PY</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BD" d="M319.5,456.9 L315.7,461.0 L311.0,463.2 L307.8,463.5 L303.9,462.6 L303.7,457.5 L303.0,453.7 L301.3,450.2 L299.2,447.3 L298.4,445.0 L298.7,442.0 L295.8,438.1 L294.7,434.6 L294.6,431.5 L296.4,424.1 L296.8,420.1 L296.6,416.8 L295.8,413.5 L301.5,410.1 L304.8,409.4 L310.1,409.6 L313.4,409.1 L314.7,409.6 L315.2,413.7 L314.6,414.0 L317.3,420.0 L317.3,422.6 L318.3,425.4 L319.8,426.9 L320.8,430.2 L320.3,430.9 L322.6,435.0 L319.6,433.2 L320.1,434.9 L322.0,436.4 L323.3,439.8 L324.1,445.1 L326.0,447.1 L325.9,452.7 L324.4,452.9 L324.5,449.6 L323.4,446.5 L322.6,450.3 L323.8,451.9 L322.3,453.5 L322.9,455.6 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-31</iso_3166_2>
-    <hasc>VN.BD</hasc>
-    <alt-name>Binh Dinh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Nam Trung B?</region>
-    <woe-id>2347730</woe-id>
-    <longitude>108.971</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Bình ??nh</woe-name>
-    <fips>VM46</fips>
-    <latitude>14.1075</latitude>
-    <woe-label>Binh Dinh, VN, Vietnam</woe-label>
-    <postal-code>BD</postal-code>
-    <type>T?nh</type>
-    <name>Bình ??nh</name>
-    <hc-key>vn-bd</hc-key>
-    <hc-a2>BD</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.724" d="M293.5,411.5 L295.8,413.5 L296.6,416.8 L296.8,420.1 L296.4,424.1 L294.6,431.5 L294.7,434.6 L295.8,438.1 L298.7,442.0 L298.4,445.0 L299.2,447.3 L301.3,450.2 L303.0,453.7 L303.7,457.5 L303.9,462.6 L303.8,468.6 L305.4,473.1 L305.4,475.7 L306.5,479.0 L303.6,481.9 L299.8,484.1 L296.9,487.3 L296.7,489.3 L289.9,487.7 L287.9,485.8 L286.0,479.7 L284.8,477.4 L282.7,475.4 L270.8,471.3 L267.2,471.4 L262.5,473.2 L256.6,473.1 L251.0,474.0 L245.5,477.4 L247.6,472.2 L247.7,470.8 L247.0,464.4 L243.1,457.0 L239.8,452.7 L239.4,448.7 L239.8,446.2 L243.8,443.6 L247.3,440.1 L249.5,435.9 L252.4,433.6 L255.5,432.1 L272.3,426.5 L277.2,424.1 L280.7,421.6 L284.1,417.5 L284.7,415.1 L283.9,412.6 L287.8,413.0 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-30</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>Gia Lai</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>Nam Trung B?</region>
-    <woe-id>2347733</woe-id>
-    <longitude>108.156</longitude>
-    <subregion>South Central Coast</subregion>
-    <woe-name>Gia Lai</woe-name>
-    <fips>VM49</fips>
-    <latitude>13.8493</latitude>
-    <woe-label>Gia Lai, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Province</type>
-    <name>Gia Lai</name>
-    <hc-key>vn-724</hc-key>
-    <hc-a2>GL</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.QG" d="M295.8,413.5 L293.5,411.5 L291.3,404.7 L290.2,402.8 L286.3,401.3 L284.6,399.6 L282.9,396.3 L278.4,392.4 L279.8,390.6 L277.4,386.2 L277.9,384.6 L280.1,381.1 L282.3,379.6 L286.9,379.1 L295.1,376.2 L299.5,375.5 L300.4,378.9 L301.1,375.6 L302.5,373.9 L303.1,376.5 L305.2,378.3 L305.4,380.7 L308.4,382.3 L306.5,384.3 L307.1,391.5 L308.2,395.1 L311.6,402.6 L314.8,406.9 L315.5,409.8 L314.7,409.6 L313.4,409.1 L310.1,409.6 L304.8,409.4 L301.5,410.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-29</iso_3166_2>
-    <hasc>VN.QG</hasc>
-    <alt-name>Quang Ngai</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Nam Trung B?</region>
-    <woe-id>20070077</woe-id>
-    <longitude>108.686</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Qu?ng Ngãi</woe-name>
-    <fips>VM63</fips>
-    <latitude>14.9971</latitude>
-    <woe-label>Quang Ngai, VN, Vietnam</woe-label>
-    <postal-code>QG</postal-code>
-    <type>T?nh</type>
-    <name>Qu?ng Ngãi</name>
-    <hc-key>vn-qg</hc-key>
-    <hc-a2>QG</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.331" d="M221.6,601.9 L221.0,600.1 L220.5,602.4 L220.3,602.4 L220.0,602.4 L219.7,605.1 L218.7,603.3 L215.3,600.2 L212.7,600.7 L209.0,598.6 L208.8,595.4 L210.5,596.3 L212.3,595.5 L214.8,595.9 L214.8,593.5 L212.6,590.0 L212.5,588.6 L210.4,585.6 L210.2,583.5 L212.2,582.0 L214.6,583.4 L216.2,583.2 L218.1,581.6 L219.0,578.8 L217.1,574.5 L218.5,571.2 L222.3,567.8 L224.1,565.2 L225.0,562.1 L226.7,560.9 L231.0,559.5 L234.5,557.7 L237.6,557.9 L238.7,560.5 L241.1,561.2 L241.1,564.7 L244.7,565.4 L248.6,567.3 L246.8,568.9 L244.1,574.0 L240.4,582.7 L242.6,584.4 L245.1,584.4 L246.3,585.4 L247.8,588.6 L247.9,591.5 L246.7,593.8 L244.5,596.0 L242.9,594.0 L241.8,593.8 L237.1,599.1 L235.0,599.3 L234.0,598.3 L233.5,595.5 L231.6,595.4 L227.4,597.4 L227.1,599.4 L225.8,600.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>South East</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>NULL</region>
-    <woe-id>2347721</woe-id>
-    <longitude>107.178</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>?ông Nam B?</woe-name>
-    <fips>VM43</fips>
-    <latitude>11.1258</latitude>
-    <woe-label>Dong Nai, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Region</type>
-    <name>?ông Nam B?</name>
-    <hc-key>vn-331</hc-key>
-    <hc-a2>?N</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.DT" d="M136.6,590.0 L138.7,590.4 L141.0,592.3 L142.1,592.1 L143.5,589.3 L146.0,586.7 L149.0,587.7 L151.3,587.2 L152.0,588.7 L154.4,590.6 L157.4,594.1 L167.3,603.4 L170.0,605.3 L171.9,606.0 L171.2,609.4 L166.1,615.9 L166.6,617.9 L164.3,617.0 L159.6,612.9 L156.4,612.4 L154.1,611.1 L152.6,609.7 L150.4,606.8 L145.7,604.4 L144.5,603.2 L144.1,599.0 L141.1,599.0 L138.4,595.3 L136.9,592.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-45</iso_3166_2>
-    <hasc>VN.DT</hasc>
-    <alt-name>Dong Thap</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347722</woe-id>
-    <longitude>105.586</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Ð?ng Tháp</woe-name>
-    <fips>VM09</fips>
-    <latitude>10.6644</latitude>
-    <woe-label>Dong Thap, VN, Vietnam</woe-label>
-    <postal-code>DT</postal-code>
-    <type>T?nh</type>
-    <name>Ð?ng Tháp</name>
-    <hc-key>vn-dt</hc-key>
-    <hc-a2>DT</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.LA" d="M208.4,605.9 L207.9,607.3 L203.5,609.4 L202.4,611.4 L201.0,612.4 L194.8,612.4 L194.3,609.7 L190.3,608.1 L188.3,605.3 L186.3,604.4 L181.4,604.1 L179.6,604.7 L178.2,606.2 L176.0,606.4 L171.9,606.0 L170.0,605.3 L167.3,603.4 L157.4,594.1 L154.4,590.6 L152.0,588.7 L151.3,587.2 L156.4,586.1 L159.4,584.4 L162.0,584.1 L165.2,588.7 L167.1,592.5 L168.9,593.0 L170.4,589.8 L174.4,593.4 L177.0,594.4 L180.8,595.0 L181.9,595.8 L180.7,591.3 L179.5,589.1 L179.7,586.3 L181.5,586.2 L183.0,586.7 L186.9,585.5 L187.7,583.6 L190.5,585.6 L195.9,588.3 L198.1,591.8 L198.0,594.1 L196.7,597.2 L198.1,598.5 L202.2,600.4 L203.8,601.8 L206.9,601.2 L208.4,602.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-41</iso_3166_2>
-    <hasc>VN.LA</hasc>
-    <alt-name>Long An</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347710</woe-id>
-    <longitude>106.134</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Long An</woe-name>
-    <fips>VM24</fips>
-    <latitude>10.6869</latitude>
-    <woe-label>Long An, VN, Vietnam</woe-label>
-    <postal-code>LA</postal-code>
-    <type>T?nh</type>
-    <name>Long An</name>
-    <hc-key>vn-la</hc-key>
-    <hc-a2>LA</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.3623" d="M198.2,110.4 L199.9,110.8 L200.2,110.7 L201.4,113.5 L204.9,114.5 L204.2,117.1 L203.2,116.1 L202.4,117.1 L204.8,119.8 L203.6,121.5 L206.5,124.3 L207.3,126.8 L205.5,125.1 L204.4,125.9 L200.9,126.2 L202.7,127.7 L200.5,129.1 L197.8,128.3 L195.3,130.0 L192.3,130.6 L191.4,129.3 L189.9,125.0 L191.9,124.9 L195.2,122.0 L195.4,120.9 L193.9,120.1 L193.4,118.3 L195.1,116.9 L195.1,114.7 L197.4,113.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-HP</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>Hai Phong</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng B?ng Sông H?ng</region>
-    <woe-id>2347707</woe-id>
-    <longitude>106.635</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>H?i Phòng</woe-name>
-    <fips>NULL</fips>
-    <latitude>20.79</latitude>
-    <woe-label>Hai Phong, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Thành</type>
-    <name>H?i Phòng</name>
-    <hc-key>vn-3623</hc-key>
-    <hc-a2>HP</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.337" d="M166.1,631.9 L166.1,633.1 L169.1,636.1 L165.3,645.4 L164.0,645.8 L158.5,649.1 L153.5,650.6 L148.5,651.7 L145.2,651.7 L145.3,649.1 L143.8,647.1 L145.1,645.1 L150.5,640.0 L151.6,636.5 L151.2,634.4 L146.6,630.1 L151.4,628.4 L156.4,627.4 L159.3,626.3 L163.4,629.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-73</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>NULL</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>NULL</region>
-    <woe-id>28301720</woe-id>
-    <longitude>105.663</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Hau Giang</woe-name>
-    <fips>NULL</fips>
-    <latitude>9.843529999999999</latitude>
-    <woe-label>Hau Giang, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Region</type>
-    <name>Hau Giang</name>
-    <hc-key>vn-337</hc-key>
-    <hc-a2>HG</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BL" d="M167.6,667.4 L162.5,669.5 L152.2,673.3 L147.7,677.5 L146.8,679.1 L145.5,676.7 L143.3,676.0 L142.4,674.6 L141.4,670.2 L140.1,669.8 L140.0,668.3 L141.7,665.4 L140.3,663.8 L141.1,661.9 L140.0,660.3 L140.9,659.4 L140.1,657.2 L141.4,655.1 L140.6,651.7 L141.2,650.8 L145.2,651.7 L148.5,651.7 L153.5,650.6 L153.9,657.7 L155.0,659.7 L159.3,661.3 L164.5,661.0 L166.0,662.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-55</iso_3166_2>
-    <hasc>VN.BL</hasc>
-    <alt-name>Bac Lieu</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>20070081</woe-id>
-    <longitude>105.573</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>B?c Liêu</woe-name>
-    <fips>VM73</fips>
-    <latitude>9.339410000000001</latitude>
-    <woe-label>Bac Lieu, VN, Vietnam</woe-label>
-    <postal-code>BL</postal-code>
-    <type>T?nh</type>
-    <name>B?c Liêu</name>
-    <hc-key>vn-bl</hc-key>
-    <hc-a2>BL</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.VL" d="M179.2,620.8 L181.5,623.5 L182.7,626.4 L185.2,628.4 L183.3,629.5 L182.5,631.1 L179.9,632.7 L180.1,634.5 L176.6,635.6 L173.6,637.4 L169.2,633.3 L166.1,631.9 L163.4,629.1 L159.3,626.3 L159.8,624.3 L161.4,623.5 L162.8,624.5 L166.7,625.6 L169.4,624.0 L169.5,621.7 L168.1,620.7 L166.6,617.9 L168.9,618.4 L171.5,618.5 L177.1,619.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>9</labelrank>
-    <iso_3166_2>VN-49</iso_3166_2>
-    <hasc>VN.VL</hasc>
-    <alt-name>Vinh Long</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347752</woe-id>
-    <longitude>105.969</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>V?nh Long</woe-name>
-    <fips>VM50</fips>
-    <latitude>10.1042</latitude>
-    <woe-label>Vinh Long, VN, Vietnam</woe-label>
-    <postal-code>VL</postal-code>
-    <type>T?nh</type>
-    <name>V?nh Long</name>
-    <hc-key>vn-vl</hc-key>
-    <hc-a2>VL</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.TN" d="M193.7,552.7 L195.4,553.8 L196.3,558.2 L195.1,558.6 L193.6,561.4 L191.2,564.1 L189.5,568.5 L189.7,571.9 L191.3,575.5 L193.2,577.4 L193.6,578.9 L193.1,581.7 L190.5,585.6 L187.7,583.6 L186.9,585.5 L183.0,586.7 L181.5,586.2 L182.3,585.9 L181.0,582.3 L179.6,580.8 L177.6,582.2 L176.5,580.4 L172.3,575.8 L168.8,574.5 L168.2,572.2 L166.2,571.2 L167.5,565.3 L166.6,559.0 L164.3,558.1 L163.7,557.1 L164.4,555.3 L166.8,553.6 L170.4,554.5 L172.6,551.4 L174.1,548.4 L178.7,549.5 L180.6,549.5 L184.8,551.0 L186.8,552.9 L190.0,552.1 L192.7,553.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-37</iso_3166_2>
-    <hasc>VN.TN</hasc>
-    <alt-name>Tay Ninh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông Nam B?</region>
-    <woe-id>2347714</woe-id>
-    <longitude>106.14</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Tây Ninh</woe-name>
-    <fips>VM33</fips>
-    <latitude>11.4121</latitude>
-    <woe-label>Tay Ninh, VN, Vietnam</woe-label>
-    <postal-code>TN</postal-code>
-    <type>T?nh</type>
-    <name>Tây Ninh</name>
-    <hc-key>vn-tn</hc-key>
-    <hc-a2>TN</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.TY" d="M167.7,96.3 L164.4,94.7 L161.1,94.7 L159.6,92.1 L155.0,88.8 L152.4,86.2 L150.0,83.2 L149.8,80.1 L150.4,70.9 L151.5,66.9 L152.6,66.6 L154.5,64.1 L158.5,63.1 L161.0,65.6 L161.2,70.2 L162.2,74.6 L163.9,73.3 L166.6,72.8 L171.1,69.8 L172.2,68.2 L176.0,66.9 L176.2,69.3 L177.3,73.7 L179.1,74.6 L182.3,78.9 L182.4,79.7 L180.3,81.9 L178.5,84.8 L177.5,82.4 L174.0,81.9 L172.9,83.0 L174.3,88.0 L173.4,91.3 L172.0,92.3 L169.9,92.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-69</iso_3166_2>
-    <hasc>VN.TY</hasc>
-    <alt-name>Thai Nguyen</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Ðông B?c</region>
-    <woe-id>20070083</woe-id>
-    <longitude>105.887</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Thái Nguyên</woe-name>
-    <fips>VM85</fips>
-    <latitude>21.5812</latitude>
-    <woe-label>Thai Nguyen, VN, Vietnam</woe-label>
-    <postal-code>TY</postal-code>
-    <type>T?nh</type>
-    <name>Thái Nguyên</name>
-    <hc-key>vn-ty</hc-key>
-    <hc-a2>TY</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.LI" d="M63.7,62.8 L62.4,64.4 L62.2,66.1 L62.8,69.7 L60.5,65.9 L58.9,64.8 L58.8,62.8 L57.0,60.4 L56.3,57.8 L54.6,56.8 L52.9,57.2 L50.4,60.4 L50.3,61.9 L46.4,60.0 L44.8,60.1 L42.9,58.3 L40.4,57.1 L36.5,57.6 L35.2,56.7 L34.7,54.4 L31.9,54.3 L31.0,52.9 L30.7,49.9 L29.0,46.9 L25.7,44.3 L23.2,43.2 L19.9,39.0 L17.3,36.9 L15.1,37.1 L11.6,36.4 L9.2,36.9 L11.9,33.9 L10.7,32.4 L12.4,31.4 L14.6,27.5 L17.8,28.5 L18.6,30.8 L20.9,29.9 L22.0,31.1 L25.5,32.1 L28.1,34.3 L30.7,35.1 L32.1,36.3 L34.2,40.9 L38.4,43.4 L40.8,43.2 L40.8,41.1 L45.1,38.7 L44.6,36.8 L45.2,35.4 L49.0,33.2 L50.1,32.1 L52.7,26.9 L54.2,27.2 L56.7,29.4 L56.8,31.7 L58.6,35.0 L61.1,36.8 L63.1,33.6 L65.4,37.0 L65.7,39.9 L64.3,41.5 L64.7,43.0 L67.6,44.6 L71.7,44.6 L74.1,47.3 L72.7,50.8 L69.5,54.2 L66.1,55.9 L64.5,58.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-01</iso_3166_2>
-    <hasc>VN.LI</hasc>
-    <alt-name>NULL</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347708</woe-id>
-    <longitude>103.255</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Lai Chau</woe-name>
-    <fips>VM89</fips>
-    <latitude>22.3502</latitude>
-    <woe-label>Lai Chau, VN, Vietnam</woe-label>
-    <postal-code>LI</postal-code>
-    <type>T?nh</type>
-    <name>Lai Chau</name>
-    <hc-key>vn-li</hc-key>
-    <hc-a2>LI</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.311" d="M62.8,69.7 L62.2,66.1 L62.4,64.4 L63.7,62.8 L65.3,62.4 L67.2,64.2 L69.9,71.0 L75.3,77.1 L77.2,78.2 L79.3,77.8 L83.3,79.4 L90.1,80.7 L92.9,80.2 L96.2,78.3 L98.1,80.2 L96.6,85.2 L96.3,88.5 L97.1,90.9 L98.4,92.2 L102.3,94.5 L104.3,94.6 L107.3,92.8 L109.3,92.4 L113.1,93.9 L115.7,93.8 L117.1,96.1 L119.2,96.4 L120.9,100.1 L121.1,104.9 L122.8,107.2 L121.6,109.1 L121.5,110.9 L123.0,113.7 L127.4,118.6 L130.7,120.8 L130.3,122.8 L125.7,124.8 L120.5,124.9 L119.7,126.3 L119.8,129.7 L116.9,132.1 L114.7,131.6 L110.9,128.9 L109.7,128.9 L109.1,128.0 L104.2,126.0 L102.5,123.1 L99.7,122.8 L97.3,120.5 L95.5,117.6 L93.9,116.7 L92.2,117.0 L91.0,115.2 L86.5,113.7 L84.9,113.8 L82.8,116.2 L80.2,116.5 L72.4,119.6 L71.3,122.2 L71.6,123.6 L69.3,124.9 L69.6,127.3 L67.4,127.9 L63.5,124.3 L60.0,123.6 L56.8,120.1 L54.0,121.7 L49.6,119.8 L47.9,119.8 L48.0,116.7 L48.8,113.3 L50.9,110.4 L50.7,108.3 L52.2,107.8 L54.9,109.1 L57.4,108.2 L56.8,104.1 L57.6,102.2 L58.1,99.0 L57.6,97.2 L56.0,95.9 L54.9,92.4 L57.5,90.6 L58.9,87.7 L61.6,85.1 L63.2,82.8 L63.6,79.8 L63.0,76.0 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-05</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>Son La</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>Tây B?c</region>
-    <woe-id>2347713</woe-id>
-    <longitude>104.159</longitude>
-    <subregion>North West</subregion>
-    <woe-name>Son La</woe-name>
-    <fips>VM32</fips>
-    <latitude>21.3011</latitude>
-    <woe-label>Son La, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Province</type>
-    <name>Son La</name>
-    <hc-key>vn-311</hc-key>
-    <hc-a2>SL</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.HG" d="M120.2,56.6 L116.7,56.1 L113.2,52.1 L110.5,52.4 L108.9,53.3 L109.0,48.9 L107.0,47.1 L104.1,45.4 L102.2,38.4 L103.7,36.5 L101.5,33.8 L99.7,33.3 L98.8,31.8 L102.7,29.3 L107.3,25.1 L108.4,26.3 L109.7,25.7 L112.0,26.3 L114.9,24.9 L116.9,22.2 L119.1,20.9 L119.3,19.5 L118.0,13.3 L120.8,11.7 L121.2,9.6 L124.4,9.8 L126.0,8.3 L129.5,6.3 L136.4,4.8 L137.2,2.2 L139.1,0.3 L140.5,0.0 L141.4,2.3 L143.9,4.3 L145.7,4.6 L147.6,8.1 L149.5,9.3 L150.3,12.6 L149.2,13.2 L148.6,16.1 L147.8,17.2 L145.8,17.3 L142.6,21.4 L140.1,23.2 L140.1,24.2 L146.7,28.0 L148.3,30.1 L149.7,33.2 L151.8,36.6 L148.8,37.1 L141.9,36.2 L135.5,34.0 L134.3,34.5 L132.8,39.8 L130.5,42.9 L129.0,47.8 L127.8,48.4 L125.0,47.9 L124.2,48.9 L123.7,52.0 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-03</iso_3166_2>
-    <hasc>VN.HG</hasc>
-    <alt-name>Ha Giang</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347734</woe-id>
-    <longitude>104.965</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Hà Giang</woe-name>
-    <fips>VM50</fips>
-    <latitude>22.7655</latitude>
-    <woe-label>Ha Giang, VN, Vietnam</woe-label>
-    <postal-code>HG</postal-code>
-    <type>T?nh</type>
-    <name>Hà Giang</name>
-    <hc-key>vn-hg</hc-key>
-    <hc-a2>HG</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.ND" d="M193.9,144.8 L196.0,145.2 L196.0,145.2 L196.0,145.2 L196.9,148.0 L194.1,148.7 L189.2,149.4 L187.6,150.3 L185.2,153.9 L183.1,156.2 L178.8,159.9 L176.4,160.8 L176.7,157.6 L178.3,153.1 L178.4,148.8 L175.7,147.2 L174.1,147.8 L169.9,145.8 L169.3,143.2 L169.3,140.7 L170.1,139.3 L172.6,139.6 L174.6,136.3 L179.7,135.9 L181.0,136.6 L181.2,139.5 L183.6,139.9 L183.3,142.8 L183.9,143.5 L187.1,141.8 L191.6,145.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-67</iso_3166_2>
-    <hasc>VN.ND</hasc>
-    <alt-name>Nam Dinh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng B?ng Sông H?ng</region>
-    <woe-id>20070089</woe-id>
-    <longitude>106.254</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Nam ??nh</woe-name>
-    <fips>VM82</fips>
-    <latitude>20.2343</latitude>
-    <woe-label>Nam Dinh, VN, Vietnam</woe-label>
-    <postal-code>ND</postal-code>
-    <type>T?nh</type>
-    <name>Nam ??nh</name>
-    <hc-key>vn-nd</hc-key>
-    <hc-a2>ND</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.328" d="M160.7,222.5 L161.6,222.1 L161.4,218.1 L162.2,218.5 L162.5,221.2 L164.1,225.7 L166.5,229.6 L168.2,231.4 L169.7,231.5 L171.0,234.8 L176.5,240.0 L176.7,241.9 L179.5,241.2 L184.3,244.1 L187.7,247.4 L185.9,248.9 L187.9,249.7 L188.9,248.7 L191.7,247.8 L191.2,249.2 L192.0,251.2 L195.6,255.7 L189.6,255.0 L188.0,255.2 L185.8,257.8 L183.3,258.0 L178.4,257.1 L174.8,255.5 L174.0,252.6 L171.5,250.9 L168.8,250.5 L165.8,250.8 L160.2,252.8 L157.7,254.7 L154.2,255.3 L152.5,253.5 L151.8,251.6 L148.4,247.9 L148.2,245.7 L147.3,244.8 L144.6,244.7 L143.5,246.8 L140.2,244.6 L140.1,241.9 L138.0,242.2 L133.9,238.8 L134.2,236.6 L130.9,233.7 L130.5,232.4 L131.4,227.8 L132.6,225.6 L134.5,224.7 L139.2,224.3 L145.4,226.1 L149.6,225.6 L155.4,226.4 L156.7,226.9 L158.1,225.4 L157.9,224.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-23</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>Ha Tinh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>B?c Trung B?</region>
-    <woe-id>2347736</woe-id>
-    <longitude>105.799</longitude>
-    <subregion>North Central Coast</subregion>
-    <woe-name>Ha Tinh</woe-name>
-    <fips>VM52</fips>
-    <latitude>18.3563</latitude>
-    <woe-label>Ha Tinh, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Province</type>
-    <name>Ha Tinh</name>
-    <hc-key>vn-328</hc-key>
-    <hc-a2>HT</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.NA" d="M163.1,193.5 L161.5,195.4 L160.4,195.3 L159.7,198.5 L160.0,201.4 L158.1,202.7 L156.9,202.3 L155.8,203.5 L154.5,206.6 L155.2,210.2 L156.0,211.6 L159.1,213.4 L157.9,214.7 L159.3,214.9 L161.0,217.3 L160.7,222.5 L157.9,224.4 L158.1,225.4 L156.7,226.9 L155.4,226.4 L149.6,225.6 L145.4,226.1 L139.2,224.3 L134.5,224.7 L131.9,220.9 L129.8,221.0 L126.4,219.2 L124.0,219.3 L122.3,217.5 L118.5,217.3 L114.3,216.4 L112.7,214.9 L110.9,214.5 L106.3,211.0 L103.5,207.6 L99.9,206.9 L97.8,204.3 L95.5,203.3 L93.6,201.6 L91.3,201.8 L90.8,199.6 L88.5,197.9 L83.6,195.6 L80.7,195.8 L78.2,194.2 L77.1,192.5 L75.1,192.2 L76.1,191.0 L78.4,189.8 L79.8,188.0 L83.7,186.9 L84.7,184.2 L86.0,183.6 L85.2,180.0 L82.8,178.1 L81.9,175.6 L83.0,174.2 L86.0,175.7 L88.1,174.0 L92.3,173.1 L94.4,174.2 L95.3,175.6 L97.3,174.2 L99.1,174.1 L100.6,175.8 L104.7,178.1 L109.9,177.3 L111.4,173.6 L113.0,171.8 L115.0,171.3 L118.1,169.2 L118.6,166.5 L116.1,165.8 L117.0,163.6 L120.5,161.4 L121.2,160.1 L124.4,159.7 L127.5,160.7 L129.7,162.1 L133.6,163.3 L134.9,164.4 L132.9,168.2 L133.4,170.7 L135.4,174.1 L138.6,177.3 L139.0,182.0 L141.1,180.8 L142.8,181.0 L144.8,183.7 L146.4,184.4 L149.6,184.3 L150.8,185.1 L153.2,188.2 L155.2,189.4 L158.3,192.2 L161.1,192.6 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-22</iso_3166_2>
-    <hasc>VN.NA</hasc>
-    <alt-name>Nghe An</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>B?c Trung B?</region>
-    <woe-id>2347742</woe-id>
-    <longitude>104.827</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Ngh? An</woe-name>
-    <fips>VM58</fips>
-    <latitude>19.3548</latitude>
-    <woe-label>Nghe An, VN, Vietnam</woe-label>
-    <postal-code>NA</postal-code>
-    <type>T?nh</type>
-    <name>Ngh? An</name>
-    <hc-key>vn-na</hc-key>
-    <hc-a2>NA</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.QB" d="M195.6,255.7 L195.9,256.3 L192.8,259.2 L192.2,260.9 L194.4,267.7 L191.9,266.0 L189.1,264.8 L185.1,264.5 L187.9,265.6 L191.6,266.4 L189.5,267.0 L195.1,268.6 L200.1,276.4 L201.1,278.6 L207.0,285.0 L218.1,293.1 L213.4,296.0 L211.3,298.7 L209.6,301.8 L206.5,302.7 L199.1,302.2 L196.7,303.3 L196.2,301.4 L195.0,302.7 L191.5,301.5 L190.0,298.8 L189.8,296.9 L187.6,294.9 L186.2,292.7 L186.4,290.3 L185.2,287.5 L184.1,287.3 L182.4,289.5 L180.7,288.9 L173.1,282.4 L168.2,276.7 L165.2,272.8 L162.6,270.8 L160.2,269.7 L156.0,262.4 L154.3,260.8 L153.8,259.2 L154.2,255.3 L157.7,254.7 L160.2,252.8 L165.8,250.8 L168.8,250.5 L171.5,250.9 L174.0,252.6 L174.8,255.5 L178.4,257.1 L183.3,258.0 L185.8,257.8 L188.0,255.2 L189.6,255.0 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-24</iso_3166_2>
-    <hasc>VN.QB</hasc>
-    <alt-name>Quang Binh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>B?c Trung B?</region>
-    <woe-id>2347746</woe-id>
-    <longitude>106.357</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Qu?ng Bình</woe-name>
-    <fips>VM62</fips>
-    <latitude>17.4691</latitude>
-    <woe-label>Quang Binh, VN, Vietnam</woe-label>
-    <postal-code>QB</postal-code>
-    <type>T?nh</type>
-    <name>Qu?ng Bình</name>
-    <hc-key>vn-qb</hc-key>
-    <hc-a2>QB</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.723" d="M244.8,503.2 L244.5,499.3 L242.6,496.5 L241.3,491.6 L241.9,490.6 L240.9,488.8 L245.5,477.4 L251.0,474.0 L256.6,473.1 L262.5,473.2 L267.2,471.4 L270.8,471.3 L282.7,475.4 L284.8,477.4 L286.0,479.7 L287.9,485.8 L289.9,487.7 L296.7,489.3 L299.7,494.0 L304.1,497.2 L307.3,498.5 L311.1,499.3 L314.4,500.6 L311.3,503.4 L308.3,504.1 L306.9,507.5 L307.1,509.5 L306.0,513.4 L305.1,514.1 L302.4,512.9 L297.8,513.8 L297.3,515.3 L297.4,519.0 L298.1,522.1 L294.5,523.7 L290.4,522.4 L288.9,522.8 L286.2,525.1 L282.1,525.4 L278.3,527.8 L277.4,529.4 L274.0,528.7 L271.9,529.6 L272.4,527.3 L270.0,524.3 L267.7,522.8 L265.4,522.4 L263.6,520.2 L263.1,517.5 L265.3,516.4 L266.5,513.8 L265.2,512.6 L262.6,511.8 L262.1,510.1 L260.4,508.9 L259.8,504.6 L258.8,502.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-33</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>Dak Lak|Dac Lac</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>Tây Nguyên</region>
-    <woe-id>2347720</woe-id>
-    <longitude>108.133</longitude>
-    <subregion>Central Highlands</subregion>
-    <woe-name>Dak Lak</woe-name>
-    <fips>VM07</fips>
-    <latitude>12.7691</latitude>
-    <woe-label>Dak Lak, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Province</type>
-    <name>Dak Lak</name>
-    <hc-key>vn-723</hc-key>
-    <hc-a2>DL</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.NT" d="M322.8,546.2 L324.7,548.7 L322.3,551.7 L322.0,553.3 L319.8,556.6 L316.6,556.0 L315.4,553.4 L314.3,553.7 L315.3,555.1 L314.8,559.1 L314.4,566.8 L311.4,569.0 L309.2,568.4 L307.4,565.4 L302.9,564.5 L302.4,562.1 L300.2,560.8 L299.3,557.9 L295.7,557.2 L295.2,553.6 L298.2,550.3 L298.6,548.7 L296.9,546.4 L296.3,544.1 L298.3,537.8 L298.8,533.5 L298.3,530.7 L299.9,527.9 L302.7,528.9 L304.2,530.5 L307.5,538.5 L308.8,539.4 L314.8,540.6 L316.3,542.3 L317.3,544.8 L318.6,545.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-36</iso_3166_2>
-    <hasc>VN.NT</hasc>
-    <alt-name>Ninh Thuan</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông Nam B?</region>
-    <woe-id>2347744</woe-id>
-    <longitude>108.925</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Ninh Thu?n</woe-name>
-    <fips>VM60</fips>
-    <latitude>11.6242</latitude>
-    <woe-label>Ninh Thuan, VN, Vietnam</woe-label>
-    <postal-code>NT</postal-code>
-    <type>T?nh</type>
-    <name>Ninh Thu?n</name>
-    <hc-key>vn-nt</hc-key>
-    <hc-a2>NT</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.6365" d="M271.9,529.6 L269.0,529.9 L266.4,530.9 L265.8,533.7 L267.5,536.2 L270.7,539.7 L270.7,542.6 L269.4,545.3 L266.6,547.8 L264.8,546.5 L262.7,546.7 L262.1,544.3 L260.7,543.4 L256.6,544.1 L254.8,543.2 L254.3,541.5 L252.7,541.4 L249.0,545.3 L246.3,547.2 L243.4,547.9 L240.7,549.2 L238.2,548.9 L238.7,547.3 L237.4,544.2 L236.7,541.0 L235.3,539.2 L232.7,537.4 L231.4,534.1 L230.4,522.5 L234.7,521.6 L238.1,525.2 L239.2,525.1 L240.8,523.0 L243.7,520.8 L245.7,514.7 L246.0,508.4 L244.8,503.2 L258.8,502.8 L259.8,504.6 L260.4,508.9 L262.1,510.1 L262.6,511.8 L265.2,512.6 L266.5,513.8 L265.3,516.4 L263.1,517.5 L263.6,520.2 L265.4,522.4 L267.7,522.8 L270.0,524.3 L272.4,527.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-72</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>Dak Nong</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>Tây Nguyên</region>
-    <woe-id>28301719</woe-id>
-    <longitude>107.66</longitude>
-    <subregion>Central Highlands</subregion>
-    <woe-name>Dac Nong</woe-name>
-    <fips>VM91</fips>
-    <latitude>12.1425</latitude>
-    <woe-label>Dac Nong, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Province</type>
-    <name>??k Nông</name>
-    <hc-key>vn-6365</hc-key>
-    <hc-a2>?N</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.299" d="M293.5,411.5 L287.8,413.0 L283.9,412.6 L284.7,415.1 L284.1,417.5 L280.7,421.6 L277.2,424.1 L272.3,426.5 L255.5,432.1 L252.4,433.6 L249.5,435.9 L247.3,440.1 L243.8,443.6 L239.8,446.2 L239.1,443.2 L236.4,442.7 L235.0,441.6 L235.1,438.7 L233.9,436.9 L235.7,431.2 L235.2,427.3 L236.9,422.6 L240.0,422.0 L242.3,416.9 L242.2,414.0 L243.5,410.4 L241.5,404.4 L244.5,400.5 L240.1,397.2 L239.3,394.0 L242.6,392.8 L245.3,392.9 L245.6,390.2 L247.3,387.8 L247.4,386.2 L248.9,385.3 L248.9,381.7 L246.1,379.4 L245.1,376.0 L248.4,376.2 L250.3,377.5 L252.2,380.8 L254.3,381.0 L258.3,384.4 L261.4,384.0 L263.4,384.6 L267.6,387.9 L268.1,389.1 L268.2,393.0 L271.2,396.8 L273.5,395.3 L273.8,392.1 L274.7,391.6 L278.4,392.4 L282.9,396.3 L284.6,399.6 L286.3,401.3 L290.2,402.8 L291.3,404.7 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-28</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>NULL</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Nam Trung B?</region>
-    <woe-id>20070076</woe-id>
-    <longitude>107.969</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Kon Tum</woe-name>
-    <fips>VM55</fips>
-    <latitude>14.7451</latitude>
-    <woe-label>Kon Tum, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>T?nh</type>
-    <name>Kon Tum</name>
-    <hc-key>vn-299</hc-key>
-    <hc-a2>KT</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.300" d="M277.1,347.8 L278.2,349.4 L282.0,352.1 L283.2,353.5 L283.7,356.4 L285.2,359.2 L292.9,369.4 L295.8,369.9 L293.0,371.9 L294.5,373.6 L296.5,371.1 L296.8,373.3 L299.5,375.5 L295.1,376.2 L286.9,379.1 L282.3,379.6 L280.1,381.1 L277.9,384.6 L277.4,386.2 L279.8,390.6 L278.4,392.4 L274.7,391.6 L273.8,392.1 L273.5,395.3 L271.2,396.8 L268.2,393.0 L268.1,389.1 L267.6,387.9 L263.4,384.6 L261.4,384.0 L258.3,384.4 L254.3,381.0 L252.2,380.8 L250.3,377.5 L248.4,376.2 L245.1,376.0 L241.3,375.3 L240.9,372.4 L239.1,371.1 L235.5,371.7 L233.0,367.4 L229.9,365.4 L228.3,360.9 L225.8,359.4 L225.3,357.7 L226.4,355.2 L229.2,354.8 L232.4,352.7 L234.9,352.0 L236.3,350.9 L238.7,347.4 L238.1,345.2 L245.6,345.1 L248.6,343.4 L249.8,344.0 L251.4,346.9 L252.1,346.8 L254.2,344.3 L257.5,343.5 L261.0,343.8 L264.4,343.4 L264.9,347.4 L266.7,348.5 L268.8,348.5 L272.5,347.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-27</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>NULL</alt-name>
-    <country>Vietnam</country>
-    <type-en>NULL</type-en>
-    <region>NULL</region>
-    <woe-id>2347711</woe-id>
-    <longitude>107.955</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Quàng Nam</woe-name>
-    <fips>NULL</fips>
-    <latitude>15.6535</latitude>
-    <woe-label>Quang Nam, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>NULL</type>
-    <name>Quàng Nam</name>
-    <hc-key>vn-300</hc-key>
-    <hc-a2>QN</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.QT" d="M221.3,334.3 L216.7,333.9 L215.9,332.2 L211.8,328.6 L211.9,324.3 L210.0,323.0 L208.9,325.5 L206.8,327.9 L204.1,327.9 L202.4,325.9 L201.7,323.5 L201.7,320.5 L198.6,319.2 L196.8,315.9 L196.7,303.3 L199.1,302.2 L206.5,302.7 L209.6,301.8 L211.3,298.7 L213.4,296.0 L218.1,293.1 L222.9,296.5 L223.6,297.9 L223.4,299.8 L227.1,304.7 L224.4,306.6 L226.6,306.6 L227.8,305.0 L236.8,312.4 L233.5,317.3 L230.3,319.5 L226.0,320.2 L223.0,321.8 L223.5,323.6 L225.7,325.7 L223.9,328.5 L221.1,331.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-25</iso_3166_2>
-    <hasc>VN.QT</hasc>
-    <alt-name>Quang Tri</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>B?c Trung B?</region>
-    <woe-id>2347747</woe-id>
-    <longitude>106.973</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Qu?ng Tr?</woe-name>
-    <fips>VM64</fips>
-    <latitude>16.7204</latitude>
-    <woe-label>Quang Tri, VN, Vietnam</woe-label>
-    <postal-code>QT</postal-code>
-    <type>T?nh</type>
-    <name>Qu?ng Tr?</name>
-    <hc-key>vn-qt</hc-key>
-    <hc-a2>QT</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.TT" d="M236.8,312.4 L240.7,315.2 L245.7,319.6 L245.3,319.8 L239.7,316.9 L238.3,317.2 L243.8,320.2 L245.2,320.0 L245.9,322.0 L248.4,321.6 L247.9,323.0 L248.8,324.2 L249.9,323.1 L252.8,325.7 L256.0,329.9 L254.5,329.7 L255.3,332.8 L259.2,334.4 L261.1,332.8 L261.4,330.7 L264.5,332.4 L265.9,331.1 L266.4,333.0 L268.3,336.3 L266.3,335.1 L266.4,336.3 L273.1,337.4 L270.1,337.9 L265.9,337.0 L261.8,337.3 L260.4,339.1 L258.8,342.3 L257.5,343.5 L254.2,344.3 L252.1,346.8 L251.4,346.9 L249.8,344.0 L248.6,343.4 L245.6,345.1 L238.1,345.2 L238.0,344.4 L233.3,345.3 L232.0,344.9 L229.2,341.8 L225.3,340.1 L224.1,338.5 L223.6,336.0 L221.3,334.3 L221.1,331.8 L223.9,328.5 L225.7,325.7 L223.5,323.6 L223.0,321.8 L226.0,320.2 L230.3,319.5 L233.5,317.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-26</iso_3166_2>
-    <hasc>VN.TT</hasc>
-    <alt-name>Thua Thien - Hue</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>B?c Trung B?</region>
-    <woe-id>2347749</woe-id>
-    <longitude>107.634</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Th?a Thiên - Hu?</woe-name>
-    <fips>VM66</fips>
-    <latitude>16.312</latitude>
-    <woe-label>Thura Thien-Hue, VN, Vietnam</woe-label>
-    <postal-code>TT</postal-code>
-    <type>T?nh</type>
-    <name>Th?a Thiên - Hu?</name>
-    <hc-key>vn-tt</hc-key>
-    <hc-a2>TT</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.DA" d="M273.1,337.4 L271.1,339.3 L270.6,341.8 L273.1,344.0 L274.5,343.1 L275.0,344.9 L273.2,347.2 L275.6,346.2 L275.4,341.5 L274.3,341.3 L275.2,339.7 L278.6,340.9 L278.6,342.0 L276.2,342.2 L275.9,344.0 L277.1,347.8 L272.5,347.5 L268.8,348.5 L266.7,348.5 L264.9,347.4 L264.4,343.4 L261.0,343.8 L257.5,343.5 L258.8,342.3 L260.4,339.1 L261.8,337.3 L265.9,337.0 L270.1,337.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-DN</iso_3166_2>
-    <hasc>VN.DA</hasc>
-    <alt-name>Da Nang City|Da Nang</alt-name>
-    <country>Vietnam</country>
-    <type-en>City|Municipality|Thanh Pho</type-en>
-    <region>Nam Trung B?</region>
-    <woe-id>20070085</woe-id>
-    <longitude>108.102</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>?à N?ng</woe-name>
-    <fips>VM78</fips>
-    <latitude>16.0912</latitude>
-    <woe-label>Da Nang, VN, Vietnam</woe-label>
-    <postal-code>DA</postal-code>
-    <type>Thành ph? tr?c thu?c t?nh</type>
-    <name>?à N?ng</name>
-    <hc-key>vn-da</hc-key>
-    <hc-a2>DA</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.AG" d="M113.9,607.5 L118.4,607.7 L120.0,607.1 L124.2,601.9 L128.8,599.5 L130.0,598.4 L129.9,596.9 L127.5,592.1 L128.2,589.0 L130.5,587.4 L131.4,589.0 L136.6,590.0 L136.9,592.2 L138.4,595.3 L141.1,599.0 L144.1,599.0 L144.5,603.2 L145.7,604.4 L150.4,606.8 L152.6,609.7 L154.1,611.1 L151.8,613.1 L150.0,616.4 L149.0,619.2 L147.0,619.3 L144.1,621.1 L142.4,619.3 L139.3,621.1 L138.1,622.8 L121.6,614.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-44</iso_3166_2>
-    <hasc>VN.AG</hasc>
-    <alt-name>An Giang</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347719</woe-id>
-    <longitude>105.154</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>An Giang</woe-name>
-    <fips>VM01</fips>
-    <latitude>10.5736</latitude>
-    <woe-label>An Giang, VN, Vietnam</woe-label>
-    <postal-code>AG</postal-code>
-    <type>T?nh</type>
-    <name>An Giang</name>
-    <hc-key>vn-ag</hc-key>
-    <hc-a2>AG</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.CM" d="M146.8,679.1 L142.5,687.0 L139.0,690.8 L135.5,691.7 L131.6,696.8 L120.1,700.0 L115.2,698.8 L113.7,697.7 L115.5,697.6 L119.1,695.5 L118.4,694.1 L119.6,693.7 L122.7,694.3 L125.1,692.7 L121.0,693.7 L119.9,692.3 L123.5,691.4 L123.2,688.5 L118.2,690.3 L116.2,688.1 L118.0,682.4 L117.8,677.3 L118.3,670.3 L119.1,654.2 L120.9,655.5 L125.4,654.4 L128.0,654.5 L138.1,659.8 L140.0,660.3 L141.1,661.9 L140.3,663.8 L141.7,665.4 L140.0,668.3 L140.1,669.8 L141.4,670.2 L142.4,674.6 L143.3,676.0 L145.5,676.7 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-59</iso_3166_2>
-    <hasc>VN.CM</hasc>
-    <alt-name>Ca Mau</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>20070082</woe-id>
-    <longitude>105.073</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Cà Mau</woe-name>
-    <fips>VM77</fips>
-    <latitude>9.05545</latitude>
-    <woe-label>Ca Mau, VN, Vietnam</woe-label>
-    <postal-code>CM</postal-code>
-    <type>T?nh</type>
-    <name>Cà Mau</name>
-    <hc-key>vn-cm</hc-key>
-    <hc-a2>CM</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.TV" d="M185.2,628.4 L187.0,629.7 L188.3,631.7 L191.9,635.2 L196.0,638.6 L198.0,641.4 L198.5,643.3 L200.7,644.4 L200.8,648.6 L199.3,651.7 L196.5,653.5 L192.5,653.7 L189.6,651.7 L185.5,649.5 L176.8,641.4 L173.6,637.4 L176.6,635.6 L180.1,634.5 L179.9,632.7 L182.5,631.1 L183.3,629.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-51</iso_3166_2>
-    <hasc>VN.TV</hasc>
-    <alt-name>Tra Vinh</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347750</woe-id>
-    <longitude>106.289</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Trà Vinh</woe-name>
-    <fips>VM51</fips>
-    <latitude>9.82817</latitude>
-    <woe-label>Tra Vinh, VN, Vietnam</woe-label>
-    <postal-code>TV</postal-code>
-    <type>T?nh</type>
-    <name>Trà Vinh</name>
-    <hc-key>vn-tv</hc-key>
-    <hc-a2>TV</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.CB" d="M150.3,12.6 L151.6,14.7 L157.1,15.2 L159.9,17.0 L164.3,21.7 L165.7,20.5 L168.3,20.6 L170.6,18.3 L174.1,18.1 L178.1,18.7 L179.5,19.6 L181.0,23.5 L184.6,24.0 L190.8,22.3 L192.1,20.5 L196.2,21.9 L197.5,23.9 L200.0,23.2 L202.8,26.3 L205.4,26.5 L205.5,27.6 L203.5,29.0 L203.1,31.3 L201.4,34.4 L200.7,36.8 L199.2,37.3 L197.5,35.4 L195.8,37.1 L194.3,45.2 L192.7,46.2 L188.4,46.5 L183.4,43.5 L180.8,43.9 L179.3,45.2 L176.9,44.0 L176.7,41.7 L175.6,39.4 L174.4,38.8 L170.7,39.6 L166.9,41.8 L163.9,41.8 L162.7,40.6 L160.3,34.7 L161.0,31.1 L158.7,30.3 L155.3,32.5 L151.8,36.6 L149.7,33.2 L148.3,30.1 L146.7,28.0 L140.1,24.2 L140.1,23.2 L142.6,21.4 L145.8,17.3 L147.8,17.2 L148.6,16.1 L149.2,13.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-04</iso_3166_2>
-    <hasc>VN.CB</hasc>
-    <alt-name>Cao Bang</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347704</woe-id>
-    <longitude>106.047</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Cao B?ng</woe-name>
-    <fips>VM05</fips>
-    <latitude>22.7595</latitude>
-    <woe-label>Cao Bang, VN, Vietnam</woe-label>
-    <postal-code>CB</postal-code>
-    <type>T?nh</type>
-    <name>Cao B?ng</name>
-    <hc-key>vn-cb</hc-key>
-    <hc-a2>CB</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.KG" d="M80.5,630.7 L79.2,624.6 L77.1,619.5 L73.4,616.9 L72.8,614.5 L76.9,614.8 L80.3,610.8 L83.9,614.6 L84.0,620.4 L82.2,625.0 L81.6,627.6 L82.4,628.9 L82.4,631.8 Z M119.1,654.2 L120.1,644.6 L121.8,639.2 L125.4,639.1 L126.5,637.5 L130.4,634.9 L132.2,639.0 L131.9,634.4 L130.9,632.4 L127.0,627.8 L125.1,627.2 L122.2,627.6 L120.7,626.7 L117.7,622.4 L116.2,621.5 L113.1,621.7 L110.5,625.4 L108.5,624.9 L107.6,619.9 L105.1,617.5 L103.4,614.7 L104.8,613.3 L101.3,614.2 L101.2,612.3 L103.2,612.0 L106.0,607.7 L109.3,607.0 L113.9,607.5 L121.6,614.1 L138.1,622.8 L142.0,625.5 L146.6,630.1 L151.2,634.4 L151.6,636.5 L150.5,640.0 L145.1,645.1 L143.8,647.1 L145.3,649.1 L145.2,651.7 L141.2,650.8 L140.6,651.7 L141.4,655.1 L140.1,657.2 L140.9,659.4 L140.0,660.3 L138.1,659.8 L128.0,654.5 L125.4,654.4 L120.9,655.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-47</iso_3166_2>
-    <hasc>VN.KG</hasc>
-    <alt-name>Kien Giang</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>??ng b?ng sông C?u Long</region>
-    <woe-id>2347723</woe-id>
-    <longitude>105.284</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Kiên Giang</woe-name>
-    <fips>VM21</fips>
-    <latitude>9.85962</latitude>
-    <woe-label>Kien Giang, VN, Vietnam</woe-label>
-    <postal-code>KG</postal-code>
-    <type>T?nh</type>
-    <name>Kiên Giang</name>
-    <hc-key>vn-kg</hc-key>
-    <hc-a2>KG</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.LO" d="M63.1,33.6 L62.9,31.6 L65.0,28.0 L67.5,26.6 L70.9,30.5 L73.9,33.2 L77.0,37.2 L78.3,37.5 L79.2,39.2 L81.1,40.5 L82.2,39.6 L82.3,37.5 L83.2,34.7 L84.0,30.5 L86.2,27.5 L92.3,25.5 L93.5,25.6 L93.0,27.5 L93.9,30.1 L97.9,32.1 L98.8,31.8 L99.7,33.3 L101.5,33.8 L103.7,36.5 L102.2,38.4 L104.1,45.4 L107.0,47.1 L109.0,48.9 L108.9,53.3 L110.5,52.4 L111.2,56.5 L109.6,57.3 L107.2,60.1 L103.7,57.8 L100.3,58.2 L99.5,59.9 L102.2,65.1 L101.9,67.7 L100.1,69.4 L98.2,69.0 L92.9,66.5 L91.8,69.7 L88.5,68.6 L85.7,68.2 L82.0,65.7 L78.8,71.4 L80.5,74.3 L79.3,77.8 L77.2,78.2 L75.3,77.1 L69.9,71.0 L67.2,64.2 L65.3,62.4 L63.7,62.8 L64.5,58.8 L66.1,55.9 L69.5,54.2 L72.7,50.8 L74.1,47.3 L71.7,44.6 L67.6,44.6 L64.7,43.0 L64.3,41.5 L65.7,39.9 L65.4,37.0 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-02</iso_3166_2>
-    <hasc>VN.LO</hasc>
-    <alt-name>Lao Cai</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347740</woe-id>
-    <longitude>104.096</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Lào Cai</woe-name>
-    <fips>VM56</fips>
-    <latitude>22.3559</latitude>
-    <woe-label>Lao Cai, VN, Vietnam</woe-label>
-    <postal-code>LO</postal-code>
-    <type>T?nh</type>
-    <name>Lào Cai</name>
-    <hc-key>vn-lo</hc-key>
-    <hc-a2>LO</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.DB" d="M47.9,119.8 L44.4,118.8 L43.0,117.7 L41.0,114.7 L38.6,109.5 L35.8,108.1 L34.3,103.9 L33.1,103.5 L33.1,100.6 L31.5,99.4 L29.3,99.2 L30.5,97.8 L32.6,96.9 L33.0,93.0 L34.5,90.6 L34.0,89.9 L31.5,91.2 L33.6,87.9 L37.2,84.2 L36.6,81.4 L36.7,78.2 L36.1,76.5 L32.4,77.9 L31.1,77.4 L30.8,72.4 L29.1,72.5 L29.0,76.3 L27.4,79.0 L26.0,79.9 L22.9,80.1 L22.0,76.7 L22.3,73.9 L20.4,68.5 L19.1,67.3 L15.5,65.7 L15.0,63.9 L15.7,62.7 L13.1,60.7 L11.7,58.1 L7.2,54.1 L4.6,52.7 L1.5,49.1 L0.0,44.6 L2.0,43.3 L4.4,44.1 L6.0,40.1 L9.2,36.9 L11.6,36.4 L15.1,37.1 L17.3,36.9 L19.9,39.0 L23.2,43.2 L25.7,44.3 L29.0,46.9 L30.7,49.9 L31.0,52.9 L31.9,54.3 L34.7,54.4 L35.2,56.7 L36.5,57.6 L40.4,57.1 L42.9,58.3 L44.8,60.1 L46.4,60.0 L50.3,61.9 L50.4,60.4 L52.9,57.2 L54.6,56.8 L56.3,57.8 L57.0,60.4 L58.8,62.8 L58.9,64.8 L60.5,65.9 L62.8,69.7 L63.0,76.0 L63.6,79.8 L63.2,82.8 L61.6,85.1 L58.9,87.7 L57.5,90.6 L54.9,92.4 L56.0,95.9 L57.6,97.2 L58.1,99.0 L57.6,102.2 L56.8,104.1 L57.4,108.2 L54.9,109.1 L52.2,107.8 L50.7,108.3 L50.9,110.4 L48.8,113.3 L48.0,116.7 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-71</iso_3166_2>
-    <hasc>VN.DB</hasc>
-    <alt-name>Dien Bien</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>Tây B?c</region>
-    <woe-id>28301718</woe-id>
-    <longitude>103.226</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>?i?n Biên</woe-name>
-    <fips>VM22</fips>
-    <latitude>21.7487</latitude>
-    <woe-label>Dien Bien, VN, Vietnam</woe-label>
-    <postal-code>DB</postal-code>
-    <type>T?nh</type>
-    <name>?i?n Biên</name>
-    <hc-key>vn-db</hc-key>
-    <hc-a2>DB</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.LS" d="M194.3,45.2 L195.3,48.6 L198.1,49.0 L199.1,50.2 L200.1,53.7 L199.1,55.2 L200.6,59.9 L199.6,64.5 L200.8,66.0 L202.9,63.9 L205.5,65.4 L209.2,65.7 L211.7,68.1 L213.9,67.1 L215.6,67.5 L216.1,69.2 L214.6,71.4 L215.4,73.0 L218.2,73.7 L222.9,77.5 L224.7,77.9 L227.4,77.2 L228.7,78.6 L230.1,82.2 L226.1,85.0 L225.4,86.3 L226.4,88.2 L226.2,90.6 L225.0,92.0 L221.2,93.8 L218.4,94.3 L216.6,93.6 L215.3,90.3 L212.0,90.4 L209.1,85.9 L208.3,83.4 L207.0,83.5 L204.2,85.6 L201.3,83.3 L199.0,82.8 L195.9,83.9 L194.2,85.9 L192.9,89.4 L191.5,91.3 L188.8,92.2 L186.8,91.7 L184.1,89.1 L178.5,87.3 L178.5,84.8 L180.3,81.9 L182.4,79.7 L182.3,78.9 L179.1,74.6 L177.3,73.7 L176.2,69.3 L176.0,66.9 L176.2,62.8 L176.8,61.2 L179.3,59.2 L181.5,55.1 L182.3,52.0 L180.6,49.3 L179.3,45.2 L180.8,43.9 L183.4,43.5 L188.4,46.5 L192.7,46.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-09</iso_3166_2>
-    <hasc>VN.LS</hasc>
-    <alt-name>Lang Son</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347718</woe-id>
-    <longitude>106.724</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>L?ng S?n</woe-name>
-    <fips>VM39</fips>
-    <latitude>21.7826</latitude>
-    <woe-label>Lang Son, VN, Vietnam</woe-label>
-    <postal-code>LS</postal-code>
-    <type>T?nh</type>
-    <name>L?ng S?n</name>
-    <hc-key>vn-ls</hc-key>
-    <hc-a2>LS</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.TH" d="M173.1,159.4 L169.6,162.7 L169.7,165.1 L168.7,166.4 L168.4,168.9 L165.7,169.9 L168.4,169.6 L167.0,172.4 L165.7,172.4 L163.9,176.1 L163.1,184.7 L162.0,187.9 L163.3,192.0 L163.1,193.5 L161.1,192.6 L158.3,192.2 L155.2,189.4 L153.2,188.2 L150.8,185.1 L149.6,184.3 L146.4,184.4 L144.8,183.7 L142.8,181.0 L141.1,180.8 L139.0,182.0 L138.6,177.3 L135.4,174.1 L133.4,170.7 L132.9,168.2 L134.9,164.4 L133.6,163.3 L129.7,162.1 L127.5,160.7 L124.4,159.7 L124.3,156.1 L124.9,154.9 L122.6,152.9 L122.7,151.0 L118.8,148.8 L113.0,150.0 L111.5,149.2 L111.5,146.0 L112.6,145.7 L112.6,143.1 L109.5,141.4 L107.9,139.7 L101.5,139.8 L98.3,138.4 L98.6,137.5 L101.2,135.8 L102.1,134.0 L104.4,135.0 L106.5,133.9 L109.3,130.0 L109.7,128.9 L110.9,128.9 L114.7,131.6 L116.9,132.1 L119.8,129.7 L124.1,131.3 L129.8,132.1 L133.0,131.3 L134.2,132.0 L136.3,134.7 L140.6,137.7 L147.2,141.0 L151.1,141.9 L160.6,149.9 L165.4,152.8 L167.9,153.6 L170.8,155.5 L173.8,156.0 L174.7,157.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-21</iso_3166_2>
-    <hasc>VN.TH</hasc>
-    <alt-name>Thanh Hoa</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>B?c Trung B?</region>
-    <woe-id>2347715</woe-id>
-    <longitude>105.215</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Thanh Hóa</woe-name>
-    <fips>VM34</fips>
-    <latitude>20.0917</latitude>
-    <woe-label>Thanh Hoa, VN, Vietnam</woe-label>
-    <postal-code>TH</postal-code>
-    <type>T?nh</type>
-    <name>Thanh Hóa</name>
-    <hc-key>vn-th</hc-key>
-    <hc-a2>TH</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.307" d="M151.5,66.9 L150.9,64.8 L149.3,62.0 L148.4,57.3 L148.6,51.9 L149.7,48.5 L152.7,44.3 L153.6,42.4 L153.5,40.1 L151.8,36.6 L155.3,32.5 L158.7,30.3 L161.0,31.1 L160.3,34.7 L162.7,40.6 L163.9,41.8 L166.9,41.8 L170.7,39.6 L174.4,38.8 L175.6,39.4 L176.7,41.7 L176.9,44.0 L179.3,45.2 L180.6,49.3 L182.3,52.0 L181.5,55.1 L179.3,59.2 L176.8,61.2 L176.2,62.8 L176.0,66.9 L172.2,68.2 L171.1,69.8 L166.6,72.8 L163.9,73.3 L162.2,74.6 L161.2,70.2 L161.0,65.6 L158.5,63.1 L154.5,64.1 L152.6,66.6 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>North East</alt-name>
-    <country>Vietnam</country>
-    <type-en>Region</type-en>
-    <region>NULL</region>
-    <woe-id>20070084</woe-id>
-    <longitude>105.874</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>?ông B?c</woe-name>
-    <fips>VM72</fips>
-    <latitude>22.1476</latitude>
-    <woe-label>Bac Kan, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>Region</type>
-    <name>?ông B?c</name>
-    <hc-key>vn-307</hc-key>
-    <hc-a2>?B</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.TQ" d="M151.8,36.6 L153.5,40.1 L153.6,42.4 L152.7,44.3 L149.7,48.5 L148.6,51.9 L148.4,57.3 L149.3,62.0 L150.9,64.8 L151.5,66.9 L150.4,70.9 L149.8,80.1 L150.0,83.2 L152.4,86.2 L150.7,87.3 L147.2,88.4 L144.2,88.5 L140.9,87.6 L137.2,82.7 L134.6,80.4 L131.8,78.7 L130.6,76.5 L131.3,74.3 L130.2,72.3 L126.7,68.3 L126.8,65.9 L126.1,64.3 L121.7,60.4 L120.2,56.6 L123.7,52.0 L124.2,48.9 L125.0,47.9 L127.8,48.4 L129.0,47.8 L130.5,42.9 L132.8,39.8 L134.3,34.5 L135.5,34.0 L141.9,36.2 L148.8,37.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-07</iso_3166_2>
-    <hasc>VN.TQ</hasc>
-    <alt-name>Tuyen Quang</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông B?c</region>
-    <woe-id>2347751</woe-id>
-    <longitude>105.229</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Tuyên Quang</woe-name>
-    <fips>VM68</fips>
-    <latitude>22.131</latitude>
-    <woe-label>Tuyen Quang, VN, Vietnam</woe-label>
-    <postal-code>TQ</postal-code>
-    <type>T?nh</type>
-    <name>Tuyên Quang</name>
-    <hc-key>vn-tq</hc-key>
-    <hc-a2>TQ</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.BI" d="M195.1,558.6 L197.5,560.7 L197.8,561.8 L201.5,563.5 L202.4,564.3 L202.1,566.8 L203.7,569.7 L205.6,567.8 L207.1,568.3 L207.0,570.2 L209.8,568.8 L211.4,569.1 L217.1,571.1 L218.5,571.2 L217.1,574.5 L219.0,578.8 L218.1,581.6 L216.2,583.2 L214.6,583.4 L212.2,582.0 L210.2,583.5 L210.4,585.6 L212.5,588.6 L212.6,590.0 L210.9,589.7 L207.9,590.6 L206.9,590.3 L202.5,584.2 L200.4,582.4 L197.5,578.3 L193.6,578.9 L193.2,577.4 L191.3,575.5 L189.7,571.9 L189.5,568.5 L191.2,564.1 L193.6,561.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-57</iso_3166_2>
-    <hasc>VN.BI</hasc>
-    <alt-name>Binh Duong</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>?ông Nam B?</region>
-    <woe-id>20070078</woe-id>
-    <longitude>106.659</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Bình D??ng</woe-name>
-    <fips>VM75</fips>
-    <latitude>11.1382</latitude>
-    <woe-label>Bin Duong, VN, Vietnam</woe-label>
-    <postal-code>BI</postal-code>
-    <type>T?nh</type>
-    <name>Bình D??ng</name>
-    <hc-key>vn-bi</hc-key>
-    <hc-a2>BI</hc-a2>
-  </desc>
-</path>
-
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VN.333" d="M138.1,622.8 L139.3,621.1 L142.4,619.3 L144.1,621.1 L147.0,619.3 L149.0,619.2 L150.0,616.4 L151.8,613.1 L154.1,611.1 L156.4,612.4 L159.6,612.9 L164.3,617.0 L166.6,617.9 L168.1,620.7 L169.5,621.7 L169.4,624.0 L166.7,625.6 L162.8,624.5 L161.4,623.5 L159.8,624.3 L159.3,626.3 L156.4,627.4 L151.4,628.4 L146.6,630.1 L142.0,625.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <labelrank>7</labelrank>
-    <iso_3166_2>VN-CT</iso_3166_2>
-    <hasc>VN.</hasc>
-    <alt-name>NULL</alt-name>
-    <country>Vietnam</country>
-    <type-en>Province</type-en>
-    <region>NULL</region>
-    <woe-id>2347732</woe-id>
-    <longitude>105.685</longitude>
-    <subregion>NULL</subregion>
-    <woe-name>Can Tho</woe-name>
-    <fips>NULL</fips>
-    <latitude>10.2421</latitude>
-    <woe-label>Can Tho, VN, Vietnam</woe-label>
-    <postal-code>NULL</postal-code>
-    <type>T?nh</type>
-    <name>Can Tho</name>
-    <hc-key>vn-333</hc-key>
-    <hc-a2>CT</hc-a2>
-  </desc>
-</path>
-</g>
-
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth</text>
-
+<svg version="1.1" viewBox="-5 -5 710 730" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <desc>
+    Map version: 2.3.2
+    Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
+  </desc>
+  <title>Vietnam</title>
+  <g id="admin1" stroke-width="0.72" fill="#D4E6F8" stroke="#666">
+    <path id="vn-qn" d="M205.4,118.8 207.2,120.6 206.1,120.5 204.6,118.1 205.4,118.8 M231.2,116.5 232.8,116.5 233.1,117.5 231.9,117.9 231.2,116.5 M208.7,117.2 210.8,121.2 209,121.1 207.8,119 205.6,118.3 206.2,114.8 208,115.5 208.7,117.2 M237.1,119.9 236.7,116.6 238.8,116.1 240.2,113.2 240,114.9 237.1,119.9 M205.2,112.5 205.1,114.1 202.1,113.4 202.1,112.3 205.2,112.5 M251,111.3 248.6,113.9 249.5,111.7 248.8,110 251,111.3 M239.4,109.2 240.5,109.4 239.3,113.4 237.9,115.1 233.4,116.1 237.6,112.8 238.1,110.1 239.4,109.2 M241.5,105.5 241.1,107.1 238.9,108.3 240.3,105.7 241.5,105.5 M241.9,110.6 240.9,110.3 241.9,107.2 243.7,105.7 241.9,110.6 M251.4,94.5 247.1,96.4 247.7,95.6 250.3,94 251.4,94.5 M259.7,91.9 252.8,94.3 254,92.4 259.7,91.6 259.7,91.9 M200.2,110.8 199.9,110.8 198.2,110.4 196.9,109.7 192.5,109.2 191,108.6 190.8,107 193.2,105.5 195.4,102.5 205,103.9 207.8,103.8 214,102.1 215,99.5 215.5,96.5 218.4,94.3 221.2,93.8 225,92.1 226.2,90.6 226.3,88.3 225.4,86.3 226.1,85 230.1,82.2 230.8,82.8 233.5,80.6 235.1,80.5 235.8,82.9 237.9,83.5 239,82.3 242.5,82.3 245.9,81.4 248.3,79.8 252.2,80.6 253.2,82.4 259.4,87.7 256.6,89.8 256.1,86.3 253.6,85.7 253,87.5 251.8,87.5 250.1,86.1 250.3,89.2 249.5,89.4 248.6,91.5 243.7,92.8 244,94.8 242.5,95.2 242.1,96.9 240.5,97 239.2,94.7 237.9,97 233.9,95.6 235.2,97.2 231.9,98.3 231.4,102.1 232.8,102.5 232.3,105.7 231.4,107.3 232.3,109.9 230.6,111 226.6,111.2 224.3,113.5 222.4,114.6 218.7,113 219.9,111.4 222.3,109.7 221.2,109.6 218.3,110.7 216.8,109.8 217.5,111.4 216.5,113.4 213.4,113.6 210.1,111.6 209.2,111.9 212.3,114.4 213.2,116 210.8,115.7 209.9,117 208.3,114.5 207.2,114.7 205.6,113.5 207.6,113 206.2,110.9 203.7,110.1 203.2,111.3 200.2,110.8 M213.5,117.6 215.5,118.5 216.8,117.9 217.7,119.4 219.7,119.8 220.1,121.4 217.5,122.5 218.9,123.2 217.9,125.4 215.7,123.1 215.2,123.5 211.8,120.1 213.5,117.6 M235.4,101.1 235.6,98.3 236.3,98.1 238.8,100.1 239.1,101.5 242.4,100.6 239.9,103.7 238.9,103.5 236.6,106.6 233,108.9 232.3,108.4 233.5,105.2 234.2,101.9 235.4,101.1Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-qn</hc-key>
+      <hc-a2>QN</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-13</iso_3166_2>
+      <hasc>VN.QN</hasc>
+      <alt-name>Quang Ninh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347712</woe-id>
+      <longitude>107.181</longitude>
+      <subregion>null</subregion>
+      <woe-name>Quảng Ninh</woe-name>
+      <fips>VM13</fips>
+      <latitude>21.223</latitude>
+      <woe-label>Quang Ninh, VN, Vietnam</woe-label>
+      <postal-code>QN</postal-code>
+      <type>Tỉnh</type>
+      <name>Quảng Ninh</name>
+    </desc>
+    </path>
+    <path id="vn-kh" d="M328.3,525.5 329.3,526.5 326.5,527.2 324.5,525.3 325.7,525 328.3,525.5 M331.6,509 330.6,509.4 327.2,507 327.6,506.3 330.5,506.5 331.6,509 M330.5,496.5 330.1,499.2 332.3,503.2 334.6,504.8 333.7,505.7 333.7,508.9 332.8,508.7 331.5,506.2 332.5,505 331.4,503.4 330.2,504.1 330.2,505.7 328.6,504.8 330.6,502.7 329.5,498.5 326.8,500.5 322.3,505.5 322.3,510.1 323.5,508.1 324.3,508.4 323.6,510.5 324.4,512 326.7,513.4 326.8,515.7 329,517.3 326.8,519.4 322.9,515.3 321.4,514.4 319.8,515.3 321.1,517.2 322.5,517.8 322.9,520.4 324.2,521.7 323.2,522.1 322.5,525.1 323.5,526.6 322.8,527.4 323.6,529.6 322.9,530.5 323.1,532.9 324.8,536.3 326.6,537.6 325.6,539.6 326.2,542.5 323.7,541.9 323.3,540.5 323.4,535.4 321.3,530.1 320.7,530.9 321.4,533.7 323,535.9 322.5,538.6 320.5,541 319.6,541.1 319.4,544.3 320.9,544.5 322.5,542.3 322.8,546.2 318.6,545.8 317.3,544.8 316.3,542.3 314.8,540.6 308.8,539.4 307.5,538.5 304.2,530.5 302.7,529 299.9,527.9 299.3,523.7 298.1,522.1 297.4,519 297.3,515.3 297.7,513.8 302.4,512.9 305.2,514.1 306.1,513.4 307.2,509.5 306.9,507.5 308.3,504.1 311.3,503.4 314.3,500.6 317.4,499.6 319.7,497 321.7,496 327.5,495.6 330.5,496.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-kh</hc-key>
+      <hc-a2>KH</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-34</iso_3166_2>
+      <hasc>VN.KH</hasc>
+      <alt-name>Khanh Hoa</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>South Central Coast</region>
+      <woe-id>2347738</woe-id>
+      <longitude>109.359</longitude>
+      <subregion>null</subregion>
+      <woe-name>Khánh Hòa</woe-name>
+      <fips>VM54</fips>
+      <latitude>12.6049</latitude>
+      <woe-label>Khanh Hoa, VN, Vietnam</woe-label>
+      <postal-code>KH</postal-code>
+      <type>Tỉnh</type>
+      <name>Khánh Hòa</name>
+    </desc>
+    </path>
+    <path id="vn-tg" d="M208.3,621.2 206,620.1 199.9,619 206.6,619 208.6,619.5 208.3,621.2 M166.6,617.9 166.1,615.9 171.2,609.4 171.9,605.9 176,606.4 178.3,606.2 179.5,604.7 181.4,604.1 186.3,604.3 188.3,605.4 190.3,608.1 194.3,609.7 194.8,612.4 201,612.5 202.5,611.4 204.3,609.6 205,611.5 207,609.9 208.3,609.9 210.5,613.4 210.9,617.5 210,619 206.6,618.3 201.7,618.4 193.4,617.1 189.7,616.1 186.7,617.1 183.2,617.2 181.1,618 178.6,618.1 175.3,617 173.1,617 171.5,618.5 168.9,618.4 166.6,617.9Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-tg</hc-key>
+      <hc-a2>TG</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-46</iso_3166_2>
+      <hasc>VN.TG</hasc>
+      <alt-name>Tien Giang</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347717</woe-id>
+      <longitude>106.217</longitude>
+      <subregion>null</subregion>
+      <woe-name>Tien Giang</woe-name>
+      <fips>VM03</fips>
+      <latitude>10.4581</latitude>
+      <woe-label>Tien Giang, VN, Vietnam</woe-label>
+      <postal-code>TG</postal-code>
+      <type>Tỉnh</type>
+      <name>Tiền Giang</name>
+    </desc>
+    </path>
+    <path id="vn-bv" d="M229.9,611.2 228.3,613.4 226.8,614 224.6,616.6 224.2,613.4 227.7,611.9 228.5,609.9 229.9,611.2 M221.4,607.7 222,606.6 221.5,601.9 225.8,600.4 227.1,599.4 227.4,597.4 231.6,595.4 233.5,595.5 234,598.3 235,599.3 237.2,599.1 241.7,593.9 242.9,594 244.5,596 247.5,602.6 247.9,604.6 245.3,607.5 241.4,609.4 236.1,610.3 233.2,613.9 229.4,612.7 230.6,611.3 228.6,609.3 227.1,609.8 225.2,608.7 221.9,609.5 221.6,608.2 221.4,607.7 M220.5,602.3 221.5,603.4 221,605.3 220,605 220.3,602.4 220.5,602.3Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-bv</hc-key>
+      <hc-a2>BV</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-43</iso_3166_2>
+      <hasc>VN.BV</hasc>
+      <alt-name>Ba Ria - VTau|Ba Ria-Vung Tau</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Southeast</region>
+      <woe-id>2347729</woe-id>
+      <longitude>107.143</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bà Rịa-Vũng Tàu</woe-name>
+      <fips>VM45</fips>
+      <latitude>10.3969</latitude>
+      <woe-label>Ba Ria-Vung Tau, VN, Vietnam</woe-label>
+      <postal-code>BV</postal-code>
+      <type>Tỉnh</type>
+      <name>Bà Rịa-Vũng Tàu</name>
+    </desc>
+    </path>
+    <path id="vn-bu" d="M312.5,606.6 311.3,607.2 310.6,606 311.4,605 312.5,606.6 M247.9,604.6 247.5,602.6 244.5,596 246.6,593.8 247.9,591.5 247.8,588.6 246.3,585.4 245.1,584.4 242.6,584.4 240.4,582.6 244.1,574 246.8,568.9 248.6,567.3 252.5,568.8 255.5,569.4 267.4,569.9 269.4,571.4 269.4,574.2 271.2,573.8 274,570.8 278.6,569.6 282.5,566.6 281.5,563.6 281.7,561.2 284.8,559.2 290.8,559 293.9,560 295.7,557.2 299.3,557.9 300.2,560.8 302.5,562.1 302.9,564.5 307.4,565.4 309.2,568.4 306.9,567.9 303.7,569.5 302.3,571.6 301,575.2 297.6,574.8 293.9,575.4 291,577.4 289.1,581.5 284.3,583 283.2,586.3 281.1,588.2 279.2,586.4 272.1,588.1 270.1,590.5 268.8,595 267.1,598.5 264.2,597.5 261.7,597.7 258.9,598.8 257,600.5 251.6,603.1 247.9,604.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-bu</hc-key>
+      <hc-a2>BU</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-40</iso_3166_2>
+      <hasc>VN.BU</hasc>
+      <alt-name>Binh Thuan</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Southeast</region>
+      <woe-id>2347731</woe-id>
+      <longitude>108.232</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bình Thuận</woe-name>
+      <fips>VM47</fips>
+      <latitude>11.1284</latitude>
+      <woe-label>Binh Thuan, VN, Vietnam</woe-label>
+      <postal-code>BU</postal-code>
+      <type>Tỉnh</type>
+      <name>Bình Thuận</name>
+    </desc>
+    </path>
+    <path id="vn-hc" d="M218,607.9 216.8,611.8 217.5,611.2 219.4,612.8 215.2,614.4 214.6,611.8 215.4,609.9 215.2,608.1 217,607.3 218,607.9 M216.8,604.5 216.8,606.3 215.5,604.6 215.9,607.2 213.7,605.4 214.6,601.9 217.1,603.7 216.8,604.5 M221.6,608.2 220.1,609.2 221.4,607.7 221.6,608.2 M190.5,585.6 193.1,581.7 193.6,578.9 197.5,578.3 200.4,582.4 202.5,584.3 206.8,590.3 207.9,590.6 210.9,589.7 212.6,590 214.8,593.5 214.8,595.9 212.3,595.5 210.5,596.3 208.8,595.4 209,598.6 212.7,600.7 215.4,600.3 218.7,603.3 219.7,605.1 221,607.2 219.2,609.5 217.5,606 217.7,603.5 214.8,601.1 212.4,602.1 209.7,599.5 208.1,600.8 209.7,603.4 208.8,605.2 210.4,603.5 208.8,600.5 209.9,600.5 213.3,602.9 212.9,605.5 214.3,606.9 214.1,608.9 214.6,610.2 212.6,609.6 213.9,611.5 213,612.8 210.7,611.3 209.2,608.9 208.8,605.2 208.5,605.9 208.4,602.8 206.8,601.2 203.8,601.8 202.2,600.4 198.1,598.5 196.7,597.2 198,594.1 198.1,591.8 195.9,588.3 190.5,585.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-hc</hc-key>
+      <hc-a2>HC</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-SG</iso_3166_2>
+      <hasc>VN.HC</hasc>
+      <alt-name>Ho Chi Minh City|Ho Chi Minh</alt-name>
+      <country>Vietnam</country>
+      <type-en>City|Municipality|Thanh Pho</type-en>
+      <region>Southeast</region>
+      <woe-id>2347728</woe-id>
+      <longitude>106.926</longitude>
+      <subregion>null</subregion>
+      <woe-name>Hồ Chí Minh city</woe-name>
+      <fips>VM20</fips>
+      <latitude>10.409</latitude>
+      <woe-label>Ho Chi Minh, VN, Vietnam</woe-label>
+      <postal-code>HC</postal-code>
+      <type>municipality</type>
+      <name>Hồ Chí Minh city</name>
+    </desc>
+    </path>
+    <path id="vn-br" d="M199.2,639.7 198.1,639.7 197,637.9 193.5,635.2 196.5,636.6 199.2,639.7 M179.2,620.8 177.1,619.8 171.5,618.5 173.1,617 175.3,617 178.6,618.1 181.1,618 183.2,617.2 186.7,617.1 189.7,616.1 193.4,617.1 196.1,618.8 207.4,622.5 211,624.5 210.8,626.8 208.3,629.4 206.7,629.7 206.7,628.1 205,630.5 203.9,633.3 201.4,632.9 199.4,631.3 197,630.3 194.5,627.8 190.5,621.6 189.2,620.3 187.4,619.7 190.1,621.9 191,624.7 195.4,630.4 200,633 202.5,634.9 206.4,636.9 205.7,638.8 204.8,637.5 204.6,639.2 202.4,640.6 200.1,639.5 197.4,636.5 192.2,633.3 180.5,621.3 179.2,620.8Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-br</hc-key>
+      <hc-a2>BR</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-50</iso_3166_2>
+      <hasc>VN.BR</hasc>
+      <alt-name>Ben Tre</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347703</woe-id>
+      <longitude>106.496</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bến Tre</woe-name>
+      <fips>VM03</fips>
+      <latitude>10.171</latitude>
+      <woe-label>Ben Tre, VN, Vietnam</woe-label>
+      <postal-code>BR</postal-code>
+      <type>Tỉnh</type>
+      <name>Bến Tre</name>
+    </desc>
+    </path>
+    <path id="vn-st" d="M205.4,691 203.9,691.7 204.7,693.5 202.2,693.7 202.1,695.7 200.2,694.4 202,691.9 204.8,690.3 205.4,691 M178.8,644.1 181,647.3 183.6,650 187.5,651.6 187.1,653.7 185.2,654.1 185.5,652.9 183,650.5 184.4,652.6 183,652.3 179.7,647.6 178.8,644.1 M169.1,636.1 177.2,644 178.1,646.6 183,653.8 183.4,657.7 181.7,659.6 182.8,661.9 174.6,664.5 167.6,667.4 165.9,662.2 164.5,661 159.4,661.3 155,659.7 153.9,657.7 153.5,650.6 158.5,649.2 164,645.7 165.3,645.4 169.1,636.1Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-st</hc-key>
+      <hc-a2>ST</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-52</iso_3166_2>
+      <hasc>VN.ST</hasc>
+      <alt-name>Soc Trang</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347748</woe-id>
+      <longitude>105.9</longitude>
+      <subregion>null</subregion>
+      <woe-name>Sóc Trăng</woe-name>
+      <fips>VM65</fips>
+      <latitude>9.561400000000001</latitude>
+      <woe-label>Soc Trang, VN, Vietnam</woe-label>
+      <postal-code>ST</postal-code>
+      <type>Tỉnh</type>
+      <name>Sóc Trăng</name>
+    </desc>
+    </path>
+    <path id="vn-pt" d="M119.2,96.4 122.2,94.7 123.3,93.2 121.9,87.2 122,85.2 123.4,82.6 126.8,80.7 130.1,79.9 131.8,78.6 134.6,80.4 137.2,82.7 140.9,87.6 142.1,91.4 144.2,92.6 146.8,96.6 147.2,97.7 145.9,98.8 145.2,97.4 142.5,97.7 142.1,100.7 139.5,102.9 140.5,106 139.5,109.4 140.5,111.4 141.5,112.8 141.6,115.8 140,115.9 136.2,114.9 131.9,114.3 128.7,111.5 124.3,109.4 122.8,107.2 121.2,104.9 120.9,100.1 119.2,96.4Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-pt</hc-key>
+      <hc-a2>PT</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-68</iso_3166_2>
+      <hasc>VN.PT</hasc>
+      <alt-name>Phu Tho</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>20070091</woe-id>
+      <longitude>105.143</longitude>
+      <subregion>null</subregion>
+      <woe-name>Phú Thọ</woe-name>
+      <fips>VM83</fips>
+      <latitude>21.3127</latitude>
+      <woe-label>Phu Tho, VN, Vietnam</woe-label>
+      <postal-code>PT</postal-code>
+      <type>Tỉnh</type>
+      <name>Phú Thọ</name>
+    </desc>
+    </path>
+    <path id="vn-yb" d="M131.8,78.6 130.1,79.9 126.8,80.7 123.4,82.6 122,85.2 121.9,87.2 123.3,93.2 122.2,94.7 119.2,96.4 117,96.1 115.7,93.8 113.1,93.9 109.3,92.4 107.3,92.8 104.3,94.6 102.3,94.5 98.3,92.2 97.1,90.9 96.3,88.5 96.6,85.2 98.1,80.2 96.2,78.3 92.9,80.2 90.1,80.7 83.4,79.4 79.3,77.7 80.5,74.3 78.8,71.4 82,65.7 85.7,68.3 88.5,68.6 91.7,69.7 93,66.5 98.2,69 100.1,69.4 101.9,67.7 102.1,65.2 99.5,59.9 100.3,58.2 103.7,57.8 107.2,60.1 109.6,57.4 111.2,56.5 110.5,52.5 113.2,52.1 116.7,56.1 120.1,56.6 121.7,60.5 126.1,64.3 126.8,65.9 126.7,68.3 130.2,72.3 131.3,74.3 130.6,76.5 131.8,78.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-yb</hc-key>
+      <hc-a2>YB</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-06</iso_3166_2>
+      <hasc>VN.YB</hasc>
+      <alt-name>Yen Bai</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347753</woe-id>
+      <longitude>104.512</longitude>
+      <subregion>null</subregion>
+      <woe-name>Yên Bái</woe-name>
+      <fips>VM70</fips>
+      <latitude>21.7484</latitude>
+      <woe-label>Yen Bai, VN, Vietnam</woe-label>
+      <postal-code>YB</postal-code>
+      <type>Tỉnh</type>
+      <name>Yên Bái</name>
+    </desc>
+    </path>
+    <path id="vn-hd" d="M178.1,111.9 181.4,112.5 183.7,112.2 184.9,111.1 185.2,108.4 184.5,105.4 185.9,102.8 188.3,101.2 191.5,100.6 194,101.4 195.4,102.5 193.2,105.5 190.8,107 191,108.6 192.5,109.2 196.9,109.7 198.2,110.4 197.4,113.4 195.2,114.6 195.1,116.9 193.4,118.3 193.9,120.1 195.4,120.9 195.2,121.9 191.9,124.9 189.9,125 182.8,126.1 179.9,123.2 177.5,121.5 176.8,119.7 178.4,115.3 178.1,111.9Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-hd</hc-key>
+      <hc-a2>HD</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-61</iso_3166_2>
+      <hasc>VN.HD</hasc>
+      <alt-name>Hai Duong</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Red River Delta</region>
+      <woe-id>20070080</woe-id>
+      <longitude>106.364</longitude>
+      <subregion>null</subregion>
+      <woe-name>Hải Dương</woe-name>
+      <fips>VM79</fips>
+      <latitude>20.9613</latitude>
+      <woe-label>Hai Duong, VN, Vietnam</woe-label>
+      <postal-code>HD</postal-code>
+      <type>Tỉnh</type>
+      <name>Hải Dương</name>
+    </desc>
+    </path>
+    <path id="vn-bn" d="M184.5,105.4 185.2,108.4 184.9,111.1 183.7,112.2 181.4,112.5 178.1,111.9 174.7,111.7 171.5,112.3 171.7,109.7 168.1,105.8 167.5,102.8 168.8,100.1 172.5,101.8 180.7,103.2 184.5,105.4Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-bn</hc-key>
+      <hc-a2>BN</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-56</iso_3166_2>
+      <hasc>VN.BN</hasc>
+      <alt-name>Bac Ninh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Red River Delta</region>
+      <woe-id>20070088</woe-id>
+      <longitude>106.117</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bắc Ninh</woe-name>
+      <fips>VM74</fips>
+      <latitude>21.098</latitude>
+      <woe-label>Bac Ninh, VN, Vietnam</woe-label>
+      <postal-code>BN</postal-code>
+      <type>Tỉnh</type>
+      <name>Bắc Ninh</name>
+    </desc>
+    </path>
+    <path id="vn-317" d="M171.5,112.3 174.7,111.7 178.1,111.9 178.4,115.3 176.8,119.7 177.5,121.5 179.9,123.2 182.8,126.1 180.6,127.5 177.5,127.5 176.4,129.2 174.1,129.9 172.8,128.3 172.7,125.6 171.7,125.4 169.9,124.5 169.4,121.9 167.8,121.3 167.4,119.4 167.9,117.2 166.7,116.3 167.4,113.5 171.5,112.3Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-317</hc-key>
+      <hc-a2>HY</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>Hung Yen</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>null</region>
+      <woe-id>20070079</woe-id>
+      <longitude>106.076</longitude>
+      <subregion>null</subregion>
+      <woe-name>Hung Yen</woe-name>
+      <fips>VM81</fips>
+      <latitude>20.8085</latitude>
+      <woe-label>Hung Yen, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Region</type>
+      <name>Hung Yen</name>
+    </desc>
+    </path>
+    <path id="vn-nb" d="M176.6,157.5 175.3,160.8 173.1,159.4 174.7,157.5 173.8,156 170.8,155.5 167.9,153.5 165.4,152.8 160.6,149.9 151,141.9 151.9,141 153.7,141.4 156.1,143.4 157.9,144.1 158.8,143.4 158.3,139.9 161.2,138.3 164.4,139.4 167.1,142 169.3,143.2 169.9,145.8 174.1,147.8 175.7,147.2 178.5,148.8 178.3,153.1 176.6,157.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-nb</hc-key>
+      <hc-a2>NB</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-18</iso_3166_2>
+      <hasc>VN.NB</hasc>
+      <alt-name>Ninh Binh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Red River Delta</region>
+      <woe-id>2347743</woe-id>
+      <longitude>105.852</longitude>
+      <subregion>null</subregion>
+      <woe-name>Ninh Bình</woe-name>
+      <fips>VM59</fips>
+      <latitude>20.2722</latitude>
+      <woe-label>Ninh Binh, VN, Vietnam</woe-label>
+      <postal-code>NB</postal-code>
+      <type>Tỉnh</type>
+      <name>Ninh Bình</name>
+    </desc>
+    </path>
+    <path id="vn-hm" d="M169.3,143.2 167.1,142 164.4,139.4 162.9,135.9 161.9,132.3 163.2,128.6 167.9,127.1 170.8,126.6 171.7,125.4 172.7,125.6 172.8,128.3 174.1,129.9 176.4,129.2 177.5,131.9 178.9,133.2 179.7,135.9 174.6,136.3 172.6,139.6 170.1,139.4 169.4,140.6 169.3,143.2Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-hm</hc-key>
+      <hc-a2>HM</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-63</iso_3166_2>
+      <hasc>VN.HM</hasc>
+      <alt-name>Ha Nam</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Red River Delta</region>
+      <woe-id>2347741</woe-id>
+      <longitude>105.985</longitude>
+      <subregion>null</subregion>
+      <woe-name>Hà Nam</woe-name>
+      <fips>VM80</fips>
+      <latitude>20.5569</latitude>
+      <woe-label>Ha Nam, VN, Vietnam</woe-label>
+      <postal-code>HM</postal-code>
+      <type>Tỉnh</type>
+      <name>Hà Nam</name>
+    </desc>
+    </path>
+    <path id="vn-ho" d="M161.9,132.3 162.9,135.9 164.4,139.4 161.2,138.3 158.3,139.9 158.8,143.4 157.9,144.1 156.1,143.4 153.7,141.4 151.9,141 151,141.9 147.2,141 140.6,137.7 136.3,134.8 134.2,132 133,131.4 129.8,132.1 124.1,131.4 119.9,129.7 119.7,126.3 120.5,124.8 125.7,124.8 130.3,122.8 130.7,120.8 127.4,118.6 123,113.7 121.5,110.9 121.6,109.1 122.8,107.2 124.3,109.4 128.7,111.5 131.9,114.3 136.2,114.9 140,115.9 141.6,115.8 141.5,112.8 140.5,111.4 143.5,110.9 147.5,111.4 149.3,112.5 150.5,115.9 149.4,119.2 150.5,120.7 154.1,123.2 157.1,129 160.5,130.8 161.9,132.3Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-ho</hc-key>
+      <hc-a2>HO</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-14</iso_3166_2>
+      <hasc>VN.HO</hasc>
+      <alt-name>Hoa Binh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northwest</region>
+      <woe-id>2347737</woe-id>
+      <longitude>105.34</longitude>
+      <subregion>null</subregion>
+      <woe-name>Hòa Bình</woe-name>
+      <fips>VM56</fips>
+      <latitude>20.7292</latitude>
+      <woe-label>Hoa Binh, VN, Vietnam</woe-label>
+      <postal-code>HO</postal-code>
+      <type>Tỉnh</type>
+      <name>Hòa Bình</name>
+    </desc>
+    </path>
+    <path id="vn-vc" d="M145.9,98.8 147.2,97.7 146.8,96.6 144.2,92.6 142.1,91.4 140.9,87.6 144.3,88.5 147.2,88.5 150.7,87.3 152.4,86.2 155,88.8 159.6,92.1 161.1,94.7 160.8,99.4 161.5,103.4 160.7,106.9 156,104.3 149.7,104 147.1,102.1 145.9,98.8Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-vc</hc-key>
+      <hc-a2>VC</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-70</iso_3166_2>
+      <hasc>VN.VC</hasc>
+      <alt-name>Vinh Phuc</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Red River Delta</region>
+      <woe-id>20070090</woe-id>
+      <longitude>105.549</longitude>
+      <subregion>null</subregion>
+      <woe-name>Vĩnh Phúc</woe-name>
+      <fips>VM86</fips>
+      <latitude>21.3455</latitude>
+      <woe-label>Vinh Phuc, VN, Vietnam</woe-label>
+      <postal-code>VC</postal-code>
+      <type>Tỉnh</type>
+      <name>Vĩnh Phúc</name>
+    </desc>
+    </path>
+    <path id="vn-318" d="M167.7,96.3 168.6,98.2 168.8,100.1 167.5,102.8 168.1,105.8 171.7,109.7 171.5,112.3 167.4,113.5 166.7,116.3 167.9,117.2 167.4,119.4 167.8,121.3 169.4,121.9 169.9,124.5 171.7,125.4 170.8,126.6 167.9,127.1 163.2,128.6 161.9,132.3 160.5,130.8 157.1,129 154.1,123.2 150.5,120.7 149.4,119.2 150.5,115.9 149.3,112.5 147.5,111.4 143.5,110.9 140.5,111.4 139.5,109.4 140.5,106 139.5,102.9 142.1,100.7 142.5,97.7 145.2,97.4 145.9,98.8 147.1,102.1 149.7,104 156,104.3 160.7,106.9 161.5,103.4 160.8,99.4 161.1,94.7 164.5,94.6 167.7,96.3Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-318</hc-key>
+      <hc-a2>HN</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-HN</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>null</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347727</woe-id>
+      <longitude>105.872</longitude>
+      <subregion>null</subregion>
+      <woe-name>Ha Noi</woe-name>
+      <fips>null</fips>
+      <latitude>21.1306</latitude>
+      <woe-label>null</woe-label>
+      <postal-code>null</postal-code>
+      <type>Tỉnh</type>
+      <name>Ha Noi</name>
+    </desc>
+    </path>
+    <path id="vn-bg" d="M168.8,100.1 168.6,98.2 167.7,96.3 169.9,92.5 172,92.3 173.4,91.3 174.3,88 172.8,83 174.1,81.9 177.5,82.4 178.5,84.8 178.5,87.3 184.1,89.2 186.8,91.7 188.8,92.3 191.5,91.3 192.8,89.4 194.3,85.9 195.9,83.9 199,82.8 201.3,83.2 204.2,85.5 207,83.5 208.3,83.4 209.1,85.9 212,90.4 215.3,90.3 216.6,93.6 218.4,94.3 215.5,96.5 215,99.5 214,102.1 207.8,103.8 205,103.9 195.4,102.5 194,101.4 191.5,100.6 188.3,101.2 185.9,102.8 184.5,105.4 180.7,103.2 172.5,101.8 168.8,100.1Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-bg</hc-key>
+      <hc-a2>BG</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-54</iso_3166_2>
+      <hasc>VN.BG</hasc>
+      <alt-name>Bac Giang</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>20070087</woe-id>
+      <longitude>106.493</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bắc Giang</woe-name>
+      <fips>VM71</fips>
+      <latitude>21.3512</latitude>
+      <woe-label>Bac Giang, VN, Vietnam</woe-label>
+      <postal-code>BG</postal-code>
+      <type>Tỉnh</type>
+      <name>Bắc Giang</name>
+    </desc>
+    </path>
+    <path id="vn-tb" d="M179.7,135.9 178.9,133.2 177.5,131.9 176.4,129.2 177.5,127.5 180.6,127.5 182.8,126.1 189.9,125 191.4,129.3 192.3,130.6 195.4,130 197.8,128.3 199.4,129.7 199.1,131 194.5,133.4 196.7,134.1 197.3,136.3 196.5,137.4 197.9,137.7 197,141.5 197.9,145.9 197.5,146.5 196,145.2 196,145.2 194.8,144.1 193.9,144.8 191.6,145.4 187,141.8 183.9,143.5 183.3,142.8 183.6,139.9 181.2,139.5 181,136.6 179.7,135.9Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-tb</hc-key>
+      <hc-a2>TB</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-20</iso_3166_2>
+      <hasc>VN.TB</hasc>
+      <alt-name>Thai Binh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Red River Delta</region>
+      <woe-id>2347716</woe-id>
+      <longitude>106.371</longitude>
+      <subregion>null</subregion>
+      <woe-name>Thái Bình</woe-name>
+      <fips>VM35</fips>
+      <latitude>20.5303</latitude>
+      <woe-label>Thai Binh, VN, Vietnam</woe-label>
+      <postal-code>TB</postal-code>
+      <type>Tỉnh</type>
+      <name>Thái Bình</name>
+    </desc>
+    </path>
+    <path id="vn-ld" d="M234.5,557.7 233.2,554.8 233.4,553.5 235.3,550.5 238.3,548.9 240.7,549.2 243.4,547.9 246.3,547.2 249,545.4 252.7,541.4 254.3,541.5 254.8,543.2 256.6,544.1 260.8,543.4 262.1,544.3 262.6,546.7 264.8,546.5 266.6,547.8 269.4,545.3 270.8,542.6 270.6,539.7 267.5,536.1 265.8,533.7 266.4,530.9 269,529.9 271.9,529.6 274,528.7 277.4,529.4 278.3,527.8 282.1,525.4 286.3,525.1 288.9,522.8 290.4,522.4 294.5,523.7 298.1,522.1 299.3,523.7 299.9,527.9 298.3,530.7 298.8,533.5 298.3,537.7 296.3,544.1 296.8,546.5 298.6,548.7 298.2,550.3 295.2,553.6 295.7,557.2 293.9,560 290.8,559 284.8,559.2 281.7,561.2 281.5,563.6 282.5,566.6 278.6,569.6 274,570.8 271.2,573.8 269.4,574.2 269.4,571.4 267.4,569.9 255.5,569.4 252.5,568.8 248.6,567.3 244.7,565.4 241.1,564.7 241,561.2 238.7,560.5 237.5,557.9 234.5,557.7Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-ld</hc-key>
+      <hc-a2>LD</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-35</iso_3166_2>
+      <hasc>VN.LD</hasc>
+      <alt-name>Lam Dong</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Tây Nguyên</region>
+      <woe-id>2347709</woe-id>
+      <longitude>108</longitude>
+      <subregion>null</subregion>
+      <woe-name>Lâm Đồng</woe-name>
+      <fips>VM23</fips>
+      <latitude>11.5362</latitude>
+      <woe-label>Lam Dong, VN, Vietnam</woe-label>
+      <postal-code>LD</postal-code>
+      <type>Tỉnh</type>
+      <name>Lâm Đồng</name>
+    </desc>
+    </path>
+    <path id="vn-bp" d="M238.3,548.9 235.3,550.5 233.4,553.5 233.2,554.8 234.5,557.7 231,559.5 226.6,561 225,562.1 224.1,565.2 222.3,567.9 218.5,571.2 217,571.2 211.4,569.1 209.8,568.8 207,570.2 207.2,568.3 205.6,567.8 203.7,569.7 202.1,566.8 202.4,564.3 201.5,563.5 197.8,561.8 197.5,560.7 195.1,558.6 196.3,558.2 195.4,553.9 193.7,552.7 192,549.5 193,545.2 193.9,543.9 191.7,538.9 194,538.6 195.5,539.7 196.9,538.7 203.1,539.3 202.8,538.6 206.1,538.8 208.3,534.9 210.8,534.1 216,534.2 218.9,532.7 227,524.1 230.5,522.5 231.4,534.1 232.6,537.4 235.3,539.2 236.7,541 237.4,544.3 238.7,547.3 238.3,548.9Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-bp</hc-key>
+      <hc-a2>BP</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-58</iso_3166_2>
+      <hasc>VN.BP</hasc>
+      <alt-name>Binh Phuoc</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Southeast</region>
+      <woe-id>20070086</woe-id>
+      <longitude>106.897</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bình Phước</woe-name>
+      <fips>VM76</fips>
+      <latitude>11.6805</latitude>
+      <woe-label>Bin Phuoc, VN, Vietnam</woe-label>
+      <postal-code>BP</postal-code>
+      <type>Tỉnh</type>
+      <name>Bình Phước</name>
+    </desc>
+    </path>
+    <path id="vn-py" d="M303.9,462.6 307.9,463.5 311,463.2 315.7,461 319.5,456.9 322.9,455.6 323.9,460 325.7,461.3 325.7,463.5 323.7,460.2 321.7,458.1 323.4,461.7 325.4,464.6 326.6,463.9 326.1,465.9 327.9,466.6 326.9,469 325,468.7 326,466.8 324.3,465.5 322.8,466.8 322.9,470.1 325.2,472 325.9,474.6 324.3,474.6 325.9,477.5 326.8,474.6 327.2,476.4 326.6,482.4 329.6,487.1 334.1,492.6 333.9,495.5 331.9,495 330.5,496.5 327.5,495.6 321.7,496 319.7,497 317.4,499.6 314.3,500.6 311.2,499.4 307.3,498.5 304.1,497.2 299.7,494.1 296.7,489.4 296.8,487.3 299.8,484.1 303.6,481.9 306.5,479 305.4,475.7 305.4,473.1 303.9,468.6 303.9,462.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-py</hc-key>
+      <hc-a2>PY</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-32</iso_3166_2>
+      <hasc>VN.PY</hasc>
+      <alt-name>Phu Yen</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>South Central Coast</region>
+      <woe-id>2347745</woe-id>
+      <longitude>109.064</longitude>
+      <subregion>null</subregion>
+      <woe-name>Phú Yên</woe-name>
+      <fips>VM61</fips>
+      <latitude>13.1647</latitude>
+      <woe-label>Phu Yen, VN, Vietnam</woe-label>
+      <postal-code>PY</postal-code>
+      <type>Tỉnh</type>
+      <name>Phú Yên</name>
+    </desc>
+    </path>
+    <path id="vn-bd" d="M319.5,456.9 315.7,461 311,463.2 307.9,463.5 303.9,462.6 303.7,457.5 303,453.7 301.4,450.2 299.2,447.4 298.4,445 298.6,441.9 295.8,438.1 294.7,434.6 294.6,431.5 296.4,424.1 296.8,420.1 296.6,416.8 295.8,413.5 301.5,410.1 304.8,409.4 310.1,409.7 313.4,409.1 314.7,409.6 315.2,413.7 314.6,414.1 317.3,420 317.3,422.6 318.3,425.4 319.8,426.9 320.8,430.2 320.3,430.9 322.6,435 319.6,433.2 320.1,434.9 322,436.4 323.4,439.7 324.1,445 326,447.2 325.9,452.7 324.4,452.9 324.5,449.6 323.4,446.5 322.6,450.3 323.8,451.9 322.3,453.5 322.9,455.6 319.5,456.9Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-bd</hc-key>
+      <hc-a2>BD</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-31</iso_3166_2>
+      <hasc>VN.BD</hasc>
+      <alt-name>Binh Dinh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>South Central Coast</region>
+      <woe-id>2347730</woe-id>
+      <longitude>108.971</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bình Định</woe-name>
+      <fips>VM46</fips>
+      <latitude>14.1075</latitude>
+      <woe-label>Binh Dinh, VN, Vietnam</woe-label>
+      <postal-code>BD</postal-code>
+      <type>Tỉnh</type>
+      <name>Bình Định</name>
+    </desc>
+    </path>
+    <path id="vn-724" d="M293.5,411.5 295.8,413.5 296.6,416.8 296.8,420.1 296.4,424.1 294.6,431.5 294.7,434.6 295.8,438.1 298.6,441.9 298.4,445 299.2,447.4 301.4,450.2 303,453.7 303.7,457.5 303.9,462.6 303.9,468.6 305.4,473.1 305.4,475.7 306.5,479 303.6,481.9 299.8,484.1 296.8,487.3 296.7,489.4 289.9,487.7 287.9,485.7 286,479.7 284.8,477.4 282.7,475.4 270.8,471.3 267.2,471.4 262.5,473.2 256.6,473.1 251,473.9 245.5,477.4 247.5,472.3 247.7,470.8 247,464.5 243.1,457 239.8,452.8 239.4,448.6 239.9,446.2 243.8,443.5 247.3,440.1 249.5,435.9 252.4,433.5 255.5,432.1 272.3,426.5 277.2,424.1 280.6,421.6 284.1,417.5 284.7,415.2 283.9,412.6 287.8,413 293.5,411.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-724</hc-key>
+      <hc-a2>GL</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-30</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>Gia Lai</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>South Central Coast</region>
+      <woe-id>2347733</woe-id>
+      <longitude>108.156</longitude>
+      <subregion>South Central Coast</subregion>
+      <woe-name>Gia Lai</woe-name>
+      <fips>VM49</fips>
+      <latitude>13.8493</latitude>
+      <woe-label>Gia Lai, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Province</type>
+      <name>Gia Lai</name>
+    </desc>
+    </path>
+    <path id="vn-qg" d="M295.8,413.5 293.5,411.5 291.3,404.7 290.2,402.8 286.3,401.3 284.6,399.6 282.9,396.3 278.4,392.4 279.7,390.6 277.4,386.3 277.9,384.6 280.1,381.2 282.3,379.6 286.9,379.2 295.2,376.3 299.5,375.5 300.5,378.9 301.1,375.5 302.5,373.9 303.1,376.5 305.2,378.3 305.4,380.6 308.4,382.3 306.5,384.3 307,391.5 308.2,395.2 311.5,402.6 314.8,406.9 315.5,409.8 314.7,409.6 313.4,409.1 310.1,409.7 304.8,409.4 301.5,410.1 295.8,413.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-qg</hc-key>
+      <hc-a2>QG</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-29</iso_3166_2>
+      <hasc>VN.QG</hasc>
+      <alt-name>Quang Ngai</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>South Central Coast</region>
+      <woe-id>20070077</woe-id>
+      <longitude>108.686</longitude>
+      <subregion>null</subregion>
+      <woe-name>Quảng Ngãi</woe-name>
+      <fips>VM63</fips>
+      <latitude>14.9971</latitude>
+      <woe-label>Quang Ngai, VN, Vietnam</woe-label>
+      <postal-code>QG</postal-code>
+      <type>Tỉnh</type>
+      <name>Quảng Ngãi</name>
+    </desc>
+    </path>
+    <path id="vn-331" d="M221.5,601.9 221,600.1 220.5,602.3 220.3,602.4 220,602.4 219.7,605.1 218.7,603.3 215.4,600.3 212.7,600.7 209,598.6 208.8,595.4 210.5,596.3 212.3,595.5 214.8,595.9 214.8,593.5 212.6,590 212.5,588.6 210.3,585.6 210.2,583.4 212.2,582.1 214.6,583.4 216.2,583.2 218.1,581.6 219,578.8 217.1,574.5 218.5,571.2 222.3,567.9 224.1,565.2 225,562.1 226.6,561 231,559.5 234.5,557.7 237.5,557.9 238.7,560.5 241,561.2 241.1,564.7 244.7,565.4 248.6,567.3 246.8,568.9 244.1,574 240.4,582.6 242.6,584.4 245.1,584.4 246.3,585.4 247.8,588.6 247.9,591.5 246.6,593.8 244.5,596 242.9,594 241.7,593.9 237.2,599.1 235,599.3 234,598.3 233.5,595.5 231.6,595.4 227.4,597.4 227.1,599.4 225.8,600.4 221.5,601.9Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-331</hc-key>
+      <hc-a2>DN</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>South East</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>null</region>
+      <woe-id>2347721</woe-id>
+      <longitude>107.178</longitude>
+      <subregion>null</subregion>
+      <woe-name>Southeast</woe-name>
+      <fips>VM43</fips>
+      <latitude>11.1258</latitude>
+      <woe-label>Dong Nai, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Region</type>
+      <name>Southeast</name>
+    </desc>
+    </path>
+    <path id="vn-dt" d="M136.6,590.1 138.6,590.5 141,592.3 142.1,592.1 143.5,589.3 146,586.6 149,587.7 151.3,587.2 151.9,588.7 154.5,590.6 157.4,594.1 167.4,603.4 170,605.4 171.9,605.9 171.2,609.4 166.1,615.9 166.6,617.9 164.3,617 159.6,612.9 156.4,612.5 154.1,611 152.6,609.7 150.5,606.8 145.7,604.5 144.5,603.2 144.1,599 141.2,599 138.4,595.4 136.9,592.3 136.6,590.1Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-dt</hc-key>
+      <hc-a2>DT</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-45</iso_3166_2>
+      <hasc>VN.DT</hasc>
+      <alt-name>Dong Thap</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347722</woe-id>
+      <longitude>105.586</longitude>
+      <subregion>null</subregion>
+      <woe-name>Đồng Tháp</woe-name>
+      <fips>VM09</fips>
+      <latitude>10.6644</latitude>
+      <woe-label>Dong Thap, VN, Vietnam</woe-label>
+      <postal-code>DT</postal-code>
+      <type>Tỉnh</type>
+      <name>Đồng Tháp</name>
+    </desc>
+    </path>
+    <path id="vn-la" d="M208.5,605.9 207.9,607.3 203.5,609.4 202.5,611.4 201,612.5 194.8,612.4 194.3,609.7 190.3,608.1 188.3,605.4 186.3,604.3 181.4,604.1 179.5,604.7 178.3,606.2 176,606.4 171.9,605.9 170,605.4 167.4,603.4 157.4,594.1 154.5,590.6 151.9,588.7 151.3,587.2 156.4,586.1 159.4,584.4 162,584.1 165.2,588.6 167.1,592.5 168.9,593 170.4,589.7 174.4,593.4 177,594.5 180.8,595 181.9,595.9 180.6,591.3 179.5,589.1 179.7,586.3 181.5,586.2 183,586.6 186.8,585.5 187.7,583.6 190.5,585.6 195.9,588.3 198.1,591.8 198,594.1 196.7,597.2 198.1,598.5 202.2,600.4 203.8,601.8 206.8,601.2 208.4,602.8 208.5,605.9Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-la</hc-key>
+      <hc-a2>LA</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-41</iso_3166_2>
+      <hasc>VN.LA</hasc>
+      <alt-name>Long An</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347710</woe-id>
+      <longitude>106.134</longitude>
+      <subregion>null</subregion>
+      <woe-name>Long An</woe-name>
+      <fips>VM24</fips>
+      <latitude>10.6869</latitude>
+      <woe-label>Long An, VN, Vietnam</woe-label>
+      <postal-code>LA</postal-code>
+      <type>Tỉnh</type>
+      <name>Long An</name>
+    </desc>
+    </path>
+    <path id="vn-3623" d="M198.2,110.4 199.9,110.8 200.2,110.8 201.4,113.5 204.9,114.5 204.1,117.1 203.2,116.1 202.5,117.1 204.8,119.8 203.6,121.5 206.5,124.3 207.3,126.8 205.5,125.1 204.4,125.9 200.9,126.2 202.7,127.7 200.5,129.1 197.8,128.3 195.4,130 192.3,130.6 191.4,129.3 189.9,125 191.9,124.9 195.2,121.9 195.4,120.9 193.9,120.1 193.4,118.3 195.1,116.9 195.2,114.6 197.4,113.4 198.2,110.4Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-3623</hc-key>
+      <hc-a2>HP</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-HP</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>Hai Phong</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Red River Delta</region>
+      <woe-id>2347707</woe-id>
+      <longitude>106.635</longitude>
+      <subregion>null</subregion>
+      <woe-name>Haiphong</woe-name>
+      <fips>null</fips>
+      <latitude>20.79</latitude>
+      <woe-label>Hai Phong, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Thành</type>
+      <name>Haiphong</name>
+    </desc>
+    </path>
+    <path id="vn-337" d="M166.1,631.9 166.1,633.1 169.1,636.1 165.3,645.4 164,645.7 158.5,649.2 153.5,650.6 148.5,651.7 145.2,651.7 145.3,649.1 143.8,647.2 145,645.1 150.5,640 151.6,636.5 151.2,634.5 146.6,630.1 151.4,628.5 156.4,627.4 159.3,626.3 163.4,629.1 166.1,631.9Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-337</hc-key>
+      <hc-a2>HG</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-73</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>null</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>null</region>
+      <woe-id>28301720</woe-id>
+      <longitude>105.663</longitude>
+      <subregion>null</subregion>
+      <woe-name>Hau Giang</woe-name>
+      <fips>null</fips>
+      <latitude>9.843529999999999</latitude>
+      <woe-label>Hau Giang, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Region</type>
+      <name>Hau Giang</name>
+    </desc>
+    </path>
+    <path id="vn-bl" d="M167.6,667.4 162.5,669.5 152.1,673.4 147.7,677.5 146.8,679.1 145.5,676.7 143.4,676 142.4,674.6 141.4,670.2 140.1,669.7 140.1,668.3 141.7,665.4 140.3,663.8 141.2,661.9 140,660.3 140.8,659.4 140.1,657.2 141.4,655.1 140.6,651.7 141.2,650.8 145.2,651.7 148.5,651.7 153.5,650.6 153.9,657.7 155,659.7 159.4,661.3 164.5,661 165.9,662.2 167.6,667.4Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-bl</hc-key>
+      <hc-a2>BL</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-55</iso_3166_2>
+      <hasc>VN.BL</hasc>
+      <alt-name>Bac Lieu</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>20070081</woe-id>
+      <longitude>105.573</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bắc Liêu</woe-name>
+      <fips>VM73</fips>
+      <latitude>9.339410000000001</latitude>
+      <woe-label>Bac Lieu, VN, Vietnam</woe-label>
+      <postal-code>BL</postal-code>
+      <type>Tỉnh</type>
+      <name>Bắc Liêu</name>
+    </desc>
+    </path>
+    <path id="vn-vl" d="M179.2,620.8 181.5,623.5 182.8,626.4 185.2,628.5 183.4,629.5 182.5,631 179.9,632.7 180.1,634.5 176.6,635.6 173.5,637.4 169.2,633.2 166.1,631.9 163.4,629.1 159.3,626.3 159.8,624.3 161.4,623.5 162.8,624.5 166.6,625.6 169.4,624 169.5,621.7 168.1,620.7 166.6,617.9 168.9,618.4 171.5,618.5 177.1,619.8 179.2,620.8Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-vl</hc-key>
+      <hc-a2>VL</hc-a2>
+      <labelrank>9</labelrank>
+      <iso_3166_2>VN-49</iso_3166_2>
+      <hasc>VN.VL</hasc>
+      <alt-name>Vinh Long</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347752</woe-id>
+      <longitude>105.969</longitude>
+      <subregion>null</subregion>
+      <woe-name>Vĩnh Long</woe-name>
+      <fips>VM50</fips>
+      <latitude>10.1042</latitude>
+      <woe-label>Vinh Long, VN, Vietnam</woe-label>
+      <postal-code>VL</postal-code>
+      <type>Tỉnh</type>
+      <name>Vĩnh Long</name>
+    </desc>
+    </path>
+    <path id="vn-tn" d="M193.7,552.7 195.4,553.9 196.3,558.2 195.1,558.6 193.5,561.4 191.2,564.1 189.5,568.5 189.7,571.9 191.4,575.5 193.2,577.4 193.6,578.9 193.1,581.7 190.5,585.6 187.7,583.6 186.8,585.5 183,586.6 181.5,586.2 182.3,585.9 181,582.3 179.7,580.8 177.6,582.2 176.5,580.5 172.3,575.9 168.8,574.5 168.2,572.2 166.3,571.2 167.5,565.4 166.6,559 164.3,558.1 163.7,557.1 164.4,555.4 166.8,553.6 170.4,554.5 172.6,551.4 174.1,548.4 178.7,549.5 180.6,549.5 184.8,551 186.8,552.9 189.9,552.1 192.7,553.5 193.7,552.7Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-tn</hc-key>
+      <hc-a2>TN</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-37</iso_3166_2>
+      <hasc>VN.TN</hasc>
+      <alt-name>Tay Ninh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Southeast</region>
+      <woe-id>2347714</woe-id>
+      <longitude>106.14</longitude>
+      <subregion>null</subregion>
+      <woe-name>Tây Ninh</woe-name>
+      <fips>VM33</fips>
+      <latitude>11.4121</latitude>
+      <woe-label>Tay Ninh, VN, Vietnam</woe-label>
+      <postal-code>TN</postal-code>
+      <type>Tỉnh</type>
+      <name>Tây Ninh</name>
+    </desc>
+    </path>
+    <path id="vn-ty" d="M167.7,96.3 164.5,94.6 161.1,94.7 159.6,92.1 155,88.8 152.4,86.2 149.9,83.2 149.7,80.1 150.5,70.9 151.5,67 152.6,66.6 154.5,64.1 158.5,63.2 161,65.6 161.2,70.1 162.3,74.6 163.9,73.4 166.6,72.8 171.1,69.8 172.1,68.2 176,66.9 176.2,69.3 177.3,73.7 179,74.6 182.3,78.8 182.4,79.7 180.3,81.9 178.5,84.8 177.5,82.4 174.1,81.9 172.8,83 174.3,88 173.4,91.3 172,92.3 169.9,92.5 167.7,96.3Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-ty</hc-key>
+      <hc-a2>TY</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-69</iso_3166_2>
+      <hasc>VN.TY</hasc>
+      <alt-name>Thai Nguyen</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Ðông Bắc</region>
+      <woe-id>20070083</woe-id>
+      <longitude>105.887</longitude>
+      <subregion>null</subregion>
+      <woe-name>Thái Nguyên</woe-name>
+      <fips>VM85</fips>
+      <latitude>21.5812</latitude>
+      <woe-label>Thai Nguyen, VN, Vietnam</woe-label>
+      <postal-code>TY</postal-code>
+      <type>Tỉnh</type>
+      <name>Thái Nguyên</name>
+    </desc>
+    </path>
+    <path id="vn-li" d="M63.7,62.8 62.5,64.4 62.2,66.1 62.8,69.7 60.5,65.9 59,64.8 58.8,62.8 57,60.5 56.3,57.8 54.6,56.8 53,57.2 50.4,60.4 50.3,61.9 46.5,60 44.8,60.1 42.8,58.3 40.5,57.1 36.5,57.6 35.2,56.6 34.6,54.4 31.9,54.3 31,53 30.7,49.9 29,46.9 25.7,44.3 23.2,43.2 19.9,39 17.3,36.9 15.1,37.1 11.6,36.4 9.2,36.8 11.9,33.9 10.7,32.5 12.4,31.4 14.6,27.5 17.7,28.5 18.6,30.8 20.8,29.9 22,31.1 25.5,32.1 28.1,34.3 30.7,35.2 32.1,36.3 34.2,41 38.4,43.4 40.8,43.2 40.8,41.1 45.2,38.7 44.6,36.8 45.2,35.4 49,33.2 50.1,32.1 52.6,27 54.2,27.2 56.6,29.4 56.8,31.7 58.6,35 61.1,36.8 63.2,33.7 65.4,37 65.7,39.9 64.3,41.5 64.7,43 67.5,44.6 71.7,44.6 74.1,47.3 72.7,50.8 69.5,54.2 66.1,55.9 64.5,58.8 63.7,62.8Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-li</hc-key>
+      <hc-a2>LI</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-01</iso_3166_2>
+      <hasc>VN.LI</hasc>
+      <alt-name>null</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347708</woe-id>
+      <longitude>103.255</longitude>
+      <subregion>null</subregion>
+      <woe-name>Lai Chau</woe-name>
+      <fips>VM89</fips>
+      <latitude>22.3502</latitude>
+      <woe-label>Lai Chau, VN, Vietnam</woe-label>
+      <postal-code>LI</postal-code>
+      <type>Tỉnh</type>
+      <name>Lai Chau</name>
+    </desc>
+    </path>
+    <path id="vn-311" d="M62.8,69.7 62.2,66.1 62.5,64.4 63.7,62.8 65.3,62.4 67.2,64.2 69.9,71 75.3,77.1 77.2,78.3 79.3,77.7 83.4,79.4 90.1,80.7 92.9,80.2 96.2,78.3 98.1,80.2 96.6,85.2 96.3,88.5 97.1,90.9 98.3,92.2 102.3,94.5 104.3,94.6 107.3,92.8 109.3,92.4 113.1,93.9 115.7,93.8 117,96.1 119.2,96.4 120.9,100.1 121.2,104.9 122.8,107.2 121.6,109.1 121.5,110.9 123,113.7 127.4,118.6 130.7,120.8 130.3,122.8 125.7,124.8 120.5,124.8 119.7,126.3 119.9,129.7 116.9,132.1 114.7,131.6 111,128.9 109.7,128.8 109,128 104.3,126.1 102.5,123.1 99.7,122.8 97.3,120.5 95.5,117.6 93.9,116.7 92.2,117 91,115.2 86.5,113.7 84.9,113.8 82.8,116.2 80.3,116.5 72.4,119.6 71.4,122.2 71.6,123.6 69.3,124.9 69.6,127.3 67.4,127.9 63.5,124.3 59.9,123.5 56.8,120.1 54,121.7 49.5,119.8 47.9,119.7 48.1,116.7 48.8,113.3 50.9,110.4 50.7,108.3 52.1,107.7 54.8,109.1 57.4,108.2 56.8,104.1 57.6,102.2 58.1,99 57.6,97.2 56,95.9 55,92.4 57.5,90.6 58.9,87.7 61.6,85.1 63.2,82.8 63.5,79.8 63,76 62.8,69.7Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-311</hc-key>
+      <hc-a2>SL</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-05</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>Son La</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>Northwest</region>
+      <woe-id>2347713</woe-id>
+      <longitude>104.159</longitude>
+      <subregion>North West</subregion>
+      <woe-name>Son La</woe-name>
+      <fips>VM32</fips>
+      <latitude>21.3011</latitude>
+      <woe-label>Son La, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Province</type>
+      <name>Son La</name>
+    </desc>
+    </path>
+    <path id="vn-hg" d="M120.1,56.6 116.7,56.1 113.2,52.1 110.5,52.5 109,53.3 109,49 107,47.1 104.1,45.4 102.3,38.4 103.7,36.5 101.5,33.8 99.7,33.3 98.8,31.8 102.6,29.4 107.2,25 108.4,26.3 109.7,25.7 112.1,26.3 114.9,24.9 117,22.3 119.1,20.9 119.3,19.5 118,13.3 120.8,11.7 121.2,9.6 124.5,9.7 126,8.3 129.5,6.3 136.3,4.8 137.2,2.2 139.1,0.3 140.5,0 141.4,2.3 143.9,4.3 145.7,4.6 147.5,8.1 149.5,9.4 150.3,12.6 149.2,13.2 148.6,16.1 147.8,17.2 145.8,17.3 142.6,21.4 140.1,23.2 140.1,24.2 146.6,27.9 148.3,30.1 149.7,33.2 151.8,36.6 148.8,37.1 141.9,36.2 135.5,34 134.3,34.5 132.8,39.8 130.5,42.9 129,47.7 127.7,48.5 125,47.9 124.2,48.9 123.7,52 120.1,56.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-hg</hc-key>
+      <hc-a2>HG</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-03</iso_3166_2>
+      <hasc>VN.HG</hasc>
+      <alt-name>Ha Giang</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347734</woe-id>
+      <longitude>104.965</longitude>
+      <subregion>null</subregion>
+      <woe-name>Hà Giang</woe-name>
+      <fips>VM50</fips>
+      <latitude>22.7655</latitude>
+      <woe-label>Ha Giang, VN, Vietnam</woe-label>
+      <postal-code>HG</postal-code>
+      <type>Tỉnh</type>
+      <name>Hà Giang</name>
+    </desc>
+    </path>
+    <path id="vn-nd" d="M193.9,144.8 196,145.2 196,145.2 196,145.2 197,148 194.1,148.7 189.2,149.4 187.6,150.3 185.2,153.9 183.2,156.2 178.8,159.9 176.4,160.8 176.6,157.5 178.3,153.1 178.5,148.8 175.7,147.2 174.1,147.8 169.9,145.8 169.3,143.2 169.4,140.6 170.1,139.4 172.6,139.6 174.6,136.3 179.7,135.9 181,136.6 181.2,139.5 183.6,139.9 183.3,142.8 183.9,143.5 187,141.8 191.6,145.4 193.9,144.8Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-nd</hc-key>
+      <hc-a2>ND</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-67</iso_3166_2>
+      <hasc>VN.ND</hasc>
+      <alt-name>Nam Dinh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Red River Delta</region>
+      <woe-id>20070089</woe-id>
+      <longitude>106.254</longitude>
+      <subregion>null</subregion>
+      <woe-name>Nam Định</woe-name>
+      <fips>VM82</fips>
+      <latitude>20.2343</latitude>
+      <woe-label>Nam Dinh, VN, Vietnam</woe-label>
+      <postal-code>ND</postal-code>
+      <type>Tỉnh</type>
+      <name>Nam Định</name>
+    </desc>
+    </path>
+    <path id="vn-328" d="M160.7,222.5 161.5,222.1 161.4,218.1 162.1,218.5 162.5,221.2 164.1,225.7 166.5,229.6 168.1,231.4 169.7,231.5 171,234.8 176.5,240.1 176.7,241.9 179.5,241.2 184.3,244.1 187.7,247.4 185.9,249 187.9,249.7 188.8,248.7 191.7,247.8 191.2,249.2 191.9,251.2 195.6,255.7 189.6,255 187.9,255.2 185.7,257.8 183.3,258 178.4,257.1 174.8,255.5 174.1,252.6 171.5,250.9 168.8,250.5 165.7,250.8 160.2,252.8 157.7,254.7 154.1,255.3 152.5,253.5 151.8,251.6 148.4,247.9 148.2,245.7 147.2,244.8 144.6,244.7 143.5,246.8 140.2,244.6 140.1,241.9 138,242.3 133.9,238.8 134.2,236.6 131,233.7 130.5,232.4 131.4,227.8 132.6,225.5 134.5,224.6 139.2,224.3 145.4,226.1 149.5,225.6 155.4,226.3 156.7,226.9 158.1,225.4 157.9,224.5 160.7,222.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-328</hc-key>
+      <hc-a2>HT</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-23</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>Ha Tinh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>North Central Region</region>
+      <woe-id>2347736</woe-id>
+      <longitude>105.799</longitude>
+      <subregion>North Central Coast</subregion>
+      <woe-name>Ha Tinh</woe-name>
+      <fips>VM52</fips>
+      <latitude>18.3563</latitude>
+      <woe-label>Ha Tinh, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Province</type>
+      <name>Ha Tinh</name>
+    </desc>
+    </path>
+    <path id="vn-na" d="M163,193.5 161.5,195.4 160.3,195.3 159.7,198.5 160,201.4 158.1,202.7 156.9,202.3 155.8,203.5 154.5,206.6 155.2,210.3 156.1,211.6 159.1,213.4 157.9,214.8 159.3,214.9 161,217.3 160.7,222.5 157.9,224.5 158.1,225.4 156.7,226.9 155.4,226.3 149.5,225.6 145.4,226.1 139.2,224.3 134.5,224.6 131.9,220.9 129.7,221 126.4,219.2 124,219.3 122.3,217.5 118.5,217.3 114.3,216.5 112.7,214.9 110.9,214.5 106.3,211 103.5,207.6 99.9,206.9 97.8,204.3 95.5,203.3 93.5,201.6 91.4,201.7 90.8,199.5 88.5,197.9 83.5,195.6 80.6,195.8 78.2,194.3 77.1,192.5 75.1,192.3 76.1,191 78.4,189.7 79.8,187.9 83.7,186.9 84.7,184.2 86,183.6 85.2,180.1 82.8,178.1 81.9,175.6 83,174.3 86,175.7 88.1,174 92.3,173.1 94.5,174.2 95.2,175.5 97.4,174.3 99,174.1 100.6,175.7 104.7,178.1 109.9,177.4 111.4,173.5 113,171.8 115,171.3 118.1,169.2 118.6,166.5 116.1,165.9 117,163.6 120.5,161.4 121.2,160.1 124.4,159.7 127.5,160.7 129.7,162.1 133.6,163.3 134.9,164.5 132.9,168.3 133.4,170.8 135.4,174.1 138.6,177.3 139,182 141.1,180.8 142.8,181 144.8,183.7 146.5,184.4 149.6,184.3 150.8,185.1 153.2,188.2 155.2,189.4 158.3,192.3 161.2,192.6 163,193.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-na</hc-key>
+      <hc-a2>NA</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-22</iso_3166_2>
+      <hasc>VN.NA</hasc>
+      <alt-name>Nghe An</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>North Central Region</region>
+      <woe-id>2347742</woe-id>
+      <longitude>104.827</longitude>
+      <subregion>null</subregion>
+      <woe-name>Nghệ An</woe-name>
+      <fips>VM58</fips>
+      <latitude>19.3548</latitude>
+      <woe-label>Nghe An, VN, Vietnam</woe-label>
+      <postal-code>NA</postal-code>
+      <type>Tỉnh</type>
+      <name>Nghệ An</name>
+    </desc>
+    </path>
+    <path id="vn-qb" d="M195.6,255.7 195.9,256.3 192.8,259.2 192.2,260.9 194.4,267.7 191.9,266 189.2,264.8 185.1,264.5 187.9,265.7 191.6,266.4 189.5,267 195,268.6 200.1,276.4 201,278.6 207,285 218.1,293.1 213.4,296.1 211.4,298.6 209.5,301.8 206.5,302.7 199.2,302.3 196.6,303.3 196.3,301.4 195,302.6 191.5,301.5 189.9,298.8 189.8,297 187.6,294.9 186.3,292.6 186.4,290.3 185.2,287.5 184.1,287.4 182.4,289.4 180.7,288.8 173.2,282.5 168.2,276.6 165.2,272.8 162.6,270.8 160.2,269.7 156,262.4 154.3,260.8 153.7,259.2 154.1,255.3 157.7,254.7 160.2,252.8 165.7,250.8 168.8,250.5 171.5,250.9 174.1,252.6 174.8,255.5 178.4,257.1 183.3,258 185.7,257.8 187.9,255.2 189.6,255 195.6,255.7Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-qb</hc-key>
+      <hc-a2>QB</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-24</iso_3166_2>
+      <hasc>VN.QB</hasc>
+      <alt-name>Quang Binh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>North Central Region</region>
+      <woe-id>2347746</woe-id>
+      <longitude>106.357</longitude>
+      <subregion>null</subregion>
+      <woe-name>Quảng Bình</woe-name>
+      <fips>VM62</fips>
+      <latitude>17.4691</latitude>
+      <woe-label>Quang Binh, VN, Vietnam</woe-label>
+      <postal-code>QB</postal-code>
+      <type>Tỉnh</type>
+      <name>Quảng Bình</name>
+    </desc>
+    </path>
+    <path id="vn-723" d="M244.8,503.2 244.5,499.3 242.6,496.5 241.3,491.5 241.9,490.6 241,488.8 245.5,477.4 251,473.9 256.6,473.1 262.5,473.2 267.2,471.4 270.8,471.3 282.7,475.4 284.8,477.4 286,479.7 287.9,485.7 289.9,487.7 296.7,489.4 299.7,494.1 304.1,497.2 307.3,498.5 311.2,499.4 314.3,500.6 311.3,503.4 308.3,504.1 306.9,507.5 307.2,509.5 306.1,513.4 305.2,514.1 302.4,512.9 297.7,513.8 297.3,515.3 297.4,519 298.1,522.1 294.5,523.7 290.4,522.4 288.9,522.8 286.3,525.1 282.1,525.4 278.3,527.8 277.4,529.4 274,528.7 271.9,529.6 272.4,527.3 269.9,524.3 267.7,522.8 265.4,522.4 263.6,520.2 263,517.5 265.3,516.4 266.5,513.8 265.2,512.6 262.6,511.9 262.1,510.1 260.4,508.9 259.8,504.6 258.8,502.8 244.8,503.2Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-723</hc-key>
+      <hc-a2>DL</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-33</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>Dak Lak|Dac Lac</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>Tây Nguyên</region>
+      <woe-id>2347720</woe-id>
+      <longitude>108.133</longitude>
+      <subregion>Central Highlands</subregion>
+      <woe-name>Dak Lak</woe-name>
+      <fips>VM07</fips>
+      <latitude>12.7691</latitude>
+      <woe-label>Dak Lak, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Province</type>
+      <name>Dak Lak</name>
+    </desc>
+    </path>
+    <path id="vn-nt" d="M322.8,546.2 324.7,548.6 322.3,551.7 322,553.3 319.8,556.6 316.6,556 315.4,553.4 314.3,553.7 315.3,555.2 314.8,559.2 314.5,566.8 311.4,569 309.2,568.4 307.4,565.4 302.9,564.5 302.5,562.1 300.2,560.8 299.3,557.9 295.7,557.2 295.2,553.6 298.2,550.3 298.6,548.7 296.8,546.5 296.3,544.1 298.3,537.7 298.8,533.5 298.3,530.7 299.9,527.9 302.7,529 304.2,530.5 307.5,538.5 308.8,539.4 314.8,540.6 316.3,542.3 317.3,544.8 318.6,545.8 322.8,546.2Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-nt</hc-key>
+      <hc-a2>NT</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-36</iso_3166_2>
+      <hasc>VN.NT</hasc>
+      <alt-name>Ninh Thuan</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Southeast</region>
+      <woe-id>2347744</woe-id>
+      <longitude>108.925</longitude>
+      <subregion>null</subregion>
+      <woe-name>Ninh Thuận</woe-name>
+      <fips>VM60</fips>
+      <latitude>11.6242</latitude>
+      <woe-label>Ninh Thuan, VN, Vietnam</woe-label>
+      <postal-code>NT</postal-code>
+      <type>Tỉnh</type>
+      <name>Ninh Thuận</name>
+    </desc>
+    </path>
+    <path id="vn-6365" d="M271.9,529.6 269,529.9 266.4,530.9 265.8,533.7 267.5,536.1 270.6,539.7 270.8,542.6 269.4,545.3 266.6,547.8 264.8,546.5 262.6,546.7 262.1,544.3 260.8,543.4 256.6,544.1 254.8,543.2 254.3,541.5 252.7,541.4 249,545.4 246.3,547.2 243.4,547.9 240.7,549.2 238.3,548.9 238.7,547.3 237.4,544.3 236.7,541 235.3,539.2 232.6,537.4 231.4,534.1 230.5,522.5 234.7,521.6 238.1,525.2 239.2,525.2 240.8,523 243.7,520.8 245.7,514.7 246,508.4 244.8,503.2 258.8,502.8 259.8,504.6 260.4,508.9 262.1,510.1 262.6,511.9 265.2,512.6 266.5,513.8 265.3,516.4 263,517.5 263.6,520.2 265.4,522.4 267.7,522.8 269.9,524.3 272.4,527.3 271.9,529.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-6365</hc-key>
+      <hc-a2>ĐN</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-72</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>Dak Nong</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>Tây Nguyên</region>
+      <woe-id>28301719</woe-id>
+      <longitude>107.66</longitude>
+      <subregion>Central Highlands</subregion>
+      <woe-name>Dac Nong</woe-name>
+      <fips>VM91</fips>
+      <latitude>12.1425</latitude>
+      <woe-label>Dac Nong, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Province</type>
+      <name>Đăk Nông</name>
+    </desc>
+    </path>
+    <path id="vn-299" d="M293.5,411.5 287.8,413 283.9,412.6 284.7,415.2 284.1,417.5 280.6,421.6 277.2,424.1 272.3,426.5 255.5,432.1 252.4,433.5 249.5,435.9 247.3,440.1 243.8,443.5 239.9,446.2 239.1,443.2 236.4,442.7 235,441.5 235.1,438.7 233.9,436.9 235.7,431.2 235.2,427.4 236.9,422.6 240.1,421.9 242.3,416.8 242.2,414 243.4,410.4 241.5,404.4 244.5,400.5 240.1,397.2 239.3,394 242.6,392.8 245.4,392.8 245.6,390.2 247.3,387.7 247.4,386.2 248.9,385.4 248.9,381.7 246.1,379.4 245.1,376 248.5,376.2 250.3,377.5 252.2,380.8 254.3,381 258.3,384.5 261.4,384 263.4,384.6 267.5,387.9 268.1,389.1 268.2,393 271.2,396.8 273.5,395.4 273.7,392.1 274.7,391.6 278.4,392.4 282.9,396.3 284.6,399.6 286.3,401.3 290.2,402.8 291.3,404.7 293.5,411.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-299</hc-key>
+      <hc-a2>KT</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-28</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>null</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>South Central Coast</region>
+      <woe-id>20070076</woe-id>
+      <longitude>107.969</longitude>
+      <subregion>null</subregion>
+      <woe-name>Kon Tum</woe-name>
+      <fips>VM55</fips>
+      <latitude>14.7451</latitude>
+      <woe-label>Kon Tum, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Tỉnh</type>
+      <name>Kon Tum</name>
+    </desc>
+    </path>
+    <path id="vn-300" d="M277.1,347.8 278.2,349.4 282,352.1 283.2,353.5 283.7,356.4 285.2,359.2 292.8,369.4 295.8,369.9 293,371.9 294.5,373.6 296.5,371.2 296.8,373.3 299.5,375.5 295.2,376.3 286.9,379.2 282.3,379.6 280.1,381.2 277.9,384.6 277.4,386.3 279.7,390.6 278.4,392.4 274.7,391.6 273.7,392.1 273.5,395.4 271.2,396.8 268.2,393 268.1,389.1 267.5,387.9 263.4,384.6 261.4,384 258.3,384.5 254.3,381 252.2,380.8 250.3,377.5 248.5,376.2 245.1,376 241.3,375.3 241,372.4 239.1,371.1 235.5,371.7 233,367.4 229.9,365.4 228.3,360.8 225.8,359.4 225.3,357.7 226.5,355.2 229.2,354.8 232.4,352.7 234.9,352.1 236.3,350.9 238.7,347.4 238.1,345.2 245.7,345.1 248.6,343.4 249.8,344.1 251.4,346.9 252.1,346.8 254.2,344.3 257.5,343.5 261,343.8 264.4,343.4 264.8,347.4 266.7,348.5 268.8,348.5 272.5,347.5 277.1,347.8Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-300</hc-key>
+      <hc-a2>QN</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-27</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>null</alt-name>
+      <country>Vietnam</country>
+      <type-en>null</type-en>
+      <region>null</region>
+      <woe-id>2347711</woe-id>
+      <longitude>107.955</longitude>
+      <subregion>null</subregion>
+      <woe-name>Quàng Nam</woe-name>
+      <fips>null</fips>
+      <latitude>15.6535</latitude>
+      <woe-label>Quang Nam, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>null</type>
+      <name>Quàng Nam</name>
+    </desc>
+    </path>
+    <path id="vn-qt" d="M221.3,334.3 216.7,333.9 215.9,332.2 211.7,328.6 211.9,324.3 210,323 208.9,325.5 206.8,327.9 204.1,327.9 202.4,325.9 201.7,323.5 201.7,320.5 198.6,319.2 196.8,315.9 196.6,303.3 199.2,302.3 206.5,302.7 209.5,301.8 211.4,298.6 213.4,296.1 218.1,293.1 222.9,296.5 223.6,297.9 223.4,299.8 227,304.7 224.4,306.6 226.6,306.6 227.8,305 236.8,312.4 233.5,317.3 230.3,319.5 226,320.2 223,321.8 223.5,323.6 225.7,325.7 223.9,328.5 221,331.7 221.3,334.3Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-qt</hc-key>
+      <hc-a2>QT</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-25</iso_3166_2>
+      <hasc>VN.QT</hasc>
+      <alt-name>Quang Tri</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>North Central Region</region>
+      <woe-id>2347747</woe-id>
+      <longitude>106.973</longitude>
+      <subregion>null</subregion>
+      <woe-name>Quảng Trị</woe-name>
+      <fips>VM64</fips>
+      <latitude>16.7204</latitude>
+      <woe-label>Quang Tri, VN, Vietnam</woe-label>
+      <postal-code>QT</postal-code>
+      <type>Tỉnh</type>
+      <name>Quảng Trị</name>
+    </desc>
+    </path>
+    <path id="vn-tt" d="M236.8,312.4 240.7,315.2 245.7,319.5 245.3,319.8 239.7,316.9 238.3,317.2 243.8,320.2 245.2,319.9 245.9,321.9 248.4,321.6 247.9,323 248.8,324.2 249.9,323.1 252.8,325.7 255.9,329.9 254.5,329.7 255.4,332.8 259.2,334.4 261,332.8 261.4,330.6 264.5,332.4 265.9,331.1 266.4,333 268.3,336.3 266.3,335.1 266.5,336.3 273.2,337.4 270.1,337.9 265.9,337 261.8,337.3 260.4,339 258.8,342.3 257.5,343.5 254.2,344.3 252.1,346.8 251.4,346.9 249.8,344.1 248.6,343.4 245.7,345.1 238.1,345.2 238.1,344.4 233.3,345.2 232,344.9 229.2,341.8 225.4,340.1 224.1,338.5 223.5,335.9 221.3,334.3 221,331.7 223.9,328.5 225.7,325.7 223.5,323.6 223,321.8 226,320.2 230.3,319.5 233.5,317.3 236.8,312.4Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-tt</hc-key>
+      <hc-a2>TT</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-26</iso_3166_2>
+      <hasc>VN.TT</hasc>
+      <alt-name>Thua Thien - Hue</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>North Central Region</region>
+      <woe-id>2347749</woe-id>
+      <longitude>107.634</longitude>
+      <subregion>null</subregion>
+      <woe-name>Huế</woe-name>
+      <fips>VM66</fips>
+      <latitude>16.312</latitude>
+      <woe-label>Thura Thien-Hue, VN, Vietnam</woe-label>
+      <postal-code>TT</postal-code>
+      <type>Tỉnh</type>
+      <name>Huế</name>
+    </desc>
+    </path>
+    <path id="vn-da" d="M273.2,337.4 271.1,339.3 270.6,341.7 273.1,344 274.5,343.1 275,344.9 273.2,347.2 275.5,346.3 275.4,341.5 274.3,341.4 275.2,339.7 278.6,340.9 278.6,342 276.2,342.3 275.9,344 277.1,347.8 272.5,347.5 268.8,348.5 266.7,348.5 264.8,347.4 264.4,343.4 261,343.8 257.5,343.5 258.8,342.3 260.4,339 261.8,337.3 265.9,337 270.1,337.9 273.2,337.4 M289,350.6 286.5,348.9 287.4,348.3 288.8,349.4 289,350.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-da</hc-key>
+      <hc-a2>DA</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-DN</iso_3166_2>
+      <hasc>VN.DA</hasc>
+      <alt-name>Da Nang City|Da Nang</alt-name>
+      <country>Vietnam</country>
+      <type-en>City|Municipality|Thanh Pho</type-en>
+      <region>South Central Coast</region>
+      <woe-id>20070085</woe-id>
+      <longitude>108.102</longitude>
+      <subregion>null</subregion>
+      <woe-name>Da Nang</woe-name>
+      <fips>VM78</fips>
+      <latitude>16.0912</latitude>
+      <woe-label>Da Nang, VN, Vietnam</woe-label>
+      <postal-code>DA</postal-code>
+      <type>municipality</type>
+      <name>Da Nang</name>
+    </desc>
+    </path>
+    <path id="vn-ag" d="M113.9,607.5 118.4,607.7 120,607.1 124.3,601.9 128.8,599.5 129.9,598.5 129.9,596.9 127.5,592.1 128.2,589 130.5,587.4 131.4,589 136.6,590.1 136.9,592.3 138.4,595.4 141.2,599 144.1,599 144.5,603.2 145.7,604.5 150.5,606.8 152.6,609.7 154.1,611 151.8,613.2 150,616.4 149,619.2 147,619.2 144.1,621.1 142.5,619.3 139.3,621.1 138.1,622.8 121.6,614.1 113.9,607.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-ag</hc-key>
+      <hc-a2>AG</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-44</iso_3166_2>
+      <hasc>VN.AG</hasc>
+      <alt-name>An Giang</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347719</woe-id>
+      <longitude>105.154</longitude>
+      <subregion>null</subregion>
+      <woe-name>An Giang</woe-name>
+      <fips>VM01</fips>
+      <latitude>10.5736</latitude>
+      <woe-label>An Giang, VN, Vietnam</woe-label>
+      <postal-code>AG</postal-code>
+      <type>Tỉnh</type>
+      <name>An Giang</name>
+    </desc>
+    </path>
+    <path id="vn-cm" d="M146.8,679.1 142.5,687 139,690.8 135.5,691.7 131.6,696.8 120.1,700 115.2,698.8 113.7,697.7 115.5,697.6 119.1,695.5 118.3,694.1 119.5,693.7 122.7,694.3 125.1,692.7 121,693.7 119.9,692.3 123.5,691.4 123.2,688.5 118.2,690.3 116.3,688.1 118,682.5 117.8,677.3 118.3,670.3 119,654.2 120.9,655.5 125.4,654.4 127.9,654.5 138.1,659.7 140,660.3 141.2,661.9 140.3,663.8 141.7,665.4 140.1,668.3 140.1,669.7 141.4,670.2 142.4,674.6 143.4,676 145.5,676.7 146.8,679.1Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-cm</hc-key>
+      <hc-a2>CM</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-59</iso_3166_2>
+      <hasc>VN.CM</hasc>
+      <alt-name>Ca Mau</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>20070082</woe-id>
+      <longitude>105.073</longitude>
+      <subregion>null</subregion>
+      <woe-name>Cà Mau</woe-name>
+      <fips>VM77</fips>
+      <latitude>9.05545</latitude>
+      <woe-label>Ca Mau, VN, Vietnam</woe-label>
+      <postal-code>CM</postal-code>
+      <type>Tỉnh</type>
+      <name>Cà Mau</name>
+    </desc>
+    </path>
+    <path id="vn-tv" d="M185.2,628.5 187,629.7 188.3,631.7 191.9,635.2 196,638.6 198.1,641.4 198.5,643.3 200.7,644.4 200.8,648.6 199.3,651.7 196.5,653.5 192.5,653.7 189.6,651.7 185.5,649.5 176.8,641.4 173.5,637.4 176.6,635.6 180.1,634.5 179.9,632.7 182.5,631 183.4,629.5 185.2,628.5Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-tv</hc-key>
+      <hc-a2>TV</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-51</iso_3166_2>
+      <hasc>VN.TV</hasc>
+      <alt-name>Tra Vinh</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347750</woe-id>
+      <longitude>106.289</longitude>
+      <subregion>null</subregion>
+      <woe-name>Trà Vinh</woe-name>
+      <fips>VM51</fips>
+      <latitude>9.82817</latitude>
+      <woe-label>Tra Vinh, VN, Vietnam</woe-label>
+      <postal-code>TV</postal-code>
+      <type>Tỉnh</type>
+      <name>Trà Vinh</name>
+    </desc>
+    </path>
+    <path id="vn-cb" d="M150.3,12.6 151.6,14.7 157.1,15.2 159.9,17 164.3,21.7 165.7,20.5 168.3,20.6 170.6,18.3 174.1,18.1 178.1,18.7 179.5,19.6 181,23.5 184.6,24 190.8,22.3 192.1,20.5 196.2,21.9 197.5,23.9 200,23.2 202.8,26.3 205.4,26.5 205.5,27.6 203.5,29 203,31.3 201.4,34.4 200.7,36.8 199.2,37.4 197.5,35.4 195.8,37.1 194.3,45.2 192.7,46.1 188.4,46.5 183.4,43.5 180.8,43.9 179.4,45.2 176.9,44 176.6,41.7 175.5,39.4 174.5,38.8 170.6,39.7 166.8,41.8 163.9,41.7 162.7,40.6 160.3,34.7 161,31.2 158.6,30.3 155.3,32.5 151.8,36.6 149.7,33.2 148.3,30.1 146.6,27.9 140.1,24.2 140.1,23.2 142.6,21.4 145.8,17.3 147.8,17.2 148.6,16.1 149.2,13.2 150.3,12.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-cb</hc-key>
+      <hc-a2>CB</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-04</iso_3166_2>
+      <hasc>VN.CB</hasc>
+      <alt-name>Cao Bang</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347704</woe-id>
+      <longitude>106.047</longitude>
+      <subregion>null</subregion>
+      <woe-name>Cao Bằng</woe-name>
+      <fips>VM05</fips>
+      <latitude>22.7595</latitude>
+      <woe-label>Cao Bang, VN, Vietnam</woe-label>
+      <postal-code>CB</postal-code>
+      <type>Tỉnh</type>
+      <name>Cao Bằng</name>
+    </desc>
+    </path>
+    <path id="vn-kg" d="M80.5,630.7 79.2,624.6 77.1,619.5 73.4,616.9 72.8,614.5 76.9,614.8 80.3,610.8 83.9,614.6 84,620.4 82.2,625 81.5,627.6 82.4,628.8 82.4,631.7 80.5,630.7 M119,654.2 120.1,644.6 121.8,639.2 125.4,639.1 126.5,637.5 130.5,634.8 132.1,639 131.9,634.5 131,632.3 127,627.9 125.2,627.2 122.2,627.6 120.7,626.7 117.7,622.4 116.2,621.5 113.2,621.7 110.5,625.4 108.5,624.9 107.6,619.9 105.1,617.5 103.4,614.6 104.8,613.3 101.3,614.2 101.2,612.3 103.2,611.9 106,607.7 109.4,607 113.9,607.5 121.6,614.1 138.1,622.8 142,625.5 146.6,630.1 151.2,634.5 151.6,636.5 150.5,640 145,645.1 143.8,647.2 145.3,649.1 145.2,651.7 141.2,650.8 140.6,651.7 141.4,655.1 140.1,657.2 140.8,659.4 140,660.3 138.1,659.7 127.9,654.5 125.4,654.4 120.9,655.5 119,654.2Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-kg</hc-key>
+      <hc-a2>KG</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-47</iso_3166_2>
+      <hasc>VN.KG</hasc>
+      <alt-name>Kien Giang</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Mekong Delta</region>
+      <woe-id>2347723</woe-id>
+      <longitude>105.284</longitude>
+      <subregion>null</subregion>
+      <woe-name>Kiên Giang</woe-name>
+      <fips>VM21</fips>
+      <latitude>9.85962</latitude>
+      <woe-label>Kien Giang, VN, Vietnam</woe-label>
+      <postal-code>KG</postal-code>
+      <type>Tỉnh</type>
+      <name>Kiên Giang</name>
+    </desc>
+    </path>
+    <path id="vn-lo" d="M63.2,33.7 62.9,31.6 65,28 67.5,26.6 70.9,30.5 73.9,33.2 77,37.2 78.3,37.5 79.2,39.2 81.1,40.5 82.3,39.5 82.3,37.5 83.2,34.7 84,30.5 86.2,27.5 92.3,25.5 93.5,25.5 93,27.5 93.9,30.1 97.9,32.1 98.8,31.8 99.7,33.3 101.5,33.8 103.7,36.5 102.3,38.4 104.1,45.4 107,47.1 109,49 109,53.3 110.5,52.5 111.2,56.5 109.6,57.4 107.2,60.1 103.7,57.8 100.3,58.2 99.5,59.9 102.1,65.2 101.9,67.7 100.1,69.4 98.2,69 93,66.5 91.7,69.7 88.5,68.6 85.7,68.3 82,65.7 78.8,71.4 80.5,74.3 79.3,77.7 77.2,78.3 75.3,77.1 69.9,71 67.2,64.2 65.3,62.4 63.7,62.8 64.5,58.8 66.1,55.9 69.5,54.2 72.7,50.8 74.1,47.3 71.7,44.6 67.5,44.6 64.7,43 64.3,41.5 65.7,39.9 65.4,37 63.2,33.7Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-lo</hc-key>
+      <hc-a2>LO</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-02</iso_3166_2>
+      <hasc>VN.LO</hasc>
+      <alt-name>Lao Cai</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347740</woe-id>
+      <longitude>104.096</longitude>
+      <subregion>null</subregion>
+      <woe-name>Lào Cai</woe-name>
+      <fips>VM56</fips>
+      <latitude>22.3559</latitude>
+      <woe-label>Lao Cai, VN, Vietnam</woe-label>
+      <postal-code>LO</postal-code>
+      <type>Tỉnh</type>
+      <name>Lào Cai</name>
+    </desc>
+    </path>
+    <path id="vn-db" d="M47.9,119.7 44.4,118.8 43,117.7 41,114.7 38.6,109.5 35.9,108.1 34.3,103.9 33.2,103.5 33.1,100.6 31.5,99.4 29.3,99.2 30.5,97.8 32.6,96.9 33,93 34.5,90.6 34,89.9 31.5,91.2 33.6,87.9 37.2,84.2 36.6,81.4 36.7,78.2 36.1,76.5 32.4,77.9 31.1,77.4 30.8,72.5 29.2,72.5 29,76.3 27.4,79 26,79.9 22.9,80.1 22,76.6 22.3,73.9 20.5,68.5 19.1,67.4 15.5,65.7 15,63.9 15.7,62.7 13.1,60.8 11.7,58.1 7.2,54.1 4.6,52.7 1.5,49 0,44.6 2.1,43.4 4.4,44.1 6,40.1 9.2,36.8 11.6,36.4 15.1,37.1 17.3,36.9 19.9,39 23.2,43.2 25.7,44.3 29,46.9 30.7,49.9 31,53 31.9,54.3 34.6,54.4 35.2,56.6 36.5,57.6 40.5,57.1 42.8,58.3 44.8,60.1 46.5,60 50.3,61.9 50.4,60.4 53,57.2 54.6,56.8 56.3,57.8 57,60.5 58.8,62.8 59,64.8 60.5,65.9 62.8,69.7 63,76 63.5,79.8 63.2,82.8 61.6,85.1 58.9,87.7 57.5,90.6 55,92.4 56,95.9 57.6,97.2 58.1,99 57.6,102.2 56.8,104.1 57.4,108.2 54.8,109.1 52.1,107.7 50.7,108.3 50.9,110.4 48.8,113.3 48.1,116.7 47.9,119.7Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-db</hc-key>
+      <hc-a2>DB</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-71</iso_3166_2>
+      <hasc>VN.DB</hasc>
+      <alt-name>Dien Bien</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northwest</region>
+      <woe-id>28301718</woe-id>
+      <longitude>103.226</longitude>
+      <subregion>null</subregion>
+      <woe-name>Điện Biên</woe-name>
+      <fips>VM22</fips>
+      <latitude>21.7487</latitude>
+      <woe-label>Dien Bien, VN, Vietnam</woe-label>
+      <postal-code>DB</postal-code>
+      <type>Tỉnh</type>
+      <name>Điện Biên</name>
+    </desc>
+    </path>
+    <path id="vn-ls" d="M194.3,45.2 195.4,48.6 198.1,49 199,50.2 200.1,53.7 199.1,55.2 200.6,59.9 199.6,64.5 200.8,66.1 202.8,63.9 205.5,65.4 209.2,65.7 211.7,68.1 213.9,67.2 215.5,67.5 216.1,69.2 214.6,71.4 215.4,73 218.1,73.7 222.9,77.5 224.7,77.9 227.4,77.2 228.7,78.6 230.1,82.2 226.1,85 225.4,86.3 226.3,88.3 226.2,90.6 225,92.1 221.2,93.8 218.4,94.3 216.6,93.6 215.3,90.3 212,90.4 209.1,85.9 208.3,83.4 207,83.5 204.2,85.5 201.3,83.2 199,82.8 195.9,83.9 194.3,85.9 192.8,89.4 191.5,91.3 188.8,92.3 186.8,91.7 184.1,89.2 178.5,87.3 178.5,84.8 180.3,81.9 182.4,79.7 182.3,78.8 179,74.6 177.3,73.7 176.2,69.3 176,66.9 176.3,62.8 176.8,61.2 179.4,59.2 181.5,55 182.3,52 180.6,49.2 179.4,45.2 180.8,43.9 183.4,43.5 188.4,46.5 192.7,46.1 194.3,45.2Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-ls</hc-key>
+      <hc-a2>LS</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-09</iso_3166_2>
+      <hasc>VN.LS</hasc>
+      <alt-name>Lang Son</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347718</woe-id>
+      <longitude>106.724</longitude>
+      <subregion>null</subregion>
+      <woe-name>Lạng Sơn</woe-name>
+      <fips>VM39</fips>
+      <latitude>21.7826</latitude>
+      <woe-label>Lang Son, VN, Vietnam</woe-label>
+      <postal-code>LS</postal-code>
+      <type>Tỉnh</type>
+      <name>Lạng Sơn</name>
+    </desc>
+    </path>
+    <path id="vn-th" d="M173.1,159.4 169.6,162.7 169.7,165 168.7,166.3 168.5,169 165.7,169.9 168.5,169.6 167,172.4 165.7,172.4 163.9,176.1 163.1,184.7 162,187.9 163.4,192 163,193.5 161.2,192.6 158.3,192.3 155.2,189.4 153.2,188.2 150.8,185.1 149.6,184.3 146.5,184.4 144.8,183.7 142.8,181 141.1,180.8 139,182 138.6,177.3 135.4,174.1 133.4,170.8 132.9,168.3 134.9,164.5 133.6,163.3 129.7,162.1 127.5,160.7 124.4,159.7 124.3,156.1 124.9,155 122.6,152.9 122.7,151 118.8,148.8 113,150 111.5,149.2 111.5,146.1 112.6,145.7 112.6,143.2 109.5,141.4 107.9,139.7 101.5,139.8 98.3,138.5 98.6,137.5 101.2,135.8 102.1,133.9 104.4,135 106.5,133.9 109.4,130 109.7,128.8 111,128.9 114.7,131.6 116.9,132.1 119.9,129.7 124.1,131.4 129.8,132.1 133,131.4 134.2,132 136.3,134.8 140.6,137.7 147.2,141 151,141.9 160.6,149.9 165.4,152.8 167.9,153.5 170.8,155.5 173.8,156 174.7,157.5 173.1,159.4Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-th</hc-key>
+      <hc-a2>TH</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-21</iso_3166_2>
+      <hasc>VN.TH</hasc>
+      <alt-name>Thanh Hoa</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>North Central Region</region>
+      <woe-id>2347715</woe-id>
+      <longitude>105.215</longitude>
+      <subregion>null</subregion>
+      <woe-name>Thanh Hóa</woe-name>
+      <fips>VM34</fips>
+      <latitude>20.0917</latitude>
+      <woe-label>Thanh Hoa, VN, Vietnam</woe-label>
+      <postal-code>TH</postal-code>
+      <type>Tỉnh</type>
+      <name>Thanh Hóa</name>
+    </desc>
+    </path>
+    <path id="vn-307" d="M151.5,67 150.9,64.8 149.3,62 148.4,57.3 148.6,51.9 149.7,48.5 152.8,44.3 153.6,42.4 153.5,40.1 151.8,36.6 155.3,32.5 158.6,30.3 161,31.2 160.3,34.7 162.7,40.6 163.9,41.7 166.8,41.8 170.6,39.7 174.5,38.8 175.5,39.4 176.6,41.7 176.9,44 179.4,45.2 180.6,49.2 182.3,52 181.5,55 179.4,59.2 176.8,61.2 176.3,62.8 176,66.9 172.1,68.2 171.1,69.8 166.6,72.8 163.9,73.4 162.3,74.6 161.2,70.1 161,65.6 158.5,63.2 154.5,64.1 152.6,66.6 151.5,67Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-307</hc-key>
+      <hc-a2>BK</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>Bắc Cạn</alt-name>
+      <country>Vietnam</country>
+      <type-en>Region</type-en>
+      <region>null</region>
+      <woe-id>20070084</woe-id>
+      <longitude>105.874</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bắc Kạn</woe-name>
+      <fips>VM72</fips>
+      <latitude>22.1476</latitude>
+      <woe-label>Bac Kan, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Region</type>
+      <name>Bắc Kạn</name>
+    </desc>
+    </path>
+    <path id="vn-tq" d="M151.8,36.6 153.5,40.1 153.6,42.4 152.8,44.3 149.7,48.5 148.6,51.9 148.4,57.3 149.3,62 150.9,64.8 151.5,67 150.5,70.9 149.7,80.1 149.9,83.2 152.4,86.2 150.7,87.3 147.2,88.5 144.3,88.5 140.9,87.6 137.2,82.7 134.6,80.4 131.8,78.6 130.6,76.5 131.3,74.3 130.2,72.3 126.7,68.3 126.8,65.9 126.1,64.3 121.7,60.5 120.1,56.6 123.7,52 124.2,48.9 125,47.9 127.7,48.5 129,47.7 130.5,42.9 132.8,39.8 134.3,34.5 135.5,34 141.9,36.2 148.8,37.1 151.8,36.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-tq</hc-key>
+      <hc-a2>TQ</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-07</iso_3166_2>
+      <hasc>VN.TQ</hasc>
+      <alt-name>Tuyen Quang</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Northeast</region>
+      <woe-id>2347751</woe-id>
+      <longitude>105.229</longitude>
+      <subregion>null</subregion>
+      <woe-name>Tuyên Quang</woe-name>
+      <fips>VM68</fips>
+      <latitude>22.131</latitude>
+      <woe-label>Tuyen Quang, VN, Vietnam</woe-label>
+      <postal-code>TQ</postal-code>
+      <type>Tỉnh</type>
+      <name>Tuyên Quang</name>
+    </desc>
+    </path>
+    <path id="vn-bi" d="M195.1,558.6 197.5,560.7 197.8,561.8 201.5,563.5 202.4,564.3 202.1,566.8 203.7,569.7 205.6,567.8 207.2,568.3 207,570.2 209.8,568.8 211.4,569.1 217,571.2 218.5,571.2 217.1,574.5 219,578.8 218.1,581.6 216.2,583.2 214.6,583.4 212.2,582.1 210.2,583.4 210.3,585.6 212.5,588.6 212.6,590 210.9,589.7 207.9,590.6 206.8,590.3 202.5,584.3 200.4,582.4 197.5,578.3 193.6,578.9 193.2,577.4 191.4,575.5 189.7,571.9 189.5,568.5 191.2,564.1 193.5,561.4 195.1,558.6Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-bi</hc-key>
+      <hc-a2>BI</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-57</iso_3166_2>
+      <hasc>VN.BI</hasc>
+      <alt-name>Binh Duong</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>Southeast</region>
+      <woe-id>20070078</woe-id>
+      <longitude>106.659</longitude>
+      <subregion>null</subregion>
+      <woe-name>Bình Dương</woe-name>
+      <fips>VM75</fips>
+      <latitude>11.1382</latitude>
+      <woe-label>Bin Duong, VN, Vietnam</woe-label>
+      <postal-code>BI</postal-code>
+      <type>Tỉnh</type>
+      <name>Bình Dương</name>
+    </desc>
+    </path>
+    <path id="vn-333" d="M138.1,622.8 139.3,621.1 142.5,619.3 144.1,621.1 147,619.2 149,619.2 150,616.4 151.8,613.2 154.1,611 156.4,612.5 159.6,612.9 164.3,617 166.6,617.9 168.1,620.7 169.5,621.7 169.4,624 166.6,625.6 162.8,624.5 161.4,623.5 159.8,624.3 159.3,626.3 156.4,627.4 151.4,628.5 146.6,630.1 142,625.5 138.1,622.8Z">
+    <desc xmlns="https://highcharts.com/docs/mc">
+      <hc-group>admin1</hc-group>
+      <hc-key>vn-333</hc-key>
+      <hc-a2>CT</hc-a2>
+      <labelrank>7</labelrank>
+      <iso_3166_2>VN-CT</iso_3166_2>
+      <hasc>VN.</hasc>
+      <alt-name>null</alt-name>
+      <country>Vietnam</country>
+      <type-en>Province</type-en>
+      <region>null</region>
+      <woe-id>2347732</woe-id>
+      <longitude>105.685</longitude>
+      <subregion>null</subregion>
+      <woe-name>Can Tho</woe-name>
+      <fips>null</fips>
+      <latitude>10.2421</latitude>
+      <woe-label>Can Tho, VN, Vietnam</woe-label>
+      <postal-code>null</postal-code>
+      <type>Tỉnh</type>
+      <name>Can Tho</name>
+    </desc>
+    </path>
+  </g>
+  <text x="50%" y="720" text-anchor="middle" font-family="Verdana" font-size="10px">Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth</text>
 </svg>

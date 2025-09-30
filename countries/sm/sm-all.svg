@@ -3,14 +3,14 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.3.1
+Map version: 2.3.2
 Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>San Marino</title>
 <g id="admin1">
 
 <g id="SM">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <name>San Marino</name>
     <labelrank>6</labelrank>
     <country-abbrev>S.M.</country-abbrev>
@@ -26,7 +26,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </g>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.6415" d="M523.0,464.3 L519.2,489.0 L523.0,512.8 L440.2,643.3 L435.0,587.2 L441.1,538.8 L448.1,509.4 L462.6,486.5 L466.2,467.6 L487.8,459.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.MG</hasc>
     <alt-name>NULL</alt-name>
@@ -51,7 +51,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.6416" d="M466.2,467.6 L462.6,486.5 L448.1,509.4 L441.1,538.8 L435.0,587.2 L440.2,643.3 L416.7,680.3 L307.5,692.5 L297.2,640.1 L275.3,607.7 L300.7,576.7 L311.5,526.3 L360.4,527.8 L405.4,505.9 L446.8,452.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.FI</hasc>
     <alt-name>NULL</alt-name>
@@ -76,7 +76,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.6417" d="M275.3,607.7 L297.2,640.1 L307.5,692.5 L240.3,700.0 L193.7,674.1 L73.8,607.2 L22.9,490.4 L75.6,489.3 L130.3,499.5 L199.6,533.4 L203.4,561.0 L202.6,586.4 L226.4,606.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.CH</hasc>
     <alt-name>NULL</alt-name>
@@ -101,7 +101,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.3634" d="M184.8,136.4 L213.0,109.6 L246.7,93.7 L286.0,115.1 L327.8,99.5 L342.8,108.4 L339.7,159.1 L360.9,212.6 L348.4,271.5 L339.1,324.1 L361.1,356.5 L407.7,381.2 L430.0,403.0 L459.0,403.9 L459.9,425.1 L446.8,452.2 L405.4,505.9 L360.4,527.8 L311.5,526.3 L309.9,477.6 L290.3,419.9 L261.1,376.7 L219.1,352.1 L188.0,317.3 L191.2,264.5 L191.8,245.5 L209.8,256.6 L237.9,236.3 L234.8,191.8 L211.3,159.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.BM</hasc>
     <alt-name>NULL</alt-name>
@@ -126,7 +126,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.6410" d="M22.9,490.4 L0.0,437.7 L71.4,429.9 L125.4,412.6 L164.3,390.6 L188.2,361.7 L188.0,317.3 L219.1,352.1 L261.1,376.7 L290.3,419.9 L309.9,477.6 L311.5,526.3 L300.7,576.7 L275.3,607.7 L226.4,606.2 L202.6,586.4 L203.4,561.0 L199.6,533.4 L130.3,499.5 L75.6,489.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.SM</hasc>
     <alt-name>NULL</alt-name>
@@ -151,7 +151,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.6411" d="M188.0,317.3 L188.2,361.7 L164.3,390.6 L125.4,412.6 L71.4,429.9 L0.0,437.7 L62.7,252.4 L152.6,167.0 L184.8,136.4 L211.3,159.3 L234.8,191.8 L237.9,236.3 L209.8,256.6 L191.8,245.5 L191.2,264.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.AC</hasc>
     <alt-name>NULL</alt-name>
@@ -176,7 +176,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.6412" d="M360.9,212.6 L339.7,159.1 L342.8,108.4 L327.8,99.5 L286.0,115.1 L246.7,93.7 L396.6,22.5 L560.6,0.0 L598.1,75.3 L604.9,138.8 L556.6,159.4 L502.6,176.8 L453.4,236.7 L411.2,169.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.SE</hasc>
     <alt-name>NULL</alt-name>
@@ -201,7 +201,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.6413" d="M407.7,381.2 L361.1,356.5 L339.1,324.1 L348.4,271.5 L360.9,212.6 L411.2,169.8 L453.4,236.7 L502.6,176.8 L556.6,159.4 L604.9,138.8 L612.2,206.6 L605.5,263.8 L584.9,285.1 L549.1,305.2 L531.9,317.3 L487.6,318.1 L457.3,357.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.DO</hasc>
     <alt-name>NULL</alt-name>
@@ -226,7 +226,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="SM.6414" d="M523.0,464.3 L487.8,459.8 L466.2,467.6 L446.8,452.2 L459.9,425.1 L459.0,403.9 L430.0,403.0 L407.7,381.2 L457.3,357.3 L487.6,318.1 L531.9,317.3 L549.1,305.2 L584.9,285.1 L605.5,263.8 L596.4,341.5 L553.1,418.3 L553.1,418.3 L547.5,428.2 L532.4,444.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>SM.FA</hasc>
     <alt-name>NULL</alt-name>

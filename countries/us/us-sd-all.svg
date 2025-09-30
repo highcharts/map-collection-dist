@@ -3,13 +3,13 @@
 
         <svg version="1.1" viewBox="-5 -5 710 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <desc>
-            Map version: 2.3.1
+            Map version: 2.3.2
             Copyright (c) 2025 Highsoft AS, Based on data from OpenStreetMap
         </desc>
         <title>South Dakota</title>
         <g id="admin2">
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M416.2088,271.2765 511.4500,271.0004 505.9287,265.5712 494.7022,264.5590 488.3528,258.8537 477.8625,256.2771 476.4822,248.9155 467.3722,247.9953 449.1521,230.7874 436.5453,227.8428 438.6618,224.9901 416.2088,224.9901 416.2088,271.2765Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46053</fips>
 <name>Gregory</name>
 <hc-group>admin2</hc-group>
@@ -22,7 +22,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M97.3577,227.2907 97.3577,271.0004 182.2006,271.0004 179.3480,259.1297 179.3480,235.2044 176.5874,227.2907 176.5874,206.4940 174.4709,206.8621 173.0906,207.7823 114.9336,207.7823 111.4368,209.9908 106.4677,209.0706 105.8236,209.0706 98.8300,214.4998 97.3577,227.2907Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46102</fips>
 <name>Oglala Lakota</name>
 <hc-group>admin2</hc-group>
@@ -35,7 +35,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M179.3480,235.2044 179.3480,259.1297 182.2006,271.0004 260.6941,271.2765 260.6941,235.2044 179.3480,235.2044Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46007</fips>
 <name>Bennett</name>
 <hc-group>admin2</hc-group>
@@ -48,7 +48,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M352.4385,205.2057 353.8189,235.2044 355.1992,271.0004 416.2088,271.2765 416.2088,224.9901 407.8349,224.9901 407.8349,202.9972 402.2216,203.2733 395.8722,204.5616 387.4984,207.5062 386.7622,207.5062 387.4984,207.5062 386.7622,207.5062 377.0080,207.5062 370.6586,206.4940 362.2847,207.7823 352.4385,205.2057Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46123</fips>
 <name>Tripp</name>
 <hc-group>admin2</hc-group>
@@ -61,7 +61,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M543.7492,285.6317 556.3560,292.9933 567.5825,288.4843 568.9628,284.0673 586.4467,286.2758 591.4158,283.6992 591.4158,255.3569 550.7427,255.6330 548.6263,260.7861 547.8901,260.7861 548.6263,260.7861 547.8901,260.7861 547.8901,261.4303 547.8901,265.8472 547.8901,266.2153 548.6263,266.8595 548.6263,268.4238 547.8901,268.6999 547.8901,269.0680 547.8901,268.6999 547.2460,269.0680 547.8901,269.0680 547.2460,269.0680 547.8901,269.0680 547.8901,269.7121 547.8901,271.0004 547.8901,271.2765 547.8901,271.0004 547.8901,271.2765 547.8901,271.6445 548.6263,272.5647 548.6263,272.9328 548.6263,272.5647 548.6263,272.9328 548.6263,273.8530 548.6263,274.1291 548.6263,273.8530 548.6263,274.1291 547.8901,277.9940 547.8901,278.3620 547.8901,277.9940 547.8901,278.3620 547.2460,278.6381 547.2460,278.9142 547.2460,278.6381 547.2460,278.9142 547.2460,282.5030 546.5098,283.1471 543.7492,284.7114 543.7492,284.3434 543.7492,284.7114 543.7492,284.3434 543.7492,285.6317Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46009</fips>
 <name>Bon Homme</name>
 <hc-group>admin2</hc-group>
@@ -74,7 +74,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M260.6941,235.2044 260.6941,271.2765 355.1992,271.0004 353.8189,235.2044 260.6941,235.2044Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46121</fips>
 <name>Todd</name>
 <hc-group>admin2</hc-group>
@@ -87,7 +87,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M591.4158,255.3569 591.4158,283.6992 609.5438,284.9875 612.3965,283.1471 629.8804,285.3556 634.8495,289.4965 634.8495,263.2707 634.8495,255.3569 613.1326,255.3569 591.4158,255.3569Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46135</fips>
 <name>Yankton</name>
 <hc-group>admin2</hc-group>
@@ -100,7 +100,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M667.7008,298.4225 677.5470,302.9315 676.1667,307.7166 683.8964,315.9984 697.8835,318.8511 697.8835,311.8575 692.2703,302.5634 683.8964,298.1464 683.1602,292.0731 690.8900,285.9997 695.0309,276.0615 694.3867,266.4914 700.0000,263.2707 667.7008,263.2707 667.7008,298.4225Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46127</fips>
 <name>Union</name>
 <hc-group>admin2</hc-group>
@@ -113,7 +113,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M511.4500,271.0004 514.3026,275.7855 543.7492,285.6317 543.7492,284.3434 543.7492,284.7114 543.7492,284.3434 543.7492,284.7114 546.5098,283.1471 547.2460,282.5030 547.2460,278.9142 547.2460,278.6381 547.2460,278.9142 547.2460,278.6381 547.8901,278.3620 547.8901,277.9940 547.8901,278.3620 547.8901,277.9940 548.6263,274.1291 548.6263,273.8530 548.6263,274.1291 548.6263,273.8530 548.6263,272.9328 548.6263,272.5647 548.6263,272.9328 548.6263,272.5647 547.8901,271.6445 547.8901,271.2765 547.8901,271.0004 547.8901,271.2765 547.8901,271.0004 547.8901,269.7121 547.8901,269.0680 547.2460,269.0680 547.8901,269.0680 547.2460,269.0680 547.8901,268.6999 547.8901,269.0680 547.8901,268.6999 548.6263,268.4238 548.6263,266.8595 547.8901,266.2153 547.8901,265.8472 547.8901,261.4303 547.8901,260.7861 548.6263,260.7861 547.8901,260.7861 548.6263,260.7861 550.7427,255.6330 547.8901,252.7803 494.7022,236.8608 491.8496,224.9901 484.2119,224.9901 438.6618,224.9901 436.5453,227.8428 449.1521,230.7874 467.3722,247.9953 476.4822,248.9155 477.8625,256.2771 488.3528,258.8537 494.7022,264.5590 505.9287,265.5712 511.4500,271.0004Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46023</fips>
 <name>Charles Mix</name>
 <hc-group>admin2</hc-group>
@@ -126,7 +126,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M634.8495,289.4965 667.7008,298.4225 667.7008,263.2707 656.5663,263.2707 634.8495,263.2707 634.8495,289.4965Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46027</fips>
 <name>Clay</name>
 <hc-group>admin2</hc-group>
@@ -139,7 +139,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M97.3577,271.0004 97.3577,227.2907 0.0000,226.9226 0.7362,271.0004 97.3577,271.0004Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46047</fips>
 <name>Fall River</name>
 <hc-group>admin2</hc-group>
@@ -152,7 +152,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M482.7396,185.1453 484.2119,192.7830 484.2119,224.9901 491.8496,224.9901 528.2897,224.9901 527.6456,192.7830 526.9094,184.7772 482.7396,185.1453Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46003</fips>
 <name>Aurora</name>
 <hc-group>admin2</hc-group>
@@ -165,7 +165,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M492.5858,160.8518 526.9094,160.8518 571.0793,161.2199 571.0793,128.9207 571.0793,121.0070 559.8528,121.0070 491.8496,120.6389 492.5858,160.8518Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46005</fips>
 <name>Beadle</name>
 <hc-group>admin2</hc-group>
@@ -178,7 +178,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M637.6101,160.8518 660.0631,160.8518 700.0000,160.8518 700.0000,128.9207 660.0631,128.9207 637.6101,128.9207 637.6101,160.8518Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46011</fips>
 <name>Brookings</name>
 <hc-group>admin2</hc-group>
@@ -191,7 +191,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M490.4693,32.5753 490.4693,64.5064 491.2055,64.5064 559.8528,64.7824 559.8528,32.8513 559.8528,0.9202 490.4693,0.6441 490.4693,32.5753Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46013</fips>
 <name>Brown</name>
 <hc-group>admin2</hc-group>
@@ -204,7 +204,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M438.6618,224.9901 484.2119,224.9901 484.2119,192.7830 482.7396,185.1453 472.2492,185.1453 432.3123,185.1453 437.1894,192.4149 427.4353,199.7765 423.2023,210.6349 434.4288,213.2115 438.6618,224.9901Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46015</fips>
 <name>Brule</name>
 <hc-group>admin2</hc-group>
@@ -217,7 +217,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M412.7120,161.2199 414.0923,169.7778 431.5762,177.7836 432.3123,185.1453 472.2492,185.1453 472.2492,160.8518 437.9256,160.8518 412.7120,161.2199Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46017</fips>
 <name>Buffalo</name>
 <hc-group>admin2</hc-group>
@@ -230,7 +230,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M0.0000,126.4362 0.7362,126.0681 1.3803,125.7920 2.1165,125.7920 1.3803,125.7920 2.1165,125.7920 2.7606,125.7920 2.7606,125.4240 2.7606,125.7920 2.7606,125.4240 3.4968,125.4240 2.7606,125.4240 3.4968,125.4240 3.4968,125.7920 4.2329,125.7920 3.4968,125.7920 4.2329,125.7920 4.8771,126.0681 5.6133,126.0681 4.8771,126.0681 5.6133,126.0681 6.3494,125.7920 6.3494,126.0681 6.3494,125.7920 6.3494,126.0681 6.9936,125.7920 7.7297,125.4240 7.7297,125.7920 7.7297,125.4240 7.7297,125.7920 8.3739,125.7920 7.7297,125.7920 8.3739,125.7920 7.7297,125.7920 8.3739,125.7920 9.1100,125.7920 9.8462,125.7920 9.1100,125.7920 9.8462,125.7920 11.2265,125.4240 11.8706,125.4240 11.2265,125.4240 11.8706,125.4240 11.2265,125.4240 11.8706,125.4240 11.8706,125.1479 11.8706,125.4240 11.8706,125.1479 11.8706,125.4240 11.8706,125.1479 12.6068,124.7798 13.3430,124.7798 12.6068,124.7798 13.3430,124.7798 13.3430,125.1479 13.9871,125.1479 13.3430,125.1479 13.9871,125.1479 13.9871,124.7798 13.9871,124.5037 13.9871,124.7798 13.9871,124.5037 14.7233,124.1357 14.7233,124.5037 14.7233,124.1357 15.4594,124.1357 14.7233,124.1357 14.7233,124.5037 15.4594,124.1357 15.4594,123.8596 15.4594,124.1357 15.4594,123.8596 16.1036,123.8596 16.8398,124.1357 17.4839,124.7798 18.2201,124.7798 17.4839,124.7798 18.2201,124.7798 18.9562,124.5037 18.2201,124.7798 18.9562,124.5037 19.6004,124.5037 19.6004,124.7798 19.6004,124.5037 19.6004,124.7798 20.3365,124.7798 20.3365,124.5037 20.3365,124.7798 20.3365,124.5037 44.8140,123.4915 100.2103,123.4915 100.8545,83.2786 100.8545,67.3590 1.3803,67.3590 0.0000,87.1434 0.0000,126.4362Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46019</fips>
 <name>Butte</name>
 <hc-group>admin2</hc-group>
@@ -243,7 +243,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M326.4888,0.0000 340.5679,7.6377 337.7153,11.7786 346.0891,22.3610 334.2185,27.1460 334.2185,32.2072 399.3690,32.2072 398.7249,0.2761 326.4888,0.0000Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46021</fips>
 <name>Campbell</name>
 <hc-group>admin2</hc-group>
@@ -256,7 +256,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M559.8528,121.0070 571.0793,121.0070 571.0793,128.9207 604.6668,128.9207 604.6668,104.9954 604.0226,73.0643 559.1166,72.7882 559.8528,121.0070Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46025</fips>
 <name>Clark</name>
 <hc-group>admin2</hc-group>
@@ -269,7 +269,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M604.0226,73.0643 604.6668,104.9954 660.0631,104.9954 660.7072,89.0759 660.0631,73.0643 628.5001,73.0643 604.0226,73.0643Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46029</fips>
 <name>Codington</name>
 <hc-group>admin2</hc-group>
@@ -282,7 +282,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M189.8383,43.4337 238.2411,43.4337 341.9482,43.4337 329.9855,39.2928 334.2185,32.2072 334.2185,27.1460 346.0891,22.3610 337.7153,11.7786 340.5679,7.6377 326.4888,0.0000 189.8383,0.0000 189.8383,43.4337Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46031</fips>
 <name>Corson</name>
 <hc-group>admin2</hc-group>
@@ -295,7 +295,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M0.0000,192.4149 0.0000,226.9226 97.3577,227.2907 98.8300,214.4998 105.8236,209.0706 106.4677,209.0706 111.4368,209.9908 114.9336,207.7823 124.6878,197.5680 126.1601,192.4149 79.1376,192.1388 0.0000,192.4149Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46033</fips>
 <name>Custer</name>
 <hc-group>admin2</hc-group>
@@ -308,7 +308,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M528.2897,224.9901 547.2460,224.9901 561.2331,224.9901 560.4969,192.7830 527.6456,192.7830 528.2897,224.9901Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46035</fips>
 <name>Davison</name>
 <hc-group>admin2</hc-group>
@@ -321,7 +321,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M559.1166,72.7882 604.0226,73.0643 628.5001,73.0643 628.5001,59.7213 628.5001,35.7040 615.1571,32.8513 559.8528,32.8513 559.8528,64.7824 559.1166,72.7882Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46037</fips>
 <name>Day</name>
 <hc-group>admin2</hc-group>
@@ -334,7 +334,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M660.0631,128.9207 700.0000,128.9207 700.0000,89.0759 660.7072,89.0759 660.0631,104.9954 660.0631,128.9207Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46039</fips>
 <name>Deuel</name>
 <hc-group>admin2</hc-group>
@@ -347,7 +347,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M269.0680,110.7927 283.0551,111.3448 298.5145,107.2039 307.6246,108.4922 311.1213,102.7869 322.3478,109.1363 337.0711,99.9343 336.3350,96.3455 334.2185,87.7876 347.5615,83.9227 343.3285,77.2052 349.6779,64.1383 344.0647,58.4330 348.2056,53.0038 341.9482,43.4337 238.2411,43.4337 236.8608,51.3474 236.8608,83.2786 235.3885,87.4195 269.0680,87.4195 269.0680,110.7927Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46041</fips>
 <name>Dewey</name>
 <hc-group>admin2</hc-group>
@@ -360,7 +360,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M547.8901,252.7803 547.2460,224.9901 528.2897,224.9901 491.8496,224.9901 494.7022,236.8608 547.8901,252.7803Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46043</fips>
 <name>Douglas</name>
 <hc-group>admin2</hc-group>
@@ -373,7 +373,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M400.1052,64.5064 412.7120,64.5064 490.4693,64.5064 490.4693,32.5753 400.1052,32.2072 400.1052,64.5064Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46045</fips>
 <name>Edmunds</name>
 <hc-group>admin2</hc-group>
@@ -386,7 +386,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M412.7120,64.5064 412.7120,96.3455 436.5453,96.3455 491.2055,96.3455 491.2055,64.5064 490.4693,64.5064 412.7120,64.5064Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46049</fips>
 <name>Faulk</name>
 <hc-group>admin2</hc-group>
@@ -399,7 +399,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M628.5001,73.0643 660.0631,73.0643 660.7072,89.0759 700.0000,89.0759 700.0000,59.0772 698.6197,56.7767 650.2169,56.7767 648.8366,59.7213 628.5001,59.7213 628.5001,73.0643Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46051</fips>
 <name>Grant</name>
 <hc-group>admin2</hc-group>
@@ -412,7 +412,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M188.4580,179.3480 275.3254,179.3480 277.4418,163.4284 266.2153,163.4284 266.9515,115.5778 269.0680,110.7927 259.9579,115.5778 250.1117,116.2219 237.5049,123.4915 230.5114,126.0681 226.2784,126.0681 224.2540,126.0681 223.5178,125.4240 223.5178,125.1479 222.7816,125.1479 223.5178,125.1479 223.5178,125.4240 222.7816,125.1479 221.4013,125.1479 205.2978,131.2212 195.4516,129.9330 191.3106,130.8532 189.1942,132.4175 188.4580,179.3480Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46055</fips>
 <name>Haakon</name>
 <hc-group>admin2</hc-group>
@@ -425,7 +425,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M604.6668,128.9207 637.6101,128.9207 660.0631,128.9207 660.0631,104.9954 604.6668,104.9954 604.6668,128.9207Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46057</fips>
 <name>Hamlin</name>
 <hc-group>admin2</hc-group>
@@ -438,7 +438,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M437.9256,160.8518 472.2492,160.8518 492.5858,160.8518 491.8496,120.6389 492.5858,96.3455 491.2055,96.3455 436.5453,96.3455 436.5453,128.6447 437.9256,160.8518Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46059</fips>
 <name>Hand</name>
 <hc-group>admin2</hc-group>
@@ -451,7 +451,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M561.2331,224.9901 594.1764,224.9901 593.4403,192.7830 571.7234,192.7830 560.4969,192.7830 561.2331,224.9901Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46061</fips>
 <name>Hanson</name>
 <hc-group>admin2</hc-group>
@@ -464,7 +464,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M1.3803,67.3590 100.8545,67.3590 100.8545,35.7040 102.3268,0.0000 1.3803,0.0000 1.3803,67.3590Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46063</fips>
 <name>Harding</name>
 <hc-group>admin2</hc-group>
@@ -477,7 +477,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M379.0325,160.8518 384.0016,166.9252 393.7558,166.6491 407.8349,169.7778 410.5955,167.2013 400.1052,161.2199 404.2461,158.9194 404.2461,128.2766 402.8658,128.2766 325.1085,128.6447 320.2314,133.7058 323.7281,138.2148 336.3350,137.2026 340.5679,147.1408 365.0454,150.3615 383.2654,157.6311 379.0325,160.8518Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46065</fips>
 <name>Hughes</name>
 <hc-group>admin2</hc-group>
@@ -490,7 +490,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M547.2460,224.9901 547.8901,252.7803 550.7427,255.6330 591.4158,255.3569 613.1326,255.3569 613.1326,224.9901 594.1764,224.9901 561.2331,224.9901 547.2460,224.9901Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46067</fips>
 <name>Hutchinson</name>
 <hc-group>admin2</hc-group>
@@ -503,7 +503,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M402.8658,128.2766 404.2461,128.2766 404.2461,158.9194 412.7120,161.2199 437.9256,160.8518 436.5453,128.6447 436.5453,96.3455 412.7120,96.3455 402.8658,96.3455 402.8658,128.2766Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46069</fips>
 <name>Hyde</name>
 <hc-group>admin2</hc-group>
@@ -516,7 +516,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M176.5874,206.4940 176.5874,227.2907 179.3480,235.2044 260.6941,235.2044 260.6941,197.5680 265.5712,196.6478 266.2153,195.3595 266.9515,194.9915 267.6877,195.6356 271.8286,193.7032 272.5647,193.0590 273.9451,193.4271 275.3254,193.0590 275.3254,179.3480 188.4580,179.3480 187.8139,205.2057 187.8139,205.8499 187.8139,205.5738 187.8139,205.2057 187.8139,205.5738 187.8139,205.8499 186.3415,207.1382 180.8203,207.1382 176.5874,206.4940Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46071</fips>
 <name>Jackson</name>
 <hc-group>admin2</hc-group>
@@ -529,7 +529,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M472.2492,185.1453 482.7396,185.1453 526.9094,184.7772 526.9094,160.8518 492.5858,160.8518 472.2492,160.8518 472.2492,185.1453Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46073</fips>
 <name>Jerauld</name>
 <hc-group>admin2</hc-group>
@@ -542,7 +542,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M278.1780,192.4149 278.1780,192.7830 278.1780,192.4149 278.9142,192.4149 278.1780,192.4149 278.9142,192.4149 278.1780,192.7830 282.4109,192.7830 283.0551,193.4271 285.9077,195.6356 285.9077,196.2797 290.0486,196.9239 291.5210,197.8441 293.5454,198.4882 294.2816,198.4882 293.5454,198.4882 294.2816,198.4882 297.0422,200.4207 299.8948,201.7090 300.6310,202.6292 301.2751,203.6414 301.2751,203.9174 301.2751,203.6414 301.2751,203.9174 306.8884,205.5738 306.8884,205.2057 305.5081,204.5616 305.5081,204.2855 305.5081,204.5616 305.5081,204.2855 306.8884,205.2057 306.8884,205.5738 309.0049,205.2057 311.1213,204.9297 315.2623,202.6292 319.4952,200.4207 322.3478,202.6292 322.3478,202.9972 322.3478,202.6292 322.3478,202.9972 328.6052,203.2733 329.3414,203.9174 335.5988,203.6414 342.5923,204.9297 339.8317,193.0590 339.8317,163.4284 277.4418,163.4284 275.3254,179.3480 275.3254,193.0590 276.0615,192.4149 277.4418,192.4149 278.1780,192.4149Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46075</fips>
 <name>Jones</name>
 <hc-group>admin2</hc-group>
@@ -555,7 +555,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M571.0793,161.2199 571.7234,161.2199 615.8933,161.2199 637.6101,160.8518 637.6101,128.9207 604.6668,128.9207 571.0793,128.9207 571.0793,161.2199Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46077</fips>
 <name>Kingsbury</name>
 <hc-group>admin2</hc-group>
@@ -568,7 +568,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M615.8933,192.7830 637.6101,193.0590 660.0631,193.0590 660.0631,160.8518 637.6101,160.8518 615.8933,161.2199 615.8933,192.7830Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46079</fips>
 <name>Lake</name>
 <hc-group>admin2</hc-group>
@@ -581,7 +581,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M0.0000,166.0050 55.3963,166.0050 55.3963,155.1466 44.1698,155.1466 44.8140,123.4915 20.3365,124.5037 20.3365,124.7798 20.3365,124.5037 20.3365,124.7798 19.6004,124.7798 19.6004,124.5037 19.6004,124.7798 19.6004,124.5037 18.9562,124.5037 18.2201,124.7798 18.9562,124.5037 18.2201,124.7798 17.4839,124.7798 18.2201,124.7798 17.4839,124.7798 16.8398,124.1357 16.1036,123.8596 15.4594,123.8596 15.4594,124.1357 15.4594,123.8596 15.4594,124.1357 14.7233,124.5037 14.7233,124.1357 15.4594,124.1357 14.7233,124.1357 14.7233,124.5037 14.7233,124.1357 13.9871,124.5037 13.9871,124.7798 13.9871,124.5037 13.9871,124.7798 13.9871,125.1479 13.3430,125.1479 13.9871,125.1479 13.3430,125.1479 13.3430,124.7798 12.6068,124.7798 13.3430,124.7798 12.6068,124.7798 11.8706,125.1479 11.8706,125.4240 11.8706,125.1479 11.8706,125.4240 11.8706,125.1479 11.8706,125.4240 11.2265,125.4240 11.8706,125.4240 11.2265,125.4240 11.8706,125.4240 11.2265,125.4240 9.8462,125.7920 9.1100,125.7920 9.8462,125.7920 9.1100,125.7920 8.3739,125.7920 7.7297,125.7920 8.3739,125.7920 7.7297,125.7920 8.3739,125.7920 7.7297,125.7920 7.7297,125.4240 7.7297,125.7920 7.7297,125.4240 6.9936,125.7920 6.3494,126.0681 6.3494,125.7920 6.3494,126.0681 6.3494,125.7920 5.6133,126.0681 4.8771,126.0681 5.6133,126.0681 4.8771,126.0681 4.2329,125.7920 3.4968,125.7920 4.2329,125.7920 3.4968,125.7920 3.4968,125.4240 2.7606,125.4240 3.4968,125.4240 2.7606,125.4240 2.7606,125.7920 2.7606,125.4240 2.7606,125.7920 2.1165,125.7920 1.3803,125.7920 2.1165,125.7920 1.3803,125.7920 0.7362,126.0681 0.0000,126.4362 0.0000,166.0050Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46081</fips>
 <name>Lawrence</name>
 <hc-group>admin2</hc-group>
@@ -594,7 +594,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M656.5663,263.2707 667.7008,263.2707 700.0000,263.2707 697.8835,250.5718 689.5097,250.2038 687.3932,243.4863 693.0064,243.4863 693.6506,235.2044 686.6570,231.0635 686.6570,224.9901 656.5663,224.9901 656.5663,263.2707Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46083</fips>
 <name>Lincoln</name>
 <hc-group>admin2</hc-group>
@@ -607,7 +607,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M339.8317,163.4284 339.8317,193.0590 342.5923,204.9297 343.3285,204.9297 352.4385,205.2057 362.2847,207.7823 370.6586,206.4940 377.0080,207.5062 386.7622,207.5062 387.4984,207.5062 386.7622,207.5062 387.4984,207.5062 395.8722,204.5616 402.2216,203.2733 407.8349,202.9972 407.8349,224.9901 416.2088,224.9901 438.6618,224.9901 434.4288,213.2115 423.2023,210.6349 427.4353,199.7765 437.1894,192.4149 432.3123,185.1453 431.5762,177.7836 414.0923,169.7778 412.7120,161.2199 404.2461,158.9194 400.1052,161.2199 410.5955,167.2013 407.8349,169.7778 393.7558,166.6491 384.0016,166.9252 379.0325,160.8518 339.8317,161.2199 339.8317,163.4284Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46085</fips>
 <name>Lyman</name>
 <hc-group>admin2</hc-group>
@@ -620,7 +620,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M559.8528,32.8513 615.1571,32.8513 628.5001,35.7040 628.5001,0.9202 559.8528,0.9202 559.8528,32.8513Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46091</fips>
 <name>Marshall</name>
 <hc-group>admin2</hc-group>
@@ -633,7 +633,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M594.1764,224.9901 613.1326,224.9901 637.6101,224.9901 637.6101,193.0590 615.8933,192.7830 593.4403,192.7830 594.1764,224.9901Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46087</fips>
 <name>McCook</name>
 <hc-group>admin2</hc-group>
@@ -646,7 +646,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M399.3690,32.2072 400.1052,32.2072 490.4693,32.5753 490.4693,0.6441 398.7249,0.2761 399.3690,32.2072Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46089</fips>
 <name>McPherson</name>
 <hc-group>admin2</hc-group>
@@ -659,7 +659,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M55.3963,166.0050 153.4902,166.2811 153.4902,164.0726 156.9870,151.0057 161.1279,139.5031 168.8576,137.2026 180.0841,138.8589 189.1942,132.4175 189.8383,83.2786 100.8545,83.2786 100.2103,123.4915 44.8140,123.4915 44.1698,155.1466 55.3963,155.1466 55.3963,166.0050Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46093</fips>
 <name>Meade</name>
 <hc-group>admin2</hc-group>
@@ -672,7 +672,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M260.6941,235.2044 353.8189,235.2044 352.4385,205.2057 343.3285,204.9297 342.5923,204.9297 335.5988,203.6414 329.3414,203.9174 328.6052,203.2733 322.3478,202.9972 322.3478,202.6292 322.3478,202.9972 322.3478,202.6292 319.4952,200.4207 315.2623,202.6292 311.1213,204.9297 309.0049,205.2057 306.8884,205.5738 306.8884,205.2057 305.5081,204.2855 305.5081,204.5616 305.5081,204.2855 305.5081,204.5616 306.8884,205.2057 306.8884,205.5738 301.2751,203.9174 301.2751,203.6414 301.2751,203.9174 301.2751,203.6414 300.6310,202.6292 299.8948,201.7090 297.0422,200.4207 294.2816,198.4882 293.5454,198.4882 294.2816,198.4882 293.5454,198.4882 291.5210,197.8441 290.0486,196.9239 285.9077,196.2797 285.9077,195.6356 283.0551,193.4271 282.4109,192.7830 278.1780,192.7830 278.9142,192.4149 278.1780,192.4149 278.9142,192.4149 278.1780,192.4149 278.1780,192.7830 278.1780,192.4149 277.4418,192.4149 276.0615,192.4149 275.3254,193.0590 273.9451,193.4271 272.5647,193.0590 271.8286,193.7032 267.6877,195.6356 266.9515,194.9915 266.2153,195.3595 265.5712,196.6478 260.6941,197.5680 260.6941,235.2044Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46095</fips>
 <name>Mellette</name>
 <hc-group>admin2</hc-group>
@@ -685,7 +685,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M571.7234,192.7830 593.4403,192.7830 615.8933,192.7830 615.8933,161.2199 571.7234,161.2199 571.7234,192.7830Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46097</fips>
 <name>Miner</name>
 <hc-group>admin2</hc-group>
@@ -698,7 +698,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M637.6101,224.9901 656.5663,224.9901 686.6570,224.9901 700.0000,224.9901 700.0000,192.7830 660.0631,193.0590 637.6101,193.0590 637.6101,224.9901Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46099</fips>
 <name>Minnehaha</name>
 <hc-group>admin2</hc-group>
@@ -711,7 +711,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M660.0631,160.8518 660.0631,193.0590 700.0000,192.7830 700.0000,160.8518 660.0631,160.8518Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46101</fips>
 <name>Moody</name>
 <hc-group>admin2</hc-group>
@@ -724,7 +724,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M0.0000,192.4149 79.1376,192.1388 126.1601,192.4149 124.6878,197.5680 114.9336,207.7823 173.0906,207.7823 174.4709,206.8621 176.5874,206.4940 180.8203,207.1382 186.3415,207.1382 187.8139,205.8499 187.8139,205.5738 187.8139,205.2057 187.8139,205.5738 187.8139,205.8499 187.8139,205.2057 188.4580,179.3480 189.1942,132.4175 180.0841,138.8589 168.8576,137.2026 161.1279,139.5031 156.9870,151.0057 153.4902,164.0726 153.4902,166.2811 55.3963,166.0050 0.0000,166.0050 0.0000,192.4149Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46103</fips>
 <name>Pennington</name>
 <hc-group>admin2</hc-group>
@@ -737,7 +737,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M100.8545,67.3590 100.8545,83.2786 189.8383,83.2786 189.8383,43.4337 189.8383,0.0000 102.3268,0.0000 100.8545,35.7040 100.8545,67.3590Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46105</fips>
 <name>Perkins</name>
 <hc-group>admin2</hc-group>
@@ -750,7 +750,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M336.3350,96.3455 402.8658,96.3455 412.7120,96.3455 412.7120,64.5064 400.1052,64.5064 349.6779,64.1383 343.3285,77.2052 347.5615,83.9227 334.2185,87.7876 336.3350,96.3455Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46107</fips>
 <name>Potter</name>
 <hc-group>admin2</hc-group>
@@ -763,7 +763,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M628.5001,0.9202 628.5001,35.7040 628.5001,59.7213 648.8366,59.7213 650.2169,56.7767 698.6197,56.7767 685.2767,49.5070 678.2832,49.1390 662.8237,31.2870 664.2040,27.4221 681.0438,18.8642 688.0373,11.5026 689.5097,0.9202 628.5001,0.9202Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46109</fips>
 <name>Roberts</name>
 <hc-group>admin2</hc-group>
@@ -776,7 +776,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M526.9094,184.7772 527.6456,192.7830 560.4969,192.7830 571.7234,192.7830 571.7234,161.2199 571.0793,161.2199 526.9094,160.8518 526.9094,184.7772Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46111</fips>
 <name>Sanborn</name>
 <hc-group>admin2</hc-group>
@@ -789,7 +789,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M491.2055,64.5064 491.2055,96.3455 492.5858,96.3455 491.8496,120.6389 559.8528,121.0070 559.1166,72.7882 559.8528,64.7824 491.2055,64.5064Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46115</fips>
 <name>Spink</name>
 <hc-group>admin2</hc-group>
@@ -802,7 +802,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M277.4418,163.4284 339.8317,163.4284 339.8317,161.2199 379.0325,160.8518 383.2654,157.6311 365.0454,150.3615 340.5679,147.1408 336.3350,137.2026 323.7281,138.2148 320.2314,133.7058 325.1085,128.6447 314.6181,125.7920 315.9984,111.9890 307.6246,108.4922 298.5145,107.2039 283.0551,111.3448 269.0680,110.7927 266.9515,115.5778 266.2153,163.4284 277.4418,163.4284Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46117</fips>
 <name>Stanley</name>
 <hc-group>admin2</hc-group>
@@ -815,7 +815,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M307.6246,108.4922 315.9984,111.9890 314.6181,125.7920 325.1085,128.6447 402.8658,128.2766 402.8658,96.3455 336.3350,96.3455 337.0711,99.9343 322.3478,109.1363 311.1213,102.7869 307.6246,108.4922Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46119</fips>
 <name>Sully</name>
 <hc-group>admin2</hc-group>
@@ -828,7 +828,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M613.1326,255.3569 634.8495,255.3569 634.8495,263.2707 656.5663,263.2707 656.5663,224.9901 637.6101,224.9901 613.1326,224.9901 613.1326,255.3569Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46125</fips>
 <name>Turner</name>
 <hc-group>admin2</hc-group>
@@ -841,7 +841,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M341.9482,43.4337 348.2056,53.0038 344.0647,58.4330 349.6779,64.1383 400.1052,64.5064 400.1052,32.2072 399.3690,32.2072 334.2185,32.2072 329.9855,39.2928 341.9482,43.4337Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46129</fips>
 <name>Walworth</name>
 <hc-group>admin2</hc-group>
@@ -854,7 +854,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M189.1942,132.4175 191.3106,130.8532 195.4516,129.9330 205.2978,131.2212 221.4013,125.1479 222.7816,125.1479 223.5178,125.4240 223.5178,125.1479 222.7816,125.1479 223.5178,125.1479 223.5178,125.4240 224.2540,126.0681 226.2784,126.0681 230.5114,126.0681 237.5049,123.4915 250.1117,116.2219 259.9579,115.5778 269.0680,110.7927 269.0680,87.4195 235.3885,87.4195 236.8608,83.2786 236.8608,51.3474 238.2411,43.4337 189.8383,43.4337 189.8383,83.2786 189.1942,132.4175Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <fips>46137</fips>
 <name>Ziebach</name>
 <hc-group>admin2</hc-group>

@@ -3,14 +3,14 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.3.1
+Map version: 2.3.2
 Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>United States Virgin Islands</title>
 <g id="admin1">
 
 <g id="VI">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <name>United States Virgin Islands</name>
     <labelrank>6</labelrank>
     <country-abbrev>V.I. (U.S.)</country-abbrev>
@@ -26,7 +26,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </g>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VI.3617" d="M92.7,82.4 L88.8,84.2 L86.2,83.8 L82.8,89.2 L76.5,97.2 L74.7,94.6 L74.8,90.7 L76.9,85.0 L83.7,77.0 L87.0,74.5 L91.5,77.9 Z M104.2,25.3 L138.6,44.7 L172.4,63.6 L186.4,85.4 L175.9,87.2 L167.7,84.5 L157.3,88.5 L150.7,98.4 L121.3,87.7 L110.8,81.2 L102.4,64.8 L98.6,73.6 L89.7,67.6 L69.8,71.7 L55.4,69.0 L44.3,57.1 L15.1,66.1 L0.0,52.0 L27.3,37.3 L50.5,31.1 L84.4,32.0 L98.3,41.8 L106.6,39.0 L91.5,27.6 L84.3,19.4 Z M127.2,16.0 L123.7,19.7 L119.0,13.6 L116.7,6.4 L113.0,2.1 L120.0,0.0 L126.8,4.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>VI.ST</hasc>
     <alt-name>NULL</alt-name>
@@ -51,7 +51,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VI.6398" d="M348.3,55.5 L352.3,65.3 L339.6,67.6 L314.7,59.6 L308.1,62.4 L318.1,75.5 L312.3,98.0 L282.3,82.4 L236.1,87.2 L222.2,74.7 L235.8,53.8 L251.1,47.0 L267.6,41.9 L263.7,34.8 L272.0,30.4 L302.9,38.3 L317.8,40.9 L331.7,46.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>VI.SJ</hasc>
     <alt-name>NULL</alt-name>
@@ -76,7 +76,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="VI.6399" d="M292.4,618.8 L312.0,625.5 L321.9,630.6 L330.6,638.3 L351.6,620.6 L384.9,613.0 L421.2,614.6 L451.3,623.9 L451.4,630.5 L427.5,633.3 L407.6,640.0 L368.8,658.3 L348.7,664.8 L158.0,693.7 L140.6,700.0 L147.3,683.4 L148.3,669.3 L147.0,629.8 L149.7,617.6 L157.2,609.8 L192.3,620.1 L211.9,611.0 L232.2,597.8 L254.3,592.7 L256.6,595.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>VI.SC</hasc>
     <alt-name>NULL</alt-name>

@@ -1,9 +1,11 @@
 Highcharts.mapDataIndex = {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "Custom": {
         "Africa": "custom/africa.js",
+        "Africa with SADR-administered areas": "custom/africa-sadr.js",
         "Antarctica": "custom/antarctica.js",
         "Asia": "custom/asia.js",
+        "Asia with Taiwan": "custom/asia-taiwan.js",
         "Benelux": "custom/benelux.js",
         "British Isles": "custom/british-isles.js",
         "British Isles, admin1": "custom/british-isles-all.js",
@@ -21,22 +23,31 @@ Highcharts.mapDataIndex = {
         "Scandinavia": "custom/scandinavia.js",
         "South America": "custom/south-america.js",
 
-        "World, Miller projection, low resolution": "custom/world-lowres.js",
-        "World, Miller projection, medium resolution": "custom/world.js",
-        "World, Miller projection, high resolution": "custom/world-highres.js",
-        "World, Miller projection, very high resolution": "custom/world-highres2.js",
-        "World, Miller projection, ultra high resolution": "custom/world-highres3.js",
+        "World, low resolution": "custom/world-lowres.js",
+        "World, medium resolution": "custom/world.js",
+        "World, high resolution": "custom/world-highres.js",
+        "World, very high resolution": "custom/world-highres2.js",
+        "World, ultra high resolution": "custom/world-highres3.js",
 
         "World continents": "custom/world-continents.js",
         "World with Palestine areas, low resolution": "custom/world-palestine-lowres.js",
         "World with Palestine areas, medium resolution": "custom/world-palestine.js",
         "World with Palestine areas, high resolution": "custom/world-palestine-highres.js",
-        "World, Eckert III projection, low resolution": "custom/world-eckert3-lowres.js",
-        "World, Eckert III projection, medium resolution": "custom/world-eckert3.js",
-        "World, Eckert III projection, high resolution": "custom/world-eckert3-highres.js",
-        "World, Robinson projection, low resolution": "custom/world-robinson-lowres.js",
-        "World, Robinson projection, medium resolution": "custom/world-robinson.js",
-        "World, Robinson projection, high resolution": "custom/world-robinson-highres.js"
+        "World with Taiwan, low resolution": "custom/world-taiwan-lowres.js",
+        "World with Taiwan, medium resolution": "custom/world-taiwan.js",
+        "World with Taiwan, high resolution": "custom/world-taiwan-highres.js",
+        "World with Taiwan, very high resolution": "custom/world-taiwan-highres2.js",
+        "World with Taiwan, ultra high resolution": "custom/world-taiwan-highres3.js",
+        "World with Palestine areas and Taiwan, low resolution": "custom/world-palestine-taiwan-lowres.js",
+        "World with Palestine areas and Taiwan, medium resolution": "custom/world-palestine-taiwan.js",
+        "World with Palestine areas and Taiwan, high resolution": "custom/world-palestine-taiwan-highres.js",
+
+        "World with Taiwan, Eckert III projection, low resolution": "custom/world-eckert3-lowres.js",
+        "World with Taiwan, Eckert III projection, medium resolution": "custom/world-eckert3.js",
+        "World with Taiwan, Eckert III projection, high resolution": "custom/world-eckert3-highres.js",
+        "World with Taiwan, Robinson projection, low resolution": "custom/world-robinson-lowres.js",
+        "World with Taiwan, Robinson projection, medium resolution": "custom/world-robinson.js",
+        "World with Taiwan, Robinson projection, high resolution": "custom/world-robinson-highres.js"
     },
     "Countries": {
         "Afghanistan": "countries/af/af-all.js",
@@ -471,9 +482,9 @@ Highcharts.mapDataIndex = {
         "Norway (2023)": "historical/countries/no-2023/no-all-2023.js",
         "Norway, admin2 (2023)": "historical/countries/no-2023/no-all-all-2023.js",
         "Norway with Svalbard and Jan Mayen (2023)": "historical/countries/no-2023/custom/no-all-svalbard-and-jan-mayen-2023.js",
-        "Norway (2019)": "historical/countries/no-2019/no-all-2019.js",
+        "Norway (2017)": "historical/countries/no-2017/no-all-2017.js",
         "Norway, admin2 (2019)": "historical/countries/no-2019/no-all-all-2019.js",
-        "Norway with Svalbard and Jan Mayen (2019)": "historical/countries/no-2019/custom/no-all-svalbard-and-jan-mayen-2019.js",
+        "Norway with Svalbard and Jan Mayen (2017)": "historical/countries/no-2017/custom/no-all-svalbard-and-jan-mayen-2017.js",
         "France (2015)": "historical/countries/fr-2015/fr-all-2015.js",
         "France, admin2 (2015)": "historical/countries/fr-2015/fr-all-all-2015.js",
         "France, mainland (2015)": "historical/countries/fr-2015/custom/fr-all-mainland-2015.js",
@@ -485,7 +496,8 @@ Highcharts.mapDataIndex = {
         "Indonesia (2011)": "historical/countries/id-2011/id-all-2011.js",
         "Swaziland (2018)": "historical/countries/sz-2018/sz-all-2018.js",
         "Laos (2012)": "historical/countries/la-2012/la-all-2012.js",
-        "Montenegro (2013)": "historical/countries/me-2013/me-all-2013.js"
+        "Montenegro (2013)": "historical/countries/me-2013/me-all-2013.js",
+        "Ireland (2013)": "historical/countries/ie-2013/ie-all-2013.js"
     },
     "Historical: Norway Counties (2023)": {
         "Agder, admin2 (2023)": "historical/countries/no-2023/no-ag-all-2023.js",
@@ -500,26 +512,26 @@ Highcharts.mapDataIndex = {
         "Vestland, admin2 (2023)": "historical/countries/no-2023/no-vl-all-2023.js",
         "Vestfold og Telemark, admin2 (2023)": "historical/countries/no-2023/no-vt-all-2023.js"
     },
-    "Historical: Norway Counties (2019)": {
-        "Akershus, admin2 (2019)": "historical/countries/no-2019/no-ak-all-2019.js",
-        "Aust-Agder, admin2 (2019)": "historical/countries/no-2019/no-aa-all-2019.js",
-        "Buskerud, admin2 (2019)": "historical/countries/no-2019/no-bu-all-2019.js",
-        "Finnmark, admin2 (2019)": "historical/countries/no-2019/no-fi-all-2019.js",
-        "Hedmark, admin2 (2019)": "historical/countries/no-2019/no-he-all-2019.js",
-        "Hordaland, admin2 (2019)": "historical/countries/no-2019/no-ho-all-2019.js",
-        "Møre og Romsdal, admin2 (2019)": "historical/countries/no-2019/no-mr-all-2019.js",
-        "Nord-Trøndelag, admin2 (2019)": "historical/countries/no-2019/no-nt-all-2019.js",
-        "Nordland, admin2 (2019)": "historical/countries/no-2019/no-no-all-2019.js",
-        "Oppland, admin2 (2019)": "historical/countries/no-2019/no-op-all-2019.js",
-        "Oslo, admin2 (2019)": "historical/countries/no-2019/no-os-all-2019.js",
-        "Rogaland, admin2 (2019)": "historical/countries/no-2019/no-ro-all-2019.js",
-        "Sogn og Fjordane, admin2 (2019)": "historical/countries/no-2019/no-sf-all-2019.js",
-        "Sør-Trøndelag, admin2 (2019)": "historical/countries/no-2019/no-st-all-2019.js",
-        "Telemark, admin2 (2019)": "historical/countries/no-2019/no-te-all-2019.js",
-        "Troms, admin2 (2019)": "historical/countries/no-2019/no-tr-all-2019.js",
-        "Vest-Agder, admin2 (2019)": "historical/countries/no-2019/no-va-all-2019.js",
-        "Vestfold, admin2 (2019)": "historical/countries/no-2019/no-vf-all-2019.js",
-        "Østfold, admin2 (2019)": "historical/countries/no-2019/no-of-all-2019.js"
+    "Historical: Norway Counties (2017)": {
+        "Akershus, admin2 (2017)": "historical/countries/no-2017/no-ak-all-2017.js",
+        "Aust-Agder, admin2 (2017)": "historical/countries/no-2017/no-aa-all-2017.js",
+        "Buskerud, admin2 (2017)": "historical/countries/no-2017/no-bu-all-2017.js",
+        "Finnmark, admin2 (2017)": "historical/countries/no-2017/no-fi-all-2017.js",
+        "Hedmark, admin2 (2017)": "historical/countries/no-2017/no-he-all-2017.js",
+        "Hordaland, admin2 (2017)": "historical/countries/no-2017/no-ho-all-2017.js",
+        "Møre og Romsdal, admin2 (2017)": "historical/countries/no-2017/no-mr-all-2017.js",
+        "Nord-Trøndelag, admin2 (2017)": "historical/countries/no-2017/no-nt-all-2017.js",
+        "Nordland, admin2 (2017)": "historical/countries/no-2017/no-no-all-2017.js",
+        "Oppland, admin2 (2017)": "historical/countries/no-2017/no-op-all-2017.js",
+        "Oslo, admin2 (2019)": "historical/countries/no-2017/no-os-all-2017.js",
+        "Rogaland, admin2 (2017)": "historical/countries/no-2017/no-ro-all-2017.js",
+        "Sogn og Fjordane, admin2 (2017)": "historical/countries/no-2017/no-sf-all-2017.js",
+        "Sør-Trøndelag, admin2 (2017)": "historical/countries/no-2017/no-st-all-2017.js",
+        "Telemark, admin2 (2017)": "historical/countries/no-2017/no-te-all-2017.js",
+        "Troms, admin2 (2017)": "historical/countries/no-2017/no-tr-all-2017.js",
+        "Vest-Agder, admin2 (2017)": "historical/countries/no-2017/no-va-all-2017.js",
+        "Vestfold, admin2 (2017)": "historical/countries/no-2017/no-vf-all-2017.js",
+        "Østfold, admin2 (2017)": "historical/countries/no-2017/no-of-all-2017.js"
     },
     "Historical: France Regions Admin 2 (2024)": {
         "Auvergne-Rhône-Alpes, admin2 (2024)": "historical/countries/fr-2024/fr-ara-all-2024.js",
@@ -574,5 +586,8 @@ Highcharts.mapDataIndex = {
         "Connecticut, admin2 (2023)": "historical/countries/us-2023/us-ct-all-2023.js",
         "South Dakota, admin2 (2015)": "historical/countries/us-20215/us-sd-all-2015.js",
         "Virginia, admin2 (2013)": "historical/countries/us-2013/us-va-all-2013.js"
+    },
+    "Historical: Custom": {
+        "European Union (2020)": "historical/custom/european-union-2020.js",
     }
 };

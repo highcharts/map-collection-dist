@@ -3,14 +3,14 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.3.1
+Map version: 2.3.2
 Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Nauru</title>
 <g id="admin1">
 
 <g id="NR">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <name>Nauru</name>
     <labelrank>6</labelrank>
     <country-abbrev>Nauru</country-abbrev>
@@ -26,7 +26,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </g>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6494" d="M277.7,33.3 L365.1,0.0 L367.0,156.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.AT</hasc>
     <alt-name>NULL</alt-name>
@@ -51,7 +51,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6495" d="M367.0,156.9 L365.1,0.0 L557.3,86.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.AB</hasc>
     <alt-name>NULL</alt-name>
@@ -76,7 +76,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6496" d="M367.0,156.9 L557.3,86.3 L578.1,238.4 L455.6,208.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.IJ</hasc>
     <alt-name>NULL</alt-name>
@@ -101,7 +101,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6497" d="M578.1,238.4 L588.0,310.7 L530.0,489.6 L439.4,477.0 L326.6,448.9 L334.2,396.3 L338.8,364.9 L341.8,339.4 L346.9,297.4 L350.9,264.9 L356.2,229.1 L367.0,156.9 L455.6,208.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.AR</hasc>
     <alt-name>NULL</alt-name>
@@ -126,7 +126,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6498" d="M530.0,489.6 L508.6,555.4 L364.8,700.0 L294.1,686.5 L209.8,500.9 L326.6,448.9 L439.4,477.0 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.ME</hasc>
     <alt-name>NULL</alt-name>
@@ -151,7 +151,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6499" d="M294.1,686.5 L107.3,650.8 L129.3,568.9 L150.2,551.2 L209.8,500.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.YA</hasc>
     <alt-name>NULL</alt-name>
@@ -176,7 +176,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6487" d="M107.3,650.8 L57.3,530.3 L125.3,508.9 L150.2,551.2 L129.3,568.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.BO</hasc>
     <alt-name>NULL</alt-name>
@@ -201,7 +201,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.3591" d="M150.2,551.2 L125.3,508.9 L105.2,440.9 L113.2,384.8 L153.5,344.9 L246.1,368.9 L334.2,396.3 L326.6,448.9 L209.8,500.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.BU</hasc>
     <alt-name>NULL</alt-name>
@@ -226,7 +226,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6488" d="M125.3,508.9 L57.3,530.3 L0.0,392.1 L113.2,384.8 L105.2,440.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.AI</hasc>
     <alt-name>NULL</alt-name>
@@ -251,7 +251,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6489" d="M153.5,344.9 L113.2,384.8 L0.0,392.1 L38.1,247.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.DE</hasc>
     <alt-name>NULL</alt-name>
@@ -276,7 +276,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6490" d="M334.2,396.3 L246.1,368.9 L153.5,344.9 L38.1,247.1 L73.8,111.2 L341.8,339.4 L338.8,364.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.NI</hasc>
     <alt-name>NULL</alt-name>
@@ -301,7 +301,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6491" d="M341.8,339.4 L73.8,111.2 L127.1,90.8 L346.9,297.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.UA</hasc>
     <alt-name>NULL</alt-name>
@@ -326,7 +326,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6492" d="M346.9,297.4 L127.1,90.8 L208.1,59.9 L356.2,229.1 L350.9,264.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.BA</hasc>
     <alt-name>NULL</alt-name>
@@ -351,7 +351,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NR.6493" d="M356.2,229.1 L208.1,59.9 L277.7,33.3 L367.0,156.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>NR.EW</hasc>
     <alt-name>NULL</alt-name>

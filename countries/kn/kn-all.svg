@@ -3,14 +3,14 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.3.1
+Map version: 2.3.2
 Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Saint Kitts and Nevis</title>
 <g id="admin1">
 
 <g id="KN">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <name>Saint Kitts and Nevis</name>
     <labelrank>6</labelrank>
     <country-abbrev>St.K.N.</country-abbrev>
@@ -26,7 +26,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </g>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.TP" d="M293.2,275.7 L250.0,278.2 L222.5,274.4 L191.1,261.8 L196.0,246.1 L202.9,227.3 L219.5,218.6 L227.7,188.4 L247.1,188.3 L262.4,189.7 L270.7,215.7 L281.8,237.3 L276.3,244.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.TP</hasc>
     <alt-name>NULL</alt-name>
@@ -51,7 +51,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.CC" d="M195.6,64.0 L278.7,113.6 L263.7,122.0 L255.4,136.4 L245.7,159.5 L247.1,188.3 L227.7,188.4 L175.1,178.3 L172.3,163.9 L157.1,146.6 L183.3,107.7 L180.5,91.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.CC</hasc>
     <alt-name>NULL</alt-name>
@@ -76,7 +76,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.AS" d="M62.9,190.5 L0.0,119.1 L9.4,78.8 L35.1,86.2 L43.4,74.6 L55.9,80.4 L53.2,96.3 L114.1,109.2 L98.9,139.5 L89.2,139.5 L78.1,165.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.AS</hasc>
     <alt-name>NULL</alt-name>
@@ -101,7 +101,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.GB" d="M384.3,258.4 L390.8,274.4 L414.9,315.9 L450.0,333.4 L479.1,349.8 L504.8,386.1 L505.0,423.0 L457.4,441.0 L430.3,422.6 L407.2,338.9 L364.8,312.8 L336.9,281.3 L317.3,274.3 L293.2,275.7 L276.3,244.5 L281.8,237.3 L270.7,215.7 L284.6,211.3 L294.3,227.2 L323.4,232.9 L345.5,244.4 L365.0,260.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.GB</hasc>
     <alt-name>NULL</alt-name>
@@ -126,7 +126,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.GG" d="M693.0,615.7 L693.5,635.0 L690.0,654.4 L679.1,681.4 L670.5,690.8 L631.7,700.0 L604.0,600.1 L638.6,589.9 L667.7,600.0 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.GG</hasc>
     <alt-name>NULL</alt-name>
@@ -151,7 +151,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.JW" d="M531.3,503.3 L559.6,472.5 L604.1,473.3 L642.7,486.2 L672.4,514.9 L689.7,563.4 L692.3,583.5 L693.0,615.7 L667.7,600.0 L638.6,589.9 L604.0,600.1 L567.8,529.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.JW</hasc>
     <alt-name>NULL</alt-name>
@@ -176,7 +176,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.JC" d="M82.6,12.8 L88.5,0.0 L195.6,64.0 L180.5,91.8 L183.3,107.7 L157.1,146.6 L114.1,109.2 L112.7,96.2 L98.8,91.9 L91.9,78.9 L90.5,53.0 L90.5,31.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.JC</hasc>
     <alt-name>NULL</alt-name>
@@ -201,7 +201,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.JF" d="M631.7,700.0 L532.4,692.2 L512.3,638.5 L540.3,636.3 L574.9,629.0 L604.0,600.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.JF</hasc>
     <alt-name>NULL</alt-name>
@@ -226,7 +226,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.MC" d="M247.1,188.3 L245.7,159.5 L255.4,136.4 L263.7,122.0 L278.7,113.6 L301.2,127.1 L336.3,164.7 L319.1,173.8 L297.0,173.8 L276.2,171.0 L262.4,189.7 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.MC</hasc>
     <alt-name>NULL</alt-name>
@@ -251,7 +251,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.PP" d="M114.1,109.2 L53.2,96.3 L55.9,80.4 L43.4,74.6 L35.1,86.2 L9.4,78.8 L16.9,47.0 L25.2,39.4 L30.9,35.3 L37.3,32.9 L47.3,30.4 L73.4,19.3 L82.6,12.8 L90.5,31.3 L90.5,53.0 L91.9,78.9 L98.8,91.9 L112.7,96.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.PP</hasc>
     <alt-name>NULL</alt-name>
@@ -276,7 +276,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.PL" d="M512.3,638.5 L501.9,611.0 L565.2,616.1 L604.0,600.1 L574.9,629.0 L540.3,636.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.PL</hasc>
     <alt-name>NULL</alt-name>
@@ -301,7 +301,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.PB" d="M270.7,215.7 L262.4,189.7 L276.2,171.0 L297.0,173.8 L319.1,173.8 L336.3,164.7 L353.6,183.3 L384.3,258.4 L365.0,260.3 L345.5,244.4 L323.4,232.9 L294.3,227.2 L284.6,211.3 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.PB</hasc>
     <alt-name>NULL</alt-name>
@@ -326,7 +326,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.TL" d="M604.0,600.1 L565.2,616.1 L501.9,611.0 L518.3,517.4 L531.3,503.3 L567.8,529.5 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.TL</hasc>
     <alt-name>NULL</alt-name>
@@ -351,7 +351,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KN.TM" d="M157.1,146.6 L172.3,163.9 L175.1,178.3 L227.7,188.4 L219.5,218.6 L202.9,227.3 L196.0,246.1 L191.1,261.8 L154.6,247.0 L62.9,190.5 L78.1,165.4 L89.2,139.5 L98.9,139.5 L114.1,109.2 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>KN.TM</hasc>
     <alt-name>NULL</alt-name>

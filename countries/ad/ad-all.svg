@@ -3,13 +3,13 @@
 
         <svg version="1.1" viewBox="-5 -5 710 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <desc>
-            Map version: 2.3.1
+            Map version: 2.3.2
             Copyright (c) 2025 Highsoft AS, Based on data from OpenStreetMap
         </desc>
         <title>Andorra</title>
         <g id="admin1">
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M96.0422,280.7388 127.4406,315.8311 153.2982,328.7599 247.4934,336.1478 258.5752,319.5251 210.5541,245.6464 164.3799,262.2691 110.8179,269.6570 96.0422,280.7388Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <hasc>AD.AN</hasc>
 <fips>AN07</fips>
 <name>Andorra la Vella</name>
@@ -24,7 +24,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M284.4327,203.1662 395.2507,203.1662 428.4960,190.2375 461.7414,203.1662 500.5277,181.0026 561.4776,175.4617 611.3456,184.6966 637.2032,168.0739 668.6016,168.0739 700.0000,151.4512 688.9182,134.8285 664.9077,140.3694 616.8865,125.5937 591.0290,125.5937 605.8047,70.1847 563.3245,75.7256 537.4670,60.9499 502.3747,57.2559 472.8232,68.3377 426.6491,51.7150 360.1583,55.4090 367.5462,79.4195 341.6887,84.9604 310.2902,105.2770 289.9736,131.1346 301.0554,197.6253 284.4327,203.1662Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <hasc>AD.CA</hasc>
 <fips>AN02</fips>
 <name>Canillo</name>
@@ -39,7 +39,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M254.8813,243.7995 267.8100,262.2691 301.0554,253.0343 367.5462,289.9736 411.8734,289.9736 470.9763,302.9024 513.4565,295.5145 543.0079,306.5963 587.3351,282.5858 603.9578,199.4723 611.3456,184.6966 561.4776,175.4617 500.5277,181.0026 461.7414,203.1662 428.4960,190.2375 395.2507,203.1662 284.4327,203.1662 254.8813,243.7995Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <hasc>AD.EN</hasc>
 <fips>AN03</fips>
 <name>Encamp</name>
@@ -54,7 +54,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M210.5541,245.6464 258.5752,319.5251 247.4934,336.1478 282.5858,363.8522 319.5251,380.4749 328.7599,360.1583 352.7704,347.2296 365.6992,354.6174 459.8945,347.2296 470.9763,302.9024 411.8734,289.9736 367.5462,289.9736 301.0554,253.0343 267.8100,262.2691 254.8813,243.7995 210.5541,245.6464Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <hasc>AD.EE</hasc>
 <fips>AN08</fips>
 <name>Escaldes-Engordany</name>
@@ -69,7 +69,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M110.8179,269.6570 164.3799,262.2691 210.5541,245.6464 254.8813,243.7995 284.4327,203.1662 210.5541,201.3193 203.1662,175.4617 164.3799,142.2164 164.3799,118.2058 112.6649,92.3483 62.7968,96.0422 60.9499,114.5119 35.0923,127.4406 60.9499,169.9208 33.2454,179.1557 11.0818,223.4828 60.9499,206.8602 110.8179,269.6570Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <hasc>AD.MA</hasc>
 <fips>AN04</fips>
 <name>La Massana</name>
@@ -84,7 +84,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M112.6649,92.3483 164.3799,118.2058 164.3799,142.2164 203.1662,175.4617 210.5541,201.3193 284.4327,203.1662 301.0554,197.6253 289.9736,131.1346 310.2902,105.2770 341.6887,84.9604 367.5462,79.4195 360.1583,55.4090 317.6781,35.0923 308.4433,14.7757 260.4222,0.0000 205.0132,20.3166 171.7678,20.3166 158.8391,5.5409 131.1346,9.2348 110.8179,46.1741 129.2876,75.7256 112.6649,92.3483Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <hasc>AD.OR</hasc>
 <fips>AN05</fips>
 <name>Ordino</name>
@@ -99,7 +99,7 @@
 
                 </path>
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M282.5858,363.8522 247.4934,336.1478 153.2982,328.7599 127.4406,315.8311 96.0422,280.7388 55.4090,299.2084 24.0106,301.0554 0.0000,313.9842 46.1741,321.3720 60.9499,334.3008 66.4908,397.0976 201.3193,419.2612 267.8100,411.8734 282.5858,363.8522Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <hasc>AD.JL</hasc>
 <fips>AN06</fips>
 <name>Sant Julià de Lòria</name>

@@ -3,14 +3,14 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 2.3.1
+Map version: 2.3.2
 Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Cook Islands</title>
 <g id="admin1">
 
 <g id="NZ">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <name>New Zealand</name>
     <labelrank>2</labelrank>
     <country-abbrev>N.Z.</country-abbrev>
@@ -26,7 +26,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </g>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6471" d="M373.7,266.4 L370.6,268.0 L366.6,267.1 L363.5,263.7 L362.4,258.2 L365.6,257.4 L370.5,259.4 L374.5,262.3 Z M333.2,224.3 L334.2,225.7 L331.5,223.3 L332.5,223.7 Z M328.8,222.1 L328.1,222.3 L328.4,221.6 L330.1,220.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>CK.</hasc>
     <alt-name>NULL</alt-name>
@@ -51,7 +51,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6475" d="M191.8,95.9 L193.0,97.5 L196.0,96.9 L195.8,97.5 L195.5,98.0 L194.5,98.7 L191.9,97.5 L189.1,95.4 L188.0,93.3 L190.1,92.6 L191.2,93.7 Z M200.2,95.4 L198.9,96.7 L197.5,95.4 L197.4,94.2 L196.4,93.4 L196.1,92.8 L196.9,91.5 L199.1,92.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>CK.</hasc>
     <alt-name>NULL</alt-name>
@@ -76,7 +76,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.3583" d="M406.2,699.7 L403.6,700.0 L400.5,699.6 L398.3,698.5 L396.6,696.6 L395.0,694.0 L396.0,691.3 L397.9,688.7 L400.2,686.8 L402.2,686.2 L405.0,687.3 L407.3,689.4 L411.6,694.7 L412.1,697.2 L409.7,698.9 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>CK.</hasc>
     <alt-name>NULL</alt-name>
@@ -101,7 +101,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6470" d="M23.3,541.7 L22.9,543.7 L21.8,545.6 L15.9,544.7 L15.2,544.8 L11.2,542.8 L2.8,543.5 L0.0,541.1 L1.6,539.4 L2.8,535.2 L3.1,532.4 L4.8,531.0 L10.2,530.3 L14.3,530.4 L18.5,531.5 L21.8,533.7 L23.2,537.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>CK.</hasc>
     <alt-name>NULL</alt-name>
@@ -126,7 +126,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6473" d="M453.5,228.4 L450.6,231.7 L450.6,228.6 L449.5,226.3 L448.1,224.9 L446.8,223.2 L446.3,220.1 L447.3,218.3 L452.0,213.1 L453.6,211.7 L453.2,216.5 L453.7,222.7 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>CK.</hasc>
     <alt-name>NULL</alt-name>
@@ -151,7 +151,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6474" d="M535.8,303.5 L533.5,305.1 L531.0,304.3 L529.2,300.9 L529.3,297.0 L531.5,295.7 L534.5,296.7 L536.9,299.8 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>CK.</hasc>
     <alt-name>NULL</alt-name>
@@ -176,7 +176,7 @@ Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
 </path>
 
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="NZ.6476" d="M13.0,0.0 L15.3,1.9 L15.5,3.7 L14.7,2.9 L14.3,1.4 L13.7,1.2 L11.6,5.4 L11.6,6.2 L12.3,11.1 L10.9,13.3 L8.6,13.2 L7.0,11.1 L6.7,8.3 L7.6,4.0 L8.5,2.5 L10.4,0.4 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
+  <desc xmlns="https://highcharts.com/docs/mc">
     <labelrank>20</labelrank>
     <hasc>CK.</hasc>
     <alt-name>NULL</alt-name>

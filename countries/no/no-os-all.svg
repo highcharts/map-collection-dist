@@ -3,13 +3,13 @@
 
         <svg version="1.1" viewBox="-5 -5 710 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <desc>
-            Map version: 2.3.1
+            Map version: 2.3.2
             Copyright (c) 2025 Highsoft AS, Based on data from OpenStreetMap
         </desc>
         <title>Oslo</title>
         <g id="admin2">
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="undefined" d="M0.0000,205.3333 122.8889,205.3333 164.8889,245.7778 247.3333,368.6667 287.7778,328.2222 309.5556,339.1111 311.1111,337.5556 345.3333,354.6667 390.4444,364.0000 410.6667,373.3333 398.2222,384.2222 418.4444,434.0000 413.7778,451.1111 493.1111,491.5556 658.0000,471.3333 658.0000,451.1111 617.5556,410.6667 658.0000,287.7778 700.0000,287.7778 700.0000,266.0000 658.0000,245.7778 493.1111,185.1111 493.1111,102.6667 412.2222,62.2222 412.2222,40.4444 370.2222,20.2222 287.7778,0.0000 164.8889,0.0000 122.8889,82.4444 0.0000,163.3333 0.0000,205.3333Z">
-                    <desc xmlns="http://www.highcharts.com/svg/namespace">
+                    <desc xmlns="https://highcharts.com/docs/mc">
 <name>Oslo</name>
 <region>Oslo</region>
 <hc-group>admin2</hc-group>

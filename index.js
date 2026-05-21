@@ -1,5 +1,5 @@
 Highcharts.mapDataIndex = {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "Custom": {
         "Africa": "custom/africa.js",
         "Africa with SADR-administered areas": "custom/africa-sadr.js",
@@ -33,6 +33,7 @@ Highcharts.mapDataIndex = {
         "World with Palestine areas, low resolution": "custom/world-palestine-lowres.js",
         "World with Palestine areas, medium resolution": "custom/world-palestine.js",
         "World with Palestine areas, high resolution": "custom/world-palestine-highres.js",
+        "World with India disputed areas, medium resolution": "custom/world-india-disputed.js",
         "World with Taiwan, low resolution": "custom/world-taiwan-lowres.js",
         "World with Taiwan, medium resolution": "custom/world-taiwan.js",
         "World with Taiwan, high resolution": "custom/world-taiwan-highres.js",
@@ -485,6 +486,7 @@ Highcharts.mapDataIndex = {
         "Norway (2017)": "historical/countries/no-2017/no-all-2017.js",
         "Norway, admin2 (2019)": "historical/countries/no-2019/no-all-all-2019.js",
         "Norway with Svalbard and Jan Mayen (2017)": "historical/countries/no-2017/custom/no-all-svalbard-and-jan-mayen-2017.js",
+        "United Republic of Tanzania (2015)": "historical/countries/tz-2015/tz-all-2015.js",
         "France (2015)": "historical/countries/fr-2015/fr-all-2015.js",
         "France, admin2 (2015)": "historical/countries/fr-2015/fr-all-all-2015.js",
         "France, mainland (2015)": "historical/countries/fr-2015/custom/fr-all-mainland-2015.js",

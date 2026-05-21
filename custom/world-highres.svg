@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" viewBox="-5 -5 710 730" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <desc>
-    Map version: 2.3.2
-    Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth
+    Map version: 2.3.3
+    Copyright (c) 2026 Highsoft AS, Based on data from Natural Earth
   </desc>
   <title>World, high resolution</title>
   <g id="admin0" stroke-width="0.72" fill="#D4E6F8" stroke="#666">
@@ -3824,5 +3824,5 @@
     </desc>
     </path>
   </g>
-  <text x="50%" y="720" text-anchor="middle" font-family="Verdana" font-size="10px">Copyright (c) 2025 Highsoft AS, Based on data from Natural Earth</text>
+  <text x="50%" y="720" text-anchor="middle" font-family="Verdana" font-size="10px">Copyright (c) 2026 Highsoft AS, Based on data from Natural Earth</text>
 </svg>

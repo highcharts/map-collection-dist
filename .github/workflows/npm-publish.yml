@@ -89,4 +89,4 @@ jobs:
 
       - name: Stage publish to npm
         if: steps.version.outputs.changed == 'true' && steps.npm.outputs.published == 'false'
-        run: npm stage publish --access public --tag next
+        run: npm stage publish --access public
